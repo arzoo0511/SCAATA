@@ -1,0 +1,38 @@
+[project]
+name = "scaata"
+version = "0.2.0"
+description = "SCAATA: Self-Critiquing Autonomous Algorithmic Trading Agent (v2 rebuild)"
+requires-python = ">=3.10"
+dependencies = [
+    "yfinance>=0.2.56",
+    "pandas>=2.2",
+    "numpy>=1.26,<2.3",
+    "matplotlib>=3.9",
+    "seaborn>=0.13",
+    "scipy>=1.13",
+    "statsmodels>=0.14",
+    "hmmlearn>=0.3",
+    "scikit-learn>=1.5",
+    "gymnasium>=1.0",
+    "stable-baselines3>=2.3",
+    "sb3-contrib>=2.3",
+    "torch>=2.3",
+    "groq>=0.29",
+    "requests>=2.31",
+    "tqdm>=4.66",
+    "python-dotenv>=1.0",
+    "python-dateutil>=2.8",
+    "pyarrow>=16.0",
+]
+
+[project.optional-dependencies]
+agents = ["langgraph>=0.2", "langchain-core>=0.3"]
+sentiment = ["transformers>=4.44"]
+dev = ["pytest>=8.0"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["scaata*"]
