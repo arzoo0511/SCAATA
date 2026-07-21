@@ -17,6 +17,7 @@ from scaata.evaluation.stats import paired_wilcoxon
 from scaata.evaluation.walkforward import Fold, split_fold
 from scaata.features.normalize import normalize_data
 from scaata.regimes.detector import threshold_regime_labels
+from scaata.rl.llm_baseline import backtest_llm_agent
 from scaata.rl.train import backtest_ppo, buy_and_hold_equity, rule_based_equity, train_ppo
 
 
@@ -26,6 +27,7 @@ class TickerFoldResult:
     ticker: str
     equity: dict = field(default_factory=dict)   # method -> equity curve
     actions: dict = field(default_factory=dict)  # method -> actions array
+    sources: dict = field(default_factory=dict)  # method -> "real"/"mock" provenance, where applicable
     regimes: pd.Series = None
 
 
@@ -51,6 +53,15 @@ def run_single_fold_ticker(
     rb_equity, rb_actions = rule_based_equity(test_raw, ticker)
     result.equity["rule_based"] = rb_equity
     result.actions["rule_based"] = rb_actions
+
+    # LLM-agent-only baseline: no RL training, just asks an LLM (or, absent
+    # a GROQ_API_KEY, a clearly-labeled mock fallback) what to do each day.
+    # `source` ("llm"/"mock") is preserved so results can never be mistaken
+    # for a live-LLM finding when only the mock path actually ran.
+    llm_equity, llm_actions, llm_source = backtest_llm_agent(test_norm, feature_columns, ticker)
+    result.equity["llm_agent"] = llm_equity
+    result.actions["llm_agent"] = llm_actions
+    result.sources["llm_agent"] = llm_source
 
     ticker_test = test_raw[test_raw["Ticker"] == ticker]
     thresh = threshold_regime_labels(ticker_test)
@@ -122,15 +133,25 @@ def compare_methods_across_tickers(
     rows = []
     for r in results:
         row = {"ticker": r.ticker, "fold_id": r.fold_id}
-        for method in ["buy_and_hold", "rule_based", "ppo"]:
+        for method in ["buy_and_hold", "rule_based", "llm_agent", "ppo"]:
             table = regime_metrics_table(r.equity[method], r.actions[method], r.regimes)
             row[method] = table.loc["ALL", metric]
         rows.append(row)
     return pd.DataFrame(rows)
 
 
+def llm_agent_source_summary(results: list[TickerFoldResult]) -> str:
+    """"real" only if every (ticker, fold)'s LLM-agent baseline came from a
+    live call; "mock" if the fallback was used anywhere — so a reader can
+    tell at a glance whether the llm_agent column below is a real finding
+    or a harness-only placeholder run."""
+    sources = {r.sources.get("llm_agent") for r in results}
+    return "real" if sources == {"llm"} else "mock"
+
+
 def significance_report(comparison_df: pd.DataFrame) -> dict:
     return {
         "ppo_vs_buy_and_hold": paired_wilcoxon(comparison_df["ppo"], comparison_df["buy_and_hold"]),
         "ppo_vs_rule_based": paired_wilcoxon(comparison_df["ppo"], comparison_df["rule_based"]),
+        "ppo_vs_llm_agent": paired_wilcoxon(comparison_df["ppo"], comparison_df["llm_agent"]),
     }

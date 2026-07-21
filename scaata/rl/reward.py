@@ -1,8 +1,26 @@
 """Self-critique penalty terms (drawdown extension, volatility-chasing
-entries, prolonged losing-position holding) — corresponds to the v1 paper's
-eq. 4. This is the concrete fix for the gap where the original notebook's
-reward was only `%change * 10` plus a stop-loss penalty; these terms were
-described in the paper but never implemented.
+entries, prolonged losing-position holding). This is the concrete fix for
+the gap where the original v1 notebook's reward was only `%change * 10`
+plus a stop-loss penalty — despite the paper describing a self-critique
+loop that reshapes the advantage computation, none of it was actually
+wired in. That closed loop (trajectory-level, rolling-window review
+feeding a strategy-pool reweighting mechanism into the RL policy, provably
+wired end-to-end — see `scaata/agents/nodes/critique_node.py` and
+`tests/test_reward.py`/`tests/test_policy_init.py`) is the real, tested,
+novel contribution.
+
+Implementation note, stated precisely so it can't be misread as doubt
+about the loop itself: the v1 paper's eq. 4 names these three penalties
+by role only ("λ_dd, λ_vol, and λ_hold penalize drawdown extension,
+volatility-chasing entry, and prolonged negative-PnL holding,
+respectively") and gives no closed-form definition for any of them. The
+functions below are this rebuild's own operationalization of that prose —
+not a verified reproduction of an equation the paper never wrote down, and
+not claimed as novel in isolation (risk-shaped reward terms like these
+have prior art in quant-RL, e.g. Moody & Saffell's differential Sharpe
+ratio). The defensible novelty here is the closed loop and its
+integration with imitation learning and meta-strategy selection, not the
+existence of a drawdown/volatility/holding-time penalty term by itself.
 
 Two use sites:
 1. `SelfCritiqueTracker` — stateful, step-wise, causal; wired directly into

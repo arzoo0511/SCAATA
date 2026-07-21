@@ -64,6 +64,16 @@ This document exists so a skeptical reviewer finds these caveats stated explicit
 
 **Residual risk**: the cache is local and gitignored by design (avoiding committing large binary data to the repo) — it is not itself a versioned, shareable artifact. Anyone needing to exactly reproduce a specific reported result should archive the relevant `data_cache/` parquet files alongside that result, not rely on cache presence alone.
 
-## 9. Ethics / public-data framing
+## 9. Methodology reconstruction: the self-critique penalty formulas vs. the paper's eq. 4
+
+**Risk**: `scaata/rl/reward.py` implements drawdown/volatility-chasing/holding-time penalty terms and describes them as realizing the v1 paper's self-critique mechanism. A reviewer could reasonably ask whether these are a verified reproduction of the paper's eq. 4 or something else.
+
+**What's actually true, stated precisely**: the paper's eq. 4 names these three penalties by role only ("λ_dd, λ_vol, and λ_hold penalize drawdown extension, volatility-chasing entry, and prolonged negative-PnL holding, respectively") and gives no closed-form definition for any of them — there is no precise original equation to reproduce. The concrete formulas in `drawdown_penalty`, `volatility_chasing_penalty`, and `holding_time_penalty` are this rebuild's own operationalization of that prose. This is a documented design choice, not a rediscovery, and it does not weaken the paper's actual novelty claim: the closed loop itself — trajectory-level, rolling-window critique feeding a strategy-pool reweighting mechanism into a BC-bootstrapped RL policy, wired end-to-end and regression-tested (`tests/test_reward.py`, `tests/test_policy_init.py`) — is real and was never implemented in the original v1 code. Individual risk-shaped reward terms are not claimed as novel in isolation; comparable techniques exist in quant-RL (e.g. Moody & Saffell's differential Sharpe ratio reward shaping). The paper's defensible contribution is the closed loop and its integration with imitation learning and meta-strategy selection, not the existence of a drawdown penalty by itself.
+
+**Mitigation**: this distinction is stated explicitly here and in `scaata/rl/reward.py`'s module docstring, rather than left for a reviewer to discover or infer.
+
+**Residual risk**: none beyond what's already stated — this item exists to make an implicit interpretation explicit, not to flag an unresolved gap.
+
+## 10. Ethics / public-data framing
 
 Both data sources used in this rebuild are public and require no private credentials: `yfinance` (public market data, as in the original v1 paper) and GDELT (explicitly open, documented, no-API-key dataset). This preserves the v1 paper's existing "public data only" ethics statement. The Groq and GitHub API keys used for strategy scraping/normalization are read from environment variables (`.env`, gitignored) rather than hardcoded, correcting the credential-exposure issue found in the original v1 notebook.
