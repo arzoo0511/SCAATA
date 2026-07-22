@@ -29,13 +29,13 @@ The architecture diagrams use a few informal names. Plain technical translation,
 
 | Phase | Scope | Status |
 |---|---|---|
-| 1 — Data, regimes, honest baselines | Core | Full-scale run in progress (9 tickers, all walk-forward folds, 100k PPO timesteps, multiple seeds). Not yet complete as of this writing — see the notebook's own status banner for the latest. |
-| 2 — Multi-agent inner loop + closed wiring gaps | Core | Mechanism fully implemented and unit-tested. Full-scale run in progress. Strategy pool uses 3 mock strategies (no live `GITHUB_PAT`/`GROQ_API_KEY` configured) — the LangGraph mechanics, ablations, and RL training are real; the input strategies are not live-scraped. |
-| 3 — 3rd eye sentiment | Core | Query construction and causal trading-day alignment are implemented and unit-tested. Live GDELT access is rate-limited/blocked from this project's dev sandbox regardless of retry/backoff — the notebook runs on synthetic sentiment data as a result. Narrative generation uses a template fallback (no live `GROQ_API_KEY`). |
-| 4 — Mixture of experts (calm/stress) | Stretch, lower priority | Full-scale run in progress. Explicitly the most compute-hungry, most caveated phase — read its small-sample and gating-fairness notes before trusting any single number. |
+| 1 — Data, regimes, honest baselines | Core | **Full-scale run complete.** 9 tickers × 9 walk-forward folds × 5 seeds × 100k PPO timesteps/seed. PPO beats buy-and-hold significantly (Wilcoxon p=0.0021); not significantly different from rule-based (p=0.833) or the LLM-agent baseline (p=0.209, which ran on the mock fallback — no live `GROQ_API_KEY`). |
+| 2 — Multi-agent inner loop + closed wiring gaps | Core | **Full-scale run complete.** Mechanism fully implemented and unit-tested. Robustness test confirms the self-critique loop down-weights poisoned strategies (mean weight 0.667 vs. 0.500). The ablation table is a single seed/ticker result — read as evidence the mechanism changes behavior, not as the performance verdict (Phase 1 is). Strategy pool uses 3 mock strategies (no live `GITHUB_PAT`/`GROQ_API_KEY` configured). |
+| 3 — 3rd eye sentiment | Core | Query construction and causal trading-day alignment are implemented and unit-tested. Live GDELT access is rate-limited from this project's dev sandbox (confirmed live via direct API calls returning HTTP 429, even with 6+ second spacing) — the notebook runs on synthetic sentiment data as a result. Narrative generation uses a template fallback (no live `GROQ_API_KEY`). |
+| 4 — Mixture of experts (calm/stress) | Stretch, lower priority | **Full-scale run complete.** Gate accuracy 0.884 vs. causal labels, and is structurally confirmed never to see the true regime label at eval time. MoE finished at 9,486 equity vs. the single-policy baseline's 10,700 — a real result, but every regime row except `calm_bull` is small-sample (≤34 days), so read it as illustrating the mechanism, not a validated performance claim. |
 | 5 — Research rigor (threats doc, agent comparison) | Core deliverable, no training | Threats-to-validity document complete. Monolithic-vs-decomposed agent comparison harness works end-to-end but currently runs on a mock LLM weight (no `GROQ_API_KEY`) — not yet a real finding. |
 
-"Full-scale run in progress" means: real ticker/fold/timestep counts, not the fast smoke-test defaults each notebook also supports. Check each notebook's own status banner for the most current state — this table is a snapshot, not a live feed.
+This table reflects the most recent full-scale runs. Check each notebook's own status banner if you re-run it yourself, since re-running with a live `GROQ_API_KEY`/`GITHUB_PAT` would change what's marked mock above.
 
 ## Running it yourself
 
