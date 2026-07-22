@@ -34,6 +34,7 @@ The architecture diagrams use a few informal names. Plain technical translation,
 | 3 — 3rd eye sentiment | Core | Query construction and causal trading-day alignment are implemented and unit-tested. Live GDELT access is rate-limited from this project's dev sandbox (confirmed live via direct API calls returning HTTP 429, even with 6+ second spacing) — the notebook runs on synthetic sentiment data as a result. Narrative generation uses a template fallback (no live `GROQ_API_KEY`). |
 | 4 — Mixture of experts (calm/stress) | Stretch, lower priority | **Full-scale run complete.** Gate accuracy 0.884 vs. causal labels, and is structurally confirmed never to see the true regime label at eval time. MoE finished at 9,486 equity vs. the single-policy baseline's 10,700 — a real result, but every regime row except `calm_bull` is small-sample (≤34 days), so read it as illustrating the mechanism, not a validated performance claim. |
 | 5 — Research rigor (threats doc, agent comparison) | Core deliverable, no training | Threats-to-validity document complete. Monolithic-vs-decomposed agent comparison harness works end-to-end but currently runs on a mock LLM weight (no `GROQ_API_KEY`) — not yet a real finding. |
+| 8 — Live paper-trading forward test | Stretch | **Real, live, and running.** Connected to a real Alpaca paper-trading account (simulated money, real market data, real broker order acceptance). A frozen policy has placed real orders confirmed accepted by Alpaca (`OrderStatus.ACCEPTED`, real order IDs). Idempotency-guarded so re-running the notebook never places a second real order for the same market day. This is what used to be listed under Future Work below — it is no longer a future item. |
 
 This table reflects the most recent full-scale runs. Check each notebook's own status banner if you re-run it yourself, since re-running with a live `GROQ_API_KEY`/`GITHUB_PAT` would change what's marked mock above.
 
@@ -50,9 +51,10 @@ Open any notebook in `notebooks/` with the `scaata-venv` Jupyter kernel. Each ha
 
 ## Future work
 
-Two pieces would be the strongest possible additional evidence, and are deliberately not attempted in this environment rather than overlooked:
+One piece remains genuinely out of reach in this environment rather than overlooked:
 
 - **Live GDELT validation.** GDELT is rate-limited/blocked from this project's development sandbox regardless of backoff strategy. Re-running `notebooks/phase3_gdelt_sentiment_thirdeye.ipynb` with `USE_MOCK_DATA = False` from a network without that restriction would replace the synthetic sentiment data with real news-market analysis.
-- **A live/paper-trading forward test.** The strongest available evidence against look-ahead leakage, since the model would have zero opportunity to have seen the data during development. This needs a broker sandbox account and credentials that should be set up by the project owner directly, not automated.
+
+The live/paper-trading forward test that used to be listed here is done — see Phase 8 in the status table above and `notebooks/phase8_live_paper_trading.ipynb`.
 
 See `docs/THREATS_TO_VALIDITY.md` for the full list of risks and mitigations across every phase.
