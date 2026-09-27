@@ -1,0 +1,414 @@
+{
+  "symbol": "HDFCBANK.NS",
+  "date": "2026-09-26",
+  "headlines": [
+    {
+      "title": "Bank strike: Will ICICI Bank, HDFC Bank, Axis Bank and IndusInd Bank remain open?",
+      "source": "Fortune India",
+      "published_utc": "2026-09-26T05:33:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbW9YSHlXbnRKZDlpR3JtMmhWRjh3eUZXaDcwdk5BN1pDSldLSDRNd2EtSnQ5UjBnNWI4dmh0Wjc4eEFoUFp3S1J0VW94YmZUNzBybm54Qm81RVpDS2dieXZCOFhTNW1XQVR3QjdGbXlnSWc4S1RrVjdGN1hIeFdvRTZ3czZSWmQ1OHhVWmh4YTEwdVdfREd3QWRVT1lJU09vekNYa0dJS3pUN1RTRzRIYWVPc1djcE9INWtEcnZlX3E0N2xzV3JveS1VRHhjVFlBWU1ZdtIB4gFBVV95cUxPZ05HRzVIYmN6T3Y1N2VMYWZVV1hTQXQyRUhNLW1XN19DVDh0LXZtNmJJWFpFRlZOam90VDlCOVU0YXF6UlVfY250YktTTlBCX3NxUnVLWHFIcFplTjZkN1cxTmNDajRWTndkYWJrOHVkUW4xZjNHTV9NWDBWSnNtWnJrVmFITXFZa2hQenl1bk53aWxpNGdVc0taY3ZOSTQyZ2ZaVFRRNExpZUZsemJNNnNvM3pXdjVNUWY4NDZWd1laZmRYX1M0a3RkWjBHXzh2ZjJIckdZVHpOZ3ktX1Y5cllR?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank strike from September 28: 11 latest updates for govt, private and cooperative bank customers on Sept 26",
+      "source": "Upstox",
+      "published_utc": "2026-09-26T05:31:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPN2NKYkFpTnBNbHk5b1g1MXNLWDBaRmlFdnVyX3BxWjNwVVp6bEZzbDlwWmVZT0x3YWxCRUVXR0NCUHBsZVl2d240d09OUmRKYl9fLTI3dGJQZUNJRFJScXNpcE9NcmtRdEhYN0JoSTFQdTlTWGJuc0JaTU9FcDVJaWFJRzJkeS16a25wR1oxUGVYRnNYVGJsa0U1UFpTUjNVVXNPQUE1Yndua2tLSFY0U3lkR2NGdUlwb1hxRlhCb01mcWVEYnJkZHR5VndCMTFhV2pESlkzSEtzY00zRkN1V3I0VU44dzdZX3lObFhqSFltRGNHczFuczYwbGZ4WGhPbDVlU1pGU2V1dw?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday On September 26: Are SBI, HDFC Bank And ICICI Branches Open Or Closed Today?",
+      "source": "NDTV Profit",
+      "published_utc": "2026-09-26T03:27:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaU1qamMtcmNjNHUwamF3OVBFSjNldF84Vnl5QlQtN1NNTzdTdnFuZXNCSHRPZGk5eFhEZVgyUWFBWnhBNnhxZi1tTm1yU1hYbUVYWWRsX3lpMl9kb2lhTGdvSjBUX1NaNkFoTERvRllfeHlxblBuNlVhQVFlQlkxdGpteUw5U3dIN3Foc0RNem10TTRRT0VGdFduazktck1EdmJ6cWpwLVo3N1FOSkxKTjZkU0FHaVItMi1hVFBMZlljQldvT1Aw0gHPAUFVX3lxTFB0TjZyMHFyZE1CRlJINkNUM1prMHpLa1g4c05ZMVZhNDVzUjRrVTViOTA5aEJpRi1rQU1CUHdUb25lRmNjNHQyTi1tcTA4dlFTUWxvNWlmOU93NTNRWWltZkZyOWRqWUxGOGZ2Y2d3d01rSlJmaE0zZ2dpekFtazVlNndhYWYtQUthRXNvZ3dKcGhQVzQtMzJCZHRaV2IxZ21LUmJUaHVlUGZBelV4S3ctV2x3enMybTNpV0I0cXhBSWItaWd6U0E5Z0R2YzRyTQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today: Check if SBI, HDFC, ICICI branches are open or closed on Saturday, 26 September",
+      "source": "Livemint",
+      "published_utc": "2026-09-26T02:04:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeTdGTEllQXhZM29iaVdLOUlrVXprN0xmb0VLSGpIajJPS2VHb2s3X0R4aU9oNW9xdDdTVUNOa0lXOFktempxZ3FyTExZejdXT0RQaHVINUc1UDZxSS1HOExzMHY0NjJnYzAxUFBBcDdCVUxZeC1zOUNKXzlPYkpFcm9ObDgzQjJCOWx5QkxDcFJqRm15Zk5CZmxRMUljbFVTMEZFNnlxQTRzMldRSDE1ajZITlMwdDBmNWJucWxDS2VnaWRvQnJBUlBhaWRwT1JqVXZCcnFQR2NXdEJ1ME92MVZvTEpCM2E5anduNU9HQk1ZV09LWXfSAfsBQVVfeXFMTUR3WVZHTGNoZHRFaC00bmpuOHhnWkhMMWY2QW9nNHlHdnRrRk5FWTVSNzQxalBsYmJYRC1tQlJkYlE1TkpyaVhydGpVRVdoRUx5RDk2SUVjZS05RG1BOFVuVmtzTVdTNW9tMWtwa05UVUgwWklMRWJJTnRTcjVSUVhadURZWkRVOWhqZWJUYnFPenQxd3d3bEh3dWVSeWxQODJORXlXWnQtRjFHYklxREZLcUtEY0ZEa3R3bnM1VnVJWXZPS0p1T3dGYmNPSTZpdU9kX18yUW9Db0ZHWkFYeDh1YUVmeS00UDFRMWpRSmRPNDBHSXBKb053anM?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Limited Securities Fraud Class Action Result of Deceptive Interest Payments and Approximately 4% Stock Decline - Investors may Contact Lewis Kahn, Esq, at Kahn Swick & Foti, LLC",
+      "source": "PR Newswire",
+      "published_utc": "2026-09-26T02:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQWlMyWXJMdXp5bXB5dkI1ZXg3VTBsOUZ0eXJVM3hLWU1EQ2JkUUl6Sy1aek5saUQyTzB6UkZWMi1xTElxT3hlYnFfWHNkU1AtUDhSN3NvSWk2VTlTcTJDUVNpdFpadElzV1BkX3M4SkdyOUhKS1FMY1ppX0hiRWRXQkVFUWkwZlJPdlcwaFhDUTRVaGpnUnlsTlpDWmdJVzk1M2xBZDdiaFZ1THdoeE00U21TY3BrZGMxbWwxcHYyTF82WFl3dk5iNTBxTUMySDZwWENlVGVVNDRDWkItZGtKT25DT1Y5WVVCN2FFN0tJUURIUFhHUU4teVRFMXJDbUYxTFZ6MnpEZGtzMlNpUzYzdnNrYlRqQ2xpUHV1cW1HaUU0am13T204VlZoajROVWRWTDlMZm5LdXhpN1lIZUhKY3ZHSDZMQk5GX0VoNC01NWdONFJxNjE4a05n?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Records \u20b960.11 Crore Block Trade on NSE",
+      "source": "scanx.trade",
+      "published_utc": "2026-09-26T01:53:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZERlZGpYRmhJazkzd2hlUGl0OFFWWW9oa2ZxbGg1VU15X0p4NUtuaGJ0VmlISm5wZVI5NXMwZm80czVFREtRakVyMzlzekE1bmdUWmlSUVZrZko0a05rWUVnY1NaT1pMUHZLb1BpWkthOV9CcVlmU1ZqNk95UUNoc19pZzBVcE5aZ1dZblpVaE5ZWmk5WFlkWlJSRGlVbGxUbTlobDBYYWtmT2dhVHc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Faces Whistleblower Concerns and RBI Issues Amid Senior Management Exits",
+      "source": "scanx.trade",
+      "published_utc": "2026-09-26T01:51:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXp0TU9WVjFMaXdhN2tnOC14LUNaNkkwN3ltYzZRbDdDb3pWcmxRcWUtQnNjNUlXeF9vUFZaWEtnQUVkRFF1eUpJUm9JVTBaN3lwYmQ4STdnT3lXWEhZeDlGWWk2ZGF6QVh2b0hISk9rMzF5QkNhcEJLaWpHN0l1S2RZVGUtQlFWVjZzcnVRbTVkYjZMN3NLcjRIRk0wZWhHQ3pWeHBoNy1ncUlENVpqR3lVVDJvSzB4X0ZPMkZNNUkxVXNMUWVPWGJoakRsNjZRRFE?oc=5",
+      "relevant": true,
+      "sentiment": -0.8,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDB INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Reminds Investors of HDFC Bank Limited to Contact the Firm Today!",
+      "source": "ACCESS Newswire",
+      "published_utc": "2026-09-25T20:03:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSm0xeFVmRmJraEZjbUpFWGVIaWFzeHQ5MGs4LW04R2hhRlc4WWtZSzZ1TV91S0x4cTV1UDlhZ1p5VF93VjlwQ1JMbDRNTTZscU9LeGQ0SXFGMXpsQUJmZHdESUtUd1c2ZFNPMndFSkR4cW5UNldXYjlZb2I0Nm5vSG5WMFdHUFp5SVAyc1BjTVhOd2pTeVZjMWJiRmJVLTlOdDlrdTZsbWtVczJVbXZScXgycWZNVDVNZ1I4cGpxaS1sTkJvUzNjajk3UXFyYXFuTVBNUzRYRmV0SzJQRHlDVHoyZG4?oc=5",
+      "relevant": true,
+      "sentiment": -0.7,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Lost Money on HDFC Bank Limited (HDB)? Urged to Join Class Action Before October 13, 2026 - Contact Levi & Korsinsky",
+      "source": "ACCESS Newswire",
+      "published_utc": "2026-09-25T19:46:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORGp1ZjI4Nk84NHp4S0hiVDc4dzNBUFQyRmFMWEdFX2s5SEhJUkFvWWJqaHFFWFF1MlYzQnFBelROYjZUQlRCcnBwcjc3WldJNDYtT3hxSjVISHdpWGk0Z205QWw2VjlaZzg0WXR1aUFNaVZxc1lZdDlQbGRqYWZPZGdmRmVWcFFuUU5VaXFxSVA2MjdMZG4wcVdtcWhvZldIMk9nMjh1QlpLc1I5TEYyOGZEbDB1Qlg1c0ZZZTFBUTlRaTN4Qkt3VmFGQTBoVHJQTWx1WWpaeGdLQ25NSDBJaVZRaUE?oc=5",
+      "relevant": true,
+      "sentiment": -0.7,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Limited (HDB) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "published_utc": "2026-09-25T17:22:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OR1M3THRtTERvWDhiSGhfemR6Q0xDSUQwMVFpZlNFMWh6LU1FV1RnZGlONW82UTFHVkw3bGtfVkZDRWMtSHVtYzB3QmdXSzJI?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart",
+      "source": "Upstox",
+      "published_utc": "2026-09-25T17:20:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1haXVDV2V3Wm5yQXBKZFJjZjkyQ0syd3BZWnRJZmo5UEdhckVTeTViZWtfVnkyRF9LVGRwSXZwMEo4Q1lUSDZfUzFlQmM1bEJhaFZEMXhSRHQ3S0h0THNBdXBB?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "2026-09-25 | HDB INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Reminds Investors of HDFC Bank Limited to Contact the Firm Today! | NYSE:HDB | Press Release",
+      "source": "Stockhouse",
+      "published_utc": "2026-09-25T17:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDZ1NS1yd1BPaXA5YzlZOXNKZjNoSFQ5RWoxM0drZ09SYzFuRXQ3NjExeG5qYmdhRkRHUS1ITHpxLUNkMjlJZkNTOVZhZFRlODY2Mk1PSmxsMFVrV3J6b0pPV0dNM2ZwNURhS0dxNUNCWGRCdldOOHBkTzBlX3l6ZEtvZkxQa21Wd2J4M0cxNnZjRFZXQ0RhTGJFRFZkaWdrU3RmM1EwYkJFdEpDZVlKVnh5TmZ1ZTRxaC1la0hEb253TU1ydFUtVExlOG8tUQ?oc=5",
+      "relevant": true,
+      "sentiment": -0.7,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDB ALERT: Hagens Berman, National Trial Attorneys, Encourages HDFC Bank Limited (NYSE: HDB) Investors to Contact its Legal Team Regarding Securities Fraud Class Action Lawsuit",
+      "source": "PR Newswire",
+      "published_utc": "2026-09-25T16:04:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPcHdldFRUTEtxelQzb2ltYzFqdDBzTmRONVpqUW1paF9TOF80Z3JKT3hGNG4wUGpxa3RfWkliX3lVR1p5MmdSUkx6QkpvZm1GbFhXc21oNnd4U1pCZ2o3WmZGNWpfOG5MUEhXMmpQak1TTzFhQ0lPNmhWdnNHN1kyd1pNWHNkeUN2WnhFVWgtdzh0Qll3VlFrSHB5WkwzMWo1N1Z4MDJ0RDFadXFSMUIxRGlqSnhZX2dHQmZpWFM4S3NZSzJqQVpFUV9TUGdrSWJaN2dtZE5zRnZ3a2ZvelllNVRhVGZuUUtoSmdJWklXUWY5WTNEZFZhMEVweUh2WDByc3FMOGFhTC1wYndvOC1GalExZm9SZWxsZTVLVFRzcnFScHFkSURJQTNsSldCMGhxV0JxVDJFdDNLT3lDV2lpeVBNQ0hRaXZ1UkE?oc=5",
+      "relevant": true,
+      "sentiment": -0.7,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Enkei Wheels Profit and Loss Reports",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-25T15:20:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEhVblJUOUoyRXJFTGRqQWJieXRGSlZadlZucHBoSWJWRzgxWmt5SjJJUHlYRlF2OTdkVDc5M2laUGRxU1k4RjBVOHFlVkFKZ1M1YlRoSERORG5IcFA0QkFMWFpBQkFObm0taTZwWUV0TUJTLW9oSkw3ZTlNQ21ibEl3N2wyWEM4OVQtTE1MRXpybF83ZjI1eVFWcw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "No Specific Happenings, Practices Brought To Our Attention: Keki",
+      "source": "fintechbiznews.com",
+      "published_utc": "2026-09-25T15:13:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFg5YkhrMjh5MktLakVXRkNHb0lkWG94eGhWOGUtajIwbTBLeTltSVdOVjM2aTNZMENzaGd0Q3l1c04tdlZtMkJmU2Z2am0xdHM0eE8zVTVTOE5MRHRGY3JJX0t4bVUxZkw4WkVERnFzdk9WYnhBa0NIVTFRZE9sYko1ay1OVHFLUmNydzF3cFdLblRac1l5U2k5MzhjOVBfc1JPVzF0Z3ZTX3c?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank (NSE: HDFCBANK) Up 1.26% at \u20b9738.10: EMA 51, RSI and Q1 Numbers",
+      "source": "Kalkine India",
+      "published_utc": "2026-09-25T15:12:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ3pQSVZXRFY3SnBLb0gtMEV2UmRxUjN5VGdvSWdTaGM5UTNaTEJCRjhSRDFRMmQzNEdjc2psZVB2dzNTLVZ2d05leWNsRWJwSlJBZW9UcUJwY01MQlk1QTBJNkRYc0hGd0dJRXIxVXRHOGx4U2tMNWNCMXphWHFHQmdwaWd4eW8xQU9qMGpRdGVIb1lQR3p5bkJnOXZvUDVmTjRqLVJXNWR1TFJLZFlmenE0S09LazhVWWxBUnFSc1BTWEMzOUIzTQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Half Yearly Results, Half yearly Earnings for Athena Constructions",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-25T14:51:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkdiZV95NnJCV3dvamJwN0dFNmh6QW1jOTlLZG1EVWhUVGl3RWJQUkstSnBrNk52WUtDY0xlYkIwYXI3OXZWcm5JZHYyRnE4YWlzQjJZQTQtVjFrNTNvYWJMWmp2cUw4RThPNlp5QkJ5TENUTEtOWUpLZFg0Tnh6YUc0VGtoX3BpMHh0cmV0Z1FWenY5TzFBbXpn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Down for Week",
+      "source": "MT Newswires",
+      "published_utc": "2026-09-25T14:41:23+00:00",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144123090.html",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Limited (HDB) stock price, news, quote and history",
+      "source": "Yahoo Finance UK",
+      "published_utc": "2026-09-25T13:53:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IaFVMdkg1ZU8zRHBxUVhHcHptWWF6WmNCNDRDYXhBVDIyVHQ3ZVpTMG5jSVNNRU51NDc0ak5FVk9tNnMwcDFHWmdlSFVhUURO?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Credit card spends growth slows to 5.5% in August; SBI Cards share dips",
+      "source": "Business Standard",
+      "published_utc": "2026-09-25T13:32:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNczJXc1JKLUZiSURDb2JnN2I2SWxWV2xPdTgzM0JsVURDdGtWeGlXLVNJaWlFLVFORllmcVQtOU05SVNDWEM4N3VpbDYzRVRFSFZBRXlnZmxUV2NqQ0g5N3FrWVdHNXdPb3p0M2c0ajhHeWRaQlY2MGp5c3UwQVpIYnpWTWxoNmtrQnR3c2praVI0YTFGZGgzY1lCcHVuQVNRbm1McFlseFU1MWk2MGtWY0cwLUkzNFdhMkR3ZXVGVm4tc2NaUDRUU0h30gHPAUFVX3lxTE1LX1IwWDVUZGtGTVdZa3VuZVJTV3hfenV3a05IdUtsMkdjd2MzVzR6Z194Vk1rS1lfR3JjYUNkYUpVNFFid0VUQXB2czZCVW56ZGtlSVkzQXI3SmlxYW4zcmZPNHZuTHdmOThQMUI3OWdBMkQzRFRtVkVmaS04eUNPUGR4ZThZUWJXSmRyNEJTeW1ETDJGN1NFRUV4QWlJaUM2MjU1N0ZrWFFzcWFVYTI5eVhTWXZMSHZrYlhSNVlJVGZhby1zYkp6OFdPdXhQNA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Kaplan Fox Shareholder Alert: Deadline to Lead in the Securities Fraud Lawsuit Against HDFC Bank Limited (NYSE: HDB) is October 13, 2026",
+      "source": "theglobeandmail.com",
+      "published_utc": "2026-09-25T13:15:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNTnRGMHE5c0VpeGVYay1STlM2bE9qeGdLc0szamtVSm93eTJWYnlrQUtuQzU0dkNFSVBxT3NtWnNNcFI0OVhnbzJod2J4c2RtRGgtZ2FiWllNQWRVVVczcmZFcEZ1dzhETVpIOW5LN2dVUVJVZ0p3V0JvSW9qakxXejE4eHdaQ3JrY09SSlhaZTBsNHVjRFhpTFNOTTRTT1ZxTEFDYnJDYWw1NDNWSl9IemFjN3BFR3NJQml6aFpHX2UzUUlCa2F5aHNHMFYwX2paT0dzWVhlNjd0dTZZVkdwekJESUNMU015MFNVTmxsc0RvLUwyeTBZMnkzNy1TX0R0Y2RpTUUzWWtOYWtsblZJY3RRWEdnTkp3MEFmOFVvMWhRLVAtTV9rNkRLMVNHRFY1LXJaaFFoUnU5VnBaSWc?oc=5",
+      "relevant": true,
+      "sentiment": -0.7,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Lost Money on HDFC Bank Limited (HDB)? Contact Levi & Korsinsky Before October 13, 2026 to Join Class Action",
+      "source": "ACCESS Newswire",
+      "published_utc": "2026-09-25T12:26:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVTREajI1c3hueXJrNEJvVUN4TUhrX0V1bHoxTG1DVFJJMkM5cVRWdUM3X2ZRTmhPR0Y2dlFhUUM3cWR3a1ZXYm1MSWtacUd4NFNmTFVSeVd2c0tMUDJmdm5zTkFqd1BWVE9HWTdWZTlNTG85bGh2NlVtbi0xcDdtTWZjTFR4VUxGNF9PT1lXbjRNR2QtQWxSMWQ1UEt4R0FyVk1NcVlQUi1hekZvalF2c3lUUTdZQVdHaFdVbFllalZ4N3pEVDlRaU50eHFuanVIOE5pNmdJMUhTVHdHT1JXenBVejU?oc=5",
+      "relevant": true,
+      "sentiment": -0.7,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Share Hits New Low, M-Cap Drops By Rs 1.10 Lakh Crore, ADR Falls 7.3%; Why This Big Bank Crashed?",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-25T11:08:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVTR6YXBYMDE1dG9KYl9PbXZXTEt4R0VSUjJ4aGR6dTBCV2NhT0J5aHJOQUlEY2xyaDNhZlM5aHpUczVjYTR1YjVySlR4aWJtSHFsRy1NY085QllUdURQdDJCNjc0R1F1YmxVdWhORTE0Z0g3Z0hKNGRGeW1LYkFuZF80NmdNamNXaDNwRW1aWFh4TUxGY19lbEhLcjZ6REpoQS1uS2pObDlrS1VVOWN2NVY3cFg3cnZvcjdQU2JoRGxaTDVsSzNHRVdNdXd3VnF0ZVZYY3dxLXp1aHUxNkE?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "News by CNBC TV18 on TradingView, 2026-09-25 \u2014 cnbctv:d6bfe3bad094b:0",
+      "source": "TradingView",
+      "published_utc": "2026-09-25T10:59:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jbEtmODRjT1RwbEFhWG5pdWc2Q2tWNlpHdHN1U3pIdXJzWm1HaGlNdGxocGVLM0NWVmdQWkg2akxrN3E4VTlyZVJLTTctQjN5U3NiYmROcGJ0Q1Q5Y0YxZEpfOFVvZEU?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Prediction for Monday: 28 Sept 2026",
+      "source": "Univest",
+      "published_utc": "2026-09-25T10:50:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQU9TTXhzTHpfX1FVdnpYc0VVZTdoUjR0eExxMHk4T1Z1dDRRLUhJVlpMejhyei1zZWRoY01ZSGVwYVByTW55TUFldXVMRFBWd0dURDZnTkJvRGQ5MHNwU2ZCTDVSdGQ1eVdXS19BbV9iS1lyeVlYeEFpQTByakJUTnlVLWpNNmttQ3FVRmRtdw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank rises Friday, outperforms market",
+      "source": "MarketWatch",
+      "published_utc": "2026-09-25T10:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWF1cFlycE9ubU1EbDVBZFlqY0VJSHd2OU1WazU5YlZxTWJHVW5yYmVVZXZqYVhQMW5DM2tUTmVKWnVQNVRLck9mRzhwRnVMWkxnRVFKSlVaZzh4Y3lHMTFvLUFvQjR3YmRFT3FzZklxTG45TGlJby11YjEyNDAwUGttZzVaQUVBRXBWUnJnQUg5eGx2ZkE3eWJxTmtYU0I1dHp1NEpVNzk5LXVuVzlwYXNDQUlRUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SENSEX surges 315 points, NIFTY50 ends above 23,100 led by HDFC Bank, Axis Bank",
+      "source": "Upstox",
+      "published_utc": "2026-09-25T10:19:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSExZWjVHTzZGYlZTR2VwSWlhTTZsYTFMbTlWV0V1SHZBZ2JSNy1UZGF0elYzSVFHNUhVdzJQZmxjRmFBQkNCRjZUb0huQWx4bUhMM0dzbEtDbUZlZ1o4dVRzSVR5LTdlbndTbXRQcjlDNDVMOVpDMnJKVW9uTmlEcmJSNUlvaVBaMGNuWW9ITmhJU0p5Z1ItOXdKSmNpTVZmYV9XZzlMUkJHcU9rejhaSXQzNDN3ZDQtNDA2eTdfbUFJNmRvd1lWQVgwbWZyT0VnQUx3?oc=5",
+      "relevant": true,
+      "sentiment": 0.6,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDB Investors Have Opportunity to Lead HDFC Bank Limited Securities Fraud Lawsuit with SBS Law",
+      "source": "Black Hills Pioneer",
+      "published_utc": "2026-09-25T09:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNWhpTlcxUmRYSWFGaUxWMl96OVpuT25PUkg2cDRxZTF5TjluSmFOclBuaWNYd0paWTItM3FLUHc2LURGUmp4QVhBZUZFeVNNZlBfZ1gweklxbFdLSnp1QmczZC0zTnJHYkg0WFlfSGhndkd2cnVWaTRkeGF2R3FJZ2VUVEJrQ3BGa3pIaWh6cGNRR2dsdHFKRTgybFU0dlluNjFSN0hieE55RXlQZG9PaTFheWRrM2JnMlI4QlVwSEEzdE1HNjJxV3owc083M3RuZ1RYNk1NLUVxbE14SVBWT1VXLTh2ZHpOSmM0bnhDUWNsMEVrNUtvXzhSdjNVUmdjOGhKSlJJV0FEMkxibEpIOGln?oc=5",
+      "relevant": true,
+      "sentiment": -0.7,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Asian Star Co Yearly Results, Financial summary, Asian Star Co Yearly Earnings",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-25T07:37:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVlqaF9PSGNUZE1CN2hWcld2OXBmTEIzMnBaVnVRYWZOcE1VSGRiQUlySl94WHM1M3RzY3ZoOFJOWmZMQWMzTG15MmZRMUxtc3JiOE54eUduY2JTRzZra1lLYWpzaXYwN0JOOTI5NW5wMEFjT1gwX1JUZFJYalZ5cWRKTENxd3FPQWRBaTQzdHo?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank To Issue ESOP Of 19 Lakh Shares To 'Employees' \u2014 Key Details Inside",
+      "source": "NDTV Profit",
+      "published_utc": "2026-09-25T07:30:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXFzVXQxb29DWXVNRXUwTHVGaTR3RDNvWkNSVEJtczQtdmJMNGZjc3ROdFlkNHYzMjZ2QXp2ZmNMMEdVa09ZampIazgxU1RTTlZGVThBSWdrc2ZobGt1cnNCRVQ0QTY4OFVhalRYVkowSUVZdG9XWnA2dW5Ddmd3bkpjdVNsMnpnRTdHYXQtUFhkLUNYVFhHRFJsNVk2dWM3a2RSVHZsUE53ZjJXT0tMOEpDR1cwc3JYY0FCRWhkNTdyMUtiVGlEdFNnRFNBdHNkaGlJ0gHbAUFVX3lxTE5UdGc0OGhZc0ZXcjVHRnYzendnUFZCOUhwN3lmWHRvaTBEWWlrbURISU9WSkZuTWZtbmh2cGZJQTI1ZDk4V3Z0cW5lU21LZzR6OFVlMV9vTFVEZ1ZEOHZDaC1kWmFnamlPV1FWXzhSYldsd2FFTE1HUk11SkdGQUNUNjVJcnBNTmxFNHdRUzlheHI4eFdqSk5TN09xVGdVMUgxU093NHd5cG9zaGRwZHdXWllldldZUTFSbXFsNTNuakN5SExJX0lnSmlRX2F1OGJydjJWbTlTTWZUcw?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank ESOP Share Allotment: 18,97,180 Shares Issued",
+      "source": "Kalkine India",
+      "published_utc": "2026-09-25T06:49:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcXJibGdvQ005NFQwem5QcDc2ZXFMczRFT29zUXdTdXNiRHpMLTBMaVl2YTlKTGszUHp4N25PSGdBaXhDMEJCdk9Vc1I4QnVacnJ4dUNEeE9JTXhVSnJobUh5b0RuUnRPbTBtQnpfaHdSY1BSZHV6cjZQQS1iWTdxT3hDbDA2T0wyb19ET3RoaXZmNS1SYTRGV0VrUk1GWk90MmMwbFczQ2F6N0N6YlNuX2J4RTFDMTZ5dkZTbU5pT0owNFlkRUE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank\u2019s losing streak and SBI\u2019s dream rally have run their course",
+      "source": "The Ken",
+      "published_utc": "2026-09-25T06:22:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUw2bk5mRTVlSUxGaGhyR21nWlprXzljSEhRWVcxWTdTVzFjV3hJaC14ZHFjcVRsd09jVVRIU3VFRmtRbGZ1cUI2aGxTMWVPeGtJemZNM29zZWI0Y2NkZ04xbGVVX1hJa1VoODg5VTUxSG10VnFzSjBUdlJvZzFQYi1fVl9zNWU5Wmd1eVBOWHZvcU9mS1dsVmF5d09ZY2RXWGxqOFByQjc?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares trade flat, Q2 results in focus",
+      "source": "TradingView",
+      "published_utc": "2026-09-25T05:53:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM092QTEzdjlvMjltLTJNRk12bW9VY1VWQjUtdk40aUUxU3BLQWdPZExscmFILVlONUVEOGlrMFVBTmI5SGY5MXlpN3lXbXRveWg0MWUxZkxxSWxfLVlLYXVjaVpUYmFHQlJ3X3IzUG9acGd0cnVXMEVEM3otY2xGRFNrTmptVE5kM09GdFl5UEx0MEpNYmxtWE12S3N1WTZhdmhQOUp4NA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares trade flat ahead of Q2 results: What\u2019s happening?",
+      "source": "BusinessLine",
+      "published_utc": "2026-09-25T05:33:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEdQSHkzN1RrLUZSMUtVMTNocDZFZXVmUUktUWtDajFnRWpWWk1fY0t1b0VYMWo5RWVES2xzbTVsMHRycEdFNG9mY1FlYzkxbnc4WEI5Y1l6Ymp3UEY1Q3M0ekxfNFdSZ1lvd1NjOUg3aDBvMTdTem9vcW4wZWJrOHhCWTVtTlU1dEJ6em5fYWtraUtjeUJ3Z2s5REtQbmR4YTVodzY5ZVFEakNfa2p6UEZzZUJPaXFUM2tNVXlGZnpJaWc20gHLAUFVX3lxTE1TM3Bvc3VLXzBaZ2loTG56bzZDak1oR1Vta05FZldpWTFzOTc0Z0doZnI2VEJHS3FiM2JEQWU0c1lDQ3lyZlpsTlVnQk16UzI0NWV4RVM0MHlva09hMzZlUVRsMXBRbkFBekpBZ0dKZmhNcUFzWi1BSmJlZmlVRjFZTVZoOVpIRFlzRWgwWVY2ODVDVGlvM05uNWhmSk01b3QxdVZxVjRnVkI2LW1QRTF4Y0pCNl9CWDR6VUtHbXJGbGliNHhaQ3ZkSWRJ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank strike from September 28-30: 8 updates for SBI, ICICI, HDFC, PNB and other banks' customers on Sept 25",
+      "source": "Upstox",
+      "published_utc": "2026-09-25T03:55:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQV1RhRVlzUnU5dUktbDZxcXZwdFQ0amZ2Rmw1RjRZNGt5UlRTYnNBV21XZFpxZjRFQVpMNjRRNUdwOWpUbm5BT191RkpNeXNLb1hQNlk0OUxwUDJHcFhQYm5SZnlWNFZtQ0pLdlhWd3d3dnlkSXY2NzNDWGF3MHRCOXYzOGJaYUpRNk10dmloLTJJTm1BYTEzUFhGb2xwVENvOW1mNE1veVR5UEotOU9UU3BXWHRJdkJHdjNId0IwVDV6ZHFPMVoyQlozQjBTNUtleVZXOTc2T1k4b0V1Rk5RY256aHhRLW1TdTdpUi0tT3BBNl8xOGhnbEM4X2xQdw?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Analysts recommend HDFC Bank, Arvind; see downside in Kotak Mahindra Bank, Bajaj Finance",
+      "source": "CNBC TV18",
+      "published_utc": "2026-09-25T03:55:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMjEyejExNlNTNFZudVJjekZ4QjB0YzNzbjFIS3IzTWlENWpiWWg4WnlXbFdGRnRndDFRYkxDX0EwcloxTS11R1NNOHlFVG9zak45eTBKeXYwUUktMkNITzUyWk42SHd5MEUwWnJVaC1kYkxsVTRobHVPanktTDRfVjFELTk0eU1GZWU3cnpzaTBQM0hrb084NVVDSzhEVFlHakROYUJpMnBBZVdWb29HOExjbU5YbG5BenZpeU9PMjZyM0xoVlRYYXNfdEhKanZtSDVvbUYtd1lFUzJpWExlTTJXdDN3dE9XV0FEUGpBUXZ6V1dxbkFUbVI1c9IBgAJBVV95cUxQeVRGLTdSZVdVTldGX25QZ3MyYXZPNnhYUnh2VDlzVkZiZzZaTXMtYnY4bklsaHpKTWV3TThEd3dXb3ZwY2FIVkhYOHdCWkx0aUowX0VkMUcwenRWOXllWVFualVPbTNqYXZ4RTJKMEkxZEZ3eERkVEdoZlpNNFdPYUxzcHZFSll2N2FGY2lJSVBucFdUbnFJd3pxNk55YWkwUWNiTEFQN2p5ZGp5UHFOZnp5dzZxNkFwY2Z0NXc1QnN6aTZ5RjRLTzE0V29td184VmpIaFlYMVpaM2JGN2o5NWZZVlNjaTBpR1FqVm9GQ0l2MGZUX1VROTg2OHotU01t?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday Today For Ganesh Visarjan: Are SBI, HDFC, ICICI, Other Banks Shut On September 25? City-Wise List",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-25T03:41:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeGttTVRLSVBfSi1HSnJPUVhVYmVQc3ZETkR4ZktMOW0wQVlWekZrd1dSMkdqOXVubVFiT0RjOXVIZHhZNlExMVFyTU95QWVocFRsZmk5UDFpZ1Vrbkh5MG1VdWY5N1ZGU3dUaUtmVFNTRDdTTnI5dGRNSkZoanRQMWVYNXlrdGg1eHdLdlhuMEJZX0liWWp0NERxM0NVMlZldlJRRW12XzlHWS1xc1VyckFHd3JrUlhTdGxSNnpXSzk1VzZrWlk5NkxvRkFqSG5DaldoVWJDeEkxTkE2?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Apt Packaging Ltd. Profit and Loss Reports",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-25T00:47:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2dnS3NYUDluWWMzRHdFYmdqUHFMcS1kb1ZFLUtNY1VQUl8wWDdXdUlTT2Y5NlB0WGhIeW1EeHZJY3Zrejc3ZkhFOVJNck9OSjQtQnZ3S3BMdk14YnBXb24yUUZiRDBjQzh4MnpLQnVkQTNKdVNQMHhVVlI4TE1fVmFDY0lkUW01T1UtTDJfUUs?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDB UPCOMING DEADLINE: Faruqi & Faruqi, LLP Reminds HDFC Bank Limited Investors of Securities Class Action Lawsuit Deadline on October 12, 2026",
+      "source": "TMX Newsfile",
+      "published_utc": "2026-09-24T21:19:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOcWRJSTJTSkRPQzA1ejFuY0xzblp2U3lYem1BOVdoRWFFend2OXJGZVlvNWZsOFoxeFk2MW4wbm80MUV2WGhSbklneFhZTmF6OWdVdk5YRVJWMDhoVzhjYy1lWnVKSkZta19rZVFWT0Z4ZzdlWG0zb3IzTlNaRG15Mnl6aGVyQjljTEdqRmwxbGJKQ085T3pLSFlCc1RpQ1oxMXZzSEtqM05pYlBmRmdGdk9UY2o5NHNyZDVUNDN6Zmltb2liYTFKYnZhd0tUZFQ3bmxlMF9ud0JGS0JMYzBDY2RBQWVIOHRjaXl6bHBBVnpTSTVZOG40eEI4NFFyRXVSa2xHZXZUSmd4X0VjZUpGeWhFS1kxeTJsb2c?oc=5",
+      "relevant": true,
+      "sentiment": -0.7,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Levi & Korsinsky Urges HDFC Bank Limited (HDB) Shareholders to Act Before Lead Plaintiff Deadline October 13, 2026",
+      "source": "ACCESS Newswire",
+      "published_utc": "2026-09-24T21:06:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY0FoQ3Q2RmRXamJiSEVJQk82RjJpeWxoN1JoRF8xczFwUjlkNGVrUk1sMC1WdkRLejlqQ1NfZ3B3eEYtaGMzM2IwWjRrR1loclhEUEY1bEkxTkF3VlY0dXEyR2ExTnJvazB6OTUyaDU0dnBweTdWM3lfRVBWZjRxUEF1VTRYTmJfX0p2dGRzX2MxOEZqYkYtMzZWRnFqZmdod1JPQnlNQ2dRMWt5UU9HWTN4MkQzVmdEeEZsYkJLN3BmM0FoZmhaYlV4RlNsazJIUlY4dEZFY3RyRzNPRDRjUzc2NE0?oc=5",
+      "relevant": true,
+      "sentiment": -0.7,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.516,
+    "strength": 1.0,
+    "material_count": 8,
+    "view": -0.516
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-09-26T07:52:10.297717+00:00"
+}

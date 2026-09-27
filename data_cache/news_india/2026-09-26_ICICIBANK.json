@@ -1,0 +1,414 @@
+{
+  "symbol": "ICICIBANK.NS",
+  "date": "2026-09-26",
+  "headlines": [
+    {
+      "title": "ICICI Bank Receives \u20b916.76 Crore GST Notice from West Bengal",
+      "source": "PSU Connect",
+      "published_utc": "2026-09-26T06:06:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWGtpaW1BX1I0MEY5ei1SREIwcVM0MGNoY0JsR3hsWTlDS1RqZ1UxYTBfczdiX3RFRFR2MDk1R0NiNGJVSVVtdElGT0RlcGIzclJQUGFWQVBqSkNXOE1KTkdZSERUT25RSC1MQjN4MnRUbHVzUlA1MENJR3ZfbG1WVDBsN010c0puZ0hkU0FZT3BuREw3N0NWRzlYYw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank strike: Will ICICI Bank, HDFC Bank, Axis Bank and IndusInd Bank remain open?",
+      "source": "Fortune India",
+      "published_utc": "2026-09-26T05:33:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbW9YSHlXbnRKZDlpR3JtMmhWRjh3eUZXaDcwdk5BN1pDSldLSDRNd2EtSnQ5UjBnNWI4dmh0Wjc4eEFoUFp3S1J0VW94YmZUNzBybm54Qm81RVpDS2dieXZCOFhTNW1XQVR3QjdGbXlnSWc4S1RrVjdGN1hIeFdvRTZ3czZSWmQ1OHhVWmh4YTEwdVdfREd3QWRVT1lJU09vekNYa0dJS3pUN1RTRzRIYWVPc1djcE9INWtEcnZlX3E0N2xzV3JveS1VRHhjVFlBWU1ZdtIB4gFBVV95cUxPZ05HRzVIYmN6T3Y1N2VMYWZVV1hTQXQyRUhNLW1XN19DVDh0LXZtNmJJWFpFRlZOam90VDlCOVU0YXF6UlVfY250YktTTlBCX3NxUnVLWHFIcFplTjZkN1cxTmNDajRWTndkYWJrOHVkUW4xZjNHTV9NWDBWSnNtWnJrVmFITXFZa2hQenl1bk53aWxpNGdVc0taY3ZOSTQyZ2ZaVFRRNExpZUZsemJNNnNvM3pXdjVNUWY4NDZWd1laZmRYX1M0a3RkWjBHXzh2ZjJIckdZVHpOZ3ktX1Y5cllR?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday On September 26: Are SBI, HDFC Bank And ICICI Branches Open Or Closed Today?",
+      "source": "NDTV Profit",
+      "published_utc": "2026-09-26T03:27:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaU1qamMtcmNjNHUwamF3OVBFSjNldF84Vnl5QlQtN1NNTzdTdnFuZXNCSHRPZGk5eFhEZVgyUWFBWnhBNnhxZi1tTm1yU1hYbUVYWWRsX3lpMl9kb2lhTGdvSjBUX1NaNkFoTERvRllfeHlxblBuNlVhQVFlQlkxdGpteUw5U3dIN3Foc0RNem10TTRRT0VGdFduazktck1EdmJ6cWpwLVo3N1FOSkxKTjZkU0FHaVItMi1hVFBMZlljQldvT1Aw0gHPAUFVX3lxTFB0TjZyMHFyZE1CRlJINkNUM1prMHpLa1g4c05ZMVZhNDVzUjRrVTViOTA5aEJpRi1rQU1CUHdUb25lRmNjNHQyTi1tcTA4dlFTUWxvNWlmOU93NTNRWWltZkZyOWRqWUxGOGZ2Y2d3d01rSlJmaE0zZ2dpekFtazVlNndhYWYtQUthRXNvZ3dKcGhQVzQtMzJCZHRaV2IxZ21LUmJUaHVlUGZBelV4S3ctV2x3enMybTNpV0I0cXhBSWItaWd6U0E5Z0R2YzRyTQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today: Check if SBI, HDFC, ICICI branches are open or closed on Saturday, 26 September",
+      "source": "Livemint",
+      "published_utc": "2026-09-26T02:04:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeTdGTEllQXhZM29iaVdLOUlrVXprN0xmb0VLSGpIajJPS2VHb2s3X0R4aU9oNW9xdDdTVUNOa0lXOFktempxZ3FyTExZejdXT0RQaHVINUc1UDZxSS1HOExzMHY0NjJnYzAxUFBBcDdCVUxZeC1zOUNKXzlPYkpFcm9ObDgzQjJCOWx5QkxDcFJqRm15Zk5CZmxRMUljbFVTMEZFNnlxQTRzMldRSDE1ajZITlMwdDBmNWJucWxDS2VnaWRvQnJBUlBhaWRwT1JqVXZCcnFQR2NXdEJ1ME92MVZvTEpCM2E5anduNU9HQk1ZV09LWXfSAfsBQVVfeXFMTUR3WVZHTGNoZHRFaC00bmpuOHhnWkhMMWY2QW9nNHlHdnRrRk5FWTVSNzQxalBsYmJYRC1tQlJkYlE1TkpyaVhydGpVRVdoRUx5RDk2SUVjZS05RG1BOFVuVmtzTVdTNW9tMWtwa05UVUgwWklMRWJJTnRTcjVSUVhadURZWkRVOWhqZWJUYnFPenQxd3d3bEh3dWVSeWxQODJORXlXWnQtRjFHYklxREZLcUtEY0ZEa3R3bnM1VnVJWXZPS0p1T3dGYmNPSTZpdU9kX18yUW9Db0ZHWkFYeDh1YUVmeS00UDFRMWpRSmRPNDBHSXBKb053anM?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank faces material GST demand over minimum balance services",
+      "source": "TipRanks",
+      "published_utc": "2026-09-25T22:43:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWGJoQktBbzZZS0VSOEdpOEc2ZFBENWdtanZZeENEOWNJQmtLYXRiTF9JLVpPRk9SX2dyRW5qWTltRDBsdVRVRXVuWXIyQlJlbkVOYVduX1Z1R2IxWEhLWkJES3BiZTdDOW04S19LZWNZb2xqZkJ5ODE2aTJRek45d1Vpek05Mk5IZ0RrVE81Y3ZqbThVdTE5ZzVPd0pILXFmRU1XRE92X3A4aXR3UUJOTjZxTHg2bjFtV1E?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Jumps As Dividend Hopes Fuel Rally",
+      "source": "TipRanks",
+      "published_utc": "2026-09-25T21:57:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQW1SNUExdUcwNzRkZ1Y2bG5uTEM2TWlvUUo2Z1o4Q3p6T1BIV21idFZpNzViSGxQLW5jdmlTRG5FXzVIcFlGX2VwWDZWb0JhVWNsQmprVjFfbVJWZ0hCRzdra1ZadF9YejlISVVQWGJ3XzlxWXZqaVc1WEcwLUlTTnZmMFB3SjBRNW42eQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank receives \u20b916.76 Cr GST show cause notice from West Bengal",
+      "source": "scanx.trade",
+      "published_utc": "2026-09-25T19:03:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHNxV0hUbVJTT3lIclVYWHc5M2x1Tll3ZWlxM3pHOUluZjhXazZWcUwzSy0zcDNJUHRzenZzcEpBSklsd2Q4MEtXVjdSZDZUS1FHbTdtbEJFOC11WXBXTG9BTDFFN1ZiUVBvd3lyY1otN3puN2tycTFFRjd4U0tGWE9WNjNGUFNfSjM1RlZyWHBoOTdrdEMwbFJGc3NlNUZwZUJFaS1yTFlJRTNzQV9DV21lX3dSUjFUdVJz?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank receives GST demand notice for \u20b916,75,96,536 under West Bengal tax act",
+      "source": "Business Upturn",
+      "published_utc": "2026-09-25T18:38:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlc5aVVEcWFMeklLcE56NVZYdjNhdEZ3NWplSGNXdmhPUmxQVU9pSkNrdGY1azI5ODM2NFNlQUo4NXgxWUFaODJsWlU4NWVZMndmOGk3Y1NHY3VkLUpmTUhUZ3Nmc18xSzRoSHgxS3dSdUxVU182YnJISFRCZUNOaGlCUnYwdGlXSXFGVS1wdVRlWEdaWmpCX1BoampKSjZPUFc2N1BFZ3dUUFJxUFp3aWhsalEzRUFrZUM4?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SignatureGlobal subsidiaries issue \u20b9100 crore guarantee to ICICI Bank",
+      "source": "scanx.trade",
+      "published_utc": "2026-09-25T16:28:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbW1GVGcwSTZJLXhORmtveFZNNUduN3dBWXhnZDJiOC1xOU11T3djNkIwT2kyQTI1SVN1Mk9QNTN3RTVlLTBRMmtFdFNNa1p6SmtycFVRR0ZFNklUWUx2Ui1la2lMX3F1TklSQkl3TmRUN0sycG9NMVhub0g3TnBoRHlSa0RYbFllc2U3ZlFYNGlWRUpsRVdVejZielhLeFI2dzFpMmZhN3lrR0VHamlwM21aNFB2R3hzRGx1b2dIWQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Gold Loan Scam: Rs 23 Crore Fraud Uncovered as Fake Ornaments Found Across Nine Branches in Nagpur",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-25T15:40:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSmNCaGlVNWw0RDBTSm50V3QwbUQxRXNJSU82YnJRMWl3NFF4ZHJhZGNnSV9neGFsZ2FrNlU2YXpaMVJQTFE2VW93TlByaTkwMGJuMW1udkFHTHJDUzRtTXl5NnVkSE4zWTFxelYzZFYyVjU5MVdSdVRwSDViVG5uZFU1VDdmaEx4UGxHZVhodlIzZ3U4c0lPUld5OEVtX0o5LUwwYkxXSTNCeUJ6RHZQQ1hUVlNwWWRyWG9XWS1UTGlIQkFLV3VETmRLTk5SbXBaSXMyLXJCem5VbS1IUUE?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank strike from September 28-30: Are banks closed for 5 days from Saturday, Sept 26? Here\u2019s what you need to know",
+      "source": "Livemint",
+      "published_utc": "2026-09-25T14:29:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbGNlVUdpUzBBbXNLTnlIWW04a2gwRmNmUlJxTE5ZcXhRNThEelpham5USGpJQkhMaGhZNWhxa0tFalVBYkotMkZtM3YtckUxZ3gxMVFOYVo2dmVrRzdqbnpNQ19ia2lEYnRScl94ZWllRHg5NFBBRkNBdXQ5QTlvNUlSYTJBbVI1WEdOd3RtenZOTmhSOVBRajJFZEpZMkJQX2tFU25qMGpKWkNUNWc3S3BHS3NCU2cwcktEa3lhVXpES1NCYmlZLWpJbzZIWkx5Sjk1VEh0NTlPbWstanRncW9YdFAtZUFwdDFTVjNxSnhnc1U2MzBKVkExZDRTaHI4aU5IS2c1cFVpeHfSAZACQVVfeXFMT2thYVozOGZMcFhSVVVib3lnVWFzMFpfY25QVTNjVFdyTktKVEZRdXZOV2dzNWJXb3V1RHF4a1VXa1U3dFlzRFMwX2tLTHFiNGFLa3Nqc2tkM204M0YybzNsbGZoT0NoZ1dyZF9USnZlekVzSDF1aEtJcW02SURRdDhFQ0JWVmY4Vk9zYkNLZ0YzUXNPT1ZsQ3dPSEVzenJvWXk4ZThadVVSdnZ3ckxVWi0wSU16WXVyLTZCTTZvLU1EUU1KV1JZV0hVSWk4Z1Q0WnFWdGRPdVpFVzBBa05Db1FFMWMwYVdaUVRQMG43TEs5bmtOWkg0SHdWOWpEdnY2S1V4Q3E0R1NYWjdLMHVfVmE?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sensex, Nifty edge higher as ICICI Bank, L&T gain | Tap to know more | Inshorts",
+      "source": "Inshorts",
+      "published_utc": "2026-09-25T13:38:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTlrNkZGZGxMNVlibDlkNXc0c2VDcGNONlZTcFFnc0FQWEhvUXVELUIzQ21Hc28wVm12ZThtcERIRmpoVTQwYU9fc0xoemI4SDR4emJfOV92YkVaSTZVQXZjclVyWF9ORmZ1M2pFaGRFTlJEWlVqdGxGZktibjZ1bXZnZEgxdTBuT3VHZzlfUTNKcDk3SDQ5TVpQX3HSAZwBQVVfeXFMT1U5azZGRmRsTDVZYmw5ZDV3NHNlQ3BjTjZWU3BRZ3NBUFhIb1F1RC1CM0NtR3NvMFZtdmU4bXBESEZqaFU0MGFPX3NMaHpiOEg0eHpiXzlfdmJFWkk2VUF2Y3JVclhfTkZmdTNqRWhkRU5SRFpVanRsRmZLYm42dW12Z2RIMXUwbk91R2c5X1EzSnA5N0g0OU1aUF9x?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gold imports plunge in India, but gold ETFs surge: What the demand shift means for investors",
+      "source": "Business Today",
+      "published_utc": "2026-09-25T12:17:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNlVyZzVmSE0xSndDeUstYXdqREIycHJMQUVLZTJ4UllPdkUwSmRJS08tZ0JmX1ZHeW1yajAtTkNuTy1haDZKZ2NyX1o5WXJCT0FWWXA0OWVZTjRoZG42VFllOUhua2t1ZWxlSDYzUGJ3bUJvYnVoYzU2UGxvRkVsSWVJb2JWb1FHSFRDT1dKQ2pGMUxVeC1jWm1LbnVPemd5X05jT1NHaDktME1kdEJQSmZlZVMxU3l1SVVUNHo4ZDJiNVU0Q3phOURTRVVTdnNFWUY5OWF1UmN2RzEtUERLSGYtcXRHZWZGNUttYnZqcnFBNGxF0gH0AUFVX3lxTE02VXJnNWZITTFKd0N5Sy1hd2pEQjJwckxBRUtlMnhSWU92RTBKZElLTy1nQmZfVkd5bXJqMC1OQ25PLWFoNkpnY3JfWjlZckJPQVZZcDQ5ZVlONGhkbjZUWWU5SG5ra3VlbGVINjNQYndtQm9idWhjNTZQbG9GRWxJZUlvYlZvUUdIVENPV0pDakYxTFV4LWNabUtudU96Z3lfTmNPU0doOS0wTWR0QlBKZmVlUzFTeXVJVVQ0ejhkMmI1VTRDemE5RFNFVVN2c0VZRjk5YXVSY3ZHMS1QREtIZi1xdEdlZkY1S21idmpycUE0bEU?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank falls Friday, underperforms market",
+      "source": "MarketWatch",
+      "published_utc": "2026-09-25T10:32:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXNKMEtQZmdxMzRJbHp1TWlIdXJXcDIyQ001RnBmNjFidk0ta1p3R1R2eW5NLWJqbHIzYUNaclEwOFdGOUJ6ZlRKbDNTQ1l4US1UV2daektNNkxYWl8tN255R3ltVS1OR0RQVzZuY0Jxbm16RWZWOElSTjlLNTV5dnhJcHVQRFlKVW53MzRjbHhlRk8xdGFtdjZROG9ROFdzSlFTSmF2QzdFWWV1SXVtcWt2V0J0ZFNMNV9KNFk1Zw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd. Sees Sharp Surge in Derivatives Open Interest Amid Mixed Price Action",
+      "source": "MarketsMojo",
+      "published_utc": "2026-09-25T10:13:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOblFIXzZLenlnN2tlN3FFUlR2ZmRieXpjY2ZhRmR3dWswY2lPQ2tqRFJsNEpqZ3VDYWJNb2F6RTkzb19zMHU4a3BmRy1VenNfcmZ2ampXdktwX3piZ0tWRWtQb21wTFB5QXNReVl5X3ZEMm5UQURCOFBySDlma3ZyN24xVUg3NHRQRDZWbTRONjd0SFZEWlZGOTRqREpFb01jMElGM1hqYVFYWGZad19hdVd6dE5hd01qV2VZZHhmZlpoakgzekVrdDM3a3V5V1pjeFBrRXIzc0pIUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd. Sees High Value Trading Amid Narrow Price Range and Institutional Interest",
+      "source": "MarketsMojo",
+      "published_utc": "2026-09-25T10:13:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYVdYWkNnaHJ5Q0tJX0FWQW5Qek1wYmZfbE5BTUZxOVBraUVFUTVMRVFkYnpiUTZ1VkhldlZVYV9iV0VOOGJMQUw2Q2kyYUYtRzRkNDA4UC0tZVR0Q19TZzFVaUYyQWZYWkFpOGhNYXl3QkkzaUZscUJxZXZ1ZjFUbzhMY2R3UXM2QXA1aWNCd25fa0taa1FqbUJkZ05TYlQ3Vk1PUERaTEFadjdhZV9TSDBJZ2JYSERMU1J6enFaa09GXzJBNmluVUZYT0JkUC1PaHBKeVBsNl9HWTNHamN4RA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd. Sees Sharp Open Interest Surge Amidst Mixed Market Signals",
+      "source": "MarketsMojo",
+      "published_utc": "2026-09-25T09:58:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMzItMFRhWFVwWm1DbXlXUTI1dnNmWEs2cW5WaWd0MkJTeWFHbUU3bEFJMktTajZTSXZXZ21POWI0TzJiQl9UM3UxT2VOMHVNT3VzLUZLdlh1VmFpM1pmRUNHdWszTy1rRm9VMDlFZ2F2QXc4MGlhTmdUdWthb0NqQlNmOV9oaW0tU0dMSmF2am1PbzZBMk8xVVJTSGRLcVo5N19xWFF4dFBYNGN5UXFoaEhidDVGTHowdWh1cXpxN2ZJZE9wUFFpbGdmbw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd. Technical Momentum Shifts to Mildly Bearish Amid Market Volatility",
+      "source": "MarketsMojo",
+      "published_utc": "2026-09-25T08:38:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSW5QLVo1QnZvUHh4N0pjdXNCZDlDeEYzMF9RSGlBcVVtSUZhdFpZeFI1c0dCM09nUjVSQzJFbzVRSDJwdHU2TXFzOXpITmxhQTI2dUs0dmJjd3pKbU1veWFKZmQ3SFdtWk1yTlZDUDlNeVE5blZ3emVodlkxdGlldXJGZHVtakwzUEdrMWlkczdTN19PamJOMEk0ZUlKY0NjVlA1OUNHNk1acG5sLXZucUhWN1dMM3JrWVVDMzF2djFJZkpFWDg0TjRZZGJoak1DUGpoTXpn?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.02,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holidays October 2026: SBI, HDFC Bank, ICICI Bank and other lenders to remain shut for up to 11 days \u2014 Check RBI list",
+      "source": "Zee Business",
+      "published_utc": "2026-09-25T08:34:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYmxHNElyNVNPZjlHYnl0SVhXY3Y1STBFX0lsRlpGVmtyTlRMYTVpYXUwY05ZOV93ZVJWRGEwMG5tXzRUMHo0dTJSTDZLSGxZMEpPdUplNnhaM05GdUJubk1KaHVZNTBWUGhuY3lsc0p0dUI2SWNVY3EzYkZOM3lNS0VBcGdSQlNpS1FwOWlrdmtQZ0Y0em9hcklZLXp5eEMwSWRYM2ZEd0hXUllHQU9WQklBWnlReWdiNkZFX29IUlBTb09HZ3QwcUJqak9Ia3RsUjRISnhfUGxJcnNOWDUwbWlpaVJ3ZTdPRjhmT2tLN29KZi1BVUdISF9VV1JLRDNJY3NQQ1FReE0?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Derivatives Open Interest Surges Amid Bearish Price Action",
+      "source": "MarketsMojo",
+      "published_utc": "2026-09-25T07:56:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmlJRUJHNmpYZ1Q0QjBnZmR3bE9lZldSZTNfNzZ2bktDZDY3VkpPekdvTHV4R0todmxuZEJQUEctcjlXdFJodk50bVR4a1JYUzBsMGhyWnpZcVpmdEh4TEZhSWdOUll6S2tzSVVFVWVIOUFmTGJUeXpXb0RBSnhrem1hRkRSRjE3UVpSSkVGSjNtWlM4dHhXSFFDVk1qeXdDR1hvYmxvRVgzRW1TdHFQZXJ3THRTakNkSzBmbmx0b1M0a1NqMHc?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Stock Update: Share Price Slips Amidst Sector Strike News",
+      "source": "LatestLY",
+      "published_utc": "2026-09-25T04:21:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkg1U00xQklRUWt3V2F3YXpkXzNwbkFYcHpGYXhmYlJqcXh2cVJoVUl0V2RKbmg4SFF5STRsaTVZU09JN3FqalpvRlFmSXp5dFh6WjA2cWV4QlJBWjJFQnBPQW5fQWxfQ29ENGJqZFk0bVdnaFFzTDlVa2J1SFlVSGg4RDR0cWU5WXdqWlFoalF5alVEamRjS3NZVTlIOHJuejY0U01qYjlwcTA1OWpZSHNCU3Nqdlk?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SENSEX, NIFTY50 edge higher; ICICI Bank, L&T gain, Infosys, TCS fall",
+      "source": "Upstox",
+      "published_utc": "2026-09-25T04:01:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ3pLSXpZQjZWeTEwWThGODE3LWljT0pNYXpJY2Q5LTVCbjdfaC1WQ0ZvXzNwd2JBeklUUzl2eU4yLXdxTjRGUU5yNWJJU0RhanRBOE1WaVlwLWI0Zk5uX3d5QzcxT2o3aURaOVc3NUZKbzRvci1seWFDY2RtT3dZWnQySUZYYVF4aGJ2WXN6S21zODB2eEMtbUU5dFhXMzEzX1ZkclExOFVSeUROZ0ZxcDkyOHpKT2cyTHlNQ2ZOTFdmcnRl?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank strike from September 28-30: 8 updates for SBI, ICICI, HDFC, PNB and other banks' customers on Sept 25",
+      "source": "Upstox",
+      "published_utc": "2026-09-25T03:55:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQV1RhRVlzUnU5dUktbDZxcXZwdFQ0amZ2Rmw1RjRZNGt5UlRTYnNBV21XZFpxZjRFQVpMNjRRNUdwOWpUbm5BT191RkpNeXNLb1hQNlk0OUxwUDJHcFhQYm5SZnlWNFZtQ0pLdlhWd3d3dnlkSXY2NzNDWGF3MHRCOXYzOGJaYUpRNk10dmloLTJJTm1BYTEzUFhGb2xwVENvOW1mNE1veVR5UEotOU9UU3BXWHRJdkJHdjNId0IwVDV6ZHFPMVoyQlozQjBTNUtleVZXOTc2T1k4b0V1Rk5RY256aHhRLW1TdTdpUi0tT3BBNl8xOGhnbEM4X2xQdw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday Today For Ganesh Visarjan: Are SBI, HDFC, ICICI, Other Banks Shut On September 25? City-Wise List",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-25T03:41:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeGttTVRLSVBfSi1HSnJPUVhVYmVQc3ZETkR4ZktMOW0wQVlWekZrd1dSMkdqOXVubVFiT0RjOXVIZHhZNlExMVFyTU95QWVocFRsZmk5UDFpZ1Vrbkh5MG1VdWY5N1ZGU3dUaUtmVFNTRDdTTnI5dGRNSkZoanRQMWVYNXlrdGg1eHdLdlhuMEJZX0liWWp0NERxM0NVMlZldlJRRW12XzlHWS1xc1VyckFHd3JrUlhTdGxSNnpXSzk1VzZrWlk5NkxvRkFqSG5DaldoVWJDeEkxTkE2?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "5 \u2018Buy\u2019 recommendations by Jefferies with 30% to 54% upside potential",
+      "source": "financialexpress.com",
+      "published_utc": "2026-09-25T01:48:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTVltcWdZZTZlaHNIcDFaNFhUamZ1VnFrbmxYb2JMNzhNZk9UZmRNVUJBdjBnSDg3d01ZanlITTIybUdzVFRCU3RyTmV6MUtXMk5JRHNTZnoxc2VRcl8wTkh4b1RQeHlmU3p5RFh5UTRfWEFCTk1jWkNxaU1yRkh6bHlGVV9IdzhzMmtxNFVLdS05UVRUQkRwZU56MThENDNZYjluOGJEUC1nZmtlQXVCQ0dISDHSAbsBQVVfeXFMTTN6c0pucVFJZVEycVVkNWxiODdPN1dQZjB6U2lRekFBRlV5UXpKdkVXVXJUTHp5NjUtcFFMQm84RFpWMi1wU2RtbjFEempOUDlSRzI1Tk5uTVBNTE5qRGRnMjh3Y3hrOVRrQnpfN2REV1dyblEtNl9rRmxrLUFGOVloQTg5ZlZRUVZ5dUJHdzNCaVF2RmFfRktBM2NKUExjQ3h3V0h1NW9TVkUtMGdYWDJIZU5fckRZWWVENA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank stock draws an INR 2,000 target as profit rises 16 percent",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-09-24T21:25:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHJUNXR0NHZLS1RJQS1sN1ZyS2V0YkpVNUVURFVDaDBPN1BUMEMyVVpLOEx1dE42eDR3a3JIZzhiZ2gxNTJyYnBDVGR1ekxFcWNaX1dvLUhMXzJQXzRmazVaenZ3d29KVGpOX2pUaHB0dE8xajlhVTNDR29FU0NVaUQ2RE00M21PbFIyUW9ObzUtdlpMS0FGTkw2anRSWDVBalBGUmZWTFZtTjBDQzlvaU1mZXpsS040ZnpvTGNzTW9PRWJ1UHZB?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC vs ICICI vs Yes Bank: Q4 Results Spark Stock-Specific Rally; Which Bank Stock Wins The Race? Target Price",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-24T16:00:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWZLN0xvUld0YmFqY2NJWXM4SU95WGx2bmFadnlmLXRZOURERkxzWGxHaEwzSDRfTE9lNkJFM1lqQ0FzcEdfbFEwbjM0SFpFM18zVUxITG1Mc2pSNmRmTUUxVDJFdC1zY1hvcnh1QVlzb3N1NFB6YWxjdTU3eEgwbVhHb2prQnBvY2NOcWJEZG1zMVJFeEJZMmZIeFpRcDhYNzMwald5bTZSb3UyZDFxNEx5eWZBU1pjRlVjWlBKRDFmOEhUVktZVzJwUmVCaVBLWHRfbVVrM2E5UQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank zonal head meets LG Manoj Sinha",
+      "source": "journeyline.in",
+      "published_utc": "2026-09-24T15:36:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oN2UxS2ZsYUpCVDM4NkNDdWhZNHZlSUlVejNfWUVWN3JoWXFnWUJDN1NnNEVmS3Fua0hweTVPR1czRFcwLVV6RWdjUk5obGpCMVVVNzdsZUxPeFl6?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "WhatsApp 'No' reply costs lakhs: CA gets Rs 90,000 fake debit alert, replies 'No' & loses Rs 1.70 lakh fro",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-24T15:10:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQRUlLWElXeFNjNHFRUWFla0w5RlhIQXJrT1E3dno5SkZBSllZeFNRWDFMZHBRZnA1bDJRQW56N3NOTlV4YS1HaFY5UXNJYXhaWC1sN1pjSjd4SkxEZmROemZiSTFoem1MNnJndVJrZzhqaW5fbjZIb3g0R1gzSFE2OE9jWjBrYV9fNDAxNmF0MDd4ZVZjbndrZzh1bXZKZXREQ2FjQXp6U1ZURXROQUxQS3JFcEZZdm9XMVJRb3ZEbk43NG52cHE1SEdYV1gxc0M2Z3JmU293RUFtWjZhWkRwc2RLZXo0ejdCSm5wX3dyM2ZzSXJ4NlZIRVBxNnNyNDExRUlJTmVscWhMaXhJUkxWWDZDbVlRS3NGLWViTGRnN3VZN1FJc0pkT2ZzWDZ5VXFsaHc4X2Nn0gG2AkFVX3lxTFBFSUtYSVd4U2M0cVFRYWVrTDlGWEhBcmtPUTd2ejlKRkFKWVl4U1FYMUxkcFFmcDVsMlFBbno3c05OVXhhLUdoVjlRc0lheFpYLWw3WmNKN3hKTERmZE56ZmJJMWh6bUw2cmd1UmtnOGppbl9uNkhveDRHWDNIUTY4T2NaMGthX180MDE2YXQwN3hlVmNud2tnOHVtdkpldERDYWNBenpTVlRFdE5BTFBLckVwRll2b1cxUlFvdkRuTjc0bnZwcTVIR1hXWDFzQzZncmZTb3dFQW1aNmFaRHBzZEtlejR6N0JKbnBfd3IzZnNJcng2VkhFUHE2c3I0MTFFSUlOZWxxaExpeElSTFZYNkNtWVFLc0YtZWJMZGc3dVk3UUlzSmRPZnNYNnlVcWxodzhfY2c?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Maharashtra Bank Holiday Tomorrow, September 25: Are Banks Closed or Open? Check SBI, HDFC, ICICI, PNB, Axis, BoB, Canara & More Services Operating & Closed",
+      "source": "The Sunday Guardian",
+      "published_utc": "2026-09-24T14:33:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNb1Q2UUNITEc0a3Q0RFREMFh6Nkx4WTdacnVrdTFxTnRDZ18tckpWdUNoMzNJQjhWNDM4MmtxZEk4VWtsM0RrQlRnMlFhZ0c4WEdzdF9qc0Iyano0Z2c0UGFyYk5aVWFaZUJXRngyZHc3VHl3eVFzTERDTWg3cWE1cHRjcUhNT0kydFdlcDEyNVJfdXA3ZXdnWi0yV0VtRzZlUWhoM1pKZGdocFZHMUs3V3VIYWtLNnNJUkxiUkhXZi1NQmNKYWRXbFBfWnZucE1WLTJRLTc5ZHJPU3hDMDUzblp3YWN5elN4VkVLS1RGdmEtQTlyV3FPRkxJSjhXWUpXcUUxSzdqYTJfbC15WTd5T1ptUnM3LXhZajdz0gGgAkFVX3lxTE9EU3c1YmdQY2JDSU95QnJTWVR5aFF5dWZGV1Y2T2xzVndDRnhWQW1YeWcySjdtQTBzajBfOUliMExPUk9JTDdBSDFNOGRCbkZzM0w2MW91eHJ6dDBhenRwYzkwNWs1U2RqU3BYNW9zNC1LR3NUVl9HNENsVkk4em13NXh5eEsxc0NjcUZYcWR3OFMtNFg4V0NKOXRuT3lLQzRaR0k0V1dwYzhyRlhnamI4dXdWTE4tMG1zT0E5SG5Rb3JyR0Z2LWsxVElsTW9sTHpIUjdPMXBReWtxc01id3ItNkc4Z3dCY3VJVXpOOHFWQi1UazVoRjNVSlFPOWdfczJQMTBVMEVkMzZJeldSMHBycEduUGUwUm9xLTJPc3hfeg?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Are banks working on Sunday, September 27, 2026? Confusion prevails as banks and unions differ on working",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-24T12:13:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQckZMSVRmUENPZnloWkM0U1lKNlFNQzE3MlgzRVVjMDZ6U01kNF9ueWFrVWNZQjZiU1IxT1hkNDFIOEhndF80bS10eWRrTzZoR3QtcW16eFZOTXc1b2VuekpWQVNFN0NjTG9SWUNobVVZbkxJb2VyOF9OelJILTVWYVNmRkpGSDBYM2tJNWRQQlVIV2VYTWdwTno1X19FSlZsdjdlODhaY0wyQ3BkVkJSYUZqWnRRMFVfZDFIcUtSb3NqTE4teTNxb05wLXp2WlhnUjdMdS1xbjhxSUN1U0xoWFJhNGJfWmlEZ3pvMTUyX0NYQTItbHB4SkhwWmbSAYICQVVfeXFMT3BqbVQ5eDkyYmtlQjJLNGdrdmgzdmY1OExpdlFQUUxrOTdZeHNsQjV0aDlXRWdUTDVieHhCVF83a1lPYmhibUsxczZOcHJ6UmNQczlNMWhFdXJNZVhydnkwbkxlZFNhWjdBUmhUQWJPc2o4UlBfMl9hWlVZLWNwWXlqQTYxVVdET2xZVGRlODRESW9qS05ldE0tcGEtZ205VWN3Y0l5Rkh6aVlUek5BX1FNWEpIeWEwSDlETjE0MUpyYzJlQUFtMUFBQlBUeEtaLVJPVjFPVk1tcnFJT1QtTTJjQzNkSFhOZmdfNGxqWGV2a05lWk5xbjVWb2tHVlpTbVJ3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Q2 Results FY27: HDFC Bank, Axis Bank, ICICI Bank Announce Results Dates",
+      "source": "NDTV Profit",
+      "published_utc": "2026-09-24T10:35:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaW1Yc3hvYThvREhyUVNlcXdRZ3ZDX2JEblp0aGZDZTJyWHJBenhVVXZBckZ5UHRUelZSNHVMTGVFTzRjSENRQkZsOFZpY0pfWVJkQWk0bjlmZnNQY045cEFRaW5ldUl1S0ljVEpNMXpNOUYtdFAzSkIzYVBGYlVEZE12ejFkZXJqUjJucW05enB2ZDVFcjV1cWJiQ211SVo1bE5MWHhOaE1RVDFIelg5VkU4anBmWEFzWXfSAcIBQVVfeXFMTnFPVUVnV0hSekh1WmNwQ2ROTEJURExkcmVjNXRLWVN4ZWNpcVFMTFNDZENyQUhHTnZSdGl5NjNwOVdGOU1zczFoeU5pcEFldlV3OXQ5VWdyaGN4Q0FPX1lLYm9oVEFoa0JYNnJ1bjVJR0I0dlF5RXRPcWtfMTZ3MVQzR3QxWGFJaHo0TnJLS3RDajdIaDV3OUxsYWZkSU95WU1DWDdyWjZyejkzMGNOMHRvdEdmNno1OEt2aFI2d0k0Ymc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank slips Thursday, outperforms competitors",
+      "source": "MarketWatch",
+      "published_utc": "2026-09-24T10:32:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFdSSUUtSDl4Y3ptdGdTRTZTd1ZyNXJDU1h6N2lIVmVsX21RVEw2bG50MUk0SlhFN1h4QzdIVzJaOWI0Q1hrTlRZMUVONHlNNmctN2ZFZTJqWnRBaU5NZ2lpRjd3SU9kbFlfWHUydUV3SDJsb29MVTVzZVZFeXlCLWZoSVN2cVdHZXo2NndPVnpDNHF0eEFDdUQwM1pRcVhjWEFNVlVCNjZOU0wwZUptR2tXR19sNlZYTU94UFBrc1ZPR0NyV1E?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Strike: Are Private Banks Closed From September 28-30?",
+      "source": "LatestLY",
+      "published_utc": "2026-09-24T10:29:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUm9aVHJ1TXVqUGZubDlZaTk1U2ptNFY3MFJqVkpHTk5CUE1WRG9qbFNNZUNxeTlKRHFOdWpZMmh0cFRibHl0UFZpaVV6N0pMZW9uZDhqeXo0RlJPakZqVHRHY1pFZnlYbFFaUHdKTmhncDhjSEFObWZJbXBILXRPTV9rbnZmMWZrZDJ5eUZmck9rTWxKRERzV2g1WThUREZLZW5rUzRpZ3VSeUxF0gGsAUFVX3lxTE5Sb1pUcnVNdWpQZm5sOVlpOTVTam00VjcwUmpWSkdOTkJQTVZEb2psU01lQ3F5OUpEcU51alkyaHRwVGJseXRQVmlpVXo3Skxlb25kOGp5ejRGUk9qRmpUdEdjWkVmeVhsUVpQd0pOaGdwOGNIQU5tZkltcEgtdE9NX2tudmYxZmtkMnl5RmZyT2tNbEpERHNXaDVZOFRERktlbmtTNGlndVJ5TEU?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Schedules Key Investor Meets for September 2026",
+      "source": "TipRanks",
+      "published_utc": "2026-09-24T09:56:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa2FaUG45R2h1UThBampsYlV6eTNFU0E4Yl9KTVFzUFc5VTZ2LUxLbG5OejlNX0lHNG91T1l6cW5CdnQzQXlaRHFvTFdvUlhtTWtvY3NmM01PMHNlQVdNTFJnN1RwVkV6dndXNEJGVlRIdzVIVDNKNXRrVFNzWExYdFhDenA5Nmp6UXE3Mk5pelMwT1ZCSElpTjlYNkItSUVXUzVFdFF0Uk5wdVhRX20w?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Flipkart Big Billion Days 2026: When Will the Sale Go Live? Here\u2019s the Date, Early Access Date, Bank Offers, Discounts, EMI Deals, Top Offers on Credit-Debit Cards, Cashbacks & More",
+      "source": "The Sunday Guardian",
+      "published_utc": "2026-09-24T09:31:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQXItdHBRWTlNREFwdzJ5Wll4MHF2d0dGTTVEbldfMV9RTUNMQlg2ZzhFUDRnT2t4YjNPUU51Sk5JNG1HNkwtTnJzQlZ4UWdxZUlYYmYtd1dhdUQtOS1BVDlSTU5DM3N1UXZ6NUJLcTlycGFoSC1OSzl3UzBUUGVGOVNYTlRtLWdnR1QtN3Q5aVBQYWNRaDZDcTJBd3RiODlVTWVwOWlYTTdOd0piYlhlNlpneGpHZTNzS09uc3hxTWhfb0pGRjRtVU42cGpaUkxhOGVtX2wtcjlXWktlY2Fzb29fam1sajhWVXBPWnBsZzRRRW9jMmJJZThtdEFVZTk1RzB3bVRXeVc5R0pyOFFNYVg0NUhtbWkzRE5SOGYzYnFYOVE1ME1vRGVWLXo4Vnc4dEhyWUlTLTExSDUtWWxDQnRGbzbSAcQCQVVfeXFMT0FyLXRwUVk5TURBcHcyeVpZeDBxdndHRk01RG5XXzFfUU1DTEJYNmc4RVA0Z09reGIzT1FOdUpOSTRtRzZMLU5yc0JWeFFncWVJWGJmLXdXYXVELTktQVQ5Uk1OQzNzdVF2ejVCS3E5cnBhaEgtTks5d1MwVFBlRjlTWE5UbS1nZ0dULTd0OWlQUGFjUWg2Q3EyQXd0Yjg5VU1lcDlpWE03TndKYmJYZTZaZ3hqR2Uzc0tPbnN4cU1oX29KRkY0bVVONnBqWlJMYThlbV9sLXI5V1pLZWNhc29vX2ptbGo4VlVwT1pwbGc0UUVvYzJiSWU4bXRBVWU5NUcwd21UV3lXOUdKcjhRTWFYNDVIbW1pM0ROUjhmM2JxWDlRNTBNb0RlVi16OFZ3OHRIcllJUy0xMUg1LVlsQ0J0Rm82?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IRDAI shocker! From ICICI Bank to PB Fintech - A look at most and least impacted bank, NBFC and insurance stocks",
+      "source": "Livemint",
+      "published_utc": "2026-09-24T09:05:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQclR4SjljWGNWTkZDTG45UzVHTEdveFcyVndKSjV1UjNUSXEwZ0Q5Mm9NeERBa1pHekNhR3c4VUF6ME5NcGdwWkU2Y1pTa2FrRzZMUVNwaFA3eVlJV2QwZ3laUTFjdDU4RERxb3RNRnl3aG9CTS1ZdkRXTXlvU0dhdWZ4dkh0M0pLMzRPQkZ1X21MN1Q4Z3BuOGY4Y0FOeG5SbmxvLWRZaGI4RzdsQXFTUnhNSmdscG5IajFaY1BRUmlWbGFQZlFNUEpGYXd2MXp0QWVGdmgyOFJuUHhKWTNEeG5CaXJ1UzRmMzdoLTJSSEhNaGQ5b0YtN0dUcF90QVJKV3ZSUmlINjNXd9IBjwJBVV95cUxQQUVZM1FMMWY0OEZscGhuVlVnay1zdW4zNk8xRXk2YTB6LU5qZTQ0R3k0VmNEUHAtZ2xTVWtmak5jSUI2anpsN3ViaUJSS3dMWHJXN3lsM0t1SVRWdTV3MnE1S183RVVkNmZxRUZDUjgxWGEzTGZrRU8tZkI5WWt0emgzYWJFbUdzeGtJWGpGM0ZwWXVBc1RuZndqMWNtcWZvOFZDM2d3dWJlT1UtM1RmTTUtLWs2UlFLNzdWcXZBS0ZiR1Vaa0Z3RnNKX2xPaDltVHNfNjJSZjgzUS1TY3Fld3A1UC14Y0dMNkN1ZWxsTkJZR1NuQm9nMmNMWUtzakdvc3l3RjdPcjB5U3BmY1FN?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IRDAI commission curbs: IndusInd, IDFC First most exposed; ICICI, PSBs less at risk, says Jefferies",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "published_utc": "2026-09-24T07:06:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYW5BWXNIczBmNjI3UXFkeXR2THFXcjFKOGNfWEJKM1k0aGtmVzVsX0ZuVFlSc0ZrZUNDQjk3cXlrUS1DVHZPZTRFV0ZSRVRzY0tBRUxZU1FxT2VwZGlnN1ByV0Q1c1BhRUNaSTRmV3NxU0V4enF2aW0zWXBGQ0xrOTF2a2Z5Q0Nwa3BvRHdTZkN1WFpIaFBha0hKeDZ0cVVFVTBjTzZKbXRPbFNibm9tbkF4elV0R3FBRndIMHdMTUg0OHlDUHpaUlZBWVlraEpGOXVUYzBRU2RrVXRBQTRPX2thdERmUjV1Z1VB0gHwAUFVX3lxTE9waVFpWnlmd3E4YXNZYS00VXVzc1huMmFrSjlLZ1hiV1FrbFlUWHZWekFIYzZWVThoVElXTWN4N09jLV9ZWkU2Ykgwc0FScjNwNzFHU0VpdDlGUUpJWEt5bXpvNzdNTXJqS0pwRHdBMF9idlVocXQ3dFZpVVczaFBVa1lKLVl3bGM4Rk1oakw3ZkM5WERUYmg5WHNwUTAwSG9VX1BnS0hDaG5vMTFzRThhNUtTZmpqc05SNmdKdG5OUHBKWDdIQlphelFhdzFJOG9QV3l1dEp2Y2NKOHFBd2dfdmFuZGlwUnN6R1gwQjh2Tg?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank (NSE:ICICIBANK) in Focus Amid Private Banking Sector Developments",
+      "source": "Kalkine India",
+      "published_utc": "2026-09-24T06:59:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaFJiVG9xRHZZOFdidlRuS2xfSkFZMEVRbDgzQlVjVXFubE9ScXROOVJzOE53VUpJTFA1U1dtTnk4eXg5UUpxTUxBbW02QVNmMjB4MkxBVncwcUtmTU9VQTgwaWx2MWRsY0cyUFEyODNlc0N0ejlIYTR3ZUhNR0p0Y0Zfa2JNMWlXeHlUZEwyRmhCUVdsQVQ2RjFwOEhLTVdSbDJhN1QtclhZRFd3SlR6eVZhWm9vVkliaGJfdmZDXzRmOFlDd05kQjdRdHBJWElmWU11SWsxdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Allots 284,605 Shares under ESOP on 24 Sept 2026",
+      "source": "PSU Connect",
+      "published_utc": "2026-09-24T06:56:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPajQ0bGJjOWxhQjNlVWhxUTV2ZE5BUnpPLXJ3R1RFcThSdF9HTWxMeGg4akJBRG1aVzhkRE9UczNNZEFkNWRzM3lyVE12d2tBLWNfeF9xNG5xMUpMemNVZDdjRzQxbHpJckRaLXU4VENvam5ycUN6R0dzMFZ0VThlSmUxZ1AwdmFjUUJlNXlHVUs4TkFQaDBzVFVzQQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.318,
+    "strength": 1.0,
+    "material_count": 3,
+    "view": -0.318
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-09-26T07:52:15.691318+00:00"
+}

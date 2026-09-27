@@ -1,0 +1,414 @@
+{
+  "symbol": "IOC.NS",
+  "date": "2026-09-24",
+  "headlines": [
+    {
+      "title": "Indian oil and gas heir made professor of sustainability at Newcastle University",
+      "source": "The Guardian",
+      "published_utc": "2026-09-24T10:28:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLW80a0ZKQmllbGpBODhENjFEbnBHQklJLU5qaXdUX2s5cDQ2YXJPZnpmUUlzRDdjdXhkNGtVVUdUNWJuZjk5aFhaOXpuZ0ZmSWdERWRTRHBrSlhTRTJlVXFKZVNYRFFKcFV5T01ONnZWQU44RGRGZHBuTy05UlcxUUZZWGhueHJnUjduTFlZNXZKaUQ1UVQ1dlpUVXVraWxLNDFiMmtwZC14WGZCV2xFbWlkaWJBa0N4Xy1teVNhZG4yRE1qckQ0?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Firms Bleeding \u20b9530 Crore A Day As Crude Prices Surge",
+      "source": "illustrated Daily News",
+      "published_utc": "2026-09-24T08:23:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPXzVWTU4xYW5KOGdwYzdiclFQNFBjZkc0dGp6UmpHb3NaWkpHSHB4a2lyaUNYREVmem8wYlUxRXdwcEk2dDFiVGhLQVdaLWFEYnMwQUZ3X2c1REFPT3BKYmFYN2NIZGx1d18xVmVvYTQxQlNFQWFBUFR2MlFJR0ZhOFlJMnZEd0Q5ZzF2Wm1JdUpEVmwyZDgwLUlmNng2blRjM0hJVi1UdExrUVVOaFdscVhyY9IBuAFBVV95cUxQR2h6UXVFeU1jN2oxbUxqN2h6bnhrUGUteUJXaUhPNmU5bXREd1p0dEoxUmZ2eWpGWGx0NEJXREJiQWFUNTZ2WVpaX2Z3VmVmd0dNQ1R3OU1sbGpOamxBckh0aldickp3emxMd1BNMzUyZEVvdE5GY3hEdTViX0pQNHRkMnlKRmRLUGxlY3V2ZnJ3dS1sRHd5QU5ySjYwYWNJanljeXRWSUxpX1VFSnBXU0daNjB5VVJC?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IOCL Admit Card 2026 Out, Download Call Letter for 24 Sept",
+      "source": "careerpower.in",
+      "published_utc": "2026-09-24T07:33:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tOHdrU2hTQjVMbERvSXFtaTB4T1pjalV2MHRTM1RjeW92M1loTzk4Y3A5THE2NXVTbXZSekVvUmRwWmY3dERvTk5CY09vOHhVMWpVb2dUUEdzVFNSMVQ4eDNn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "50 litres per customer: Private pumps ration diesel as oil shock deepens",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-24T06:50:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcFdPVndnT1dHR29sY2hxSlNSUlpGaWxuNlc1eC0ydjZ1Q1UybXhSOTNSY3RQY3dyS3pZU2lqOVJleGVaT19uN1dBNlQ1ZEtRU3ltZ3ZkUXhoNzlobko5RkpyNk05N2FrOXZPMnh3cU9XVVNwLXJ2aEI2cEpjWnc5d1lWdmxZT3VWa0luNXAtTFJVWE44S1hKNjJGMlliNGJBS2JTdnJfN0FzSE5nVzRzZkxTOFBaTUdNRUNIcGx0OHdYY1l1WGtlVTZZRE9XakNGd0JHakE1a2RIb1F0VTlCeVhQdlJWUU160gHoAUFVX3lxTE5wV09Wd2dPV0dHb2xjaHFKU1JSWkZpbG42VzV4LTJ2NnVDVTJteFI5M1JjdFBjd3JLellTaWo5UmV4ZVpPX243V0E2VDVkS1FTeW1ndmRReGg3OWhuSjlGSnI2TTk3YWs5dk8yeHdxT1dVU3AtcnZoQjZwSmNadzl3WVZ2bFlPdVZrSW41cC1MUlVYTjhLWEo2MkYyWWI0YkFLYlN2cl83QXNITmdXNHNmTFM4UFpNR01FQ0hwbHQ4d1hjWXVYa2VVNllET1dqQ0Z3QkdqQTVrZEhvUXRVOUJ5WFB2UlZRTXo?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Why India\u2019s oil marketing companies are losing over Rs 500 crore daily",
+      "source": "The Indian Express",
+      "published_utc": "2026-09-24T01:06:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR25QaTJiS3FQN0g2aHdNTFAtLVE0dTFXTnpudUpKQ3VNYV9qaHlrRVF0VG8zYm9mU1kwMWlVZE5WcENaZlh3NnRyMkdRN29BMTdwSjZCbU14ejZhVnBmWThaUFpxLTVGVjNMNzcwMjl1QVFMN1l2UGNmaU1sN1prVWJYbFlVREJGTEkxa1YxRkJkbjNFUVFJVF91T2o4akx6OXhNQ3lFLWYwaHlXWDl3eDl5b21qSTc5aUlic2NpVDEwN3hHZ1ZBQWJ1bno1MktSMWI5MHV30gHcAUFVX3lxTE1HakRKMS1Sdms2c3ZoOVdJVzRReDRyb3l0djlrTFhDdVV3VXVaTmpFQk1adUw4OHFpMTVoMzVzaXR0cFhqeVkyeXBZenROdTZwR0Nkc2c2cl8xTmxRWXhqSlVRVU12R1RzdG1zc3FiT25ZQnNzLXQ5ZEpWZ0FnMmV3VmJvd2JtMF96d0g1ay1vcVhpT2lQeWgwZkZkVUZSZVdIdkV2emVJdDh2aTM4SVlRd1pwWGkwemlNV2QxNmNaTWU0UVMzaHF6QVlGRml3RXVLT3RfckxaMXVTN3k?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Assam: Indian Oil Corporation assures no disruption in domestic, commercial LPG cylinder supply | Akashvani News",
+      "source": "News On AIR",
+      "published_utc": "2026-09-23T23:41:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGFYa1Y4Qm92ZGxQNGRONFNCSDJfLXM3bGxsTmVwSE82elJPR2FXTXhUcVhMOUNIclZyNThPbks5RG41UFlVNGF3SnFxUXRJSTlQM0ZpNWItRklWMnVpZjJUMDBPVkt3dm1ZRG1WZXM5ZHJ1QU0yZ0h2M3JRSFVQVHFLQzdlTEZxZ0tKR1Zxb2tCR0lLUEpHMGFpaXNLTkUtUEMyZ0wxMkFTaHlJWTVYb0UydTJSUjRaM2FB?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Independent Director Alka Mundra Resigns Over Independence Criteria",
+      "source": "BW Businessworld",
+      "published_utc": "2026-09-23T21:32:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRWtSLWoxZW5VOXhSckFOSlYwMnJjWW14OXdlREtKLVk3OFpRR04zSFgyV3RWWElzNXBPVEYtT3hzMEEzYXZDZzZjWG1iSmZhM2lLWnM2THBmOXB1Z0R0cUN1V1VvWWhITndiT1hjbjQ1SWRub3NZZ0VOdFJRVFdfeTl3bW1mOGVtN09GREF2aXBZTXF1cFpWTU8zX2prLVFTY21JbllmOFNqZXZGRXJQeUREZGVjbWxQSjRZWHZuNA?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Share Price - Live NSE: IOC Stock Price & Chart",
+      "source": "Upstox",
+      "published_utc": "2026-09-23T18:35:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGZVNnY0dLam9NNTc3Y2MwNzgwVEV4Mmo0V3lpcHp6MXFqT1l6UGlLNWR3dFZCeVRIVjI2bm5lMmdWQ3pfbkcyckx0Tkh5elZhd2dkQVN5NEhTRWswVmliengyU1hYRjZudUE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Cricket Grounds | Indian Oil Cup",
+      "source": "Cricinfo",
+      "published_utc": "2026-09-23T16:57:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5neVUzX2JYaVZwa0J0NjVBdVRyYTVPdndPWVRDSm9JOUxpY0RvYzJRR3BvSVUydlgzU2V3LURoV2lTaGtrc1VTRV9lNUFGY0VCdTllTUlrdTNHck5WM2U2UzNMUE5xQ3ZCR0loeGRkRndUY2NFNWxpdXdPdw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil firms face \u20b9530 crore daily fuel losses as crude surges: ICRA",
+      "source": "ET EnergyWorld",
+      "published_utc": "2026-09-23T16:41:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTnlQLXZHaVVaZ0RkUFdhS1I1NTNGdER6RDdPZG85T0diX19ETWNnV0FOMU9ZV1k0YjJtYWdSd2FqbTkyUkQ5UnFFamlZME5WVFVGN29HYVFodWt2V1lMLXpWQXFzT05hUmVIWGFaZldnRVFUOGxVTENSc2dDWTN4VEY4NFQ1VU0zMjJZRDNrYmJUT0RpbDdFaEw0TllJLTlLZDRZbTdGRWdaNlgyMTFnS3RxS0pUc25DWmlwdS1vWEdWR3pPb2VRRGhlRnRfQmFIMGxjRtIB1AFBVV95cUxQTnlQLXZHaVVaZ0RkUFdhS1I1NTNGdER6RDdPZG85T0diX19ETWNnV0FOMU9ZV1k0YjJtYWdSd2FqbTkyUkQ5UnFFamlZME5WVFVGN29HYVFodWt2V1lMLXpWQXFzT05hUmVIWGFaZldnRVFUOGxVTENSc2dDWTN4VEY4NFQ1VU0zMjJZRDNrYmJUT0RpbDdFaEw0TllJLTlLZDRZbTdGRWdaNlgyMTFnS3RxS0pUc25DWmlwdS1vWEdWR3pPb2VRRGhlRnRfQmFIMGxjRg?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "OMCs losing Rs 530 crore daily as crude surge squeezes fuel margins: ICRA",
+      "source": "PSU Watch",
+      "published_utc": "2026-09-23T16:35:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORG9Cc1B4YTlnZTA5c1lXR0h3TUZiTk5uWFVuUnQ4S1RlbGxKSVNnMTAwdndMVi1JTzdGQ01YNUVKczJPT2ZIalNjaFNHbm4yVWo2akV6RUt6OWN1SV9SR2F5SXBsSzU4aXJrZUFiX0gtTFZYaVRzUWpoa0JBcndpSUFSTEo5d2dYcmVjdUVoSzRsSnJkTmh3aDZoQ0hXQmR5NklCams2ejbSAbYBQVVfeXFMUENwdmZnMjFlbHZ3QmFvRU1kYTdUTlFxM3VmRmpvek92Zm82Z1B0dFhEQ2c0c055S2lTdVVCWGdUckFSSWE2ZTZBeUUxTnRxUzRTRmhCYWJpQzVvVnl3UWx0YU1tOE5DSVJHTDFlV3lvODMtRjF2QmNyYkpHc2cxSm14dGFUYWNxSGh1d1BVai1KbTE4amdRbU1sbXBUQ3c3bWNvWDZHa3B1dkJPbUVfVFB3QV9uX0E?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian OMCs incur \u20b9530 cr daily losses; \u20b98 per litre on petrol, \u20b99 on diesel and \u20b9300 on LPG: ICRA",
+      "source": "The Hindu",
+      "published_utc": "2026-09-23T14:06:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQXzdYVENfSGtJQlRZRkF5WjJCc0NsMjg5R19kMTE5Y1VlVXh0bklDalQyN2RhaU1WWlNBMjh4Y3F2S0w3d25ZQlYxREd5LXNCOUhkV3RxaW1ULTE0NHQwS0pEbzI4OVRIcWpQUG9TRFlsY3dkXzhnZHVWN1R4MkpLQURuUFV4YW1XOVBXdWNUZHJBVzFVR0hpaG9aTHBUaGgzc2ZtSEVKWGVXVmRuWHh0X1VzRzZ5TkN2V1g2REpaeE05T1EtbjJ2czlteFpGZnV0dVJTQ1dMb1VxVWtqTTl1VWRMR2pRSlRf0gHvAUFVX3lxTFBIekFPMERwSGVyOF9pVVFteHpkN0J5SWtWQnVjWWIwaDhyTDFiTDd3elNkWXlCX3U5UWZIVkxtV1VLay1nMEhlSjc3dl8yVXJ4akZlQWctQXhZQ3NCTTdSa1g5OWRlNEZkR0xDZWdMWHQ1WmlnWElVNUtXTjE1NF90Zkx1eHdfZDd3c3JsczY2V091cVA4S1lxTVBvYlVBaHc1TTlGQk9IeUlJUmtMSTJZbmtWdXhTZlhYaVpxUC1YeEF2QThOaDN5XzVHRF9qZE5ETW1idUtCdk5iSDJWNFZBOHpncWJNemFLOWVXMlE0?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil firms face Rs 530 cr daily fuel losses as crude surges: ICRA",
+      "source": "Daily Excelsior",
+      "published_utc": "2026-09-23T12:10:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMlBpeVdOQWtadVZHQm9UMkpneS1qTFRfVHVXOGg1a0pwZVkzQl9iQUdEUUJjS1dYX000YlZESVY4eFZkLVRhUElxek9RWndMVUh4RC1HYUFRRmM4MXpBTVplRElkdy1nQno4ZWJxZzRFanJEMXY1MUlBbXA0YXd6NVN0aU55SUl2d19kVU5EYmxTQ29PQVVJaG9xbzdONnPSAZ8BQVVfeXFMTTJQaXlXTkFrWnVWR0JvVDJKZ3ktakxUX1R1VzhoNWtKcGVZM0JfYkFHRFFCY0tXWF9NNGJWRElWOHhWZC1UYVBJcXpPUVp3TFVIeEQtR2FBUUZjODF6QU1aZURJZHctZ0J6OGVicWc0RWpyRDF2NTFJQW1wNGF3ejVTdGlOeUlJdndfZFVORGJsU0NvT0FVSWhvcW83TjZz?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil Marketing Companies Face \u20b9530-Crore Daily Fuel Losses, Surging Crude Prices Deepen Pressure on Petrol",
+      "source": "Free Press Journal",
+      "published_utc": "2026-09-23T10:27:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHlEcjJTYno4T2E5Wm0zdGJwZFpFS3AwTXA4T2lBWkhrTm1kRWtkaWlVWDVKWjRTekFJM3NDcWNNbFY4VEdlRkpxb29DUGhmQ2d2NlZWX3NiM1E1RENMS004bkNHb2RFWkxhaDZCdTAtaVRva2NfemlkTWdaY1NpejhvM0JjanBGVHhFd2xhRWpvcERCR0o0T0k0NS1ZTGFINUxEaGJkQ1luOXQxQlV2c29LcmYxTlgyQ1BWWHhUMnNOa1hiYkViZ0Zib09maDNxd2k5ZFF4bzFkWGJiTU1UMEdKVkMxTTJoZXlPa0M4Y2FpS3pXQ3dLZWV6TkbSAYICQVVfeXFMTWo1QXF5c3ZFZHlHVWpnWTJoMDNTeWV3UzJ0eF80Uy1OM3FqS1hIUW1lM21SV3p3cTFHb1IxcnVGWWlLbU9fVWtqYjZUNUJPWnhoczAycGxoMDF0b3h0b1JDNjBVWWQ5WlNOcVJCMncyLTRyR3N5blM2LXJzVVZDUXo0cng2bWNWSXBtX0tZTXY1YlZ0OVljX3Q0Y3dpMVhmN3V0aTZtY3NfdDNublNiNFZVRmNHNXRHdThkbGl1NXpENDRKajUxVUZJbFpUNEpxZHdiQy16MjJVSHhPRmIzS1ZFSFowNEMyM1ZFWmdlSVNCMmhCSENiN2c3Ql9hTTJaN2VR?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil firms face Rs 530 crore daily fuel losses as crude surges: ICRA",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-23T09:52:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaTRXQkpiMUFlcjhaYzMyVG9kd1M4OVo2NFowMjlRM3oySDAwU1hoSjJvU1ZXLVhQQTNWQkNVWjNod3dpOE9yclpXbmNnZ0FNcmpDTEVabUNJYTN4U2luTTFaVHJySklXTHJkRlhGLUllcC1BejAxb3EycmpPU2FzWE5lMXVFUGFVQmdSWXlldk0ydnJwSVlwTW5uVVlkcWJoTUV3RTd0UjZSNVFNYlhqQlA4U1pSTHV6WXRzY0lWblNMb1l3ZFBmT0xoTmdDbGg1YlpFYjJIbnYxRVBxQ0drNG130gHiAUFVX3lxTFBpNFdCSmIxQWVyOFpjMzJUb2R3Uzg5WjY0WjAyOVEzejJIMDBTWGhKMm9TVlctWFBBM1ZCQ1VaM2h3d2k4T3JyWlduY2dnQU1yakNMRVptQ0lhM3hTaW5NMVpUcnJKSVdMcmRGWEYtSWVwLUF6MDFvcTJyak9TYXNYTmUxdUVQYVVCZ1JZeWV2TTJ2cnBJWXBNbm5VWWRxYmhNRXdFN3RSNlI1UU1iWGpCUDhTWlJMdXpZdHNjSVZuU0xvWXdkUGZPTGhOZ0NsaDViWkViMkhudjFFUHFDR2s0bXc?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "PSU Dividend Delight: THIS Maharatna PSU Fixes Record Date For 12% Dividend | Do You Own?",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-23T08:15:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLV9XWGlkSF9Bei1NTjNNVG1xalFqaUtoNmRLWFNUV2Fmay1fTzlKRXl6V1psOGJIZnRmOWgzLUJLcldBMTU3ZFNId0lySWc1Nm4xOGpGQ2tNejZlNE56VW41WEt5WFBVc055X0FFamY1M0FLdnBuMFJYSHBfNUh0R3JTcVdyVE1uVVFySWd0amQyVVJlWHJpVjdsY2FDdmxfTXpTX1d6NFE0dGlwaE8tbXBmTUFkZUVsWkRIYlNjREtBNk9aNjNyTmtnc0t3ZnU1THNtTg?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "BPCL vs HPCL vs Indian Oil Corporation: Comparison",
+      "source": "Univest",
+      "published_utc": "2026-09-23T07:12:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Gb1haYVhrQkNtQ1k0cTIyZ3J3NzRYTWFpd3lEamVuNDFLTjloc0RnbEJGSkViS1YzUmk3LThLZk56TzU5bzNkX096bXNTRE5NLVhoSS1xTU9HSTl4WjJ0czBNSzY0aFVTS05UbmFkdVY?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Fixtures, Schedule | Indian Oil Cup",
+      "source": "Cricinfo",
+      "published_utc": "2026-09-23T03:27:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nVy12aFFoZGxWakRTc0hZWVVqNFFaRTRyb1plZnp1NUt5QlZfR0ZyM0ZOR1phRDdJYWhXVHlrTW8wYUhZQ05iMFU4T2tpOUNjVnpSY1ViUUMyQ3lFbms3cTZuOHBJX3ZaM3pWUFo1VHRqYWc3RDk4RUFMd3E?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil clears \u20b92,448.7 crore gas pipeline link across Kerala and Tamil Nadu",
+      "source": "Indiatimes",
+      "published_utc": "2026-09-22T23:37:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPckdPN19WODVLMDU3ZlZqdW1pOHN5RXV1Y3BaeHFSb0ZRV1Btd05VR3czdmlPVzRvRW1KU2xqZC1vb2ptMzB0bTB4Wko1bXczUnNUYmQwRmpsUWFRVHNLN2UweVZxd2NNWXJMTV9hVkxZaVVXN1h0MGFvZHYwVUdRS1EzVzZCUHlaeWVnaERsUjBtQzZjc3h0UDd2QXl5ZE5ab1JTelh3OHgxV1hNMlFCTDNuZTlBdG43eWREQzhTbGwyZVR1T2NKY3FUTTMwU3A1YUR2eWJ1WHY1Rk9LUzJQMk4za3lkdVVlOERGMDZSaEPSAfQBQVVfeXFMTXFhU2hsNzdONlpOZnVaeGs1aENoSVV2bk9IWTlJMldldl9iWHgwS1ptTUdmeHpMRUJ5dUh2V3F4NkYzVjVaUGpIVUJad0FBLWo5VUFvME52RnM4aHBXM0dadVBadUkxNUdBQ2ExeGkxWmZoRV9BQlZoSEpYYU4yQXVNWU4tdnJiQXpoVlhIX2pFVjVqekpNSkJsTFoxM2FacFhHVGQ5dHlWTDJxMU14NjdSOWUxODdPazJPVW15NnRsWDBiVVBtb3paTkF6LXg3bmUtcHhSYTYzTmpkUUZ1MWdpT3E0a245SV9tU2JlMUFQNlBCWg?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil shareholders pass all resolutions at 67th AGM",
+      "source": "scanx.trade",
+      "published_utc": "2026-09-22T19:32:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnJwbjh2Nl9DWVVqWHpGcWR4emlXZVA0TVpSaDBLdjYtVUVZRURfOEdtY0pGX1djSFZRajlGYmRWWDc3MWlzQWd4TGNJTlExa0hCaHNvTS1xdEZISUZNYU5mbVd2cG9yMDRyclJ2MFpYMEppMVVUc0ZYRWlzSWVqS3ZNQTVpSlA5VFFLLXRlVUYtUXotRWFGLVVoWDd1Sm9r?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ADNOC claws back Indian oil import volumes from Russia",
+      "source": "bairdmaritime.com",
+      "published_utc": "2026-09-22T18:05:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEgzOFEwNjhNZy1mU0ZhVEZwczZENndXaVdYS2E0bHd3YmJlcWg3T1dUYnVtVG91YzZXcS1QSFhYUlNaeEpHRHJzQUxjWEpwM2ZpaU9nNlRzZHF4YkMzMTZuWFdUMGIxZkFqX0VVZktES2ZJVU9NRmFZdTlMd1BZaEtLdkk3c2hGV2RXMHZIQmhtY2VvX2d2eDV4N1VCRDctZ0dN0gGwAUFVX3lxTE42QV9NZFIxSFdfanBFaGR6X2Q5RC1pQTlNSkZOZTV1TUU3S1V4Y1NxZWp0cS1wNm9ib3RubUJsU0o1R2NHX25KeEZ1QlpPeldSU1JaaTFLOGR4akhqeUwtV1hqS0RtdE94cUF6VGhhSUFVVE9zUm05UXJaN1Zvank2OUUtWVZMREpJMF9EMEJSbUJRZWR0ZTg3Z0gtQmg2ZWJNX3RkSy1CRHYyZGZtUG8w?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Odisha Media Team Walks Through 135 Years of Oil History at Digboi",
+      "source": "Pragativadi",
+      "published_utc": "2026-09-22T17:16:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUjlSX200c1U0MkFBLTdCdm9LRkgyUUdkNklJSWpRN1RId09BVTVkRGF6QTFfalY0Q3l2aXVlZUJRYjIwdUZMVFhxRnh5amtXNFpPbkZxNVNUUDRwV3liQlNBcTVMUlRUcFlmaGNqdFI5WWExVVgtY3BvR2xDYkFCQld6enNiMkU?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India May Halve Its Purchases of Russian Oil Due to U.S. Sanctions \u2014 Bloomberg",
+      "source": "UA.NEWS",
+      "published_utc": "2026-09-22T16:50:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGlWRUFOOFRKZXZCdHRyWWNkdVd5eldEaUF6a1ZvUVRTT3lhVGZDVnBqOVJia3FtOFRSQVQzaV8xekp3YUxDak1yN3hHcURuMjI1Rk5ON3ltSDBPMUUxQ1M1b1laWlVGN1RLUk1EdnF6SkJyOW1tclhnZmVHUzZoSnZrbGxjN2dWYVF1YjJiZ2xfeDZ2MTdyRWVTa3FwSmdJY2Jqdkp2UllpZlliemRpQzgtYnk?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "BPCL, HPCL, IOCL, Reliance Shares Alert: Why Oil & Gas Stocks Fall After Rs 3/Litre Windfall Tax On Petrol?",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-22T12:46:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd3NrWEdjYWhVS3RaeE1hcVZVMFViYzBWeGRwSnRtaDUwd0F2b0R5OVFEZWtPM1NNdDk2RUJyXzJRaTJrdWstdlNDdkVYeW5taW9aYzNUZ2wzS0hVZjFtWVhkc2ZscVg5THg5WHA5TWh2RVBNc2E1Zld0NDlKS1VmTGpCeEpRLW82WU1SeThWTTNUSldTd3Q0d0NXZkxDOHd5YzNRbFZ3c3pfSjkxZUhrbHUySThXN2FMb25OZjFRUnB5eHRIZzhZZzBuY0FCSk9NUDlPRTk2QTJpYlpU?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India may reduce purchases of Russian oil through the US",
+      "source": "\u041f\u0440\u044f\u043c\u0438\u0439",
+      "published_utc": "2026-09-22T12:03:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWk5iSzhxZ0NHdE1KbENScWFBbC1JaXNZTHFSeFFrRDZMVG83QUNJVDEtWjVwM3poQUJ4ODZXSkIxZHp5QU5yS21pb0FVRWZfdWVWTVBfTEcycS1wNUFmc1l2Q3hyWDNuWjBYNC10Q2NLZDEzemxYQ1M1YV9MZTgxZjdpU183SmZMcGZMNy1Qc1NXWmVtaDZHb1Bpc1VUbTA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IOC, BPCL, or HPCL: Which Oil Company Might Pay the Biggest Price for Russian Crude",
+      "source": "Trade Brains",
+      "published_utc": "2026-09-22T12:03:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkJtSkJEV0dCTjlTOVIxRktmVTVKcnV2MXN4ZXMtRHF2OENvX3M4Yk9ybWZHMTlwVTRpLWZ0VGVfTldIa1R0eldNQ2hTYXFyTTE0MlpUM09YOXBOQm14VUpHRW9sMUJISEd1ZjNHV2FPVVZVXzQ0cFdsbHlkYkUtLU0xUWNId01oTXlQV0xuaEstdGJKdTNqTGQ2Q29QQmVBRjZmYkhkekd2V1NjV2tBb3FwaDJVc2xQUTVrTDJ0dXg1YWs3RkE?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian refiners seek alternatives to Russian oil amid US sanctions Law \u2014 Bloomberg",
+      "source": "Ukrinform",
+      "published_utc": "2026-09-22T11:50:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVlREX2FDYXNiem5zQ2s4SE0tVG84YWVMZjlpc0libjhmRnZyYUpmei1Ud0lFZ010eW9QTnEtRElWbVE5TUcteVhzOFFkWDJTVWVxYk1VRUtWQlhURHQ2eWZEWjRDdkF0X1dmeEd1OS1aS1NOTUNwUWVNaG1qUEEyZG9TeDV1TzI2ajJlS2ZKOGRRUDJ3OXE1M3dqRjJvc01kdE4xcFVvMlJTYVF5bm14RnBWN3p4TC1uVERCdUx1cElkV2hMRi1UYVJxeXdOQ3fSAdQBQVVfeXFMT1Y1b0JjS0NrTXZKM2ZfYU8yYkM5WWllUWtZNkNkaE5DSlhxWjktaGJSekJqeWZIMC1vdmJzSEdDUkdKcWx6c21tNW9RVW4xZ1hVTnJ5VmpJTmpVYXZHYW9uamxrZHN0SWdMZlNmNWFnYm9oVllodFFHWlBkNHRIck4yNUpsUEV3MVhLdXpyX0l1cEtaYTluRVplVDdETHBuSXIyZ1phejNkVW5tVE9Bb1RBa05FZ29UeXpDME9XY2tJbm5aV095RkxlbHo1N1IyNzFvaXY?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India's spending on oil imports rose by 48% \u2014 OilPrice",
+      "source": "UA.NEWS",
+      "published_utc": "2026-09-22T09:28:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXVGcHRINVI3TGxFVkJwZTZRb1VjSGlNT3piVkxfVjNzdjc2dXJYQVhEaGtscDlLN09Cd0drdC01aHp2WUtmMnFRcE9UblJFWm14UVdlZFpVWjcxVms3dTRVSjk5Tzk0MGZqVlc4YTlKaEpBMU5wN094Slg2ZDRVTXlVaWdURFE2dHc?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Board clears Rs. 2,448.70 crore Kochi-Kanyakumari-Thoothukudi gas pipeline",
+      "source": "Indian Chemical News",
+      "published_utc": "2026-09-22T08:29:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1BhckpDR2hVS0E3enNXZjNfSWJmMEduT1M3M3hRaXd5QWJVaFk2X3hpS2ZJaHdDbTRDQXJoN3M1SHF5ODFxc2pWSHZtVk1odjZCWXJmZE9fc0NDNXlNdHc5ekhrZkppS25BQzgxbXEzVzlWZnNCb2ZaWmV3Y0pKRWlHMWNFamZVZUNZalVVZnUzem96TVJMNTEzdHd2VHBiMC1sOVlYMVhuNlBIVTVRRVNzRlFQa3JSYVFxbkRKZW5WNkdpZlHSAcwBQVVfeXFMTkhWY191ZHlnZE02b0liVXpUWTZIQ3Y3N2xRRzhmT1E5MklreW9XV2pRVTJ0SVlFMk9UY1RYS1ExRFVaNHVlM2RQbjRSb3RSbVlpZFVmQ1g0Q184SzFERU94TTh4cllMNlZWZ1hQc1pvTDZuRkRXQnAtYUx0Y1NDQmRWLTgySDVUV3NudGl3eWkzNUhuWDRxbVFqYzZWMUpjUzZwc2ctbF9mR2V4UEN5ZHhXVnFYV1J0T3I1SVRjUmFBbFFURUVUbGgxNld1?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "From HPCL to IndiGo: Which Indian stocks could ride the crude oil rally and which may stumble?",
+      "source": "ET Now",
+      "published_utc": "2026-09-22T07:23:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNejhpQXFTYkVwb2E1djJkcmxybWJmaGRVZDZtOHhabUVCQndyaUxvcGhSWVMtRDk3cHJ0YVc1OUE2SG9jNG1oUGhUWUcwYnhPXy1lSHB6dTdTRXlNem1OVTVybzZaV1hRczlqQzdYRmktZ1RFS2dDNUIwV250NnRkZjVhaFBjNEU5S3dXVGlGeXFCQUlsS0drVHRYV2tpa2hZLUgycU5DZ1lJWEtReUxlZTNXU1hwbG1iSWlvUWRHWnU1TEp3d2pJX0xhNVVwVzZnajM1NVlYamxvUE9L0gHiAUFVX3lxTFBGWHdrRUdXd3VrdWlfb1VXcGpZMlB5aDBELVpNN1Q2ckZDU0dodU13dWtZc2trM3FaWWZkbDlZR05iNjAwOTFUWkxVc0lOQkxTQU9sRmp0MGd3cXFNUm1VWmtVUUxLcnpOZ3REMEs1WEp6ZEU4R0NRazFxMkNkeVVma0lCT0xobDBuQW11VXFoUnlfOEt3NmNsSV9TeFNGcHc1NG8tVFI0Qzk2UFlOM2gtcWpTelFmaXlvVl8xZG5WV1VZS3ZXZjFSZ1U5amluRC1CMkNjLWhfR3h4b1NlVEdDY2c?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "BCCI Corporate Trophy, 2011/12 - Indian Oil Corporation XI Cricket Team Records & Stats",
+      "source": "Cricinfo",
+      "published_utc": "2026-09-22T05:09:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnBBbmRHWkxYOTZqWGZxTUxNRFA4YnYxQ2x6N244WkVYYmdibC1uZWNVMnFibmZGNlRadkZadnBHNDJXc1k2TWJzV2hLdDlTdnRxSEtMSTM0RE82aW5OeUFtN25iaHhGREctSWNCRUJCUTVnOUNJX2tpeV9kQzFlV1FOM2NYTWtCSk1heElPcEFlMjk5ZUdNaDVOWUNUeEVjbkF2cG1fcU41dWFPRjdmbmZUaXRsUQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "BCCI Corporate Trophy, 2012/13 - Indian Oil Corporation XI Cricket Team Records & Stats",
+      "source": "Cricinfo",
+      "published_utc": "2026-09-22T04:55:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWNMa0c2RWJDUXA3aVpLMHBPWUk4UVdpaEJWS21CQW5SV3NfZHI5Q0kwZzVFNFl5RzlwVVl1WmxqN0o1a0VXTFlacDJoeGdvX2tqMEdLNjR2OERkVW83ZDVqN0JDVllDeld0czNTMVRRV3kyVk1GaUxkUFQ1N29KVUhKRTlXOGU3YzF3UWZReHBJc3RXMG9UcEx2cnQtTVBxMVRBR0RwRUhONkdlSWVzTjN2UVhZRGM?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Stocks Muted at Pre-Open as Oil Prices Stay High",
+      "source": "HDFC Sky",
+      "published_utc": "2026-09-22T03:42:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUnlWMXBsMW1adV9GSkhGcnowT1VjLVVfVnFlM2p6Nmd6ZXVHWUtiOGlVLXdlNGwxbE9aaEYyLV9fWjdCQmY2T3NXR19IMGIwRzVDQUIxVkRuV2VacVFjWmI1TXZyWnQzUjJ5dWpSQnNtY0VSZ2NPZWktX2dwdkhUbDRNZlRxUzNKajZHTDM2NzUycmNFMm1UTnYyc1NZd1paZnVuUDdIUnF4Sk5VLVduMG5hS2ZBa1loNDNjSXVoM2poaEdTWDdv?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Kochi-Thoothukudi Gas Pipeline Gets \u20b92,449 Crore Investment",
+      "source": "urbanacres.in",
+      "published_utc": "2026-09-22T00:59:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMHVVcWJaWEFBOXRsMU8yNTY5ajEwb1lJZDFtVWV6eUdyaFRsYUxHdXJFeVh3cWZaYVJDbnZqd2hKRmxVeTRaQnNSSTVONUJRZWRJOWJfZG5uYWlkT0syMXNsTkZuXzc4RFlfZ0M1OExIT0lRNGo3a1l2c1FkWU50RlY2bFplWXNwODBrQW5zaTI0RHlnN2JsWTlpbw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Stocks to Watch Today, September 22: Bank of Baroda, IOC, ONGC, Samvardhana Motherson and others",
+      "source": "ET Now",
+      "published_utc": "2026-09-22T00:07:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWFgwWldsRHhHVHZkdG1VZ2hIdkx4SGVTN3FDcE5VeFNrc2g0OVU0a1M0ZTUxOVFHZzFrR3hCRTBkTHdVME5MdUk1RGl2RU1CbGtKajExRGU4elpIdHZYVXlWTDB6TTlTOFJiZEhLR3B5RVp5c1dJblZBbWliOVVGUFc0U1E0VmFqUGNFVnJqRzVDcmVQdVM2ZUNJOWliNjI4eFgzOVJjZlZPYnYxTjZ2ME9WN3JLR0FDTGJSVjJwaVZaZlNkR0U4ZzBCTlRib24yaG9scEFiMnZyX0HSAeABQVVfeXFMTUMxNzRMSmxWSktBNlhiMHMzem5RNUtaWXpneUlMMC00WHdxZDBKSE1JVnBwLWpLUHk0amg5U01CSHNhTEtPLXRYeU9peXNiWklPdTZGQ3JWa0NvNUZmS1drZUlhSlYwNC10WWktdjdYcXVOMkJ5aElURXJqaFRUajhxUGV4NzZvcHduWlEtN25pc1dGWEVHaGY2VTdvME41a1hHRmx3LUtsdzk5dkFORm8xSDlYUVd2TlNESjlKSmlZQ21nenc5WUdLQ3kzTEp2ZWl5b2xWSDRHTzRMZWczbnk?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil to invest $256 million in Kochi-Thoothukudi gas pipeline",
+      "source": "Pipeline and Gas Journal",
+      "published_utc": "2026-09-21T17:20:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLW5KYnViWk8ycTNNZlc0RHY3dEtHSHVzMkVSanpWR1FhV2FfUERmSmRFQW1GejBIejZTclBEQWNwWmo0MUxSMEREcEJNbGdGWXZtVE5pdnhCdUJZeHJ4RnAwZ0hkZ1VYdlRreDVfQURqYUxfMjd6Q3pLbUI5MjFZRHB1aGhOWGxsc1pYQUlRaEllN0xMNVJ4QW9GYU1VVHo0cmVDR2dWODZ5dXd6?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "After 40-year wait, Indian Oil Corporation bus terminus opens to public in Tondiarpet",
+      "source": "DT Next",
+      "published_utc": "2026-09-21T16:03:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdVNtR2UzYjFsU0h4S0lvdFUzWWNVY3cwdVVIYTdBM1VwRk9HaUs0MUtBX0xaUmdzWkdRa2Q2MDVPRFNBcUw3dWxjUDNWdFpNZWZ0b2MtaVZYbWhJUXpxdmttM2lpQlNLNFBQUXZ0a1JISGpkam1FUUU2TWY1N3VVYVVrT18yZ01mclk3WlpWTmpNdDRrU1hVcUlCY1UyQXhJR0o5bXVTcGhXblnSAbgBQVVfeXFMTl92UkFGLW5MSTFmcF9Ebmg4Q1dkRkZjT1JyMjAxVmZZaFpzdG1nV3l4aHRnUDVzcFRWQk9rWU9YNVBrQlpKT3BhOUk0WV96Y0NtWmFBRUx5UGEzSXBSbkpIR0puaktRZkczR3dMM2l2Rmt4emprdmUwaGIzRU1XMHNEVWloYUNhVXFYUXktQXFNcHRXaWQ2dFc5QUN3NWJ5R3pUdUtOQW9Qbzg3WFFlZnlDcExkVy1TZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Kochi-Thoothukudi Gas Pipeline Gets \u20b92,449 Crore Push",
+      "source": "urbanacres.in",
+      "published_utc": "2026-09-21T16:01:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORnRuTENsX0RRdUdaWFcxRU5SVlBjZFRIVmJZLXdKUGo4am14NEkxUV93RndQMFZDWmhkYmo4TTFkQ3lFa0tRbkk0QjJqaVlnaEp2Q2dyakxaYzVKWUZNYzVkSjhmcVZKUVdaTlRKS1dnSm1VdGRVcThtWmdxdWZYaC1MdWFBSWtrU2FFQXNwaTIzT1Rrb2huOE5n?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil board approves Kochi-Kanyakumari-Thoothukudi gas pipeline",
+      "source": "BusinessLine",
+      "published_utc": "2026-09-21T15:53:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0VXOUNBOWVQcFh4cjc4cmZTZDZac0RyT0x3Vm5kTTg1SzVLQldkWUJmUFcyRTJQVTlZMGxodkdGbXhyWEZ1NW9tcTVsSDMwbFpVM21tRl96QjJ6ZUJjMnFqTGpncTFLc291TXh5MEZRWG1iYXR6NDRTUlBFX2RaLXNaOENManU5SFc4SFp3ckw2ZkUtTVd0dXQ5S2YteGhwVkRYNHlweTFIcEp0ZU9tdDFTY2tHbUFvR1JvS1RqeUNFMFdEY1VScGJLMC1RQVNr0gHXAUFVX3lxTE9HemtwOWdmemxIbWJQQjR1d3Zwdk5Qd3pia0R4cEpRWHlrOURwWkh4OFBYN0FNMERsVkVYMWRwd214NWxhQzB2RGxBcmVVZWV0XzQ1ZThQekNsc0Q5ZTlRb3dvNGstWnZ4SWxwOEowV21oMC1nWEMwck0xQ3RYOHA5dkV4VGNJcU84LWp1Um5ZanZ5UTB6MkU3ZlVPeXduZ3NyRlpHSUxFUFVjTHBkYnp0WkdZTWI3YWRTb0pxQVRYNHhiMEVIUmZBX1V0cXFsS3dITkJ5Q2Y4?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "100% U.S. tariff threat: Can India\u2019s new trade deals reduce its dependence on America?",
+      "source": "The Hindu",
+      "published_utc": "2026-09-21T14:20:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdmtoYkJ1ZmpNbkd4Wm96UUxSYW1YMVVCa0tZVXJQeUFyblJqbjc5OUlhNkhFRVlhM3FIVXgzVXdUZDhqT1E2U01LWnY3NWhDUG56NFdxa2E3MTlTZF9fRUhkZFZ5dkFCX2tibG9zMUdmbWdZV0NfTDJiY296NzVJblA4RjlVdUNyWkx1SGwyRHI2cDFHZm1yakhXQWxFNkk?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.453,
+    "strength": 1.0,
+    "material_count": 24,
+    "view": -0.453
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-09-24T10:56:24.939204+00:00"
+}

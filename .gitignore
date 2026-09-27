@@ -1,7 +1,9 @@
 .env
 .venv/
 .claude/
-data_cache/
+data_cache/*
+# ...except the scored headlines: the archive for testing the news advisor later.
+!data_cache/news_india/
 forward_test/*
 # ...except HANSEI's journal and memory, which the public dashboard reads.
 !forward_test/hansei_journal.json

@@ -1,0 +1,54 @@
+{
+  "symbol": "PETRONET.NS",
+  "date": "2026-09-26",
+  "headlines": [
+    {
+      "title": "Petronet LNG MD Race Gets a Political Twist",
+      "source": "Indian PSU",
+      "published_utc": "2026-09-26T07:16:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12d1pPaFEzUC1nZGF5djRRS1hab3o3MTdqX2xlaE9OLU5FR0k4SXlqV2VXT3gxNFRHWlBHMllLZ05Mcl9KZE4xZW1BZVVGLWs2Vm5BSXhWby1FcUtSeXpteXNMWmdQRjFteVFN?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "LIC, Meesho, Coforge, Swiggy top Centrum\u2019s high-conviction list for MSCI India November review",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-09-23T08:54:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWEx3WWpORmhjc0NHLXBma3FHQ1ZaRXNaZ3ktMFVFRmlHeGlOM0xhU2x1VmV2d3haLVdWd3dPU1pLQ0pPMlAwbzZFczE3NWhXeTdlbWlIQjNjYi1CWjZJNEVlVnRla0VIVFM1aXA2M090cUU3NTJLVmM0Y0dtcXJ2NmVXSzB2ZjVyQzR4SjVEamtTU3ZzZnFMN3VFWUhqNEx5ckoyR1JwaDV6Y1k2Y25kNzluSWlmVFVLTGVIVmNlOFEzcFRzcHpLSVRUYTdndE5mRkc3Smp4TGJSbklFTnBWVDFCLUFBUzE2VE9tN9IB8gFBVV95cUxQQ2gxY0RLcXZ2em5LVGhJQ0NkQWp4NTFkMkVuX0kxQnFOQzMyTE5CcFhlN3JUb3hQbnAxMVA3YVRhTGxlTUprU3FsU05Gd2NFRHl4Z1lEOWdBTUpOUklycDlTQ2d4SEg4aDlQOTllaFBJNlJNdzFZS1oxT0RXeF9kVS04UlRPSXFaUEIzTURITUxTZ2lSRFREOERCOG5mSEhhQjVpR3hUbVl1cXAxV2h5WVNBMkFrT2dHUFVPd1MzYzBxVGF6R2piajRQU1NJMkRCTHZNNTlxMUJMdTJYV043YlpnOHVUVTZKbXlTTlZ2d3FDZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "MCX in focus as SEBI may consider allowing FPIs in non agri commodity derivatives: Report",
+      "source": "Business Upturn",
+      "published_utc": "2026-09-23T08:44:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMktFWEdGUFJwakxyeFFPNDh0OFUxRTZnZ3QzSTN2LTVlRWxWVUdCd3dnQ2xiSEZjRWpZY25LZHRObk5Nb3U0bXVDei1vRFdMY3hja3pLX2hrbFhnZ1UyRGFaODlIdTh2NlVIU2I5VmNBNkNjRFM5cUpuRFhkTnB2Nkxkd09YWFR0cERIWDB3cUFvYnExbWh5ODU3VkpuX0FRZXlKcE5wYjhVby1kTFFvSlAtbXFPeHEybzVJazRnb1lRREhqZGRtX3BNYl8yamdlS2NR?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Aegis Logistics vs Petronet LNG vs Gujarat State Petronet: Compar",
+      "source": "Univest",
+      "published_utc": "2026-09-23T08:23:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORUJiZUl4MGZ4S2JJcmxieWY1WmQ5LWtrTklwbG8yZHFIWEdDeHBhUjNUS1ZyckZSS3BsQW8xNERsVGpEUXVmZWZCanF0V3d4RTFYTGtlcEc3WUNxeEY5M1owTTJTMEVzZ1NkSjNkaTVFR1UzZlBKdm1jMWZITGQzR1N3bmFfTzFVRFE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.932,
+    "strength": 0.371,
+    "material_count": 1,
+    "view": -0.346
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-09-26T07:52:17.729579+00:00"
+}

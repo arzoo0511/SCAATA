@@ -1,0 +1,364 @@
+{
+  "symbol": "IOC.NS",
+  "date": "2026-09-26",
+  "headlines": [
+    {
+      "title": "Indian State Oil Firms Look To US For 2027 LPG Supplies",
+      "source": "TradingView",
+      "published_utc": "2026-09-26T06:01:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmNKYUwyRHRoTkV4bTZSd0dCNGlZaDJCWTByaEE4anYycTVvMWVZa3NFQTJmWEJOSTROZFNMa1JGdDhUejM4a2xIS2tFSXg3bjE5QTZlYXlOaV81M3loZFV4YTROT3QzWDRodURaUUhJb0plREdCWVRxbkZ1clpXREF5M1o1ZjA1elFXVjVZekdNc0hZYkNneTI0Z09UaGV1c1FTeFppWHJqLVdROU1wWGNB?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Son of Indian oil tycoon made a professor at British university",
+      "source": "Around Prague",
+      "published_utc": "2026-09-25T17:36:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUk9NZlFwZ2lpUU52eTIxSkQ2clJXWENxS3EyNW1JdGpIV1N4U004Y3VFcHgzYm92aU12VGN1bEZNNkUyRnloY3Vrczl5QnZuY1NlV2tHOHFGQUlWS1lWQnczdl9TaHBqSUlvcXpQRXFyaHJpS01EbjBoWnMtNU1ZeVYzdHliZVl1c1I4V2VmNnlWSzcwSU40aUlNWQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder New Rules: What Happens If You Miss August 16 e-KYC Deadline For Indane Gas, HP Gas, Bharat Gas?",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-25T16:15:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYzd4VW9QOXZxczJQQmZMQUg4T0ZFdWpOOFFFZ202bEMxUVZiSjFUY2dMTmd0QkFrSmNrUWpHbTltazl4LUtSM0c3V0Y5TTU2b2RSbDE4ZElzZ3I4MC1fSlFINUFTZXhVRWp0V0hrOVh2VURuck9Ranh6eVRiN3h1bGhncnFMT3ZoOVk0SGZtdnlyZ29pTERYWHJNczhxM2VzWGVUZEtFZVVpMlVHLXdkTktXTVQxVjBQTlNpd0pLZW90d2N6c1E4NGxGeVFhR1lqenM0alUxc2hHVWFNWEZqY2ZGZUZMU1VFbEVhZWR3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India seeks 2027 LPG imports from US via term tender, document shows",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-25T13:34:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeWVMSElvNGx2OVhBUjdUcEFoWDE4aTl6UW42aUR1a0xmLTVqOTFTNml3Wmw5ZGdHU2JtMmZVRl8tNGlfbHFtRVJ3TFhKVXM4V19KRXZlb2hiVWtQdHVVRFdxaXJSWGZhd0VmSFNQeVBQdjFBazh6WEJ6bmNFZ1hReXBsX3BvNjI4bV9tMm5MdTZVd01BN2pLLVRUQ2RjVHRsYUU2OWtSSzZ1VV8tX19CY1JtVXdxRDBDRllqWFd1M2ZFaUE4TkF5TUNHZHlaOVBWUng2V0R2NGY2ajJYSFZnNVN5ONIB4wFBVV95cUxNeWVMSElvNGx2OVhBUjdUcEFoWDE4aTl6UW42aUR1a0xmLTVqOTFTNml3Wmw5ZGdHU2JtMmZVRl8tNGlfbHFtRVJ3TFhKVXM4V19KRXZlb2hiVWtQdHVVRFdxaXJSWGZhd0VmSFNQeVBQdjFBazh6WEJ6bmNFZ1hReXBsX3BvNjI4bV9tMm5MdTZVd01BN2pLLVRUQ2RjVHRsYUU2OWtSSzZ1VV8tX19CY1JtVXdxRDBDRllqWFd1M2ZFaUE4TkF5TUNHZHlaOVBWUng2V0R2NGY2ajJYSFZnNVN5OA?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Cricket Grounds | Indian Oil Cup",
+      "source": "Cricinfo",
+      "published_utc": "2026-09-25T13:03:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4weGthOERMNlowdkxTWWNUcllOUDZYTEF6ZTVMdTRPU3MwTnY0M2t0MHNkRUpnN2t1cEZWWndGd1VGdGlCVjcxWGhrNXRVQnRYeHgwV3lNVWplMjRGeUNaZG5BYjVaV18wMVFBa1piMWNhV2cxLXVWRURwbw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder New Rules From August 1: Big Changes Likely In Indane Gas, HP Gas, Bharat Gas Next Month",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-25T09:47:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa1I4b3g1Tk5SUmZhV04wTFlEWk03QlpLV2paaWhWNEprQVNxV1NNMTkza0h1eFhoM2FxWllZWW5tMUNBMEFzTXdwTWxvT1Z4RHZucTMzOEZVYi1IWUFtU256OUFrUFhGbF9zQVZVVTRJcnB2dGNoTGNkaDN1THVJcnBfNUtkLVBsNl95SUxJcGZZVVZiRGFLMkxhZWs4YlllZzBGY1VtaUdfeV9Ia3h5UDhMN1psY3lzdi0xUk0zWUpNZ0pOWFN4cDlJTUlSRi1rXzBBUTJHZTFmZ19YLVBPNkR5ekJBVFRUWTFV?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon warns Trump against punishing India; gives this advice on Russian oil imports",
+      "source": "Livemint",
+      "published_utc": "2026-09-25T09:21:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQV1pmMFhGdEY4blA3dGlBTXVWdWtvTGNjd20yTTJwa0t2a2lhSWNZOWo5N2lhcW5BRzBEclJnR2dEX0RGOXN6ZGlRRUlNcEdjZjg1dEY0Qjk3M29sWV9EU1V1T0RFTGkxZFd4M1hpN3ZkbU1DQ0pwYUlsRjc0Vm8yRDAxZkk2bWliRlliNjNZeU95OVRjTUlvOV83WVVETmZaaV8yY2F3Umk2WlFlU1poYUFXcE9tblprU1VncjB4eE9WcjdFcFA3VHd0czEyYmx5cUg1VzlXS29VNi1jMHljeHJEdVFLalFGbFpRNUsxRXRseUdaR3BxY2xiVUhrTmVr0gGGAkFVX3lxTE9xVk5LaTNFQV8tU0JMYmt2cWcxY2FFOUhfU0E4WVllN3V2czFod0JTTGtqR3VwTkJFeXlzeTFwVDVidTdXT0RqVlFYR1c1QTBwYTNIMGswSHUyTWdQT2pXald5eFBGYlV6WXdMa3VaUXRJU3BfaWNsRGx6UmU0Mk1jMUZ0OG93VUFQNFJ4UmVLUXQ2RVpyZElVNUo1aFFyLU9RaXJhUkRBaHNPcHNXVm9jRWNRNmx6NTVqSExJbzExVW1XeG9YakZRS0lWRlRpVlNKdTdWMW81ZUo2cUhuSEE5Y0Z0MWNnNjdQWVJ0WWlXTkxLTHhydEd2ZUZLSEJSUEMyN01wZFE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Trading Window Closure from 1 October 2026 for Sept Quarter Results",
+      "source": "PSU Connect",
+      "published_utc": "2026-09-25T08:08:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYjNvckRMamZyaUd4S3BpX0hKQUJoMjJEc2pIaHdOUWhxNHVDczBkWnl5UmR0OTQzVE1weEhNMkZqamJOalNzblZFM2YzY3luUFRaMDZqZWxZWkNUUFFwSENwMUFUZHVvclRtZnZKRFB3M19paDVIUkpoSG9hRjBfTmRUdDV1bjZsS1gzTmpMNTA2VE1rT2w0Qlc5ZlFUOTdJcFlxYjlR?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corporation NSE:IOC Trading Window Closure Q2 FY27",
+      "source": "Kalkine India",
+      "published_utc": "2026-09-25T07:33:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2NPb2JaUXVqcHVVUHdrMkJUaTlCcGhjN1duQ2RwNGpaMmd6WHRRbW9fVldiLWxLb0FMNUJSandZZHZwTklNWUs2UDlSSW9GS2VXdnhnSDYtcURveFdXOE1MSVhMdmxkb1BSNk0xS3poeVNoREVOTk8weExTN3NZdGNvZndhUmhNVWxPV1RidEh4VjktS0lvSUtBVWxYbTlVaW1ycmU0TFI5M1hONWNqeHprN1NlYmVZTklVQlA1YllsazZQU1E?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India to continue diesel exports despite US ban threat, says Hardeep Singh Puri amid global fuel crunch",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-25T05:10:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNczFFTi01WEJvUUZnM3BJdy1yVDRXT2xtWGowRUVtNFdSb01reUd5YTJvM3lCV1Z3VVptR0R4dHdVWXdTR0lrdU1WVGtlTkRxeDM3aGVjOEpGU0lSbGJteUxXalJkalFWb2JpRGpfTDhVOGVIdHRuS2l3c2hncm91ZHpZeXh4eUU4UTJDSnhoUGFwQXRxWl9uYmRyS3ZtVDdqNXBIZXNRY2RTaWFJZzVoODVJa0NFLU55VjZlRkpnVk15VXNBbGEzSGc1Mm9BTGUyT1QzUXhhRzlwTkNBYWVDQ0hKWkRaOU9RNTZZSjZXQlhLMFRMUVNjNVZwY0RHTlVaTXcwYk90NGFNSm5nNjlfbHln0gGSAkFVX3lxTE1zMUVOLTVYQm9RRmczcEl3LXJUNFdPbG1YajBFRW00V1JvTWt5R3lhMm8zeUJXVndVWm1HRHh0d1VZd1NHSWt1TVZUa2VORHF4MzdoZWM4SkZTSVJsYm15TFdqUmRqUVZvYmlEal9MOFU4ZUh0dG5LaXdzaGdyb3Vkell5eHh5RThRMkNKeGhQYXBBdHFaX25iZHJLdm1UN2o1cEhlc1FjZFNpYUlnNWg4NUlrQ0UtTnlWNmVGSmdWTXlVc0FsYTNIZzUyb0FMZTJPVDNReGFHOXBOQ0FhZUNDSEpaRFo5T1E1NllKNldCWEswVExRU2M1VnBjREdOVVpNdzBiT3Q0YU1Kbmc2OV9seWc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "US sanctions, Indian oil and the new BRICS battle",
+      "source": "Pioneer Daily",
+      "published_utc": "2026-09-25T02:21:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWI2c01lRG4wZWZvbC1WWmtiWkNJb0JibnEwdlRYTF95cEp1S1paVUV4cUVmYU1aT2lSWElKRGxBMnpScFgwalpoMkNHdi11Z0l4RHpWQnhWVWJJQTdNRmZmaW41dkhzY3JUR1B3VTlCWGtfSWNfMnFkY3N2dk80VHBUeUI?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Fixtures, Schedule | Indian Oil Cup",
+      "source": "Cricinfo",
+      "published_utc": "2026-09-24T22:09:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95OEhKNTFBUUxUdWxfSEZWS1NJbGdsbFBZT1dOa0t5OTJoUEJISy1UZVc4OFBPbUJQLWtKUjNyUk1qbUVVNXNFLW10UkxlcC1DaFh2Sk9qQnE1bDI5SlVua2U5WDhBeFJ4VUZkTURDQzJvcVdtSjVFNkRIY2o?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Retail prices of petrol & diesel remain unchanged for general public: Indian Oil Corporation Ltd.",
+      "source": "News On AIR",
+      "published_utc": "2026-09-24T21:25:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVlzRnV6RkpfT0tQQzNMZHNnQmRManRLZWhOR1YzdkQzaVNTdUF3NnJrVVhKelBJalFaRmVVcE5yeVVPQm43cWhPMHdrd2w5dS1ncDBGTXdGWE4yY2hBbG1rTnpDZjB1bGVlX0VYTDVsOWZSUi1iSVNzWVMtNUltczNsSlNYak5lckhVQzJjQUJHbWRwQWc1T2MwczBVd3VNTVNLbE8zbFF4akw0MEFMejFUUGd1dGx5ekFV?oc=5",
+      "relevant": true,
+      "sentiment": 0.1,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian oil heir appointed as professor of sustainability at Newcastle University",
+      "source": "The Telegraph",
+      "published_utc": "2026-09-24T19:52:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVlTRmVTNmRLZzNzMFZMWkNEYVZZZkU1eXVpZXBBNHFJcHF4bll4X1pmSFNpb3J1TVRzZG9oTmhYLXQwUUh5TWhZREd0Y0FyRnZ2eVd4Y3hOQnAwV0E4THF3LTZhTzBHRm5tUkJmTEdjZklDeHRiYWJ2dEZGdjBZUDd6QVNPcUx0bUJsMk5tUmxYa2JVRk9Nbkk3UjJzRXV4MmM4S2tn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IndianOil Urges Public to Avoid Panic Buying",
+      "source": "ANDAMAN SHEEKHA",
+      "published_utc": "2026-09-24T17:50:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwdUZMaUZ0X2pHOGRlX0I5bWZsV1NkQWpNdTBsX0V2N1lEel9KZmNwbWRNdmZMUXhFVDhGMmxBbHlYRm4yUEZlYVdn?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Backlash as Indian oil heir made professor of sustainability by Newcastle University",
+      "source": "The Guardian",
+      "published_utc": "2026-09-24T16:55:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLW80a0ZKQmllbGpBODhENjFEbnBHQklJLU5qaXdUX2s5cDQ2YXJPZnpmUUlzRDdjdXhkNGtVVUdUNWJuZjk5aFhaOXpuZ0ZmSWdERWRTRHBrSlhTRTJlVXFKZVNYRFFKcFV5T01ONnZWQU44RGRGZHBuTy05UlcxUUZZWGhueHJnUjduTFlZNXZKaUQ1UVQ1dlpUVXVraWxLNDFiMmtwZC14WGZCV2xFbWlkaWJBa0N4Xy1teVNhZG4yRE1qckQ0?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Hindustan Petroleum Corp Share Price - Live NSE: HINDPETRO Stock Price & Chart",
+      "source": "Upstox",
+      "published_utc": "2026-09-24T16:12:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBycFVJWlFyNk9sdVl0eENRNmg3aE5KRG9fMW0xWnp1YUplc3hScndnSC0zWUJXdjR5SUlqbkdnOFRmU1RkbE1UYnhLNnFrWnpwX2FUUWtyV3Q2Qk0zcDZ0VnhWVmNoYmhJbHBxZGU2X3U?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder Booking Rules Changed Again Or Not? How To Book Indane, Bharat Gas, HP Gas Via WhatsApp, SMS?",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-24T16:08:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVEdQWk5MZWs3c0dLRFJpM25yWVJZQ1lQd2JWSTM0ZXlCemZpdU1LT2VKZWx2RS13a2FWM3ZNUnRMMlBvUHJadVcwSFAxWU02TWhzb2d2RGZXN00tRHdOUmtCMW9lbnVYU2lVVWlVWlI2bHF3SzlPZTlUSi11b1A0VWpqTFREX2ZKVW94b2xlRlBsM1ZIUDVZbWE2ajlNOGFoaXlhcTVibDFZU0E0akZ3YWhIVjFwbWpBWkxfNVFRYk11T3Q4TGJrSEZnUFBEakN6eERvNkFPVHE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil hires super tanker at \u20b9458 crore to ship crude from East Coast Mexico to Paradip",
+      "source": "ET Infra",
+      "published_utc": "2026-09-24T13:52:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORU9yU2FnMGVaYXhuTGMtQTg1azItYngzZTI3ZHFZNWZHOTVRdm9raV9LQnA5YkJhT0w5aW9qQVVqRnktQkp2UUdQSk1xQUotWXY4NlJjYWg2THRla3J5enJKS0JMUlJCS1F6ODhiR2Q0ekN2QWYtZ21CMm8zUW9ZNWxXdWR1YTVrSF9sVUZYaWFheUJrbE9SdHB3WERGcy1qYmZ0SnBKNDdvbVR5RU9walZfZzFyaTVJcVFrdjlKSEhfSXFuZzN3SnJ1aW42cGo0V1B0NWZrTmZkbkZSOXdEdmRCS0dHWXp0VGFGSG5ZRGNBSXpkUkHSAfsBQVVfeXFMT2JpQzFweDJvbk1OaURWMVVjUm45bS1QX1VBWnRMcV8zX190ZXFYajdocVZiUzQ0WVh1aXhqMDNqSFFNaWp5QnFORkp2Rnl6bnJJSVdhNkNRY1JMZklncV9IVmdJSGNhUFp0dXhyalFtNkxOUFRWV2tzSTJxcU9Nd0wtZ2dHT202OWYwQmNTNndMTGtkNDBGREItWS1aclk4WnhobjZFVU1BRjRBUEhsSXcxWHdNc29sQnNxNk1WX0w3TEJFby1XcUNRMnYzQXRaN0x0VUZiLUlfZXlISV90LWZFajdWeU52WXFxMFRxNkV0TDdBV3hxa2VrbW8?oc=5",
+      "relevant": true,
+      "sentiment": 0.6,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil to Invest Rs. 24.49 bn in Kochi-Thoothukudi Pipeline",
+      "source": "Construction World",
+      "published_utc": "2026-09-24T11:06:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUp2VV9WRmQ3eHQ4MWliTXhUWWdoRmlrWWZpbDRiMElwT0xzVzhyZ0lHSTc1eUVWRS1BOUNOSndBNTRJd3lBQ0xwdWpOSEZRd3hZcXpSLVlzb2psNUcxQ2lKN3ZLanMwOEVFaUw0ME56U3RLWFBoSXFRT3ppU1BCbENwa1d3UXNYem5KSzIzS1MwTXplUkt0cC1GRU1xQ3drRzgzNVZGRlF4YVpmRHFmdUNrV1ZQM0NONmNFUTBlbjZVRVZZQWRzYXQ2OWNmbTRJSHc?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Firms Bleeding \u20b9530 Crore A Day As Crude Prices Surge",
+      "source": "illustrated Daily News",
+      "published_utc": "2026-09-24T08:23:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPXzVWTU4xYW5KOGdwYzdiclFQNFBjZkc0dGp6UmpHb3NaWkpHSHB4a2lyaUNYREVmem8wYlUxRXdwcEk2dDFiVGhLQVdaLWFEYnMwQUZ3X2c1REFPT3BKYmFYN2NIZGx1d18xVmVvYTQxQlNFQWFBUFR2MlFJR0ZhOFlJMnZEd0Q5ZzF2Wm1JdUpEVmwyZDgwLUlmNng2blRjM0hJVi1UdExrUVVOaFdscVhyY9IBuAFBVV95cUxQR2h6UXVFeU1jN2oxbUxqN2h6bnhrUGUteUJXaUhPNmU5bXREd1p0dEoxUmZ2eWpGWGx0NEJXREJiQWFUNTZ2WVpaX2Z3VmVmd0dNQ1R3OU1sbGpOamxBckh0aldickp3emxMd1BNMzUyZEVvdE5GY3hEdTViX0pQNHRkMnlKRmRLUGxlY3V2ZnJ3dS1sRHd5QU5ySjYwYWNJanljeXRWSUxpX1VFSnBXU0daNjB5VVJC?oc=5",
+      "relevant": true,
+      "sentiment": -0.8,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "50 litres per customer: Private pumps ration diesel as oil shock deepens",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-24T06:50:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU1loOHozUmljQWVmRkp2c01sTVZOTU9KTDV5ZTdGYnctNzgxcjNIZFhTb1pCamdwR2F3NXctSUI3Um5PaXJzRktHVHZhbnNXTDNBNWpmZGFHRFJ6ZVBQUUdOckRCTjUtUERCMzM0U2FNeHlHOWl4aG1MWGZNd21maUpGMWRPUnhySTZKZmRqeVBXcWJ0ZHVCekRaUS1LNDlZRXVDa3V1TnpFQ2NDX3l3SUU4NWN3djNDeE1VZmN3ajVzbHhTb0liSlVkSWxUVFlVaEdoWDVqQnMtSnRWRVE5b0Nxb9IB6AFBVV95cUxOcFdPVndnT1dHR29sY2hxSlNSUlpGaWxuNlc1eC0ydjZ1Q1UybXhSOTNSY3RQY3dyS3pZU2lqOVJleGVaT19uN1dBNlQ1ZEtRU3ltZ3ZkUXhoNzlobko5RkpyNk05N2FrOXZPMnh3cU9XVVNwLXJ2aEI2cEpjWnc5d1lWdmxZT3VWa0luNXAtTFJVWE44S1hKNjJGMlliNGJBS2JTdnJfN0FzSE5nVzRzZkxTOFBaTUdNRUNIcGx0OHdYY1l1WGtlVTZZRE9XakNGd0JHakE1a2RIb1F0VTlCeVhQdlJWUU16?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Buy, Sell Or Hold: ONGC, Indian Oil, Oil India, GAIL, Hindustan Oil Exploration \u2014 Crude Oil and Natural Gas Stocks",
+      "source": "Univest",
+      "published_utc": "2026-09-24T05:31:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFl0YWJzNDl2MVlBM2RnME50VmhLVjJYQnprZGJDSDdBRWtvaXNfdE9sWE5fbnBIRldmLWtZbHdobmdUbU40LVJuajd1bzN6OWs0S0hEZEpXLVlkUmdBMGhOb0tvV0J5Q2RKbWlxMV80V3NmSWZOR0ItQ1hhYy1VQm14UW1PZHlINWNXMm11aTZtMjkweUgwbTRyX01nWXJhaUJUUUdIYnhUbjNl?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "US, India Discuss Trump-Signed Russia Sanctions Bill and Tariffs",
+      "source": "Global Banking & Finance Review",
+      "published_utc": "2026-09-24T03:59:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODdiT09sTnoyNFBlbm9sY3cyQjVFXzJJMjIyTVJRNnRRNFN2NEY3V3EzYWhXbXFoemZZNzB3WWhjTG5UNV9reTRWdXVqd0JsZ0VUTHNZTTVCcjFYbFB1b1ZfbVdNa0toVTBiaHdoQm01VFkwRU5UZU5VUTlJWGxkRnZSYTd4Zlo2c2otdHhLMkFUcXZlOGdkVHRQOW8tOTNqSHRZ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Why India\u2019s oil marketing companies are losing over Rs 500 crore daily",
+      "source": "The Indian Express",
+      "published_utc": "2026-09-24T01:06:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR25QaTJiS3FQN0g2aHdNTFAtLVE0dTFXTnpudUpKQ3VNYV9qaHlrRVF0VG8zYm9mU1kwMWlVZE5WcENaZlh3NnRyMkdRN29BMTdwSjZCbU14ejZhVnBmWThaUFpxLTVGVjNMNzcwMjl1QVFMN1l2UGNmaU1sN1prVWJYbFlVREJGTEkxa1YxRkJkbjNFUVFJVF91T2o4akx6OXhNQ3lFLWYwaHlXWDl3eDl5b21qSTc5aUlic2NpVDEwN3hHZ1ZBQWJ1bno1MktSMWI5MHV30gHcAUFVX3lxTE1HakRKMS1Sdms2c3ZoOVdJVzRReDRyb3l0djlrTFhDdVV3VXVaTmpFQk1adUw4OHFpMTVoMzVzaXR0cFhqeVkyeXBZenROdTZwR0Nkc2c2cl8xTmxRWXhqSlVRVU12R1RzdG1zc3FiT25ZQnNzLXQ5ZEpWZ0FnMmV3VmJvd2JtMF96d0g1ay1vcVhpT2lQeWgwZkZkVUZSZVdIdkV2emVJdDh2aTM4SVlRd1pwWGkwemlNV2QxNmNaTWU0UVMzaHF6QVlGRml3RXVLT3RfckxaMXVTN3k?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Assam: Indian Oil Corporation assures no disruption in domestic, commercial LPG cylinder supply | Akashvani News",
+      "source": "News On AIR",
+      "published_utc": "2026-09-23T23:41:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGFYa1Y4Qm92ZGxQNGRONFNCSDJfLXM3bGxsTmVwSE82elJPR2FXTXhUcVhMOUNIclZyNThPbks5RG41UFlVNGF3SnFxUXRJSTlQM0ZpNWItRklWMnVpZjJUMDBPVkt3dm1ZRG1WZXM5ZHJ1QU0yZ0h2M3JRSFVQVHFLQzdlTEZxZ0tKR1Zxb2tCR0lLUEpHMGFpaXNLTkUtUEMyZ0wxMkFTaHlJWTVYb0UydTJSUjRaM2FB?oc=5",
+      "relevant": true,
+      "sentiment": 0.4,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India Raises Domestic LPG Output As Gulf Shipments Falter",
+      "source": "Briefs Finance",
+      "published_utc": "2026-09-23T22:59:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc25BS0p3Y2k4YnBsZzBSZVdrRDV2S3hpM0VucTA4dDV2dGFuaG5wWnRyOHFIZUNIenB1eHhqU1dMSVFybkZ5cmpLWlFNc0ZJbGs2cExESVdfcUw3cXJpUWNjQllySUtVRkhWb1ljRlFNYXhWQVZKb1FVUFgydjFwOWEtdWJPa3c5VnRxRU53?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "OMCs losing Rs 530 crore daily as crude surge squeezes fuel margins: ICRA",
+      "source": "PSU Watch",
+      "published_utc": "2026-09-23T19:26:41+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3B2ZmcyMWVsdndCYW9FTWRhN1ROUXEzdWZGam96T3ZmbzZnUHR0WERDZzRzTnlLaVN1VUJYZ1RyQVJJYTZlNkF5RTFOdHFTNFNGaEJhYmlDNW9WeXdRbHRhTW04TkNJUkdMMWVXeW84My1GMXZCY3JiSkdzZzFKbXh0YVRhY3FIaHV3UFVqLUptMThqZ1FtTWxtcFRDdzdtY29YNkdrcHV2Qk9tRV9UUHdBX25fQdIBtgFBVV95cUxQQ3B2ZmcyMWVsdndCYW9FTWRhN1ROUXEzdWZGam96T3ZmbzZnUHR0WERDZzRzTnlLaVN1VUJYZ1RyQVJJYTZlNkF5RTFOdHFTNFNGaEJhYmlDNW9WeXdRbHRhTW04TkNJUkdMMWVXeW84My1GMXZCY3JiSkdzZzFKbXh0YVRhY3FIaHV3UFVqLUptMThqZ1FtTWxtcFRDdzdtY29YNkdrcHV2Qk9tRV9UUHdBX25fQQ?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "The Hindu Sustainability Summit: \u2018Treat waste water as an economic resource\u2019",
+      "source": "The Hindu",
+      "published_utc": "2026-09-23T17:32:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY1o3TUk4NmcydW43RWhsMVJPVnJLUVZLWUZEMlozeUZqcGZRay1KUHFZR0dtbkViZkJHNWRrS3F5RlhLaTBzd0F2R2xpZ2VPRE5vLVNSTkJmbzVRMkpBQ1pCZXNiY19fMHhZTXdzaE5qX2d1ZDh0QllrTmhwWmhFOEo4Q2d3cHZLN0VZaEdITy16LWx1eXJCS2E3ZUVIdFI1U2RCZjZKTXpMcm11SmRLbjZiVlZtbklqZzJNdzliSjIyQzIyQ2Q0Q3JqSTEzYXhtQ3hVQkp3VWxIOVXSAdsBQVVfeXFMTWNaN01JODZnMnVuN0VobDFST1ZyS1FWS1lGRDJaM3lGanBmUWstSlBxWUdHbW5FYmZCRzVka0txeUZYS2kwc3dBdkdsaWdlT0ROby1TUk5CZm81UTJKQUNaQmVzYmNfXzB4WU13c2hOal9ndWQ4dEJZa05ocFpoRThKOENnd3B2SzdFWWhHSE8tei1sdXlyQkthN2VFSHRSNVNkQmY2Sk16THJtdUpkS242YlZWbW5JamcyTXc5YkoyMkMyMkNkNENyakkxM2F4bUN4VUJKd1VsSDlV?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian OMCs incur \u20b9530 cr daily losses; \u20b98 per litre on petrol, \u20b99 on diesel and \u20b9300 on LPG: ICRA",
+      "source": "The Hindu",
+      "published_utc": "2026-09-23T14:06:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQXzdYVENfSGtJQlRZRkF5WjJCc0NsMjg5R19kMTE5Y1VlVXh0bklDalQyN2RhaU1WWlNBMjh4Y3F2S0w3d25ZQlYxREd5LXNCOUhkV3RxaW1ULTE0NHQwS0pEbzI4OVRIcWpQUG9TRFlsY3dkXzhnZHVWN1R4MkpLQURuUFV4YW1XOVBXdWNUZHJBVzFVR0hpaG9aTHBUaGgzc2ZtSEVKWGVXVmRuWHh0X1VzRzZ5TkN2V1g2REpaeE05T1EtbjJ2czlteFpGZnV0dVJTQ1dMb1VxVWtqTTl1VWRMR2pRSlRf0gHvAUFVX3lxTFBIekFPMERwSGVyOF9pVVFteHpkN0J5SWtWQnVjWWIwaDhyTDFiTDd3elNkWXlCX3U5UWZIVkxtV1VLay1nMEhlSjc3dl8yVXJ4akZlQWctQXhZQ3NCTTdSa1g5OWRlNEZkR0xDZWdMWHQ1WmlnWElVNUtXTjE1NF90Zkx1eHdfZDd3c3JsczY2V091cVA4S1lxTVBvYlVBaHc1TTlGQk9IeUlJUmtMSTJZbmtWdXhTZlhYaVpxUC1YeEF2QThOaDN5XzVHRF9qZE5ETW1idUtCdk5iSDJWNFZBOHpncWJNemFLOWVXMlE0?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil Marketing Companies Face \u20b9530-Crore Daily Fuel Losses, Surging Crude Prices Deepen Pressure on Petrol",
+      "source": "Free Press Journal",
+      "published_utc": "2026-09-23T10:27:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHlEcjJTYno4T2E5Wm0zdGJwZFpFS3AwTXA4T2lBWkhrTm1kRWtkaWlVWDVKWjRTekFJM3NDcWNNbFY4VEdlRkpxb29DUGhmQ2d2NlZWX3NiM1E1RENMS004bkNHb2RFWkxhaDZCdTAtaVRva2NfemlkTWdaY1NpejhvM0JjanBGVHhFd2xhRWpvcERCR0o0T0k0NS1ZTGFINUxEaGJkQ1luOXQxQlV2c29LcmYxTlgyQ1BWWHhUMnNOa1hiYkViZ0Zib09maDNxd2k5ZFF4bzFkWGJiTU1UMEdKVkMxTTJoZXlPa0M4Y2FpS3pXQ3dLZWV6TkbSAYICQVVfeXFMTWo1QXF5c3ZFZHlHVWpnWTJoMDNTeWV3UzJ0eF80Uy1OM3FqS1hIUW1lM21SV3p3cTFHb1IxcnVGWWlLbU9fVWtqYjZUNUJPWnhoczAycGxoMDF0b3h0b1JDNjBVWWQ5WlNOcVJCMncyLTRyR3N5blM2LXJzVVZDUXo0cng2bWNWSXBtX0tZTXY1YlZ0OVljX3Q0Y3dpMVhmN3V0aTZtY3NfdDNublNiNFZVRmNHNXRHdThkbGl1NXpENDRKajUxVUZJbFpUNEpxZHdiQy16MjJVSHhPRmIzS1ZFSFowNEMyM1ZFWmdlSVNCMmhCSENiN2c3Ql9hTTJaN2VR?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil firms face Rs 530 crore daily fuel losses as crude surges: ICRA",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-23T09:52:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaTRXQkpiMUFlcjhaYzMyVG9kd1M4OVo2NFowMjlRM3oySDAwU1hoSjJvU1ZXLVhQQTNWQkNVWjNod3dpOE9yclpXbmNnZ0FNcmpDTEVabUNJYTN4U2luTTFaVHJySklXTHJkRlhGLUllcC1BejAxb3EycmpPU2FzWE5lMXVFUGFVQmdSWXlldk0ydnJwSVlwTW5uVVlkcWJoTUV3RTd0UjZSNVFNYlhqQlA4U1pSTHV6WXRzY0lWblNMb1l3ZFBmT0xoTmdDbGg1YlpFYjJIbnYxRVBxQ0drNG130gHiAUFVX3lxTFBpNFdCSmIxQWVyOFpjMzJUb2R3Uzg5WjY0WjAyOVEzejJIMDBTWGhKMm9TVlctWFBBM1ZCQ1VaM2h3d2k4T3JyWlduY2dnQU1yakNMRVptQ0lhM3hTaW5NMVpUcnJKSVdMcmRGWEYtSWVwLUF6MDFvcTJyak9TYXNYTmUxdUVQYVVCZ1JZeWV2TTJ2cnBJWXBNbm5VWWRxYmhNRXdFN3RSNlI1UU1iWGpCUDhTWlJMdXpZdHNjSVZuU0xvWXdkUGZPTGhOZ0NsaDViWkViMkhudjFFUHFDR2s0bXc?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "OMCs face \u20b9530 crore daily fuel losses as crude prices surge: Icra",
+      "source": "Business Standard",
+      "published_utc": "2026-09-23T09:46:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGVENTlBOHR6ZHpUR1VvSVhlT2tJSml0R3NUMi1RMXo5ODRYdlEtWjBfN2V4bE9rZlBHZkRuRU1TUGNRdzJPTElIa2pMUldLN2ZDU3hxYmxTN0pxcGs5cC1uZDhQRUlET1hLdDZrRVRLZXVQeF8zWmtFalJyRVhGSkltVTd6eHpGSi1FNEU1QjdSOVUzOFhzdmI1T3RPTVNjNnBaOUV5eFRPRGRKcThaaDdZQWRrTEtCOVppbXFybmh4ZkI4YWZBRXpYVdIB0AFBVV95cUxPOXdQcm55aTJJc2ptdFNLVGxiOU9qWDRmNVd1eUFEQlN2bTV5TUhHQkRxY01RbWc1YjBGcGRNRzJxYmJ1QjFkX0U2dkxEUTBIWHdaWW5zdEx6X1VyeThESHBYZmJMVnNzWWxseDB5VVo3Z3VnRmUzVC1zMDkyWFQ0Sjd0eUUxYW5nci16RGs5MnUwS0VwRFJTVS14S242cnAtWVZmV0xTZjltMDNRM1o4MkFNTVBDa1YtdGJ5Ui1MVU0yUmRkNWx0WThMX3B0Y0xD?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "PSU Dividend Delight: THIS Maharatna PSU Fixes Record Date For 12% Dividend | Do You Own?",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-23T08:15:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLV9XWGlkSF9Bei1NTjNNVG1xalFqaUtoNmRLWFNUV2Fmay1fTzlKRXl6V1psOGJIZnRmOWgzLUJLcldBMTU3ZFNId0lySWc1Nm4xOGpGQ2tNejZlNE56VW41WEt5WFBVc055X0FFamY1M0FLdnBuMFJYSHBfNUh0R3JTcVdyVE1uVVFySWd0amQyVVJlWHJpVjdsY2FDdmxfTXpTX1d6NFE0dGlwaE8tbXBmTUFkZUVsWkRIYlNjREtBNk9aNjNyTmtnc0t3ZnU1THNtTg?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "INR Edges Up as Crude Prices Ease - Indian Rupee vs Dollar today",
+      "source": "Alice Blue",
+      "published_utc": "2026-09-23T08:09:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0MTZ6Ynk2Zkl1Q2FsWTdBMlF3QTh4Tk1VZFZtSXhkaDhEWThHbW85NzRhX19CdEtOTHJyWVpQWlFwandyLUxTY19TRjdnVzg2akY1dlJhZHRLeE9OWmgxb3dmUXFKSVhLUnN2eEg4ZGU?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.049,
+    "strength": 1.0,
+    "material_count": 5,
+    "view": 0.049
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-09-26T07:52:22.904689+00:00"
+}
