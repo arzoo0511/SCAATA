@@ -73,7 +73,9 @@ def run_robustness_test(
         # `normalized_strategies`.
         "strategy_signals": combined_signals,
     }
-    final_state = graph.invoke(initial_state, config={"recursion_limit": 3 + max_iterations * 2 + 5})
+    # 3 nodes per loop iteration (meta_selector, devils_advocate, critique
+    # -- Phase 12 added devils_advocate to the cycle) plus one-shot upstream nodes.
+    final_state = graph.invoke(initial_state, config={"recursion_limit": 4 + max_iterations * 3 + 5})
 
     weights = np.array(final_state["strategy_pool_weights"])
     good_weights = weights[good_indices] if good_indices else np.array([])

@@ -44,6 +44,10 @@ from scaata.config import (
     DEFAULT_LAMBDA_DD,
     DEFAULT_LAMBDA_HOLD,
     DEFAULT_LAMBDA_VOL,
+    DSR_ETA,
+    DSR_REWARD_CLIP,
+    DSR_VARIANCE_EPSILON,
+    DSR_WARMUP_STEPS,
 )
 
 
@@ -183,3 +187,110 @@ def window_critique_report(
         "window_return": cum_return,
         "total_penalty": total,
     }
+
+
+def differential_sharpe_reward(return_t: float, A_prev: float, B_prev: float, eta: float) -> tuple[float, float, float]:
+    """One step of Moody & Saffell's (2001) Differential Sharpe Ratio
+    ("Learning to Trade via Direct Reinforcement", eq. 12-14) — a
+    genuinely different reward mechanism from `SelfCritiqueTracker` above,
+    not a retuning of it: instead of raw return plus separately hand-tuned
+    risk penalties (which can dominate and bias training toward inaction —
+    the exact failure mode found in live-data testing, where a policy
+    converged to never opening a position at all), this reward *is* an
+    online estimate of the derivative of the Sharpe ratio with respect to
+    the newest return. A policy trained to maximize cumulative reward
+    under this scheme is directly trained to maximize risk-adjusted
+    return, with no separate penalty coefficients to miscalibrate.
+
+    `A_prev`/`B_prev` are running exponential-moving-average estimates of
+    the first and second moments of the per-step return; `eta` is their
+    adaptation rate. Returns `(reward, new_A, new_B)`.
+
+    Honest limitation, stated plainly: for a policy whose return is
+    identically 0 every step (never trades), `A` and `B` both stay at 0,
+    the running variance estimate `B - A**2` stays at 0, and the reward is
+    defined as 0.0 (see `DSR_VARIANCE_EPSILON` below) — exactly the same
+    net reward a flat policy already got under the old
+    `percent_change * 10` scheme. This mechanism does not *guarantee* a
+    fix for policy collapse; its actual benefit is removing the specific,
+    empirically-observed failure mode of penalty coefficients that can
+    outweigh raw return, replacing them with a single principled
+    risk-adjusted signal. Whether that changes real training behavior is
+    an empirical question to verify by training, not something this
+    formula can prove on its own.
+
+    Second, sharper limitation, found empirically while building this
+    (not in the original paper's caveats): `D_t` is a first-order
+    approximation of `dS/dη`, valid only while `A`/`B` are slowly-varying
+    relative to `eta`. Tested directly against a pair of return sequences
+    with identical mean but different variance (over ~200 steps): at
+    `eta <= 0.005`, cumulative reward correctly favors the lower-variance
+    sequence, matching the final EMA-Sharpe estimate's own ranking. At
+    `eta >= 0.01`, the ranking **inverts** — cumulative reward favors the
+    *higher*-variance sequence, the opposite of what a risk-adjusted
+    reward should do, and would actively train a policy toward more
+    volatile behavior if used. `config.DSR_ETA` is set conservatively
+    below this verified break point; do not raise it without re-running
+    the same ranking check (`tests/test_differential_sharpe.py::test_lower_variance_same_mean_scores_higher_cumulative_reward`)
+    at the new value first.
+    """
+    delta_A = return_t - A_prev
+    delta_B = return_t ** 2 - B_prev
+
+    variance_est = B_prev - A_prev ** 2
+    if variance_est <= DSR_VARIANCE_EPSILON:
+        reward = 0.0
+    else:
+        reward = (B_prev * delta_A - 0.5 * A_prev * delta_B) / (variance_est ** 1.5)
+
+    new_A = A_prev + eta * delta_A
+    new_B = B_prev + eta * delta_B
+    return reward, new_A, new_B
+
+
+@dataclass
+class DifferentialSharpeTracker:
+    """Stateful, causal, step-wise wrapper around
+    `differential_sharpe_reward`, mirroring `SelfCritiqueTracker`'s role
+    for the penalty-based reward — wired directly into
+    `RobustTradingEnv.step()` when `use_differential_sharpe=True`.
+
+    Adds two practical safety measures on top of the pure formula, found
+    necessary by testing against real `RobustTradingEnv` dynamics (fees,
+    stop-loss, all-in sizing), not present in the textbook formula:
+
+    1. `warmup_steps`: the first N steps of each episode always return
+       reward 0.0 (A/B still update normally). This is the well-known DSR
+       "burn-in" problem — with only a step or two of return history, the
+       running variance estimate `B - A**2` can be a tiny nonzero number
+       that `DSR_VARIANCE_EPSILON` doesn't catch, and dividing by that
+       number raised to the 1.5 power produced rewards in the *millions*
+       in real-environment testing (a single ~1% return at step 2 of an
+       episode produced a reward of ~3.4 million before this fix).
+    2. `reward_clip`: a hard clip on the raw (pre-`DSR_REWARD_SCALE`)
+       reward, as defense-in-depth against rarer post-warmup spikes (e.g.
+       a stop-loss-triggered large loss during an otherwise-calm stretch).
+
+    Both defaults were chosen by directly re-testing against the same
+    real-environment scenario that produced the multi-million-magnitude
+    reward, not picked arbitrarily — see `tests/test_differential_sharpe.py`.
+    """
+
+    eta: float = DSR_ETA
+    A: float = 0.0
+    B: float = 0.0
+    warmup_steps: int = DSR_WARMUP_STEPS
+    reward_clip: float = DSR_REWARD_CLIP
+    _step_count: int = field(default=0, repr=False, compare=False)
+
+    def reset(self):
+        self.A = 0.0
+        self.B = 0.0
+        self._step_count = 0
+
+    def step(self, return_t: float) -> float:
+        raw_reward, self.A, self.B = differential_sharpe_reward(return_t, self.A, self.B, self.eta)
+        self._step_count += 1
+        if self._step_count <= self.warmup_steps:
+            return 0.0
+        return float(np.clip(raw_reward, -self.reward_clip, self.reward_clip))

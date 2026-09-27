@@ -97,15 +97,22 @@ def backtest_llm_agent(
     ticker: str,
     model: str = "llama-3.1-8b-instant",
     client=None,
+    fee: float = 0.0,
+    use_llm: bool = True,
 ) -> tuple[np.ndarray, np.ndarray, str]:
     """Backtests the LLM-agent-only baseline over `test_df` for `ticker`.
     Returns (equity_curve, actions, source) where `source` is "llm" only if
     every single decision came from a live call, else "mock" — transparent
     about which regime actually produced the result, not just at the
     per-decision level.
+
+    `use_llm=False` runs the deterministic momentum fallback only, never
+    contacting Groq even when a key is configured. `fee` is charged per
+    trade side (default 0, the original fee-free baseline).
     """
     ticker_df = test_df[test_df["Ticker"] == ticker].reset_index(drop=True)
-    client = client if client is not None else _groq_client()
+    if use_llm:
+        client = client if client is not None else _groq_client()
 
     cash, shares, position = INITIAL_CASH, 0.0, 0
     equity = [cash]
@@ -114,16 +121,19 @@ def backtest_llm_agent(
 
     for i in range(len(ticker_df) - 1):
         row = {col: ticker_df[col].iloc[i] for col in feature_columns}
-        action, source = llm_decide(row, position, model=model, client=client)
+        if use_llm:
+            action, source = llm_decide(row, position, model=model, client=client)
+        else:
+            action, source = _mock_decide(row, position), "mock"
         sources_used.add(source)
 
         price = ticker_df["Close"].iloc[i]
         if action == BUY and position == 0:
-            shares = cash / price
+            shares = cash * (1 - fee) / price
             cash = 0.0
             position = 1
         elif action == SELL and position == 1:
-            cash = shares * price
+            cash = shares * price * (1 - fee)
             shares = 0.0
             position = 0
 

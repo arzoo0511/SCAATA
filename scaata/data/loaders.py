@@ -14,7 +14,7 @@ from pathlib import Path
 import pandas as pd
 import yfinance as yf
 
-from scaata.config import DATA_CACHE_DIR
+from scaata.config import DATA_CACHE_DIR, VIX_TICKER
 
 MAX_RETRIES = 3
 RETRY_BACKOFF_SECONDS = 5
@@ -108,3 +108,17 @@ def load_market_data(
     """Full load: download + clean. Returns one row per (Date, Ticker)."""
     raw = collect_data(symbols, start, end, use_cache=use_cache)
     return clean_data(raw)
+
+
+def load_vix(start: str, end: str, use_cache: bool = True) -> pd.DataFrame:
+    """Loads `^VIX` daily close via the same yfinance/caching pattern used
+    for equity tickers (Phase 9c) — a free, real, market-implied volatility
+    series that `scaata.regimes.novelty` can cross-check against the
+    causal-but-hand-thresholded regime buckets in `scaata.regimes.detector`.
+    Returns a `vix_close`-indexed-by-Date frame; raises `DataDownloadError`
+    if VIX can't be fetched and no cache exists, same failure mode as any
+    other symbol in `collect_data`.
+    """
+    raw = collect_data([VIX_TICKER], start, end, use_cache=use_cache)
+    clean = clean_data(raw)
+    return clean[["Close"]].rename(columns={"Close": "vix_close"})

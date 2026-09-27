@@ -1,0 +1,105 @@
+{
+  "arm": "env_fixes",
+  "jobs_found": 45,
+  "jobs_expected": 45,
+  "complete": true,
+  "median_job_minutes": 19.42844230333964,
+  "rows": 225,
+  "mean_sharpe_never_traded_as_zero": {
+    "ppo": 0.03882133622934977,
+    "buy_and_hold": 0.6018183674696512,
+    "rule_based": 0.036151848721607587,
+    "momentum_fallback": -0.19136283899508122
+  },
+  "median_sharpe_never_traded_as_zero": {
+    "ppo": -0.017141001122442257,
+    "buy_and_hold": 0.47048221417022995,
+    "rule_based": 0.019552773518948578,
+    "momentum_fallback": -0.1653188825892173
+  },
+  "ppo_never_traded_rows": 0,
+  "comparisons": {
+    "ppo_vs_buy_and_hold": {
+      "method_a": "ppo",
+      "method_b": "buy_and_hold",
+      "n_folds": 9,
+      "n_rows": 225,
+      "mean_diff": -0.5629970312403014,
+      "median_fold_diff": -0.54160291129113,
+      "ci_low": -0.8513550083076625,
+      "ci_high": -0.2786358348365744,
+      "confidence": 0.95,
+      "share_folds_a_better": 0.2222222222222222,
+      "p_one_sided_a_better": 0.994140625,
+      "fold_diffs": [
+        0.01692503597278379,
+        -1.0026101208058487,
+        -0.7368731850214038,
+        -0.54160291129113,
+        -0.8524964536325836,
+        -1.3682003834492193,
+        0.03614795160316071,
+        -0.2984215700829839,
+        -0.31984164445548713
+      ],
+      "collapsed_a": 0,
+      "collapsed_b": 0
+    },
+    "ppo_vs_rule_based": {
+      "method_a": "ppo",
+      "method_b": "rule_based",
+      "n_folds": 9,
+      "n_rows": 225,
+      "mean_diff": 0.002669487507742183,
+      "median_fold_diff": -0.03709516337103589,
+      "ci_low": -0.49042569251942714,
+      "ci_high": 0.5320053581299357,
+      "confidence": 0.95,
+      "share_folds_a_better": 0.4444444444444444,
+      "p_one_sided_a_better": 0.49609375,
+      "fold_diffs": [
+        1.3284245298258177,
+        -0.6544033361835295,
+        -0.29987601090800514,
+        -0.03709516337103589,
+        -0.36814112103146557,
+        -1.3597594245248406,
+        0.18896271615440036,
+        0.961081311161797,
+        0.26483188644654126
+      ],
+      "collapsed_a": 0,
+      "collapsed_b": 0
+    },
+    "ppo_vs_momentum_fallback": {
+      "method_a": "ppo",
+      "method_b": "momentum_fallback",
+      "n_folds": 9,
+      "n_rows": 225,
+      "mean_diff": 0.23018417522443105,
+      "median_fold_diff": 0.22210757349865168,
+      "ci_low": -0.22282216501592814,
+      "ci_high": 0.6306300229501797,
+      "confidence": 0.95,
+      "share_folds_a_better": 0.7777777777777778,
+      "p_one_sided_a_better": 0.16796875,
+      "fold_diffs": [
+        0.669695172526945,
+        -0.8196180659176112,
+        0.22210757349865168,
+        0.17242757057672692,
+        0.8806778319874929,
+        -0.7904457948105229,
+        0.5267959782289656,
+        1.1822669588734422,
+        0.027750352055789088
+      ],
+      "collapsed_a": 0,
+      "collapsed_b": 0
+    }
+  },
+  "git_at_start": {
+    "commit": "d227bfdb7931f638548022d6974544f89abda9f2",
+    "dirty": true
+  }
+}

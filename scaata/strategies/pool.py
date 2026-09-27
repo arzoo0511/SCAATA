@@ -24,7 +24,16 @@ def run_strategy_safely(code: str, df: pd.DataFrame) -> np.ndarray | None:
         exec(code, restricted_globals, local_env)
         if "strategy" not in local_env:
             return None
-        signals = local_env["strategy"](df)
+        # Pass a copy: `strategy(df)` implementations are only contracted to
+        # return a signal array, but several real scraped/LLM/evolved
+        # candidates assign scratch indicator columns onto `df` in place
+        # (e.g. `df['rsi'] = ...`). Without this copy, a name collision with
+        # a real feature column (found live: a candidate's own 'rsi' column
+        # silently overwrote the project's actual `rsi` feature with
+        # NaN-during-warmup values, corrupting every downstream consumer of
+        # the caller's original DataFrame, including RL training) mutates
+        # shared state no caller expects.
+        signals = local_env["strategy"](df.copy())
         if len(signals) != len(df):
             return None
         return np.array(signals).astype(int)

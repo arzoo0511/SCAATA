@@ -1,0 +1,52 @@
+{
+  "config": {
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "GOOGL"
+    ],
+    "seeds": [
+      0
+    ],
+    "ppo_timesteps": 2048,
+    "fee": 0.001,
+    "start": "2020-01-01",
+    "end": "2026-07-19",
+    "feature_columns": [
+      "returns",
+      "ma_10",
+      "ma_50",
+      "volatility",
+      "momentum",
+      "rsi",
+      "volume_ma_30"
+    ],
+    "folds": [
+      [
+        0,
+        "2020-01-01",
+        "2022-01-01",
+        "2022-06-30"
+      ],
+      [
+        1,
+        "2020-07-01",
+        "2022-07-01",
+        "2022-12-31"
+      ]
+    ],
+    "ppo": {
+      "learning_rate": 0.0003,
+      "n_steps": 2048,
+      "batch_size": 64,
+      "gamma": 0.99,
+      "ent_coef": 0.01
+    }
+  },
+  "data_fingerprint": "10490054324949984756",
+  "git": {
+    "commit": "d227bfdb7931f638548022d6974544f89abda9f2",
+    "dirty": true
+  },
+  "started_at_utc": "2026-09-14T13:50:17.986571+00:00"
+}

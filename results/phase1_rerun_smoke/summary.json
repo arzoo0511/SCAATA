@@ -1,0 +1,82 @@
+{
+  "jobs_found": 2,
+  "jobs_expected": 2,
+  "complete": true,
+  "rows": 6,
+  "mean_sharpe_never_traded_as_zero": {
+    "ppo": -1.4094726506005673,
+    "buy_and_hold": -0.9047625982989076,
+    "rule_based": -1.9200744011847473,
+    "momentum_fallback": -1.2175322625105738
+  },
+  "median_sharpe_never_traded_as_zero": {
+    "ppo": -1.307920154009873,
+    "buy_and_hold": -1.1010192594642985,
+    "rule_based": -2.284572053014117,
+    "momentum_fallback": -1.487703530264007
+  },
+  "ppo_never_traded_rows": 0,
+  "comparisons": {
+    "ppo_vs_buy_and_hold": {
+      "method_a": "ppo",
+      "method_b": "buy_and_hold",
+      "n_folds": 2,
+      "n_rows": 6,
+      "mean_diff": -0.5047100523016594,
+      "median_fold_diff": -0.5047100523016594,
+      "ci_low": -0.8505574269936998,
+      "ci_high": -0.15886267760961914,
+      "confidence": 0.95,
+      "share_folds_a_better": 0.0,
+      "p_one_sided_a_better": 1.0,
+      "fold_diffs": [
+        -0.15886267760961914,
+        -0.8505574269936998
+      ],
+      "collapsed_a": 0,
+      "collapsed_b": 0
+    },
+    "ppo_vs_rule_based": {
+      "method_a": "ppo",
+      "method_b": "rule_based",
+      "n_folds": 2,
+      "n_rows": 6,
+      "mean_diff": 0.5106017505841803,
+      "median_fold_diff": 0.5106017505841803,
+      "ci_low": -0.39769490042769134,
+      "ci_high": 1.418898401596052,
+      "confidence": 0.95,
+      "share_folds_a_better": 0.5,
+      "p_one_sided_a_better": 0.5,
+      "fold_diffs": [
+        1.418898401596052,
+        -0.39769490042769134
+      ],
+      "collapsed_a": 0,
+      "collapsed_b": 0
+    },
+    "ppo_vs_momentum_fallback": {
+      "method_a": "ppo",
+      "method_b": "momentum_fallback",
+      "n_folds": 2,
+      "n_rows": 6,
+      "mean_diff": -0.19194038808999359,
+      "median_fold_diff": -0.19194038808999359,
+      "ci_low": -1.080939922011041,
+      "ci_high": 0.6970591458310538,
+      "confidence": 0.95,
+      "share_folds_a_better": 0.5,
+      "p_one_sided_a_better": 0.75,
+      "fold_diffs": [
+        0.6970591458310538,
+        -1.080939922011041
+      ],
+      "collapsed_a": 0,
+      "collapsed_b": 0
+    }
+  },
+  "git_at_start": {
+    "commit": "d227bfdb7931f638548022d6974544f89abda9f2",
+    "dirty": true
+  }
+}

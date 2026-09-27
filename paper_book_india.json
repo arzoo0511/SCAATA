@@ -1,0 +1,100 @@
+{
+  "currency": "INR",
+  "initial_cash": 10000.0,
+  "symbols": [
+    "HDFCBANK.NS",
+    "ICICIBANK.NS",
+    "PETRONET.NS",
+    "IOC.NS",
+    "ITC.NS"
+  ],
+  "sleeve": 2000.0,
+  "cash": 7709.171252041903,
+  "positions": {
+    "ICICIBANK.NS": {
+      "qty": 1,
+      "avg_price": 1332.9000244140625
+    },
+    "IOC.NS": {
+      "qty": 7,
+      "avg_price": 136.5
+    }
+  },
+  "pending": [
+    {
+      "symbol": "PETRONET.NS",
+      "action": "TARGET",
+      "target_value": 1997.17,
+      "reason": "Buying PETRONET: 0% -> 100% of its share; momentum supportive (+0.85, trusted 25%); news against (-0.35, trusted 25%)",
+      "queued_on": "2026-09-25"
+    }
+  ],
+  "trades": [
+    {
+      "date": "2026-09-25",
+      "symbol": "ICICIBANK.NS",
+      "action": "BUY",
+      "qty": 1,
+      "price": 1332.9000244140625,
+      "cost": 2.15,
+      "reason": "Buying ICICIBANK: 0% -> 100% of its share; momentum supportive (+0.81, trusted 25%); trend against (-0.10, trusted 25%)",
+      "cash_after": 8666.21
+    },
+    {
+      "date": "2026-09-25",
+      "symbol": "IOC.NS",
+      "action": "BUY",
+      "qty": 7,
+      "price": 136.5,
+      "cost": 1.54,
+      "reason": "Buying IOC: 0% -> 50% of its share; trend against (-0.73, trusted 25%); news against (-0.42, trusted 25%)",
+      "cash_after": 7709.17
+    }
+  ],
+  "equity_history": [
+    {
+      "date": "2026-09-24",
+      "equity": 10000.0,
+      "benchmark_equity": 9997.72,
+      "cash": 10000.0,
+      "holdings": 0
+    },
+    {
+      "date": "2026-09-25",
+      "equity": 9985.87,
+      "benchmark_equity": 9983.55,
+      "cash": 7709.17,
+      "holdings": 2
+    }
+  ],
+  "benchmark": {
+    "cash": 80.95401714017167,
+    "positions": {
+      "HDFCBANK.NS": {
+        "qty": 2,
+        "avg_price": 725.0
+      },
+      "ICICIBANK.NS": {
+        "qty": 2,
+        "avg_price": 1333.0999755859375
+      },
+      "PETRONET.NS": {
+        "qty": 7,
+        "avg_price": 285.0
+      },
+      "IOC.NS": {
+        "qty": 14,
+        "avg_price": 136.5
+      },
+      "ITC.NS": {
+        "qty": 7,
+        "avg_price": 268.70001220703125
+      }
+    },
+    "started": true,
+    "started_on": "2026-09-24"
+  },
+  "cash_accrued_through": "2026-09-25",
+  "last_session": "2026-09-25",
+  "last_run_utc": "2026-09-26T07:52:32.455114+00:00"
+}

@@ -27,7 +27,7 @@ import pandas as pd
 from sb3_contrib import RecurrentPPO
 
 from scaata.config import DATA_CACHE_DIR, FEATURE_COLUMNS
-from scaata.features.normalize import normalize_data
+from scaata.features.normalize import apply_normalizer, load_norm_stats, save_norm_stats
 from scaata.features.technical import add_features
 from scaata.live.alpaca_broker import get_account_snapshot, get_latest_daily_bars, submit_paper_order
 from scaata.rl.env import BUY, HOLD, SELL
@@ -48,21 +48,56 @@ def _log_path(ticker: str) -> Path:
     return FORWARD_TEST_DIR / f"decision_log_{ticker}.csv"
 
 
+def _norm_stats_path(ticker: str) -> Path:
+    return FORWARD_TEST_DIR / f"policy_{ticker}_norm.json"
+
+
+def load_policy_norm_stats(ticker: str, feature_columns: list[str] = FEATURE_COLUMNS):
+    """`(mean, std, provenance)` the deployed policy for `ticker` was trained
+    with, or None if none were saved. Live callers must not fall back to
+    re-fitting on the live window -- see `scaata.features.normalize`."""
+    return load_norm_stats(_norm_stats_path(ticker), feature_columns)
+
+
+def latest_observation(featured: pd.DataFrame, feature_columns: list[str], mean: pd.Series, std: pd.Series) -> np.ndarray:
+    """The newest row's features, scaled with the policy's training stats."""
+    latest = apply_normalizer(featured.iloc[[-1]], feature_columns, mean, std)
+    return latest[feature_columns].values[0].astype(np.float32)
+
+
 def train_or_load_policy(
     ticker: str, train_df: pd.DataFrame, feature_columns: list[str] = FEATURE_COLUMNS,
-    seed: int = 0, total_timesteps: int = 100_000,
+    seed: int = 0, total_timesteps: int = 100_000, use_differential_sharpe: bool = False,
+    norm_mean: pd.Series | None = None, norm_std: pd.Series | None = None,
 ) -> RecurrentPPO:
     """Trains once and persists to disk; every later call just loads the
     saved policy, so the forward test's daily decisions come from one
     fixed, frozen model rather than silently retraining on data the model
-    would then have "seen" before deciding."""
+    would then have "seen" before deciding.
+
+    `use_differential_sharpe` (default off, preserves original behavior for
+    existing callers/saved models): trains against the Differential Sharpe
+    Ratio reward -- see `scaata.rl.train.train_ppo`'s docstring for why.
+
+    `norm_mean`/`norm_std`: the stats `train_df` was normalized with. Pass
+    them so they're saved next to the policy; live inference refuses to run
+    a policy without them.
+    """
     path = _model_path(ticker)
     if path.exists():
         return RecurrentPPO.load(str(path))
 
     from scaata.rl.train import train_ppo
-    model = train_ppo(train_df, feature_columns, seed=seed, total_timesteps=total_timesteps)
+    model = train_ppo(
+        train_df, feature_columns, seed=seed, total_timesteps=total_timesteps,
+        use_differential_sharpe=use_differential_sharpe,
+    )
     model.save(str(path))
+    if norm_mean is not None and norm_std is not None:
+        save_norm_stats(_norm_stats_path(ticker), norm_mean, norm_std, {
+            "quality": "exact", "source": "train_or_load_policy",
+            "saved_at_utc": datetime.now(timezone.utc).isoformat(), "train_rows": len(train_df),
+        })
     return model
 
 
@@ -101,13 +136,19 @@ def run_daily_decision(
         )
         return existing
 
+    stats = load_policy_norm_stats(ticker, feature_columns)
+    if stats is None:
+        # This path submits real paper orders, so refuse outright rather
+        # than trade on mis-scaled inputs.
+        raise RuntimeError(
+            f"No training normalization stats saved for {ticker}'s policy "
+            f"({_norm_stats_path(ticker).name}) -- refusing to decide or place an order."
+        )
+    norm_mean, norm_std, _ = stats
+
     bars, data_source = get_latest_daily_bars(ticker, lookback_days=90)
     featured = add_features(bars.reset_index())
-    # Normalize against the same trailing window used at inference time
-    # (no separate train split here -- this is live data, not a backtest).
-    normed, _, _, _ = normalize_data(featured, featured, feature_columns)
-    latest_row = normed.iloc[-1]
-    obs = latest_row[feature_columns].values.astype(np.float32)
+    obs = latest_observation(featured, feature_columns, norm_mean, norm_std)
 
     lstm_state, episode_start = _load_lstm_state(ticker)
     action, new_state = model.predict(obs, state=lstm_state, episode_start=episode_start, deterministic=True)

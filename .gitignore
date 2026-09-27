@@ -10,3 +10,19 @@ __pycache__/
 .ipynb_checkpoints/
 *.pth
 strategy_dataset.json
+
+# Phase 19: subscriber PII (emails, api_keys, Stripe ids) -- must never be committed.
+product.db
+product.db-journal
+product.db-wal
+
+# Kite Connect daily access token -- a live credential, never commit.
+.kite_session.json
+
+# Local scratch, logs, runtime state and model artifacts -- not source.
+scratchpad_*
+*.bak
+logs/
+daily_signal/
+equity_carry_monitor/
+*.zip

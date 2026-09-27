@@ -1,0 +1,15 @@
+# HANSEI brand theme. Palette: midnight #0F414A, maroon #7F0303,
+# alabaster #EFE8DF, tan #D8BA98, light blue #96C0CE.
+[theme]
+base = "light"
+primaryColor = "#7F0303"
+backgroundColor = "#EFE8DF"
+secondaryBackgroundColor = "#E6DED2"
+textColor = "#0F414A"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

@@ -54,3 +54,25 @@ def test_strategy_pool_weights_stay_within_valid_bounds():
     weights = final_state["strategy_pool_weights"]
     assert all(w >= MIN_STRATEGY_WEIGHT - 1e-9 for w in weights)
     assert all(w <= 1.0 for w in weights)
+
+
+def test_run_inner_loop_does_not_mutate_callers_train_df():
+    """Regression test: a real crash was traced to `meta_selector_node`
+    running strategy-pool code against `state["train_df"]` by reference
+    (scaata.strategies.pool.run_strategy_safely). At least one candidate
+    strategy assigned its own `df['rsi'] = ...`, colliding with the
+    project's real `rsi` feature column and silently overwriting it with
+    NaN-during-warmup values -- corrupting the caller's own DataFrame after
+    `run_inner_loop` returned, and crashing a subsequent `train_ppo` call
+    with NaN logits on its very first forward pass. `run_inner_loop` must
+    never let the caller's DataFrame come back changed, in columns or
+    values.
+    """
+    train_df = _make_synthetic_train_df(seed=3)
+    columns_before = list(train_df.columns)
+    snapshot_before = train_df.copy(deep=True)
+
+    run_inner_loop(train_df, max_iterations=2)
+
+    assert list(train_df.columns) == columns_before
+    pd.testing.assert_frame_equal(train_df, snapshot_before)

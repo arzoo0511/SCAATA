@@ -37,7 +37,27 @@ class _FakePolicy:
 
 @pytest.fixture(autouse=True)
 def _redirect_forward_test_dir(tmp_path, monkeypatch):
+    """Also saves training normalization stats for TESTFWD, as a normally
+    deployed policy has -- run_daily_decision refuses to run without them."""
+    from scaata.features.normalize import fit_normalizer, save_norm_stats
+    from scaata.features.technical import add_features
+
     monkeypatch.setattr(forward_test, "FORWARD_TEST_DIR", tmp_path)
+    mean, std = fit_normalizer(add_features(_synthetic_bars().reset_index()), FEATURE_COLUMNS)
+    save_norm_stats(forward_test._norm_stats_path("TESTFWD"), mean, std, {"quality": "exact"})
+
+
+def test_run_daily_decision_refuses_without_training_stats(monkeypatch):
+    monkeypatch.setattr(forward_test, "get_latest_daily_bars", lambda *a, **k: (_synthetic_bars(), "live"))
+    submit_calls = []
+    monkeypatch.setattr(forward_test, "submit_paper_order", lambda *a, **k: submit_calls.append(a))
+    forward_test._norm_stats_path("TESTFWD").unlink()
+
+    with pytest.raises(RuntimeError, match="normalization stats"):
+        forward_test.run_daily_decision("TESTFWD", _FakePolicy(fixed_action=BUY), FEATURE_COLUMNS, qty=1.0)
+
+    assert submit_calls == []
+    assert not forward_test._state_path("TESTFWD").exists()
 
 
 @pytest.fixture(autouse=True)

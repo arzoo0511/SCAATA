@@ -9,6 +9,7 @@ meaningfully assert about mocked random weights.
 import numpy as np
 import pandas as pd
 
+import scaata.agents.nodes.evolver_node as evolver_node_module
 from scaata.config import FEATURE_COLUMNS
 from scaata.evaluation.agent_comparison import (
     actual_strategy_profitability,
@@ -39,7 +40,18 @@ def test_actual_profitability_is_computed_per_strategy():
     assert profits["a"] == -profits["b"]
 
 
-def test_comparison_harness_runs_end_to_end_without_llm_access():
+def test_comparison_harness_runs_end_to_end_without_llm_access(monkeypatch):
+    # This test's assertions assume a closed strategy set (exactly `raw`,
+    # nothing more) -- that's specifically what Phase 11 strategy evolution
+    # (now on by default, see scaata.config.ENABLE_STRATEGY_EVOLUTION) is
+    # designed to violate, since `compare_monolithic_vs_decomposed` runs the
+    # full graph via `run_inner_loop`. This test's actual purpose (the
+    # harness runs end-to-end and produces well-formed output without LLM
+    # access) is orthogonal to evolution, so disable it here rather than
+    # loosen the assertions and lose the "no extra strategies snuck in"
+    # check for the case this test actually cares about.
+    monkeypatch.setattr(evolver_node_module, "ENABLE_STRATEGY_EVOLUTION", False)
+
     train_df = _make_synthetic_train_df()
     raw = mock_strategies()
 

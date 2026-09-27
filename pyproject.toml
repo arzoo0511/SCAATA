@@ -29,6 +29,7 @@ dependencies = [
 agents = ["langgraph>=0.2", "langchain-core>=0.3"]
 sentiment = ["transformers>=4.44"]
 live = ["alpaca-py>=0.40"]
+product = ["fastapi>=0.110", "uvicorn>=0.29", "stripe>=9.0"]
 dev = ["pytest>=8.0"]
 
 [build-system]

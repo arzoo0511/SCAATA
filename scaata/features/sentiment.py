@@ -81,6 +81,42 @@ def combine_sentiment_signals(sentiment_df: pd.DataFrame) -> pd.DataFrame:
     return out
 
 
+def sentiment_velocity(sentiment_df: pd.DataFrame, score_col: str = "sentiment_score", window: int = 3) -> pd.Series:
+    """Rate of change of sentiment tone over `window` days, grouped by
+    `ticker` if present so velocity is never computed across a ticker
+    boundary. This is deliberately distinct from the tone *level*: a story
+    "blowing up" shows up as acceleration before the average tone itself
+    necessarily moves (Phase 9c)."""
+    if "ticker" in sentiment_df.columns:
+        return sentiment_df.groupby("ticker")[score_col].diff(window)
+    return sentiment_df[score_col].diff(window)
+
+
+def mention_volume_velocity(sentiment_df: pd.DataFrame, volume_col: str = "mention_volume", window: int = 3) -> pd.Series:
+    """Rate of change of news coverage volume over `window` days — coverage
+    acceleration is arguably a more causally-honest "something is happening"
+    signal than tone level alone (Phase 9c)."""
+    if "ticker" in sentiment_df.columns:
+        return sentiment_df.groupby("ticker")[volume_col].pct_change(window)
+    return sentiment_df[volume_col].pct_change(window)
+
+
+def attach_sentiment_velocity(
+    sentiment_df: pd.DataFrame,
+    score_col: str = "sentiment_score",
+    volume_col: str = "mention_volume",
+    tone_window: int = 3,
+    volume_window: int = 3,
+) -> pd.DataFrame:
+    """Adds `sentiment_velocity`/`mention_volume_velocity` columns. Assumes
+    `sentiment_df` is already sorted by date within each ticker (the same
+    ordering assumption `combine_sentiment_signals` makes)."""
+    out = sentiment_df.copy()
+    out["sentiment_velocity"] = sentiment_velocity(out, score_col, tone_window)
+    out["mention_volume_velocity"] = mention_volume_velocity(out, volume_col, volume_window)
+    return out
+
+
 def mock_headlines_by_date(dates: pd.DatetimeIndex, seed: int = 0) -> dict[pd.Timestamp, list[str]]:
     """Synthetic headlines for offline testing — real runs should source
     headlines from GDELT's article-level `artlist` mode or another news API."""
