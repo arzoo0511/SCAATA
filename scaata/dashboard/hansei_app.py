@@ -23,11 +23,17 @@ from __future__ import annotations
 import base64
 import io
 import json
+import os
+import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import pandas as pd
 import streamlit as st
+
+# Streamlit Cloud runs this file without installing the package, so put the
+# repo root on the path before importing scaata.
+sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scaata.config import INDIA_BENCHMARK, INDIA_TICKERS, ROOT_DIR
 from scaata.live.kite_broker import KiteError, get_funds, get_holdings, get_profile, load_access_token
@@ -423,8 +429,12 @@ if BACKTEST_PATH.exists():
         f"not in this replay: there is no archive of past headlines.</div>", unsafe_allow_html=True)
 
 # --------------------------------------------------------------- account
-rule("Your real Zerodha account · read-only")
-if load_access_token() is None:
+# The public (Streamlit Cloud) copy has no Kite keys, so it skips this section
+# entirely rather than showing the owner's login instructions.
+kite_configured = bool(os.environ.get("KITE_CONNECT_API_KEY") or os.environ.get("KITE_API_KEY"))
+if kite_configured:
+    rule("Your real Zerodha account · read-only")
+if kite_configured and load_access_token() is None:
     st.markdown(
         '<div class="hs-card"><div class="hs-lab">Not connected</div>'
         '<div class="hs-num" style="font-size:1.15rem;margin-top:.35rem">Kite session expired</div>'
@@ -432,7 +442,7 @@ if load_access_token() is None:
         '<code>python -m scaata.live.kite_login</code> in a terminal, then reload.</div></div>',
         unsafe_allow_html=True,
     )
-else:
+elif kite_configured:
     try:
         profile, _ = get_profile()
         funds, _ = get_funds()

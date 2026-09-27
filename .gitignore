@@ -2,7 +2,10 @@
 .venv/
 .claude/
 data_cache/
-forward_test/
+forward_test/*
+# ...except HANSEI's journal and memory, which the public dashboard reads.
+!forward_test/hansei_journal.json
+!forward_test/hansei_memory.json
 __pycache__/
 *.pyc
 .pytest_cache/
