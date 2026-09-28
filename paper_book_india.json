@@ -9,7 +9,7 @@
     "ITC.NS"
   ],
   "sleeve": 2000.0,
-  "cash": 7709.171252041903,
+  "cash": 5987.607877514938,
   "positions": {
     "ICICIBANK.NS": {
       "qty": 1,
@@ -18,17 +18,13 @@
     "IOC.NS": {
       "qty": 7,
       "avg_price": 136.5
+    },
+    "PETRONET.NS": {
+      "qty": 6,
+      "avg_price": 286.95001220703125
     }
   },
-  "pending": [
-    {
-      "symbol": "PETRONET.NS",
-      "action": "TARGET",
-      "target_value": 1997.17,
-      "reason": "Buying PETRONET: 0% -> 100% of its share; momentum supportive (+0.85, trusted 25%); news against (-0.35, trusted 25%)",
-      "queued_on": "2026-09-25"
-    }
-  ],
+  "pending": [],
   "trades": [
     {
       "date": "2026-09-25",
@@ -49,6 +45,16 @@
       "cost": 1.54,
       "reason": "Buying IOC: 0% -> 50% of its share; trend against (-0.73, trusted 25%); news against (-0.42, trusted 25%)",
       "cash_after": 7709.17
+    },
+    {
+      "date": "2026-09-28",
+      "symbol": "PETRONET.NS",
+      "action": "BUY",
+      "qty": 6,
+      "price": 286.95001220703125,
+      "cost": 2.77,
+      "reason": "Buying PETRONET: 0% -> 100% of its share; momentum supportive (+0.85, trusted 25%); news against (-0.35, trusted 25%)",
+      "cash_after": 5987.61
     }
   ],
   "equity_history": [
@@ -65,10 +71,17 @@
       "benchmark_equity": 9983.55,
       "cash": 7709.17,
       "holdings": 2
+    },
+    {
+      "date": "2026-09-28",
+      "equity": 9961.95,
+      "benchmark_equity": 9874.91,
+      "cash": 5987.61,
+      "holdings": 3
     }
   ],
   "benchmark": {
-    "cash": 80.95401714017167,
+    "cash": 80.98458289432001,
     "positions": {
       "HDFCBANK.NS": {
         "qty": 2,
@@ -94,7 +107,7 @@
     "started": true,
     "started_on": "2026-09-24"
   },
-  "cash_accrued_through": "2026-09-25",
-  "last_session": "2026-09-25",
-  "last_run_utc": "2026-09-26T07:52:32.455114+00:00"
+  "cash_accrued_through": "2026-09-28",
+  "last_session": "2026-09-28",
+  "last_run_utc": "2026-09-28T18:16:46.642252+00:00"
 }
