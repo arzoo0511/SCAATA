@@ -9,7 +9,7 @@
     "ITC.NS"
   ],
   "sleeve": 2000.0,
-  "cash": 5987.607877514938,
+  "cash": 5989.868614619607,
   "positions": {
     "ICICIBANK.NS": {
       "qty": 1,
@@ -24,15 +24,7 @@
       "avg_price": 286.95001220703125
     }
   },
-  "pending": [
-    {
-      "symbol": "ICICIBANK.NS",
-      "action": "TARGET",
-      "target_value": 1996.66,
-      "reason": "Adding to ICICIBANK: 66% -> 100% of its share; momentum supportive (+0.88, trusted 25%); news against (-0.52, trusted 25%); material news overrode the waiting period",
-      "queued_on": "2026-09-25"
-    }
-  ],
+  "pending": [],
   "trades": [
     {
       "date": "2026-09-25",
@@ -82,14 +74,14 @@
     },
     {
       "date": "2026-09-28",
-      "equity": 9961.95,
-      "benchmark_equity": 9874.91,
-      "cash": 5987.61,
+      "equity": 9964.21,
+      "benchmark_equity": 9874.95,
+      "cash": 5989.87,
       "holdings": 3
     }
   ],
   "benchmark": {
-    "cash": 80.98458289432001,
+    "cash": 81.01516018915973,
     "positions": {
       "HDFCBANK.NS": {
         "qty": 2,
@@ -115,7 +107,7 @@
     "started": true,
     "started_on": "2026-09-24"
   },
-  "cash_accrued_through": "2026-09-25",
-  "last_session": "2026-09-25",
-  "last_run_utc": "2026-09-28T21:20:27.322702+00:00"
+  "cash_accrued_through": "2026-09-28",
+  "last_session": "2026-09-28",
+  "last_run_utc": "2026-09-29T08:47:34.453553+00:00"
 }

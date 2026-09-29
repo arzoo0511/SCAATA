@@ -291,300 +291,6 @@
     }
   },
   {
-    "session": "2026-09-28",
-    "ran_utc": "2026-09-28T18:16:46.642252+00:00",
-    "equity": 9961.95,
-    "benchmark_equity": 9874.91,
-    "filled": [
-      {
-        "date": "2026-09-28",
-        "symbol": "PETRONET.NS",
-        "action": "BUY",
-        "qty": 6,
-        "price": 286.95001220703125,
-        "cost": 2.77,
-        "reason": "Buying PETRONET: 0% -> 100% of its share; momentum supportive (+0.85, trusted 25%); news against (-0.35, trusted 25%)",
-        "cash_after": 5987.61
-      }
-    ],
-    "decisions": [
-      {
-        "symbol": "HDFCBANK.NS",
-        "score": -0.394,
-        "target_exposure": 0.212,
-        "current_exposure": 0.0,
-        "action": "HOLD",
-        "reasons": [
-          "Holding at 0%: no strong reason to change",
-          "trend against (-0.88, trusted 25%)",
-          "news against (-0.56, trusted 25%)"
-        ],
-        "views": {
-          "trend": -0.878,
-          "volatility": -0.05,
-          "momentum": -0.09,
-          "news": -0.559
-        },
-        "value": 0.0
-      },
-      {
-        "symbol": "ICICIBANK.NS",
-        "score": -0.01,
-        "target_exposure": 0.98,
-        "current_exposure": 0.653,
-        "action": "HOLD",
-        "reasons": [
-          "Holding at 65%: no strong reason to change",
-          "momentum supportive (+0.84, trusted 25%)",
-          "news against (-0.50, trusted 25%)"
-        ],
-        "views": {
-          "trend": -0.381,
-          "volatility": -0.0,
-          "momentum": 0.84,
-          "news": -0.5
-        },
-        "value": 1302.0
-      },
-      {
-        "symbol": "PETRONET.NS",
-        "score": 0.347,
-        "target_exposure": 1.0,
-        "current_exposure": 0.873,
-        "action": "HOLD",
-        "reasons": [
-          "Holding at 87%: no strong reason to change",
-          "momentum supportive (+0.75, trusted 25%)",
-          "trend supportive (+0.44, trusted 25%)"
-        ],
-        "views": {
-          "trend": 0.439,
-          "volatility": -0.0,
-          "momentum": 0.748,
-          "news": 0.202
-        },
-        "value": 1739.1
-      },
-      {
-        "symbol": "IOC.NS",
-        "score": -0.173,
-        "target_exposure": 0.654,
-        "current_exposure": 0.468,
-        "action": "HOLD",
-        "reasons": [
-          "Holding at 47%: no strong reason to change",
-          "trend against (-0.82, trusted 25%)",
-          "momentum supportive (+0.13, trusted 25%)"
-        ],
-        "views": {
-          "trend": -0.819,
-          "volatility": -0.0,
-          "momentum": 0.127,
-          "news": 0.0
-        },
-        "value": 933.24
-      },
-      {
-        "symbol": "ITC.NS",
-        "score": -0.356,
-        "target_exposure": 0.287,
-        "current_exposure": 0.0,
-        "action": "HOLD",
-        "reasons": [
-          "Holding at 0%: no strong reason to change",
-          "trend against (-0.88, trusted 25%)",
-          "momentum against (-0.40, trusted 25%)"
-        ],
-        "views": {
-          "trend": -0.877,
-          "volatility": -0.15,
-          "momentum": -0.398,
-          "news": 0.0
-        },
-        "value": 0.0
-      }
-    ],
-    "weights": {
-      "trend": 0.25,
-      "volatility": 0.25,
-      "momentum": 0.25,
-      "news": 0.25
-    },
-    "lessons_learned": 0,
-    "news": {
-      "HDFCBANK.NS": {
-        "signal": {
-          "score": -0.559,
-          "strength": 1.0,
-          "material_count": 5,
-          "view": -0.559
-        },
-        "top": [
-          {
-            "title": "HDFC Bank vs ICICI Bank vs Yes Bank: What To Expect From Bank Q4 Result Today? Check Details",
-            "source": "Goodreturns",
-            "sentiment": -0.5,
-            "material": 0.7,
-            "published_utc": "2026-09-28T16:38:35+00:00",
-            "count": 1
-          },
-          {
-            "title": "HDB Investors Have Opportunity to Lead HDFC Bank Limited Securities Fraud Lawsuit with SBS Law",
-            "source": "GlobeNewswire",
-            "sentiment": -1.0,
-            "material": 0.7,
-            "published_utc": "2026-09-28T14:33:11+00:00",
-            "count": 1
-          },
-          {
-            "title": "HDFC Bank CEO change nears: Why Jefferies sees 20% upside despite deposit growth lagging peers",
-            "source": "financialexpress.com",
-            "sentiment": -0.263,
-            "material": 0.7,
-            "published_utc": "2026-09-28T10:20:23+00:00",
-            "count": 2
-          },
-          {
-            "title": "HDFC Bank CEO appointment nears: Jefferies sees 3 execution triggers that could drive rerating",
-            "source": "ET Now",
-            "sentiment": -0.5,
-            "material": 0.7,
-            "published_utc": "2026-09-28T08:19:13+00:00",
-            "count": 2
-          }
-        ]
-      },
-      "ICICIBANK.NS": {
-        "signal": {
-          "score": -0.5,
-          "strength": 1.0,
-          "material_count": 5,
-          "view": -0.5
-        },
-        "top": [
-          {
-            "title": "HDFC Bank vs ICICI Bank vs Yes Bank: What To Expect From Bank Q4 Result Today? Check Details",
-            "source": "Goodreturns",
-            "sentiment": -0.5,
-            "material": 0.7,
-            "published_utc": "2026-09-28T16:38:35+00:00",
-            "count": 1
-          },
-          {
-            "title": "ICICI Bank Discloses New \u20b916.76 Crore GST Demand from West Bengal Tax Authority",
-            "source": "tipranks.com",
-            "sentiment": -0.5,
-            "material": 0.7,
-            "published_utc": "2026-09-28T10:31:09+00:00",
-            "count": 1
-          },
-          {
-            "title": "Services for minimum-balance customers are at issue in a tax notice to ICICI Bank (IBN).",
-            "source": "Stock Titan",
-            "sentiment": -0.5,
-            "material": 0.7,
-            "published_utc": "2026-09-28T10:06:07+00:00",
-            "count": 1
-          },
-          {
-            "title": "HDFC Bank shares: Valuation gap with ICICI Bank widens; 3 triggers for rerating, target - BusinessToday",
-            "source": "IndiaIPO",
-            "sentiment": -0.5,
-            "material": 0.7,
-            "published_utc": "2026-09-28T07:07:42+00:00",
-            "count": 1
-          }
-        ]
-      },
-      "PETRONET.NS": {
-        "signal": {
-          "score": 0.202,
-          "strength": 1.0,
-          "material_count": 4,
-          "view": 0.202
-        },
-        "top": [
-          {
-            "title": "Petronet LNG shareholders approve \u20b93 final dividend for FY26 at 28th AGM",
-            "source": "scanx.trade",
-            "sentiment": 0.5,
-            "material": 0.7,
-            "published_utc": "2026-09-28T16:11:37+00:00",
-            "count": 1
-          },
-          {
-            "title": "Petronet to pay 1% of profit as commission to directors",
-            "source": "ETHRWorld.com",
-            "sentiment": 0.0,
-            "material": 0.7,
-            "published_utc": "2026-09-28T06:43:03+00:00",
-            "count": 5
-          },
-          {
-            "title": "Petronet LNG fixes June 12 record date for \u20b93.00 final dividend",
-            "source": "scanx.trade",
-            "sentiment": 1.0,
-            "material": 0.7,
-            "published_utc": "2026-09-27T16:58:30+00:00",
-            "count": 1
-          },
-          {
-            "title": "Petronet LNG MD Race Gets a Political Twist",
-            "source": "Indian PSU",
-            "sentiment": 0.0,
-            "material": 0.7,
-            "published_utc": "2026-09-26T07:15:43+00:00",
-            "count": 1
-          }
-        ]
-      },
-      "IOC.NS": {
-        "signal": {
-          "score": 0.0,
-          "strength": 1.0,
-          "material_count": 2,
-          "view": 0.0
-        },
-        "top": [
-          {
-            "title": "Indian Oil, IndiGo, Asian Paints: Oil-sensitive stocks fall as crude prices jump due to Trump's peace deal rejection",
-            "source": "Upstox",
-            "sentiment": 0.0,
-            "material": 0.7,
-            "published_utc": "2026-09-28T05:17:47+00:00",
-            "count": 1
-          },
-          {
-            "title": "Indian Oil sets Aug 24 cutoff for AGM voting on \u20b925,800 crore deal",
-            "source": "scanx.trade",
-            "sentiment": 0.0,
-            "material": 0.7,
-            "published_utc": "2026-09-27T09:23:31+00:00",
-            "count": 1
-          }
-        ]
-      },
-      "ITC.NS": {
-        "signal": {
-          "score": 0.0,
-          "strength": 0.279,
-          "material_count": 1,
-          "view": 0.0
-        },
-        "top": [
-          {
-            "title": "Buy, Sell Or Hold: NSE, Pricol, ITC, Rolex Rings \u2014 Ask Profit",
-            "source": "NDTV Profit",
-            "sentiment": 0.0,
-            "material": 0.7,
-            "published_utc": "2026-09-28T06:27:34+00:00",
-            "count": 1
-          }
-        ]
-      }
-    }
-  },
-  {
     "session": "2026-09-25",
     "ran_utc": "2026-09-28T21:20:27.322702+00:00",
     "equity": 9983.31,
@@ -852,6 +558,289 @@
         "signal": {
           "score": 0.0,
           "strength": 0.263,
+          "material_count": 1,
+          "view": 0.0
+        },
+        "top": [
+          {
+            "title": "Buy, Sell Or Hold: NSE, Pricol, ITC, Rolex Rings \u2014 Ask Profit",
+            "source": "NDTV Profit",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-28T06:27:34+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "session": "2026-09-28",
+    "ran_utc": "2026-09-29T08:47:34.453553+00:00",
+    "equity": 9964.21,
+    "benchmark_equity": 9874.95,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.396,
+        "target_exposure": 0.208,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.88, trusted 25%)",
+          "news against (-0.57, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.878,
+          "volatility": -0.05,
+          "momentum": -0.09,
+          "news": -0.566
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": -0.016,
+        "target_exposure": 0.969,
+        "current_exposure": 0.653,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 65%: no strong reason to change",
+          "momentum supportive (+0.84, trusted 25%)",
+          "news against (-0.52, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.381,
+          "volatility": -0.0,
+          "momentum": 0.84,
+          "news": -0.521
+        },
+        "value": 1302.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.347,
+        "target_exposure": 1.0,
+        "current_exposure": 0.873,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 87%: no strong reason to change",
+          "momentum supportive (+0.75, trusted 25%)",
+          "trend supportive (+0.44, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.439,
+          "volatility": -0.0,
+          "momentum": 0.748,
+          "news": 0.202
+        },
+        "value": 1739.1
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.173,
+        "target_exposure": 0.654,
+        "current_exposure": 0.468,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 47%: no strong reason to change",
+          "trend against (-0.82, trusted 25%)",
+          "momentum supportive (+0.13, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.819,
+          "volatility": -0.0,
+          "momentum": 0.127,
+          "news": 0.0
+        },
+        "value": 933.24
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.356,
+        "target_exposure": 0.287,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.88, trusted 25%)",
+          "momentum against (-0.40, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.877,
+          "volatility": -0.15,
+          "momentum": -0.398,
+          "news": 0.0
+        },
+        "value": 0.0
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.566,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": -0.566
+        },
+        "top": [
+          {
+            "title": "HDB Investors Have Opportunity to Lead HDFC Bank Limited Securities Fraud Lawsuit with SBS Law",
+            "source": "GlobeNewswire",
+            "sentiment": -0.896,
+            "material": 0.7,
+            "published_utc": "2026-09-28T20:10:00+00:00",
+            "count": 3
+          },
+          {
+            "title": "HDFC Bank vs ICICI Bank vs Yes Bank: What To Expect From Bank Q4 Result Today? Check Details",
+            "source": "Goodreturns",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-28T16:38:35+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank CEO change nears: Why Jefferies sees 20% upside despite deposit growth lagging peers",
+            "source": "financialexpress.com",
+            "sentiment": -0.263,
+            "material": 0.7,
+            "published_utc": "2026-09-28T10:20:23+00:00",
+            "count": 2
+          },
+          {
+            "title": "HDFC Bank CEO appointment nears: Jefferies sees 3 execution triggers that could drive rerating",
+            "source": "ET Now",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-28T08:19:13+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.521,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": -0.521
+        },
+        "top": [
+          {
+            "title": "HDFC Bank vs ICICI Bank vs Yes Bank: What To Expect From Bank Q4 Result Today? Check Details",
+            "source": "Goodreturns",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-28T16:38:35+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank Discloses New \u20b916.76 Crore GST Demand from West Bengal Tax Authority",
+            "source": "TipRanks",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-28T10:31:09+00:00",
+            "count": 1
+          },
+          {
+            "title": "Services for minimum-balance customers are at issue in a tax notice to ICICI Bank (IBN).",
+            "source": "Stock Titan",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-28T10:06:07+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank shares: Valuation gap with ICICI Bank widens; 3 triggers for rerating, target - BusinessToday",
+            "source": "IndiaIPO",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-28T07:07:42+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.202,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": 0.202
+        },
+        "top": [
+          {
+            "title": "Petronet LNG shareholders approve \u20b93 final dividend for FY26 at 28th AGM",
+            "source": "scanx.trade",
+            "sentiment": 0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-28T16:11:37+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet to pay 1% of profit as commission to directors",
+            "source": "ETHRWorld.com",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-28T06:43:03+00:00",
+            "count": 5
+          },
+          {
+            "title": "Petronet LNG fixes June 12 record date for \u20b93.00 final dividend",
+            "source": "scanx.trade",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-09-27T16:58:30+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG MD Race Gets a Political Twist",
+            "source": "Indian PSU",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-26T07:15:43+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.0,
+          "strength": 0.812,
+          "material_count": 2,
+          "view": 0.0
+        },
+        "top": [
+          {
+            "title": "Indian Oil, IndiGo, Asian Paints: Oil-sensitive stocks fall as crude prices jump due to Trump's peace deal rejection",
+            "source": "Upstox",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-28T05:17:47+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil sets Aug 24 cutoff for AGM voting on \u20b925,800 crore deal",
+            "source": "scanx.trade",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-27T09:23:31+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.0,
+          "strength": 0.211,
           "material_count": 1,
           "view": 0.0
         },
