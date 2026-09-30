@@ -9,7 +9,7 @@
     "ITC.NS"
   ],
   "sleeve": 2000.0,
-  "cash": 5992.130205309275,
+  "cash": 5460.3747809724755,
   "positions": {
     "ICICIBANK.NS": {
       "qty": 1,
@@ -22,24 +22,13 @@
     "PETRONET.NS": {
       "qty": 6,
       "avg_price": 286.95001220703125
+    },
+    "ITC.NS": {
+      "qty": 2,
+      "avg_price": 265.45001220703125
     }
   },
-  "pending": [
-    {
-      "symbol": "ICICIBANK.NS",
-      "action": "TARGET",
-      "target_value": 1993.07,
-      "reason": "Adding to ICICIBANK: 66% -> 100% of its share; momentum supportive (+0.83, trusted 25%); news against (-0.56, trusted 25%); material news overrode the waiting period",
-      "queued_on": "2026-09-30"
-    },
-    {
-      "symbol": "ITC.NS",
-      "action": "TARGET",
-      "target_value": 665.68,
-      "reason": "Buying ITC: 0% -> 33% of its share; trend against (-0.89, trusted 25%); momentum against (-0.44, trusted 25%)",
-      "queued_on": "2026-09-30"
-    }
-  ],
+  "pending": [],
   "trades": [
     {
       "date": "2026-09-25",
@@ -70,6 +59,16 @@
       "cost": 2.77,
       "reason": "Buying PETRONET: 0% -> 100% of its share; momentum supportive (+0.85, trusted 25%); news against (-0.35, trusted 25%)",
       "cash_after": 5987.61
+    },
+    {
+      "date": "2026-09-29",
+      "symbol": "ITC.NS",
+      "action": "BUY",
+      "qty": 2,
+      "price": 265.45001220703125,
+      "cost": 0.86,
+      "reason": "Buying ITC: 0% -> 33% of its share; trend against (-0.89, trusted 25%); momentum against (-0.44, trusted 25%)",
+      "cash_after": 5460.37
     }
   ],
   "equity_history": [
@@ -96,10 +95,10 @@
     },
     {
       "date": "2026-09-29",
-      "equity": 9900.59,
-      "benchmark_equity": 9785.81,
-      "cash": 5991.38,
-      "holdings": 3
+      "equity": 9899.78,
+      "benchmark_equity": 9785.82,
+      "cash": 5460.37,
+      "holdings": 4
     },
     {
       "date": "2026-09-30",
@@ -136,7 +135,7 @@
     "started": true,
     "started_on": "2026-09-24"
   },
-  "cash_accrued_through": "2026-09-30",
-  "last_session": "2026-09-30",
-  "last_run_utc": "2026-09-30T16:31:29.638328+00:00"
+  "cash_accrued_through": "2026-09-29",
+  "last_session": "2026-09-29",
+  "last_run_utc": "2026-09-30T20:13:46.883803+00:00"
 }

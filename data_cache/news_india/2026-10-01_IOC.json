@@ -1,0 +1,414 @@
+{
+  "symbol": "IOC.NS",
+  "date": "2026-10-01",
+  "headlines": [
+    {
+      "title": "ADNOC-backed AIQ secures deal to enter Indian energy markets",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-09-30T15:58:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaThYbm1OVjFJM2h2TEZaOGtGeXhvS1RjT2FmWTY1ZWZQTFJGN3FyZ3pkN1lkMEF2Q0Y0SGlNUDdDRlJ4amZESVpSck5wcXB0VlAydGF5NU5wdjY0NHZsOVFobnc2VjNNeEtHLUg1V3U3dVU0djl6WnpqWUs0ekpjck1JdkZSdGpLaEtoUzRZWGphUEk3anRGajRQRHFMak9kTlJMWlhjemJuRzlzWXJXUy0tZG41U21Ga05EUTZYa0hpcFBCbGfSAcsBQVVfeXFMT2tlSnY1SktnVVRQd3c1U1l2Zi1HVWhlc2Nocnc2MVgwdDlTODhKeFJfSHNWQUpzOHNkM2tKSHV6M2ZwSVpXd1ZRQkpRZVViRER5Q0oxSjF1TVpicC00ZVQwZWFGbzJxT3R5Q1hWRVRKUUpYclVTNnlnd1JyVXNCZUlNSU9TOWhDcXgxd0F1OVdqcHl6Q29zOWF4YVNTVVNCUWlZdl80VmR5NHlOcjFWdDRVWm1nRzdSV1dqRkctMkJlQ2F4MmtkYldxMGc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Dividend income at risk? 8 stocks with inconsistent dividend payout: Indian Oil, Sanofi India, UTI AMC, and more",
+      "source": "TradingView",
+      "published_utc": "2026-09-30T15:50:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbnNUWGxtckJQSGxCcmRSZTJqYVlaclFVOUZjakNfZU1qaFBsUGZpTzhwVm5IUlhCUURfdmNYNTZWT0NUVGVDNDl5VUpCYlM2Uko1alkybUxWM1pNbzV2SldlZ2FGQXUteDYwYU1RVmVkWW9MQ05BdGZNd3YtVzNWc3RkdTlvTGhpd0dWYzNhbGpoZkJIOFFwX2dXRk8zWkkwcUNRM1l1RjhianRST3haTElpSS1zYS1nanBvaFJGLWd5T0hYRmZhdTBBVlRVRHhyX2plaFV5OXk1WC1Sb1A3RUtrRHhQR2pMMElTemxaRTVnZG9FamhB?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.7,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Nepal Oil Corporation keeps petroleum prices unchanged",
+      "source": "OnlineKhabar English News",
+      "published_utc": "2026-09-30T15:36:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yNmRiUkJuNjFNNmJreWk1WU04UGxLNThSa21MbWs4VER5NE5yd1JObVpYUk95OEVmdm1pd1NkWWdMTmdZNTdDQlhGMTBiMWZudm92ZnJ0NnJKNTVna0R5R215eXZpenBUSzVPaU92S0YzT21YUVU0?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "PSU employee pays \u20b910,000 rent for 2BHK in Assam, \u20b920,000 on protein-rich food, internet goes crazy: \u2018Aao Mumbai\u2019",
+      "source": "Livemint",
+      "published_utc": "2026-09-30T14:42:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOXI2Mi1fSXNob01HR0JBZFdNdTRXZk9DSXZUS2JGc1kxeUpWSnA3eU5nWXNYM2ltTGtwN0JMa2VMR3RiMzNHSjRwcUhYNDU1eEhJV0ZHa2ZNWFA4SkhFcXpxN2FWZnlnZGhwQmtoZ3JFNGViV3B6aEc3WElTVW1xdE10enRNM2VXbW9wQ1dHbXpGdXNoclR3ZlBvT1YtODhZMkFrTUpYS3ZlbXNxb05ScXZBRW9QU3BOREduT3AxLWkwQWppczBMMWFnX3hiODQxQXBqbnFiRmVYVzNaQ1I5U0lwcTRhQlJlbnNtdUNuLVpQY3VidmY5YVQxWHF1QdIBgwJBVV95cUxOTC1BOEZWS1A0VEN5OGV6ZjVjR0R5dlFoTHFRSTlKSllfQVVjaFM0SXhqanpjV3d6OW5Zbk1zdWJOOGlyYjFmbXRWVU4tNDQ4bkJiODgzV0hER3VtUEtGdHJFWXdyZDN1TGtOcmtIcmVTaC03bXdfOHZQNmdxdi1aY0FkcW9NenRPYUlTWEtrQVFQVk9QR3E2dE02Wm8yMXZLeDd1TG1aVF9QcUlqeWlpUTZzTGpPSDU5U0dKWndxdkVBREFtYW41N0FfQUlFZm5jVXg1SnBKTG84a0Z0QUExZXJGOVFNTlNONnhKcnFLMlJCZ3YzamlYOFloaHdHSUZpdkVN?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian Oil to launch its own packaged drinking water brand across 43,000 fuel stations nationwide",
+      "source": "Startup Pedia",
+      "published_utc": "2026-09-30T13:09:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzNEWHBXcFFkaS1oS0VyS0VkZzQ3SUxtNjRSYVhibnN0Tm84eHZVWG5IQVJMTkZHS0F0TjlQeDVhOHJJSG1IZEtnc2Nub1JsYjVBajVPNlR0QXZjWDZZakJpSTYwcms3X0szVjNEWHlHOFg1ZmxnVWhMc3NjZlRjckQ5b3dUS0pHSEZocmtTeGJ1TzRyeE1KekZMZDFTWWpyS213eUpBdXNLUVBvTDdZa3cxSXhVd214dlhB?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Beyond Fuel, IndianOil To Sell Packaged Drinking Water At 43,000+ Fuel Stations",
+      "source": "curlytales.com",
+      "published_utc": "2026-09-30T12:55:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3YxeTc1dkVuTDNyWnVkbFo2QXZWTzdZOXNIUHpnV1lDUzhpZ1NMQWdRVWk5eEhESEg2RHRBS2tHRkVCQ2dndFh3VjBCZjJxdC0xWHgwUXg0RzM2dG1tZEhWSXhwRDZQVWFJa3NUT01Rd3p4UHAzLWl2N1lGVzNKaHN1UXMtYjdlcVgxOVNFLXFvaHBaZ2dlWTl2U1BJQ2RnR0RIZnU4SmxVSEl2YTNvS2laZ9IBswFBVV95cUxQd3YxeTc1dkVuTDNyWnVkbFo2QXZWTzdZOXNIUHpnV1lDUzhpZ1NMQWdRVWk5eEhESEg2RHRBS2tHRkVCQ2dndFh3VjBCZjJxdC0xWHgwUXg0RzM2dG1tZEhWSXhwRDZQVWFJa3NUT01Rd3p4UHAzLWl2N1lGVzNKaHN1UXMtYjdlcVgxOVNFLXFvaHBaZ2dlWTl2U1BJQ2RnR0RIZnU4SmxVSEl2YTNvS2laZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Gas Cylinder Booking: After 45-Day & 25-Day Rules, New LPG Formula Out; How To Buy LPG 19 Kg, 425Kg Indane Gas",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-30T12:33:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbDBpaUpqUW9tZGQ0TGZqUThON3RoMmxLRHBibVU2SEN6LXFHRFA4YlFiR3R2VFF0d3VyUUpfaDlzeHpKaG4xN1lLS2hBNjU4SVVrMEpFY2otLVVLSHZZV21BVV9jQjNPSktBaUl2YVZrVFFleEM3ZHF5Y1dKbFlwUmxyOGUzRU90VFdLNFUzeE1hQ1JhZG5sbXJQTkJ5TkwwV2g2ZDRJS3VPOFZhcnAxbzlxU2ZaNUZjYXlxV3FpaWFZVW56YVFqRmZOODkyUUxNSWZ5YkpBSUc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian Oil\u2019s Gujarat refinery to start polypropylene production by FY-end",
+      "source": "financialexpress.com",
+      "published_utc": "2026-09-30T12:25:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmUyNFk2SFZXbTV4TUVvMVFRNTRsOGU0d3BiRVQ1LXEtbnNSODlabUZJTGFLbVhObWl3d3hkSEFLV3J2RVgzdEZBTUhWTkx6M1cyZzdYMndZbXdFWWhDUnpzV2VIYVl1eEU1bVROVmprSkg2dTd3TEMwT3dWRWs1STdBQVRrZ0ZTc3B5ckNIWmJQMC1mM0NpVHZOeTNMMHlsd1ZPbUNtMzFEdFVic1hDMUJmbFBhZzRHZXYyZW1IQi1oX3FTQkdV0gHOAUFVX3lxTE9KNVlPWkVrOHlqMElqYm5fNVoyXzMyR1lJZXdRYzBuMHBkNlJCV0d2R0FpZ3hnVjhPTHM5c3U4SHkxQTM1cUxzNkwycXNlVGQxb1pvM2thY2ROWUFiWXdiRXlIMWlkd0l6dGtPMHozdXFublNDeEZTdVVmWjM5bWsyMmxURnBxakhoYm9pY241anhpV3laWkZkZVk5RWp0Y1ZFSmlSbDBvOHZtVGgwVGFzajNiWDFaWFdVSHcwbWVyOTNwZjI3ODFfVUVJNlJR?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.7,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Rs 9000 for a New LPG Connection? Here\u2019s Why Two Small Cylinders Can Cost This Much",
+      "source": "Asianet Newsable",
+      "published_utc": "2026-09-30T12:03:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeWpDTWU5UDYxU1hjREFHNFF2c2dmNWZPZ210Sl9ISGdLdjZyY2JxNG1CX01jN29JNEtMUFl5dWthS25EU2h5WkNSY2FGdGdsTjRPM1RIOEVmZXJ1Z0Q5U0xHRzNpaVd4SzVUUHdkTHpSVmFHMmNydXFmMkUwbW5mWHlSLXZJT1ByS3FKak9HZHFLanptM25QWUpsYk9hRkcxUkFqSkdHYUZwTTN6NzhkSW9FaEZ4MGc1YVhKYkxaWVVsN3AtOTVMQjFFdWxUSUt4dTh3Vm5weUNaRTZfZGFF0gHfAUFVX3lxTE15akNNZTlQNjFTWGNEQUc0UXZzZ2Y1Zk9nbXRKX0hIZ0t2NnJjYnE0bUJfTWM3b0k0S0xQWXl1a2FLbkRTaHlaQ1JjYUZ0Z2xONE8zVEg4RWZlcnVnRDlTTEdHM2lpV3hLNVRQd2RMelJWYUcyY3J1cWYyRTBtbmZYeVItdklPUHJLcUpqT0dkcUtqem0zblBZSmxiT2FGRzFSQWpKR0dhRnBNM3o3OGRJb0VoRngwZzVhWEpiTFpZVWw3cC05NUxCMUV1bFRJS3h1OHdWbnB5Q1pFNl9kYUU?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian Oil to sell its own packaged drinking water at 43,000+ petrol pumps",
+      "source": "CNBC TV18",
+      "published_utc": "2026-09-30T11:56:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS2lwSEIxZjZLWDR2bE45NnV1Y2hkWkRZSnY2aGtWZTBXekpLdGg3QVh5cERNRkoxUFV5cVVKVENWYzh2RFBYeHA1NjhmcE5GY0pGcnVZRDctY0YyQlVIWmV4T0dhTno0YTBSOFFfZVRiRmdMVWx0dDJscWt5VUl0OWNKWWpTSlAteFFuTWFod0UyNnlhLXBmcHBMMnhNR0R4SnBNakV6Q24za01wbWRtWUwyMzcxTmxwWDJjUENLZ1ozNzEtZ0V3Q09RdFQ3QdIBzgFBVV95cUxOS2lwSEIxZjZLWDR2bE45NnV1Y2hkWkRZSnY2aGtWZTBXekpLdGg3QVh5cERNRkoxUFV5cVVKVENWYzh2RFBYeHA1NjhmcE5GY0pGcnVZRDctY0YyQlVIWmV4T0dhTno0YTBSOFFfZVRiRmdMVWx0dDJscWt5VUl0OWNKWWpTSlAteFFuTWFod0UyNnlhLXBmcHBMMnhNR0R4SnBNakV6Q24za01wbWRtWUwyMzcxTmxwWDJjUENLZ1ozNzEtZ0V3Q09RdFQ3QQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Aramco Trading sells 10 million bbls Khafji crude to Asian refiners, sources say",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-30T11:05:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNXUzamtyVVFVVDREeUZGblJMeHpOUjRNeUN6OUp2V3FsbUtTR1FhRlZSZDZIRW1aS2k5cWc0ZldYMlM4cW5oRTdrNTdzSFVnelh4ZHo5VHFoNVpNSDc0MFlaZ2FFYlJHY3NOQnZ4UzBLRTZDd3dURDMxNHpGeVkwS2lKWnFoZkdzYmR6NWIzUm1Hal9KY09vOGJqMXVVZW9UWlV1RGhjWlhOMFpCWmhEUW1IRnJueVg5QUhtX1loY3hIaWV1eVVjd2l2aTdtenVTS1FxWUtCdExRVlFUREk1R3RoTzlVWEV4NzRsRWpuRjZCRm_SAfMBQVVfeXFMTTV1M2prclVRVVQ0RHlGRm5STHh6TlI0TXlDejlKdldxbG1LU0dRYUZWUmQ2SEVtWktpOXFnNGZXWDJTOHFuaEU3azU3c0hVZ3pYeGR6OVRxaDVaTUg3NDBZWmdhRWJSR2NzTkJ2eFMwS0U2Q3d3VEQzMTR6RnlZMEtpSlpxaGZHc2JkejViM1JtR2pfSmNPbzhiajF1VWVvVFpVdURoY1pYTjBaQlpoRFFtSEZybnlYOUFIbV9ZaGN4SGlldXlVY3dpdmk3bXp1U0tRcVlLQnRMUVZRVERJNUd0aE85VVhFeDc0bEVqbkY2QkZv?oc=5",
+      "relevant": false,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "IOC Gujarat refinery to start operating at expanded capacity by end of FY2027, executive says",
+      "source": "ET EnergyWorld",
+      "published_utc": "2026-09-30T10:48:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMlBMM2VwNEdYenIwdWtfaGJod3pnaGVpNXhlYnh2MjhIeFNBU3RITDlBYld3LTI2QkdLT2xOejl1QXJmNGJuOGF3RWs0TzZ5SVkxcHpRM280dkpXV2pubThER0ZNV0hvd2c3Qk9Bc1JjNi1xaHFNalV6WFNYRHhGaGxhLUdxb2p4YWtOWVJVdVNlSjVaSFhsZmpGVUJDdnkxeVdtQnd6TmtHcmZENnRuSGtjcmMzZHY5d2h1OEg5dFppTFFKc0tVWnpCVl9KMzRwbkNWc0pFTzF0YjdBcmh1V3J1blpZLWZwUWNUQmNfWXVJTnplaVBHbDVtc9IB-wFBVV95cUxPMlBMM2VwNEdYenIwdWtfaGJod3pnaGVpNXhlYnh2MjhIeFNBU3RITDlBYld3LTI2QkdLT2xOejl1QXJmNGJuOGF3RWs0TzZ5SVkxcHpRM280dkpXV2pubThER0ZNV0hvd2c3Qk9Bc1JjNi1xaHFNalV6WFNYRHhGaGxhLUdxb2p4YWtOWVJVdVNlSjVaSFhsZmpGVUJDdnkxeVdtQnd6TmtHcmZENnRuSGtjcmMzZHY5d2h1OEg5dFppTFFKc0tVWnpCVl9KMzRwbkNWc0pFTzF0YjdBcmh1V3J1blpZLWZwUWNUQmNfWXVJTnplaVBHbDVtcw?oc=5",
+      "relevant": false,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian refiners may trim Russian oil imports, assess US tariff risks",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-09-30T10:42:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbUc1VHlySFR0NmFpNmJYcnpPRzRqS1Z5TnNLc1NfRFBHZHdOMVFHUldtdnZETlN6ZElZbEo0RTN4ZHV5NlF1N0ZJY0NrOXVqVDRaSHhic18zOUxmUXR1VW5iem4zSmpwMVRPbVM5UFRpVzBEaFUySEMyZHMwV1Bmb2I0dGE5Y0dqUlFXaDUxSG9HX0xtd3JwS0taOVJ3Vkh2X3dGNmVpcUxGRlE0azV0YjBOZ3RZdGhuUW9wTUs0OXgtS0ZhYldBRXlvR0PSAdIBQVVfeXFMTXRxSjJQUGYzNHNLTERHRXZVQ3NSX1VxR0RZVFdsNUZtV21rVUtMNVExd0N6TklkZl9TeGRhVTNzWEVsU3BVMm01MFZibnNqWEd4TjEwRUlzVHd4SkJ0UmlxdDFrenc2WGlLNGNjc3JVNzR5UmJ2OVlzNzQyYVB2YURqbFVzQmJwZDVrSF9aOVRQbG14bkNsM0E0ZThId3BJNkprRHdPTXFuXzhNN09KQkRPRDJ1UUstVEFBd1lfNXFQSjM5czB2eTZFNGxSLTgtbUVR?oc=5",
+      "relevant": false,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian Oil Gujarat refinery to start operating at expanded capacity by end of FY27, executive says",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-30T09:29:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbVFPZDlKM3dYbkVkeFQzeTU4OTNtT2dRTTVVcE9qQkR5cFREcFVwd1BlcS1zMjRRLWdweEh2ODBuWkF0Y1Bab2F3S29CdWxDaU5YUUVPVmtZclRKWDh2NTFQQy1yTEdtSHNJcGtvVjhCLUNaaTY0a1B0NHdPVm9KZk9rTlI5eVNFcDdraW8wN0YwcjFNUXZIZzIyY3c4TWtYcUV4ZFd0eUJnbzNDblRwN3c0M3Jhcnp1Tlh5RHhMNUYyUlBBbDBhMnhHWE9ETUI3OTcwWElwclc5aWcyVHJpbmNFT2I1eEVNR0FMMUF6VHo0djRuRzJ4QXZlR01GeFVMX1k1MURB0gGLAkFVX3lxTE1NdG0xLUM2U0thRGJxcTRYeGhaQjhLQlhFN2pHRFRrSmtXNDFTUmFDb05lZWJSWUlrSjl5MW83OF9QQUZ6V1VLZEhnTUtFQTlIYnFLZkNGZVh5ZmxyYUZNaVpJdTlOMVNGZDREWHlGZk50dDR4QTN3Zk8yQXJydjkyd2tqMVJWNzRVSDZIWTBBNFlILVpaNElCeXFNMGZSd0RpRHlIOE9JSVJmRzZjZ0ZvdF9WekRfU085Y2F6YzRCWlZIMWlINEhsdTExWmhKM0syeW11Tk10cDBBenpkd0NSN3dhUzRlVWowQUhpNDJmS20xckljVjJQTE5NaFF3UEp3LVBOOENLOWlpdw?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.7,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Hindustan Petroleum Corp Share Price - Live NSE: HINDPETRO Stock Price & Chart",
+      "source": "Upstox",
+      "published_utc": "2026-09-30T08:57:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBycFVJWlFyNk9sdVl0eENRNmg3aE5KRG9fMW0xWnp1YUplc3hScndnSC0zWUJXdjR5SUlqbkdnOFRmU1RkbE1UYnhLNnFrWnpwX2FUUWtyV3Q2Qk0zcDZ0VnhWVmNoYmhJbHBxZGU2X3U?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian Oil seeks up to 2 million barrels of Iraqi oil via tender, sources say",
+      "source": "TradingView",
+      "published_utc": "2026-09-30T07:30:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLVV1ZkQySktnTFVQTjFCbDlqWVNHYVd6MVNSdC1EODc5Z2N5bGdleEZZbkkweHJNNjhpLXFGLUg5R0RaY2JBd1VWRkpkcnFfUEs4RGMxeU5haUlxV2J2dFYxem1pM1FIaUgxaDlRNnowRExGRkxYWWJqSHd6QVFfSk5HZmpkeERUY2VyNlQ0SnNoWDh6SldVTXVfTm80YlpidklVQWoyZGhzNTBMdzFVeEF3WlJ1OFI1YTJyRGo1VnlCVDFWQUpDV2JMQVlnVkRJWVBTbFF5R2c4WENOWkpN?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Gas Cylinder E-KYC Deadline August 15 or 16? Are Indane, HP, Bharat Gas Refills & New LPG Connections Stopped?",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-29T16:28:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdWlyNTlmRUhYaFY4eHEwQ1A2cnp4eGNfM2JRYlladjRuQjNGR0t4dXRBS3R6LUg3c1NZZ0pHemE1WXktNjZFcnptdzZXTmJ1aG9tZGlCekoxY0tTX2pyWWQyTWpiaVVrX1BnQ3I0ZXVqNjc2bC14Y2RwQ3JwVkpHM2QtU2RFYWN6MGN2QkJLSG9Yb1FxalFPcEZQeEpNMVQtMjRpMm1HZjZxbHp2eTBVUHU5Y1B4RzB4QTZ6RW9wdnRma3JVczEtREktNENxTGlLcXloYmlLT0lFTUI4RzZxVVNzRnFZUmlfLUE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Russian oil flows to India may ease",
+      "source": "financialexpress.com",
+      "published_utc": "2026-09-29T15:20:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFU1ckkxRS1ITVU4MTNUVDFmSDJKTXBuTzRVMXlNdEE3QnprSW9DczF0ZUhNRUNzVGpJcVd4VktYajlFLTFBVEZoX1h4MDhVM0tfSEF0SzNxQk5BbGJXY3VyQXl6X2VpR2ZEMHpsODd4UUhZTFZKMFByQ3p1SVFDeWtVdm96LVVxbDJYMzBnLU1wU1pFTXNn0gGeAUFVX3lxTE1tQzBZbTJUUm9scmdIY192eEN0STJ3ZVo4UzFsbzhqcjVIVGt0bFNtMVplUEFRZVpWdHlKVTJHejVpa20weGpFREJvZzY4Y01XOF9pY1JQUVN6ZUNnM3dvbGlEdEJ4cWl5cU1jbmNsNUhoSnpCaXVQRWU0TW5MY2E1ME81c21zcDAtek5mMWVUWTRVeVNqRWwtR1dkMjl3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Gas Cylinder Booking Rules Of 45 Days & 25 Days; How To Book Indane, Bharat Gas, HP Gas Via WhatsApp, SMS?",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-29T14:39:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdE5IWHpNRlZxYkUxMmpVcW9XR3oyLUF1ekdCSkZXOHhEcm1MQjIwNFNaR1VkZ0duZVJ2UlRXcFRaWDRtMllsU0ZYZjllV29zc0hyZ19XLWdGUUVaaXcwSEpzNU10dWJ5Z0k1TnA0YWlPbHBTNjBVQkFVRDRqYjFZRy0zQ2xjd0xBYWd5VXNDV3FTVVlvT3lBeXFGMFltTnVtQjFMLTdqelp4QVJ5bk5BWkRoQ29Uazl5Q2hQUEtIbXdOU1l5YW52R2x6SFNuU3JNMXhDeC1BR1M5RXkyTHc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian Oil Employee Shares Rs 45,000 Monthly Expenses In Dibrugarh, Says Got 'Reality Check'",
+      "source": "NDTV",
+      "published_utc": "2026-09-29T13:58:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNXQ0bjM3cjFmZGNYZHdtS1lhbkdGNWpsZ1NNbWlUclVEVk9PREhNbk1lNzBZSEVqaTYxbTNob2g3V1QyeGtKRFc4NTRVVmREdElfWVMwTHYxc2R2cGR1TGFKeS1mY3lkQlM3TGh0QXBSa3VJUmVLSkVmU2dGRnJRWWdMRnduM1A4WXpRczRtamJ1Wi02TjkyTFFGOGg5emxwclYwY1FFS3c4Z2JNbl9Ra00ycW1yZ2REd0pkRWItTDI0VmR1cmfSAc4BQVVfeXFMTXlFeG5vX1Fia2Q4NTlfbExGMk9Lak9NQV9vZEJnUU5GN0NPQmpTSnFhcHpZMDBPZGo1SVFyR055TXhpWXNuTU9UNFlCRzN6MmVrWTNTbWMzSkJVdWJlZHI1czR3bjc1NDZKWEZ0TTUtbTU1SnlGU2t2NjJTbWF2aVdadWJQSWxreXdDSFdlWmduWU5kckE3b0FlVkJWSWpadGp0Wlh0Wm81aWw3clNYckZoQ3VUVUxnbW8xYXhzRVE1Wk9GcUN5U1pVTXpKUGc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian Oil Share Price - Live NSE: IOC Stock Price & Chart",
+      "source": "Upstox",
+      "published_utc": "2026-09-29T13:21:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGZVNnY0dLam9NNTc3Y2MwNzgwVEV4Mmo0V3lpcHp6MXFqT1l6UGlLNWR3dFZCeVRIVjI2bm5lMmdWQ3pfbkcyckx0Tkh5elZhd2dkQVN5NEhTRWswVmliengyU1hYRjZudUE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Bengal CM assures Indian Oil of facilitating land for its expansion plan in Haldia",
+      "source": "ET Manufacturing",
+      "published_utc": "2026-09-29T13:05:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY0dTVEFzVjRyb3dYc0FTVmJDNy0zOHBxbXgtRWR1LUhSRWR1YmpGRnUxc2trZFQ4cXcwal9DMFdmUGttd1RvY2JtbkptMkF3MnNUQVRjRzRvOUxwZU42bW5RZndsVTRua0NlcHRVakIwMzM4bmxQd2dXbi1SbGt6MHFSMlN2WFBEVW1XRmc5N19KbXAyS2ZtLXE0X2czYWRtR3hvNHlBUXFCMlBHUXc3STFrcjYyd0tTYWZULW1hZ2FoOVVrcWRJMzB5U2JnU0ZKY0NIMmJpZEwxT19PcVNLNnhneUFiR0FqTThyQ1dXVEIzWkVf0gH0AUFVX3lxTE1jR1NUQXNWNHJvd1hzQVNWYkM3LTM4cHFteC1FZHUtSFJFZHViakZGdTFza2tkVDhxdzBqX0MwV2ZQa213VG9jYm1uSm0yQXcyc1RBVGNHNG85THBlTjZtblFmd2xVNG5rQ2VwdFVqQjAzMzhubFB3Z1duLVJsa3owcVIyU3ZYUERVbVdGZzk3X0ptcDJLZm0tcTRfZzNhZG1HeG80eUFRcUIyUEdRdzdJMWtyNjJ3S1NhZlQtbWFnYWg5VWtxZEkzMHlTYmdTRkpjQ0gyYmlkTDFPX09xU0s2eGd5QWJHQWpNOHJDV1dUQjNaRV8?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.7,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Trade irony amid Trump threat: Why Russia is buying its own oil as fuel from India",
+      "source": "The Times of India",
+      "published_utc": "2026-09-29T12:12:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM0dtZlNMNXl6OFdFMkZ5WlRQNDl4anJCMm1PcVJPbFRtdWpfMUZITUw3cGI4bm9TZkMwQjNLY2hQZGRBaE9ldnE5c1FHa2FuMEdZeXhON19zVjdEZVBDb05XUWNiTFZYQ2NUREw1ZzRmREhzc1JHdDBZRjVqLXdtalp0NUtrUGhQX1NNU2Rta0Q4U2ZoSFJ6SHJsY3EtTDcyUFkwWl9ybnVXMkJyWWd5TTk2bDRXcXVuWm96ZkI4dGJkUnVLSXVQeXIzQzdGOVRRRGNueURjSkNiWXZUYUNFXzZDMkJpNzhzcXdYOFRMOHhoajVuVjBDZ25Daw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian Oil employee living in Assam spends Rs 45,000 a month, shares expense breakdown",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-09-29T11:35:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc2tXOFBaQ1pXb0tPZTRYc21rdllBU19lSHN6ZHFNZG0wa3AtelJYN0R1NWdyUDlidW4xOWxzMHlmTXNOYUMyVmt3aUphN0Rnd0lvMzVoa3h2amtZenBnLVZDVVZVdEtzOVFPX3JYUkhLMFpHakR5bWVmaEJ3NlZ5V0QtYXk2aU1EZDRqMEtIQkpMbm5lUWRZVjFEVXBuQVd2c2tieEhzOW55bF9HeTZpSThBZjIxYllya3lBVy1sWUNmeGlTM2daUm10UzhHdDhROXZPNUFVY9IB3AFBVV95cUxNbE5KVTZEQ0JGSThDLWJrYWtDWFlZQXdiSGIxdnhrb3JiSElFREd4OHQ1MEpxQ1NSSENHT2Z0UVE5alVBWWZoakxLOTVicVg2eVlBZWZCVy1OVUlqekhiOXVvbGFDM1dmdVZuajFOSUUzcGxHUGdnY1lQUk9UYWo3Tm85YjAwejE3blRrUEJXY1NiLU5RVEJ5YTZKeENiNE9wS1lnaUVXcXhFaWR1ZXdGemZxR3dOdl9sRjN2VEtPYlVBZ09maWh6Q1FXOW0zRUhaOWUzZ2kySUFidkc1?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian Oil plans to launch packaged drinking water under own brand across 43,000 fuel outlets",
+      "source": "thehindu.com",
+      "published_utc": "2026-09-29T11:10:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeEtnQUJjY1pRN2t5cUNERzY3aVN0Uk1xT0tuSFdzenZiN1NWc09PMG8wTml2SlpkMVc4cjVKbnF6Z09qdlMyR192SklxaDV4X3VBM3ZTUE9EQW9sZy1aV2lxZElXSHVDakk4cEVnYzFPb3RpVHd4b01Ya2w4LVpOTVBaMG1MdEZ2SGhaSk5VN3hHb0QzUjdrazI0aE5jMTdZcW9FZVVMNDc2TEFwV3ZCTHNtdjdkNGFxUVZoZ3hwZTJfMHdUWTFvanlocUdxdnJGOTl2a3VYbVBWcWxQVzhYUWNfdGQ1RWpUakZJN3UyTUzSAfcBQVVfeXFMT3A0NEstaGY4b3pGd0dFdEhCVUtBelFGdlF4aXRYcUh2cUdNeW9JTUJwWnR0NXNDY2JUWEF5Rms0QzNTeTA4OFdQYXlSUGxSSGloeWxnMG1hWjVDWkd1U3cxU1NRem4xZ21PTjh2dFFJdTkxZnVBU1pNV0RzdFZueHNoMmppS1dUUVJGRGE0c1dpRkRlWFJYQnpnSEFJbEI2S1RqUkVOX1k5M1RMdTVuX19yZ3pVOHliRGpabWxtR1c5Y0owaW9SaHpvd0h1SnhrLXNwSDJKWkJ2VWNVa2FNSWFWSWR3UC1TZXVzam4xQmN5Um9zbjNvZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian Oil employee reveals \u20b945,000 monthly expenses despite living in Tier-2 city: \u2018Got reality check\u2019 | Trending",
+      "source": "Hindustan Times",
+      "published_utc": "2026-09-29T08:06:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFYyeW9BVFpjLUpIamFjeGgtM3VXYXFOY18yYVoxWmk2MXBnX21BelpmZmFVdldNQWw5RXBjVFhZZ09rbE9vRzlfQW5OcEhiY3BWTkV2T0FpNE9QcTlmaFo2Q2xPMnVzaE96OGpWdTdSLXZ1LWxZWjlsbG9TTzA4NkFPY3RDS28zWXJDZXhlU01oRmNReFdvN0VwZS1NQVV5bzVTcUtrdllrTHRnLS1aUzFnN3VKRTNNeGY5YkJmWGU4eWtaN0k0WFRycVNXZEE5MVZ4bUlHbnQ5UdIB3wFBVV95cUxQdEJIWW9nRThlU1pFV0t1Z0p0OG9yYk5ldm15WVg2Z0p3dlNoc0cyVFZzaW5HSkFVZ0lMd3JzNkpzdUoyZzVYM0djdXMzVjVORkE5WXpqbzhMSjRBNXBEbnB0bjF0SEFsRW5YMDFneXVTdWxvR0JHZS1UdXdtN3dJNVo2b2gtYmdlTzl2RUZnUTlEN3lJcWpnSWpKelFVNVFTSGNtZ2xDcllrQ1dWYVh1bXVfUE9icFQ3ZndvQkt5WkdQWks2ZF9zUHZOTU5XOFl5VU1CUnJzZXh0eGVuekdB?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Grounds",
+      "source": "Cricinfo",
+      "published_utc": "2026-09-29T07:10:41+00:00",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5taUxfdTZrZ2tlb2F3eE1MT3Fhd0ZWNk9UWTlLNUlBcjU1bVJPblBhZlBLNThwZl82a3ZlVXU4X041eDhQNlYyWWlQR0EwYU1UcmxIdlRUMjFFVGEzV1dTeFhOaFpyVnBDNDFpYW84d2RhdFdmM0J5SzRYbw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Govt working on offering land to Indian Oil for expanding operations in Bengal's Haldia: CM",
+      "source": "ET EnergyWorld",
+      "published_utc": "2026-09-29T06:58:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcnAtMDhDZXZYU09pMUpNUEtqOVNjWkdWTlppSDBMSExocWgwV19NQThCdjFvYlBTemJkQW5oX0lXOUpZWVFPXzI1aWJQRFJBckdqV0dnNWdSeThVbURSS1NUZm9XQUVETGUwNVA2TlloYlFFbXFtSkxvX1NmYVVoODl2eFhITXBGSmh5QjJKRF9mVXdlZ1phVU9pQmJIU0FEcEtWYlVJVHBoQzZKa3pscG1MbV91cWczSFFiVHN5Y0JwQU9JdjBHcnVObU5MdlZlbk9GSzZzNUVfMGpldDRoM1UzNHRzb1J6OFFwZlV5cVl0UdIB9wFBVV95cUxQQ3UteFVfSkstM0otRkxFNWVfZGQteDFvdW9sNmxfTk1wNHBhZ2lWTmhrNmIxVVV6R3VKWEVaTEtvdWdHbk4yeEdUaVQ4U0tuTkVyMWxNdHhrY085M3VGYlJjanczc2RjT3BTbTFfZHh3aEFJOWk5ck1VT0thRVI5S3JHMGxXOXlBb1hsdEtMWEppSmEwaDFsbVh1dHJoWGJmbktMVkRMWFhMSHJxUVROdEoyNG5TcTExVWZQR2ZSZzZDd0JPSmJfNktiTDE4SG8xVjlRSWxKTEl3RW52YW1aTUE1bFk5czlQNlVXV3NuRjFWTE5rbEpF?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Bengal CM assures land for Indian Oil expansion in Haldia",
+      "source": "Awaz The Voice",
+      "published_utc": "2026-09-29T05:40:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEhCcW8zeEM3QW9pT3ZKb05yVmFYaWVHTHZFd2JZajh1WjZzNlJFNjNKVXhwRk82RlJqZFV4QkNXYnRWdHpqSk9zaTdfOS1tZlNiQlZMUk9PanZzUEZMNTNCSU5RU2h3bDJZaFlZVWdWNFZvOEtTeGctVllEQml2V2FmQXhvZlFlcW5WRHRLT29TaGpDX0ZTSUg5RFA0dTFNb2NISWRyb2N3UWc?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.7,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian State Oil Firms Look To US For 2027 LPG Supplies",
+      "source": "BW Businessworld",
+      "published_utc": "2026-09-29T05:33:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWVYOGJBakxKeHViaGxvbWVnRXlTSnFWeV9nY3V1QkNtaWtJNUZJWG50U3N3VnJyakNmdlVSZlNTMmcycWxNQmY1RF9YN19DSWNrTEZYV0ZBYS1zR0kxby03dDkxS0VEZG1ULWN3X1VOblJ6aHZtS0pTaUE1ck0wQXBiV2QwSDZUUUoyMjB2TGtXSjF1cXZhZXhXM3FmT3ZH?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Fixtures",
+      "source": "Cricinfo",
+      "published_utc": "2026-09-29T05:20:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzNWtGWGZEWkI2YjF0Z05PSC1tOGlqcnhoZ3ExalZJejJLY1Zqd3M3OVA2ZjVxMTNhNFR0RUwta2d1TGV0aVRDZTNVUDZrZzdsd2RaaUVsWS16MEI0RWN2TTRMNUNlNUdIX1JsSW9jMkdYNUFpUElueFREODE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian Oil to expand operations in West Bengal",
+      "source": "theweek.in",
+      "published_utc": "2026-09-29T05:13:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnFrOUpwMVk1cUI5M0RXOHMyRWpkYkJQSVdmbnlMbXZwN1JDSS13Z0Nra01rOFYxTWh5MWdvMGxVQ2FzUGV2WEJRN2twb29DSU1HT3RLZHlheEdHN0tqTUNwQUdrLVZtNXNVN1NLRnVNVUhoZkZ3cVI4ek1TcW1qcGNRWXc4LW9EY3RpdWpvM2lsUdIBlwFBVV95cUxOdmRfbG4wcDNVdlRWNGlkclZSTDVIZ1hvanFpN0ctYXRJeGdZbUNmYVdhbVhCRjBDMmtqb2RxSFFHQ1lVSENyYnpjQnNvMmFnOG04a2NvbmhXblVLaUVNcjJSRF83Wi1CM0xmTmNLN0pYVEVHWV9TMlpwOGJzMTJHdi1NbkZyOTdrajhqd2hpOEtFZmFyNVp3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Top stocks to sell today: Stock market recommendations for September 29, 2026 - check list",
+      "source": "The Times of India",
+      "published_utc": "2026-09-29T03:12:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOellxOW05S3ZsX0U1QjB5VWxoRUhqbXU3MFRlR2VBc2p6WVV5akVncnBnUUhPZ25ZZGtaTDMxdUxLZklOOWlpci1PRm9VNFZlTGcyMkhCOGJNZFJiYzVMbndSMDFpenMyMXVBd205YldMMTdDNzhHVzJOdDJLLVZtTHlEZmlSakc4OUkzemh0a3hiSkdzZTdVZDFEdGIwaXBxNVV6bGl0QTdMZS1tWUZkQWVacTduVEFLcmdMcUpaUDM0RXpMNWZPS3ZmTExpdVFYYVJ6MzkzZk1pSGgza0RwV2I0dUFzOXBtbzItZ01lcVVUeTdrN2RLVWVrckVBTEtOcmdHSWxjUC1nMjl5ZTVqbnJpcTdELTlFbXRTTjRUdFpGVXBfVEw5azVJMFlDZnp6MUx6Tk0tdU9rcm5VS1RxdXFDVWdwVFNDTnFWOXhwdXpZWlXSAdgCQVVfeXFMUFMtQ2NrTVVOMU5FNG9oc3pJc1l3NWlLQkNJQl9hTWhDRm1reXdmZmJVdS1XTkhFRjZxbU0xbWRaWmJ3WndQWC11eXp4T3FjR3cwS3NhN1hPNGN5LW9vVDVPMUttYnZSbFo5UExFdjQ1TEJkbVBXVmhJcVh5eklLWHBZdFoyLVFvNmtrMHdsVjFoaUZZUG9xcmdiNW9SUDZEUUlVdHNhdG9MNWU2QjVuZkxjTnBPWk8tcGxvRkJHTk1rbnZwVXpKTm9Rb1JBdkdHcU43US1LeDlEVWFTU0pZcmg0U3pNVklNNDdIV3BwLV9zTGpmeldFOWg3b3dad2ZSaWJrQTgxbmU0Y0ZUNlNkUmdkVGpFTGtBY3h0S0xKaDA4YUQ1a0JtdldYekpqNklwS1pydnNEX1lJWEhZRUkxQThZaHEtcHJvRFpEU1dNb3dreGZDRmsyaUI?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Will India's 49.9% stake in Russian oil giant shield it from US sanctions over crude?",
+      "source": "India Today",
+      "published_utc": "2026-09-29T02:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOd2Q4ZjBGbkNWYmZIM2VaZnljU0V2dEVBWmVrTzRIZ3VZVmRSemt2Rk9LN0g0WUs4NW1hd1QwcTBjNG00SmdIM29MemZuOEpCZDdWcFF0V3ZqdUtHZjRpQUNLVGZpb1JENjRSMEFsZ1BqZlBsMk9wTjBYVFhiUEIyOUpRVUNxRnZ1SGlfaWRMX0dXd3FldnhzdEgyRWpFbjZOVExnN0NhLTc0MVBZVXY3Q1hMMUxxS3ZJLWUwdlJraFAwTFZiYjl0bEM3dThqaDFhU3JwR3Nib1NUY1dDa3ZDNXV6clBvbGoweUxDbS0xam1kbDhqNHhaWlp3R3NaMFhZUmZJMVZB0gGGAkFVX3lxTE53ZDhmMEZuQ1ZiZkgzZVpmeWNTRXZ0RUFaZWtPNEhndVlWZFJ6a3ZGT0s3SDRZSzg1bWF3VDBxMGM0bTRKZ0gzb0x6Zm44SkJkN1ZwUXRXdmp1S0dmNGlBQ0tUZmlvUkQ2NFIwQWxnUGpmUGwyT3BOMFhUWGJQQjI5SlFVQ3FGdnVIaV9pZExfR1d3cWV2eHN0SDJFakVuNk5UTGc3Q2EtNzQxUFlVdjdDWEwxTHFLdkktZTB2UmtoUDBMVmJiOXRsQzd1OGpoMWFTcnBHc2JvU1RjV0NrdkM1dXpyUG9sajB5TENtLTFqbWRsOGo0eFpaWndHc1owWFlSZkkxVkE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "West Bengal CM assures land for IOC's proposed expansion project in Haldia",
+      "source": "business-standard.com",
+      "published_utc": "2026-09-28T16:37:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY28zYVpVYXI2aThvazVjSGYtb2ZSN0ZIQlBubUwzSlA4Qnl1TS03cWNJa3dwMzgzRHZIbXMzcW1oLVllNmVGWUhPdGJDVnpGZVNtTHRGVkx4TTdCVjlCX1RTXzFiZVJiM01ORVl0Tms2YXhLZHFFY1F5YWF6SU5sS2Y5ekxSODN0dGJneExkZUdwc2EyNjZQNjQwRE5Md3NQOEF4bVAyRlRBcHBVTUxiQlJMcG9TTjdUXzFOOW45TE9lZk9tbW5USHR2d25Kb3libmFvMEdn0gHbAUFVX3lxTE5JcnpISXJCbE44RGl1QzNEalZ5SGpUMWpkOWdhOGJzSHlMc09DUHdrWkVzNkJrZDhvVW5vQnhjMUxBcUFCRWhKMFNtT2tiYi1Qcko3eU41Ri0yNE5US3JKUzZ3NVVrdnJJYnM1ci1hdWZTU1pJY1BQV0wxRGEtSkNxTDl2REQxOExwRmZKUzQyYy0zNnFiZUY1OWppNjg5VUlwWmZmc3c1WXdjdUFYeEVkUnpodXVvaHpxSDQ1RDE2NGpHMkdWS2RfVWJPc055R1NDOVhvNGZXU1ljMA?oc=5",
+      "relevant": false,
+      "sentiment": 0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Indian Coast Guard saves flooding chemical tanker and 23 crew from capsizing off Odisha",
+      "source": "The New Indian Express",
+      "published_utc": "2026-09-28T13:50:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSHB6aXVlOENrVjlsdnh3Tlp0eHdPWkhjekhTVkpMdDV4dGxrS3JqWlBBMi1fU2xMaHpoZkR3VzVMMUp4QTY3ZjE2bU8xMS12Z1FYSTFuWmZJLVZkRlkxMFEwdWNRLXRncWJJQ2RtOEFVVVVETlpCb2FVdXNBeHI4OE8yZ2VqQ3ZuaVlJT1BQSlhCRGdVa0dneVR2SnQtd1ZkZlVYS25JZW41Rjk3b05WcmctNVY4a0pXazc2VDBpNFBXZUcyV1c1SWpPRHlfYV9Pc3hCWHUzRFptZEJnQk5r0gHsAUFVX3lxTE9QSzBmdGxXbllyd09xOVFNQWxhVHJCeGJsc3NTN0xOSEZtc0RVUXdLSUJIVUdZdDVzQS1ab2E5WENOUjA4RlhSbFNRY3F2YXc1NW51NDR5dHVETUNKenpqeWtkTHFvLTVtdDBFSEI4YXo2Y2x6UVFSQUI5WkF3T0xNbFNHSU5UM0N0Tmw3VTg2LXFocGdndWs1MGlVaThNS1NGUnZTWlFpWmN6dW8zbUF2ZG1sSDlXZm9QOHRvazg4OUx3cDhLc00wRnFuWVYtZWc4MnZPak1XanNCN0w3ZGVmVHI0c0JWalZTU1c2?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Supreme Court Lists Indian Oil Corp vs C.L.S. Ltd SLP for October 2026",
+      "source": "PSU Connect",
+      "published_utc": "2026-09-28T12:55:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRGlKbTBkRGdybFRZeUFrQzdsM2tZLUpSMUh4RXdUbmNTUTI5QXJKbWhNTkxDT3lVX0NNTC1OdzV3WTl5X0p0UWI3Nm1kODU0VmJzeDdCdHlOZ1BnNEZpdkx4N2ItSHEyNUlMblpEdVpRMV8tRllDTDVoM2FxNWtsVl8zbGJuN2ZnR01aV3hCRjZHZGcxVzFPd295QkttdDFvak1ha0pmOVY2N1RqWFE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Gas Cylinder Booking Rules: No OTP, No LPG Cylinder! How To Get Your Indane, Bharat Gas, HP Gas LPG Refill?",
+      "source": "Goodreturns",
+      "published_utc": "2026-09-28T10:47:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3BlWkxZRktfSy1zSHBBczZHMmROX3p4VzdCN3pieDBOLUFqZGtEcXhERG9HT2RITFZLNUtLWjZIYmRIU1RvNXR6OUhxZHVvSmdvU0NqNmtXWERUZHdnVTdocDljemhqaFYyV0NrMTItSUR4SkNPcUVqR25wQmxma001RkVOUlRHeEMtMF9MWEFwYTc0TzNZcmQ4aS0zaEFsU2V2WDNjU2czX1BjZXRidlNOSmtPYTFTXzFHbjJjTXFjREZCeHZvNHJQcjFWQ0hPeExWQUUwWTJaaUN0MXc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "India buys two million barrels of Iraqi oil at $28 discount per barrel",
+      "source": "IraqiNews",
+      "published_utc": "2026-09-28T10:46:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTV2OUpka2k5T05icW9XbUFKck56dHVVUDBvR0d5Z1BDVUZHU3lLWGE0NThSU2JsNGRKQUZPZEY2RXhxdUNrdHNKQ2xlRTI3UFZZd2s1U0FQZVIxZFFOOFFpUEVQZkNFSF9RTDdXVjJ1SU1hdWd4QkUzUUJTbVB2YkRTajRGaTVYTEtWUG1BN3l6NTNGdlEtNVo2V0ZZaGVkZ05r?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Shafaq News..India buys 2M Iraqi oil barrels",
+      "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+      "published_utc": "2026-09-28T09:33:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jb3lfdERxNmF4M1hFWm9qb19HLUVPa0RHbWpzd05ZWFlQdmJ5eExMQy0zVmw4eXJwSWZ6NDlRTXVqN2tsYkJINDJsUnJIeXczZHFoeEVyY0pEVVB2ZUU3RDRXd2FRVm5rc3hJN3F3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    }
+  ],
+  "signal": {
+    "score": 0.061,
+    "strength": 1.0,
+    "material_count": 3,
+    "view": 0.061
+  },
+  "scorer": "keywords",
+  "fetched_utc": "2026-09-30T20:13:46.444254+00:00"
+}

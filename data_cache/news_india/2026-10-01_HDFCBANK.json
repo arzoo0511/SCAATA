@@ -1,0 +1,414 @@
+{
+  "symbol": "HDFCBANK.NS",
+  "date": "2026-10-01",
+  "headlines": [
+    {
+      "title": "Consumer forum tells bank to refund Rs 70k debited for TDS",
+      "source": "The Times of India",
+      "published_utc": "2026-09-30T19:32:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQXUydVpmRFpLMUU1T1RzeUpkSkJrLWsxQkYzZ200TjdUNVVyTDlBNFVTN3hLQWxSWkdOUndqTjREQVR3d0NYekRUZW9vbmVNV0JfZl9uSUVVUXpydlZ2UG0zSjEyZFZkTlV5b2hvQTRmYTdYU3gzUGRidnZvalRSY2RCNU9sXzdma1lhTTcxZlFKeUpfNnkzclhZV0MxUkhJdFVSaVZhZzJOUHhaSnozYjNVRjMzT0UweUNWR2ZxeEE2bzhxMWFMbXNxWdIB0AFBVV95cUxNYXhwX2NSeGdOR3lCdjkxbkk3UFlubXNWUnRzckRENjRNazRsd3JuNU0wU19zSDVRbE8xQnd2d0pLemZWa0U1aUtXc0p1VzRXLVE0ZnY3SldJRmNWSVBWb2NJODlFZ0NleG1hR2ZMRWtwcThiWUtDLVJGY2hTTy1Lb1ZqYXNUZjhGWnNZdWg5MDdXWHVOZUZOYjE2VFhCY0FTYXRhSVp3LTVRa251TTBZa3locXRfV2ljU3FoUzhnTmhSaXhpT1hfQWZ5VEZrS3VI?oc=5",
+      "relevant": false,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank appoints V.N. Srivatsan as Chief Compliance Officer",
+      "source": "CNBC TV18",
+      "published_utc": "2026-09-30T17:51:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcHlueGtzMFNQdUlEOHY3WlFDd3BubU1kd2hhX1ZUNFVtOVA5YkhubHZBdVRNazYtQWh5Mzg3UWRGdFJ0b2JnaFdHVWF1SnJXb2xMSTl5SHRqV0o5dUg4dkk2MU42aWl6QnVqYWVhY3UxcWlDZDRtZ1g1RzBKWXhOenFVbV9CQzJUSVBraDYzaFVaR2JIeGNrREUyX0M5TkdCWEFaSk5rSXpfWF9HOTdHMUVrS2k0dE1CVkZGdm930gG-AUFVX3lxTE1weW54a3MwU1B1SUQ4djdaUUN3cG5tTWR3aGFfVlQ0VW05UDliSG5sdkF1VE1rNi1BaHkzODdRZEZ0UnRvYmdoV0dVYXVKcldvbExJOXlIdGpXSjl1SDh2STYxTjZpaXpCdWphZWFjdTFxaUNkNG1nWDVHMEpZeE56cVVtX0JDMlRJUGtoNjNoVVpHYkh4Y2tERTJfQzlOR0JYQVpKTmtJel9YX0c5N0cxRWtLaTR0TUJWRkZ2b3c?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank Limited (HDB) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+      "source": "PR Newswire",
+      "published_utc": "2026-09-30T17:15:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaU1SbXZySnVYb1plVnVRSTFCb3kwMUFVVlNwcDhaVW5EeGU0OUdYeW85ck8xbkxUVXpISDVReEZlZW5Lc25oN2EyVWh2aG5MUWJ3bnRDMzQ0SkVXamVXRHVXN0cybC1XMDg0WDNRZ0ZoZ3JTWER5QjctS3l0bldoQ2pWeUt6Q0VtbGxvRVRTZF9aRnF1S3NQWERwZFlTRnRIS1ZiMHJndGc3Zng1REJseFJEaFFldDBremF5MzFnSWZlUlk3SDFHSjdPcWRsVU5qblR6Sm5DMUprMWJXbU93bWpJM1VYZTY3TzdJ?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDB Deadline Alert: Levi & Korsinsky Reminds HDFC Bank Limited (HDB) Investors of Securities Class Action Deadline on October 13, 2026",
+      "source": "PR Newswire",
+      "published_utc": "2026-09-30T16:51:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeWlTZ2ZUYXR1eEFfSVBWeDNxWkdUa1dkdkdWUXJhaDJHd2NnOU01bFV2T19WbFlxZVRQWWdmNVRURWJCS0tBekp2Z05iRTQzX3FkcFdBNFh2cjl4VElGZ2VZMEhnUnhLdGFPTXJxTDhwcDZ4ZXlMX3R6bWZoalljV1ZuS05kaWNEQzlveTg4WHNOdmE5RlZGWGZSb0pOYV9qb2ZOOW5PdV9KS2lVelNVT1dZUzRHdkFZanpSLUtuc1otWXhzVU5Hc3M5eUpzbVpPV09FQWhpNE9kdVZpVUpMS3dqV3dUejZLQVc2LUE5eU5xS1hTWkNCMTVsdDJxYTUtd3RpY2pzNkIzZThNR1BwakxOSQ?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank Names V. N. Srivatsan CCO As General Counsel Sudhir Kumar Jha Steps Down",
+      "source": "Sahi",
+      "published_utc": "2026-09-30T16:50:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkdoYk1fYllyX29vdDhqSE5LVGVnU1kyNHZHZnNlSXpQSDFiUDBmWWMtMU1XNjFkSzJKSHh3Nm1RNmlIYk1UdHRjUU1LRzZuLXE1a3BpcGI2YVZzazZMVmJsdmZiQm5yOVByaHoyZkluUExsLUs2WU52QjlsU3BoWFBYR3pkZTVBYWVmTTcwbWE?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank names ICICI Bank's V N Srivatsan as chief compliance officer",
+      "source": "business-standard.com",
+      "published_utc": "2026-09-30T16:44:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSnNNN0N1WkFoQ0x3WC1NVXdQS1NLYzVnSzFtS3FTVHMtdHdlZlFEMFdVVlFERVhENjFUU1NGbVRwSmthc09oTmlFS01uZTNodWprelNaUVFNWUY3Q0E4a2RaT1M0ZXhOTm5ka1NpazZmZjVqU0JJS0xjQmttYXlMOTFEdGdlaTZ0QjdlSUQ4QzdhSGZEZEZGUjlBZG9BSzlzdjk3SzZ0Zm5wVVZBZzZwbFRfNXFnZkRhTVdzOGFhU0VwU0N5amlCcFNueU9sdnpQY1Nod0ZPdGHSAd4BQVVfeXFMTl8yVVJGZ1VyWVhDRmJId3VBNUtDM25lOUFMaU1hRTBCZGRjWVROTnEyVUtFQ1JveFh0T2pTck1QRDlGZkZxYTU2cmQxcmZUbFFuVFZ1M3lwS25RV1pSRWpwbGZxaTlkZmlWZ3hwS3ZlNk85eE9BVFVGaktYNE9SMHlrRVBTVUE2dF82cnR5TVl0WEgya1lvUWVuQzJLcEktaG0wN3BKOVgwbThHRjZBdEM1UlZDa05pUlhtVlNGS252MzJQY2RYYmM2UF9rWGJ6S3k4Z0tSZ0hGY2wxMGt3?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Bronstein, Gewirtz & Grossman LLC Urges HDFC Bank Limited",
+      "source": "GlobeNewswire",
+      "published_utc": "2026-09-30T16:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTW1CLUgwRUhDRFNlUkJMUGZDN1NuSk1fck03M0tzRHo4WGFzUHlNc191OExBbGYwVkwwZ1Q5STI5amxPa0R2S1dQYkZqMEw2eHNjRDBUUFU5TmJYa19kblBlaElRTEhHUnA4NzVkajk1bXVPVVpZbTFCaFFfY3BnNklzaTZPRnNYQ1lnSHFLU3VqMUM5OGdXdmJOYXp0dEJiTmU5bWI5M25NWTJScnpBZ3BVN2sxWVJiUUFCWFhaVkQxbmZvZjc3aDMxWnpEZHhERlJkYV9sMjc1T2dNNS0yemJ2cVhaVG04UW9uN0VjXzI0ZHN0QjBOeVQ1UExka0JOaktPTkFMTUpTMTZmSTVhakFuYnZmRVk?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank Group General Counsel Sudhir Kumar Jha retires after 22 years",
+      "source": "economictimes.indiatimes.com",
+      "published_utc": "2026-09-30T15:55:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ2ZvMGg3UEJkdEVPejJfZVBsbUE0M2J0U1pUWGdFWnphTlFxMjlxdnY0NjJpT2p5V0JQUGowRWYyRU1jRE9Uc3NRblFGVl9ubzdod1d4TkNLMzFNZWdhak0xX2dqblo5ZlF4Y0NycVBMU2NacjVYTlNkWTl1M00tTFNEYXNpQWszMkhLUjB1UlZuWEZIUW5PRlo1MFBVOWFibEtuWUtJdHNieE1uOXA0enk1VXhlR2IwSFpGOWN4bGJoZ0xTbTY1aWxVb3NpU3VKYVVqM3NCejlVUWJtT3lYTzlUcWlJcE5QOXNldGNLYWtZcmZPVTUzYTR5Yw?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Kaplan Fox Reminds Investors of HDFC Bank Limited (NYSE: HDB) to",
+      "source": "The National Law Review",
+      "published_utc": "2026-09-30T15:53:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU05vSURMX1hfNkJUSTZfTUVqQzJYNmJtNEJIbGRYbjlZb1ZPcHYyWnpBZW1LTzNPRE9xMVpGU0ZPWVM2N1J1NE1DU2xqUkdXeENSaGFnMmx2bFQ0a0MyeWk3SThqcHFQb1d1bzkwcHBtSnV0cUpTN1pLVEdjRHhTOXgweGFnWWNpWXhIWDlMUGRHWmwwR0lpUGRwWHZXdGlNejlraE81TzdlSzBOUHRTQW1R?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank Says Sudhir Kumar Jha Retires As Group General Counsel Effective Sept 30, 2026",
+      "source": "TradingView",
+      "published_utc": "2026-09-30T15:33:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM3BmMjBvaTVGd05tYk5lRnpaQXRkWEZfa3pkb1gtYWdtdlQwNUx5ZFpMOVpyZ2lEeVpXMEdPNFo1dTAwbXJhMHhYa0g5MkF5NDhXa1NSNG0ycHJYR08xUHlBSTk4SGJZZ05JcXgxdnppcHpqQTUwMGRuaHRfZFFUMEN0SzhkS1RiRTJZMm5tbVlqeG5mUzdVQzVRZFBmQmo3VzZmY01VWHlKN3lCY1BVeDBNbWg3QzYyR1dNWmYwMEd6OWxfcUFoR1Q2VmxYb2EzU1RpU1RkY3VzSnNIQnhRalRwdTNHVGlNSVZWV1V3?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank appoints VN Srivatsan as Chief Compliance Officer for 3-year term: Who is he?",
+      "source": "Livemint",
+      "published_utc": "2026-09-30T15:00:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcWJObW5CMl96ZVVQNG5vMFpuNWViQXRrLWNqTHdQem1IWl9TaVR3Zm1XcC00RmhETXZWRUJTaXJZaTNZc05iX3hRY3JrX0RjMVMtakVlTktYY0VPakx4dXRUMnpLcmtnb1pIOHhfOUw2V1V2dHI2ZkEtbUhUeG85OWxuR0ZxbFlrRnZvdEU4aUNCQU0wOGxKbzdMOVlXOGQxTHVVcDJtc0M3TkRfWG9mVWtxV3hKd0FFLTJESDlWdHg5VFlIdWlaM2JxMDEzRDJVamdZRTZnWEJuanpYNFdKb9IB5gFBVV95cUxOamh0UDNXcTJnaVVEamhySG5oUnp3SElGZ2JVRG1Tdk11aXdLcmdxQUNuWWJZSFNvdk9hRVE1dF9wd01mQ1NMMXpYT0hTR1RQNVRrRDFsU2FYbHI1Y05EMHphb21sUHBlNUxVR3dCUkFaZEZSZ0tXWE5DZUlPVFB2Z21RV3EtQ2Q5cXdBb0dJbFZhd0RzbVg5eE9wZm1hVGhySVh5ak1qR2RCZWp0c2poUWhweXVYdy1CeExQcEZPNTFOSnRmTkthMnlWRlVZMjRJbjFxX2lQeW5LcjVENUx6dlRCNVo4Zw?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank appoints V.N. Srivatsan as Chief Compliance Officer for three-year term",
+      "source": "businesstoday.in",
+      "published_utc": "2026-09-30T14:20:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmtLSVA1U2pJSkZZbEVUOVBVeEU4YTdiOXlSNVQ2NGNFVU96NkUtRHA3UENmRHRmRVRiZDZTcU1uRGtjamM2ZUdDOW5oR0w3TTRMczFZd3ZuOTAtLXYzNlQ0TmQ3X2hpcmtiMC1FM1NjU3A0VjAwYmpOdTMxRHBxblVOV3ZocERmOFkxX05Kb2tnQ3NIZHI1MG1UMUQ2Vl9UTE1zYnRIaUI3QnkwZlQtZHFQYnpDbEFXbTh6MFpSem5mR28wSncxMjZadHVpN3J2dm9v0gHYAUFVX3lxTFBhdTBkUjFxTG9udTlXSUZTNG0zMjNVVERvYk5ieDRybVdoQnBNUGdseHJKcG1Wdmw2bnc3eFlMQWZlQ0NNcC12MGR6VlozQ1A3WUFWRWY0cm5MNnhad2JVMzh4QjFKTk4zTUFHVVY4b01EQXYwUkUzWmVEZlA2ay0xYWktQ2ZiZXF6VFBHNEQ5eV9aLTJuMS1QUjZRdzRwQ1I5TDdoTzl0MktRV3BEcG9aaTVsVmxSeDhMTTJfZVdqbmtIVFZMUXJIQ1kzN0VtelBXeEduOUZFaQ?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank, Infosys, ITC shares: FPI favourites hit as 2026 outflows top Rs 2.5L cr mark - BusinessToday",
+      "source": "IndiaIPO",
+      "published_utc": "2026-09-30T14:10:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGFRdlhfbDctU2Nld2NaNzlhbmdFdzdTN05JZmQyUlRWWFlnaDBRM3Z5OFRWM0duUTBZR1Z3YnRmNXJEVEdjN0x0b0dkQ1lOVmx4amJRc1VkbEdzVmpWNVlpRloxTmV4SjNnR1g2MkRKVTNuNFdWalN5UU50enA4WXhGaW8tbWhOemdQdEg5LTlzNDE1TXZtanR1cEp5a0xaRFZFcm1KQlJYckFLM1lGUGN6TE03d21YOHJLVU1GaXd3NGVlNmRwUnFDRHRTdw?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank appoints ICICI Bank veteran V.N. Srivatsan as Chief Compliance Officer",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-09-30T13:44:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT2ZqMFJkU1dwTFpseHBNSkk0aEJQQkN0OVdGY21qUnU5R0lFd2F1aHU5ZGhueGZoZTdqUXB3Q0QwNmhlZ3c5OEdRZmNGcHQycVZWR2NvLVF3N2ZyRnc2YTU0ZXJlS0NJMXhoTXhmZ2hud3M2STV6YTF5Ri0zb2djRFg5d1RRemtYT3RtR3ljZmwzdVhvc1VaZEdadnRfWDgtcW1ocE0xcnVxZ2lHOGZkcTdBOFpkajdSb1RiODVFV2VYTmdHMFBrVVdZNmZTOVZiaXhQadIB2gFBVV95cUxQMUNXZ3dfYVlxV0hTRHlLN3Jfd1ZQSHVMNUdwLWJ5ZENWMzdDNW9TQ0xIdUloUnNNdVpDLUR4UDJRako3SGxPMUZtV3hlZzYwQXBVMVFFdkNJb0hqc3NRN3gzejVnLVNhVHUyVldsRTZQelF3dFhISTlQSW1WYTgxYThzbkRRZ0pTNDRab05va2lvLVU5VENGMjhEZldQREktLWdNbnZkZGZ2RkllNkF6M2pzOTBQZ3lleW0zVk1pWjlKa3V0OTJMdXRMaTBfMHMzRW03SDZmaUxfZw?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank names ICICI veteran banker V.N. Srivatsan as Chief Compliance Officer",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-30T13:14:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOTJYVDR1RXktN3gxTjFQam9hY3hNMS1xWUZRNVpwNi1lMjlPR3pwemdVbjZENVNPX2pna1c0VkhLVjY1N2tPc2FteE9uX0ZSLTBROGUtLTh5QnBXeERwVGZ6cmNzbHc1aHVNYnRKNHBDcTFNdnRPSDhod09SMDRaTTAzRjQ4ZG9nTWtqOUpzN0FzS3dHLW5DYi1qTExKMEdRQXpZSFF0VTJodnAyU3pnc2FXaDJ3Z0hUMmR2V0t1a1p6MHpvU2U3RkZOajVVeXg5ekdvNVN5YWJjb0NG0gHiAUFVX3lxTFBDMzRxQnpqSFNkRkFDOUlJMS0xQVk3ekJhbEtDWHFkMDNyZk5QMUUwUkZ4amktNUZpaVl6MkFCUGptLXdfUEFUczhmNUtRdS1GQUQyakFobW5wOVRrZHUxelNoajkydllHTnl2Z3NyMTVEbGNESUt4aFcyQjZVaGJWUkZpOTFHY05lNG9YN3JZNlZWV0xDWHZvRHZVT21BejVmZGhQNlV5T2g4MGlJOTB2VWFNR0RYUGk0a3owcy12TF9fWFZyLU9GRERMVTAxS0ZCNjJJWUVrU18yWFVoY0lRS2c?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC BANK LIMITED (HDB) SHAREHOLDER ALERT Bernstein",
+      "source": "GlobeNewswire",
+      "published_utc": "2026-09-30T13:03:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTnMySV9PRGUtdnhVMGg5SnNubW5KR1JZMzNMMEdueGdLZGxYTEZVTVNKbVp0VU5PU2NWTnpuTVNQSHhfdmtpc3lEWlpHWW02eGlRSmZsRkNYczZaM3VwUGY0QmJId0w4c0VLQ1NEWHpMTEdSX2pHWnRzUGNwbzEwZ3VpNG93bVF6NjdjN1VJRHdDZGRGTDRlWnRwSFV2R2lwTW8yU0dkd2Njd0VEN2pmVEozNzJEZFBJdkJFVndLdWFoNElfYmhOdEdyN2RiZ1R4TWgwV1pQeXZuUUwycVV1dkFsQjRIUUlaX1pqTmJ3UnFiX0plRDFHaHdmbVpFa1NXS2psZ09sdjRmWmgzRWVyV3JyZjlLdDl2em9v?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Apple Pay launches in India with Axis Bank partnership",
+      "source": "Quartz",
+      "published_utc": "2026-09-30T12:55:26+00:00",
+      "link": "https://qz.com/apple-pay-launches-india-axis-bank-093026",
+      "relevant": false,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Ludhiana consumer panel orders HDFC Bank to unfreeze account blocked since 2023 over Rs 2,038 fraud alert",
+      "source": "The Tribune",
+      "published_utc": "2026-09-30T12:43:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUFY4bW1nWFdWdmtIUEhWeGNHajFjcmF1WHRQaEM5alFGQ3dheWVmWGVhMkNvVGpoVGRnQ1FoTXpPSkRheHNDQklBeWhtdFJqY1VOZEt4RVNLandDV1hNM3Q2VmFwcXU2bHRhY3JfVjBNMGdaSGxFQllFSVQ4YlhIMmt1TW9CZXpOM0dqQWFfb1d0RVNHX1JWc2NkTm91Zm1sT2VteDkxLU1Ddll2ZURVa0VqRzlUZHoySWJtal9Lcms4RFFSRWZ5MW9GZ3JIWUktdE5OdENUb3k3YXZ1RDByeVJR0gHmAUFVX3lxTE1tWk9QanFTbnI3aHRVYy1tZjYzTE9MUm5UcHNuY2RkT1V0Sk9jMjJZOFpjeC0xZ2l4ckdQT3VZbjNUNnItendfQ2tDeVJkdF9UaFA1RV9yU0lOQWI5Q0x5b2ZQcS03a2pMWWJKbE1HeTcxT3BZVTNGOEVNVzVTUDNsenhVQ3M1VjAzajBibzZWNS04UTgxNmU5Q1RqY0NlUXhnNnJFQkxSczlpM2twdjJ3cWN6Q0FYVjJoN1VxaUJQc1BqVjFiU3AzTFFjMjZTMlZ6LXBvXzVjLXlNSHd6NXBFMG95YWtB?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.7,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Large-Cap Stocks at Multi-Year Lows: Buy Blue-Chip Stocks Now?",
+      "source": "univest.in",
+      "published_utc": "2026-09-30T11:29:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUm1BRTBFbEcxZUxDeFNocUEtTjl0TzNmTlJWamFjQnBYVmpRQ1diRmtJZC1MWklmU3lsSHpIQzUxb3U2dk9jVndkTEJVSF9BRmxDRk5aRWJ3N1hLcFJxbFo3WVJ1LVY1dnpPZ1NERGJFSUJ3dnJwREJxYkJ0VFF2a2RPZXdpOUJGSC1ENG9OMG4?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank Prediction for Tomorrow: 1 Oct 2026",
+      "source": "univest.in",
+      "published_utc": "2026-09-30T11:11:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmZwV1hrMDNVYzVJS3A3bVRYRXltdUtnTjNLYWtLSHRodFBBa0VjNU1jUzNFcFQyYW43TE5NSXQ3bERLN3FCQzlXZUxqaGJ3U2JuNmdIRDVPVzFWenQ5SWE0Wi1RY2ZLcVZBVTJ3cFdndkJCVFRBU1o4cEN3TnQ5OVlZbF9ybmNfQVFUQVhR?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "RIL, Infosys, TCS, HUL, HDFC Bank at multi-year lows | Time to look beyond? Experts suggestion for investors",
+      "source": "Livemint",
+      "published_utc": "2026-09-30T10:30:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT3EwN2JUMWlmbUNaMHlIRnZhRXp2M216VS0tRHVhTWpXTk9RNDF2cS02V19najlyVzF5ZFM1MGdUQTFBRGZ2Ym5fTTRJMjFDYm1JT2xnWTdEX2gxUVZ2eFIzZEdPeGJwQ2twVU5LT1lGXzNGMDVVYU82SGhOTVg5VnRSQ3hhS3lqSlVldEZlQkxlbU5NZWtfU0p0LXBwS01ray1XZU53a2FKb2ZmekhzWS1EZnVjTmdTSWpwbzdPR29zU28waHFGd3NfSEFDWjF0M3htRkJWdlRhcGJxb1pvUGJFRUJxRTA20gHuAUFVX3lxTE9jbTVBUTA1RlgwZDJXc0VNNFpDWWlPcUdLSWZNRVFNRTRJMFlScVJ6c2g5d2NYMUFVZ2Rxd3IzSjRSbGdLSi1kLTl4SlgtSmtNTFBqOEtDU1BVa1FQVEpVRE1Rb3plT3dra3RpQjc5aGtpN0hsX002TzFfX0lFVWpkaE1UU21tRlZRcS05ZWFScVJRQ0NRc1MwVEVHREgtZkJNVFBrNVdIZ3ZNcVJSQkxKWHFmVk1oeE1mZWNicGQwUUhGYXB5VzBLbXRSdU5xR2tuaDM3MVUxNjJJUDlJUkc2VWxzMWZISENndWdRREE?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Apple Pay Launches in India: Axis Bank Visa, Mastercard Credit Cards Now Supported",
+      "source": "NiftyTrader",
+      "published_utc": "2026-09-30T09:53:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RdzZLb0Jzd2gtbTAtdk1BbTBmc2lDZ1dXSEs0YU9KSEJHYWpvWWV6ZUYwdXBqeG5FSUx4NnRHbzVRQjRuOWRScGYzUU1tY0w2Y25UOUxPTEI5WU4xWmhTLURad0w0MUxPNjltUkluWWprR1kwMFZWdndsZWozdw?oc=5",
+      "relevant": false,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "October 13, 2026 Deadline Approaching: Join Class Action Against HDFC Bank Limited (HDB) - Contact Levi & Korsinsky",
+      "source": "ACCESS Newswire",
+      "published_utc": "2026-09-30T08:16:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa05vQlFtNGlQMXZxaTJoc25RcklKTF9SQmRfYUVERFd2QzgydDdFejlVczdlTnA4T0QyS2Vfb3pBTmtBNHgtQ2lDSXhvWVJySWhPUnljNXo4SDE3TzRPVzBtR202NnhkdlRYcTBpLTMyTFpCTlNNMFE5ZVRCZ1RBd3piZWM4SkxhWUxJV0tOVFdpUXBJX1hiSVQ4T0k4aGRKVHd1RmNRYVJmUjhDcEZ0SzRzVWNqTVVuc3htZ2l0T3NERWw5d25xaUFsV044XzJqck05T0M3NDgzemk4Ym1paVdKYUM?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank Share Price Target 2026: Analysts See Rs 875 to 1,150",
+      "source": "univest.in",
+      "published_utc": "2026-09-30T07:12:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96WGNFNGZUTFhnQTRRUE5mUF96RTJTNVhUcXpmZDlhYUpGeHlaN3ItblVVZW5vMUZ2cGc0eTAxTEswRkNCcGpicHFjcjZ3djA2Y2VMQTAxbmNlZ3FjMDEtaUpJQzJyOFBQR2c?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Stock Market Today | Share Market News | Sensex Today | BSE/NSE Live",
+      "source": "NDTV Profit",
+      "published_utc": "2026-09-30T05:51:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQamFsZVB6blgzUFZPeURLSjhpLXNuVVJUZUJUMjB4Y1N1TksyTUUwT09QYXV4TVVOenJyVWtkNUcyZl9LZ0lNWVBJZmREVWpTQTNTaDNHdU13dnVzQ0RXcWxTbHRPTUJXU2NtV3JDQWdYX0pyQ0F2bGVwVDI3Qng1TFhNZi12cThoVmhvMHkyelpoWkpxS2xTaW91NEhRRDNNSkFGdmRyUlF3N0FCcEhFWXduXzl6MTR2ak44a29yOTc5UnpYWEZHYTM4M2laN0txdlhIb2dIQW02VWlwSThwSDF3clhjSTVxT0k1aW5pMmNtTS1qQlZMOHlLeGQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Apple Pay Set to Launch in India with Axis Bank Support",
+      "source": "India News Network",
+      "published_utc": "2026-09-30T05:40:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTNySVRVZmZTelBmSGpJbkxGSzY2TTJrSDBfQW9WcFppaGwwSVJUNk5LaEh4THFUbkREbTdXWTZfSzN0MUJZeE5ZbGFnT3dia3BWQV90UHYyY1EzeVk4SHBpVGZJZFFYNmVvUG1SOWswNEdUUllyN1NKUWRRYnlidTBEclRpR0ctWTN0MmdwOFRkRlU?oc=5",
+      "relevant": false,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Stocks in Focus: Sensex gains 190 points in early trade, gift Nifty flat; key stocks to watch",
+      "source": "India.com",
+      "published_utc": "2026-09-30T05:18:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNNHJONmdBdEVHZE84TVluN0VBM3RFQnV4ZzRVUTd5azFRbGh2NWxnOWdEMFU2bTVIS3IzdE9aSmtibkZXVXpQejR5WjVlTlp1alI4d1A0eVkzTXhfT2MxT2d3U01TNmNZeGd6a2hoa01Ob1pCdllyb1VZendZM01LdHQ0MG5MU0FXdzBvZ3FpelJoZ1Y3a0gwLTk3MDFZOXFTeGMyc1pIVmh6UWFpS0lrMFBSXzB2OV9ia3FXVUN5YmJhYllaM1RlVURQekFlRVVsR2xWc0JyVGVwc2paa3YtTzFNcFc1bnRMeUp2NXpBcmc1VHhXWHYtbDV1alhxdFRFZHBteXcycF9hOUVqYzg3SlhaQ29wcnVpNThMNlZlVzd4bkVydW1tUnNRcWJBWXM0SVhieVk1RVdmQjVJaFh6WEJNOHNpRGx3dlpZ0gHLAkFVX3lxTE00ck42Z0F0RUdkTzhNWW43RUEzdEVCdXhnNFVRN3lrMVFsaHY1bGc5Z0QwVTZtNUhLcjN0T1pKa2JuRldVelB6NHlaNWVOWnVqUjh3UDR5WTNNeF9PYzFPZ3dTTVM2Y1l4Z3praGhrTU5vWkJ2WXJvVVl6d1kzTUt0dDQwbkxTQVd3MG9ncWl6UmhnVjdrSDAtOTcwMVk5cVN4YzJzWkhWaHpRYWlLSWswUFJfMHY5X2JrcVdVQ3liYmFiWVozVGVVRFB6QWVFVWxHbFZzQnJUZXBzalprdi1PMU1wVzVudEx5SnY1ekFyZzVUeFdYdi1sNXVqWHF0VEVkcG15dzJwX2E5RWpjODdKWFpDb3BydWk1OEw2VmVXN3huRXJ1bW1Sc1FxYkFZczRJWGJ5WTVFV2ZCNUloWHpYQk04c2lEbHd2Wlk?oc=5",
+      "relevant": false,
+      "sentiment": 0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Video | HDFC Bank May See 30% Upside In 12-15 Months: Parag Thakkar",
+      "source": "NDTV Profit",
+      "published_utc": "2026-09-30T05:16:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNWY5X2RJankzZlRsWEFvOFNQN3d5aWoteldVNGN5MUNldTVscXhKSnNqRzc0OGYzbWM4dXBWbnJNVldCWldjckdRQ1dFd3loZVNtS3U0UDFHYlZkam5ST09iQk1SNXJ3eWZteE1oZlJXMlpVVHlVRjR2aGppYW1hOFJYLVNiNFdoVWtibWZDdG5mQkl5N29yUmQxbDdIV2pfQjJOVWxHTW1PTnd4?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Apple Pay launches in India with Axis Bank credit cards",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-30T05:14:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNlkxeG9yX0lYVnlCT0pQblgzbjVtcWVRTXUtdzctSllhM04zZWpkNHlVc0xoaTZsREEwaE5QTEl0anVOQnlSZDE0RWluMWl2MFFmSVFIdUc1a1VrRC1CdlNFeXVXaVdBQUVtSHRINVo1b2JQeVN3aUFDZk5jMGpFVXVPY081a2ZWT1Vtak5nY1hqV0dqWG9ZTVpUT2NUYTRpTWc4c2NfTFVsMENNT1Rtdm5vNkVwR3FzYjRoVFdNQ2hOUmwtTHRGQtIByAFBVV95cUxPNlkxeG9yX0lYVnlCT0pQblgzbjVtcWVRTXUtdzctSllhM04zZWpkNHlVc0xoaTZsREEwaE5QTEl0anVOQnlSZDE0RWluMWl2MFFmSVFIdUc1a1VrRC1CdlNFeXVXaVdBQUVtSHRINVo1b2JQeVN3aUFDZk5jMGpFVXVPY081a2ZWT1Vtak5nY1hqV0dqWG9ZTVpUT2NUYTRpTWc4c2NfTFVsMENNT1Rtdm5vNkVwR3FzYjRoVFdNQ2hOUmwtTHRGQg?oc=5",
+      "relevant": false,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Parag Thakkar Sees HDFC Bank Hitting Rs 925 In A Year",
+      "source": "NDTV Profit",
+      "published_utc": "2026-09-30T05:04:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSmh4RC1OekNnZFJNUWRiU2FkOVgyMFliZkJCX0VWOE5DeWE1U2pwemxYZkZud0pCTmQ3V1dxQjVvNWJEaDMzRlRBWFdUZU5jbnNfX1Zyc1NzZVRwNGxYT2FjeVFUT1lkTE5ydjQ1NG5NMm9sdDFBQmMwQUdIZ3NUenNzOEFOZm1NZFlxZnd1bnV4VmtOOHFmNVE2eDNRS2p4QklBa3NNZW5vWUdBX0xDUWw3SGQ2NlBIUDc5VDBmQ2oxMndNMTNncHFiOFNrME1xUUk1b2FUcTVUY1VfWDktcTQwUEkwRGdGUFRHdjZDemJ1cWk00gH8AUFVX3lxTFBrYjF2MjY1d21lQzN4RFY3WWM1YUNoQmZhQlNXTk51SlpnSW11bnpVOTNtNnBCaXRvQWwydG5EMXR3bmM2djNNOHQ2clNGY2RpY1BYQWJhbVdpXzRVM2tzaVVsS1VNQmVqNGdxdWxRMEwyQ0xEMkY2ZHV1eXQyTFRoLTBvN0RVN1ExV1h3LXM2NkpPS2c0dzdicVY4YV9nTzhscUl3ZUgtb1dIdUh5QTNIdzNTWTRKMVltUlNDaFBIcnFHd3dCemFfVWxPbGVKV01ZOHJKQ1l3NFpGSnVNN3Z1LWtLc3hwUEM1MXFHNm5pUHJqdjFLd3otVVBsVg?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Axis Bank brings Apple Pay to Visa, Mastercard credit card customers",
+      "source": "business-standard.com",
+      "published_utc": "2026-09-30T04:20:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGJDUUNlaE1ya0lQMi1Ya1NYT3kycm40d3FLWWhaLWE3WV9ZSGxiSjl5bXJBb3hjdjBkMzd4VDBBcm1raXpZLW1USVktYll3X0UwRTBra21TUWJzYTRVbmM1Rm5OWnZwOWlJTFZjblNVckxLUGtCUlBBTjB2MWV2WVluWXlhNFFiZkYzdmtqbDFkRHpZOWo0TG8yQk5Ga04xTV93SXBGTTNnSjA0Y01HLXhWdlFBbmw2Umlfcng0WlhkNFHSAcgBQVVfeXFMTUJwbUh5eGg5b3V4b2EybFRkaW9YSEJaN0x5MmxIY1FYcWhWdDQxa0psRWx4TlFlMWhpSHVsbWpNTXJNZzN2RzZTNC1abHVXSl9GZ05WMUlPbGdKb3dVVUN3UVJnd1piWkFYRl90V2VUYTM3Y0QwTjlhdDN5Z2RST3hRMTJYSGhwbjgyUEh5RGNQN1QzcWRsZ1FYM3ZiSTVudEE2OTR4eWVMZkpBbm4yOVBobHlkb2xPQTlPc2psRmNSNWlzS281V1g?oc=5",
+      "relevant": false,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Apple Pay finally launches in India after years on the sidelines",
+      "source": "TechCrunch",
+      "published_utc": "2026-09-30T04:08:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjRGcEdPNVBFOGtrenJ1M0ZGVjNoVzBSM3FoQ3oteEhoQWJHYnVSMEwwMHJoWWVzRzdKWXU4VDBrMEdMZFplS1NsMk9OcC11anZLNGI5R0Z0ZHJEbm9IOU5KZzY5STlsaXlIZGt0dlRsMl9kWnJYUHY2SElmdzZSU1lEU2pSSDZmQk9RYVB3TWt3NDVPb3p2QU1EZTFtZS1IN3c?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Harpreet kaur nafra judge involved in brokerage activities in fir no. 22/2024, mansa, punjab",
+      "source": "AIMA Media",
+      "published_utc": "2026-09-30T02:36:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzU2eWxDZFVlT3llamtWd0NMaDZuT0pnak4tb24zMXRPN0ZrN01HU3g5MmVjUWhLa2dmRWVyT3BSVG5yZXZHQk9yblF4SUkzSjBNSDJab1ppVmxRQ0pvU01tMGhFanlMQXdBLTYydUJxT21fYjZVc25DNUJWQWJqaUlPdWtWVG05N1VhemZFbzg3YjVmWFRBaEpiVDk?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Apple Pay launches in India: Which cards work and why UPI does not",
+      "source": "CNBC TV18",
+      "published_utc": "2026-09-30T02:17:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZzJUNFQtaEg5Q0VFbWlkbmY5MU00bmhxaDdzdGFOSWJaRDMzUjdEMVBYS2pwczBBMm1tRDl2ZV9yTHpyVzlyN0tRT2RSUHI2dUMxNkVDMjNZOV8tQTduRmk4UG8xNE1hZWlLM2RMOU94Nmk4ZHpieUZORGd3dlBzNVctWkktaDZ4eU1LWnQwRThDaUFpNFpXLW5ONm1xUmZQOW9IN0xTcGZfQWlHd2IzTlNpeWMtTzBiWlRBSnVHRl9IZ0h6d3Jr0gHMAUFVX3lxTE9fdG1QekZ2RTJSVXljR2RlQnRzMFc0TDNiUkpyNkZ0Q1RZT2FqbGRiazZKZUZITkNYZmJ1OTR4YkZLLUNmb3lwV3RHRFI5OGRhdWdwZXN3Wm9EclBpcW1iQnZwWWttXzlhOTVWalJJNkc0cXB1Yk5xS3d6Q0dmdHgxeHdLamQydUdHWWhwN29FdlhvWlBqX0dJMTNhTTBCYnNCRDRmb1EtMXZsZjFCX2h3cmVHNHdDcXdPT0stTXlXaTdqWVE1TGpNcFRvdQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank Limited Securities Fraud Class Action Result of Deceptive Interest Payments and Approximately 4% Stock Decline - Investors may Contact Lewis Kahn, Esq, at Kahn Swick & Foti, LLC",
+      "source": "FinancialContent",
+      "published_utc": "2026-09-30T02:01:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQNnhkeGdvM2QyUW9IdVZuZ0VLV1RaWW9OYnpvT2VPc1V3X1FyZW9QOS03T1pQWkhMd1YzRm9GS255Mkk3MVp5OWhKNjdrSm5DcHViTUVYNXhvSEhKVGxaMFI5R2hRaXNyNTgwaFZVa2g0cUV0enZPV1NKdGN2ek1DV1hKTE83Mk15NHpDRzV3TkxPMEdzLWd1a3ctQWQ4Umg3cUthZ3RvTVNweGhscEQ5THdTMDFReFFsMTZWQkRRV2tCblctdWtVSHlNa2J2RzUzNzY0ZFhiNGRNRldPRHhEVDNKQ1dlekdYaXc2bTJFU3V1VTRuM1pEeWpSWURTRktLcHlaMUlfY3NVdUE0cVpMX21wZkpjZHVfTC14LVdodDc0bUk5VkFzMGVPWGxsTDlOcUVVaDNZOGp1REhmNm9YSXpGSHVKeFluVzUyeWc4ZmlFc2lZS1p3T2pqcXY?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Breaking: Apple Pay arrives in India; enabled with Axis Bank Credit Cards as of September 30, 2026",
+      "source": "livefromalounge.com",
+      "published_utc": "2026-09-30T01:02:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXM1bnpQYXVSeDY3QUpSM1JoUGJNMm1EdHNwaVZSY0h3ZlBhSk5pRnBJU0VKTUp4QU9lU0l5dGZUZEw1WlhSOV9DRWtvRngxOWZPeXdkYVNDT3Y5c1JyVzJQTmpDLUVMRWFTeHdHYVlQb05KcUpBbHRPRElibEctLU1XSGhLTEtlcWFjSWJwdU5SQjJMemVLcFF0c3dyR3JfLXJWRW9OLXhsUmhwOHBSZ3RVRlV3dWFZVmtsR01RdFUxUQ?oc=5",
+      "relevant": false,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC Bank Limited Class Action Reminder - Robbins LLP",
+      "source": "GlobeNewswire",
+      "published_utc": "2026-09-30T00:58:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNelctNlNPQUxoSFpBZnEwMXQ5Vk05ZUExem5jTFBTYVY5VHVvSjFUTFR3U2VCLXk3TDNUV0RFQ0Q0d2g1dk9FLUJMdDMxU1IzZ285SEpFbzRyRzVBZ2tqVnFwdHpCT1M0eTljdWt6LXNEVFFmeDBQd3dxRkt4bV9hLUhYSHhnYzN5TU9jQ0xGV1FtalYwQjlxRkVTRTBvc1dqakhucUlTU3I4ejRlZ184VGhrT2MzdkJQa1p3MTQwcEYtcWRERW5KeTZ2UkgtU3hPeV83ZFl1NEFVQ244OHVxeVpIa0Rwc0YtbEVZOGQ2MFF3b3VBSm50Q252c25BbU9pOXZUY2o5MlBzLVNiWWdqTmpsbjl6T3F0NlMtbm9MRkRJelgzTy1uVjgzYjloUm5M?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.25,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Nifty Bank Live | NSE Nifty Bank Index Today - S&P CNX Nifty Bank",
+      "source": "The Economic Times",
+      "published_utc": "2026-09-29T23:41:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UWDgzbm9jRDVIMnYwdGNtY3NVVjdsSFhob2hXLVl1dDItVHp6SFBaaGY5M2NVeGszYm44bVVPTWc4bXF5dDU2eEJReGNuNUxiZ1ZLeTNBT1V1cEpiMEt3VjhJU0lsTE40Qm4yLUlEOWF2Rm8?oc=5",
+      "relevant": false,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "Apple Pay Reportedly Set to Launch in India With Just One Bank Partner",
+      "source": "AndroidPure",
+      "published_utc": "2026-09-29T23:24:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZWGgzaUVYUjFiUkllbWZncXU5Vjl1cmo0MXQ0NHVsUmh0anpBdFVXSldBcUU4cDVZQ0h2UF9JYjR5Zk5kREhLZnZ0d0x3WDkxSjgzMXpkRHE5T2NvbmxJSTVZY2RmTG9PLVNQRWxXcm0?oc=5",
+      "relevant": false,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "keywords"
+    },
+    {
+      "title": "HDFC BANK LAWSUIT ALERT: Bragar Eagel & Squire, P.C.",
+      "source": "GlobeNewswire",
+      "published_utc": "2026-09-29T23:07:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQWm1ZSGZ4UVhWX3M0UzJwc3NVWm1rRkNQUDZ6NFF4SXNSUWZ0dGV2VzlpNFhXYW94VlJYS01aNTZ4MW1PYjZuR1JIdmxjczNrWVhOVGZ4RG5SbFFQWmZya2RkMFVveEpJQTFGdG5SRENTRG9kaVVUSzRDSEY2VVV6bGUtUXhaalVKM0k5R3d5ci16djJLX0hXdXIwTGRjejdTaThFVl9uMWEyUWhfeWU1VFBtQXpZMDVkMDZ1YTRzU2N1M21qc241eEtMUjNKdTE1VThHV0djZ2VHaS1hVVdBUEotMWF2R2s3bldVQUpJZVZqOTdQTmgtbWtMNmN6UVF5dEc3b0VPblBqWC1VbHR4bEtIXzZzRTBJWUkycHg2LUllcExDZVdudTFUVDRtOUVtcjdJRUxOVTFQSDZqdmgwWnVZdE9KbElQbFFudW1RXzNJNHdmRVQyMkd3?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.25,
+      "scorer": "keywords"
+    }
+  ],
+  "signal": {
+    "score": -0.633,
+    "strength": 1.0,
+    "material_count": 3,
+    "view": -0.633
+  },
+  "scorer": "keywords",
+  "fetched_utc": "2026-09-30T20:13:44.707267+00:00"
+}
