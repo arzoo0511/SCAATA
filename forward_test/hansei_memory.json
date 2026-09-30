@@ -127,66 +127,6 @@
       "judged": false
     },
     {
-      "date": "2026-09-29",
-      "symbol": "HDFCBANK.NS",
-      "views": {
-        "trend": -0.859,
-        "volatility": -0.034,
-        "momentum": -0.262,
-        "news": -0.566
-      },
-      "close": 722.7000122070312,
-      "judged": false
-    },
-    {
-      "date": "2026-09-29",
-      "symbol": "ICICIBANK.NS",
-      "views": {
-        "trend": -0.454,
-        "volatility": -0.0,
-        "momentum": 0.879,
-        "news": -0.521
-      },
-      "close": 1292.199951171875,
-      "judged": false
-    },
-    {
-      "date": "2026-09-29",
-      "symbol": "PETRONET.NS",
-      "views": {
-        "trend": 0.157,
-        "volatility": -0.0,
-        "momentum": 0.86,
-        "news": 0.202
-      },
-      "close": 282.95001220703125,
-      "judged": false
-    },
-    {
-      "date": "2026-09-29",
-      "symbol": "IOC.NS",
-      "views": {
-        "trend": -0.866,
-        "volatility": -0.0,
-        "momentum": 0.301,
-        "news": 0.0
-      },
-      "close": 131.3300018310547,
-      "judged": false
-    },
-    {
-      "date": "2026-09-29",
-      "symbol": "ITC.NS",
-      "views": {
-        "trend": -0.873,
-        "volatility": -0.0,
-        "momentum": -0.599,
-        "news": 0.0
-      },
-      "close": 265.1000061035156,
-      "judged": false
-    },
-    {
       "date": "2026-09-28",
       "symbol": "HDFCBANK.NS",
       "views": {
@@ -244,6 +184,66 @@
         "news": 0.0
       },
       "close": 265.20001220703125,
+      "judged": false
+    },
+    {
+      "date": "2026-09-29",
+      "symbol": "HDFCBANK.NS",
+      "views": {
+        "trend": -0.859,
+        "volatility": -0.034,
+        "momentum": -0.262,
+        "news": -0.566
+      },
+      "close": 722.7000122070312,
+      "judged": false
+    },
+    {
+      "date": "2026-09-29",
+      "symbol": "ICICIBANK.NS",
+      "views": {
+        "trend": -0.454,
+        "volatility": -0.0,
+        "momentum": 0.879,
+        "news": -0.563
+      },
+      "close": 1292.199951171875,
+      "judged": false
+    },
+    {
+      "date": "2026-09-29",
+      "symbol": "PETRONET.NS",
+      "views": {
+        "trend": 0.157,
+        "volatility": -0.0,
+        "momentum": 0.86,
+        "news": 0.208
+      },
+      "close": 282.95001220703125,
+      "judged": false
+    },
+    {
+      "date": "2026-09-29",
+      "symbol": "IOC.NS",
+      "views": {
+        "trend": -0.866,
+        "volatility": -0.0,
+        "momentum": 0.301,
+        "news": 0.092
+      },
+      "close": 131.3300018310547,
+      "judged": false
+    },
+    {
+      "date": "2026-09-29",
+      "symbol": "ITC.NS",
+      "views": {
+        "trend": -0.873,
+        "volatility": -0.0,
+        "momentum": -0.599,
+        "news": 0.0
+      },
+      "close": 265.1000061035156,
       "judged": false
     }
   ],
