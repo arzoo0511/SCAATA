@@ -1203,5 +1203,321 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-09-30",
+    "ran_utc": "2026-09-30T16:31:29.638328+00:00",
+    "equity": 9965.34,
+    "benchmark_equity": 9861.62,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.479,
+        "target_exposure": 0.041,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.90, trusted 25%)",
+          "news against (-0.57, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.903,
+          "volatility": -0.06,
+          "momentum": -0.388,
+          "news": -0.566
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.014,
+        "target_exposure": 1.0,
+        "current_exposure": 0.663,
+        "action": "BUY",
+        "reasons": [
+          "Adding to ICICIBANK: 66% -> 100% of its share",
+          "momentum supportive (+0.83, trusted 25%)",
+          "news against (-0.56, trusted 25%)",
+          "material news overrode the waiting period"
+        ],
+        "views": {
+          "trend": -0.211,
+          "volatility": -0.0,
+          "momentum": 0.829,
+          "news": -0.563
+        },
+        "value": 1321.7
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.305,
+        "target_exposure": 1.0,
+        "current_exposure": 0.856,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 86%: no strong reason to change",
+          "momentum supportive (+0.79, trusted 25%)",
+          "trend supportive (+0.22, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.22,
+          "volatility": -0.0,
+          "momentum": 0.792,
+          "news": 0.208
+        },
+        "value": 1707.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.122,
+        "target_exposure": 0.756,
+        "current_exposure": 0.474,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 47%: no strong reason to change",
+          "trend against (-0.76, trusted 25%)",
+          "momentum supportive (+0.18, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.761,
+          "volatility": -0.0,
+          "momentum": 0.182,
+          "news": 0.092
+        },
+        "value": 944.51
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.333,
+        "target_exposure": 0.334,
+        "current_exposure": 0.0,
+        "action": "BUY",
+        "reasons": [
+          "Buying ITC: 0% -> 33% of its share",
+          "trend against (-0.89, trusted 25%)",
+          "momentum against (-0.44, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.89,
+          "volatility": -0.0,
+          "momentum": -0.442,
+          "news": 0.0
+        },
+        "value": 0.0
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.566,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": -0.566
+        },
+        "top": [
+          {
+            "title": "HDB Investors Have Opportunity to Lead HDFC Bank Limited Securities Fraud Lawsuit with SBS Law",
+            "source": "GlobeNewswire",
+            "sentiment": -0.828,
+            "material": 0.7,
+            "published_utc": "2026-09-29T16:31:00+00:00",
+            "count": 4
+          },
+          {
+            "title": "HDFC Bank shares dip, Q2 results due October 17",
+            "source": "tradingview.com",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-29T09:45:04+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank stock slipped nearly 2% before Q2 results",
+            "source": "NewsBytes",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-29T08:06:12+00:00",
+            "count": 1
+          },
+          {
+            "title": "Bombay High Court Quashes Reopening Notice in HDFC Bank Bad Debts Case \u2014 No Failure to Disclose Material Facts. Section 148 notice under Income Tax Act, 1961 set aside as reassessment based on change of opinion and lack of tangible material.",
+            "source": "Lawtext",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-28T23:52:18+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.563,
+          "strength": 1.0,
+          "material_count": 6,
+          "view": -0.563
+        },
+        "top": [
+          {
+            "title": "ICICI Bank Gold Loan Scam: Rs 23 Crore Fraud Uncovered as Fake Ornaments Found Across Nine Branches in Nagpur",
+            "source": "goodreturns.in",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-09-29T13:34:53+00:00",
+            "count": 1
+          },
+          {
+            "title": "SEBI Warns ICICI Bank for FPI Fund Repatriation Before Lock-in Period Ends",
+            "source": "scanx.trade",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-28T21:40:02+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank vs ICICI Bank vs Yes Bank: What To Expect From Bank Q4 Result Today? Check Details",
+            "source": "goodreturns.in",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-28T16:38:35+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank Discloses New \u20b916.76 Crore GST Demand from West Bengal Tax Authority",
+            "source": "TipRanks",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-28T10:31:09+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.208,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": 0.208
+        },
+        "top": [
+          {
+            "title": "Petronet LNG holds firm amid Hormuz crisis, brokerages bullish on Kochi ramp-up, Dahej expansion",
+            "source": "ET EnergyWorld",
+            "sentiment": 0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-29T07:42:42+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG MD Race: Interviews Likely on October 1, Five Names in Contention",
+            "source": "Indian PSU",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-29T05:45:59+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG shareholders approve \u20b93 final dividend for FY26 at 28th AGM",
+            "source": "scanx.trade",
+            "sentiment": 0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-28T16:11:37+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet to pay 1% of profit as commission to directors",
+            "source": "ETHRWorld.com",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-28T06:43:03+00:00",
+            "count": 5
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.092,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": 0.092
+        },
+        "top": [
+          {
+            "title": "IOCL stock reports revenue growth as Q1 loss deepens",
+            "source": "AD HOC NEWS",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-29T16:58:53+00:00",
+            "count": 1
+          },
+          {
+            "title": "Bengal CM assures Indian Oil of facilitating land for its expansion plan in Haldia",
+            "source": "manufacturing.economictimes.indiatimes.com",
+            "sentiment": 0.368,
+            "material": 0.7,
+            "published_utc": "2026-09-29T13:05:26+00:00",
+            "count": 4
+          },
+          {
+            "title": "Indian Oil, IndiGo, Asian Paints: Oil-sensitive stocks fall as crude prices jump due to Trump's peace deal rejection",
+            "source": "Upstox",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-28T05:17:47+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil sets Aug 24 cutoff for AGM voting on \u20b925,800 crore deal",
+            "source": "scanx.trade",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-27T09:23:31+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.0,
+          "strength": 0.807,
+          "material_count": 3,
+          "view": 0.0
+        },
+        "top": [
+          {
+            "title": "ITC Acquires Remaining Stake in Yoga Bar Parent Sproutlife Foods for Rs 645 Cr",
+            "source": "techstory.in",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-29T13:00:26+00:00",
+            "count": 6
+          },
+          {
+            "title": "ITC In Focus: Cigarette Profit Recovery, Fresh Launches Key Triggers Ahead, Says HDFC Securities \u2014 Check Target Price",
+            "source": "ndtvprofit.com",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-29T02:12:50+00:00",
+            "count": 2
+          },
+          {
+            "title": "Buy, Sell Or Hold: NSE, Pricol, ITC, Rolex Rings \u2014 Ask Profit",
+            "source": "ndtvprofit.com",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-28T06:27:34+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]
