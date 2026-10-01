@@ -1176,281 +1176,6 @@
     }
   },
   {
-    "session": "2026-09-30",
-    "ran_utc": "2026-10-01T09:10:43.374933+00:00",
-    "equity": 9959.77,
-    "benchmark_equity": 9861.63,
-    "filled": [],
-    "decisions": [
-      {
-        "symbol": "HDFCBANK.NS",
-        "score": -0.496,
-        "target_exposure": 0.008,
-        "current_exposure": 0.0,
-        "action": "HOLD",
-        "reasons": [
-          "Holding at 0%: no strong reason to change",
-          "trend against (-0.90, trusted 25%)",
-          "news against (-0.63, trusted 25%)"
-        ],
-        "views": {
-          "trend": -0.903,
-          "volatility": -0.06,
-          "momentum": -0.388,
-          "news": -0.633
-        },
-        "value": 0.0
-      },
-      {
-        "symbol": "ICICIBANK.NS",
-        "score": 0.084,
-        "target_exposure": 1.0,
-        "current_exposure": 0.664,
-        "action": "HOLD",
-        "reasons": [
-          "Would move to 100% but traded 3 session(s) ago -- waiting",
-          "momentum supportive (+0.83, trusted 25%)",
-          "news against (-0.28, trusted 25%)"
-        ],
-        "views": {
-          "trend": -0.211,
-          "volatility": -0.0,
-          "momentum": 0.829,
-          "news": -0.281
-        },
-        "value": 1321.7
-      },
-      {
-        "symbol": "PETRONET.NS",
-        "score": 0.29,
-        "target_exposure": 1.0,
-        "current_exposure": 0.857,
-        "action": "HOLD",
-        "reasons": [
-          "Holding at 86%: no strong reason to change",
-          "momentum supportive (+0.79, trusted 25%)",
-          "trend supportive (+0.22, trusted 25%)"
-        ],
-        "views": {
-          "trend": 0.22,
-          "volatility": -0.0,
-          "momentum": 0.792,
-          "news": 0.149
-        },
-        "value": 1707.0
-      },
-      {
-        "symbol": "IOC.NS",
-        "score": -0.13,
-        "target_exposure": 0.741,
-        "current_exposure": 0.474,
-        "action": "HOLD",
-        "reasons": [
-          "Holding at 47%: no strong reason to change",
-          "trend against (-0.76, trusted 25%)",
-          "momentum supportive (+0.18, trusted 25%)"
-        ],
-        "views": {
-          "trend": -0.761,
-          "volatility": -0.0,
-          "momentum": 0.182,
-          "news": 0.061
-        },
-        "value": 944.51
-      },
-      {
-        "symbol": "ITC.NS",
-        "score": -0.344,
-        "target_exposure": 0.312,
-        "current_exposure": 0.264,
-        "action": "HOLD",
-        "reasons": [
-          "Holding at 26%: no strong reason to change",
-          "trend against (-0.89, trusted 25%)",
-          "momentum against (-0.44, trusted 25%)"
-        ],
-        "views": {
-          "trend": -0.89,
-          "volatility": -0.0,
-          "momentum": -0.442,
-          "news": -0.043
-        },
-        "value": 525.5
-      }
-    ],
-    "weights": {
-      "trend": 0.25,
-      "volatility": 0.25,
-      "momentum": 0.25,
-      "news": 0.25
-    },
-    "lessons_learned": 0,
-    "news": {
-      "HDFCBANK.NS": {
-        "signal": {
-          "score": -0.633,
-          "strength": 1.0,
-          "material_count": 3,
-          "view": -0.633
-        },
-        "top": [
-          {
-            "title": "HDFC Bank Limited (HDB) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-            "source": "PR Newswire",
-            "sentiment": -1.0,
-            "material": 0.7,
-            "published_utc": "2026-09-30T17:15:00+00:00",
-            "count": 1
-          },
-          {
-            "title": "Ludhiana consumer panel orders HDFC Bank to unfreeze account blocked since 2023 over Rs 2,038 fraud alert",
-            "source": "The Tribune",
-            "sentiment": -0.5,
-            "material": 0.7,
-            "published_utc": "2026-09-30T12:43:33+00:00",
-            "count": 1
-          },
-          {
-            "title": "HDFC Bank Limited Securities Fraud Class Action Result of Deceptive Interest Payments and Approximately 4% Stock Decline - Investors may Contact Lewis Kahn, Esq, at Kahn Swick & Foti, LLC",
-            "source": "FinancialContent",
-            "sentiment": -1.0,
-            "material": 0.7,
-            "published_utc": "2026-09-30T02:01:00+00:00",
-            "count": 1
-          }
-        ]
-      },
-      "ICICIBANK.NS": {
-        "signal": {
-          "score": -0.281,
-          "strength": 1.0,
-          "material_count": 1,
-          "view": -0.281
-        },
-        "top": [
-          {
-            "title": "Delhi HC orders ICICI bank to reverse Rs 3.89 lakh mistakenly transferred to wrong beneficiary",
-            "source": "The Statesman",
-            "sentiment": -0.208,
-            "material": 0.7,
-            "published_utc": "2026-09-30T10:41:20+00:00",
-            "count": 3
-          }
-        ]
-      },
-      "PETRONET.NS": {
-        "signal": {
-          "score": 0.149,
-          "strength": 1.0,
-          "material_count": 4,
-          "view": 0.149
-        },
-        "top": [
-          {
-            "title": "Petronet to Pay 1 Per Cent Profit Commission to Directors",
-            "source": "Construction World",
-            "sentiment": 0.0,
-            "material": 0.7,
-            "published_utc": "2026-09-30T07:24:07+00:00",
-            "count": 3
-          },
-          {
-            "title": "Petronet LNG holds firm amid Hormuz crisis, brokerages bullish on Kochi ramp-up, Dahej expansion",
-            "source": "ET EnergyWorld",
-            "sentiment": 0.5,
-            "material": 0.7,
-            "published_utc": "2026-09-29T07:42:42+00:00",
-            "count": 1
-          },
-          {
-            "title": "Petronet LNG MD Race: Interviews Likely on October 1, Five Names in Contention",
-            "source": "Indian PSU",
-            "sentiment": 0.0,
-            "material": 0.7,
-            "published_utc": "2026-09-29T05:45:59+00:00",
-            "count": 1
-          },
-          {
-            "title": "Petronet LNG shareholders approve \u20b93 final dividend for FY26 at 28th AGM",
-            "source": "scanx.trade",
-            "sentiment": 0.5,
-            "material": 0.7,
-            "published_utc": "2026-09-28T16:11:37+00:00",
-            "count": 1
-          }
-        ]
-      },
-      "IOC.NS": {
-        "signal": {
-          "score": 0.061,
-          "strength": 1.0,
-          "material_count": 3,
-          "view": 0.061
-        },
-        "top": [
-          {
-            "title": "Dividend income at risk? 8 stocks with inconsistent dividend payout: Indian Oil, Sanofi India, UTI AMC, and more",
-            "source": "TradingView",
-            "sentiment": 0.5,
-            "material": 0.7,
-            "published_utc": "2026-09-30T15:50:25+00:00",
-            "count": 1
-          },
-          {
-            "title": "Indian Oil\u2019s Gujarat refinery to start polypropylene production by FY-end",
-            "source": "financialexpress.com",
-            "sentiment": -0.5,
-            "material": 0.7,
-            "published_utc": "2026-09-30T12:25:34+00:00",
-            "count": 2
-          },
-          {
-            "title": "Bengal CM assures Indian Oil of facilitating land for its expansion plan in Haldia",
-            "source": "ET Manufacturing",
-            "sentiment": 0.368,
-            "material": 0.7,
-            "published_utc": "2026-09-29T13:05:26+00:00",
-            "count": 4
-          }
-        ]
-      },
-      "ITC.NS": {
-        "signal": {
-          "score": -0.05,
-          "strength": 0.863,
-          "material_count": 3,
-          "view": -0.043
-        },
-        "top": [
-          {
-            "title": "ITC completes 100% acquisition of Yoga Bar parent Sproutlife Foods for \u20b9645 crore",
-            "source": "India Retailing",
-            "sentiment": 0.0,
-            "material": 0.7,
-            "published_utc": "2026-09-30T10:09:27+00:00",
-            "count": 7
-          },
-          {
-            "title": "ITC In Focus: Cigarette Profit Recovery, Fresh Launches Key Triggers Ahead, Says HDFC Securities \u2014 Check Target Price",
-            "source": "NDTV Profit",
-            "sentiment": 0.0,
-            "material": 0.7,
-            "published_utc": "2026-09-29T15:02:47+00:00",
-            "count": 2
-          },
-          {
-            "title": "Buy, Sell Or Hold: NSE, Pricol, ITC, Rolex Rings \u2014 Ask Profit",
-            "source": "NDTV Profit",
-            "sentiment": 0.0,
-            "material": 0.7,
-            "published_utc": "2026-09-28T06:27:34+00:00",
-            "count": 1
-          }
-        ]
-      }
-    }
-  },
-  {
     "session": "2026-10-01",
     "ran_utc": "2026-10-01T17:09:18.635290+00:00",
     "equity": 9916.53,
@@ -1719,6 +1444,289 @@
             "sentiment": 0.0,
             "material": 0.7,
             "published_utc": "2026-09-28T06:27:34+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "session": "2026-09-30",
+    "ran_utc": "2026-10-01T20:26:08.710535+00:00",
+    "equity": 9960.46,
+    "benchmark_equity": 9861.64,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.509,
+        "target_exposure": 0.0,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.90, trusted 25%)",
+          "news against (-0.68, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.903,
+          "volatility": -0.06,
+          "momentum": -0.388,
+          "news": -0.683
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.055,
+        "target_exposure": 1.0,
+        "current_exposure": 0.663,
+        "action": "HOLD",
+        "reasons": [
+          "Would move to 100% but traded 3 session(s) ago -- waiting",
+          "momentum supportive (+0.83, trusted 25%)",
+          "news against (-0.40, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.211,
+          "volatility": -0.0,
+          "momentum": 0.829,
+          "news": -0.397
+        },
+        "value": 1321.7
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.283,
+        "target_exposure": 1.0,
+        "current_exposure": 0.857,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 86%: no strong reason to change",
+          "momentum supportive (+0.79, trusted 25%)",
+          "trend supportive (+0.22, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.22,
+          "volatility": -0.0,
+          "momentum": 0.792,
+          "news": 0.118
+        },
+        "value": 1707.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.137,
+        "target_exposure": 0.727,
+        "current_exposure": 0.474,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 47%: no strong reason to change",
+          "trend against (-0.76, trusted 25%)",
+          "momentum supportive (+0.18, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.761,
+          "volatility": -0.0,
+          "momentum": 0.182,
+          "news": 0.033
+        },
+        "value": 944.51
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.338,
+        "target_exposure": 0.325,
+        "current_exposure": 0.264,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "trend against (-0.89, trusted 25%)",
+          "momentum against (-0.44, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.89,
+          "volatility": -0.0,
+          "momentum": -0.442,
+          "news": -0.019
+        },
+        "value": 525.5
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.683,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": -0.683
+        },
+        "top": [
+          {
+            "title": "HDFC Bank CEO salary per month: Check renumeration of FY 2026",
+            "source": "TradingView",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-10-01T19:34:49+00:00",
+            "count": 1
+          },
+          {
+            "title": "RBI clears Anup Bagchi\u2019s appointment as HDFC Bank CEO in flat 20 days",
+            "source": "The New Indian Express",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-10-01T18:32:30+00:00",
+            "count": 31
+          },
+          {
+            "title": "Top 10@10 | D-Street\u2019s losing streak hits 8 weeks, HDFC Bank and Kotak get new CEOs, Tata Trusts flag concerns",
+            "source": "LinkedIn",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-01T16:30:57+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDB Investors Have Opportunity to Lead HDFC Bank Limited Securities Fraud Lawsuit with SBS Law",
+            "source": "GlobeNewswire",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-01T14:29:50+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.5,
+          "strength": 0.793,
+          "material_count": 1,
+          "view": -0.397
+        },
+        "top": [
+          {
+            "title": "ICICI Bank: The CEO Factory",
+            "source": "Moneycontrol.com",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-10-01T15:24:15+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.118,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": 0.118
+        },
+        "top": [
+          {
+            "title": "Petronet LNG MD & CEO Akshay Kumar Singh Inaugurates \u2018Urja Udyan\u2019 at Kochi LNG Terminal",
+            "source": "Indianmasterminds",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-10-01T09:10:42+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet to Pay 1 Per Cent Profit Commission to Directors",
+            "source": "Construction World",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-30T07:24:07+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG holds firm amid Hormuz crisis, brokerages bullish on Kochi ramp-up, Dahej expansion",
+            "source": "energy.economictimes.indiatimes.com",
+            "sentiment": 0.5,
+            "material": 0.7,
+            "published_utc": "2026-09-29T07:42:42+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG MD Race: Interviews Today, Five Names in Contention",
+            "source": "Indian PSU",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-29T05:47:12+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.033,
+          "strength": 1.0,
+          "material_count": 7,
+          "view": 0.033
+        },
+        "top": [
+          {
+            "title": "Indian Oil Refiners Take Control of Hormuz Shipments to Cut Costs",
+            "source": "urbanacres.in",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-10-01T15:35:13+00:00",
+            "count": 2
+          },
+          {
+            "title": "Indian Oil Plans Packaged Drinking Water Launch Across 43,000 Outlets To Boost Non-Fuel Revenue",
+            "source": "Sahi",
+            "sentiment": 0.298,
+            "material": 0.7,
+            "published_utc": "2026-10-01T12:47:06+00:00",
+            "count": 4
+          },
+          {
+            "title": "Indian Oil\u2019s Gujarat Refinery Expansion Targets 18 MMTPA by FY27-End",
+            "source": "Indian PSU",
+            "sentiment": -0.167,
+            "material": 0.7,
+            "published_utc": "2026-10-01T12:38:16+00:00",
+            "count": 3
+          },
+          {
+            "title": "Indian oil refiners hiring oil tankers to transit Strait of Hormuz in change of tack",
+            "source": "ThePrint",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-10-01T10:38:58+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": -0.023,
+          "strength": 0.802,
+          "material_count": 2,
+          "view": -0.019
+        },
+        "top": [
+          {
+            "title": "ITC completes 100% acquisition of Yoga Bar parent Sproutlife Foods for \u20b9645 crore",
+            "source": "India Retailing",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-30T10:09:27+00:00",
+            "count": 6
+          },
+          {
+            "title": "ITC In Focus: Cigarette Profit Recovery, Fresh Launches Key Triggers Ahead, Says HDFC Securities \u2014 Check Target Price",
+            "source": "NDTV Profit",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-09-29T02:12:50+00:00",
             "count": 1
           }
         ]
