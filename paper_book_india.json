@@ -9,7 +9,7 @@
     "ITC.NS"
   ],
   "sleeve": 2000.0,
-  "cash": 5461.749141200012,
+  "cash": 5462.436451029244,
   "positions": {
     "ICICIBANK.NS": {
       "qty": 1,
@@ -109,14 +109,14 @@
     },
     {
       "date": "2026-10-01",
-      "equity": 9916.53,
-      "benchmark_equity": 9773.23,
-      "cash": 5461.75,
+      "equity": 9917.22,
+      "benchmark_equity": 9773.24,
+      "cash": 5462.44,
       "holdings": 4
     }
   ],
   "benchmark": {
-    "cash": 81.06614800504241,
+    "cash": 81.07634941834453,
     "positions": {
       "HDFCBANK.NS": {
         "qty": 2,
@@ -142,7 +142,7 @@
     "started": true,
     "started_on": "2026-09-24"
   },
-  "cash_accrued_through": "2026-09-30",
-  "last_session": "2026-09-30",
-  "last_run_utc": "2026-10-01T20:26:08.710535+00:00"
+  "cash_accrued_through": "2026-10-01",
+  "last_session": "2026-10-01",
+  "last_run_utc": "2026-10-02T08:43:46.699743+00:00"
 }
