@@ -9,23 +9,23 @@
     "ITC.NS"
   ],
   "sleeve": 2000.0,
-  "cash": 5462.436451029244,
+  "cash": 5472.593464505416,
   "positions": {
     "ICICIBANK.NS": {
       "qty": 1,
       "avg_price": 1332.9000244140625
     },
+    "PETRONET.NS": {
+      "qty": 6,
+      "avg_price": 285.3500061035156
+    },
     "IOC.NS": {
       "qty": 7,
       "avg_price": 136.5
     },
-    "PETRONET.NS": {
-      "qty": 6,
-      "avg_price": 286.95001220703125
-    },
     "ITC.NS": {
       "qty": 2,
-      "avg_price": 265.45001220703125
+      "avg_price": 262.70001220703125
     }
   },
   "pending": [],
@@ -42,33 +42,33 @@
     },
     {
       "date": "2026-09-25",
+      "symbol": "PETRONET.NS",
+      "action": "BUY",
+      "qty": 6,
+      "price": 285.3500061035156,
+      "cost": 2.76,
+      "reason": "Buying PETRONET: 0% -> 100% of its share; momentum supportive (+0.85, trusted 25%); trend supportive (+0.32, trusted 25%)",
+      "cash_after": 6951.35
+    },
+    {
+      "date": "2026-09-25",
       "symbol": "IOC.NS",
       "action": "BUY",
       "qty": 7,
       "price": 136.5,
       "cost": 1.54,
       "reason": "Buying IOC: 0% -> 50% of its share; trend against (-0.73, trusted 25%); news against (-0.42, trusted 25%)",
-      "cash_after": 7709.17
+      "cash_after": 5994.31
     },
     {
-      "date": "2026-09-28",
-      "symbol": "PETRONET.NS",
-      "action": "BUY",
-      "qty": 6,
-      "price": 286.95001220703125,
-      "cost": 2.77,
-      "reason": "Buying PETRONET: 0% -> 100% of its share; momentum supportive (+0.85, trusted 25%); news against (-0.35, trusted 25%)",
-      "cash_after": 5987.61
-    },
-    {
-      "date": "2026-09-29",
+      "date": "2026-10-01",
       "symbol": "ITC.NS",
       "action": "BUY",
       "qty": 2,
-      "price": 265.45001220703125,
-      "cost": 0.86,
+      "price": 262.70001220703125,
+      "cost": 0.85,
       "reason": "Buying ITC: 0% -> 33% of its share; trend against (-0.89, trusted 25%); momentum against (-0.44, trusted 25%)",
-      "cash_after": 5460.37
+      "cash_after": 5472.59
     }
   ],
   "equity_history": [
@@ -81,42 +81,42 @@
     },
     {
       "date": "2026-09-25",
-      "equity": 9983.31,
-      "benchmark_equity": 9994.08,
-      "cash": 5987.61,
+      "equity": 9990.01,
+      "benchmark_equity": 9994.05,
+      "cash": 5994.31,
       "holdings": 3
     },
     {
       "date": "2026-09-28",
-      "equity": 9964.96,
-      "benchmark_equity": 9874.96,
-      "cash": 5990.62,
+      "equity": 9970.92,
+      "benchmark_equity": 9874.91,
+      "cash": 5996.58,
       "holdings": 3
     },
     {
       "date": "2026-09-29",
-      "equity": 9899.78,
-      "benchmark_equity": 9785.82,
-      "cash": 5460.37,
-      "holdings": 4
+      "equity": 9906.54,
+      "benchmark_equity": 9785.76,
+      "cash": 5997.33,
+      "holdings": 3
     },
     {
       "date": "2026-09-30",
-      "equity": 9960.46,
-      "benchmark_equity": 9861.64,
-      "cash": 5461.75,
-      "holdings": 4
+      "equity": 9971.3,
+      "benchmark_equity": 9861.57,
+      "cash": 5998.09,
+      "holdings": 3
     },
     {
       "date": "2026-10-01",
-      "equity": 9917.22,
-      "benchmark_equity": 9773.24,
-      "cash": 5462.44,
+      "equity": 9927.37,
+      "benchmark_equity": 9773.18,
+      "cash": 5472.59,
       "holdings": 4
     }
   ],
   "benchmark": {
-    "cash": 81.07634941834453,
+    "cash": 81.01516018915974,
     "positions": {
       "HDFCBANK.NS": {
         "qty": 2,
@@ -144,5 +144,5 @@
   },
   "cash_accrued_through": "2026-10-01",
   "last_session": "2026-10-01",
-  "last_run_utc": "2026-10-02T08:43:46.699743+00:00"
+  "last_run_utc": "2026-10-03T06:40:30.123795+00:00"
 }

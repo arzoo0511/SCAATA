@@ -188,6 +188,15 @@ def test_same_session_is_never_processed_twice(paths):
     assert again["skipped"] is True
 
 
+def test_an_older_session_never_replays_over_a_newer_book(paths):
+    from scaata.agent.daily import load_journal
+
+    run_day(date(2026, 1, 2), prices=_prices(301), news_fn=_quiet_news, **paths)
+    stale = run_day(date(2026, 1, 2), prices=_prices(300), news_fn=_quiet_news, **paths)
+    assert stale["skipped"] is True
+    assert len(load_journal(paths["journal_path"])) == 1
+
+
 def test_next_session_fills_at_the_open_and_writes_the_journal(paths):
     from scaata.agent.daily import load_journal
 

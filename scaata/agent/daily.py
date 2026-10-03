@@ -92,7 +92,9 @@ def run_day(today: date | None = None, prices: pd.DataFrame | None = None, news_
     session_day = session.date()
 
     book = load_book(book_path) or new_book(list(INDIA_TICKERS))
-    if book.get("last_session") == session_day.isoformat():
+    # Never step backwards: after midnight IST Yahoo can briefly drop the last
+    # finished bar, which would replay an older session over a newer book.
+    if book.get("last_session") and book["last_session"] >= session_day.isoformat():
         return {"skipped": True, "session": session_day.isoformat(),
                 "reason": "this session was already processed", "summary": summary(book)}
 
