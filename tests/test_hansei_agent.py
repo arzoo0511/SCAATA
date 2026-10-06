@@ -197,6 +197,31 @@ def test_an_older_session_never_replays_over_a_newer_book(paths):
     assert len(load_journal(paths["journal_path"])) == 1
 
 
+def test_a_zero_volume_holiday_bar_is_not_a_session(paths):
+    prices = _prices(300)
+    last = prices.index.max()
+    holiday = prices.loc[prices.index == last].copy()
+    holiday.index = holiday.index + pd.Timedelta(days=1)
+    holiday["Volume"] = 0
+    result = run_day(date(2026, 1, 1), prices=pd.concat([prices, holiday]), news_fn=_quiet_news, **paths)
+    assert result["session"] == last.date().isoformat()
+
+
+def test_a_late_run_ignores_news_from_after_the_next_open(paths):
+    from datetime import datetime, timezone
+
+    session = _prices(300).index.max()                       # a weekday; the next open is 09:15 IST after it
+    after_open = (session + pd.Timedelta(days=3)).tz_localize("UTC").isoformat()
+    def late_news(symbol, on=None):
+        headline = {"title": "huge news", "relevant": True, "sentiment": 1.0, "material": 1.0,
+                    "published_utc": after_open, "scorer": "keywords"}
+        return {"signal": {"view": 1.0, "score": 1.0, "strength": 1.0, "material_count": 1},
+                "headlines": [headline]}
+    now = (session + pd.Timedelta(days=4)).tz_localize("UTC").to_pydatetime()
+    result = run_day(date(2026, 1, 1), prices=_prices(300), news_fn=late_news, now=now, **paths)
+    assert all(d["views"]["news"] == 0.0 for d in result["decisions"])
+
+
 def test_next_session_fills_at_the_open_and_writes_the_journal(paths):
     from scaata.agent.daily import load_journal
 
@@ -266,3 +291,11 @@ def test_liquid_yield_uses_the_nearest_known_year():
     from scaata.live.paper_book import LIQUID_FUND_YIELD, liquid_yield
     assert liquid_yield(2031) == LIQUID_FUND_YIELD[max(LIQUID_FUND_YIELD)]
     assert liquid_yield(2010) == LIQUID_FUND_YIELD[min(LIQUID_FUND_YIELD)]
+
+
+def test_weekdays_behind_counts_only_unprocessed_weekdays():
+    from scaata.agent.daily import weekdays_behind
+
+    assert weekdays_behind("2026-10-05", date(2026, 10, 6)) == 0    # Monday done, Tuesday
+    assert weekdays_behind("2026-10-02", date(2026, 10, 6)) == 1    # Friday done; Monday missing
+    assert weekdays_behind("2026-09-25", date(2026, 10, 6)) == 6

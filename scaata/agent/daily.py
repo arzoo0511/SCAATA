@@ -30,7 +30,7 @@ from pathlib import Path
 import pandas as pd
 
 from scaata.agent import advisors, brain, memory as mem
-from scaata.agent.news import gather, stories
+from scaata.agent.news import gather, news_signal, stories
 from scaata.config import INDIA_TICKERS, ROOT_DIR
 from scaata.live.paper_book import (
     BOOK_PATH, accrue_cash_yield, execute_pending, load_book, mark_to_market, new_book, queue_target, save_book,
@@ -41,7 +41,9 @@ JOURNAL_PATH = ROOT_DIR / "forward_test" / "hansei_journal.json"
 HISTORY_START = "2019-01-01"   # enough for the 200-day and 252-day windows
 IST = timezone(timedelta(hours=5, minutes=30))
 SETTLED = (15, 45)             # NSE closes 15:30 IST; after this, today's bar is final
+NEXT_OPEN = (9, 15)            # NSE opens 09:15 IST
 WATCHDOG_SECONDS = 20 * 60     # a stalled download must not hang the scheduled run forever
+STALE_WEEKDAYS = 4             # more weekdays than this unprocessed means HANSEI is stuck
 
 
 def load_journal(path: Path | None = None) -> list[dict]:
@@ -79,12 +81,30 @@ def _drop_unsettled_bar(frame: pd.DataFrame, now: datetime) -> pd.DataFrame:
     return frame
 
 
+def _next_open(session_day: date) -> datetime:
+    """When the orders decided on `session_day` fill: the next weekday's open."""
+    day = session_day + timedelta(days=1)
+    while day.weekday() >= 5:
+        day += timedelta(days=1)
+    return datetime(day.year, day.month, day.day, *NEXT_OPEN, tzinfo=IST)
+
+
+def _news_known_by(news: dict, symbol: str, cutoff: datetime, now: datetime) -> dict:
+    """A run that lands after the next open must not use news from after it:
+    those orders fill at that open. Keep only what was known then, aged to then."""
+    if now <= cutoff:
+        return news
+    kept = [h for h in news["headlines"] if datetime.fromisoformat(h["published_utc"]) <= cutoff]
+    return {**news, "headlines": kept, "signal": news_signal(kept, now=cutoff, symbol=symbol)}
+
+
 def run_day(today: date | None = None, prices: pd.DataFrame | None = None, news_fn=gather,
             book_path: Path | None = None, memory_path: Path | None = None,
             journal_path: Path | None = None, now: datetime | None = None) -> dict:
     now = now or datetime.now(timezone.utc)
     today = today or now.astimezone(IST).date()
     raw = prices if prices is not None else _fetch_prices(today)
+    raw = raw[raw["Volume"] > 0]   # Yahoo sometimes adds a flat, zero-volume bar on an NSE holiday
     closes = raw.reset_index().pivot_table(index="Date", columns="Ticker", values="Close").dropna(how="all")
     opens = raw.reset_index().pivot_table(index="Date", columns="Ticker", values="Open").dropna(how="all")
     closes, opens = _drop_unsettled_bar(closes, now), _drop_unsettled_bar(opens, now)
@@ -115,10 +135,11 @@ def run_day(today: date | None = None, prices: pd.DataFrame | None = None, news_
 
     # 4-5: news, views, decisions
     decisions, news_digest = [], {}
+    news_cutoff = _next_open(session_day)
     for symbol in INDIA_TICKERS:
         history = closes[symbol].dropna()
         try:
-            news = news_fn(symbol, on=today)
+            news = _news_known_by(news_fn(symbol, on=today), symbol, news_cutoff, now)
         except Exception as e:  # news must never stop the run
             print(f"{symbol}: news unavailable ({type(e).__name__}); deciding without it")
             news = {"signal": {"view": 0.0, "score": 0.0, "strength": 0.0, "material_count": 0}, "headlines": []}
@@ -155,6 +176,15 @@ def run_day(today: date | None = None, prices: pd.DataFrame | None = None, news_
     return result
 
 
+def weekdays_behind(last_session: str, today: date) -> int:
+    """Weekdays strictly between the last processed session and today."""
+    day, count = date.fromisoformat(last_session) + timedelta(days=1), 0
+    while day < today:
+        count += day.weekday() < 5
+        day += timedelta(days=1)
+    return count
+
+
 def main() -> None:
     import faulthandler
 
@@ -174,6 +204,10 @@ def main() -> None:
         print(f"  trust: " + ", ".join(f"{k} {v:.0%}" for k, v in result["weights"].items()))
     print(f"  HANSEI   ₹{s['equity']:,.2f} ({s['return']:+.2%})   buy&hold ₹{s['benchmark_equity']:,.2f} "
           f"({s['benchmark_return']:+.2%})   difference {s['vs_benchmark']:+.2%}")
+
+    behind = weekdays_behind(result["session"], datetime.now(IST).date())
+    if behind > STALE_WEEKDAYS:   # fail the scheduled run so GitHub emails about it
+        sys.exit(f"HANSEI is stuck: {behind} weekdays since session {result['session']} were never processed.")
 
 
 if __name__ == "__main__":
