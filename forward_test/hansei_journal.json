@@ -1997,5 +1997,265 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-06",
+    "ran_utc": "2026-10-06T16:57:02.666151+00:00",
+    "equity": 10061.16,
+    "benchmark_equity": 9981.37,
+    "filled": [
+      {
+        "date": "2026-10-06",
+        "symbol": "IOC.NS",
+        "action": "BUY",
+        "qty": 7,
+        "price": 131.0,
+        "cost": 1.48,
+        "reason": "Adding to IOC: 46% -> 98% of its share; trend against (-0.88, trusted 25%); news supportive (+0.71, trusted 25%); material news overrode the waiting period",
+        "cash_after": 4557.56
+      }
+    ],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.326,
+        "target_exposure": 0.347,
+        "current_exposure": 0.0,
+        "action": "BUY",
+        "reasons": [
+          "Buying HDFCBANK: 0% -> 35% of its share",
+          "trend against (-0.90, trusted 25%)",
+          "volatility against (-0.34, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.897,
+          "volatility": -0.338,
+          "momentum": -0.281,
+          "news": 0.211
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.214,
+        "target_exposure": 1.0,
+        "current_exposure": 0.667,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 67%: no strong reason to change",
+          "momentum supportive (+0.85, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.018,
+          "volatility": -0.0,
+          "momentum": 0.846,
+          "news": 0.03
+        },
+        "value": 1342.8
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.497,
+        "target_exposure": 1.0,
+        "current_exposure": 0.887,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 89%: no strong reason to change",
+          "momentum supportive (+0.76, trusted 25%)",
+          "trend supportive (+0.67, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.666,
+          "volatility": -0.0,
+          "momentum": 0.761,
+          "news": 0.56
+        },
+        "value": 1785.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": 0.009,
+        "target_exposure": 1.0,
+        "current_exposure": 0.916,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 92%: no strong reason to change",
+          "trend against (-0.86, trusted 25%)",
+          "news supportive (+0.65, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.856,
+          "volatility": -0.0,
+          "momentum": 0.239,
+          "news": 0.653
+        },
+        "value": 1842.4
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.376,
+        "target_exposure": 0.249,
+        "current_exposure": 0.265,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 27%: no strong reason to change",
+          "trend against (-0.85, trusted 25%)",
+          "momentum against (-0.47, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.854,
+          "volatility": -0.469,
+          "momentum": -0.475,
+          "news": 0.296
+        },
+        "value": 533.4
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.211,
+          "strength": 1.0,
+          "material_count": 9,
+          "view": 0.211
+        },
+        "top": [
+          {
+            "title": "HDFC Bank appoints Anup Bagchi as MD and CEO",
+            "source": "IBS Intelligence",
+            "sentiment": 0.742,
+            "material": 0.8,
+            "published_utc": "2026-10-06T02:05:07+00:00",
+            "count": 5
+          },
+          {
+            "title": "HDB Deadline: HDB Investors Have Opportunity to Lead HDFC Bank Limited Securities Fraud Lawsuit",
+            "source": "Morningstar",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-06T07:30:00+00:00",
+            "count": 2
+          },
+          {
+            "title": "HDFC BANK LAWSUIT ALERT: Bragar Eagel & Squire, P.C. Urges HDFC Bank Limited Investors to Contact the Firm Seeking Lead Plaintiff Role Before October 13th",
+            "source": "The Daily Tribune News",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-05T21:27:29+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Posts Double-Digit Growth in Advances and Deposits, Taps RBI FCNR(B) Window",
+            "source": "theglobeandmail.com",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-05T19:04:57+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.05,
+          "strength": 0.605,
+          "material_count": 0,
+          "view": 0.03
+        },
+        "top": []
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.745,
+          "strength": 0.752,
+          "material_count": 1,
+          "view": 0.56
+        },
+        "top": [
+          {
+            "title": "Petronet LNG names GAIL's Sanjay Kumar as next MD and CEO from May 2027",
+            "source": "PSU Watch",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-05T17:32:28+00:00",
+            "count": 14
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.653,
+          "strength": 1.0,
+          "material_count": 3,
+          "view": 0.653
+        },
+        "top": [
+          {
+            "title": "Indian Oil sets Aug 24 cutoff for AGM voting on \u20b925,800 crore deal",
+            "source": "scanx.trade",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-10-04T19:17:19+00:00",
+            "count": 1
+          },
+          {
+            "title": "High Court Quashes GST Appellate Order Against Indian Oil Corporation for Violation of Natural Justice \u2014 Pre-deposit Requirement Set Aside. Failure to Provide Personal Hearing and Reasoned Order Renders Appellate Order Unsustainable Under Section 1",
+            "source": "Lawtext",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-04T06:05:37+00:00",
+            "count": 1
+          },
+          {
+            "title": "Bengal CM Assures Indian Oil of Land for Haldia Expansion",
+            "source": "Construction World",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-10-05T13:54:48+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.431,
+          "strength": 0.688,
+          "material_count": 3,
+          "view": 0.296
+        },
+        "top": [
+          {
+            "title": "ITC Limited has acquired the remaining 52.5% stake in Sproutlife Foods Private Limited, the company behind healthy foods brand Yoga Bar, for about Rs 645 crore, completing its acquisition of the business. The FMCG company acquired 13,445 equity shares",
+            "source": "instagram.com",
+            "sentiment": 0.8,
+            "material": 0.8,
+            "published_utc": "2026-10-05T05:30:19+00:00",
+            "count": 1
+          },
+          {
+            "title": "ITC shares: Citi raises rating to 'Buy' despite headwinds, sees 17% upside; here's why",
+            "source": "Business Today",
+            "sentiment": 0.7,
+            "material": 0.6,
+            "published_utc": "2026-10-05T05:23:04+00:00",
+            "count": 1
+          },
+          {
+            "title": "Weekly Recap: Nomura keeps ITC top pick and cigarette EBIT, volumes fall",
+            "source": "TradingView",
+            "sentiment": -0.1,
+            "material": 0.5,
+            "published_utc": "2026-10-05T01:00:00+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]

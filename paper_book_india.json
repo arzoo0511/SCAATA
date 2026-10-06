@@ -9,7 +9,7 @@
     "ITC.NS"
   ],
   "sleeve": 2000.0,
-  "cash": 5475.348682470188,
+  "cash": 4557.560209431954,
   "positions": {
     "ICICIBANK.NS": {
       "qty": 1,
@@ -20,8 +20,8 @@
       "avg_price": 285.3500061035156
     },
     "IOC.NS": {
-      "qty": 7,
-      "avg_price": 136.5
+      "qty": 14,
+      "avg_price": 133.75
     },
     "ITC.NS": {
       "qty": 2,
@@ -30,11 +30,11 @@
   },
   "pending": [
     {
-      "symbol": "IOC.NS",
+      "symbol": "HDFCBANK.NS",
       "action": "TARGET",
-      "target_value": 1949.74,
-      "reason": "Adding to IOC: 46% -> 98% of its share; trend against (-0.88, trusted 25%); news supportive (+0.71, trusted 25%); material news overrode the waiting period",
-      "queued_on": "2026-10-05"
+      "target_value": 699.25,
+      "reason": "Buying HDFCBANK: 0% -> 35% of its share; trend against (-0.90, trusted 25%); volatility against (-0.34, trusted 25%)",
+      "queued_on": "2026-10-06"
     }
   ],
   "trades": [
@@ -77,6 +77,16 @@
       "cost": 0.85,
       "reason": "Buying ITC: 0% -> 33% of its share; trend against (-0.89, trusted 25%); momentum against (-0.44, trusted 25%)",
       "cash_after": 5472.59
+    },
+    {
+      "date": "2026-10-06",
+      "symbol": "IOC.NS",
+      "action": "BUY",
+      "qty": 7,
+      "price": 131.0,
+      "cost": 1.48,
+      "reason": "Adding to IOC: 46% -> 98% of its share; trend against (-0.88, trusted 25%); news supportive (+0.71, trusted 25%); material news overrode the waiting period",
+      "cash_after": 4557.56
     }
   ],
   "equity_history": [
@@ -128,10 +138,17 @@
       "benchmark_equity": 9893.96,
       "cash": 5475.35,
       "holdings": 4
+    },
+    {
+      "date": "2026-10-06",
+      "equity": 10061.16,
+      "benchmark_equity": 9981.37,
+      "cash": 4557.56,
+      "holdings": 4
     }
   ],
   "benchmark": {
-    "cash": 81.0559478753308,
+    "cash": 81.06614800504241,
     "positions": {
       "HDFCBANK.NS": {
         "qty": 2,
@@ -157,7 +174,7 @@
     "started": true,
     "started_on": "2026-09-24"
   },
-  "cash_accrued_through": "2026-10-05",
-  "last_session": "2026-10-05",
-  "last_run_utc": "2026-10-06T09:10:04.773821+00:00"
+  "cash_accrued_through": "2026-10-06",
+  "last_session": "2026-10-06",
+  "last_run_utc": "2026-10-06T16:57:02.666151+00:00"
 }
