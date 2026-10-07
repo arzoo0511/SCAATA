@@ -1,0 +1,414 @@
+{
+  "symbol": "IOC.NS",
+  "date": "2026-10-07",
+  "headlines": [
+    {
+      "title": "India\u2019s PP Market Set for a Major Supply Boost as Indian Oil Advances 500,000-Tonne Gujarat Plant",
+      "source": "ChemAnalyst",
+      "published_utc": "2026-10-07T11:11:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3YwUmlWamxLUFJTR0FVbC01YnJXQ25oYWMtRTVUbTFFdndudlJiMnM0aElHWjdORlRFenpvVTMzay1wYkRZSlZvekRhWFVMSlZoQTFrY0J3U1daYkhYallGT1puV01sYmRZbm0zZllqR2x5cEF0Y1BjemVicFVRc3VKeF9id2RGMVIxcFhKYXp2Z3pvSVZnN2FkRzN2SXU0dUtHYUFwZm9SYVNpRjFhNkttTzhmQnR1TFE?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Official Stabbed 7 Times At Maharashtra Petrol Pump He Tried To Seal",
+      "source": "NDTV",
+      "published_utc": "2026-10-07T10:59:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZTRwWU1tQ0hiZS1YYTNwUjJUQnQxb1Y5NHVEM2dQeDR4T3V5MFBNTTZFZlFLeVVYc1ZBQTFnejIxTEFtQTZrRUpLejRYOUR5bTVmc3dRN2hOMk9TUURlckx4QjNaWVo0Rkk4VElITmxoRnNLNWVqOGM2UmYwM1BqVXRxVVdwTlZPR2VmN1k4dFZPX3dEVVJLdExsWklVX2tZRlNyRmZuaUE1U2RGUWxQSE5VXzN2RG5xdEhxS9IBxAFBVV95cUxNU1lLQUl3WWtOdHlPeGNmcWl4aDlXdDhkQnhoUGMxbXRUd0RIa3hxcUtwVVlZby1qSVFsa1FDanNJUEpaM0YwUXQ5N3pkeWhmMmJUaDA5VW1OZ00yb3hFbGo1TGhtdi1jUkphRXUwVjYzcHlzTzF1Q0l0QTBZeDVfSUlHLU1CRk8td3ljMDNBSFpuZFJ0c2RGeTBnbFE1cjlNbE40TF9ZRUwtS1RYMTI1TEY4c3RXMDBvZHY0clNwdXBIUGJ3?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil field officer stabbed to death while sealing petrol pump in Maharashtra's Hingoli,",
+      "source": "Mid-Day",
+      "published_utc": "2026-10-07T10:08:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMVNKc0daQkVRX2ZEYkZDendKa3hUaE5Ob21GMmFjaXU1a2tEamU4V1BfdngtQWtLZm9BOEJlYWx6dDBoX2E1Y3otOGtYcXA1ZzVmSzVHNUFYZW04N3VqREFQeGJRT29SeU80dVBxdHgyRS1OS2hYNjhWc19yNGZpdVBWbTREaG4zM282VHRBRUtKNmJWMTZqQWRvdnVOcFk0V09LN01Dbk9iNkk0VUswV29HclJuc3BVWWlPTlIwZTUzbjN4c2JqZjVKaWtGQnRLVnd0V19EVGg4TUxLei1ETXpmaXVybXFqTGdQbEJCNnJ3bElVOWdCMDZZVVQwQ0NzUWtrX9IBigJBVV95cUxNX01PRVBHaVpVYWcydTlzRzU1T0xtVnNjbGdUdTRIaDdNZGhkYmVnd2dOdW9oblUxZGZLWDd0YjFiektNWjFNMzhsOGdqWHVXYmpxdXlIUVlkZWhqNDhuZ01NSlJ4SVZKNnNwUW80ajVFT1NJbjFKUlZoYjBFd3FRazQ0LXdRdk93el84ZWN2ZWRBT3JRbi1LMHc1ZGtRdkJucWF3VVlFVGxFclNjMHB0bUd5SWVDN18wcktHeklqQzdnMldIcV8zcXlzR2NXV3Jxa2xfanIzNENOYkJUdjNMN01oQXBKNEdfZDJXSDRGdWM0SVBoc0ZkTlZJcUJDZXJFb29LVk05Ym9yUQ?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil staff stabbed to death during petrol pump sealing in Maha; minister condemns | 'Issue has been taken up with senior officials' | Inshorts",
+      "source": "Inshorts",
+      "published_utc": "2026-10-07T09:42:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZnd1a1l2YzFfb2RhcTFtcER2LXNhd3pOYlZjdDFQRDRQUjVTa1BTYS1zY0FucVdBc2U3cEJPQ2RaZG5wejFKVld0blB2OVQwYkFqaXRsS3Fkd3lFRUs4RjBCMktUUERic1o0Z1VsQ0MtT3MyeDNNSHhyWktqamJwMWJqeXg4aFRiQ0NxWkI0WGxWdXhWYTZxWlEtaHN1dTVQLWJqa2wyR0J4enBMNVlkVGpWSDl3aThkUzZRamFDWmxjNGp1WERreFpINE9Jak3SAc8BQVVfeXFMT2Z3dWtZdmMxX29kYXExbXBEdi1zYXd6TmJWY3QxUEQ0UFI1U2tQU2Etc2NBbnFXQXNlN3BCT0NkWmRucHoxSlZXdG5QdjlUMGJBaml0bEtxZHd5RUVLOEYwQjJLVFBEYnNaNGdVbENDLU9zMngzTUh4clpLampicDFianl4OGhUYkNDcVpCNFhsVnV4VmE2cVpRLWhzdXU1UC1iamtsMkdCeHpwTDVZZFRqVkg5d2k4ZFM2UWphQ1psYzRqdVhEa3haSDRPSWpN?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India\u2019s IOC Purchases 3 mmbbl of Crude for November Delivery",
+      "source": "Egypt Oil & Gas",
+      "published_utc": "2026-10-07T09:38:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObWlCdUhjbHNnejlxN2VfamxJNHdXcF9JNW5zODFFLU4tOE9VQXVOUFlqV2JJbUhZWDJPenptNzFtZnQ4QWZJQVlYamNLNkNvWGdLOEhzV2xlbFdpMlpnRXBZVk1PcThMSXMtcmg4Wk00c3cxNjd5YWRlZWluUFZaRGFKdlFWSG1MZ0s2MGU1UTE0M1Fq?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sent to seal petrol pump, owner's family stabs Indian Oil employee to death",
+      "source": "India Today",
+      "published_utc": "2026-10-07T09:22:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT2ppcWFQQ203bFhYVFMtRnN6cFJIRUxsMmRhSU40eTBTTDNKZkVhTFE4M0p6WTQ1X1FLME9uVUZ1YUJ3SkFfWEVRUFhic1JEYWhaSk8xV1E5LW1RbmhFRk0wUWxQTVBkbGxKYUprSFh3UmFiOE5uc2RxQ3gyTnlqYU5VdUxqcWU5ZHU5cHRRb3N6UGNuazNpa2NoYWJJdWJqRTk5S1EzVXJxRk1VTjBfcnF3UmNYOElLV0pZSC1NbG41TWV6T0toaVhaUFB2amhXcjc3bmgtcDdmNEQzcVZvZHd4RHhDRDjSAewBQVVfeXFMUHlvaGdSbWVfQUI0bW1OcUdYU1NFS2hOdk1kck5tb1dTTU9MZ1JuR3poNG92UEVub3RjZWdHN0lQcHNkMmZlR2Q0bUJDcU1JLVp6UzgtdHFTSXFpYmFGSUJvU1ZRZERqb2NNZjBkN2h3Y08tZ2ZLUThBZFZTMnB3cjM3V1NRZzZmV2FSdTFhNzE3eFJfUVJfWmpzeFdPd1U3NWpKR0FHNktKZ2R2SmxaYi11S0RNS3JEVFN5YzRiclp5RUIzMWRwcUJEUjZ0d2JZZUN3cF9xb3o3ZjBpSjUyUzcwMWdwVlBfVmhZd3g?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "BPCL, HPCL, IOCL, Reliance Shares Alert: Why Oil & Gas Stocks Fall After Rs 3/Litre Windfall Tax On Petrol?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-07T09:18:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd3NrWEdjYWhVS3RaeE1hcVZVMFViYzBWeGRwSnRtaDUwd0F2b0R5OVFEZWtPM1NNdDk2RUJyXzJRaTJrdWstdlNDdkVYeW5taW9aYzNUZ2wzS0hVZjFtWVhkc2ZscVg5THg5WHA5TWh2RVBNc2E1Zld0NDlKS1VmTGpCeEpRLW82WU1SeThWTTNUSldTd3Q0d0NXZkxDOHd5YzNRbFZ3c3pfSjkxZUhrbHUySThXN2FMb25OZjFRUnB5eHRIZzhZZzBuY0FCSk9NUDlPRTk2QTJpYlpU?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IOC officer stabbed to death while sealing petrol pump in Maharashtra; case recalls 2005 Manjunath murder",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-07T09:02:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQlBuN2Z4SzFjQUswSXNyNzUzTERaZjJKLVlOQ0NQVDZkRm54UmFJT2ltYmFnV1JjLUE1ZWNIYXhjV05Bc2FwMW1CTF9TUng1OWJ4V1otSnlNU3N4ZzRlVDUwWXFhWG5JOWE1YUt0SjlmXzZTNE0yTDM2ekNwc21EY1F0V3dfanpfaXVRcm41MWZaR3pwSkd2cmxBaElqX29zT01rQ0pwdVAzVUlRVXlqc2VqQldxSHRVWGRma1NjYlhSbHpTWkNUdTg0QXN1SFlxNFZCWHQzaEpKS0JrR0RYSUEzQU1jR3NPM3loZjJDYjAtNmPSAfgBQVVfeXFMTnRlSHc0VnR1a0pfcERNR3h4SjdLcTdvWmJTNl9rRUE3UTFOVm9zRGh2MkU1YkVTQnJsazNQNHhrUi1hZHFmS1NqR1FCWjQyU2FuNU9Ub2pZdi1IcXF0bEpLVEZ4eUVqVXFFNTl0VDNmc0JNTDh4cjVRTm4waGVzQmVwc3NwZWZOeGkxRG1DaEtEOTZzNm1VQTJiWmRYYmFQbTlya3RIVjRGbGVoUFVybk5TNDlHZ0NTRTFFaTluQ1poQjhoeUtRcm40MF9LTkhCMnE0NVcwOC1ZT0pCR0VOOWE2ejlJMS1ENUh2WFVRbU8yaG1UdW1WRW0?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Reliance drives India's Venezuela oil imports to seven-year high in Oct",
+      "source": "Business Standard",
+      "published_utc": "2026-10-07T08:41:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdW5pNEtRdjdKN1pIQkxSTkc2UHdTWWh5NkdwNG10WHE0Y202TzJwTk5zY2RVZ1oxSUxTVVhOVzdad2o4eTRyNVNHbTFqNlNUUVBUX3drTHhKb1dBcEpnMlQ3eHlPbjhwX0QzVUpQLUFxbmNvaUJsNS1Va2tYMzVSTE05SlB2M2dxaDZmWHptRHhIaUVxWjlEWmVmTHIwaU5GdGhldVVqa256MV90eGpQc1cwbXZPdm5lQl84LWd3VjJpQzkzZ2ZEc1AtYzJ4UjFFM2dPX9IB2gFBVV95cUxOX0VpeFBERnBObzBnRUJTMFEyT1lKMVNWY192amRJR0VCTnA2YXpXQl9hU19EVlM2R1NkckxCMFNoSkpkZWdBUnlPcFRHUXZWUmlucjNCRHN5RDVseHNGQkpONjlzNWpKSDhFRFRFX3lJZzBYekZjTHk5SzgzZ2ZHdWo0cTZGS2VVcVNCXzBOdjZFdUFZUU9kc1RvV3JUcmI0dUFVRzJNZkdVbWNON3Q1Z28yY3NKQ3hQbzJjaGs5LVhlOHk4eXdHVHRiemJFRk5zMWVsNUZHYWVndw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Officers\u2019 Association Announces Protest After Field Officer Stabbed To Death In Maharashtra",
+      "source": "Free Press Journal",
+      "published_utc": "2026-10-07T08:40:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbUs2cHZGSEZTR0ZWNWJEV2tPSWk4X3A0QlpONFZjZjROSWp4OERjdVdjbmhqSThoNTZnVkpKd2pKMVZHV011eFJ6UjM4eUdQZlRhZFRMMnVRNklWRWFYbnpoU3V0enNUTmJYVURBWVVrb0JDUHRLTkJkc3BKRzVzUzlYSVJFazhzMUhtdFNMNDI5aERJbTlqclZjb1N4TjJHdVFsUnU3TGxhTDVseGZNNVVybHlrVnFxOER0V0ZqaS1DWXVNM1BLbWEzSGdtN1VBTHJYUGFMS1pld9IB3wFBVV95cUxOQWNENnZocWNaUG5iUGZRamtveHdMSExuWlhMRk9Ea0FzdW9MaVFKTkRCLVhLRFdXR2xjTzliMldNcFVmMkF3eDhKb2VKRFR1ZVk4OVNhVkRGRVBrZVM1enZRZTdTUEI0ZGlBcGlhbGJfLW5lNko5YlBVYjRPUzVpZWFNenFhYk10RW9tbE5xXzVXanhOeEU1UktVVHQ3Q001M2dlaFplbkFsN2dpQlZJUnZNbVFlWXJzMV9jd1htUm1WazcyV1N5RlRsNWRhTVJaTmRGaEZpd29ZX3lyYV9J?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ONGC Stock And Indian Oil Producers Facing Higher Crude And Inflation",
+      "source": "Simply Wall Street",
+      "published_utc": "2026-10-07T08:00:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWFlQRXFyTnNLZHhGb3JHUklWUVlWREpEdmZZYzZPdVhQakxKWEQ1UFJYa2tDb2RHQ05zUnB2U2p0eTBtcUxwYThySU5sMXl6MDJWSkFvcDJaWTlvc09uLTd5S0lQMVBobHU0b3pjQXdFcmRhaVFDcFN4Z3Z6R1MzdlMzdmFPRFdVTWZJQ2s4WUJJWGNBaVVrTUtObHphd203VE1ieGhtZExqWWRabnFzY0lwMGZHOGlqOXg2RDlpS1pPeXpGY19leEszZ2wtVmlWV0o0T1Jn0gHbAUFVX3lxTE9UU3ZVZzZ0N0N0UVB5VWVMWWdxbERBYmdpYk91WmJmbktrWGE0RE85LXNzREt3bWg0UDgxZno2NUk3bmRldlFSS2J5VDRqa1I2bFJhU2FlVVozMXFyRnNaMTByeVlBbHo3WFYyVm5EbkpLSjR1RmFDdGFfbnl6ejNkdFpXU3RJSjJaU2d4eXp2WHBxdWNxcnNWa0RIUFRNMW5uYzBHUlpjRzhiOXBROFpsUkZJSXRldXJrSlV4R2ZiQ0FKd2h4dWZFUUZaeWhsNTVDODc3YVZDSFhucw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IOCL Officers Announce Lunch Boycott Over Safety, Security Concerns",
+      "source": "Indian PSU",
+      "published_utc": "2026-10-07T07:52:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ19oQTU4VzE5WUJ2ZTFIVm9Da0VXclJkQU1hTVdDYjlORjRUR1pDbHdEeFQ0WWNXX0hsV1NIYllNYTQ0VFVKSzVNZjluNy1URG9BUHRPR1ZXa0dNMTFYNzZOaGtKRkZBWEw5U0NXTHN5bUxBaUh5ZnBIRlBEcHVfcw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IndianOil Condoles Death of Field Officer Mahesh Shelke",
+      "source": "PSU Connect",
+      "published_utc": "2026-10-07T06:05:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHdCMUR3Z2ZrTmdMQUFPX1dRU29KZ2xiRkZwaUR4bXBHS05ZLXl2aC1JV1lXOF9zblo4VGk2N1hZcXhPV1l6MVNWWEgwR3VRNG55UEN3d3NhN2dvd0pYVElNYWFJRDR2OHBnbGgxSFUtZnE0dEYwZjMxMlA3RHZtUFJTQ1VoendWSFQzQ0VSTDdCVnJr?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder Booking Rules: No OTP, No LPG Cylinder! How To Get Your Indane, Bharat Gas, HP Gas LPG Refill?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-07T04:56:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3BlWkxZRktfSy1zSHBBczZHMmROX3p4VzdCN3pieDBOLUFqZGtEcXhERG9HT2RITFZLNUtLWjZIYmRIU1RvNXR6OUhxZHVvSmdvU0NqNmtXWERUZHdnVTdocDljemhqaFYyV0NrMTItSUR4SkNPcUVqR25wQmxma001RkVOUlRHeEMtMF9MWEFwYTc0TzNZcmQ4aS0zaEFsU2V2WDNjU2czX1BjZXRidlNOSmtPYTFTXzFHbjJjTXFjREZCeHZvNHJQcjFWQ0hPeExWQUUwWTJaaUN0MXc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "\u2018Fellow Executive\u2019 Killed on Duty: IOCL Officers\u2019 Association Warns of Work-to-Rule",
+      "source": "Indian PSU",
+      "published_utc": "2026-10-07T04:41:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdi1MRFkwdmZ2TUpCSzdPR0lyX0J6cXk4djNKOEJhMll0OE5uODV1MnJTQS1ub0pPWmRrLTQtQU56cFVlbm5TVmk2Ql9hTGtGYkRyOEFORktHZzhJWk1SQkpUWHd0c3NXNjk3S1dXVS1PamR0WXEyWktTUDQ5a3M0LWU0NDg?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corporation stock gains 0.84 percent after Q2 filing",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-07T01:30:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcTNCT2lmcFdsNXM4bXdjRlhHWlZ1MnAxWEJYSXkzTkpyOTg5R0RWM0hVbGx0aE1pNWVWdFp6Z05ORDlHRXpiNEJSbEJNU2U3VUNGaEdHREItTWpBUzVhVC02TzhHVFkxWldLaWRZNGRabFBSUkZiSEZBMEdhaU84bEFnTE1YMXZmMko5LThNa2hzUGp4eG1zUUhLaE9FNXRrYlp6b3NJaG5FcjFEc2tfYk9iVHVwbFNrTHRzXzdnbw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history",
+      "source": "Yahoo Finance UK",
+      "published_utc": "2026-10-06T17:38:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xeXJjVnZ0V2gtTms3eTY0ak1yaTZnR0RXVHpEMEQ0bTh1SElpTFBkV3c1R1dIUlk5SEZVMnFzLUM3MmcwS1BPRWxLV0RHS1prbmU1U2NKbTByNm8?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Employee Stabbed To Death During Petrol Pump Sealing",
+      "source": "Rediff",
+      "published_utc": "2026-10-06T15:53:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmx3TkJuVFNBLUl6Wkp0eXlDdU0wV1dqRHNibzZ2bkZpeXpxeUFPQkZZUVdHTFJ3ZzdKcF9WOGpMQ201VG1pWFBuanE0RlplODh6bXZELW16SEZldkZCd0NYakdRRlYwaFdCakI5ZU5xcDZVaXhUNUlmRWhTbnhET1RjUHdzUF8xTnc3ZXNzZXZLYnRoeXZiLU0wMlVXdjctRDJ3dDdZOV8yUHZiS2VZctIBswFBVV95cUxONzRJSjF0NC1yMUl2VE1HbHFiVzVVUmZNYlV0Vms1T1JucEQydWZzVHoyTDFVdHdTWmVJTndiSkJON2EydWxrajJnX05TaWhqWktSdkpNTzBJb19VMmhlWXBqa3c4Mk9JNUN2a1lFOGYwZGVhWWlKdkVCS2ZrcThaX2JuaUo4b0p0b3E5N3NyTWtUSV9wTUtkR1pBWkF3NVgxOHFRSHMtRmNRQWh6MFYxOVFLQQ?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil employee stabbed to death during operation to seal petrol pump",
+      "source": "ThePrint",
+      "published_utc": "2026-10-06T15:52:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2h1Q2pfUnNMaTBsakZfbEhYNGJOc3l1a0JwXzlRYndBNEFHeHBUS3pOSlFadnB6UUtMbWlKQ0ZQMHV2bkItOGxYOEJ0ZUltSGxpb2JkSy1sMjhFUGJRVjN0NmREd2hFX19oemhmYTFRYlo3T3dNX216V1FKTXgtOUd0eW5VcHlVbU1BQWlmWC1QOUZ3bUo4aTR4ZVJtallKaERERzRyWFU1ZHJ20gGyAUFVX3lxTE5WYXFHRS1YV0Z2SmlHM2w5Rl9KYUNETVBfckk3VnliSlg5X183QnlrLXRfekxNYzJGa1hmcjBqN0d4bGtMMFZtMEdIOFhPUE5od0lrZmp5RXhWOVNKdHFpOTA3TWtrQkxqOTdocDNRMlhnZDkxYkFBTnFQblV2WlVXRGNXb0F4Yk9Ebzc2c1F4OU1OVThfZWoyV1B5bGZNcUM2dE50R2gtYlYybzlJUUk5MUE?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder E-KYC Deadline August 15 or 16? Are Indane, HP, Bharat Gas Refills & New LPG Connections Stopped?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-06T15:00:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdWlyNTlmRUhYaFY4eHEwQ1A2cnp4eGNfM2JRYlladjRuQjNGR0t4dXRBS3R6LUg3c1NZZ0pHemE1WXktNjZFcnptdzZXTmJ1aG9tZGlCekoxY0tTX2pyWWQyTWpiaVVrX1BnQ3I0ZXVqNjc2bC14Y2RwQ3JwVkpHM2QtU2RFYWN6MGN2QkJLSG9Yb1FxalFPcEZQeEpNMVQtMjRpMm1HZjZxbHp2eTBVUHU5Y1B4RzB4QTZ6RW9wdnRma3JVczEtREktNENxTGlLcXloYmlLT0lFTUI4RzZxVVNzRnFZUmlfLUE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IOCL Field Officer Fatally Attacked in Hingoli Outlet Takeover",
+      "source": "NewsIP",
+      "published_utc": "2026-10-06T14:56:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa2k3ZzMxZUIwSmZacDdmMFpDSzdiTTBpTGprUkE1dzFUSDVlZkU3eUlRRnFpZ1FEUnR3UExGNVZ0NS01YXFTWGJ0V2hxekwwVUdzUV9FX2JqcWR5M19FM1lEajFHZXJ0YlAyQWsta1pnaWdHaDZRUml2RmxaQjRXWG9yd3B2WkJiMXpKeGM2RHc4ZUpScmt1WlZ3?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil\u2019s Gujarat Refinery to Start Polypropylene Production by FY-end",
+      "source": "Construction World",
+      "published_utc": "2026-10-06T13:59:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNlk2RTlkd0NlYWI0dFdza09WQVFzZ25wd0xyUXZ1aUVWdkR3ZTU0Qm9ON3NfX0tPVTJ3T3BzaUM1RHlnYm8xMnRHVlhXM0pfNnI0eHRkcWtiOEpkNjlUS2FhSXZTcUxRbWFBcU1lZkF0SDZwSGhKMXpFdjI2ZDdzbm5qVW5Ya3lFY1RWM2dzbDZ5WkdPMTBYSHRqYlNqM1ZLT19tYTNLaHdlbkZhbnRnNlZ6S3FYeE1LZ2g5LS1uQ3h4ZzNpVERGTTFrYm9FVUlRNE5rX083NkM4cHZRU0E?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IOC Gujarat Refinery Awaits Downstream Units for 18 Mtpa Capacity",
+      "source": "Construction World",
+      "published_utc": "2026-10-06T13:59:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUkY1QWdYeG5HWDM5dWtfbEQ2T3JiMWV3WENjbTZvdlkwWE5iTmN1SUZwekVtRXVfczJuTnlFZk42SUVqVVFlaEJ5bk8ycU1YbnFVS3FzcE85MWpzcjNpdVk1T21YVjRfXzc4VG03Ync4NkJRSkpWSDRuUWxuVEk1bW1QTUxfSHQ0cEdJSW1QaEpVajdqYXc4Y09GczRMLXFLYXlSYUcxRTdXZUNKNEkxUG9UV1V3dmVnNFlDSkJMZ3B3ajRlTjRsOHdvbWJpV3c2NHBz?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India Could Boost Crude and Critical Minerals Supply from Ecuador",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "published_utc": "2026-10-06T12:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaHRPeE0xaXdiZzA4bTFoSEFaOXNGVDdyQUlHOXVfMXc5cUE0NF9MOWRTZERzRjVnbi14NS1PdHVWZjltUml2WkltaXRxZ0JsRkUyajV4S2xmQlpMVDYwSS1iTWdURUZlekpjcVJ2V3FnWG92SG4xM1BfdVlTemNqa20tZVR5eU1uRlVZQTRWY0pJZEVuWjVJMkNNOG10VmpGeGZWS21CYTI2ekFreGJIU291MWNLTFN6RGRsVW1XZGNlZEnSAcMBQVVfeXFMT2h0T3hNMWl3YmcwOG0xaEhBWjlzRlQ3ckFJRzl1XzF3OXFBNDRfTDlkU2REc0Y1Z24teDUtT3R1VmY5bVJpdlpJbWl0cWdCbEZFMmo1eEtsZkJaTFQ2MEktYk1nVEVGZXpKY3FSdldxZ1hvdkhuMTNQX3VZU3pjamttLWVUeXlNbkZVWUE0VmNKSWRFblo1STJDTThtdFZqRnhmVkttQmEyNnpBa3hiSFNvdTFjS0xTekRkbFVtV2RjZWRJ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "After 2 weeks of losses, Indian stock market takes a pause. Is the worst over or more pain ahead?",
+      "source": "ET Now",
+      "published_utc": "2026-10-06T10:40:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMmJpNm1hQ3hoSGtIQXMtYmdFM0dIY1NfdHF6ck9wU1FRWUVFSW5wNXA4WGRock5IcDdOUDMwbGhjLUdHNU9ld0JGNzJJLVNiQlp0eUtwZnkybElVOVBVT2djZkk0ZFJlbGYySnVzUFFNcHFpWWN2TlRJYURhTzBFM2kzWlpQWDJOa1I0ODhtd1JKQlJpWi1UNFJ6UlJNeFNHN3NBQS1yTUo3SlNJZnJfenFTQWhzaFhUZmt3MjdIMnFMblExNXg3OE5iSmFCYTk1QXRNanJvbUxkU1lSS2JjWmpoRy1VMFRlUHliNkdVR0hyZW1LTXFqYXdkX1kyQdIBgwJBVV95cUxPRG5VaW1UZ2k0VGRhaXV3dGJrbHRXYjdZT2xOdUhrNEJqYS1UX05FaTRWaU41UU5hX0RVcXpFdkNLUEhreU9abFc5dmVxX19zOG0wMU5QUjQzRGF4em9XUXkwYW1MS29VS19MNF9JTm1uS2xZZjh1M01EX21PMjNBN0k3aTFkTVVPVEwxc245dERzcUsxWlM3aVlWeXNwYlFheGFrd0RkUDd1TFdKcWFVUWJNaElrSVg3X1h6QW94Rmg5UnQwVHNieklaaTlEbjNXSXBFMVFwZTl0T1EyVlM0eUhwbV9SVmJiLXUyWkNoQUx4dVA3a3hOcjVMUkpHZmt4RkZJ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Ecuador in talks with India for sale of crude oil, critical minerals, copper: ambassador Buchelli",
+      "source": "TradingView",
+      "published_utc": "2026-10-06T09:50:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaTZMOXh5elY4Wks2anZtcmRqNFlURjE3alNCWWRRNjRXN0FWTGd6VzdYNFdXendHYmJldDh3OUhETVV1OHBiNW5CM1R4d1ExU1luTnJRbGlfY0RmRVRWNGY0V1Jkc0pMX1VUSDZKaFZvWTFHNXltcXlFa2cydGNwZ3pmNTdxMkVYZHUyR003dW9SQkFXUmFqaEdfQkFaUXI3ZmMzM09SVFJXeWx6aVRMVDZ3MlRkb25sd01IN0N4dkNOS1R3b05nX3d3VDJ1Q285Z1lLUWtDN2N1cDk2OHhodjE5NWhIZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "BPCL, HPCL, IOC in focus: Morgan Stanley sees a 3-year refining upswing",
+      "source": "The Financial Express",
+      "published_utc": "2026-10-06T07:50:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ194MVJfVG1aWHpXQnFCd0htQU1ZdWdJU3JwMlJDMEMzdEFNUGxEeEtGdVFocjFrM0s1eHB3Q3pueUpzazAyc3h6SGp2cEZ0TlJwZ0lFUWw4SXY2ZV9kQ3RWd3hKbE5JRWVFUXNNcmhjYlZ5WmtpSloxWlJObGRsYm1sX0ZCcFF4YlpOUXkxZjBjdFY3VndzS0dRQy1JekxjVTlrRDNLby1rWHlXWmczN3FpMENxSnUtZDJRdWttONIBvwFBVV95cUxNQ194MVJfVG1aWHpXQnFCd0htQU1ZdWdJU3JwMlJDMEMzdEFNUGxEeEtGdVFocjFrM0s1eHB3Q3pueUpzazAyc3h6SGp2cEZ0TlJwZ0lFUWw4SXY2ZV9kQ3RWd3hKbE5JRWVFUXNNcmhjYlZ5WmtpSloxWlJObGRsYm1sX0ZCcFF4YlpOUXkxZjBjdFY3VndzS0dRQy1JekxjVTlrRDNLby1rWHlXWmczN3FpMENxSnUtZDJRdWttOA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "3 Oil and Gas Stocks With a Strong Future Roadmap: ONGC, Indian Oil Corporation and GAIL India",
+      "source": "Univest",
+      "published_utc": "2026-10-06T06:43:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBcFRtMGVSMzF6aUM5MFNQZTd0TGpHMXJfbU5rRjRRdzA1VW1odmtJb2J2Qml5NkZqWG1hQjRUcUExMnlSdjlCeVVNVlEtOGlyc3JwUmR6TTM1a2x1akRHaE1pZUlnZjM0Qmc?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jindal Stainless, IOCL Renew Lubricants Supply Pact for Five Years",
+      "source": "ChemAnalyst",
+      "published_utc": "2026-10-06T01:47:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZW5tclFWaHZ3YmlTaktWTkl6ejJoc2NQWlE1NjRWdHZGTDg2RDNqU1BDZ3F4ZE9IU1pfeTF6Q3p6M1lfeGdwOFpTV2lna016UE90eVBGUjdkQUxNcVZwRV8tNjNJSGtfWGUtYmg4Y04wTlhlcC1tNXoxaEc1UEdVN0JIYjhfTHRGTTJuckpXaG82RmpPXzhDYTZaMlB1VXNaR0xBV0pIbEd0NzhrUkE?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "As US leaves, cheap Iraqi oil comes with a catch for India",
+      "source": "MSN",
+      "published_utc": "2026-10-06T00:25:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFg5VmhxWmxTam5zX3JlbHlxWlY1RW52Z3lUbHhjUG4xcERCdmtlUDBZTnRQb2JhV0h4ZWdpMjJfMkwyeHJtblJjVllTOU1KU0NxQ2psMENFalZaZ1dkV3B5cmoyN0JIYm5xQTd2cXh4Wkt2MFZkWGRBazVpTnAwWHVHeTZrWmJhSTZRVlJpZVUwdVVkVUVkM1MzM1ViYkZzN1JJT05mOVVaUXhqLXc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "BIA moves to reform Osage oil and gas rules, improve access to well records",
+      "source": "Osage News",
+      "published_utc": "2026-10-05T19:17:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR2JZeEdRYlBSTG1IQzNmcElrbVlwWGRHeldGVXJxdGpweFZhRFlmcmNRVlVaX2w4TG1IWXZGSVIxcGFGWjFYR1hoWmctSHBxa2hMSjVrY2FVUGN6ZHRIdHlSM0w3SU54UFJUTl8ycHAyeHVFMm9zTXpmaXd5dUx2RUt0MzdqRjg1QkRLdHh0MVliYlhuak1DX3dOTG56Z9IBngFBVV95cUxQR2JZeEdRYlBSTG1IQzNmcElrbVlwWGRHeldGVXJxdGpweFZhRFlmcmNRVlVaX2w4TG1IWXZGSVIxcGFGWjFYR1hoWmctSHBxa2hMSjVrY2FVUGN6ZHRIdHlSM0w3SU54UFJUTl8ycHAyeHVFMm9zTXpmaXd5dUx2RUt0MzdqRjg1QkRLdHh0MVliYlhuak1DX3dOTG56Zw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "OPINION | China's fuel export retreat hands India an open door to global markets",
+      "source": "Baird Maritime",
+      "published_utc": "2026-10-05T17:14:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVhFaHlnYkFHeU1SX19hM2RVQjhmYkJBdVV2aUxVMnY1V1UtSkI0SlZjcnFoY2l2clJYbkhrQ2xFZnpwN3hRVUdyZlFqUE5iZWUyTUdjaEJmLVVyQkZLMUpVN3hNd3dFT2ZqR2E5UWtxQjhlYklsa2RZY2J3cmhqM3JPcjJYQkZ5Rm9ESlhsYS1OUnA3RldlSTNKLUxGSzdYLTR0cmZsUDBIc01Tb3ZVRHo3dVlXd0pXMWtwTTI0eW51Z9IBzwFBVV95cUxQUTAyS2ozWWFDaFlPS0cydzljLUg0aXJ3RXpwYWJWeXl2WVc3b0ZhaVh5ZWpvX3ZQVGVGY0ZZcFBCVzNLZXpQRXIwOTVGOGhhYUQyMm5ySTVyLXZ3TTVIZmQ3UjNNeXRyZE4wZ1RyX3hXWDdvZVFGTFdSOFlfVnNOYU1PLUs0NUJORGREd1VrZHpfYkhwRVFEQjU5YXY1TnZWaWVqdkNGb1NBNFVPMkNpODRFaUpJOWZTQ1dKbGJRTUU1R3UtYzZjTHVDMExXSGM?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Hindustan Unilever, PB Fintech among 7 stocks that hit 52-week lows and slipped up to 47% in a month",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-05T16:20:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPYlpMZXlfYTlTNWt1SXpIS3ZRenBFaF9iNWRkODJKSy1peEI1OVd2dGV6Wl95T1JqUlRpS2lkZjFjRGx2VGRRY2hWd3pNaXU3cTlTdlRzU3FodkhKRVE2TTJXeHRUdW9YbXk1ZF9NaS0tNFJ6cGg0Qkhla2gtSHM4TTQzMzFlMWZiWkZTRVFYZ1VuNUxrZ0puUk95RUpCT3Fuek0yMk02TjM4emtzTDFjZnhoUEsya1Z1cDU5ZW5fcUtjZkdSMHZXSkV4VlJmc0tQdTBBeXdfdVBpODc4NEhubndSejk1VUpJRGViRHNQR0hxWTBINTRxbUdiTXVPQ3J6MGhOZklLMEhLN2lyMUs1RkhTVTQxRGM5enhpa3RR?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Global crude oil, petrochemical feedstock prices ease as Middle East supply flows improve",
+      "source": "BigMint",
+      "published_utc": "2026-10-05T15:10:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTVQ1djFOMFB3WllqRlBrUTR5WEV5MFlNWWZIZGw2M0V0Mi1pMk5zZ3VjUHVYVDhpczBBakFncWFhVkgxeGpoLUI3U0wwSENKX3ZhOS1KUFJFTkRCdnFPY0ZxNUtWeXBsVlBsWmhSaG12OGgxZkhWX0p4WFVHMjRKN1ZubWt0b0tOTklocVY2RkhwMzMwSHZ1U0kxS2ZtcDF6YVF1VUdsTnRoTllZMEJYTE9UR1kzZ09PaW1oY21aOGYta0h4eDJ3dVBrSXljU0k?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Fixtures",
+      "source": "Cricinfo",
+      "published_utc": "2026-10-05T14:46:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xYml2YTJUZHNtQzVEU2ZBdm5hSXFJeVl1akRxZDViVjY4bk1EY01CYXdlV0NGUE1aNWZVQ193VmdYcDhFWV96ZV9jMXQ3TWpGdlM1X3RfcDRaUTlGUkE0cW9qQ0lvZWtQVUhNeDRqb0ExRGFNdjNaUy1YUmJLQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jindal Stainless and Indian Oil renew lubricants partnership for five years",
+      "source": "EquityBulls",
+      "published_utc": "2026-10-05T14:41:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80SWdhVUxUSXRYejI5a3RsVC1DaHR5TkUxc3BtS1NicjFQRkNRWFZZNnh3TnVwTkY0THZpcHU5ZXFQNzVsUTlPc1BOZ3BQZzZiREFBOTdzXzZhVDhXWFJV?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil- Jindal Stainless extend lubricant supply pact for five more years",
+      "source": "PSU Watch",
+      "published_utc": "2026-10-05T14:13:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWC1fdzZJQnNqbTcyaGhod1ZTVkk1MUh6RjlvMl9uc1U1ODNBNGNsdE9EYkV3NWhvQ2d0enUxTW90TG5XM3lPeFpySUZaQU9xekl6Zm1GYVNBY3haN0VSQmludTRSdEx4d0ZxNEVNVm10VExRQW5PUWptbGNoQmVnZURSSk5nQnBQdVFFenVJMUUzRFh1azVJbFBoaWNPREg1cnpZSUhzMmZ0elViNlHSAbsBQVVfeXFMTTk4VWdmZUtIRU1ySVJQa0hhcDJqM3o4cUlhcWpYRVlGamtYTkRpaUdTdXdjSVl1cjhRdWdYOFcxcWh2cFczcFBSVXRERHJsbU94cHo0WFZyd0ZKdU5ta1dITFRkeno0SHdmdW1Zcl9jSE1ydEJkXzg3NTEweEpyVDNBcHRhaFRacmxrVTVsZU9RUjRqX0Q5ZVk1b2ZGTG9fbFJUbVVONVZyNy1SWTN3WnJWaDZKOTU2bzFZZw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jindal Stainless, IOCL Extend Lubricant Supply Deal 5 Yrs",
+      "source": "Rediff MoneyWiz",
+      "published_utc": "2026-10-05T13:09:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjBaNVN2M2NqQW90cDZtdnpnV0I2eHVJSlM4Z19EYzdKQXlTVmV1YWU1ejUwN3prWUJiWHZpM2tOeVBiY1JBeFFpQzFNbExGRFNLQjJ3d1g5VlYzck9nbTRzRzdabTNmUjkzRjhLV0Rjb1pSWF9wdGpnUG4zdy0yQlNtRjdVR1ZES2xzUzN6VHRpNXJVMWJhQUNFaTJoTENXSEpzUUdhVWI0bmhi0gGyAUFVX3lxTE9DRGdfWS1hanVuV0RnWHNzWXhfeDlqMGZTWXRlMlFRaUpEUHNEZE95VElzWTMxR3RfcVE2Wk5CSmJDamNoZWVxTV9rUmNiazZKR0JHcmY2UjJ4U3FwUHl2WEkxdHBhaFNHZmc3c1g2aHY2UDlPelp4VnpobHJKODRTVEI0aTc2R2ZERHVBc3pXdXpldVpUR3NaN2RHNGJlYl9zZmhub0RLQWd2SnlJc0pKVWc?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Saudi Arabia slashes Asian oil price to 6-year low: How much can India actually benefit?",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-05T11:54:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYlc1ZUZzU211ajBzMUxsX19qbVFfa3hXMDdfYWRUMVVJVmZwUENKY2JwUFF0ejh1Y0RJcHZqMFNVNHluTzk4d1c0eXU5THhEUnFlOGFGeHMwc09lWjVqRmxWb1YzTmVuVS03eGVQYWZFUUMwNnJEMzRQQzBEVEhnR0EzRUNVc01LdFZHdjBrY0VESVh6Q0REd3huYXlkcUstU3g3em80MHlPM3JMTEEyUDBTdkZLRG1zYzZ4aUdnakstY2xWdzV3R2NxTEpBdkwtQ2NqRmhYelY5MVnSAeABQVVfeXFMTjNkSzFFU0ZXV0h6MGxEZGtJYzJ6R0pYZDJ6dFhlMU5lRlBIaWo2NG9hak5MeGZTSWhoU0c2ekExNl9ZNHd1dDlHUWtLRFU3QWhLYVYtMTJoeXVjSGZacllwUU0wNHRHLXBPb2twVU51am5vUUZsQzlxMzdXX2RVZEpZZElTRFRxVk1abllZX1RrQmY5eG1oY2RkWDU2aWw1NHNQTGxSTTBkX0o3N0R6WTdONWtEQzctVTBHdFVuNUlPRTFLNmcydHl3OVVIOUlTajNHMFoxM0VEWW50blFiQlY?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Plans Own Packaged Drinking Water Brand Across 43,000+ Fuel Stations",
+      "source": "Indian PSU",
+      "published_utc": "2026-10-05T11:54:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSzJwaGdxa2dfN19Obk9HRld0X2RwZVRQTXpzTmh4c2tqUzl0blFtOHNvYy1RdV84NmJnQTJvblAxNEVuTngwT2JxX1NyeG1scEVDYWFlS1NBaURSVFRaQ2NVR2h6TmoyS0NDNGk1akR4UW1td1p0cU1UNHdRcGRyeTJORQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.189,
+    "strength": 1.0,
+    "material_count": 9,
+    "view": 0.189
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-07T11:17:09.539148+00:00"
+}

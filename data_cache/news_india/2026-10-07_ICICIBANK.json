@@ -1,0 +1,414 @@
+{
+  "symbol": "ICICIBANK.NS",
+  "date": "2026-10-07",
+  "headlines": [
+    {
+      "title": "RBI MPC 25 bps rate hike: Banks stocks vs NBFCs - Why Jefferies India picked SBI, ICICI Bank, Axis Bank shares",
+      "source": "Livemint",
+      "published_utc": "2026-10-07T10:44:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbzBncmtuV3BfR2xEMzFxbG9DYVN2XzRXOUVBd3gxUmEtTWNNRk5ON2wxak1lZjZzOXV1aVFSZlVMeHpNOWpsNkZCRHhaalNJczc3QVdyai1tamJVTm02d3Zlc3VUSi1lT1FXUmxyYVZVQ1JNTHlkSE5OWHJyRzUwMzhsZmZURjJuRUdsV3lhLVU1SXBfS3ljYjVDSThqdkloMEJaeFJ5OVdEQnM2dU9DbkxObENFZDc5OC1kbUNMOUN6cjBvTXloNHhDN2pUV2NlUkNZM0pBR09mVTJ1WVpzSmFYUnJlU1l0bS1wRE5tb1dRLVBPcnN3VzctYnNjb1ZwZ0cyQ1pR0gGLAkFVX3lxTFB5WVVOVllpYmIwSlNyNzZEMzNtMnFLMnRnUXlLNEtlTElPWlhkQzhHbXg4TFlZNzhQazMzOGhMaTkwYlR0emxRUnpwdm42MHM4dGZhOTdaS0hveUluVTJnUGczNjdrMGRjYnh6LWpIS2tVVTBiUkxDMFh2N1o2NWlYTG9NaW9xSlFTLXgzcWRaMmRMZElyWjV1YXNKd1NzU3gxLTkzTnp1LUpXTGVxMGQyRzNYY01RQWEwbEQ1eURnbnJIZGpWZ3hXeUZ0S1RqcTQ1NkxuWVp4QmQzYWxKRjhyZS11SWNvT1k2N2xTaVQwVzdPbUJlZ2xGVElPVU1ZVC1ORjl1Njh5VHYtUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Nifty 50 top gainers today, October 7: Kotak Mahindra Bank, BSE, ICICI Bank, Coal India and more",
+      "source": "Business Upturn",
+      "published_utc": "2026-10-07T10:08:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDU0VDZqS1JhUFdyUU1manFQUmhGYWVyYTAwQ0dyZE82RG5MdEFpZXdIMmhJQVdlRnk3Z0FnS0NRTUxJdXNHU0RzNFM4M3dDSkdFazlPclVkQlpxakVOMl9OSkRfX2RpZEdlSHJQQkZ0a0lra1NjSUM2cm1MNmZYTEVGYlhxRTFoY2Y3LXMtNnNTRlhlaElWYzB3RUhCZzFibkYxLWdTUmFnZ0VyU3A2WHQyVU5vNlRlV01NYjV4cm5TcW40dWJEZFpSSUkteENUeWw3cTVtZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Senior citizen FD rates in October 2026: SBI, HDFC Bank, ICICI Bank, PNB, Bank of Baroda and others compared; check latest interest rates",
+      "source": "Zee Business",
+      "published_utc": "2026-10-07T09:32:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOOXFUc1Y5Y2E4WTB1TmY1X1B0Q19rTnJva0l1RVI2T0ZzWHJZR1NHUUVFSjZUWkVJcW5jbXBGdDB0OVpYWHBvZkZVUHp6ZVN2ZXJOelFSenM4bjBvRjBFZnR6UTYzcFRPN2hHVTJvT3pvNW5YcDh2cXEycmdJSGFGQWRWZEZLMUpieS1NNHh6SXlqNGd4cHZFakR0S3NmNDVBdmhFVkVWTTNhb3FUZ0lkMXowM2dlUkdzTGw0emIteHVxeVEzWXluT0pmRE5jQl9hWVpvV2hrVjZiZ1FTS0tPY1pncERoMURfdFhhNm1nRFZ2SURXT1ByQkRDX0I4bXpoWXBrT01Ja0dBajZsYTRLYw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Festive Bonanza 2026: Check discounts on iPhone, LG, Samsung, MakeMyTrip and more",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-07T08:13:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMDZsdDdJVHkzRG5TaDExTGc5N010ZmNtYktMeXlURW92dTFWX2o2LXZIZm1PbjRORHJkU2g4dnpNLUhFeEtzem42VGtvOUpiUS03OG9qSm1WbVVHcl9reG5zcy1OODNHZ29MTmRYeHBxZUNxQVpnMVppMGYwS3RRdHdqa19ZRzM5ak1GZVYycVJobHQzQ2hVMjNrWHVINDJCWEZseTJYSDZmb0lMS2FPZTVpRHRVQmVydWw0TlBldzhfQU94ZG02X0c2LXBOV1hVLWF6cnhBQ3FDdXUtbzhUQ2I2YWpLdF9BR3g4UFlGN1pxZUFwenJjNTZIUnZpc3lKZS1NbndkVFlsNzNa?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank stock heads toward October 17 results",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-07T08:08:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3dzazk4M0RmRzdCZUlyZFd5N2ZydHNYZzJubjloNnBUc2xkdWZuT3lLT2FaN3RJck8yNnllR2pQMXM2Qzg4SDRqOHcxdzd5UzZEYnVzSWNlcm5vNDFudS1JZXFQWEhjX2w1MlVqX1NxejFhUjNIbkpTM3NWSHRkUkpJSzdnVURnVk1OcnhNcUV1U1JmU0RieHdmcnh3TjdId3lYb3VoNHA0ZEZFYm41aQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Goldman Sachs raises target for ICICI Bank stock from INR 1,935.00 to INR 2,000.00",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-07T07:39:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORmkzbXlOc1NIWHZ1Szk0SHFweEtCbVNhN0l6UDdkTUdyRXJibHNhNWw4eFQ1bDFBZVhmYjdhS3dEVC14c0N3ZlpLQXFRbHlNQlZJRlZuWGJnZzZGYlJ0VFFtemduaEJVNnZqa1dxak96OFZ3MWwtYnNQZE83alk4ZjNqbW5lRE1uSEk3ZDBwUGI5TWtZZ2VIU3U2MWpUOUZZXy1NQkRDNnV4Y0tOS0pIWkF1U2RCaGdKVC1UaC1HOVdvLUZpVmdkRDRmZ0I4Z0l4U1E?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI Rate Hike: Markets Trim Losses, Bank Stocks Rebound",
+      "source": "Rediff MoneyWiz",
+      "published_utc": "2026-10-07T07:19:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTNsYlNBRFphR3ZFN01PdWJkalFiRU1sa1BkSm9RQm1xN1MzTUtEa2o2OTBzNGJCbDZ2MGVVZ0NOems2MnBKMzFzN0hrVVZtYU9IQ1dUbFRPSUxRbldEd1FnMjdWWXpMdVNjQzRON0RBUG1hQUt4cjl5LUZPRnJ1b282aURmUC1wNFlGZnkyY05GOWNIR1J0QWE2WXBpdGgtek5UcTdNZDDSAa4BQVVfeXFMUEMyUFNvaUUyTElGSFpVZFlWaUlIWUtpbnU5TkhzQVg4a0NzbFlIZW1oa1RYSlVrVEhhWGNTWV9Vdk5iS0ljblJWMVY1cG9XdVVQRlJyTjRMbFVucnBBODNTcGRlc09WY285dGJnN055NEM2NVdoU1FDTEtuWV92aUpUOGZsWFNkY2o5by1ieUZCeS1lcmJ1RXQzdlJIRkUzcS1oc00wQTlHdXpZM1N3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Life Insurance schedules H1FY27 earnings call for October 13",
+      "source": "scanx.trade",
+      "published_utc": "2026-10-07T06:38:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlBXQlRza19LQk1zWWhlckhESVhFX0w5bGRWejJqUUoyTWlPTnE2eng3Wk54dFU4SlJMd3pRWlhkWDVUdUliX2VzeUFMbjdNa1I0S3gtcjZESW4wZllEc0xUS1h4UFpDdG5wSlVveExGZ2psaWRrdHpNS0RQTHhyNE5aVmIxZGxyYTdNdUZzQnZESm0tOFVjODhDS2ctVXNIbWlJbVc4UnladGJDRW02TzJXYjNva09LcVBB?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sensex, Nifty Recover From Day\u2019s Lows After RBI Repo Rate Hike",
+      "source": "Free Press Journal",
+      "published_utc": "2026-10-07T05:44:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGowWkxDNFJpRVNwS0ZacGFCMkY3Ri1yZWJIS3hxTnRUTnp0MDlXM0VOMlhXNGVTVWlVdW5NN3pZdElVM001Z1RMY0doaGdHbC11b1pyLWhGVlBGNkZuR2liUk05OHN5T3oxRDB2SHRXeUlhTUM3aTlWc1RJUWRUQV9Gci1PenZUVW9HaVkwN19HSjM5ck5aSm9rSjBIaG45ZHZGUkZRQjnSAagBQVVfeXFMTXRqMFpMQzRSaUVTcEtGWnBhQjJGN0YtcmViSEt4cU50VE56dDA5VzNFTjJYVzRlU1VpVXVuTTd6WXRJVTNNNWdUTGNHaGhnR2wtdW9aci1oRlZQRjZGbkdpYlJNOThzeU96MUQwdkh0V3lJYU1DN2k5VnNUSVFkVEFfRnItT3p2VFVvR2lZMDdfR0ozOXJOWkpva0owSGhuOWR2RlJGUUI5?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Global bond sell-off likely to continue near term as AI debt, deficits keep yields elevated: Report",
+      "source": "Times of Oman",
+      "published_utc": "2026-10-07T04:51:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNDFhc1JxS1lrTllxbFZkNGdfXzJFYVg1SXd0Um50N05ha1I4a3FDOVVWZ3QyMHhBZldVcFhraDdGZlQ5aUNJZ2hnX3ZxLVd3S0NJSnd6Y2hwczc3SG95WVJ5aWpmYTM2MkppXzJ0X2xCdUJ6alhKU0lMVFdjNG5nbDRNc21RdDA5ckJSdjMtbEVYTnpQNzZLLVZwemgxRkNURW5tUUZxOGU5NkY2NDFhdjJvdHE0Y0dZWTFET2VhSEM1VVJjckkyaVRxUVQzU0lyNmc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank: What share price fall signals ahead of Q2 earnings",
+      "source": "Business Today",
+      "published_utc": "2026-10-07T04:47:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS3VXbEJpMkZqd1BQaG1sdGxwYnN2TkVIU09fMENqQ2RNNTVyVkNTVmxicEp1em5haGczb0ptM3RkTFVjYVF6YTkwQ1VySW1UT2pVQ1BGcHQ1Xy1hTlB6Z1lPdHh5TmtXRjM2NjRKVTlnUWRHaDlRc1RvdE4wUi1KaVZXTHB5S3N3Nk9kOTQyWHhKRnRfVFFlVk5GMXlaZ0ljdVo5U1N5eG5QNS1sdDQ5WlRqNWNvLVAyZXZJdW9UWTBVT3FjNkRRRzZIdjBjTjJ6dWt4OW9Wa1d5LUk0Y3JYSEdFZHAtMWhvSDA0dnZTLTB5WVRpR21EYlBxbE8xQdIBgwJBVV95cUxNNHZCVHlBQXpDUVVwcUpqMlU1eDJYM1BDU2tDN2lQTUVES3kyWHNmZHY0QVF6ckdrODYycW9BUjhBanFpUkNIQ2ZPVXRsakRhOWR2TEhrR3p1YllnQ1c1Qk1Pc1pDTzBjSkZLSlRaaDh5LWhLOWFaUkwybzlTbWFVWWp1WlRtXzF1a0E2MjRSaFZyRlRBRUJ5NDRySFF4Zm4xTHJWeUFSV0h6R3YwVFZPbkxUMThxUDN5VkNTUUNHaE5aWnRtaU52Z0gtTXo2Nk1rRFZ4SUszRm50SHA2eFVWTzh6c1pjZDFrbFJNQ0xuT3kwa3k4eVlpMHI4bVM0bExiMFZz?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Global bond sell-off to continue amid rising yields: ICICI Bank",
+      "source": "Asianet Newsable",
+      "published_utc": "2026-10-07T04:00:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUZ2WUVrT1UyRi0waVNUWWlLdWVBbXpibHJsc0JQYXhnNW5UaC1UTmIxcW8yVzBZbnozU1NwWUlFa19TMmxDd3d2eXlGdGFRZVI5RTh3QWdUNVY5WEEzMTBXZVJuUXdTOU9CTWdxVVBZVGJVQVBTYjM2WVp2Z3hyeWU1SE5WNXpsUDh2dVZVQkJURlZjeFl1T0pjZF8zWXRoQ3FRbG8zeVd6RFVRUVhiTWw2Q3JhTDAxbXJnTktNWjFBX29sNU1V0gHHAUFVX3lxTE9ZRnZZRWtPVTJGLTBpU1RZaUt1ZUFtemJscmxzQlBheGc1blRoLVROYjFxbzJXMFluejNTU3BZSUVrX1MybEN3d3Z5eUZ0YVFlUjlFOHdBZ1Q1VjlYQTMxMFdlUm5Rd1M5T0JNZ3FVUFlUYlVBUFNiMzZZWnZneHJ5ZTVITlY1emxQOHZ1VlVCQlRGVmN4WXVPSmNkXzNZdGhDcVFsbzN5V3pEVVFRWGJNbDZDcmFMMDFtcmdOS01aMUFfb2w1TVU?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IHCL Signs Alwar Hotel; ICICI Bank Unveils Festive Offers",
+      "source": "HDFC Sky",
+      "published_utc": "2026-10-07T03:52:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aS0hjcnhNZHF6NXNVN0JmOTVOeDdLcnkzZVNFZmI1OTJSZktZNVVGbmRlSGpwNThJdHB6R0YyaHFPSmJ1UlRkZXpDc0FpTEc1SVJtSWRONGZzaVU5MnNzZERFWEJPbnR0YjlxaWM3WGl5N1Y0ekRIWg?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Business News",
+      "source": "LatestLY",
+      "published_utc": "2026-10-07T03:52:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYkJNU1BSSnIwTVM0TFU2eDZMQjI3aVJIVXNLaU41ZlVHc18yNThfYUUxeGdVRnJMVlhpclhRRFVRMC1EVHhpR1Zvd1diYldSa3pEYmhqLWlhWjZHNXhLVVdDdm9jakhmQU43NGpTTXBXWTBuMTUwQXhMUkU3REZGYTcxdWo0bENRLWFGNFdnTXJSUFRSOUMzRkJDYnVOVVBfcThvelNFSFRlb1NrTXlGcW5VdExicWF4blNwNEFXTXlaaEJfa1FDZWJNeXFXbHg2V3hYNHZUYkxTMjFLdmtsWnlZQnVQVElZWklFOThKOVA1WmdGQmtTTdIB_gFBVV95cUxONzRubkRPdzg0Uk01Z1Q1STMxZGlkRVU2ajJfMlhJandHdnpDZEdEZl9iWkRZWHFFUmZNV3NPZHgtcEFpQ3BXWXQyNGxTZlpZeVJqSkV6U3lBcXp0eE4yR3piMGFXQzIxTTVFdXI1UjlOSFI4ZDZvRUR4TW1nSHo2TE5OajNRX1A5bDJqRHlFVHZhTHlvenZVQWstVjdJdGhzVG5hcUtsY2wzYkI5enlzeGFxbWJ3ZFlSZ3FQenhzdXc2ZUxZX1JuQUhqQlc1XzJmNUhtRzBObWNMdzdUS29hTmhVd2NERGRFbGI3VVhMRTNMWmJLZDZxTjAxaENJQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India's ICICI Life hands CEO role to career ICICI Bank executive",
+      "source": "Insurance Business",
+      "published_utc": "2026-10-07T00:28:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWJqb1RiZHFXTGtXcV9EQXl1X1Q0Yml0aTB2b0ZCN3RBNVBXME83Rmg5TnhlSWZTUGVoZTNtSGpPVTB0cmU2b0Fod09JeS1EbzU0cWVTNklnMTdtN2szUGczLVVBSzA5bHBxcUc1MWNSbEwtaUpHdDV1WjBIb3AwbXozOXhtMjRpTUlJU1RIbWxtY05XNVZYU3ByUjB5MjdsN2ptY2djdFdHVWRHNDNfb0tJTGdkMlY5OGJVUlRHZkxZMmo3aVRNZTg5eTZEX3ZPVk9Z?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Strike Postponed: Are SBI, HDFC, ICICI, Other Banks Open? Will September Salary Get Credit On Sept-30?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-06T21:03:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa2NWRDBLamVwbTFnWHd6STJqWEIyX3JqMnp6ZDVJa2VheVJwZlg4V2hhNXFSVm5iYzhua29Ub3lHeDE5YVFFbEQ5aS1GLU9VZHFubkFDY1cydFoxZ2dyWFNFclpMNUdyc0VvYUFyMThYZXVRbnBha1AwNnJQQ2JBVU9qQnFWNXA3V3JuRWEtVzNmQU1LRUcwcDRGdWx0dWxJUmFnSnlET2k0WV8wdHJ6eEstaU4zV2Nya29jWnBUODVkYmtHZE1PM0hDekJRMlYyd2xJWkVZV0V2a2c?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank stock after-hours at EUR 24.95: plus 0.81 percent versus prior close",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-06T18:59:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRG5MdGE4M0UyZVlKcmZXekpXUjIxeHphbW5mVUlpZ05QczhGOGR2bGpTUHZTY0c4cXpKZ1hsbzdGSjJVZG9oNDRqMzg3STJZVy1BZ3lVVTZqVGVDc2Yzc3pEOGxxOUUweG1JUl8tVi1RRE8wSjJfc2hzWjJRbzhDX2hDLVI3a1VRWU9zQUUtREk4dWhwVDRqRW5UbnAyTG4xOHlRaW0yVlJISjB2bjdyU2FqWV96OGFLUnRHdDRSOGJ6NE1xRjh1c1ZSSQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Gold Loan Scam: Rs 23 Crore Fraud Uncovered as Fake Ornaments Found Across Nine Branches in Nagpur",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-06T15:06:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSmNCaGlVNWw0RDBTSm50V3QwbUQxRXNJSU82YnJRMWl3NFF4ZHJhZGNnSV9neGFsZ2FrNlU2YXpaMVJQTFE2VW93TlByaTkwMGJuMW1udkFHTHJDUzRtTXl5NnVkSE4zWTFxelYzZFYyVjU5MVdSdVRwSDViVG5uZFU1VDdmaEx4UGxHZVhodlIzZ3U4c0lPUld5OEVtX0o5LUwwYkxXSTNCeUJ6RHZQQ1hUVlNwWWRyWG9XWS1UTGlIQkFLV3VETmRLTk5SbXBaSXMyLXJCem5VbS1IUUE?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Limited (IBN) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "published_utc": "2026-10-06T14:49:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yYTd5anN5bjFIWTZrZU1LQmFCbHZ6MlNOeWl6SUwycGFLOVF2N0RldWNDd0tra1JyTHljSTAwdnl1cE9YY3lhN25nUGVtcnpf?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank vs ICICI Bank vs Yes Bank: What To Expect From Bank Q4 Result Today? Check Details",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-06T12:39:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXNDbWtlZ0tuTVQyQTFBRS0tenNlcHJhSjZncjVYUlFDVjJCQ3lwcmQzYTVqQnV0b2VxLWljTVlNREQxV3JBbm5QcFVLeFlqeHVxbHUxbDB2cTNTbHoyOVJBOWoxaU10anNpeHVNMXQ4SFplUnFaakJCY1ZhTVNSS0xNVkYxaFlvVjZFbGNtZVhPS0ZyZDFFWWx4ek5qZVNMRGU0S2RJbG9Ud0RQZVFOY1BaTE1FSXlZZHdlYnA1MWl3MTFX?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Nifty Bank Live | NSE Nifty Bank Index Today - S&P CNX Nifty Bank",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-06T12:23:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UWDgzbm9jRDVIMnYwdGNtY3NVVjdsSFhob2hXLVl1dDItVHp6SFBaaGY5M2NVeGszYm44bVVPTWc4bXF5dDU2eEJReGNuNUxiZ1ZLeTNBT1V1cEpiMEt3VjhJU0lsTE40Qm4yLUlEOWF2Rm8?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI Rate Hike Cycle Could Take Repo Rate To 6% By FY27: Union Bank, ICICI",
+      "source": "KNN India",
+      "published_utc": "2026-10-06T12:20:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUFKcjE1bWN1OTFFd2hKRVg3OWc3Zk5uMDM1Wk00WFBSWUFFR01iUGlJb2NGRHlORXVta0VMZENFaFo5ZHIwc0hwcWxHc0VhWm5kcDdYNVNsb1VMVHMyQkoxWklrSFI2cl9FMDd4OHdldmVSb1RQZ0txMzlNUUgwSHhmQWhITWttZ184T19NZV9YTnlIdU1wS18xU0IxaW5IMlN5c2gycVlocWJCZm0zX1czV3d6Y2RoVkE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Q2 Results FY27: NII, NIM and Asset Quality in Focus Before Oct 17",
+      "source": "NiftyTrader",
+      "published_utc": "2026-10-06T11:38:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81dzRrWkJwMHlhSG5FOWlqS05JaXYydEZlVUdoWkFWcVZwa3habnl6T2puZHktcko4WHY2REhGOVdEVFFJOVdvLVBXTkdsSWU3Yi1rZ1BCOUYwSlgweXVRbXR0MEpPeThXZ3ZyME0xWllkYkdXNm1KOQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Festive shopping 2026: ICICI, SBI, Axis credit card offers on Amazon, Flipkart and more",
+      "source": "CNBC TV18",
+      "published_utc": "2026-10-06T11:10:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMmRmOGZYWHRGblQtNlJxNnJMR2NjQzc0aFpUcEY0MXRibG9rWWRXb3VNbUJCUU1fYWZpaGhxcXl5cmZqYks4Wk1iLWtwelpIZUw4dHlDWFZkdi1sNFR0WW1ZVVN4dTRnZHU2cFlXSVdMbkdZYTc2YzdMZHV4TnJYOTBPUUtXaUtySUh6RnZhZ3R5MnYyWTZvYXhYTmktT2o0MGdOejl4UHJjbGh3bW0tV3A3aURidEYyTnNzc3Y5ai1oOWxP0gHKAUFVX3lxTE10RmlOUVFFVUl0djdoQngzWTdvb2FDMHJ4SjZWbmFIamFZNHNQTnV2enB0bjNXRU5Fc1hXaHdMUjJBc1ZYc0puVnJkVlYwamVuMmpTa1VsRmNqdW4tNUtKa3E0LUptQWRFbTV3Zk9HMjVacmoyRHBGb0N3UnlUOS0xa3U5bmhDVmlHcTNYcE5aaGJsQy04WU9NMEdWdmREVEd5U1dMYnpYc3FTOWFmZExXa2VBSFJNNEdVNU0tQ21zREpXSTNKOWJFV0E?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Festive Bonanza 2026: Check discounts on iPhones, electronics, flights and fashion",
+      "source": "Business Today",
+      "published_utc": "2026-10-06T10:46:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMUJGczNTMndUV1lyb3dKejN2c1dJU3dLM0pQOFR6RzFSdkNRUVlFZnhvR2hVLTB3TW9ZSFVidDRQdVBpXzZMckVWV2tFbHlrWHBHZmNZOWVyYWFqWkVXMDA1TllpdzlZVEhsZ1k2MzhxeG12S0JvdGUtYnBKakhNenBXeHk2eE91Rmg3MHJyT0ZqLVlETzlldTYyR1d2MHlOaUo0SnVNWUVya3VLVWxZcWZac2h0Ti1mZExTUU1RbGk5RWdMbkEtYXRieEl0SmlNRlZUbm9VRWxUVE9BX1VYeTJJY9IB6AFBVV95cUxQa1hxVGhWSzlRWUF1LTd1WGtSX1NZZVhueDVNUDZaVFZlZm11Y25oR21MdTVMRDhMMGZweUs0ZTA4YW1YVzc1YWpsQ3BjZWpWUHY3MklJVURfVzJYVm0xNmp0TmhYNzRUTlhqX0NkcFQ4QUxSRWZTWl9aRFA4RnA1SV9HeVF2NDNMZEdxWUJyTkFoVHV0ZmdRLTFJQUJRbTE5QkU4Q01QVVR3N2hsS3dXY3lsdEF2Vi1JMFRRMGtxaTQ4S2ZmMXNGV2YzVWhXNk5CV0Fmd0M1UWZLX2k0VmdRdEtDRUNXN0gx?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Icici Bank Slides as Surprise CEO Exit Jolts Investors",
+      "source": "TipRanks",
+      "published_utc": "2026-10-06T10:45:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWRkdkFfR3VSbkszQS1fcklETFJoMFhfWk1NX25xNlAtSW1pNWdWcWFwcTBIWWtDSDI5R005TUE1ZWZJaGFtaVByUTRUUmhGeG1xLWFodzFMcFBuZWd5YWxVSC1IOTB3dU1zNnNZanJxM21TeHN6b3dpUmVHV2htMVB2Ulh2N1pXb1RUSk1FWkVEblB3Q0Rodg?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Announces Leadership Transition at ICICI Life Insurance",
+      "source": "TipRanks",
+      "published_utc": "2026-10-06T10:43:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObzhQVW5fNWliWExfbkp6TWVzcHZpNlJETVJkdWxWSU0yNFZUaVR2bVFqM2hHeDB6dkNqclVKaXBQdWVsSTdVZlhqV3hMTkRVNHR1UGMzTzMyb2RoVWxqMXVBYVF0eUZDMm9nT0ZzRTJFR3lqanNhaTEtNGZNTl82WkphX1VRVXZfRUJYNU91THJScEhvTHVPZWlUOEtabDNtV0JaWm5lT2pyMmo0VW5MWVdJWXJ0dkpRcWc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank rallies Tuesday, underperforms market",
+      "source": "MarketWatch",
+      "published_utc": "2026-10-06T10:32:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzFhb3RxZURoeXRyWUpmajFTMFhQTFFJNHlwa2FIXy1ub0JIWlVabkE3ZmpqUW9NUnpPeDBJemVZREs3QU9XbWU3WEtJcTNTRU5jU0ZxVThyc1FFM2lOTVFoMXl1VUhzYlRMWmJDeXFlS0NWM2w2eEZWMzkwbUZiMDQwSnVrbG5TbzNqY0Y5UjJyWjhEdUVheW9CN0NwZWl4S1VEOXhDaVJPS3FqWjhvdnRITzFZSi1NSHlUUG1mc29vWmc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Prediction for Tomorrow: 7 Oct 2026",
+      "source": "Univest",
+      "published_utc": "2026-10-06T10:26:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcktheVRpdzBDWkhEYTljMXZUWU9Kb2ZhbE1FVjEtRHpmNlYtc01QMWZ1X3RPS05DSm00WW5leG84UjJGYzNLSWs4dldGQlAydUdsOFNNcU00LTdrR25FZkEyMUE0N092SU5qNkE0VHVmQnA3QWYtbUtXWFdaZ0FkUXp2Vy1EdXpicVlXLVFEcw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Life\u2019s CEO resigns effective October 13. ICICI Bank (IBN) reports a successor awaiting approval.",
+      "source": "Stock Titan",
+      "published_utc": "2026-10-06T10:03:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOExEb25vWGpMYVc2cGU1aHZCWlNsa2JoYmtCOG55YV8xa01vT2Q3VjhVSkJEWG83SmlJSEEwQUhrdW1COFJVa3M0NGJhYjZFY1hlZU5fdXQ3NjZLY2lBNDJObnRrczJ1OU1aMk9RcW1zdHJFUjBlVHlyN3pWeGlKa0txTU9uSDhQNE0wVGprOUxZdHlSRGZmTkZCd0N6V09rY25mM2V0UTRIenAyR0E?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sidharatha Mishra appointed MD & CEO of ICICI Prudential Life",
+      "source": "ET Edge Insights",
+      "published_utc": "2026-10-06T09:22:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONFhKMTl6aHBWbUQ0Zl94UmFhekJsQjBWZmdlVlpYcVEwQU1YT2lzMkYzUWxxSXBjZ18tTmNFQnVTWUY4d3Q1QWY0NG5DbGtrZ2FEeGlQU0p3S2k3MEV3b243THJSVjdyajVpZUozVlRSeHhJeTJSeTN6Mm1GX2hZbE0ySkFwcFRyS2tzdFN5alZPekJCbktFVnRMdXE2QnBN?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Up to 52% upside - Jindal SAW, SBI Life, ICICI Bank shares | 360 ONE's 21 biggest bets for investors - Check full list",
+      "source": "Livemint",
+      "published_utc": "2026-10-06T08:49:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeEtuNXNGOHN6SXU5UE04SDFyOXMxS0FNVUFKQUhsbGNSNF9VWmJjNXBNT3Vlak5wV1c1NklrZmtSNEcyaUtlTlhIV0tqRkxMQ3ZwN2gxY2dKanp4R05KMTA0a2VydUdHRVFEYktUeDNTNmRhUUNVYnRnT2VWUG95Y0p6QmFXZnRnZnhhNVNPRHI5TFRScF9jOWZGMm1hYWFJb01kUlVGdEswT05MNXE0ZW9PSklRYlF6d3BBN21XTExTeGRPTWJHb0prZ2cyT0VlOEJzSnFBUk11dE5mdzZaajVXUEx5U2JzYnFsbmpyNDZvMXNDOHVKNzkyajBMX1Vza3hTU1dISUzSAY4CQVVfeXFMTXdNN3BwNWFsNHA2MkJ2Qy01YjBuQWhhWWRFbWlOeHFMX3haSU5yOW1oRG9MUU1oSXdUcnpnWGxySE5NQUZ3dzF5Z2RkdTRrQUQ0Nk5kWmhZWUFJMk9ES00zci1ZLWRVWExHM3lnYkdtWmN2bENTN2gyNDMyT1VrRDFDb216cVZWaWVBREd0THVmQWNNclN1dTZ1RFRSckY2Vjc1ZFhOc28yVjFlb3djVE1iYnJOZHd3MFRxc25FZWtKU2xlWm1ERDlfZHdHY1ZvUzB4U2ZtT1RqQ2pnanU3TklaS1pxYnptQVhqQWJ2MTdmeWQ4UTlCc3pPaG5uRzhLZXRRalNfWFRSZXJZdWJ3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI May Begin Rate-Hike Cycle, Repo Rate Could Reach 6% By FY27: Reports",
+      "source": "TradingView",
+      "published_utc": "2026-10-06T08:31:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa2FxV2llQ1BOajQ4Q0czR3FWOFJkRXNYcTNObHg0Z3VNVDE3VG12Q3dhYUZKSk5KODg2V2tkX3llSDRNVDFwTW0yVzBUOHFYZnZVRkxpZnpTTm90MzZHa2dvb2RYdFhRcVlNbTlKWjlEWDBuUDdhU2Y0QmVLVFFVaXRIR3l3ZEt2U3paQ1RWQ0Z4cWRRdVRCN2ljcVB5eVpUYlRrSUZmTklGS1c5YnRqOFBhSklERlVnUEFqUlJibkdOc2Mx?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, SBI, ICICI Bank, KMB, Axis Bank, IndusInd: Check fresh targets for top banking stocks",
+      "source": "Business Today",
+      "published_utc": "2026-10-06T07:55:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMV9kSDVhbFNKNmsweU9DNl9yZVdISlB6S3ZMS0U4US1fTWd6SUdxWVVFd3VUdXVnYkNWRXc1cU0wc3p2d1lBTWdaZlZzY1lrd1pnVjlPaUljOWxmWUF3Y1pkRmQwanhIX1UwUEJfTDRpd250UDFRZ1pqQmVsbTF4a0NjWHdOZWpDM2pGbElsd2pIMVk2bEl5YmlpSk1HcFB2aUNTUmtmVkxxbmFlelNHR0ZMXy1ZaW5zSXdXd2FFcS1FSkU5eTdpUlR2bzQ5cGtXTW9lVmlwNkRwcUpSeHVENkowZWlVY1VkSHdiNFNjQzdRLVFyMy1KYkpyMzZ1dGQ1eG45VWo2QdIBhwJBVV95cUxPMV9kSDVhbFNKNmsweU9DNl9yZVdISlB6S3ZMS0U4US1fTWd6SUdxWVVFd3VUdXVnYkNWRXc1cU0wc3p2d1lBTWdaZlZzY1lrd1pnVjlPaUljOWxmWUF3Y1pkRmQwanhIX1UwUEJfTDRpd250UDFRZ1pqQmVsbTF4a0NjWHdOZWpDM2pGbElsd2pIMVk2bEl5YmlpSk1HcFB2aUNTUmtmVkxxbmFlelNHR0ZMXy1ZaW5zSXdXd2FFcS1FSkU5eTdpUlR2bzQ5cGtXTW9lVmlwNkRwcUpSeHVENkowZWlVY1VkSHdiNFNjQzdRLVFyMy1KYkpyMzZ1dGQ1eG45VWo2QQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI MPC meeting Oct 2026: Why TCS, HDFC Bank, ICICI Lombard, Coal India shares may gain if 25 bps rate hike is announced",
+      "source": "Livemint",
+      "published_utc": "2026-10-06T07:38:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTjRBMjI2ZDV6ckw3Ym5SZEZQbzhEYmNNZ2tSMlNkQ1VvY2N4dmgyT0FQWkhENmlwR1FkN3QxalVZbG1DOWtnN2pyOWwzSHZ2U1hvVzhLRVhET01JRXJYVWtuMjZERmJNcThOdnVpRlU1Z01Yb1Q0a2xNX2JNVGIweEFfZ0lheE84bFE2cF9qdm02dHBtcmViVHdxTkF5UGxqQzJ1YkVOOUU1dzhLMTU0MFpvX05INzhtMFlOR05zRmNyLVJ0b2UwWVBjMXpzM0FFai04R04tdk5yMWtnZWVfa1NYWC0yNUxfcWtSTTAyNHVaekM4ZmF5dnZCaTNRZm5vcnZUYjJsZGtJM2xJbXJDMk9B0gGXAkFVX3lxTE9sX2d2T3JOR0ZqVFExdzFsbjFuUkhQNGdDZGYyNXJuOVlrVjVfMnBxeEMzbmgxazV5ajJISDRKTjJDNDFVQlZXRTVuSVFiSl9SYUFpTFlha1NJU2lTY0NHX0dkRGZlRU53WFBfVG9qMUNhZDlyUGk4OTh3V1VGNUxCMXowcTdjQ1F3M1BXdW5kdHF5cnliMWRSWGVlaEowVHI4WTNxQXdxajU5ZVVodHJ0VHBhQVlsbGp0Xy1xT09ZLU9zVGNTY3RCSmVTUjJqclc0eUNoVzRQaWRUWUUybElVLUQ0U2dmQXZSemYzZGJkejRfaWNBdXJpQWhleUxMbzRDeDVaWWF5NUlkX3dqLUEyblR5U2NINA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI seen starting rate-hike cycle, repo could rise to 6% by FY27-end: Reports",
+      "source": "cfo.economictimes.indiatimes.com",
+      "published_utc": "2026-10-06T07:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmV6YklpUEdQRnRXZVpKYTE0cnJ4VzRKWW1ydHJNa1FRQzNmUHdPNXk2emY4b0NjS3BRQnBJWWNrY2g5WXV5VkZrZldUeDRqTWRXRVNMM0RpUWVaQWlCRUVTV21xZUVNYWo5WjNBQWEzby1hMmx3dHR1aDh3X05XRGxnZkEteUZpY0RIalpDNTNJaHpQOXo4cVF1R1JaTVFvTHFGRzhXbVVkS2JfVVVPVktUY1c5TGRjWXZPRW4tYm92NXQzTUo3cXVFaGlwNDVSblUw0gHYAUFVX3lxTE9XRzV3d1EzMmdQSm45SGkyWndGNG8tWk9qc2ZrM1hwenhIcVMtd1hGTno0NjVrWExWWlR2YkxwWHpXQkkwUGdKeWVnUG5KMXVoS3psMU9mUmMzdHkyVlhZZlRlQjF1Wm1XVFdhZWx4OTFkaTYwWnFUOEJQWGNRODNWZDJMdjZZR2dGSGFweF9iUG00czhMcUx3N290WE5pVkJkR0FuTURBMGh2TVFTa05jRlJsNElramVfNzUyWF9CWkVFLXFONklCR3FHZlN0YkgtWHZJRVp2Uw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Allots 2.03 Lakh Equity Shares under ESOP Scheme",
+      "source": "PSU Connect",
+      "published_utc": "2026-10-06T07:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOHhaNGpZUUVWbldsVE14TEYyWXZoRFlFYzdvdi1nVWtucldKN3RKRXhCWFdWQjRSbFNWZV9FSXV5R05BVFJUdk1ielo0UW9hOU50dU9yWThDUU0tMGo4U2dEQnpqSmRSVm9KWVdOLWRlM1BxZ2llMDRSMjd1bDJxdjh5YThmWHdtYXMyR2VDRGVSZ056TGJrS1Fnaw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI May Begin Rate Hike Cycle, Repo Rate Could Hit 6% By FY27: Reports",
+      "source": "Oneindia",
+      "published_utc": "2026-10-06T04:47:41+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObU8tVmxQZGh0bm00dklkY1k1elpkU1J4T01sSE9naUtzNnRVcFNHc3JSck5GblZRaTB5RHNjU1k5ZTFkT3VfUEY5TVhVb1hjeFVrZFl1ZWl3R1A4WUZ6QnhTV05CRkFLd2hqWmoxLVYxM0NRQkJzblUxazRNU0wzSXlaYmFBUjE4VHk4WEg4MHVRWVVRbXQyVnpsT1I4aVhYbGtDdUc0OEJIT3NZZHEwOW9TeTd0THM0YnlzVzF5RHhqRFgtYWxFa0ZB?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Buy HDFC Bank Ltd For Target 950 by Prabhudas Liladhar Capital Ltd",
+      "source": "Investment Guru India",
+      "published_utc": "2026-10-06T03:51:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHdHbXJNVElXTElONkpad0JWaEJ3bkRGcC11T3lxb0VHb1pxSmw4S0owOU9YcWhzWWg0WUd0VXpja0VzUGp3T1JzZzFSbk5ucFZaMWpWNHZNcGp2QmNlYzFKQWFodm9lLVRNU01wVXpOUEh0dkU4djh5YTM1MXA0UGRjVmp5VUljaU94bXM5bGlvXzIyQTRia2toTkdhUW44TF9leHRTS2JQdHhxdGgwQkx0NS1mUQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI seen beginning rate-hike cycle, repo rate may reach 6% by FY27 as inflation risks rise: Reports",
+      "source": "ANI News",
+      "published_utc": "2026-10-06T03:42:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU3dfamNBY3E3TE82Mi1lTnRuNUdJcGMxUUw1bGctQnBfT3RUMEo2VmlnNkMxdG5mOWhQTld6eTVQYVB1Z0hjTEptVHJkRTRUT3hUNXNJZ1hZYjk5OW9BTTRIVWVyNllBcUwtcTZjM2tkRWY0MU5aX09BbGU0RDNKeFlqRHgzYi1wQTlUUUV2aUdlTVJpSjA2OGNxXzNLTjd1QW5oU3FrdDRXSmhvQ0RKNGdqVWFiVmt2RmowSkgzcWpEMmFTTHMwb25fbEd4aGhJVV9OaGd2LUJEOVNfcm5QVA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.114,
+    "strength": 1.0,
+    "material_count": 2,
+    "view": -0.114
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-07T11:17:02.081268+00:00"
+}
