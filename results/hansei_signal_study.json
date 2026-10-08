@@ -1,0 +1,442 @@
+{
+  "generated_utc": "2026-10-08T07:40:20.389839+00:00",
+  "stocks": 105,
+  "missing": [],
+  "history_start": "2006-01-01",
+  "large_caps": {
+    "Tune 2007-2019": {
+      "5_sessions": {
+        "trend": {
+          "liked_future_volatility": 0.2859315527946669,
+          "disliked_future_volatility": 0.3372955040179612,
+          "opinions": 275826,
+          "liked_share": 0.6353824512555016,
+          "liked_excess": 0.0024948099316836015,
+          "disliked_excess": 0.00055313022963156,
+          "spread": 0.0019416797020520415,
+          "spread_ci95": [
+            -0.0021251407323950623,
+            0.006165650314733004
+          ],
+          "prob_spread_positive": 0.831,
+          "hit_rate": 0.5073270830161044,
+          "rank_correlation": 0.011787134166334283,
+          "months": 156
+        },
+        "volatility": {
+          "liked_future_volatility": 0.28488821350851834,
+          "disliked_future_volatility": 0.35978566754892194,
+          "opinions": 68153,
+          "liked_share": 0.7537220126331613,
+          "liked_excess": 0.0019752240733939275,
+          "disliked_excess": 0.001269352752807593,
+          "spread": 0.0007058713205863344,
+          "spread_ci95": [
+            -0.0018650265033230322,
+            0.003327458643700989
+          ],
+          "prob_spread_positive": 0.693,
+          "hit_rate": 0.48891464792452277,
+          "rank_correlation": 0.004595935557980534,
+          "months": 156
+        },
+        "momentum": {
+          "liked_future_volatility": 0.2939942024969567,
+          "disliked_future_volatility": 0.3305804007341381,
+          "opinions": 287110,
+          "liked_share": 0.6196370728988889,
+          "liked_excess": 0.002504825511454519,
+          "disliked_excess": 0.0006201494869347224,
+          "spread": 0.0018846760245197964,
+          "spread_ci95": [
+            -0.0014994950195106496,
+            0.005841335868274315
+          ],
+          "prob_spread_positive": 0.856,
+          "hit_rate": 0.5093970951899969,
+          "rank_correlation": 0.0187004198031503,
+          "months": 156
+        }
+      },
+      "20_sessions": {
+        "trend": {
+          "liked_future_volatility": 0.30987591668487247,
+          "disliked_future_volatility": 0.36299598628092117,
+          "opinions": 275821,
+          "liked_share": 0.635375841578415,
+          "liked_excess": 0.010115793282386484,
+          "disliked_excess": 0.0021986570012313762,
+          "spread": 0.007917136281155108,
+          "spread_ci95": [
+            -0.006114699353594338,
+            0.02161927995681054
+          ],
+          "prob_spread_positive": 0.882,
+          "hit_rate": 0.5204099760351822,
+          "rank_correlation": 0.03406308573231662,
+          "months": 156
+        },
+        "volatility": {
+          "liked_future_volatility": 0.3131881987006992,
+          "disliked_future_volatility": 0.3714300889490909,
+          "opinions": 68160,
+          "liked_share": 0.7536931571796132,
+          "liked_excess": 0.0069552100180428015,
+          "disliked_excess": 0.008162692402265163,
+          "spread": -0.0012074823842223616,
+          "spread_ci95": [
+            -0.00985810009854264,
+            0.007481326453755739
+          ],
+          "prob_spread_positive": 0.398,
+          "hit_rate": 0.4577904929577465,
+          "rank_correlation": -0.009490261716429502,
+          "months": 156
+        },
+        "momentum": {
+          "liked_future_volatility": 0.3174663874537697,
+          "disliked_future_volatility": 0.35770975602832894,
+          "opinions": 287090,
+          "liked_share": 0.6196279912222648,
+          "liked_excess": 0.009614383518994098,
+          "disliked_excess": 0.002938672054025116,
+          "spread": 0.0066757114649689826,
+          "spread_ci95": [
+            -0.0063453738455420735,
+            0.019000113335790887
+          ],
+          "prob_spread_positive": 0.854,
+          "hit_rate": 0.5220627677731722,
+          "rank_correlation": 0.03405891963713085,
+          "months": 156
+        }
+      }
+    },
+    "Holdout 2020-": {
+      "5_sessions": {
+        "trend": {
+          "liked_future_volatility": 0.26572159562635567,
+          "disliked_future_volatility": 0.3085854311790272,
+          "opinions": 146199,
+          "liked_share": 0.6834930471480654,
+          "liked_excess": 0.0033816318597562735,
+          "disliked_excess": 0.0006976591878576227,
+          "spread": 0.002683972671898651,
+          "spread_ci95": [
+            -0.0021754712698316228,
+            0.00829360600330443
+          ],
+          "prob_spread_positive": 0.833,
+          "hit_rate": 0.5168913604060219,
+          "rank_correlation": 0.019355204495538333,
+          "months": 81
+        },
+        "volatility": {
+          "liked_future_volatility": 0.25908661046694,
+          "disliked_future_volatility": 0.33263367383112274,
+          "opinions": 36366,
+          "liked_share": 0.7451255238922919,
+          "liked_excess": 0.0028843231702921656,
+          "disliked_excess": 0.0037124740884513533,
+          "spread": -0.0008281509181591877,
+          "spread_ci95": [
+            -0.005608144926588149,
+            0.00532027616922868
+          ],
+          "prob_spread_positive": 0.39,
+          "hit_rate": 0.46466479678820877,
+          "rank_correlation": -0.016649808870030793,
+          "months": 81
+        },
+        "momentum": {
+          "liked_future_volatility": 0.26827498837131747,
+          "disliked_future_volatility": 0.2772184362838322,
+          "opinions": 168025,
+          "liked_share": 0.6611813718196697,
+          "liked_excess": 0.002232994219905445,
+          "disliked_excess": 0.002957716431048828,
+          "spread": -0.0007247222111433833,
+          "spread_ci95": [
+            -0.003941351204964083,
+            0.0021784745251914994
+          ],
+          "prob_spread_positive": 0.316,
+          "hit_rate": 0.5094122898378217,
+          "rank_correlation": 0.00034217523843724153,
+          "months": 81
+        }
+      },
+      "20_sessions": {
+        "trend": {
+          "liked_future_volatility": 0.2917425885220769,
+          "disliked_future_volatility": 0.3286762605228166,
+          "opinions": 144664,
+          "liked_share": 0.6862177182989548,
+          "liked_excess": 0.01164080097349383,
+          "disliked_excess": 0.008653637040509858,
+          "spread": 0.0029871639329839723,
+          "spread_ci95": [
+            -0.008666162790241832,
+            0.014732785584559326
+          ],
+          "prob_spread_positive": 0.671,
+          "hit_rate": 0.5204266438091024,
+          "rank_correlation": 0.01759271723360159,
+          "months": 81
+        },
+        "volatility": {
+          "liked_future_volatility": 0.28667313782668685,
+          "disliked_future_volatility": 0.34539724246222175,
+          "opinions": 36141,
+          "liked_share": 0.7438842904926584,
+          "liked_excess": 0.01026241590063816,
+          "disliked_excess": 0.01663815488323868,
+          "spread": -0.006375738982600519,
+          "spread_ci95": [
+            -0.0183343372448069,
+            0.005278814203791241
+          ],
+          "prob_spread_positive": 0.155,
+          "hit_rate": 0.41921916936443376,
+          "rank_correlation": -0.037132066463129776,
+          "months": 81
+        },
+        "momentum": {
+          "liked_future_volatility": 0.29315213878139995,
+          "disliked_future_volatility": 0.29559050704669193,
+          "opinions": 166500,
+          "liked_share": 0.6611711711711712,
+          "liked_excess": 0.009389301657166121,
+          "disliked_excess": 0.011794958671184541,
+          "spread": -0.0024056570140184204,
+          "spread_ci95": [
+            -0.013100866458942394,
+            0.009020636989051879
+          ],
+          "prob_spread_positive": 0.353,
+          "hit_rate": 0.509975975975976,
+          "rank_correlation": 0.00231572837607924,
+          "months": 81
+        }
+      }
+    }
+  },
+  "paper_book_stocks": {
+    "Tune 2007-2019": {
+      "5_sessions": {
+        "trend": {
+          "liked_future_volatility": 0.26562021017631354,
+          "disliked_future_volatility": 0.3279691578545561,
+          "opinions": 15627,
+          "liked_share": 0.6851602994816663,
+          "liked_excess": 0.002060438139615217,
+          "disliked_excess": 0.0016306457353194499,
+          "spread": 0.000429792404295767,
+          "spread_ci95": [
+            -0.005388484684346919,
+            0.0066054512725722235
+          ],
+          "prob_spread_positive": 0.534,
+          "hit_rate": 0.5103346771613233,
+          "rank_correlation": -0.0148079770223058,
+          "months": 156
+        },
+        "volatility": {
+          "liked_future_volatility": 0.2618597908306998,
+          "disliked_future_volatility": 0.3586868494866002,
+          "opinions": 3709,
+          "liked_share": 0.7673878958921292,
+          "liked_excess": 0.0020016058667835825,
+          "disliked_excess": 0.001638482798991434,
+          "spread": 0.00036312306779214855,
+          "spread_ci95": [
+            -0.0038609381958547243,
+            0.004521247691413214
+          ],
+          "prob_spread_positive": 0.551,
+          "hit_rate": 0.47829603666756537,
+          "rank_correlation": -0.002922222444182848,
+          "months": 156
+        },
+        "momentum": {
+          "liked_future_volatility": 0.2711028132909936,
+          "disliked_future_volatility": 0.31569316159178007,
+          "opinions": 15467,
+          "liked_share": 0.6703950345897718,
+          "liked_excess": 0.0025340382813666246,
+          "disliked_excess": 0.0007329631489467912,
+          "spread": 0.0018010751324198334,
+          "spread_ci95": [
+            -0.0031755780792142724,
+            0.007474805445877784
+          ],
+          "prob_spread_positive": 0.759,
+          "hit_rate": 0.5145794271675179,
+          "rank_correlation": 0.0061874955515494635,
+          "months": 156
+        }
+      },
+      "20_sessions": {
+        "trend": {
+          "liked_future_volatility": 0.2854097164744369,
+          "disliked_future_volatility": 0.34752582610701277,
+          "opinions": 15627,
+          "liked_share": 0.6851602994816663,
+          "liked_excess": 0.00838521803793031,
+          "disliked_excess": 0.005098961400258364,
+          "spread": 0.003286256637671946,
+          "spread_ci95": [
+            -0.014085822077329713,
+            0.020606023174385178
+          ],
+          "prob_spread_positive": 0.66,
+          "hit_rate": 0.518397645101427,
+          "rank_correlation": -0.020345297257324972,
+          "months": 156
+        },
+        "volatility": {
+          "liked_future_volatility": 0.28465596370370466,
+          "disliked_future_volatility": 0.3683155309411858,
+          "opinions": 3709,
+          "liked_share": 0.7673878958921292,
+          "liked_excess": 0.007018679295995332,
+          "disliked_excess": 0.0089030455317173,
+          "spread": -0.0018843662357219682,
+          "spread_ci95": [
+            -0.014635059374657214,
+            0.011558233946052009
+          ],
+          "prob_spread_positive": 0.376,
+          "hit_rate": 0.4405500134807226,
+          "rank_correlation": -0.023766809143453225,
+          "months": 156
+        },
+        "momentum": {
+          "liked_future_volatility": 0.28906086599780056,
+          "disliked_future_volatility": 0.3391208622337196,
+          "opinions": 15467,
+          "liked_share": 0.6703950345897718,
+          "liked_excess": 0.008852100043990046,
+          "disliked_excess": 0.0046829331509276075,
+          "spread": 0.004169166893062438,
+          "spread_ci95": [
+            -0.014038750435498737,
+            0.021983364296912698
+          ],
+          "prob_spread_positive": 0.684,
+          "hit_rate": 0.5310014870369173,
+          "rank_correlation": -0.0037570170514322388,
+          "months": 156
+        }
+      }
+    },
+    "Holdout 2020-": {
+      "5_sessions": {
+        "trend": {
+          "liked_future_volatility": 0.2139955199241647,
+          "disliked_future_volatility": 0.26381830754553737,
+          "opinions": 7387,
+          "liked_share": 0.6301610938134561,
+          "liked_excess": 0.0011593816762082662,
+          "disliked_excess": 1.8619046896499432e-05,
+          "spread": 0.0011407626293117668,
+          "spread_ci95": [
+            -0.003761895003259229,
+            0.006782896176587053
+          ],
+          "prob_spread_positive": 0.651,
+          "hit_rate": 0.5020982807635035,
+          "rank_correlation": 0.0018041770743386426,
+          "months": 81
+        },
+        "volatility": {
+          "liked_future_volatility": 0.20882399305003693,
+          "disliked_future_volatility": 0.29123221944261396,
+          "opinions": 1919,
+          "liked_share": 0.73848460070864,
+          "liked_excess": 0.0012963315211332314,
+          "disliked_excess": 0.0009782873543635376,
+          "spread": 0.0003180441667696937,
+          "spread_ci95": [
+            -0.004287314588771503,
+            0.005266131293942595
+          ],
+          "prob_spread_positive": 0.551,
+          "hit_rate": 0.5065138092756644,
+          "rank_correlation": 0.005785761714168861,
+          "months": 81
+        },
+        "momentum": {
+          "liked_future_volatility": 0.22037782171520684,
+          "disliked_future_volatility": 0.23703277825521432,
+          "opinions": 7968,
+          "liked_share": 0.6188504016064257,
+          "liked_excess": 0.0012881107476033036,
+          "disliked_excess": 0.00019421794057745016,
+          "spread": 0.0010938928070258534,
+          "spread_ci95": [
+            -0.0026350260015246484,
+            0.004464041221417332
+          ],
+          "prob_spread_positive": 0.722,
+          "hit_rate": 0.5082831325301205,
+          "rank_correlation": 0.01140746091194625,
+          "months": 81
+        }
+      },
+      "20_sessions": {
+        "trend": {
+          "liked_future_volatility": 0.2367898385556837,
+          "disliked_future_volatility": 0.2747101190876721,
+          "opinions": 7314,
+          "liked_share": 0.633579436696746,
+          "liked_excess": 0.003441308686795408,
+          "disliked_excess": 0.003047676515863127,
+          "spread": 0.000393632170932281,
+          "spread_ci95": [
+            -0.012051424204381114,
+            0.01254063748980916
+          ],
+          "prob_spread_positive": 0.532,
+          "hit_rate": 0.5031446540880503,
+          "rank_correlation": -0.005204170124756005,
+          "months": 81
+        },
+        "volatility": {
+          "liked_future_volatility": 0.22781339772214296,
+          "disliked_future_volatility": 0.30599561810706927,
+          "opinions": 1894,
+          "liked_share": 0.7392262150626463,
+          "liked_excess": 0.003881887406047271,
+          "disliked_excess": 0.006819674846294577,
+          "spread": -0.0029377874402473064,
+          "spread_ci95": [
+            -0.018663021028577403,
+            0.015022460668701741
+          ],
+          "prob_spread_positive": 0.416,
+          "hit_rate": 0.4699049630411827,
+          "rank_correlation": -0.004987690257223082,
+          "months": 81
+        },
+        "momentum": {
+          "liked_future_volatility": 0.23947700970442506,
+          "disliked_future_volatility": 0.2517326619197177,
+          "opinions": 7896,
+          "liked_share": 0.6210739614994935,
+          "liked_excess": 0.006194472565570474,
+          "disliked_excess": -0.0013811055282503305,
+          "spread": 0.007575578093820804,
+          "spread_ci95": [
+            -0.00478862890815405,
+            0.020039991197434888
+          ],
+          "prob_spread_positive": 0.902,
+          "hit_rate": 0.5184903748733536,
+          "rank_correlation": 0.031086041422272344,
+          "months": 81
+        }
+      }
+    }
+  }
+}

@@ -70,6 +70,13 @@ def performance(book: dict) -> dict:
     same_ret = same_exposure[-1] / start - 1 if history else 0.0
     gaps = np.diff(np.log(equity)) - np.diff(np.log(held)) if len(history) > 1 else np.array([])
     invested = [1 - h["cash"] / h["equity"] for h in history if h["equity"] > 0]
+    swings = {}
+    if len(history) > 2:   # annualized volatility of daily returns: the edge the backtest says is real
+        own, hold = np.diff(np.log(equity)), np.diff(np.log(held))
+        swings = {"hansei_volatility": float(own.std(ddof=1) * np.sqrt(TRADING_DAYS)),
+                  "hold_volatility": float(hold.std(ddof=1) * np.sqrt(TRADING_DAYS))}
+        swings["volatility_ratio"] = (swings["hansei_volatility"] / swings["hold_volatility"]
+                                      if swings["hold_volatility"] > 0 else None)
     return {
         "sessions": len(history),
         "first": history[0]["date"] if history else None,
@@ -82,6 +89,7 @@ def performance(book: dict) -> dict:
         "gap_from_selection": ret - same_ret,
         "average_invested": float(np.mean(invested)) if invested else 0.0,
         "daily_gap_volatility": float(gaps.std(ddof=1)) if len(gaps) > 1 else None,
+        **swings,
     }
 
 
@@ -195,6 +203,9 @@ def main() -> None:
     print(f"  gap from exposure {p['gap_from_exposure']:+.2%}, from selection {p['gap_from_selection']:+.2%}"
           f"   (average invested {p['average_invested']:.0%})")
     print(f"  max drawdown  HANSEI {p['hansei_max_drawdown']:.2%}   holding {p['hold_max_drawdown']:.2%}")
+    if p.get("volatility_ratio"):
+        print(f"  swings  HANSEI {p['hansei_volatility']:.1%}/yr   holding {p['hold_volatility']:.1%}/yr"
+              f"   ({p['volatility_ratio'] - 1:+.0%}; the backtest says about -25%)")
     for horizon, card in report["advisors"].items():
         cells = [f"{a} {c['hit_rate']:.0%} of {c['judged']}" if c["hit_rate"] is not None else f"{a} --"
                  for a, c in card.items()]

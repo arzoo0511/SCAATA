@@ -63,3 +63,10 @@ def test_evaluate_runs_end_to_end(tmp_path):
     memory = {"weights": {"trend": 0.25, "volatility": 0.25, "momentum": 0.25, "news": 0.25}, "observations": []}
     report = evaluate(book, [], memory, None, tmp_path, date(2026, 1, 7))
     assert set(report) >= {"performance", "advisors", "health", "significance", "trust"}
+
+
+def test_volatility_ratio_compares_daily_swings():
+    rows = [("2026-01-05", 100.0, 100.0, 50.0), ("2026-01-06", 101.0, 102.0, 50.0),
+            ("2026-01-07", 100.0, 100.0, 50.0), ("2026-01-08", 101.0, 102.0, 50.0)]
+    p = performance(_book(rows))
+    assert 0 < p["volatility_ratio"] < 1

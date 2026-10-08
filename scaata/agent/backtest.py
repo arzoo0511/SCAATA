@@ -21,6 +21,14 @@ believing them:
 
 Writes `results/hansei_backtest.json` for the dashboard. Fractional shares
 (the live book trades whole shares); otherwise the same mechanics.
+
+    python -m scaata.agent.backtest --long
+
+runs the same from 2007, which adds the 2008 crash and five more years, and
+splits it the honest way: settings may only be chosen on 2007-2019 (*tune*);
+2020 onward (*holdout*) is looked at once, to check them. It also reports
+every three-year block, so one good stretch can't carry the result. Writes
+`results/hansei_backtest_long.json`.
 """
 from __future__ import annotations
 
@@ -42,18 +50,38 @@ START_CASH = 10_000.0
 VIEW_WINDOW = 400          # every advisor looks back at most ~272 sessions
 PERIODS = (("Full period", "2020-01-01", None), ("First half", "2020-01-01", "2023-06-30"),
            ("Second half", "2023-07-01", None))
+LONG_HISTORY_START = "2006-01-01"   # Yahoo's IOC series has a broken print in Jul 2005
+LONG_PERIODS = (("Tune 2007-2019", "2007-01-01", "2019-12-31"), ("Holdout 2020-", "2020-01-01", None),
+                ("2007-2009", "2007-01-01", "2009-12-31"), ("2010-2012", "2010-01-01", "2012-12-31"),
+                ("2013-2015", "2013-01-01", "2015-12-31"), ("2016-2019", "2016-01-01", "2019-12-31"),
+                ("2020-2022", "2020-01-01", "2022-12-31"), ("2023-", "2023-01-01", None))
+LONG_RESULTS_PATH = ROOT_DIR / "results" / "hansei_backtest_long.json"
+BAD_OPEN = 0.10            # an open this far from both the previous close and its own close...
+FLAT_DAY = 0.05            # ...on a day that otherwise barely moved is a bad print
 DEFAULTS = {"act_threshold": brain.ACT_THRESHOLD, "min_hold_days": brain.MIN_HOLD_DAYS,
             "learning_rate": mem.LEARNING_RATE}
 
 
-def load_prices(end: date) -> tuple[pd.DataFrame, pd.DataFrame]:
+def repair_opens(opens: pd.DataFrame, closes: pd.DataFrame) -> pd.DataFrame:
+    """Yahoo's older NSE opens contain bad prints: a stock "opens" 18% down and
+    closes flat. Fills happen at the open, so those would be fake wins or
+    losses. Where the open is far from the previous close while the close
+    is near it, use the previous close as the open."""
+    prev = closes.shift()
+    gap, net = np.log(opens / prev), np.log(closes / prev)
+    bad = (gap.abs() > BAD_OPEN) & (net.abs() < FLAT_DAY)
+    return opens.mask(bad, prev)
+
+
+def load_prices(end: date, start: str = "2019-01-01") -> tuple[pd.DataFrame, pd.DataFrame]:
     from scaata.data.loaders import load_market_data
 
-    raw = load_market_data(list(INDIA_TICKERS), "2019-01-01", (end + pd.Timedelta(days=1)).isoformat(),
-                           use_cache=False).reset_index()
+    raw = load_market_data(list(INDIA_TICKERS), start, (end + pd.Timedelta(days=1)).isoformat(),
+                           use_cache=False)
+    raw = raw[raw["Volume"] > 0].reset_index()   # Yahoo's flat, zero-volume bars on NSE holidays
     closes = raw.pivot_table(index="Date", columns="Ticker", values="Close").dropna()
     opens = raw.pivot_table(index="Date", columns="Ticker", values="Open").reindex(closes.index)
-    return opens.fillna(closes), closes
+    return repair_opens(opens.fillna(closes), closes), closes
 
 
 def precompute_views(closes: pd.DataFrame, start: str) -> dict[pd.Timestamp, dict[str, dict]]:
@@ -137,8 +165,55 @@ def evaluate(run: dict, bootstrap: bool = False) -> dict:
     return out
 
 
+def _print_periods(periods: dict) -> None:
+    print(f"{'':<16}{'HANSEI CAGR/Sharpe/DD':>26}{'Buy&hold CAGR/Sharpe/DD':>28}{'trades':>8}{'P(better)':>11}")
+    for label, r in periods.items():
+        a, b = r["hansei"], r["buy_and_hold"]
+        print(f"{label:<16}{a['cagr']:>9.2%}{a['sharpe']:>8.2f}{a['max_drawdown']:>9.1%}"
+              f"{b['cagr']:>11.2%}{b['sharpe']:>8.2f}{b['max_drawdown']:>9.1%}{r['trades']:>8}"
+              f"{r['prob_sharpe_better']:>11.0%}")
+
+
+def _grid(opens, closes, views, start: str, end: str | None) -> list[dict]:
+    grid = []
+    for threshold in (0.25, 1 / 3, 0.5):
+        for hold in (5, 10, 20):
+            result = evaluate(simulate(opens, closes, views, start, end, threshold, hold))
+            grid.append({"act_threshold": round(threshold, 3), "min_hold_days": hold, **{
+                k: result[k] for k in ("sharpe_diff", "cagr_diff", "trades")},
+                "max_drawdown": result["hansei"]["max_drawdown"],
+                "hold_max_drawdown": result["buy_and_hold"]["max_drawdown"]})
+    return grid
+
+
+def main_long() -> None:
+    """2007 onward: tune on 2007-2019, check once on 2020-, and every 3-year block."""
+    opens, closes = load_prices(date.today(), LONG_HISTORY_START)
+    views = precompute_views(closes, LONG_PERIODS[0][1])
+    periods = {label: evaluate(simulate(opens, closes, views, start, end), bootstrap=True)
+               for label, start, end in LONG_PERIODS}
+    grids = {label: _grid(opens, closes, views, start, end) for label, start, end in LONG_PERIODS[:2]}
+    report = {"generated_utc": datetime.now(timezone.utc).isoformat(), "defaults": DEFAULTS,
+              "cost_per_side": COST_PER_SIDE, "news": "silent (no historical archive)",
+              "history_start": LONG_HISTORY_START, "periods": periods, "grids": grids}
+    LONG_RESULTS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    LONG_RESULTS_PATH.write_text(json.dumps(report, indent=2), encoding="utf-8")
+
+    _print_periods(periods)
+    for label, grid in grids.items():
+        beat_sharpe = sum(g["sharpe_diff"] > 0 for g in grid)
+        beat_cagr = sum(g["cagr_diff"] > 0 for g in grid)
+        shallower = sum(g["max_drawdown"] > g["hold_max_drawdown"] for g in grid)
+        print(f"grid on {label}: Sharpe better {beat_sharpe}/{len(grid)}, CAGR better {beat_cagr}/{len(grid)}, "
+              f"smaller drawdown {shallower}/{len(grid)}; CAGR diff "
+              f"{min(g['cagr_diff'] for g in grid):+.2%} .. {max(g['cagr_diff'] for g in grid):+.2%}")
+    print(f"saved {LONG_RESULTS_PATH.relative_to(ROOT_DIR)}")
+
+
 def main() -> None:
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    if "--long" in sys.argv[1:]:
+        return main_long()
     opens, closes = load_prices(date.today())
     views = precompute_views(closes, PERIODS[0][1])
 

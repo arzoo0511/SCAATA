@@ -13,7 +13,10 @@
     "gap_from_exposure": 0.0044215061347306905,
     "gap_from_selection": 0.004433493865269478,
     "average_invested": 0.39846554946851653,
-    "daily_gap_volatility": 0.004714394213843343
+    "daily_gap_volatility": 0.004714394213843343,
+    "hansei_volatility": 0.08355658922239165,
+    "hold_volatility": 0.14551858072266868,
+    "volatility_ratio": 0.5741987642226593
   },
   "advisors": {
     "5_sessions": {

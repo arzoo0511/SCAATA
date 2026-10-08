@@ -1,0 +1,397 @@
+{
+  "generated_utc": "2026-10-08T07:40:25.991843+00:00",
+  "defaults": {
+    "act_threshold": 0.3333333333333333,
+    "min_hold_days": 10,
+    "learning_rate": 0.05
+  },
+  "cost_per_side": 0.0016112259999999999,
+  "news": "silent (no historical archive)",
+  "history_start": "2006-01-01",
+  "periods": {
+    "Tune 2007-2019": {
+      "start": "2007-01-02",
+      "end": "2019-12-31",
+      "hansei": {
+        "cagr": 0.1605583576562919,
+        "sharpe": 0.9469679971583428,
+        "max_drawdown": -0.4162351927407681,
+        "final": 69226.50811141725
+      },
+      "buy_and_hold": {
+        "cagr": 0.17213157659592215,
+        "sharpe": 0.8356286501222336,
+        "max_drawdown": -0.5825304578456324,
+        "final": 78753.13463615338
+      },
+      "trades": 282,
+      "costs": 1149.23,
+      "sharpe_diff": 0.11133934703610915,
+      "cagr_diff": -0.011573218939630259,
+      "weights": {
+        "trend": 0.2063,
+        "volatility": 0.0524,
+        "momentum": 0.6003,
+        "news": 0.141
+      },
+      "prob_sharpe_better": 0.781
+    },
+    "Holdout 2020-": {
+      "start": "2020-01-01",
+      "end": "2026-10-08",
+      "hansei": {
+        "cagr": 0.10314396171716655,
+        "sharpe": 0.8081878785532113,
+        "max_drawdown": -0.2835074793836188,
+        "final": 19432.70579768568
+      },
+      "buy_and_hold": {
+        "cagr": 0.09290067313308392,
+        "sharpe": 0.575286557546118,
+        "max_drawdown": -0.3881028274744475,
+        "final": 18243.697633087308
+      },
+      "trades": 127,
+      "costs": 266.31,
+      "sharpe_diff": 0.23290132100709326,
+      "cagr_diff": 0.010243288584082633,
+      "weights": {
+        "trend": 0.0657,
+        "volatility": 0.1358,
+        "momentum": 0.5947,
+        "news": 0.2037
+      },
+      "prob_sharpe_better": 0.8835
+    },
+    "2007-2009": {
+      "start": "2007-01-02",
+      "end": "2009-12-31",
+      "hansei": {
+        "cagr": 0.13874209255197179,
+        "sharpe": 0.6479662323989529,
+        "max_drawdown": -0.4162351927407681,
+        "final": 14757.261574569222
+      },
+      "buy_and_hold": {
+        "cagr": 0.12270518419250709,
+        "sharpe": 0.5139989378404863,
+        "max_drawdown": -0.5825304578456324,
+        "final": 14143.482226125747
+      },
+      "trades": 76,
+      "costs": 110.75,
+      "sharpe_diff": 0.13396729455846657,
+      "cagr_diff": 0.016036908359464697,
+      "weights": {
+        "trend": 0.6109,
+        "volatility": 0.08,
+        "momentum": 0.0754,
+        "news": 0.2337
+      },
+      "prob_sharpe_better": 0.6375
+    },
+    "2010-2012": {
+      "start": "2010-01-04",
+      "end": "2012-12-31",
+      "hansei": {
+        "cagr": 0.18139348165617641,
+        "sharpe": 1.1954490843209722,
+        "max_drawdown": -0.1745655142465627,
+        "final": 16460.40210327078
+      },
+      "buy_and_hold": {
+        "cagr": 0.21706565784577259,
+        "sharpe": 1.2077440777128823,
+        "max_drawdown": -0.19374641491566524,
+        "final": 17991.447681989546
+      },
+      "trades": 47,
+      "costs": 86.42,
+      "sharpe_diff": -0.012294993391910092,
+      "cagr_diff": -0.03567217618959617,
+      "weights": {
+        "trend": 0.635,
+        "volatility": 0.0641,
+        "momentum": 0.0659,
+        "news": 0.235
+      },
+      "prob_sharpe_better": 0.449
+    },
+    "2013-2015": {
+      "start": "2013-01-01",
+      "end": "2015-12-31",
+      "hansei": {
+        "cagr": 0.13906834981734106,
+        "sharpe": 0.9339535687673683,
+        "max_drawdown": -0.17566004710130717,
+        "final": 14769.929100861755
+      },
+      "buy_and_hold": {
+        "cagr": 0.13972971997823436,
+        "sharpe": 0.8055342789645363,
+        "max_drawdown": -0.22645809825387653,
+        "final": 14795.630209264837
+      },
+      "trades": 65,
+      "costs": 95.54,
+      "sharpe_diff": 0.12841928980283202,
+      "cagr_diff": -0.0006613701608932931,
+      "weights": {
+        "trend": 0.178,
+        "volatility": 0.2639,
+        "momentum": 0.3548,
+        "news": 0.2033
+      },
+      "prob_sharpe_better": 0.7595
+    },
+    "2016-2019": {
+      "start": "2016-01-01",
+      "end": "2019-12-31",
+      "hansei": {
+        "cagr": 0.15800415159094183,
+        "sharpe": 1.1711044316776236,
+        "max_drawdown": -0.13412942603020908,
+        "final": 17974.881534056807
+      },
+      "buy_and_hold": {
+        "cagr": 0.1790729045146573,
+        "sharpe": 1.1046627276574752,
+        "max_drawdown": -0.15763838511803496,
+        "final": 19318.20495425629
+      },
+      "trades": 76,
+      "costs": 159.28,
+      "sharpe_diff": 0.06644170402014837,
+      "cagr_diff": -0.02106875292371546,
+      "weights": {
+        "trend": 0.2024,
+        "volatility": 0.05,
+        "momentum": 0.53,
+        "news": 0.2176
+      },
+      "prob_sharpe_better": 0.605
+    },
+    "2020-2022": {
+      "start": "2020-01-01",
+      "end": "2022-12-30",
+      "hansei": {
+        "cagr": 0.09700106894218874,
+        "sharpe": 0.6898697013958045,
+        "max_drawdown": -0.2835074793836188,
+        "final": 13195.580811089827
+      },
+      "buy_and_hold": {
+        "cagr": 0.10368205667302077,
+        "sharpe": 0.5542557561346336,
+        "max_drawdown": -0.3881028274744475,
+        "final": 13437.75349973951
+      },
+      "trades": 53,
+      "costs": 79.01,
+      "sharpe_diff": 0.13561394526117088,
+      "cagr_diff": -0.006680987730832033,
+      "weights": {
+        "trend": 0.1191,
+        "volatility": 0.44,
+        "momentum": 0.2146,
+        "news": 0.2263
+      },
+      "prob_sharpe_better": 0.6315
+    },
+    "2023-": {
+      "start": "2023-01-02",
+      "end": "2026-10-08",
+      "hansei": {
+        "cagr": 0.11240064876245826,
+        "sharpe": 0.9596879273867733,
+        "max_drawdown": -0.13888465750280163,
+        "final": 14933.186445086996
+      },
+      "buy_and_hold": {
+        "cagr": 0.08773816958376068,
+        "sharpe": 0.619188664469045,
+        "max_drawdown": -0.21484427069017323,
+        "final": 13724.534486311104
+      },
+      "trades": 76,
+      "costs": 147.98,
+      "sharpe_diff": 0.34049926291772836,
+      "cagr_diff": 0.02466247917869757,
+      "weights": {
+        "trend": 0.0658,
+        "volatility": 0.1355,
+        "momentum": 0.5828,
+        "news": 0.2159
+      },
+      "prob_sharpe_better": 0.9895
+    }
+  },
+  "grids": {
+    "Tune 2007-2019": [
+      {
+        "act_threshold": 0.25,
+        "min_hold_days": 5,
+        "sharpe_diff": 0.09177097367485998,
+        "cagr_diff": -0.015661792321304047,
+        "trades": 423,
+        "max_drawdown": -0.4095251592700602,
+        "hold_max_drawdown": -0.5825304578456324
+      },
+      {
+        "act_threshold": 0.25,
+        "min_hold_days": 10,
+        "sharpe_diff": 0.1320197948001265,
+        "cagr_diff": -0.008365994762691953,
+        "trades": 332,
+        "max_drawdown": -0.39092397381063215,
+        "hold_max_drawdown": -0.5825304578456324
+      },
+      {
+        "act_threshold": 0.25,
+        "min_hold_days": 20,
+        "sharpe_diff": 0.10573029651239696,
+        "cagr_diff": -0.014213947347789135,
+        "trades": 250,
+        "max_drawdown": -0.40461800611141346,
+        "hold_max_drawdown": -0.5825304578456324
+      },
+      {
+        "act_threshold": 0.333,
+        "min_hold_days": 5,
+        "sharpe_diff": 0.11241045272899075,
+        "cagr_diff": -0.010380550707806746,
+        "trades": 326,
+        "max_drawdown": -0.4083652647516956,
+        "hold_max_drawdown": -0.5825304578456324
+      },
+      {
+        "act_threshold": 0.333,
+        "min_hold_days": 10,
+        "sharpe_diff": 0.11133934703610915,
+        "cagr_diff": -0.011573218939630259,
+        "trades": 282,
+        "max_drawdown": -0.4162351927407681,
+        "hold_max_drawdown": -0.5825304578456324
+      },
+      {
+        "act_threshold": 0.333,
+        "min_hold_days": 20,
+        "sharpe_diff": 0.11142614992852917,
+        "cagr_diff": -0.012339253538443673,
+        "trades": 222,
+        "max_drawdown": -0.39869791808890065,
+        "hold_max_drawdown": -0.5825304578456324
+      },
+      {
+        "act_threshold": 0.5,
+        "min_hold_days": 5,
+        "sharpe_diff": 0.08921564214455924,
+        "cagr_diff": -0.012473951028023178,
+        "trades": 182,
+        "max_drawdown": -0.3909888864494382,
+        "hold_max_drawdown": -0.5825304578456324
+      },
+      {
+        "act_threshold": 0.5,
+        "min_hold_days": 10,
+        "sharpe_diff": 0.10436185438213952,
+        "cagr_diff": -0.01090813996590323,
+        "trades": 164,
+        "max_drawdown": -0.39505898066869516,
+        "hold_max_drawdown": -0.5825304578456324
+      },
+      {
+        "act_threshold": 0.5,
+        "min_hold_days": 20,
+        "sharpe_diff": 0.10692153778958158,
+        "cagr_diff": -0.009796692895134518,
+        "trades": 145,
+        "max_drawdown": -0.4072180596373476,
+        "hold_max_drawdown": -0.5825304578456324
+      }
+    ],
+    "Holdout 2020-": [
+      {
+        "act_threshold": 0.25,
+        "min_hold_days": 5,
+        "sharpe_diff": 0.21397712976011918,
+        "cagr_diff": 0.007363330786955169,
+        "trades": 189,
+        "max_drawdown": -0.2773662704636061,
+        "hold_max_drawdown": -0.3881028274744475
+      },
+      {
+        "act_threshold": 0.25,
+        "min_hold_days": 10,
+        "sharpe_diff": 0.1992103425711741,
+        "cagr_diff": 0.005168682594907104,
+        "trades": 163,
+        "max_drawdown": -0.28537712132028864,
+        "hold_max_drawdown": -0.3881028274744475
+      },
+      {
+        "act_threshold": 0.25,
+        "min_hold_days": 20,
+        "sharpe_diff": 0.26794272798846563,
+        "cagr_diff": 0.016753380096521386,
+        "trades": 133,
+        "max_drawdown": -0.2581611808613282,
+        "hold_max_drawdown": -0.3881028274744475
+      },
+      {
+        "act_threshold": 0.333,
+        "min_hold_days": 5,
+        "sharpe_diff": 0.21869187335004014,
+        "cagr_diff": 0.00852605558987607,
+        "trades": 137,
+        "max_drawdown": -0.2658953101860311,
+        "hold_max_drawdown": -0.3881028274744475
+      },
+      {
+        "act_threshold": 0.333,
+        "min_hold_days": 10,
+        "sharpe_diff": 0.23290132100709326,
+        "cagr_diff": 0.010243288584082633,
+        "trades": 127,
+        "max_drawdown": -0.2835074793836188,
+        "hold_max_drawdown": -0.3881028274744475
+      },
+      {
+        "act_threshold": 0.333,
+        "min_hold_days": 20,
+        "sharpe_diff": 0.24315991547354543,
+        "cagr_diff": 0.012147470643572245,
+        "trades": 115,
+        "max_drawdown": -0.2570849834269117,
+        "hold_max_drawdown": -0.3881028274744475
+      },
+      {
+        "act_threshold": 0.5,
+        "min_hold_days": 5,
+        "sharpe_diff": 0.2939024077065703,
+        "cagr_diff": 0.019413892557996082,
+        "trades": 85,
+        "max_drawdown": -0.23383637276232558,
+        "hold_max_drawdown": -0.3881028274744475
+      },
+      {
+        "act_threshold": 0.5,
+        "min_hold_days": 10,
+        "sharpe_diff": 0.2803274878562235,
+        "cagr_diff": 0.017723774917560275,
+        "trades": 82,
+        "max_drawdown": -0.2268303174777558,
+        "hold_max_drawdown": -0.3881028274744475
+      },
+      {
+        "act_threshold": 0.5,
+        "min_hold_days": 20,
+        "sharpe_diff": 0.2423435015749742,
+        "cagr_diff": 0.01055972073814515,
+        "trades": 75,
+        "max_drawdown": -0.2272969181546423,
+        "hold_max_drawdown": -0.3881028274744475
+      }
+    ]
+  }
+}
