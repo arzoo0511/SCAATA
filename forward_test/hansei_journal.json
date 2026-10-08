@@ -2556,5 +2556,313 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-08",
+    "ran_utc": "2026-10-08T11:33:51.028393+00:00",
+    "equity": 9916.21,
+    "benchmark_equity": 9735.59,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.456,
+        "target_exposure": 0.089,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.94, trusted 25%)",
+          "momentum against (-0.41, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.938,
+          "volatility": -0.348,
+          "momentum": -0.405,
+          "news": -0.131
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.317,
+        "target_exposure": 1.0,
+        "current_exposure": 0.68,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 68%: no strong reason to change",
+          "momentum supportive (+0.78, trusted 25%)",
+          "news supportive (+0.45, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.039,
+          "volatility": -0.0,
+          "momentum": 0.777,
+          "news": 0.453
+        },
+        "value": 1349.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.39,
+        "target_exposure": 1.0,
+        "current_exposure": 0.873,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 87%: no strong reason to change",
+          "momentum supportive (+0.77, trusted 25%)",
+          "news supportive (+0.42, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.371,
+          "volatility": -0.0,
+          "momentum": 0.772,
+          "news": 0.417
+        },
+        "value": 1731.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.382,
+        "target_exposure": 0.235,
+        "current_exposure": 0.891,
+        "action": "SELL",
+        "reasons": [
+          "Trimming IOC: 89% -> 24% of its share",
+          "trend against (-0.94, trusted 25%)",
+          "news against (-0.69, trusted 25%)",
+          "material news overrode the waiting period"
+        ],
+        "views": {
+          "trend": -0.937,
+          "volatility": -0.0,
+          "momentum": 0.095,
+          "news": -0.687
+        },
+        "value": 1767.5
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.746,
+        "target_exposure": 0.0,
+        "current_exposure": 0.257,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "trend against (-0.94, trusted 25%)",
+          "news against (-0.79, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.938,
+          "volatility": -0.711,
+          "momentum": -0.551,
+          "news": -0.785
+        },
+        "value": 510.0
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.131,
+          "strength": 1.0,
+          "material_count": 6,
+          "view": -0.131
+        },
+        "top": [
+          {
+            "title": "HDFC Bank lawsuit sets October 13 deadline; stock pre-market at EUR 19.70: minus 0.51 percent",
+            "source": "AD HOC NEWS",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-10-08T06:04:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "Levi & Korsinsky Reminds HDFC Bank Limited Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of October 13, 2026 - HDB",
+            "source": "PR Newswire",
+            "sentiment": -0.389,
+            "material": 0.7,
+            "published_utc": "2026-10-07T17:45:00+00:00",
+            "count": 3
+          },
+          {
+            "title": "India\u2019s $110 Billion HDFC Bank Faces Upheaval With Outsider CEO Anup Bagchi",
+            "source": "Bloomberg.com",
+            "sentiment": 0.217,
+            "material": 0.6,
+            "published_utc": "2026-10-08T10:29:03+00:00",
+            "count": 5
+          },
+          {
+            "title": "FIIs cut HDFC Bank stake to 39.40% in September quarter | Tap to know more | Inshorts",
+            "source": "Inshorts",
+            "sentiment": -0.667,
+            "material": 0.6,
+            "published_utc": "2026-10-08T07:42:59+00:00",
+            "count": 3
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.453,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": 0.453
+        },
+        "top": [
+          {
+            "title": "Q1 2027 ICICI Bank Ltd Earnings Call Transcript",
+            "source": "GuruFocus",
+            "sentiment": 0.0,
+            "material": 0.9,
+            "published_utc": "2026-10-08T07:42:11+00:00",
+            "count": 1
+          },
+          {
+            "title": "Jefferies names ICICI Bank stock a top pick after RBI rate hike",
+            "source": "AD HOC NEWS",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-08T08:13:35+00:00",
+            "count": 2
+          },
+          {
+            "title": "ICICI Bank, SBI, Axis Bank Are Jefferies' Top Picks As Rate Hikes Could Lift Bank Earnings",
+            "source": "NDTV Profit",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-10-08T03:08:43+00:00",
+            "count": 1
+          },
+          {
+            "title": "Margin boost: Jefferies picks 3 bank stocks to gain the most from RBI rate hikes",
+            "source": "The Economic Times",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-10-07T12:50:41+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.481,
+          "strength": 0.868,
+          "material_count": 2,
+          "view": 0.417
+        },
+        "top": [
+          {
+            "title": "GAIL Director Sanjay Kumar to be next MD of Petronet LNG",
+            "source": "whispersinthecorridors.net",
+            "sentiment": 0.7,
+            "material": 0.8,
+            "published_utc": "2026-10-08T06:04:57+00:00",
+            "count": 4
+          },
+          {
+            "title": "Oil & Gas Q2 Results Preview: Why Nuvama prefers Reliance, Petronet LNG over ONGC, GAIL and OMCs",
+            "source": "ET Now",
+            "sentiment": 0.262,
+            "material": 0.5,
+            "published_utc": "2026-10-06T08:59:23+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": -0.687,
+          "strength": 1.0,
+          "material_count": 8,
+          "view": -0.687
+        },
+        "top": [
+          {
+            "title": "'Stabbed 7 times with dagger': How bid to seal petrol pump turned deadly for IndianOil official",
+            "source": "The Times of India",
+            "sentiment": -0.984,
+            "material": 0.7,
+            "published_utc": "2026-10-08T01:30:00+00:00",
+            "count": 23
+          },
+          {
+            "title": "India has cut its purchases of Russian oil to the lowest level since the start of the war in Ukraine",
+            "source": "LIGA.net",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-10-08T11:28:01+00:00",
+            "count": 1
+          },
+          {
+            "title": "India cut its purchases of Russian oil due to rising prices and competition with China \u2014 Bloomberg",
+            "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-10-08T10:36:21+00:00",
+            "count": 1
+          },
+          {
+            "title": "India buys 3 million barrels of oil for November delivery",
+            "source": "\u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
+            "sentiment": 0.5,
+            "material": 0.5,
+            "published_utc": "2026-10-07T11:19:46+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": -0.785,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": -0.785
+        },
+        "top": [
+          {
+            "title": "ITC share price hits 52-week low after block deal",
+            "source": "News Karnataka",
+            "sentiment": -0.847,
+            "material": 0.8,
+            "published_utc": "2026-10-08T10:51:23+00:00",
+            "count": 6
+          },
+          {
+            "title": "ITC shares fall nearly 4% after equity worth \u20b99,437 crore changes hands in pre-open block window",
+            "source": "CNBC TV18",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-08T03:41:20+00:00",
+            "count": 1
+          },
+          {
+            "title": "ITC stock falls over 4%, among top Nifty losers as Rs 9,437-crore block deal follows GQG stake sale",
+            "source": "Moneycontrol.com",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-08T04:36:19+00:00",
+            "count": 1
+          },
+          {
+            "title": "ITC Ltd: After a 50% Crash, Has the Cigarette Tax Impact Been Priced In, and Can Investors Buy the Dip?",
+            "source": "Trade Brains",
+            "sentiment": -0.5,
+            "material": 0.6,
+            "published_utc": "2026-10-07T06:02:40+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]

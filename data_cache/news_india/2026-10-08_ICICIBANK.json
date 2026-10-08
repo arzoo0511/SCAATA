@@ -1,0 +1,414 @@
+{
+  "symbol": "ICICIBANK.NS",
+  "date": "2026-10-08",
+  "headlines": [
+    {
+      "title": "RBI Repo Rate 2026: 2 More Rate Hikes Likely as Inflation Risks Rise, Report Says",
+      "source": "LatestLY",
+      "published_utc": "2026-10-08T10:26:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmhTODJvel90NXpYZkxzV3VsbzBwSXdPdTN5QXlCSFl3UGUwMXcycGo3QzlhRTRIUVVpYmlONlhhcmo3TkMxSTNLUzlKMEw2TFQ1OFBaM1BkM3llbWtkQmpqa0JHN2kwMjcyU29PN2J2MVlLNk54N0c3V0xfeW9DT1RKbzM2M2JhRkxsZXFDTXFHZ21ja2xNX0VaQXFOdmhsSENScWs2bmpwNFFOU3RUaTVNRS0tbUp3SVJaR0lZSEoyR0Q5ajRVT0xB0gHKAUFVX3lxTE1iaFM4Mm96X3Q1elhmTHNXdWxvMHBJd091M3lBeUJIWXdQZTAxdzJwajdDOWFFNEhRVWliaU42WGFyajdOQzFJM0tTOUowTDZMVDU4UFozUGQzeWVta2RCamprQkc3aTAyNzJTb083YnYxWUs2Tng3RzdXTF95b0NPVEpvMzYzYmFGTGxlcUNNcUdnbWNrbE1fRVpBcU52aGxIQ1JxazZuanA0UU5TdFRpNU1FLS1tSndJUlpHSVlISjJHRDlqNFVPTEE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Appoints Anup Bagchi as Managing Director & CEO; to Take Charge on October 27",
+      "source": "https://hrtoday.in/",
+      "published_utc": "2026-10-08T09:11:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONUxJZGRZQndZSkNteXNHQ2ptalJyQ054Q2pDUTJHWGFITWFLaE1fUWs2M2tlZUprTWFFbktVN3Zacmc3UnpLb251elBQd3FRWVJWRUVkWi01cUxaQnlJX2VqNHVzUXBDRHB0MmxRUWRha3lZUUppRk5Lb0I5aDIzZTZ2ZjJTVDBaeTg1QTMtODdycGdiXzNiYTZqYVVZUS0yYVE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jefferies names ICICI Bank stock a top pick after RBI rate hike",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-08T08:13:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXNpSTV2ZHBCWjEzVDhlSjlFc3ZKUmt2dk9IVmtscUJ3OGYxOU5PZXJERkVWRUdUeDZSelRHSHlqVFl6a2VCQjd5b3FvUWpXa3hrYUh2bGE3Skh0QmM4blU2Yk5KQnNSSTJxWmk5d2V6bFJhREpPRkhqWUdqOHNsTDZ2bW1qRWNERFNLWXlkYlVpNkZVUjF1c3ZfSVNlZUJlanIyZW5ZTE5DWTdIb2hrMmRHMDY4MkJNTUdnbjlFSUdWRlBl?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI to hike repo rate, absorb Rs 2 lakh crore liquidity: ICICI Bank",
+      "source": "Asianet Newsable",
+      "published_utc": "2026-10-08T08:00:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM3dUUEdDUDZGZS1QZUFZU3pTb2xvUGdSYWNkY1pCOHY2NldqRlVrUlBwcURlYXlmSWZDMWhpOUgyWmJxOUlsNTNDQURweUVlRF90VU4wSGJaUTZiOEhaalJQa0lOemZGZFN0dDJSajcyczM5bjBuUHotTU1PT0stSXB3bU96RGFQNXo1clhhLUh1RmJhUmhhTGVtYjFib2dGWWMwVjNlX1BJS1VINDI4QnVOTHFyLWFCRlN0cjBlWngtQlk2UnfSAcsBQVVfeXFMT2pEVFNZWXpDbHBkTW0wSDVHN20zY3RLZlg3UTNZNWdCZEpKQzRqemplRjAtcC02OHlERUFtQkp6bURMbExLdl9rZU92S0pmakViWlNicDRBQTFTb2RMRjVMdjhMbmtROXIwcTZQeEwxekx3TlVsblVkNWxDcnhGNFQ4VW9zdzRHeFRpQXlseUppdzJFY2QwMlNSRTFzZWY5STdNMDhpYmNwRF9Jdnp3a0lmalZncGVvcHdnMXNUaHlrQVNFYTJrZWpQWXM?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Q1 2027 ICICI Bank Ltd Earnings Call Transcript",
+      "source": "GuruFocus",
+      "published_utc": "2026-10-08T07:42:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11Njd5ejRlQ2JST2V6Sm5BdHctZHd5YnZMMXJXV0FfSmVvNVZtRE9wVzlmbzlvVVczVmgtSkF0SC10ME1uaVVRYTV4WG5YWkd6U1RaZEZtY18wbFRRSEhhWHFLTlZmeW9RN1RsWWdjTQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "rupee at life low fcnr deposits textile pharma stocks anil",
+      "source": "Zee Business",
+      "published_utc": "2026-10-08T07:33:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORExodjFIVkQwUlZSdDhERWJwQW1FSzF0VDRVbUxsU0xvMEhLUnU4cEpaLWpxYjZjRTR3a2ZsOERvdGdFVk9VV083NFdDU0hkZGdOSXJhNmdMTk5aNGdvOWY4MS10bjYxVmItOENsNC1sekg3eWl2NF94OUVKWjVoYVRiYW1sVFlpNjF3YUVsb1E0aTVtbnRCTnI2WGlwUHNFQVAyVDAyUzVjN2xHNGJEbWxodFRKLVlPVnc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI may hike repo rate in next two policies, absorb additional Rs 2 lakh cr liquidity: Report",
+      "source": "Devdiscourse",
+      "published_utc": "2026-10-08T07:29:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQkVRN0NOd0JyM0l2WDFaN2MzWDY1QzJObjhvNVNPV1UxZ2Y5Q0YxeDExNnF0UzI5bzI3TVhpWjRMOE9SSTQ5QmlpSU9DV19QOG1pMGJQWDRWUFJuQ0VZYjB5SUdtblJnU1lKSWt2S0VxaUVTLUJ1TFBrUWdKSTVYdEZRWkdRTU9UR3dhbFpITG1NOGV0YUxEU0hoRnJ1S3otYmYzbzE1b3I3aEg5cTZNa0dMcDluRjhoVldnN09ENWc1VGpKNUU0b3E3anZHYVJQUGVISWRzUzc4OGJiQnAtTThva9IB4wFBVV95cUxOQkVRN0NOd0JyM0l2WDFaN2MzWDY1QzJObjhvNVNPV1UxZ2Y5Q0YxeDExNnF0UzI5bzI3TVhpWjRMOE9SSTQ5QmlpSU9DV19QOG1pMGJQWDRWUFJuQ0VZYjB5SUdtblJnU1lKSWt2S0VxaUVTLUJ1TFBrUWdKSTVYdEZRWkdRTU9UR3dhbFpITG1NOGV0YUxEU0hoRnJ1S3otYmYzbzE1b3I3aEg5cTZNa0dMcDluRjhoVldnN09ENWc1VGpKNUU0b3E3anZHYVJQUGVISWRzUzc4OGJiQnAtTThvaw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank stock loses 0.40 percent pre-market to EUR 24.80",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-08T06:31:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEExVkpoS2ZKQ3NGTW9YN1M4QW5MYkRxRnNMYXBUWnlWX2djTUFYOGlkWjd5ZV9Kd2paN0ZPVVJmN3pGOGNtWFVmWURlOWZfWVBMZ0xmZWRwT3pNQ3dKUTJyUmxBMWtvSXc2ZWlJUnZtZjllTThXNVFuSVlGQUlVWE9RM0czbjRWUUNwVE9GRnlLU1FacnpQZDIwamMzaTFhb0FObjJab3hXRGw2LV9iTG90bE41U1pX?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ai market data nifty india vix fii dii action anil singhvi",
+      "source": "Zee Business",
+      "published_utc": "2026-10-08T06:18:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcUllWDVRbHoxUWtmbWhmdERhd1dvcXp6ZFoxTWRzRXVVOENfdGJKVDZxYmNFSExrQ0dpR1lsajdybFQtaVNBZmdwanVoa01oUlh2YThSYlFLSUxlUHBiQ3d1dW1EZDByUlhVMVZlRkFvcUhXZlJrcE1YUElCdXhRdDNKM1lCODVhVnJCUjFrSWRRbTdkUWVTWG41YTc5UUpSWHIyV2NFd2c1Ymt3dldUS1VjQkN6RFRKU1E?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Announces Festive Bonanza With Cashback Offers",
+      "source": "SMEStreet",
+      "published_utc": "2026-10-08T05:53:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU2pseUNVbWd0Uk5JNTZHMWdEOExKRTBiR2hnMUZvNHhqRGEyNl8zR3BQMVQ3c2RMMGNlZ1d0a1ZHdEowSVl6WnNoOXJmNkQ1bURNcFVIbWwtQS1EQWhOSTFkcks5eC1URXYzUzBDbXpVdDZPQVZUaC10cTNZLXhPd2pHaGhsZ2p5aTVWOWs4MUJxWFkwUWhPMnlQOA?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI rate hike done. Now what\u2019s ahead for bank stocks? Jefferies, other analysts weigh in",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-08T04:58:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWEF5TjJ3M1RodWx5a3dLUlBCVlNlel8xVkl4cS1aS0pFWnBNS2RMZkpqdjBuTnAxeXREYmJ4aGVOaVU5VlRldUVkN2ZBdWE5V0JFV0RubkhoX0ExM19vNGoyVEdGUTRpRUZwZ2hTNnVicXBxYmN3cGRjZkJNd3VaNWctckN1dHQ3UTE1ZmI4UklyVVN3WHVtclJ2Zm5kaG13VGVPSUVWU2t3dTB3ejNhUVJ0aEpMR0xtSHEwVjA0VzBseV9lRVlVQU5rTWQ4TG1ES01CSlIydGFjVTZKd2hrc0F1bG5JNmJyMUlZYTA4NNIB9AFBVV95cUxQOUlQSXRmNDVrM2NuYUJBeU9BTzltazJzQWktZUtsR3hmOGgxSk56TWdzRXpzY0ZKM1B3TFpaS0o0R1dubUNTa05wMkxFTlQ3XzJUTkxycG41T0FIQ21YWm5VQTFrVVBsMWhZVng4bkJPREZleFJyT2VMSzZmWUlDeFV6azRDNkZKd0I5TVVZSmJmbHFnWU5sVE5NOFFyUmFONTJuMkZHeXNUX1M5WUd4YkllUUJHVHdLbURiSklITnlHV1BmUFV1ZDQybGR4VHQ5Y1pQd1AtOERJWlR1RUlWcmhUejRkQW1xVlJBR1hZdzZDaGd0?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Stock Update: Share Price Dips Intraday After RBI Rate Hike",
+      "source": "LatestLY",
+      "published_utc": "2026-10-08T04:04:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWVDY2FTNnA5dzJXNS1BUm1TV096amxQeW44MTZtVXlHeG40MDNNQm1zLW1HNlB0MVRkTzVpaXNkZjVJQkdPRUZ5NTBsMDUtRU1BQlNTdVRJQ0Jod2tsRU1RR2dOOHpFY0RaZUpUa3lxdTZsRmdCZm5URFNjanJpbWxLSzhoVUJyM2NuSFdEWC1PbTZVaXg2NzhGMVNkZWNxTk9GblNHTGpYNzFWUmp6cEpZS29KX0tkWXfSAb8BQVVfeXFMTlBiM05DS0pGRDQ3SkZwb0NKenc3YnNDdGM0eW1Eekp2YUVzM1JSUE93Vjc5YVVCbjhHUzFWWno5YnFaVVlSemJ3T0UxdmJDWENwUjN4SU91YjBXOXBMUXp4cU9UMkp2TnNmZUF6cGk5eFNTa0taWnFGOGYzc1dLdG8wbkptWmtuWGpFVUdUTzNkVXRONUI0MmZJYWswRUxIbUFJXzRpNG1KdG1CQWJjWTlYYmFRUUNwOUVnZGxrZHM?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "it index weakness support levels icici bank recovery target",
+      "source": "Zee Business",
+      "published_utc": "2026-10-08T04:03:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcHFtTUhzcGxDS2ZXc0Qwd3JYRmNMVUhNY2ZBR3N0NzdWY3MtaDdyYlBOTmtSWHpWOUN5MGxibEVwa1BmaFZOTGVoR2pldTU1OW0yLTBCcHlyWTVXeThZTjJBQmc3OEVieDBFVkhuclhWaFZOUnNfTG1TWHJCUXNDUTFmQzZsUmhPZ3NyM2FKSGljWjR5VC1rUUczd21ycGRkYUplLWFiaHRxSVBpLWhRZDNVeXpaUQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Banks vs NBFCs: Where to invest after RBI rate hike? Analysts answer",
+      "source": "Business Standard",
+      "published_utc": "2026-10-08T03:30:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYzhoYkpEbERUWThOa2RCUXJjbzhkek8wWGY5ZjRZTk1ZUHl5cVRRenR1dmM2RGNSVkRGWkJpZXhQTDFnSU9BR0M1bklfRDNZdlpRLXJwQ2xIbHZIVXYwWjZWOENsQ1J3LWJzRl9SUG05UW1WS0lFcmFwbUNudWNYcDY5b0lwVHhOdG9kU0ZYa0NiZTk5clZaMy04VXd0R3YzU0NTMXh4Rk5Ob01POTV2SWdvZzRDOHpybWV5dENNVGRBUm1sVzUzUXlVVGlGZ9IB0wFBVV95cUxNLWhQeVU4dThKZU5tTnlreE1PbllRV0tiNGZxb1ZydmE0TU91bjhoZW4xbC1kb2pkMjZQemxKTjFDVDc1Z0xxclF0RC1pMlMxck1ta0g5emV5VWFnT2RoWW1ZMjY0T0hubzhtNGNsUzk2WmRKT1hTdHNaaU9JZHY3X1BXSWxDNGtMd2pEazNITXFDX0xuX0hDYml4WFFkRUhMSENCZTI1cHRoTGVfLTRXa0NObzZpZlMtRHQ3UVY4T3J2ZVVwTTF5UjNfODA3LTZJeVRz?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank, SBI, Axis Bank Are Jefferies' Top Picks As Rate Hikes Could Lift Bank Earnings",
+      "source": "NDTV Profit",
+      "published_utc": "2026-10-08T03:08:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNl9GZ3M1MTJlTk9ZTEthb0J0TnUwM2kwYi00N2hvd1E0WF93SXVTV2Rub0ZLeEkzSHlkcl94OW51Tm93Q09vbHVJSXhGeEpVRW9SY09uVHVZdDFHdzhJTnA5TU5JTDVVNjRyZllZZnY5WWozNjM1V3ZRTDFERFZCUVY3cUsxdXJSUTJtWllUMDdUN2ctdmx3WkxLa1lYRU9NQVZWTlpOV3lHbFFPLXUtX3BBbW4wRDdxZHZXdnlnZ0VqTE5OMVI4aEtGWkNrMTRVTF9qNDRqYXROQzhQOXU1NkpmUkttZVZsbXRXeVhpZGkxM0Z3dVUw0gH_AUFVX3lxTE5yYUFtb1dpaUNad0xEclJDZ3ViYVpMZWQ3YW51RktZUjVwVUpoQTdvNFFDbHJrLWFpejNVaUZTNHJveUQ0N3dzUmRoNVJvTVQtWnNoV0VaLVJFazVFa1JIaGhlV053VGNOS1BlOU1QT0xfdWdRS1YtWHRnX1RYVjRFMG13RERrZjFReDZmc3UwaG1BUkNOTmxvclhIVXVJM0o3UWRuSkJXYXZYb2pGZTVZWDFvejFhZXljU3JjYWQ3OUlMakFTZXZfNXh4ZUEydEVKYWJQUExabVhic1NVYlNRR3RfaDItWFhGYTN3UjB1d0pWQkFjRDJIaTZoZzdNdw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Festive Bonanza 2026: Check discounts on iPhone, LG, Samsung, MakeMyTrip and more",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-07T21:33:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOSjNjT25oa2VLOTBCa05qUk9NanZtdnNMSUhEYjN3UXR4dnltakxJODlnRGRBR2pzSWRvM3VTY0MwZ1VlcGljXzlPYm9mRFVRTG1vUFFtY3hYTnd1VDVyQkptdzk5VDVGamVXSXpCaVdlTVhPUG1TcWtRbDJQcTNrVXVUOGJmS2lFN3BwLWRZRmVBNmVuX21MU2tFWGFyNVJsWHl2Vm1yQURJbktyVjdUQks0SFpZal9ZYUREYjRpT211aWMtRVIydlBURl82eG5KUVVVdy1hWnE4Tlk0NmY3ZnFGR3NZYXAwWmlkZldva295WlVycWh5VnVJRHpjMDU4REJIYy1KdU04T3dSVEZyWEswV3BZMHZW?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank stock gains 0.40 percent after-hours to EUR 24.95",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-07T18:25:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdXhhcXRfSzYybHRsYjAxSW80YVM3cGg4aEVrVUl3X2t1ZHF6Z1Uwd2JILXQzbkRLX3AxOHo5UUJQZjU4R2tvVHpDZ1ZTeUQ2Mmx0U2pWQTlMbEF6NllfU3BwOUZuM3RTNEhXTnZvLVhURlh6bjZuREJFOWRjQ01fRGRETWRNOF9PS0lMb3BKQUZHaUw3cm53enkwOG44QTNRRUtyaHBNbVQ5SVRDS1NfVnRVZ0tHa1lzcjZn?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "FD rates in October 2026: SBI, HDFC Bank, ICICI Bank, PNB, Axis Bank, Bank of Baroda compared; check latest interest rates",
+      "source": "Zee Business",
+      "published_utc": "2026-10-07T15:55:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVEZCbnFMMjl0dmFfeDBGc2xydFVFWFhrUFJQQ01TXzdoNWhIamc1V0dtUFNTVk9xMDNqWlN0blNKVUJ5Zi1BODU4d0JyMGp4R0owaDFUMGdoM2Y0TEQtM1NmMkdJMW9zbmNDcF9CNThycnlIWlBmbWRoSWhIbzN6VTFIUFVFRGM2OTRfNElqelJYOHpPN1M0ZW1OY2hJVklNeHVadzFRV2NEUEZ2ektBUG5wQWxNSzRxNlVMMXVuNGFFaEp0SWxTZVpMT2E2dll5NVQtdi1CWTFvc3dpUGM5clgwalNJTWptck5IM0JUbVRhSmN4a043ZFdRYw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Margin boost: Jefferies picks 3 bank stocks to gain the most from RBI rate hikes",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-07T12:50:41+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNUIxbmE1VmlPVlpvZkdzV1NlY0tpdGtKTmprMGE0VlIycVFwQUZXa2RBeHEtUkxYQmtpWDBGc0RvNWZUMjhYWHExbzBoVEE0Z3dXbzh4ejQ3M29rZGYxYndVR01CNjZzVWg3eGhjbXBGNHBDaDFiRktUYjlxMkNXczItVnNkX3RRTlRVR05zYlhJNnpDc21hd3ZEdVlmR0dNOXAxdHI2Y0lldmFhZXJCRGNhWFc3UUdfNlYwVFhTNzl6bWYzaG5QNFFCMGpXX1JKQjZDX0VveG8tQnR4SDlUd0ZwaEJ0MTJm0gHuAUFVX3lxTE5BcTY1WEUwcDR3aXNINWxhelZnWkZjZHNNN21BUVlNOWtwTXJJd1Q3Z2Rsc0pnaTVWQVJXTHZyaWJqMUN5ZVNvdG04RGk0aWJ4dGVoOEdDa01nQ1BXcE51RWRaY0s5NERHZzhuOU91VzNMSXdXazJEX0M0WVZ0bUF5ekgwY2N5UTEwbEhDLW05TzFXYUhhNlZWWDY2NVc3UGxLZTFoeTZpbE41X2ozQ1pXWEtXM1NQMF9Hbk1VbmxqeHpRMEUyYWVzdHotX18zb3VGVkpPaTE5TUJhelQtOUxMRVlDWlFxTTNBQkZQRHc?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Highest senior citizen FD interest rates after RBI repo rate hike: Public vs private vs small finance bank",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-07T12:31:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxORU1zNTZZRDdUVVJkdWh3V0dVNmNheE5pV2RQdkd3UU5OTU8zV3VOMG9PV1Z4R3U4US1lQkJtWHlwbE1WLXZEQ2d4emdBRFBIU1hhTlNwZUFwWHg1aTVseW9vUXRLSDQ3X1NTaTYtSnIybXlOa0NfWkFtRjVtZDJWZFk3MVN2N2JxdXB3VG5kdlZjRkdKcUpBQS1CdkRTeGFyVC1XTW5oWkljd1hPdmF6Zk16NVUxQ2Niei1BNkxMWTVVbnpmdGp1bklBOHRZNTc3VTNEWDRkUjJCU1Z2X2h4V1N5dllEWmZZOTBFZ05vQV9VM3Z1c3B2OXNMaXdVcFRyRllzb0UybFZPU0V3Uk8zemhhVFlRbm9oMHRBdjJudHVxWjM5bC1FMTlwMW1yY0xSQ25iMtIBugJBVV95cUxPSEFJNkQ2aGJSdFl4VkhidnBzLThvNGdvaTI1TTFsZTZfZm9kOVgxcVB6eVBxUzQwXzdDUjBOOERsRXBiZG93S3pQdGQyNThYUVZXSXI1Vy1XeTRpUHEwYm5HcWs2V215SzVIRUxBVWJyMHZtWXdRVmttMmVjWUNQUmlFUlU1cTVRcGt5cFhQVXgzSVFaWGFCUlF5LXd2WW9iM1paTmdfMUl5Qzg5bmxJNTczZ0RrWXA5M3FvWEZVSXFDNkNvSGd5ZWtWZXh0YTZXUGxQa0JuME5rX2taTnI1OTZ2WWRXZzk4QlF1WGtUTXZyUVpQVWJyUGF5LVExcnRfUGNoNlVYVDRtRDVpRDJ1NXQxQS1JMW5yaGZxOWxCYjVXTnRJbnFCNlRScUNDdW1FWFRreEFhTGNLZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI MPC 25 bps rate hike: Banks stocks vs NBFCs - Why Jefferies India picked SBI, ICICI Bank, Axis Bank shares",
+      "source": "Livemint",
+      "published_utc": "2026-10-07T10:44:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbzBncmtuV3BfR2xEMzFxbG9DYVN2XzRXOUVBd3gxUmEtTWNNRk5ON2wxak1lZjZzOXV1aVFSZlVMeHpNOWpsNkZCRHhaalNJczc3QVdyai1tamJVTm02d3Zlc3VUSi1lT1FXUmxyYVZVQ1JNTHlkSE5OWHJyRzUwMzhsZmZURjJuRUdsV3lhLVU1SXBfS3ljYjVDSThqdkloMEJaeFJ5OVdEQnM2dU9DbkxObENFZDc5OC1kbUNMOUN6cjBvTXloNHhDN2pUV2NlUkNZM0pBR09mVTJ1WVpzSmFYUnJlU1l0bS1wRE5tb1dRLVBPcnN3VzctYnNjb1ZwZ0cyQ1pR0gGLAkFVX3lxTFB5WVVOVllpYmIwSlNyNzZEMzNtMnFLMnRnUXlLNEtlTElPWlhkQzhHbXg4TFlZNzhQazMzOGhMaTkwYlR0emxRUnpwdm42MHM4dGZhOTdaS0hveUluVTJnUGczNjdrMGRjYnh6LWpIS2tVVTBiUkxDMFh2N1o2NWlYTG9NaW9xSlFTLXgzcWRaMmRMZElyWjV1YXNKd1NzU3gxLTkzTnp1LUpXTGVxMGQyRzNYY01RQWEwbEQ1eURnbnJIZGpWZ3hXeUZ0S1RqcTQ1NkxuWVp4QmQzYWxKRjhyZS11SWNvT1k2N2xTaVQwVzdPbUJlZ2xGVElPVU1ZVC1ORjl1Njh5VHYtUQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank rallies Wednesday, outperforms competitors",
+      "source": "MarketWatch",
+      "published_utc": "2026-10-07T10:32:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0lDUDJaZ2cyVnk0c1JWcWduLU5WUXJhTmpBNVpQMmU5N3ZHWmhrQWdTNTZKTzBtVEFNcHhXaWQzT05xaUsyRW5kd1V3UHZjQ3gxa1J6NXQtdjZXbzAyeWpvWDM0Ukc1SzlYTDgtV3RQMWlJY2ZuRFRwOUtZNmZ4R3RtRFMza1pLb28xYUdWSTFLZDZWM1l6VXNnMm02ci1obkQ3OTA2a1RIY1do?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Prediction for Tomorrow: 8 Oct 2026",
+      "source": "Univest",
+      "published_utc": "2026-10-07T10:28:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTm5WaXg3bnpnT0hZTHlmNUV1QTNRV2t5RHFsbEkwa2swQnk3bkxfV05taXpaMkx3ek92LVRvM2Z5ZjBEemVIb3dIS2MwSGd4NE94YnhNb1Zack1ZMjZrLVlicklUU1A2WVU2SnRsYXZPYnRsTDV3TE9oenVIUGJWc2I1eGVOVm9jbHdFbFROVQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Nifty 50 top gainers today, October 7: Kotak Mahindra Bank, BSE, ICICI Bank, Coal India and more",
+      "source": "Business Upturn",
+      "published_utc": "2026-10-07T10:27:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDU0VDZqS1JhUFdyUU1manFQUmhGYWVyYTAwQ0dyZE82RG5MdEFpZXdIMmhJQVdlRnk3Z0FnS0NRTUxJdXNHU0RzNFM4M3dDSkdFazlPclVkQlpxakVOMl9OSkRfX2RpZEdlSHJQQkZ0a0lra1NjSUM2cm1MNmZYTEVGYlhxRTFoY2Y3LXMtNnNTRlhlaElWYzB3RUhCZzFibkYxLWdTUmFnZ0VyU3A2WHQyVU5vNlRlV01NYjV4cm5TcW40dWJEZFpSSUkteENUeWw3cTVtZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Prediction for Tomorrow: 8 Oct 2026",
+      "source": "Univest",
+      "published_utc": "2026-10-07T10:27:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzlfMmRMV09sSnRZQWJ1RGRBdGwxaWc3bDZGeFhjalpiaUNWRTI2eF9UMWdUdzhUMnJobGNpNnFRSk1kLWswdWtqeEdRTlZ1TFlxdzhCS053ZnNWMzlGT00xODB0d0tlZWJRYmtrVUZCdjJzLTQzRGRQRnJSMTVCU1FOdHJjektxeXU3MDhR?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Nifty Crashed Almost 1,000 Pts After Big Banks Q1 Results; Nifty Private Bank Top Loser, PSU Banks Rock",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-07T09:37:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmQ1M2MwMTJBdDNxdjUyWUxjOC16dFJXVkdtTDhrSDZWb1hvMWRCaTNGOTdwWHkyOGRUZ3JNM0E2Zm9uNjFSVVNfQVlTdkVyQTBUQS04dGZOWFFBa2IwUVlYaWN2SjI0YVpGY21ZMjVWc0EtSFExVXdhNHUwaTlJSkp4NFUwYW90S2NKYVY1TzMyamdyRHpSNFBsLW1GcDVGU2tRVVFJVndmN1pIcFdhRTJGX1N1TVNlVTAtTFU2eHRlYk5IUE83bTlmMFgxRzBfOWh6ZkNrTF9EajRx?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Senior citizen FD rates in October 2026: SBI, HDFC Bank, ICICI Bank, PNB, Bank of Baroda and others compared; check latest interest rates",
+      "source": "Zee Business",
+      "published_utc": "2026-10-07T09:32:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOOXFUc1Y5Y2E4WTB1TmY1X1B0Q19rTnJva0l1RVI2T0ZzWHJZR1NHUUVFSjZUWkVJcW5jbXBGdDB0OVpYWHBvZkZVUHp6ZVN2ZXJOelFSenM4bjBvRjBFZnR6UTYzcFRPN2hHVTJvT3pvNW5YcDh2cXEycmdJSGFGQWRWZEZLMUpieS1NNHh6SXlqNGd4cHZFakR0S3NmNDVBdmhFVkVWTTNhb3FUZ0lkMXowM2dlUkdzTGw0emIteHVxeVEzWXluT0pmRE5jQl9hWVpvV2hrVjZiZ1FTS0tPY1pncERoMURfdFhhNm1nRFZ2SURXT1ByQkRDX0I4bXpoWXBrT01Ja0dBajZsYTRLYw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank stock heads toward October 17 results",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-07T08:08:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3dzazk4M0RmRzdCZUlyZFd5N2ZydHNYZzJubjloNnBUc2xkdWZuT3lLT2FaN3RJck8yNnllR2pQMXM2Qzg4SDRqOHcxdzd5UzZEYnVzSWNlcm5vNDFudS1JZXFQWEhjX2w1MlVqX1NxejFhUjNIbkpTM3NWSHRkUkpJSzdnVURnVk1OcnhNcUV1U1JmU0RieHdmcnh3TjdId3lYb3VoNHA0ZEZFYm41aQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI Rate Hike: Markets Trim Losses, Bank Stocks Rebound",
+      "source": "Rediff MoneyWiz",
+      "published_utc": "2026-10-07T07:19:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTNsYlNBRFphR3ZFN01PdWJkalFiRU1sa1BkSm9RQm1xN1MzTUtEa2o2OTBzNGJCbDZ2MGVVZ0NOems2MnBKMzFzN0hrVVZtYU9IQ1dUbFRPSUxRbldEd1FnMjdWWXpMdVNjQzRON0RBUG1hQUt4cjl5LUZPRnJ1b282aURmUC1wNFlGZnkyY05GOWNIR1J0QWE2WXBpdGgtek5UcTdNZDDSAa4BQVVfeXFMUEMyUFNvaUUyTElGSFpVZFlWaUlIWUtpbnU5TkhzQVg4a0NzbFlIZW1oa1RYSlVrVEhhWGNTWV9Vdk5iS0ljblJWMVY1cG9XdVVQRlJyTjRMbFVucnBBODNTcGRlc09WY285dGJnN055NEM2NVdoU1FDTEtuWV92aUpUOGZsWFNkY2o5by1ieUZCeS1lcmJ1RXQzdlJIRkUzcS1oc00wQTlHdXpZM1N3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Life Insurance schedules H1FY27 earnings call for October 13",
+      "source": "scanx.trade",
+      "published_utc": "2026-10-07T06:38:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlBXQlRza19LQk1zWWhlckhESVhFX0w5bGRWejJqUUoyTWlPTnE2eng3Wk54dFU4SlJMd3pRWlhkWDVUdUliX2VzeUFMbjdNa1I0S3gtcjZESW4wZllEc0xUS1h4UFpDdG5wSlVveExGZ2psaWRrdHpNS0RQTHhyNE5aVmIxZGxyYTdNdUZzQnZESm0tOFVjODhDS2ctVXNIbWlJbVc4UnladGJDRW02TzJXYjNva09LcVBB?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Flipkart Big Billion Days 2026 Sale Date: When Will Sale Begin? Early Access Date, Bank Offers, Discounts, Credit-Debit Cards Offers; From Apple-Samsung Mobiles, Electronics, Laptop, Beauty to More",
+      "source": "The Sunday Guardian",
+      "published_utc": "2026-10-07T06:18:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQdEVPZWlOS0VwcjYxbzUwcXUxOTUzN2EwcWIyV1VJUFdPWk9zb2VfMTlCQXF6MnEzV3E4aXdablM5OWpPSUZDSGlIazlrR1hQb09ITHRldzFxZzdYT01jTnJtamluSk5OZ1EzS3dHU1BfRkJ3RmM4Z2tYVExseXM1dHJmUTNDSG05VjR6VUM0dlpiLWtucnlaSURZc1ZtYjRmcW1Za0gwSktWT1BxcDVtYm1EUWMyWVVqbzVpMUwxMFlueFlHSlJUckVrT3kyZ09WVTNqUDIyUTJqck9mcFZfNnR1Y0hnMm1yOEFtRUROV0hsNDJlNVd5eV9iNURSZUFWNmp0VEQ4Wk5KYm9NT1BkU1RpbURFZXNVb2xIQ2tnb0xNY0VpOHk4LXRBTHZURUxQdVNTMDVGT29MNmxyNHRIc3BBWDItX0pqWE96Ti1wdF9YYXB1ZG9r0gHcAkFVX3lxTFBLX3k5Tmh0UXU3aF8xZlI4RUZkMG1EUFVTa2hheDNuR21YeVdBZ1hJTzlycG5MVzJyODB3QUI5VDZwX0s0MWpkdTJkVmMzTmxkWHZNUXhCVTFRVUtKRW10SklRd3NfdFduOEdhYzlhWDd4ZE1Fa2tpbDV6YXNLc0NzYXBScmZBa2V3S21mWlRsY3VLMy1OZk5OdzJJZ3hhMWdWWlhUQURDNE1SRW8tS1dIVFZaSllnU3RMLXF3UEJFRGpONE00MGxNOUhkbTVFdTVSRGhGZ0h3cTBvZWJHRGpMT0hpN2NhZjBvbzNDZEc2OG5vczg5TnR4ejNKRHNwVGtkcXo2ZS1LaUVraDZGNjdVQnhoR01BSms4ajVOMVlPUHZuMTk3Z1Q2ejlrenpFbEZsU3gxYVZLVTBYd3RGeWN3RFFCOXU3QndUMHdWTEIzNVpFWFlhZWVkRDdZeg?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sensex, Nifty Recover From Day\u2019s Lows After RBI Repo Rate Hike",
+      "source": "Free Press Journal",
+      "published_utc": "2026-10-07T05:44:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGowWkxDNFJpRVNwS0ZacGFCMkY3Ri1yZWJIS3hxTnRUTnp0MDlXM0VOMlhXNGVTVWlVdW5NN3pZdElVM001Z1RMY0doaGdHbC11b1pyLWhGVlBGNkZuR2liUk05OHN5T3oxRDB2SHRXeUlhTUM3aTlWc1RJUWRUQV9Gci1PenZUVW9HaVkwN19HSjM5ck5aSm9rSjBIaG45ZHZGUkZRQjnSAagBQVVfeXFMTXRqMFpMQzRSaUVTcEtGWnBhQjJGN0YtcmViSEt4cU50VE56dDA5VzNFTjJYVzRlU1VpVXVuTTd6WXRJVTNNNWdUTGNHaGhnR2wtdW9aci1oRlZQRjZGbkdpYlJNOThzeU96MUQwdkh0V3lJYU1DN2k5VnNUSVFkVEFfRnItT3p2VFVvR2lZMDdfR0ozOXJOWkpva0owSGhuOWR2RlJGUUI5?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Global bond sell-off likely to continue near term as AI debt, deficits keep yields elevated: Report",
+      "source": "Times of Oman",
+      "published_utc": "2026-10-07T04:51:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNDFhc1JxS1lrTllxbFZkNGdfXzJFYVg1SXd0Um50N05ha1I4a3FDOVVWZ3QyMHhBZldVcFhraDdGZlQ5aUNJZ2hnX3ZxLVd3S0NJSnd6Y2hwczc3SG95WVJ5aWpmYTM2MkppXzJ0X2xCdUJ6alhKU0lMVFdjNG5nbDRNc21RdDA5ckJSdjMtbEVYTnpQNzZLLVZwemgxRkNURW5tUUZxOGU5NkY2NDFhdjJvdHE0Y0dZWTFET2VhSEM1VVJjckkyaVRxUVQzU0lyNmc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank: What share price fall signals ahead of Q2 earnings",
+      "source": "Business Today",
+      "published_utc": "2026-10-07T04:47:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS3VXbEJpMkZqd1BQaG1sdGxwYnN2TkVIU09fMENqQ2RNNTVyVkNTVmxicEp1em5haGczb0ptM3RkTFVjYVF6YTkwQ1VySW1UT2pVQ1BGcHQ1Xy1hTlB6Z1lPdHh5TmtXRjM2NjRKVTlnUWRHaDlRc1RvdE4wUi1KaVZXTHB5S3N3Nk9kOTQyWHhKRnRfVFFlVk5GMXlaZ0ljdVo5U1N5eG5QNS1sdDQ5WlRqNWNvLVAyZXZJdW9UWTBVT3FjNkRRRzZIdjBjTjJ6dWt4OW9Wa1d5LUk0Y3JYSEdFZHAtMWhvSDA0dnZTLTB5WVRpR21EYlBxbE8xQdIBgwJBVV95cUxNNHZCVHlBQXpDUVVwcUpqMlU1eDJYM1BDU2tDN2lQTUVES3kyWHNmZHY0QVF6ckdrODYycW9BUjhBanFpUkNIQ2ZPVXRsakRhOWR2TEhrR3p1YllnQ1c1Qk1Pc1pDTzBjSkZLSlRaaDh5LWhLOWFaUkwybzlTbWFVWWp1WlRtXzF1a0E2MjRSaFZyRlRBRUJ5NDRySFF4Zm4xTHJWeUFSV0h6R3YwVFZPbkxUMThxUDN5VkNTUUNHaE5aWnRtaU52Z0gtTXo2Nk1rRFZ4SUszRm50SHA2eFVWTzh6c1pjZDFrbFJNQ0xuT3kwa3k4eVlpMHI4bVM0bExiMFZz?oc=5",
+      "relevant": true,
+      "sentiment": -0.3,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Nifty Bank In Red Ahead Of RBI MPC; Union Bank, IndusInd, AU Bank Fall Up To 2%",
+      "source": "NDTV Profit",
+      "published_utc": "2026-10-07T04:03:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM3RDMjdQanc2c2RrX2RONTVhRVdiOTRBOXl5LUpNN0J5Q1hrSlJ5eXRJbGZaeHFHNjNSaGhHcFRxcjBmZnhNcEh4MmRqbGVzcTdkeTV3Tm5KSjRtYjRYWmZjblVON2NJbFo0enMxdWZGSmRHcDNSU003X1JFUHNiYkpDd3ZXcGlFTDdWQlZsY3U5bldjUzRlOWR1WU9nYTdNUE50R1dvaHUyQWY1T1JscURYeHk4Rk1BRXB6bGh3TV9VSWvSAcsBQVVfeXFMT0c0RXhrenBla1pQQmdfd0NqbEdFM29JNnRodF96LURISk9xbm5QYkU5MVJDbU1Yci1sQWMwWTN6UzMwelJIbE16Y3JmSy1mLVFXSmd4QVlMWVpXTVQwbllRTTI3LUhPaWFJUUZmZ051X1M1WEROckFTQzJnTnEyYnlTb25ZMnhEWVdkbTVTTDVxNW5ma3NTYVZ0d1FCOHRNTXFrRjNhT2kwWTBFMlNrWUlEOFRyRlRsMDlQR0xBTXlkYTl0dTh6OUV2Qlk?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Global bond sell-off to continue amid rising yields: ICICI Bank",
+      "source": "Asianet Newsable",
+      "published_utc": "2026-10-07T04:00:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUZ2WUVrT1UyRi0waVNUWWlLdWVBbXpibHJsc0JQYXhnNW5UaC1UTmIxcW8yVzBZbnozU1NwWUlFa19TMmxDd3d2eXlGdGFRZVI5RTh3QWdUNVY5WEEzMTBXZVJuUXdTOU9CTWdxVVBZVGJVQVBTYjM2WVp2Z3hyeWU1SE5WNXpsUDh2dVZVQkJURlZjeFl1T0pjZF8zWXRoQ3FRbG8zeVd6RFVRUVhiTWw2Q3JhTDAxbXJnTktNWjFBX29sNU1V0gHHAUFVX3lxTE9ZRnZZRWtPVTJGLTBpU1RZaUt1ZUFtemJscmxzQlBheGc1blRoLVROYjFxbzJXMFluejNTU3BZSUVrX1MybEN3d3Z5eUZ0YVFlUjlFOHdBZ1Q1VjlYQTMxMFdlUm5Rd1M5T0JNZ3FVUFlUYlVBUFNiMzZZWnZneHJ5ZTVITlY1emxQOHZ1VlVCQlRGVmN4WXVPSmNkXzNZdGhDcVFsbzN5V3pEVVFRWGJNbDZDcmFMMDFtcmdOS01aMUFfb2w1TVU?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IHCL Signs Alwar Hotel; ICICI Bank Unveils Festive Offers",
+      "source": "HDFC Sky",
+      "published_utc": "2026-10-07T03:52:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aS0hjcnhNZHF6NXNVN0JmOTVOeDdLcnkzZVNFZmI1OTJSZktZNVVGbmRlSGpwNThJdHB6R0YyaHFPSmJ1UlRkZXpDc0FpTEc1SVJtSWRONGZzaVU5MnNzZERFWEJPbnR0YjlxaWM3WGl5N1Y0ekRIWg?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Business News",
+      "source": "LatestLY",
+      "published_utc": "2026-10-07T03:52:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYkJNU1BSSnIwTVM0TFU2eDZMQjI3aVJIVXNLaU41ZlVHc18yNThfYUUxeGdVRnJMVlhpclhRRFVRMC1EVHhpR1Zvd1diYldSa3pEYmhqLWlhWjZHNXhLVVdDdm9jakhmQU43NGpTTXBXWTBuMTUwQXhMUkU3REZGYTcxdWo0bENRLWFGNFdnTXJSUFRSOUMzRkJDYnVOVVBfcThvelNFSFRlb1NrTXlGcW5VdExicWF4blNwNEFXTXlaaEJfa1FDZWJNeXFXbHg2V3hYNHZUYkxTMjFLdmtsWnlZQnVQVElZWklFOThKOVA1WmdGQmtTTdIB_gFBVV95cUxONzRubkRPdzg0Uk01Z1Q1STMxZGlkRVU2ajJfMlhJandHdnpDZEdEZl9iWkRZWHFFUmZNV3NPZHgtcEFpQ3BXWXQyNGxTZlpZeVJqSkV6U3lBcXp0eE4yR3piMGFXQzIxTTVFdXI1UjlOSFI4ZDZvRUR4TW1nSHo2TE5OajNRX1A5bDJqRHlFVHZhTHlvenZVQWstVjdJdGhzVG5hcUtsY2wzYkI5enlzeGFxbWJ3ZFlSZ3FQenhzdXc2ZUxZX1JuQUhqQlc1XzJmNUhtRzBObWNMdzdUS29hTmhVd2NERGRFbGI3VVhMRTNMWmJLZDZxTjAxaENJQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Global bond sell-off likely to continue near term as AI debt, deficits keep yields elevated: ICICI Bank",
+      "source": "Devdiscourse",
+      "published_utc": "2026-10-07T03:45:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZTNxVUw1S25aUnFKQnJmWFliVzZqYmtHRkItdFoxY1VldWVDWUxOMTVEYUdscEhHQmVrNWtJdEViUGNIZkZ2QkRCV2ZnWmhlVS1YYnRTT3NQMkt4QkNRU0h1a3NudVZCMS1Td0lPOTlSOGVKSUhBZ1BTbTUwZ3NidkxRd1VRNndUVFNnSUhzTXBmWUtvVjVRYm1vV0dhM3c1MVhzZ0JLSmJUcmxYNUE1a0l4VVA4Vnp5ZF80ZnprQll3dE95V2dPV0I4Y054MnZkcTI5cWV0ajZzYjZoSFN2Y3I5S1J0OEF1bEJZ0gHwAUFVX3lxTE5xdjBXZDVHSVBJNDBUYjdGSjZuWjFIcXNSM2c5cFlmQVM3SllsbVVMT1J5TWxXRGhrX2tlV25tYmJvRFVBMEdBMnRYUi02bEtaNjFac1ptMWloQVl2OER6TzFTVzJXMWZlWkZZeWxJLVV5RjEtdEdJNGNvUDVWQ1JPaTBXekU1Qy1wMU0wTk5QQUFLVDhoUHRHY25jN1Rmd1g4R0M2NnRGNWZMSEVLUFFzaHVEeGwwV0swb25sTWdrREtSNGt5YkZIUEgtUTg2VGJvUkJPZzZGRGl3WC12NVBkSUtnNHphd1N1eWlXT0JiUg?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India's ICICI Life hands CEO role to career ICICI Bank executive",
+      "source": "Insurance Business",
+      "published_utc": "2026-10-07T00:28:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWJqb1RiZHFXTGtXcV9EQXl1X1Q0Yml0aTB2b0ZCN3RBNVBXME83Rmg5TnhlSWZTUGVoZTNtSGpPVTB0cmU2b0Fod09JeS1EbzU0cWVTNklnMTdtN2szUGczLVVBSzA5bHBxcUc1MWNSbEwtaUpHdDV1WjBIb3AwbXozOXhtMjRpTUlJU1RIbWxtY05XNVZYU3ByUjB5MjdsN2ptY2djdFdHVWRHNDNfb0tJTGdkMlY5OGJVUlRHZkxZMmo3aVRNZTg5eTZEX3ZPVk9Z?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.453,
+    "strength": 1.0,
+    "material_count": 4,
+    "view": 0.453
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-08T11:33:32.279369+00:00"
+}

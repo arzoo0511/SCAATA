@@ -9,7 +9,7 @@
     "ITC.NS"
   ],
   "sleeve": 2000.0,
-  "cash": 4558.1337355768355,
+  "cash": 4558.707333894596,
   "positions": {
     "ICICIBANK.NS": {
       "qty": 1,
@@ -28,7 +28,15 @@
       "avg_price": 262.70001220703125
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "symbol": "IOC.NS",
+      "action": "TARGET",
+      "target_value": 467.05,
+      "reason": "Trimming IOC: 89% -> 24% of its share; trend against (-0.94, trusted 25%); news against (-0.69, trusted 25%); material news overrode the waiting period",
+      "queued_on": "2026-10-08"
+    }
+  ],
   "trades": [
     {
       "date": "2026-09-25",
@@ -144,10 +152,17 @@
       "benchmark_equity": 9960.48,
       "cash": 4558.13,
       "holdings": 4
+    },
+    {
+      "date": "2026-10-08",
+      "equity": 9916.21,
+      "benchmark_equity": 9735.59,
+      "cash": 4558.71,
+      "holdings": 4
     }
   ],
   "benchmark": {
-    "cash": 81.07634941834453,
+    "cash": 81.0865521153987,
     "positions": {
       "HDFCBANK.NS": {
         "qty": 2,
@@ -173,7 +188,7 @@
     "started": true,
     "started_on": "2026-09-24"
   },
-  "cash_accrued_through": "2026-10-07",
-  "last_session": "2026-10-07",
-  "last_run_utc": "2026-10-07T11:17:19.991011+00:00"
+  "cash_accrued_through": "2026-10-08",
+  "last_session": "2026-10-08",
+  "last_run_utc": "2026-10-08T11:33:51.028393+00:00"
 }

@@ -1,0 +1,414 @@
+{
+  "symbol": "HDFCBANK.NS",
+  "date": "2026-10-08",
+  "headlines": [
+    {
+      "title": "Anup Bagchi vs Sashidhar Jagdishan: How HDFC Bank\u2019s incoming CEO pay compares with his predecessor",
+      "source": "Business Today",
+      "published_utc": "2026-10-08T10:29:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOckJxc2RhRXR1SWxvUnJIOFV0clpxVFJaSjdSSVEyRHI3eHU4MXBVdDRpaGs5WFRNT3ZVa245Um9QOU53S2tPc3B4VjdwaS05NXYxblUwZEtCMldjSExQbFBFN21FQTgyM2tFdHRGeDR1dHVDY20tOW9uX2hPNUtHbWVZSHNSNFJvSV94SDRUT0NKVkx3VWJ3dUVxZHhfS3dKb2toRUktdFNybEE2U2c2LWtJa1FheEd1YmhQeC02cDFPYmtHS01VRkRXZWhRUXBsNWk4YkZEaHV4WWhzUkFLdHlZZ1daM2JvaDl6eVhyV0hESWJyQlRDQVlR0gH_AUFVX3lxTE9WbXFxRFE3bkVBRy1vREVmc2MxSFcyTzJWbFBkUXFZaTRTc2xXV25TTVN1YXNlLTFoSWY0TU5EdFdxMHNzNndkOThSbm9QcHFsSEZFNVJyakxSS1F4aEEtZjBfVXBqOXBGa2RqZWVsakVuVmJRSW9OdUZBdFJ2dEFMMjdtTks5V2ZoR2xuQlFRTkNCdmRsN3JhLXBvazRTRVJfT1U3aTdMS2FxTDR3emFFa0pfbTdGNktzSFk3ZjQ2aFFFczVmMExnc0xZX01RNDU3dGExdUtVZUlBem9MU2xDdndQY2wxTk1aQmdHNmhtUzJXRXIwTlcyR3E2UDZCbw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Online shareholder voting for HDFC Bank (HDB) ends November 6 at 5 p.m. IST.",
+      "source": "Stock Titan",
+      "published_utc": "2026-10-08T10:04:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUXVmbU9tcjlhaTYzN1dsUTVaT3g1V29KUTdrU3ZNcFk5b190Tk1jc3NTdDFUNDEwSjVsbEk5cm5CVG1FbC1NclQ0QldRcnRsd202VjJ0bzdhMlF6U3NtdFFlTGNsZ1dnWkh4aTZISnlmNUpkWDhlenVtZ29vRUpUTGlHcFFJU1JiS2pRMWhPdXhGNzJSSVBrRjFpeTdmR2dkR0FDd3lHbElucElX?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank\u2019s Anup Bagchi set to become India\u2019s highest-paid bank CEO at \u20b935.9 crore",
+      "source": "CNBC TV18",
+      "published_utc": "2026-10-08T10:02:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc1Q5MU92Tmx2dkpBdWdzRndPY1QydFpmMXlCRUk0WkcxU0NxM04wOVJpQVA1NWpJbkZBUFFLdkJKV2FQU3l5R01qOGZtWkJybFhRR19pRzRrUVg3bXNOdWNOVG5Kc1RDTGVVa3l1MzB5azF5TWhOdjhtb0lSOXRVXzlLd0Q5eVo4Y1lrbDJieE9HTXFZNnJQanUwNk1rVFZxQi02Z0ZTZWFtSGVMT19vVHRxb0lkSGdnSW5EekVPZGpqYnQwUHZvTNIByAFBVV95cUxPc1Q5MU92Tmx2dkpBdWdzRndPY1QydFpmMXlCRUk0WkcxU0NxM04wOVJpQVA1NWpJbkZBUFFLdkJKV2FQU3l5R01qOGZtWkJybFhRR19pRzRrUVg3bXNOdWNOVG5Kc1RDTGVVa3l1MzB5azF5TWhOdjhtb0lSOXRVXzlLd0Q5eVo4Y1lrbDJieE9HTXFZNnJQanUwNk1rVFZxQi02Z0ZTZWFtSGVMT19vVHRxb0lkSGdnSW5EekVPZGpqYnQwUHZvTA?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "At Rs 35.9 crore, HDFC Bank's incoming boss Anup Bagchi set to be India's highest-paid bank CEO",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-08T07:46:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcGZEMkN3WDEtRl9PalhlSkJpZ1NQelRoMzhISXlVZW94Rl9CaVEtNmdudEZFZWM3TjRNYm5TMnNheXFFYmV3WG9BWWdTNUh2Sm4xUWFVazc5RjQwam00Nk1IMXZTODhBTWNXUDhCNWxsRVN4ZWlNV0dxZ3NxVVJHZmpIVU5BekFGOHlJV084czUxWnlMNVJHYVpub1BMazBNSHlWMHRTREJiVWhmRGVNOWpUVzVSNHpmX2E3OWpWQUx4a3JQYUdzUUpGcC1iVWxwQ0dTZ3RNMVplaGJVdTdaVVhJWHd3QUZnRjhLZjQ0bWNLN2xoNGdvUldGa1haNTVLQVk5R29jWXkya2fSAZACQVVfeXFMUEd2M1F2NS14Z212amlhYWVjcVJfQmhwcmFTYlQ3RGpyWnY4YnZQX0NLUHFpQ1lZSXB4QkFVeXlIQzBDNDJRUWZNb1NtcVdmLWlrYzZmczQ5WDZTTUF1Vmk3RTZoTkxrZ1hEb3NkU01NOVRlNEloM09vV3Y2M190ajRkWUpsOGI4OEpQb0tCZUplTVVhSkgwUnJnUWlVOGNJblFLMDRkdHFZTVFnRGJfczliWlQzeUdBeG5uR0tXRDVsY3VhYzNqcnZnYVEzelZEUXBwZWpLLWJmaEpOV3ljY0RfUGs0cWhYZzF1OXRlaGIxQUZGekxYTzNZRGtxYXNmTW9OM0hkQVpmS0Ezem9fZ3I?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "FIIs cut HDFC Bank stake to 39.40% in September quarter | Tap to know more | Inshorts",
+      "source": "Inshorts",
+      "published_utc": "2026-10-08T07:42:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeXg0VVFyQTZyb1lEZjhjYnphNERVdWRuRXhuVmVWS1dSVEs0MVZkS1RJRkpoQXBfTmhad2w5UGFraDFzWm5ual96d3ZfbDJJbnZJeDVlVWJhT2lUMF92ZjhIZ1dnbl83aHI3M2htNUZRRWdZbmIwUmJNRm9TdmVtTVRsZ01fd3FmOFYzbnNvWExzSXE1dy02a1E1SENJNHBjVFQtY9IBpAFBVV95cUxPeXg0VVFyQTZyb1lEZjhjYnphNERVdWRuRXhuVmVWS1dSVEs0MVZkS1RJRkpoQXBfTmhad2w5UGFraDFzWm5ual96d3ZfbDJJbnZJeDVlVWJhT2lUMF92ZjhIZ1dnbl83aHI3M2htNUZRRWdZbmIwUmJNRm9TdmVtTVRsZ01fd3FmOFYzbnNvWExzSXE1dy02a1E1SENJNHBjVFQtYw?oc=5",
+      "relevant": true,
+      "sentiment": -0.7,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank cuts MCLR rates by up to 15 bps: Check impact on your loans",
+      "source": "Business Standard",
+      "published_utc": "2026-10-08T07:11:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNG5ZYThjM2NPZ1VoTVIzeDlCSTlhZ1ZTY3ltajJKdF9mRVpSTVFCYzVORnpsN0w4ZmlOQk1tYjVWcEJyNHh2NjVSbU1xRjlmUlI4eG9DLVF2ZW04b2R4SWZwS2FlSDlrZWx3cnJ2WUZVWlphYjM1dWtXbjg5UEdwMFUyNm1YRW9jekpEeXlnTFc0bFp0RUY1UlBvMXJRNmJnUTEzUHFZT1VQY3MxTlNkOF9VdlhOS0NLaExFb0lkSy1zY0Fhclpmd0xCSzZnNW82OXFBUmVIeEIyanRzdXZkcNIB5gFBVV95cUxQVS04dTk2QlRIQWxDNE5NVFloRDEzMHlEWk5rUGZJd2JaM2VscHlMdTdUd2lPY0UtR3Q1Tkg3UE9HUEFhdWVkcDY2TF83NEVneFpBa3RXS3RRSlFVUklweWpVS2pJYkJyd2dka295aXozRHlPbWpFV1ZWNWRyV0dudUN3aUtMWHNTMi1rSTVsZXduV2V6aC1WZEpOQWZMNE5sTi1UY09aTUZzQW1ZbTMzMXItSnlLSUhDQ2NyU0JFbm52aExpZU5oTnJVdWloNFJzY0R2N1N2NlR1eUNZbGxVRnJfTWFKZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank (NSE:HDFCBANK): Why Did It Publish a Postal Ballot Notice Confirmation on 8 October 2026?",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-08T06:53:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNVBQTEhWcVNZcTd0RHdFWGFwT0Z6ZmdNWXNac0pCME1TenBjdkE2TGZ0TThzbE1JYUp5Y0FMM1Z0ajlMNE53emtlOVpIakx1WGY5WkticDJoUzliNHk2Y0UzNENjT25XSW1nT3p4RVRKbFl4QTRzNWZaSk12SVNKS3FLLXJZUndGbUtVOE5Ma1ZlLVk3MVR5b2Z2T0dudjVHdzdKX014ajE1djlhREI4a3RKYm42bGNwbmdpcFhFcFktaHNzSXlBSE9tWXBxQTZrOFRER2lkTk55UQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares fall nearly 1.5% after FIIs sell 2.4% stake in September quarter",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-08T06:19:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMUQtVHhGd25QdjRLTUE1RUM3NGJxem1xdjg4dXI2UHVIVnFJSGEtUllJV2Rlb1pkNFlLTEVOOU1xREJuMzRpT1NiX0FfQk5GdGNsc3hrSHdXcWlWUXVtamZNaG9ydlB0Q2VjamwwNXRpZ1hkQjhuQXFUSnIzM3Z5bUdwUXdJVmw0TS12LXZPMjRkbU41OW4tLXdDak91SEE3ZXBZOG5paE85dEhXVkF1MnpaeXJTaWs1dEJfTFpzXzBESVlIdWNINHBXbjY5blZZMFgxczhEUDg4UVlq0gHiAUFVX3lxTE1Ya2NhVnBJem5qMzVtUng5SHBSWmJVR1gwemhuUjV3c1pacHJfMzAyQUFtaWFQb2l3MEhULXN0UGJpSjBxUEpBN0ZUSGQtamJad005NjBPSnFTZDlfUkcwTklTWEtWWlBVUE03dTdCa2tYU25JVkozUWJvOHFVR2RfcU1TM0h3bHVLb2hvV3o5elNMLWFZYTI5NFZzR1lhdm80N25LNEVRUklja0ZFbWRzdmR0MmRUS0VkU051bXhBUE1CUHpyNjNvQWtUSExGcndwdkhXUTM5QU9XREVXYWkyMkE?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares dip, falls 4% in October so far",
+      "source": "TradingView",
+      "published_utc": "2026-10-08T06:07:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFl1aXpEcnkweU5WRTFZNFY1NlhsZmtkZnZZeWlvWTNxb1pyNFRvc055YmpjUFh2eVV5QWhGeG5CSzQ0aHF3empraXZ1WDQzRWNYS2o1bF9oUGJ5VFE4Q0JzQUxLUFZPd2lrcHgxUXZLVUVyaU5DaU5oLVJzVm1tUTdfUndHcUllNmU0d2JLMnRoTWhic0ROQXd2YnNZWnJmV0xkc0t3?oc=5",
+      "relevant": true,
+      "sentiment": -0.4,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank lawsuit sets October 13 deadline; stock pre-market at EUR 19.70: minus 0.51 percent",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-08T06:04:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ3pUTGN2Wm9CZWJlcWpkWjRWeHJTU0pLd1FsVkt6b2FCdG1tekJLel9haDZFam1oRTU3WnF5NDVLY05pSzQ2amd5aGhvek9zbUV4VTRzdldDMVJCei1oR3BnRFB6TTdEMTlvTFhNZWhEblJoYnZRVjhPQ2tFQmFCc0hHM2VtZF83eWZjTGFVeGZoQmUzNVZLTmoyWEpPa2x5bjIzcVF2S3FYa2pHU3JrSHg1SG1zb1JiZmtDNjgwemFSV2w0UktDWE9R?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank (HDFCBANK) Share Price near 52-week low as stock trades weak",
+      "source": "Univest",
+      "published_utc": "2026-10-08T06:01:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTG9ZZTR0bzZtQS15b0NwNGxFTlRkUFNnQnRnVHhmMldpREJEd3c4YVpnRmR2cDRfYkt0ZGk2RlRtdWxkNHdCWXNaZVYyeHRFNTVnbmhZMlM1U29idFRtNlZWeTZrSzU0ZS1HMDZib0RocDEzbFZuTmtQRi16NmR5V2tjWi1lVVJSVWc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI Repo Rate Hike: These Banks Have Increased Repo-Linked Lending Rate",
+      "source": "ETV Bharat",
+      "published_utc": "2026-10-08T05:54:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVo0MkZReWVXb0stRGdQSkF5ZmptTnpDaFhMcHgzRHZTODBLNG1Bdkdna1A0dENySjlPVVNnbjkzU3daektIbzBzMW1aTmt3eHVNSDNLUUc1MDhJSExOMHRIbTg1b2dmZmVoM01RYW5UazJjZXkxaktrbGNLXy1YTWgydDFIdVVOSkNiX3NzYVN6Q0xtWHhfbjJSY0dJNGxlTDhpRUZVbGw5dTNmMC1FbWRYMlk3c2lHc2c5MVBpUG7SAcYBQVVfeXFMTVhjT0ZsVzFaX3d5SnJsdU5ReWc4b19PczlMVEtkUW13WlhCLXJKZmhheTlQV0hONHNyMU1YZGZpVFV0eTNGTm1OT0VnSXFUUmtfQzN2R0NUZTBRZnRhTXdsTTE5S2ZRblRpdVB3Zlc2SlNSR1FWd19RQkIwcUJoUXQyenpya253ZllCVXpaaTMyTU9XaGZRNGFPUHFyR3p3X0V5VW1BUnYtSXRBdmRrSHViRWEwbWV6OE8zMjBiV2pma1pxa2h3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares dip, falls 4% in October: Can the stock recover?",
+      "source": "BusinessLine",
+      "published_utc": "2026-10-08T05:47:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXduVmM4LWRGcTJWNksxOHZwbXF5X01HNEt4LUJ1S1RCVS1NcGlhbWh2SXBPUHpEbzZYOGNtZGFtSFJ1dWFSNG00S0tIeURZYV9nQXFoT0R5d3YzNHFxa1hMc3UxTC1YY0JuOHk0TDFNQWJjd01XTjFEa2kwdkhHWGRxR1NxRExJdnlkbEc5RFJfUVdiU2paaGNQdjJvcFJnTy1vbS1rWW5SYzg1TTM5M9IBtwFBVV95cUxNTUZkZmd5YXdUUTlSTUJyS3RxdVM3eDBCcGJQWFN4aUdfTXp2N1FZX0ROMmRyMXJwVklza1A3MHkyUVZhdVBWTXd0Vmc2dG9qMEZyelh6Q0c0THBrak91TWJnN2w0YUR2c1VjWUd2blVKRkxUT284ZGFwVEpJbHI1Vk1YX0pTS3pyWTBVN1N2V1hLdktJSlRlcklBUm4walVmTmszXzFWSTBpMDN0ZGIyWm53V1pNR2s?oc=5",
+      "relevant": true,
+      "sentiment": -0.3,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Naman In-Store (India) Nine Monthly Results, Nine Monthly Earnings for Naman In-Store (India)",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-08T03:55:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnRwMG8zdlN0TG81cER1aTB4SWo4YUlidVhuWDBCeFU0d2NPWFd4QVNrUmdrUE51TE9ucm9GcXJzSHN2NVdzTGVSRmoza0FFR2FoRUMzVGt2NHZNUmNLZ1YzcDVYY0lZcVNkeHRXMjA3NlpvaFBfcGZwanVFcF9HdVdBQUcwSmNZM1JoR0FzaWxVMlZh?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Banks vs NBFCs: Where to invest after RBI rate hike? Analysts answer",
+      "source": "Business Standard",
+      "published_utc": "2026-10-08T03:30:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWhQeVU4dThKZU5tTnlreE1PbllRV0tiNGZxb1ZydmE0TU91bjhoZW4xbC1kb2pkMjZQemxKTjFDVDc1Z0xxclF0RC1pMlMxck1ta0g5emV5VWFnT2RoWW1ZMjY0T0hubzhtNGNsUzk2WmRKT1hTdHNaaU9JZHY3X1BXSWxDNGtMd2pEazNITXFDX0xuX0hDYml4WFFkRUhMSENCZTI1cHRoTGVfLTRXa0NObzZpZlMtRHQ3UVY4T3J2ZVVwTTF5UjNfODA3LTZJeVRz0gHTAUFVX3lxTE0taFB5VTh1OEplTm1OeWt4TU9uWVFXS2I0ZnFvVnJ2YTRNT3VuOGhlbjFsLWRvamQyNlB6bEpOMUNUNzVnTHFyUXRELWkyUzFyTW1rSDl6ZXlVYWdPZGhZbVkyNjRPSG5vOG00Y2xTOTZaZEpPWFN0c1ppT0lkdjdfUFdJbEM0a0x3akRrM0hNcUNfTG5fSENiaXhYUWRFSExIQ0JlMjVwdGhMZV8tNFdrQ05vNmlmUy1EdDdRVjhPcnZlVXBNMXlSM184MDctNkl5VHM?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank declines after foreign investors cut 2.43% stake in September quarter; shares down 29% YTD",
+      "source": "Upstox",
+      "published_utc": "2026-10-08T03:29:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN2dtNVRMdUNVUHBJUTJmUVpUNTV4cHo3OEJ4YzFOWDZrY2VPQm80WVNuNE5xd2ZieXZSZ1FrSXl0WTJROE5lUkFuOTVPTkJqUGZ1UUVUcmZrdXp4WU1rMzZyNEhMQmJldDZ5dFF2MEtlTXVMNTVBY0VlM0tvOVQ0RnB0VXhZZEV5YTFpVDJXS1FnVVVmMTVfSG9PTklXWG1NNzgzLUxxVGt2WDNFbFNIRnFfdjhGMWFuQlFKOHRtSjlFMWVPX0ltMU5KWm05RHZBU0FQWXJ5WmFHa3FxeWg1VGlCdHdNRnJzbmhiMw?oc=5",
+      "relevant": true,
+      "sentiment": -0.7,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares are underperforming despite CEO clarity, Q2 update - IIFL's Rikin Shah explains why",
+      "source": "CNBC TV18",
+      "published_utc": "2026-10-07T23:01:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcHdET1pneVJEYkFZOWVNcGdYdzM1Vmx5QTlLbEN5VkZia2R6bnZWWXgzY2hfdHZFYWZZMk02TTY4THhBQlNYa1l2UWtTZF9hOVBETklaQ3FiQmw5cGxjYVVEeWMyb05USkRQbHNrX0hoUGplMGE4ajZmU3hUb3g4ZWlXMjhLSmRDXzZKbXNxVHgzbDVCSl9hdndMQW5rVU5icWg3d0FtSEMzdnZFSEh2cUgxS21nbHFkMzd3NzdpbTVEanowZmVOSmQtRzZ6UEJwcXVkTjVuQjdmSkUwd1JvalpFRVkwejFxY0dDRFk3OTNyQdIB9wFBVV95cUxQMmtoVkhvZUc4RHFaWmwzSDBsbUFFdUpFcGtRZ3NfaDlwLXhudzlMbVVXWDJyMkZOWjZEYk1CUDN5Umlpa3B2TXNVeHJISmNBU1R2QjVBUGZzejhXaU4zZVQ5OHJvd3VudlFoWi16eWZCcG5fcmNLSXg2cm9rWFFaekhIa1NQU0tld3FpTmN3TzZZeXYzeUY2dG5WMHJjLXlZSy1MeUIyUC1ZdUhUZjJ1aEFGTWQxblAzZC1uVmtYVTdkeXVibWd2VFRJMzVQQWQ1UzZmV2N3OWs3dnBYN3lVSDZCdXpyeGxXQjdjUUphOFpwaFF1cjdV?oc=5",
+      "relevant": true,
+      "sentiment": -0.4,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Rises On Bagchi Appointment, Shares Gain",
+      "source": "BW Businessworld",
+      "published_utc": "2026-10-07T21:09:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2JCUTVldF9pMUdHNHlXeXpCeTJBTFhQcGxPLXgxa2FaRUJUbDdQTU9GWHBHSTFGVDYzeEg5Y0Voek9YWTczd2w1elhtWXItMC1iejNXRG9Od2l4Ykc4NGpTX1VSZ0VqWmRCN042QW9TSTJGSG1ybnFCaUM0QVBrVkhpdFlxNl9YNXZPUzlfUDVvQ0ZGMW0yTA?oc=5",
+      "relevant": true,
+      "sentiment": 0.6,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI Rate Hike Stocks: Why HDFC Bank, TCS, Coal India May Gain",
+      "source": "Univest",
+      "published_utc": "2026-10-07T18:42:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkowVC1va2lkQkY5ckkwd1BqbV9vYXN2c0VGUXRsY1YyWHhaOU1VQndLLWU1VEZ2cmhZWVZ0aXpObFJnUTN4VFlfUUl1VHhQLUxabHgyWjB3T0hTRXh5NkJGNFZpNFBpeWFFWjdDSWVsMDhKYl9nbzVGT2dtaXpHNTdNT3dhc21QTWp0YmpIUXFabVBEUmRfSnFpRVpFSmxVa3FF?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank stock after-hours: EUR 19.75, prior close EUR 19.95",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-07T18:20:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVlnMmttRGFkd3U1YkJDT0xRQkhHYnViMjJaWWVhbXI5YnJscDUyUzhkZ3RnT19MSkNxT05Pc3o1Skk2ak9rY3d0VFFWbnJwS21LVlB1VkhrNlZHSGdHV243aUpjSll2QmV6SU1Ba2tNS0JHYmEtMmxFamJuR1djTVFDdjNUWlpsUGp0aXF5NVkyOC1oM3NwYy1pbnBXYi1wSkhFM3NXRnRJcmlVUWQ5c05LSi1pTlZCUUE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDB SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP",
+      "source": "GlobeNewswire",
+      "published_utc": "2026-10-07T17:45:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQcmh3NHFmY0VvWlZVTEhZdzRNUGNiRWZLcXZERjFpRWJlVjZCbUtUclpDWHYxU1J5bXdkQ29ud2pQM2g5NDhGY2tLaFZ1LWJBQWtmX1BFSVRQcnFoRXhoMUwxYW5xdktPZGtkVjRKREFjdHpKQlVRRFhTTU5UVUZmYkI5QVl5ZUZvZmNHdVlwR1l0MnFmSjktR0FSNEMxTXgwQW9nejAtRkdtV0VkS1lxZVVrT0hXMEM2RDI3MExJSmJMbGQyT2ptQ1JFa2tPN3RKTEJfbWszU2hpT0lCWGxuNG9MTTZvY000REpNM19xNTE0NC1vRldpc25zY2w5MklxVzllVW1jbFI1V2FkUllLUDRPd21zVFJPU3ZQdWVjWEpoUzJITnJOckhRWE95YU1uWDBXSkttVVhQMk9DQXhOMzVB?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDB FINAL DEADLINE: ROSEN, GLOBAL INVESTOR COUNSEL,",
+      "source": "GlobeNewswire",
+      "published_utc": "2026-10-07T16:19:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNaHlWc0lnUmNndUhod3ZiMWJQYV95VW9FMFg0cTJVcFBxa3NDdkxtZk0tV2JRTDhGeHl6dC01WW5TQ1ZEcmh2ZGs2a3NXM0xFMzJFRThpaVZycV9ndEhUYlhxc2V3U04wSWJlTXhsUng1dEpXaVM0bnBiQWlhb2RNQTVqNlVpZFJmcnU2ZHY0MThLTjVZYUx4NXQ1WUNZMFpVcVVKUU9fNlN5SGNMbHpPQ0UzcHUwSVRDWFNtNU90d25waXc3NHExMjFXeG4zZ3dSUFVMeWVRdUpIaE55NTFDZjZJbDBBRmg4X1VxRFVOMEx0MzE4QklUd0xERGs1T0xiX3RJOUJlQi1rVHd6V0UyMTBTRHRieUlLMmNuaWNtQ0x5bkhrc0NTcUh3NWp4VDhleUotRmJyLVdxRnR6bVVILVdrT2lUNWZPd2JzaFhrdGJQYVc4N3loYUNzYzJnalFzTkdTZFBhMUVISklk?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bronstein, Gewirtz & Grossman LLC Urges HDFC Bank Limited",
+      "source": "GlobeNewswire",
+      "published_utc": "2026-10-07T16:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQakFlc3lkZTVUcHhOTy1xWTQwX3llWHB0NWZqalpvZjlTd1E4VjlWaUNnSGJISERUQUttMW9TUDczbi1QSzA2Y25BcEtFeVp5OElGdVpPdmdSb0ZlUGlpV2JXeW41S3AwMEUyWHdRSDRoNWhacjJyYUJSU0Z6Q01pUHJnVDJKeHA1Tm9TWXBiSjdobmdpTWdwN0N4SWNwOVljUlVpTVpnZnFYSDV6TGhhZXN3NnJ1dXBqVURZSjdFLU9FRC1LTzFKMjJQamh1RGpJLWVmNkdjU2hHRE5ERGhKRXNhNUplaUJ3U2I1cnlNQllja2JabXdKajRCY1lhUFFqLXJ2ZkE4bk82alU5QTRBT0gzLWYwYkE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Elgi Rubber Co Nine Monthly Results, Nine Monthly Earnings for Elgi Rubber Co",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-07T15:30:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXFRQ2RjTGRmU2NqaG5seFgzbzFNMlFDZzg3SVYzVjE4REFYZ2JHazljZUdFM2dXQ3FDSTVKZkpTNXZKWVdaa3VpSVpqcjNpYXdmMVhsY2EyUE5MY2t3MERyNHFzMmJBZW1JZFVMRmFPRi05NFFaVHl3RGNBR1BKMEpPR3M0UFp1RVdQZDJWTzljNTRLSW9FZmRn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Half Yearly Results, Half yearly Earnings for Elgi Rubber Co",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-07T15:30:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHRKQjF4VVhwU0xycnFyWEZXc0t1U21pZEdMaE1jZGloM0pVOVhBM1NrUFBUMmFjMkFDd3lHbzJVLThhWV9DYkZta1RYMk1RbTBYOTlobHdvS2ZfWXVPNkhBTTNJSnBfNDBFcHdYUmE1UU16ZkZoWXREeWQwb2Q4MV84NUpnamlLdW5jZXU0WUFha18zSXNlcw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank deposits, demat investments in single account statement soon",
+      "source": "Business Standard",
+      "published_utc": "2026-10-07T14:57:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ1NEdG0yai1zUlhLU0M1XzZBSjhZd19iNVo2WkJkMGRDdVNsbzJDMTJSbTMtdDNCY2VPUjRhbHdQeEFvby1VOGxmUmNHcjRZTzJXT25PblNiaTQtUnBHZmlvelZ5M0tGeWQ0RUF6WjJlelRRSzh0bUdvNFExMTlZSmxRWDBLdU1wTmh5dGlrS3ZtSjVuSjFqY1NzREpyU3VOOUVrQlA4cXRTdUJ3bUROMzhlUnpIcnhJei0taUFrRzQ1Nk5lN094R2Q0OFd4NDBmV2dXcjV30gHbAUFVX3lxTE5JdFlLajZEaVVhY09BLUFMTGxhUmZNV1BIQTdrTGpLTzUzVEJkeWg3eGhaOV82NDRESFNncTFXdnhFc3hIc2NTSVpjZk5WdXpTS2x0MTdkeFRKTUFGVWM0SFo0QnVOelRYcjJ6aV9jU2dIOV9ncHYxeWZGb1lBR2NVWkdmQVJtR05HU3N3TG91Q3A4RWpWY0xraldpZmNfUmlXbHlBZktNa1Fpek0wdG1nakFxVzlHZFdsc3YteVNhY2RfT2pQRjNWb1JKWjZrdEtmMkdSajQwSlFZRQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Levi & Korsinsky Reminds HDFC Bank Limited Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of October 13, 2026 - HDB",
+      "source": "PR Newswire",
+      "published_utc": "2026-10-07T14:09:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNUTBLdmtZdnUxZzFoZ0JfbnZEX1Q2bjhiLTBpV3IyNmNLRjZtVUtLTmVxYmxaQ1ZsbWpDT0l5ejQwNlVuREVOMjVPVDFPSDU2M2h6QW82XzF0a3dMV09aVXY5Sl9pV2MyTWVaR0RTdEhmZy1nNURoa2RNT0JGLXlWLUxCTVI5eG9sMUpGWWRhSGtrUC1Uemg5NnA4WXJGQ2o3a01zaTQ0NzFmTHNNa3I3Q2hGUVdUM2k1NlREajlZbVZ0OG90cElCTU5FZ0hPXzJiN0d4b2ZmZ3FEcS1TRnRUeXVycFNNcjNPTG5qcnk1aHZYWnFMSFFQZmoteEFVM1phQ3JUQ1dES05GYktMT0R5RmtNa1pGMVdZN2xsM3NNYnJka3RKd1E?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anjani Portland Nine Monthly Results, Nine Monthly Earnings for Anjani Portland",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-07T13:37:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGNOVnljTmhqY2pjY19STW1YR1d0VFBsX24tV09zUGFaZ3VBbUJ3UzdJYlF4Z3pHTUIzNEp3a0VGWkxrR2ZJQ3BFWHFlV1RCNGZlZ2ZCWkpoTERhbHFmM3V1R3NBa01JVTE4RWNYSGZzZ1pOSThyYXh6SjBOOC14WjJ4MGdCbEMyS1JZT0N3YktPNWtVZTVNUEhDZEZUQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India's Central Bank Seen Extending Rate Hikes as Inflation Broadens",
+      "source": "BigGo Finance",
+      "published_utc": "2026-10-07T13:05:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGRF9yYmVCSERpcTJLWTNKX2lWR0hCUVBJRTdMa3U4R3FjVHJoT3A3LUJ3WUxhUk42MGpTN0lOZldadUJ2R2stdEVPYm5WalE5V1E3a29QX0lsN0lpWXdqdTFzVUNGdy01RHh3YXVhOEx6a1FRZEE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank (HDB) Advances 1.40% to $22.42 as Buyers Push Toward Upper Range - Channel Breakout",
+      "source": "https://www.siam.in/",
+      "published_utc": "2026-10-07T12:45:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOFVzazdoR1ZkTXo5YjNzeWhlNXFlRXl2WmJEejdUWGxTZ0hRbTlBR3Iyc2d5aVpQek5DXzRGS0tlUzdhMUdYa1lDTTJDRnQ2M2R0czBscWp6Q3pmVERyMUdvTlZIMFZ1R3ZUYVo2TVNjYVVqeGk5b3BHdG5UMldTblg2bEVnY21aUHR3Q2MzTEM2Wk1acG5yRFJmMU05SDN4U2VxMHltYXl4VC1pLXZTMw?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDB 6-DAY DEADLINE ALERT: HDFC Bank Limited Investors with Substantial Losses Have Opportunity to Lead Shareholder Class Action Lawsuit Before October 13, 2026 Lead Plaintiff Deadline",
+      "source": "TradingView",
+      "published_utc": "2026-10-07T12:21:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQUkh0c2g3RG9hVG5jMlFWU0RVdWxIaFlzcTdGN0lzOVpqbFVIUUxxSlhCOS1icnJtQTk1aG40SG1HNHoxMUVocGxJYUFDbmhiWEF5VkFibFBUT0t6TWxBZFFVVkttbXVGQ0NJX1lzcEZsTEJ3aDBQY0ZhQnpTMEptVl8ydlBzcHl3MW5vQ2Qtai1kTEdiRGNhMmFzWXFfemhzblk2MXhUYnZSeGF3ZnlaTE11SDdTaV81cmdGdGh5NWJiUTVfdHI5ZU04TFVPb0pCX1gxSDZaWm9DalktQkRWTFdBcmVleTY2Nm5BTm55MG5HYXNDM0dLNHJRNW80S0k1cnQtWE1NWk9KeGVSc1VNTlkxVzhMTFUwa3FJcXpxU3l3VGFoOEx4M19YOGlEbWdQZzA3aF9oWldNQmJ2YnFmQktpaVl5YkRPNG9lNWFtSHI4VUt1eUZXRTd1QnRPWmc?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India\u2019s $110 Billion HDFC Bank Faces Upheaval With Outsider CEO Anup Bagchi",
+      "source": "Bloomberg.com",
+      "published_utc": "2026-10-07T12:00:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFEwRlZBbnZlNEk0aHR1dDFRVVZvLWZtV00wLUMtdHBqSHVwR3RaX0ZvZlRjcEswZFVRMFRJaUk2TTJFT016QWxhcnJxeFF1aGgzX0dGWTl2TzAzZl9Cb0FCQ1oxU0RNYjVGMk4zQ3R4WmYwU1g3cXdFVW0yaTFjRE9uTGwtS0kzdGZTem9VcFUwZS01OVpaZkVyNnF0QnI2VlBSNkU1RDFlNDlRQnlnRGxuVnRnSGw3a3Q2VlEwNlpMdlE?oc=5",
+      "relevant": true,
+      "sentiment": -0.3,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Flexi Electric Car Loan puts your dream EV within reach by rethinking how India finances the switc..",
+      "source": "ET Auto",
+      "published_utc": "2026-10-07T11:58:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQOXY4ODlKMENucXRVY3VZSURHeFdsbW40YTBRMUhzNkU2b2RuWmpiTy1Ha3hoa0J0Q2tPQ1RkR1JveGduNG9DN2NRLVYyX2ladTVtWFUtYXFGb3htXzcxcnZkTHNfLUNDTDh1bktsV0l6Q1M0czJtTVBXLWdwMEdrdk5lWU1HcndLV2VVSVlIMkNTcGpwbVNIQ2l3WGtWbm9yUHpTcFNNVUpQNTdfdEFQUC1ZLTJsc3BZdGJkMlluR3hsb0pJd1J3MWtjR2xIN1MtbVBIb1BfY2h6R2Q5SHZwdnhpRzFsa3dYZnlEVnBUYTVYYTc1Ym10cWZybmhpZHVMMXU1anRn0gGLAkFVX3lxTE5nNkhJeDhxdWxMTkV1MzdodDNvQllPanNyNG50dkFxbVAzY3ZDN0FFa2dFMGR2S0xWRENMRy10OWVRV3c4aVVTTGpvZ1FFRUpwVC1tdHFyemdBZUFRVGJFeENHbmVfOHdURjhkSTk4aXdXNDhQdXppMU5OMmdMcGFBU0tEWVJBZ0cyMmlrcjFEam1wdWQ1LVVRSU9halRQX3JSNUFBLTQ0ZzVCLWRiQWZjNkprMzVMbUNFcUlzMlRJaXhSWG5XSnhGSzJQbjlZaEJDMVRyT0haSWhpQlpxYWRWSDZjT21GZ2k5b2djMFdzb0xXaS02VW5wVDRaQUpoUUliMGtVcm12NUdpMA?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Market wrap: Kotak Bank, Bharti Airtel, Titan Company, Adani Ent top gainers and losers on Nifty and Sense",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-07T11:51:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNcndkc19UVElFZG5FWmczLTkxcDk1eDlIQjJkUlVGQ1ZZZ3VpaEdScjJ1Ukg0R0h0cTZ5QWtCY3ViUERHTkxudWs3aS1nWFd1V0Z6VThUUnBYdkl0dkF5aGhpR3B0RUxwakdOT2k3SXEwMGZaekRPc3JNMWIxQmttejF5ZEVuMEVJel94dVVscWZWeHZJX01wMklQVVpyd1c1TnA4N254enFua1Uwbmt2Wk5TM2pLcVRpZnlVcWpFSUFzaG03N2tOQnR3UUhTSFNwTkhKeEdMeEVvNnlmMkZwRjltSUJWbHQxSHFTRUZmWWduUzd3Q1NVVUo3YXlwQXQ0bmZ4R0tTbjU5ZjFyWkoxS016TUpjekxTQ3fSAZ8CQVVfeXFMTTVJcVpfRExRYy1yUjlHeWZZNzAwZi1ySlJHc2RpV2pqVHhjVWQ5dlVGVjd1OGZWTHdXMDRtZmhGbkZlVGlwVlYxQ041dlN0dk9yZng0NDhNZ0N4Ymk2TG0yVWM4ZXpLdklwclhqanNvU3dXYndSTnRGUVlveFlhVVhxNklwR1JyQTd4cUNSb0RrVEIwTWlfUW5IN1hFLVloOVRXSXk4UzhaN3FLNUdZbG8xd3FhSlNFUG5qR3V4TzdMdHZQOWhFOHRobGFIRVFXT3JUWmt1YXRiV19vMEtDMndWYm95cEVhWEtPRjY4S0ZfRU16bW1fMjlOdHlva093SzhodC1RUDliUUhsaXBDSVVrMVJYWmV1b1Yxc3o0UDQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank (NSE: HDFCBANK) Names Anup Bagchi as CEO: Can New Leadership Solve Post-Merger Challenges?",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-07T11:31:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZlhQalN1cjJNRXFfaGU2Y2lWREw4RU5LcHY0RHV6c1pibDcySjhqMlk1T0xIMGZTOGVVQ2duMGlNa01fQk96UWxVbjVOdVBPQ3k3WXVJLU8zd1RWU1Yya1NLUlpyb25iMTRtc0tiQzN1UElWUm9OX1Q1M2dQNndkTzBlQnByczczMU1GMkhkb0VZVU82Ry1pMWdxQURJbU0xUjc2Q3A1QWgyWWNSOW9TdmtlU0doRlk2THhNUmVhN3NRRmpMTGlpb21xaVBxZWZfTl9VNnN6b3ZCSVJaanpV?oc=5",
+      "relevant": true,
+      "sentiment": 0.4,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank slips Wednesday, underperforms market",
+      "source": "MarketWatch",
+      "published_utc": "2026-10-07T10:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdFB2bzFQNWRzLTJpalZKaU9IU3dJbkFUUlVpSDJQa0pyMGQtSy01R0szOTZWZUhWc1RZVTI1eFRzenlMRjlrMUdmTG1hdnFZRFFDazFva1VsOXdxcVcwemF3eXVfa3Q0Y3Fqc293YkxlQXZfaGhBWnp3SldQUmlWMUNzUEY2Zi13OVFyLS1EZG1Fb1RzM0p3N1lkNU94VU1oSDFmOA?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Prediction for Tomorrow: 8 Oct 2026",
+      "source": "Univest",
+      "published_utc": "2026-10-07T10:27:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzlfMmRMV09sSnRZQWJ1RGRBdGwxaWc3bDZGeFhjalpiaUNWRTI2eF9UMWdUdzhUMnJobGNpNnFRSk1kLWswdWtqeEdRTlZ1TFlxdzhCS053ZnNWMzlGT00xODB0d0tlZWJRYmtrVUZCdjJzLTQzRGRQRnJSMTVCU1FOdHJjektxeXU3MDhR?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bengal Tea & Fabrics Nine Monthly Results, Nine Monthly Earnings for Bengal Tea & Fabrics",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-07T10:19:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcmtNM0V5TFRQVk83ZzBaMjJ0YW5waFF0YWVsVnlUWGZ2ZEpRY3VuT05uNS1zYUhRVFpIVmRoWHpXdkJBbEJEWXFXRFU0NkRnaDZfMU5vbTk5blZOVjFtdWJDNVczbE96VndjT1pZNklsS0ljVENXQzYwbVRVUGpaeS1aVGJLUWtCdy1obGtCbDZLeHVEYmJLbkNkYVBRQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank cuts MCLR by up to 15 bps across tenures; check latest rates",
+      "source": "CNBC TV18",
+      "published_utc": "2026-10-07T10:04:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGYxQ2J5Sml4WVJRUFZpRm5vV0RKQnV3Q3NSV09qMU8zRi1Hd1VVNGgwd3NnYmh4ZFZKZmhpTjVtZGVtOUZNZTJPQnlfcjNXaFBLRi01OTNwWElsWWljbXg3Rlo0c1RYa3diU194NmlPVVdvRm5aSGI3LXU5X1JIdjBELVgzRkRYWVV6ZGg4N0I3bU5QRkhlWVFIWllfYzR2a3N0cjdBSDJ5d19Td3pEd1JzeWZhMEho0gG4AUFVX3lxTE14ZjFDYnlKaXhZUlFQVmlGbm9XREpCdXdDc1JXT2oxTzNGLUd3VVU0aDB3c2diaHhkVkpmaGlONW1kZW05Rk1lMk9CeV9yM1doUEtGLTU5M3BYSWxZaWNteDdGWjRzVFhrd2JTX3g2aU9VV29GblpIYjctdTlfUkh2MEQtWDNGRFhZVXpkaDg3QjdtTlBGSGVZUUhaWV9jNHZrc3RyN0FIMnl3X1N3ekR3UnN5ZmEwSGg?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank cuts MCLR rates across tenures: Check latest lending rates effective October 7",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-07T09:44:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR2xOa3UzeEJoV2tFX25NQlU4T08yWTdzeUJ4X3EyRktxUnBHekh3a1VQZmRPM0M4ZmttS0lzNGFzRUt5Z2ZoNHF6ZkQ4N2tSYUFXc3QyWFRhc3Vnc1dIM2dXakViLVpqUER4R294aWN1UURydE5fTVJjUERObVhmZUtGYjJ0alN0dERCZmV3aVN0N3N3WE85bjFDZ0RWemRsaGFLYU9iQXdNV1pWdzFLd0VVdU92RzI4SnQtQ1k4QVh5LXhCc3VYWHY2OXU3QnB2LXBTOGsyVkNoUTZ2ckdjSjRUUVFyZllFbmxqZGN1TWRwcW_SAfgBQVVfeXFMTnRreWt6YXNTMF94d2o1bVlFNXV2dlJEOHlneXhvTlVnMDhKV3JPQ2R0aUFJWFJCWFAzSUtuSnNrRHdHZHBVVHVNdWZyU3Nld1RseWRzTUZpRlpCa3ZwbnE0dXk0V0FvSnRHN0FfbHo4TWQ2azRFeEkzc1ozV1pxOUZEbWVFNGJkbFpNU0hrWTZJTjJOa3RTNUpELXNCZF8xU2xab3dxTFlvdENsVzVpUGppc1ZBTktob2JLalRYeTBuQ3pNaEpBWVRrY1ZTTGNWRm5EbktmZXV2aGo1RXIzRHhRbTJYQUc1WVU2aEFaSXpqSWdES04zY3U?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.131,
+    "strength": 1.0,
+    "material_count": 6,
+    "view": -0.131
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-08T11:33:27.096789+00:00"
+}
