@@ -1,0 +1,119 @@
+{
+  "as_of": "2026-10-07",
+  "performance": {
+    "sessions": 9,
+    "first": "2026-09-24",
+    "last": "2026-10-07",
+    "hansei_return": 0.004903000000000102,
+    "hold_return": -0.003952000000000067,
+    "gap": 0.008855000000000168,
+    "hansei_max_drawdown": -0.009345999999999965,
+    "hold_max_drawdown": -0.02268199999999998,
+    "sessions_ahead": 8,
+    "gap_from_exposure": 0.0044215061347306905,
+    "gap_from_selection": 0.004433493865269478,
+    "average_invested": 0.39846554946851653,
+    "daily_gap_volatility": 0.004714394213843343
+  },
+  "advisors": {
+    "5_sessions": {
+      "trend": {
+        "judged": 20,
+        "hit_rate": 0.7,
+        "correlation": 0.532157131230057
+      },
+      "volatility": {
+        "judged": 4,
+        "hit_rate": 0.75,
+        "correlation": 0.23928579893056856
+      },
+      "momentum": {
+        "judged": 20,
+        "hit_rate": 0.6,
+        "correlation": 0.5690208774129396
+      },
+      "news": {
+        "judged": 14,
+        "hit_rate": 0.5,
+        "correlation": -0.007033668874950457
+      }
+    },
+    "20_sessions": {
+      "trend": {
+        "judged": 0,
+        "hit_rate": null,
+        "correlation": null
+      },
+      "volatility": {
+        "judged": 0,
+        "hit_rate": null,
+        "correlation": null
+      },
+      "momentum": {
+        "judged": 0,
+        "hit_rate": null,
+        "correlation": null
+      },
+      "news": {
+        "judged": 0,
+        "hit_rate": null,
+        "correlation": null
+      }
+    }
+  },
+  "trust": {
+    "trend": 0.25,
+    "volatility": 0.25,
+    "momentum": 0.25,
+    "news": 0.25
+  },
+  "health": {
+    "last_session": "2026-10-07",
+    "weekdays_without_a_session": [
+      "2026-10-02"
+    ],
+    "sessions_out_of_order": false,
+    "news_days_scored_by_keywords": [
+      "2026-09-28",
+      "2026-09-29",
+      "2026-09-30",
+      "2026-10-01",
+      "2026-10-02"
+    ],
+    "news_scored_by_keywords_latest": false,
+    "orders_that_filled_nothing": [
+      {
+        "queued_on": "2026-09-30",
+        "symbol": "ICICIBANK.NS"
+      },
+      {
+        "queued_on": "2026-10-06",
+        "symbol": "HDFCBANK.NS"
+      }
+    ]
+  },
+  "significance": {
+    "backtest_cagr_edge": 0.006642662683372658,
+    "daily_gap_volatility": 0.004714394213843343,
+    "sessions_needed": 124741,
+    "years_needed": 503.0,
+    "sessions_so_far": 9
+  },
+  "backtest_reference": {
+    "Full period": {
+      "cagr_diff": 0.006642662683372658,
+      "hansei_max_drawdown": -0.2834891706303855,
+      "hold_max_drawdown": -0.388102850379426
+    },
+    "First half": {
+      "cagr_diff": -0.011307404397201237,
+      "hansei_max_drawdown": -0.2834891706303855,
+      "hold_max_drawdown": -0.388102850379426
+    },
+    "Second half": {
+      "cagr_diff": 0.013031388771360453,
+      "hansei_max_drawdown": -0.13496836375670698,
+      "hold_max_drawdown": -0.2048452894237183
+    }
+  }
+}

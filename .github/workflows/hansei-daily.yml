@@ -46,11 +46,16 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}   # optional: without it, news is scored by keywords
         run: python -m scaata.agent.daily
 
+      - name: Report card
+        continue-on-error: true   # a reporting bug must never block saving the day's trades
+        run: python -m scaata.agent.evaluate
+
       - name: Commit and push the new state
         run: |
           git config user.name "hansei-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add paper_book_india.json forward_test/hansei_journal.json forward_test/hansei_memory.json data_cache/news_india
+          git add -f forward_test/hansei_evaluation.json || true
           if git diff --cached --quiet; then
             echo "Nothing new to commit."
             exit 0
