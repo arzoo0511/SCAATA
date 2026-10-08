@@ -299,3 +299,11 @@ def test_weekdays_behind_counts_only_unprocessed_weekdays():
     assert weekdays_behind("2026-10-05", date(2026, 10, 6)) == 0    # Monday done, Tuesday
     assert weekdays_behind("2026-10-02", date(2026, 10, 6)) == 1    # Friday done; Monday missing
     assert weekdays_behind("2026-09-25", date(2026, 10, 6)) == 6
+
+
+def test_tolerance_and_floor_shape_the_target_but_default_to_the_live_rule():
+    from scaata.agent.brain import target_from_score
+
+    assert target_from_score(-0.25) == 0.5 and target_from_score(-0.6) == 0.0
+    assert target_from_score(-0.25, tolerance=0.25) == 1.0
+    assert target_from_score(-0.9, floor=0.25) == 0.25

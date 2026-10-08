@@ -51,9 +51,11 @@ def combined_score(views: dict[str, float], weights: dict[str, float]) -> float:
     return sum(weights.get(name, 0.0) * value for name, value in views.items())
 
 
-def target_from_score(score: float) -> float:
-    """Hold fully unless the evidence is net negative; at -0.5 or worse, be out."""
-    return max(0.0, min(1.0, 1.0 + 2.0 * score))
+def target_from_score(score: float, tolerance: float = 0.0, floor: float = 0.0) -> float:
+    """Hold fully unless the evidence is net negative; at -0.5 or worse, be out.
+    `tolerance` starts cutting only below -tolerance, and `floor` is the least
+    of its share ever held (both 0 live; the backtest's exposure sweep varies them)."""
+    return max(floor, min(1.0, 1.0 + 2.0 * (score + tolerance)))
 
 
 def _explain(views: dict[str, float], weights: dict[str, float]) -> list[str]:
@@ -71,9 +73,9 @@ def _explain(views: dict[str, float], weights: dict[str, float]) -> list[str]:
 def decide(symbol: str, views: dict[str, float], weights: dict[str, float], current_exposure: float,
            days_since_trade: int | None, weight_in_book: float | None = None,
            equal_weight: float | None = None, act_threshold: float = ACT_THRESHOLD,
-           min_hold_days: int = MIN_HOLD_DAYS) -> Decision:
+           min_hold_days: int = MIN_HOLD_DAYS, tolerance: float = 0.0, floor: float = 0.0) -> Decision:
     score = combined_score(views, weights)
-    target = target_from_score(score)
+    target = target_from_score(score, tolerance, floor)
     reasons = _explain(views, weights)
     gap = target - current_exposure
 

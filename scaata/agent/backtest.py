@@ -102,7 +102,7 @@ def precompute_views(closes: pd.DataFrame, start: str) -> dict[pd.Timestamp, dic
 
 def simulate(opens: pd.DataFrame, closes: pd.DataFrame, views_by_day: dict, start: str, end: str | None,
              act_threshold: float = brain.ACT_THRESHOLD, min_hold_days: int = brain.MIN_HOLD_DAYS,
-             learning_rate: float = mem.LEARNING_RATE) -> dict:
+             learning_rate: float = mem.LEARNING_RATE, tolerance: float = 0.0, floor: float = 0.0) -> dict:
     days = [t for t in views_by_day if t >= pd.Timestamp(start) and (end is None or t <= pd.Timestamp(end))]
     n = len(INDIA_TICKERS)
     memory = mem.new_memory()
@@ -146,7 +146,7 @@ def simulate(opens: pd.DataFrame, closes: pd.DataFrame, views_by_day: dict, star
             mem.remember(memory, t.date(), s, views, float(closes.at[t, s]))
             since = None if last_trade[s] is None else i - last_trade[s]
             decision = brain.decide(s, views, memory["weights"], value[s] / share, since, value[s] / equity,
-                                    1 / n, act_threshold, min_hold_days)
+                                    1 / n, act_threshold, min_hold_days, tolerance, floor)
             if decision.action != "HOLD":
                 pending[s] = decision.target_exposure
 
@@ -214,6 +214,59 @@ def main_long() -> None:
               f"smaller drawdown {shallower}/{len(grid)}; CAGR diff "
               f"{min(g['cagr_diff'] for g in grid):+.2%} .. {max(g['cagr_diff'] for g in grid):+.2%}")
     print(f"saved {LONG_RESULTS_PATH.relative_to(ROOT_DIR)}")
+
+
+EXPOSURE_RESULTS_PATH = ROOT_DIR / "results" / "hansei_backtest_exposure.json"
+TOLERANCES = (0.0, 0.1, 0.2, 0.3)
+FLOORS = (0.0, 0.25, 0.5)
+DRAWDOWN_MARGIN = 0.05     # a variant must keep its worst fall at least 5 points smaller than holding's
+
+
+def main_exposure() -> None:
+    """Can HANSEI spend its risk edge on being invested more? Sweeps how
+    tolerant the brain is of negative evidence and the least it ever holds.
+    The rule for choosing, fixed before running: the best 2007-2019 CAGR
+    among variants whose 2007-2019 drawdown stays DRAWDOWN_MARGIN smaller
+    than holding's. Then that one choice is checked once on 2020-."""
+    opens, closes = load_prices(date.today(), LONG_HISTORY_START)
+    views = precompute_views(closes, LONG_PERIODS[0][1])
+    (tune_label, ts, te), (hold_label, hs, he) = LONG_PERIODS[:2]
+    rows = []
+    for tolerance in TOLERANCES:
+        for floor in FLOORS:
+            tune = evaluate(simulate(opens, closes, views, ts, te, tolerance=tolerance, floor=floor))
+            rows.append({"tolerance": tolerance, "floor": floor, "tune": tune})
+            print(f"tolerance {tolerance:.1f} floor {floor:.2f}: tune CAGR {tune['hansei']['cagr']:.2%} "
+                  f"(hold {tune['buy_and_hold']['cagr']:.2%})  DD {tune['hansei']['max_drawdown']:.1%} "
+                  f"(hold {tune['buy_and_hold']['max_drawdown']:.1%})  Sharpe {tune['hansei']['sharpe']:.2f}"
+                  f"  trades {tune['trades']}", flush=True)
+    eligible = [r for r in rows
+                if r["tune"]["hansei"]["max_drawdown"] >= r["tune"]["buy_and_hold"]["max_drawdown"] + DRAWDOWN_MARGIN]
+    chosen = max(eligible, key=lambda r: r["tune"]["hansei"]["cagr"])
+    checks = {}
+    for name, r in (("default", rows[0]), ("chosen", chosen)):
+        checks[name] = {"tolerance": r["tolerance"], "floor": r["floor"],
+                        "holdout": evaluate(simulate(opens, closes, views, hs, he, tolerance=r["tolerance"],
+                                                     floor=r["floor"]), bootstrap=True),
+                        "holdout_grid": [{"act_threshold": round(th, 3), "min_hold_days": hold, **{
+                            k: v for k, v in evaluate(simulate(opens, closes, views, hs, he, th, hold,
+                                                               tolerance=r["tolerance"], floor=r["floor"])).items()
+                            if k in ("cagr_diff", "sharpe_diff")}}
+                            for th in (0.25, 1 / 3, 0.5) for hold in (5, 10, 20)]}
+    report = {"generated_utc": datetime.now(timezone.utc).isoformat(), "rule": (
+        f"best {tune_label} CAGR with drawdown at least {DRAWDOWN_MARGIN:.0%} smaller than holding's"),
+        "sweep": rows, "checks": checks}
+    EXPOSURE_RESULTS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    EXPOSURE_RESULTS_PATH.write_text(json.dumps(report, indent=2), encoding="utf-8")
+    print()
+    print(f"chosen on {tune_label}: tolerance {chosen['tolerance']}, floor {chosen['floor']}")
+    for name, c in checks.items():
+        h = c["holdout"]
+        print(f"{name:<8} {hold_label}: CAGR {h['hansei']['cagr']:.2%} vs hold {h['buy_and_hold']['cagr']:.2%}  "
+              f"DD {h['hansei']['max_drawdown']:.1%} vs {h['buy_and_hold']['max_drawdown']:.1%}  "
+              f"Sharpe {h['hansei']['sharpe']:.2f} vs {h['buy_and_hold']['sharpe']:.2f}  "
+              f"CAGR better in {sum(g['cagr_diff'] > 0 for g in c['holdout_grid'])}/9 settings")
+    print(f"saved {EXPOSURE_RESULTS_PATH.relative_to(ROOT_DIR)}")
 
 
 NEWS_HISTORY_START = "2011-01-01"
@@ -294,6 +347,8 @@ def main() -> None:
         return main_long()
     if "--news" in sys.argv[1:]:
         return main_news()
+    if "--exposure" in sys.argv[1:]:
+        return main_exposure()
     opens, closes = load_prices(date.today())
     views = precompute_views(closes, PERIODS[0][1])
 
