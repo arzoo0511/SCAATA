@@ -29,6 +29,12 @@ splits it the honest way: settings may only be chosen on 2007-2019 (*tune*);
 2020 onward (*holdout*) is looked at once, to check them. It also reports
 every three-year block, so one good stretch can't carry the result. Writes
 `results/hansei_backtest_long.json`.
+
+    python -m scaata.agent.backtest --news
+
+runs the agent with and without the archived news (`scaata.agent.news_history`)
+over the same days and scores the news view on its own. Writes
+`results/hansei_backtest_news.json`.
 """
 from __future__ import annotations
 
@@ -210,10 +216,84 @@ def main_long() -> None:
     print(f"saved {LONG_RESULTS_PATH.relative_to(ROOT_DIR)}")
 
 
+NEWS_HISTORY_START = "2011-01-01"
+NEWS_PERIODS = (("2012-2024H1", "2012-01-01", "2024-06-30"), ("2024H2- (true test)", "2024-07-01", None))
+NEWS_RESULTS_PATH = ROOT_DIR / "results" / "hansei_backtest_news.json"
+
+
+def with_news(views_by_day: dict, news_by_symbol: dict[str, pd.Series]) -> dict:
+    """The same technical views, with the news advisor's archived view filled in."""
+    out = {}
+    for t, by_symbol in views_by_day.items():
+        out[t] = {}
+        for s, v in by_symbol.items():
+            n = news_by_symbol[s].get(t, np.nan)
+            out[t][s] = {**v, "news": round(float(n), 3) if np.isfinite(n) else 0.0}
+    return out
+
+
+def main_news() -> None:
+    """Does the news advisor earn its vote? The same agent, with and without
+    archived news, over the same days. Before mid-2024 the scoring model may
+    remember how stories ended; after it, it cannot."""
+    from scaata.agent import news_history
+    from scaata.agent.signal_study import forward_excess, score
+
+    opens, closes = load_prices(date.today(), NEWS_HISTORY_START)
+    news = {s: news_history.news_views(s, closes.index) for s in INDIA_TICKERS}
+    covered = pd.concat(news, axis=1).dropna().index
+    if covered.empty:
+        sys.exit("no scored news yet: run `python -m scaata.agent.news_history run` first")
+    last = covered.max().date().isoformat()
+    views = precompute_views(closes, NEWS_PERIODS[0][1])
+    views_news = with_news(views, news)
+    periods, signal = {}, {}
+    rng = np.random.default_rng(0)
+    news_frame = pd.DataFrame(news)
+    for label, start, end in NEWS_PERIODS:
+        inside = covered[(covered >= pd.Timestamp(start)) & (end is None or covered <= pd.Timestamp(end))]
+        if len(inside) < 60:      # under ~3 months of scored news says nothing
+            continue
+        start, end = inside.min().date().isoformat(), inside.max().date().isoformat()
+        base, plus = (simulate(opens, closes, v, start, end) for v in (views, views_news))
+        a, b = evaluate(plus), evaluate(base)
+        periods[label] = {"with_news": a, "without_news": b,
+                          "cagr_diff": a["hansei"]["cagr"] - b["hansei"]["cagr"],
+                          "sharpe_diff": a["hansei"]["sharpe"] - b["hansei"]["sharpe"],
+                          "prob_news_better": paired_block_bootstrap_prob_better(plus["curve"], base["curve"]),
+                          "grid": [{"act_threshold": round(th, 3), "min_hold_days": hold,
+                                    "cagr_diff": evaluate(simulate(opens, closes, views_news, start, end, th, hold))
+                                    ["hansei"]["cagr"] - evaluate(simulate(opens, closes, views, start, end, th, hold))
+                                    ["hansei"]["cagr"]}
+                                   for th in (0.25, 1 / 3, 0.5) for hold in (5, 10, 20)]}
+        window = slice(pd.Timestamp(start), pd.Timestamp(end))
+        signal[label] = {f"{h}_sessions": score(news_frame.loc[window], forward_excess(closes, h).loc[window], rng)
+                         for h in (5, 20)}
+    report = {"generated_utc": datetime.now(timezone.utc).isoformat(), "news_covered_through": last,
+              "spans": {k: [v["with_news"]["start"], v["with_news"]["end"]] for k, v in periods.items()},
+              "periods": periods, "news_signal": signal}
+    NEWS_RESULTS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    NEWS_RESULTS_PATH.write_text(json.dumps(report, indent=2), encoding="utf-8")
+    for label, r in periods.items():
+        a, b = r["with_news"]["hansei"], r["without_news"]["hansei"]
+        better = sum(g["cagr_diff"] > 0 for g in r["grid"])
+        print(f"{label:<22} with news {a['cagr']:.2%}/{a['sharpe']:.2f}/{a['max_drawdown']:.1%}   "
+              f"without {b['cagr']:.2%}/{b['sharpe']:.2f}/{b['max_drawdown']:.1%}   "
+              f"P(news better) {r['prob_news_better']:.0%}   CAGR better in {better}/9 settings")
+        for h, c in signal[label].items():
+            if c.get("opinions"):
+                print(f"{'':<22} news view, {h.replace('_', ' ')}: spread {c['spread']:+.2%} "
+                      f"[{c['spread_ci95'][0]:+.2%}, {c['spread_ci95'][1]:+.2%}]  hit {c['hit_rate']:.0%}"
+                      f"  ({c['opinions']:,} opinions)")
+    print(f"news covered through {last}; saved {NEWS_RESULTS_PATH.relative_to(ROOT_DIR)}")
+
+
 def main() -> None:
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     if "--long" in sys.argv[1:]:
         return main_long()
+    if "--news" in sys.argv[1:]:
+        return main_news()
     opens, closes = load_prices(date.today())
     views = precompute_views(closes, PERIODS[0][1])
 
