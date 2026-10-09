@@ -9,7 +9,7 @@
     "ITC.NS"
   ],
   "sleeve": 2000.0,
-  "cash": 4558.707333894596,
+  "cash": 5943.596992499264,
   "positions": {
     "ICICIBANK.NS": {
       "qty": 1,
@@ -20,7 +20,7 @@
       "avg_price": 285.3500061035156
     },
     "IOC.NS": {
-      "qty": 14,
+      "qty": 3,
       "avg_price": 133.75
     },
     "ITC.NS": {
@@ -28,15 +28,7 @@
       "avg_price": 262.70001220703125
     }
   },
-  "pending": [
-    {
-      "symbol": "IOC.NS",
-      "action": "TARGET",
-      "target_value": 467.05,
-      "reason": "Trimming IOC: 89% -> 24% of its share; trend against (-0.94, trusted 25%); news against (-0.69, trusted 25%); material news overrode the waiting period",
-      "queued_on": "2026-10-08"
-    }
-  ],
+  "pending": [],
   "trades": [
     {
       "date": "2026-09-25",
@@ -87,6 +79,16 @@
       "cost": 1.48,
       "reason": "Adding to IOC: 46% -> 98% of its share; trend against (-0.88, trusted 25%); news supportive (+0.71, trusted 25%); material news overrode the waiting period",
       "cash_after": 4557.56
+    },
+    {
+      "date": "2026-10-09",
+      "symbol": "IOC.NS",
+      "action": "SELL",
+      "qty": 11,
+      "price": 126.05000305175781,
+      "cost": 2.23,
+      "reason": "Trimming IOC: 89% -> 24% of its share; trend against (-0.94, trusted 25%); news against (-0.69, trusted 25%); material news overrode the waiting period",
+      "cash_after": 5943.6
     }
   ],
   "equity_history": [
@@ -159,10 +161,17 @@
       "benchmark_equity": 9735.59,
       "cash": 4558.71,
       "holdings": 4
+    },
+    {
+      "date": "2026-10-09",
+      "equity": 9958.65,
+      "benchmark_equity": 9877.0,
+      "cash": 5943.6,
+      "holdings": 4
     }
   ],
   "benchmark": {
-    "cash": 81.0865521153987,
+    "cash": 81.09675609636646,
     "positions": {
       "HDFCBANK.NS": {
         "qty": 2,
@@ -188,7 +197,7 @@
     "started": true,
     "started_on": "2026-09-24"
   },
-  "cash_accrued_through": "2026-10-08",
-  "last_session": "2026-10-08",
-  "last_run_utc": "2026-10-08T11:33:51.028393+00:00"
+  "cash_accrued_through": "2026-10-09",
+  "last_session": "2026-10-09",
+  "last_run_utc": "2026-10-09T11:28:37.961842+00:00"
 }

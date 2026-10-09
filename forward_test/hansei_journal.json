@@ -2864,5 +2864,290 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-09",
+    "ran_utc": "2026-10-09T11:28:37.961842+00:00",
+    "equity": 9958.65,
+    "benchmark_equity": 9877.0,
+    "filled": [
+      {
+        "date": "2026-10-09",
+        "symbol": "IOC.NS",
+        "action": "SELL",
+        "qty": 11,
+        "price": 126.05000305175781,
+        "cost": 2.23,
+        "reason": "Trimming IOC: 89% -> 24% of its share; trend against (-0.94, trusted 25%); news against (-0.69, trusted 25%); material news overrode the waiting period",
+        "cash_after": 5943.6
+      }
+    ],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.469,
+        "target_exposure": 0.062,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.90, trusted 25%)",
+          "momentum against (-0.68, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.899,
+          "volatility": -0.262,
+          "momentum": -0.68,
+          "news": -0.034
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.164,
+        "target_exposure": 1.0,
+        "current_exposure": 0.68,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 68%: no strong reason to change",
+          "momentum supportive (+0.48, trusted 25%)",
+          "trend supportive (+0.10, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.095,
+          "volatility": -0.0,
+          "momentum": 0.477,
+          "news": 0.085
+        },
+        "value": 1355.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.308,
+        "target_exposure": 1.0,
+        "current_exposure": 0.878,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 88%: no strong reason to change",
+          "trend supportive (+0.47, trusted 25%)",
+          "momentum supportive (+0.43, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.475,
+          "volatility": -0.0,
+          "momentum": 0.431,
+          "news": 0.325
+        },
+        "value": 1749.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.437,
+        "target_exposure": 0.126,
+        "current_exposure": 0.19,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 19%: no strong reason to change",
+          "trend against (-0.94, trusted 25%)",
+          "news against (-0.47, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.935,
+          "volatility": -0.0,
+          "momentum": -0.348,
+          "news": -0.465
+        },
+        "value": 379.05
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.639,
+        "target_exposure": 0.0,
+        "current_exposure": 0.267,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 27%: no strong reason to change",
+          "volatility against (-0.86, trusted 25%)",
+          "trend against (-0.84, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.843,
+          "volatility": -0.857,
+          "momentum": -0.605,
+          "news": -0.25
+        },
+        "value": 532.0
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.034,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": -0.034
+        },
+        "top": [
+          {
+            "title": "HDFC Bank's Merger Is Done. Can Anup Bagchi Unlock Its Full Potential?",
+            "source": "Outlook Business",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-08T12:24:23+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against HDFC Bank Limited - HDB",
+            "source": "StreetInsider",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-09T01:53:04+00:00",
+            "count": 4
+          },
+          {
+            "title": "HDB Investors Have Opportunity to Lead HDFC Bank Limited Securities Fraud Lawsuit with SBS Law",
+            "source": "GlobeNewswire",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-08T13:23:23+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Appoints Anup Bagchi as Managing Director & CEO; to Take Charge on October 27",
+            "source": "https://hrtoday.in/",
+            "sentiment": 0.077,
+            "material": 0.5,
+            "published_utc": "2026-10-09T09:31:43+00:00",
+            "count": 16
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.085,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": 0.085
+        },
+        "top": [
+          {
+            "title": "Tribunal limits Chanda Kochhar's access to ICICI Bank's internal data",
+            "source": "NewsBytes",
+            "sentiment": -0.469,
+            "material": 0.85,
+            "published_utc": "2026-10-09T10:53:51+00:00",
+            "count": 3
+          },
+          {
+            "title": "Q1 2027 ICICI Bank Ltd Earnings Call Transcript",
+            "source": "GuruFocus",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-10-08T07:42:11+00:00",
+            "count": 1
+          },
+          {
+            "title": "Nomura prefers HDFC Bank, Kotak Mahindra Bank, ICICI Bank; expects 17% core PPOP growth in Q2",
+            "source": "Moneycontrol.com",
+            "sentiment": 0.5,
+            "material": 0.6,
+            "published_utc": "2026-10-09T06:55:14+00:00",
+            "count": 1
+          },
+          {
+            "title": "Jefferies names ICICI Bank stock a top pick after RBI rate hike",
+            "source": "AD HOC NEWS",
+            "sentiment": 0.362,
+            "material": 0.5,
+            "published_utc": "2026-10-09T03:48:41+00:00",
+            "count": 4
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.712,
+          "strength": 0.457,
+          "material_count": 2,
+          "view": 0.325
+        },
+        "top": [
+          {
+            "title": "GAIL Director Sanjay Kumar to be next MD of Petronet LNG",
+            "source": "whispersinthecorridors.net",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-08T06:04:57+00:00",
+            "count": 2
+          },
+          {
+            "title": "Petronet LNG (NSE: PETRONET): Oman Tops India's LNG Supplier Ranks",
+            "source": "Kalkine India",
+            "sentiment": -0.3,
+            "material": 0.5,
+            "published_utc": "2026-10-07T12:25:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": -0.465,
+          "strength": 1.0,
+          "material_count": 12,
+          "view": -0.465
+        },
+        "top": [
+          {
+            "title": "'Stabbed 7 times with dagger': How bid to seal petrol pump turned deadly for IndianOil official",
+            "source": "The Times of India",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-08T01:30:00+00:00",
+            "count": 21
+          },
+          {
+            "title": "Jindal Stainless, Indian Oil Renew Five-Year Lubricants Partnership",
+            "source": "Construction World",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-09T07:34:08+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian oil manager killed while sealing pump; Employees seek safety measures",
+            "source": "The Economic Times",
+            "sentiment": -1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-07T11:13:48+00:00",
+            "count": 1
+          },
+          {
+            "title": "Sent to seal petrol pump, owner's family stabs Indian Oil employee to death",
+            "source": "India Today",
+            "sentiment": -1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-07T09:22:53+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": -0.474,
+          "strength": 0.528,
+          "material_count": 0,
+          "view": -0.25
+        },
+        "top": []
+      }
+    }
   }
 ]

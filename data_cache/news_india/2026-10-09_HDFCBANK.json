@@ -1,0 +1,414 @@
+{
+  "symbol": "HDFCBANK.NS",
+  "date": "2026-10-09",
+  "headlines": [
+    {
+      "title": "Anup Bagchi set to become India's highest paid bank CEO with a Rs 35.9-crore package",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-09T09:31:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUFZqM1VQZTBXNkZUUTdIV2pFRTdWZXFrcV93R3ZRa2ZyODdoejdqWlA3UFlTRFJVNTRGSFJmbWUtbEdGVFgtYWRXY2JwdVJUeG9TVjFhSGQwWEx1MWE3dFVQR3lONmxGMFp1UUc2dEgxN1ZuejJXbFVPUU14U29GSG5zLWZ4RkRlOVQyUlk2aVhzZGRHTjBQeGNVSXE3a3A1YnZpbTluWW9TaEVMQ19Ibmh4TFlWWC1ZMkdYUnNUWi00dVJ1QUNGRTIxUGZTOTJ5S2V3NUFNMm9wbjdwT1N4dNIB5gFBVV95cUxNOVJRQnJ2OEEtSWt4a1VoY2s0dHBzNnZkcGYxd1B2dkJ4X0s1dlpEaGktNDBzOXpVMHZGSXhaVGEtM2plMGFjcWVRVldkcm9FNFMxOUxPQkFMaGxSNDNnTWJoRlVyN2toa2x6aG81M0kycEFOSkotTXFXWk85V0piUjJzV19CU2lHSnlyYkM3XzhxbC02d3NwR000ak1lVFk1VXpQZmJEZjVpYnc1anNWMHVRX1pPWTZYTEtYQlpWOFBWcXFLQ2FGTzVucWpYS2RCWkJ0M0Z5d1owNDRKc2F2T25ZckxCZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bagchi set to be highest-paid banker; to earn Rs 43 crore in first year after joining HDFC Bank",
+      "source": "Mid-Day",
+      "published_utc": "2026-10-09T08:55:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVGVyS1Vqd0tWWEdQTG5yWXA5Z1pYalhRcFlEM3NmelVuUHY2bjBFSGp0WmlhZy0yVHAzSnBHeW9ZVzd6U0FCTEFFaTRGdV9Fa0ZjTjZPcjZjM1BocDFKS2Z1Mm45OHhvWGZFN2Nablo2VmdiTUdMTF9zSld3VzJGdUlTZ0Utb3FZV05NX3RUZ1FYWkJaLUZxQ3RyVS1LUV9NSUpWbFRaclVMRk9DTHpCRUZiS3RyblNwOUhHMTk1Z1ZtUkNFOTVfdkxsWWFyZXdyd1FReHVwS1Ixd1pmS2U1WU4zOEhpRml5T2dWODBsa9IB9AFBVV95cUxQQTRqNTlVbU9uM1RnaTRtWlM4MnJtZVduSm1HVUFQdlg1VEZJcjgyTU9HMnNVSHBwRFY0UmpFZHV2M3pWaEZkU1RSTkZ0Vmw4ekMyTlJHMGpNdGdMaWJPcVdIWTZYUUVNN3JBUFA3M2pFQ21xR3lsM2lWdFFpSXpmWUQxdlpzSUVvcnE4NWVVejRfYmhYYjQxVDBEZUE4cWFwTDlNbDVla3ptczM1MGh1ay1KdWZoSnFBSWoyX1R2d0lMMnlkSmI5Qnl0ZDNoUk5LLXhpdG54a2tEU0xyUHNpNVNEWmJCNFNsampjbUpTQ2R6Vjd1?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Festive credit card offers: A look at discounts and what to check before spending",
+      "source": "CNBC TV18",
+      "published_utc": "2026-10-09T08:44:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZXprSFFYVWd3TXhIOUlLTExRMWFtQXgzQ21vZWk4LXdIUTVURy1CQW9FRHNUY1E4R3Bvd0FSRTNPSXdsdG1Hc0tGdS1JR0pjMFM4d1dwS1NTaGZtbThiV2NLbVBpRFc0VnBEd2tlSm9xMFBUSFQ2NmJCVXlSZHNCdmt1NnEzc1ZLRmh4VUJPMDc1RFREbXdOUFFYMnBEY1R3c1JPZi1adUF0ODhpWUJsNDFwWV9vc3lDUVZwUjZCRG1JQWo5c3VlX1RIYnl2dlc50gHQAUFVX3lxTE5lemtIUVhVZ3dNeEg5SUtMTFExYW1BeDNDbW9laTgtd0hRNVRHLUJBb0VEc1RjUThHcG93QVJFM09Jd2x0bUdzS0Z1LUlHSmMwUzh3V3BLU1NoZm1tOGJXY0ttUGlEVzRWcER3a2VKb3EwUFRIVDY2YkJVeVJkc0J2a3U2cTNzVktGaHhVQk8wNzVEVERtd05QUVgycERjVHdzUk9mLVp1QXQ4OGlZQmw0MXBZX29zeUNRVnBSNkJEbUlBajlzdWVfVEhieXZ2Vzk?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares bounce back after rate hike blow; YTD loss tops 29%",
+      "source": "TradingView",
+      "published_utc": "2026-10-09T08:36:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGlob0JYNG1GclBNUjdoVUtsSFo4TTJaVlF0cEx2UUs5SlViaE5CUlZKUkpzbXdvS0hOcWMza19DM3V1X2F5ZUgtSWNxdEtXdG9FazZmOE04YnVuWndiYnBWSTF5dktwWnVEYUg0cUNMNkpRT1hsN2l4Smhtd0M4Z3o3QkhPRGtrZkMxUkd6T1lSUkgyNTdYSG11dzVETFRZXzRpWlF2LVBla1pEN1RabTB0a3R5blN5OEJ1OFJfRUk?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Share Price News: fundamentals and sector view",
+      "source": "Univest",
+      "published_utc": "2026-10-09T08:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xalpDOVVyZTlJMDZzV2lpZlNVNW9JMnAwdl84Z1JHWVRUSVUxU2Y2cGVUM2h6eDlDSUZiVW1EeldLQ20xVl9IVlU4RGdqd1hlT1NKc0ZodExsN1ZWUjFITHlZYmlMN3NlVk1qWDhKNTc3anFkSlRuRENR?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank's Anup Bagchi to be India's Top-Paid Bank CEO with \u20b935.9 Crore Package",
+      "source": "Rediff",
+      "published_utc": "2026-10-09T08:07:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU3pqV1R0VHZrN19SWlBybVhpa3JiSHFDYjAyR0JKc0NuNzdOX1VwTmNXRzlQNnlac3laQ3dPdWpQc0hQNl9QUjdfUXBhODg2LUVPQkJ0Zzh6WGk4eFgxTlJlNnVkdG9XVThIUE5CNHRSOU50TnluUXVTdXV4dzBveDVhaXZfb2xpaHZ6dWgySHY0MFFtWHFaWnRZaENwSFpsblFsdXpuZ3RsM015SkNSZVBaekVYYVJjVjFpM1BUTDZFNE1MTlBacUJPTHZMTl9YNURHUjBHQkXSAdgBQVVfeXFMTlN6aldUdFR2azdfUlpQcm1YaWtyYkhxQ2IwMkdCSnNDbjc3Tl9VcE5jV0c5UDZ5WnN5WkN3T3VqUHNIUDZfUFI3X1FwYTg4Ni1FT0JCdGc4elhpOHhYMU5SZTZ1ZHRvV1U4SFBOQjR0UjlOdE55blF1U3V1eHcwb3g1YWl2X29saWh2enVoMkh2NDBRbVhxWlp0WWhDcEhabG5RbHV6bmd0bDNNeUpDUmVQWnpFWGFSY1YxaTNQVEw2RTRNTE5QWnFCT0x2TE5fWDVER1IwR0JF?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Nifty rises over 1% to trade above 55k; Kotak, HDFC, Federal Bank lead gains: What lies ahead?",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-09T08:07:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSXNkZkVMd3AyUmNsV1F4TlNhUHIyd3BaNUdGeEl5b0NfVm5HT0Z1Wjl1ZHdsaGlvbVpVdzRZSFZCWDZkWkpVdlJQbEtENUgxa3AwakZQWkFtTWNva3NZUnVCZkFpeWx6WEpJbHFNcEt1eWNLMjNYcWQyLXNSaWh1alBDX09SWWpKOVQ0dDRZTmFpaS1JYXBRVjVXNzg3UDh6NnhfTUpPWmMtZzUxZEFhVE15RUtfUXo2dkpqQ3kzOXlkbGEyZnNLQnhESDQyRTFPMkFpQ01RSnVkWWR3ZEM5MUVzUnFlMDUydkYwTUdJd9IB9AFBVV95cUxOemFVaENvMmdLa1JJeXd2Y2hOVG5TaWsxSWNuVkRrUGVmZ0dBcFktV2hDOHBydXhTTHV5Xzd1b0tVX0ttMUlVSVVDTkw3VUNCRzh5V2o0Q2Q5REFEOGVpUnI5c3VFVGhNTHZOZUxIYUJ5b28yb2JPeC1SdTVFaEJUbU1tbll5OVhRNnpRUnhmelBUVjU5Xzdyakhhd3otM0dfV05OcVBUTlV0NWYtelA3TWlFUWMxQmt4UXFaSTJOZDFDRG96Q3FNeHM3ZUZyTXp5WFFVVHBuU3NTR1c2c0xEdURMeXNLZmNxa293UWt5c0dXMzVv?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Nomura prefers HDFC Bank, Kotak Mahindra Bank, ICICI Bank; expects 17% core PPOP growth in Q2",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-09T06:55:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUy10akhtSlJCbzhuSFR1ejZQbjEzTnAzODBlc0JGX3l4cjE3OUZPZE42UGx0QUE2eG4yVlRZSURyNjNMZnNSR2ljMlVpMldyNVo2amlNQk44STg1Y0VUTnk5S2Jwa0VfTFFrMms0WnpPT0NfejdVZHM4UVRzVXIzQWo3VEc1MnotODVaTTRhMmNYMEI0eEgtelRHX0RvRWdiaGVWN05MWjJlVWhHNnA3YV9yT1pnSXZ2U3RXYUhmY25peWFRZXVvV3NjMEk0QU9lYmdDOEtpQWRfNEMxX1lOc05KTV9Wanlu0gHuAUFVX3lxTE9sdU9NTy0wQkktU0MtTUJnSFlRRkxPSmJUSDlrWkhHeEJuLUdXb2JRdVZLRUVCOWQ3M3Y0bnB3aXJXVmNoX3FKUmhWSDRqN3ZvemxocXJRa3J2RDF6cU1UaHdjS2RJUjZwT2gxUm03RkVtQjRvcVF4cTRERWs3NlR6cFFLU2c3RGRpOEJPQkhPQUFNb2gxTm9qYVNvNlRMUHFkd0lrTHZ5bjY3U3ZBbHVpU2Z2YUNMWEluSXhUZFNGaTdoV29abWQ3OWRzMHlCQWlIVmlTSnhMUDFsR1VVRXhUM0ZuLTIwTVkzWS01VWc?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Apple Pay Launches in India With Axis Bank: What It Means for UPI, Banks and Apple",
+      "source": "BBN Times",
+      "published_utc": "2026-10-09T06:48:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUzBKS0dYUFNkNUYtdlVIQm1ZQnRPVHI3aWE0LVFNWlFNZVdGTFRKVXRvdE9IM1F1cDE2MXZrVnZDenJxcThfNXM4cnRjVXdZdWdMbWUyZzBCWm9RYkNSU29Yaml2NlpiNTRqVnBGUUN4dmZtZ1RpOGY4ZGY3LW9vOU5lTUVuMDRtczhra1lPcWJPWW9VVk5UU0ZWM2R1ZnR6d3JvVWtVMmJXbXNHb0hVcmlseDJMV0k?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, SBI, Federal, Canara Bank up 2%; what's driving banking stocks?",
+      "source": "Business Standard",
+      "published_utc": "2026-10-09T06:39:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTmVyZ05Ed1c0UHV0bWZDcmtoSVV3STZhVERpaFQ2S2ZTR1VHeUthaVVBNElIRzVlWkMzdjR5ZEE3UFcxOGRDWlFyV0VnUVFMUEVHZ3BmSGVxWUNlbGJzQm5RY2lxUFpvLVRIdnZySWNSV19FQ1doZU1Yc2VFb2RLSDhDVVF1N0ZKdFlSZ1ZVdnVlQnJLN015WEpDTWstS05HUFB3d2duSkJtdGlUTTEtZmV3OU41RTZwUGdkNnVvMExoUHE1a1NPVFdzVWxXdzJN0gHWAUFVX3lxTE5TVTMyRnpDNTE0a1NhX0Zkb3UtdHdTSEp6STltdUpOOFl4UHgwSWVXNjhsdnlrNmkxdXRzaUtWT29jNVRfcTVfOUp0OU5BYkRWUThfd3Bta3I1U2VHUEZpNDFnYTNzYnZEbmt3ekZ6ZVRGNVhmN2pKbWZ6Mjg0RDVPa29pbllIQVZmNkNBR1JjbFlUM2d2R1pVR1E1bm1ZRzFZdUk1SHc5RjhxdUVBR0tsb09ZNXoyd0lBTmViREhaV1pKV25sTHFQS2NrR3VMaEZSU0RQZEE?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank stock pre-market: EUR 19.75, plus 0.77 percent",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-09T05:51:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2Z2TU1HQ0pUQktfMld1M3NmLVZhSW5sQWhBOWtkVDF1MWNSdU56U3FaTmNvMWFId3VxeFJPanlwV2hpd3lLaXRqdEI4aFFVN0IwYllsVWZTUHdtSnR5ZWdvemxFZ0FlQ0YzckR2dE5Qb011NkZTNThyemhXN01sNFFvZ3NYck0xZ3hrOWE3T2Y5YkhqNWhsSXdfTm1MOEJxY0wtakJlOE95MU94R0NMTFJR?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank's Anup Bagchi set for \u20b936-crore annual pay, \u20b97.35-cr joining bonus; Here's his salary breakdown",
+      "source": "Upstox",
+      "published_utc": "2026-10-09T05:29:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNktQeVFHYmh5c1d1R0JENy1vOUhrMEFBcVZDQUhJS2dhM1dNcUFMWTByZ21uRTBjZHFKV0F6cUFkMjRUZ1BFb0xBVlZ6dVN5ejdxQjNNUWpYYTVkR3hkaHctelNLUGtQTEZxYkxsTmh1QnAxOHFNaDk5OTUyckJMdnZWUUZ4NUFtd0hxdnp3ZkNaRjJCZ3VMT2dTRy1Fbk56elh4S2VnVV9FVkNSUjZZYTNkRFdNQ3ZUSTQ4QVdzSzlsa2ttWnh6NGppbGNQRUpIMWVYZ3dPZnR6N09Za0JVV0xIM1lyWTIxUDNHbmFyQ0sxMktfOEFtZjFsUklkcHM?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank May See Nine Senior Executives Reach Retirement Age By 2030",
+      "source": "BW Businessworld",
+      "published_utc": "2026-10-09T02:51:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXBKeWNUNXlDQ1d5MkViVHFJemFKc1NMUWppZGZOaF9yY1czQkJTRzMtdW9LSWo1TmtzTEZSRUpJdjkyOTNGamZ1Z09tRGxIZ1oyVHlCUXVQbVRreVZCZXVSOEFkUDc5R1pUakdVWG1ycElEeXpJai1XQTU5cS1JX2FIOWxRNVI3VGZ4VGZJMkNCWjZYOWs3ZnRhd1V1MEx4ZzJnVk0tUWNOUnNyOWczTjdHOA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Aaswa Trading Nine Monthly Results, Nine Monthly Earnings for Aaswa Trading",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-09T02:16:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2VldnZWMkZHR21JYV80SFFqYU45eHdiVmFBTF9aN01RRkVGQlZwWlhDeFBrX0VOZlN2cWhBQnE4eVNiTWZZNmtGdDRoMzYwdUoyRG4zZG1CVzJWbVh1VFhMQTdZUS1oY1Y3bFctX29xX2RWbEtPNEZaUVZJWUNSOE0tQktuN09PRlJQQmhn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against HDFC Bank Limited - HDB",
+      "source": "StreetInsider",
+      "published_utc": "2026-10-09T01:53:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQYkdDNVUyMllyQmhYNXd0NDJaY3JwOEw5Q2VPVkZjd3p3UXZxSXltc2hxQTlxU3hjNUIyMDRaSFFhNk9MZllVWlJrZkMzcHo2OUZZTnQtbElreGt0QnFPLUowdi10ejBFMGFYZUxJd1lPaDkxRF9pOFRwMzFaUjlmWC1Kc1RtM2w4aUtHMWlwb0oyb2pxVjBpQmNodll0RFN6enVQR2dNd2dDUDhFNHVDLTJ1Z0JDMzEyd25qb2QxVEJYYlQzQWROYnVBRnRtMTZydkUxMDdTV2FFRW4xaXhwd3VyR3ZOS293VjNvR3ZUb2IzSlZsNXRVWG90dHMzUjlNQVNKZk9sYnl1VlBEZWJxYXpOb3hjcFpPNm9LMm5ScllzWXNKbVlsc25lUk13Q2JUejVqZE1vVk5INzE0bFhGc2dFLTlySmVTTjB5cjRPeVpmUXVIU21kemFrZWM?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "As HDFC Bank CEO, Anup Bagchi set for 36 crore target pay",
+      "source": "The Times of India",
+      "published_utc": "2026-10-09T01:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmZpbUdtNEdiWnYzbkxZanU1Z3NiYzl0QjNiY0hla21HZjJ0TERzdWtPQzc5c3QyR3h5SE83RXNjbVhSdEQ4R2ZDay1IdWlfY0RPbm9DQXNkdmFBTnlpRjNzSmNqUllEemJEbEVqWUxiUXlPV1hoNlR2bkdSeVU0bW1DRHU3aVJTbmhZMmhpN0JyV1RKUVVRQ2lLdHBCaXAxaGYyaXFYY1RLSFdFaWkwY1RkNUt0eTRpQ0xKYXEySXc0dGtOVFBVdlk3X3oxdG51ckM40gHYAUFVX3lxTE9xM0xrZDhKNmZpR1NaUU10RTN2RF9oNm1IY0czWm9ldF9pNnFYUXItN2VaV1VqOGhORG9FNXlscnRJb1M5UlFMazlVV2xxUHZiTDBvbzIwR2lLaTQ4Z2ZrRjdJRGs2cFVqc2J1TXVvaU9OWHI4YWVSdGdMLWZsSWZJUDlOQWdCWGtJdmh4Q0ppeVY4VTZSY25UaUl4eUFTVVZCWnpDMnFpdUhRemVNSjhObHJscVBMTlFldEpHaUhBSnlYaUFIQ2xOb05yczRxWFpyR3dTdVVhdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi to earn \u20b943 crore in first year as HDFC Bank CEO",
+      "source": "BusinessLine",
+      "published_utc": "2026-10-09T01:27:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQakUtX0ZhOF9lOThnZmZYUXlZbzZ3dkt2RjYtYkJFUjFGbHpOaWczWkFIUEZWUlRWSFBoMjFvY0Y1MTFzU1lKRFZCcndCVGt0WnpoU24tS1dQT0IwZGxpb19IeFpXdVV3ZG5SQUg1Nkh3ZC1tUHVIMGtLZE5mcGFxQUNyNUQ2RVZqTzZjTU9jdlBjNmszRkYxYnRZcVlnc1FyMVh4Z21ORTJ5cTA0RTV0ZmtvWDBTWVZwVVhwSXZKWVFHTUZyemV0bjNGLVR5TnEzeEhEdNIB2wFBVV95cUxQcWZWdXhpZGxJaXZNMXN5bGxsV2dkSlZzcm8wa2cyUVhmRUlBcXdHQmNrLXk1Wk1xamhBT2tlRWR1emdGdEZHZmdwZ3hWUF9YOUZFQ0xFQnU3eXpIS050dVRVcnNpNEhNNlpaRkNsU1hHbUwzU3FTLXhIMnZFRjJLZklJQU9QbmJzVEx6OEVBZDRueW9wVk91VHRVRGEyTGF3NzVfTEZGOFNpTWhmR3NiUEk0YU93Uk5uNnhmY3JhYVlpS0VSenJ2QTdWVG5FcmJ1UTZUZUcyTEpWOXM?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Appoints Anup Bagchi as Managing Director & CEO; to Take Charge on October 27",
+      "source": "https://hrtoday.in/",
+      "published_utc": "2026-10-09T00:42:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONUxJZGRZQndZSkNteXNHQ2ptalJyQ054Q2pDUTJHWGFITWFLaE1fUWs2M2tlZUprTWFFbktVN3Zacmc3UnpLb251elBQd3FRWVJWRUVkWi01cUxaQnlJX2VqNHVzUXBDRHB0MmxRUWRha3lZUUppRk5Lb0I5aDIzZTZ2ZjJTVDBaeTg1QTMtODdycGdiXzNiYTZqYVVZUS0yYVE?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi set to become India's highest-paid bank CEO, may earn Rs 35.9 crore a year",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-09T00:27:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONWpRa29VZWVFZy05WGRmRkUxTTQ2LWM0anBKRF9jRjRiaWthZE0wRlNtTU9fWHdkTHE0Slo2eTlMUTM3c0dPc3JGMXJQeFZKcjZYRXVPQnN3azlNSC1ReFI2Y24zUVVpckJRM3pqWDFzeC1mZVpxZ3I4dllVZXF3MXVVR2w3UzlON0tvYkFDVjVwb19RbjFpcThfNUdINXZKZGlxd2xkckdJaXpHSm5VUXdaZm9MRlBUZnVtQ0dtVV9kXzk3dnV0MldjMlQyNlVnNGZqQnB2dTZNOFZLMHdPal9WbUNuU2JwZ3AxSTd3Z9IB9AFBVV95cUxPUjhVdmFtV0w5d3J6aWNjR1RkakwtNDFZVzVleG82QUt2c3VVNlJUVDVza1dQS1NFZ2pRUUdOQTFDVlRRZVpvc25QTHNyRl93T2t1TU12d0FNU0duN0xnRWVXMTNyd21qUHZvZy1LRkNONzZPeUxNRFIxVWc4MERKMmFDdlMwSU1OYVd5Wmp0Vkp1X1FaYVk1aF83Z3plYXZTMXFwX2VGZ0N1YzI3UGJQaWdyV29WMEFhajRLcWlBUXhha3U5Y1V0SV9ULWN1aUU5VmNGUFJHeURzNkF2SnlDUGJSa0RGaXB1MTFKYkpMb3pseFBh?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "At \u20b935.9 cr, Anup Bagchi will be India's top-paid bank CEO | Business Standard - newspaper",
+      "source": "Magzter",
+      "published_utc": "2026-10-08T22:19:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTVmVkRMLUdvZlFBOFY2VGVnMzJYRlR3djh3WHlDUTRiN01rWkNsQnBmNHRTLVVlU2VEMWdyN3E3a0FkWWZLTUJLc2ozM2hTVDJGaWNQSlJvZjMzRlVobWRZU2J3bjRFYkZ4bWgxNTM1VWZ4amxyZklxMkxmdEJWakloZ1piQ05IN3hqSUNrRzhtdUZtSS02RklpMUhyRTFGNlN0dGhHbmYtWjR5TkNWdjhpaw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "BKV Industries Nine Monthly Results, Nine Monthly Earnings for BKV Industries",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-08T22:11:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS0cyRlI4bldKTUFjNkt1NkF2UU5Jb2t2NktScXpvOXV1SUdMYXB4TVZOdFd0dmVlOU9vUmxGM1VqTTFhV3VEUnNjOW9DMUhXdl9tZklJRGRFVE9PY3FjVFBUMWZzelpLSmZkRS1TZlgtYlItN3BRNzN4WEVwOWtjTF9KWXp1VHVUYzJUVDIxZ0JLZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bagchi set to earn Rs 43 cr on joining HDFC Bank, to be highest-paid banker",
+      "source": "MillenniumPost",
+      "published_utc": "2026-10-08T19:05:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXNGSHJ0WGVjTVpTajBNS0g4TmFHUnJ2UXpSZUhMYUNGTFJGTHFBanpjN1JXdmQ3bHhDanQta3BqcVdPNG5wdXE4NXJDWGVFU05mQ1hGYkQ0VkQzcUphU0FaX3h3S1l5WFVNYWUyMGRGN2VJTTNoYXF5T1BreXUzZHJGTTdTSktuYjlMc3ozSHZLM1kxcEtxdTJVTy1TdGVJSzlnUDBYd1BqeVlhdzYwMzJEUW9Ua3VPa3pfa9IBwgFBVV95cUxQcTloaUlOOEp0dHNNSEktZTdQTE13b1Rib2FvTnRqN3NUOWZtVGs5MlZuUUczaFhpdWdyV0hzUEo3LW5zUlQ4OGxsLVV3NHFtYTV4UkZuTU1ObXBEWXhPNW1XUG5FQmVadXQtLUduM3dhRE1kV2RwMFhndnpkbEJpYm5WRnR5a0tZRm15ZUk5blhhY285V2lxZHFVOXNBaDVXY0hGemtuUUh5ZkpNQVFqSGFERHBWZmVKRl8tYkxQUnpHQQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank\u2019s Anup Bagchi set to become highest-paid CEO among private peers",
+      "source": "MSN",
+      "published_utc": "2026-10-08T18:33:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYmZrQ0RTMFhIMjFtSTZ6RGFueGlZSlpDR1V6akdNaGlXS2h6NDAtcGZRSHA4eGQ5M29MU19YNnBOcjA1eG9kNko5WUFxc29ZX0tnNkZqTGVsQzJIMEhoa0ZTU3FxQWlTNF9hWUFKa3lIS2JzVjY2WEl6cGE0N2lkeUppc2tDVmE2cnVuUF9vMnRRUFBIVnBzMVZTQlRUa3BPZkVxWWM2Ty1GTHhmMkpWRkZNV3lna3QwellMcDNxNHhOWEZSTE9hYk1uRU5pSHAtSlVTandyZ2tkOV94eENYVkRNMXE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank stock after-hours: EUR 19.75, unchanged versus EUR 19.80",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-08T18:15:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1lqYjEyaFFibW5NdkYyWlNMemNrLVBtU1A2Z1hpTFZpS01tX3RFZ3RfZWJBSnhjdzdQakgtUjVHSEFNQThCX1l6QXdFNk9qNG5zdkhReVI2MXVqRmh2U0cxQUY2YVo3WDJ0ek5HMlhyRFh1SUxtVGRaOHNtREdOdHBpUTVOQzhLaDFpa1NBT05Oa3dyVzBhUV9ZbU9MUnQwMXh0RjBzeGttckdQbTRha1gzNnJTSE9BY3gwUWhjSnQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank (NYSE:HDB) Sets New 52-Week Low - Time to Sell?",
+      "source": "MarketBeat",
+      "published_utc": "2026-10-08T16:48:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGVtWUlXVjVfdjAwTzBVeEdDNnQxR2NNYnZPV19qNFMwcDZOX0NfVkZkV0ZmVTlCdHZRbDV2bVdMdUVDVDUxZjFJSU1YdlFWWmpLVEVUanEzYVRwWkNmNGVJTEFfWS04N3NQWmlkUEZlODc5amd4dndvR09hN01abWhCX2JvbzRJaklpOER1SDBDZTJLbkljeDRPTjBoVGhrZHlhYVhxMGpBdUdQRTZ3Mlhn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Buy, Sell Or Hold: Reliance Industries, Tata Motors PV, Swiggy, HDFC Bank, Cochin Shipyard And Kalyan Jewellers \u2014 Ask Profit",
+      "source": "NDTV Profit",
+      "published_utc": "2026-10-08T16:02:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMGZRYllJaUlyZHhIZ3p2OWwxTTRCbXBDbDQ5dDV2M3lWRkdVUTFyZ0lNYWlqTzNyRGVaOGxXZDZLeVJwY3d5M2JBYkZncjJnVV90YVQ5ZDJXSjV4MVFKZWhxTmNZeEJSRTRLWkIwQ1J0YkFVbHdnb3VPRUZCaE5WSFRwZ3NkeE1ockhFY0h0c3duYjZjSnZkOWNYdGRlTGlSbVVEZUNZQjZXdkVlcUZDaUlhRXF1X1RnblpkZXVkYWNVQXFHWHpvcW9ZejRnNVloRXpwbE1ZZ1VqZnJ3aTBaTXI1Y2NOT2JERm9xY1EtRGEtZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "With Rs 43-Crore Pay Package, HDFC Bank's Anup Bagchi Set To Become India's Highest-Paid Bank CEO",
+      "source": "NDTV Profit",
+      "published_utc": "2026-10-08T15:38:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMEdXOTVYUEhCdFltNEpSSjRDdXVabV9CaXBsaGJhRlVvUWlRMG85eTJ4bnp4ZF9zNU1nMWIxYkVkNTQwX2NQNTJQWnR2RXJlUjB4YkVVb3hOMXJjRmE3V1VzY1prTWlHUUNwbVl6NDk0VzU5ajhYNE1WdG1vVFVvT29TaWtoU3ZFQ3EwWTg4TkE5ejVIME1aRXBGV1I4dXFMMTVNYWYtUzdnZ1dCY1QzNkJNTDk1eE1rSHRaMmFJcjdOdmNJbENpdFNwTGRRMUNyWlhEZ2FR0gHeAUFVX3lxTE5NVUk1bjZOUnlheHlpbWNMcnNwYkQzMzVQa3Yza2RZU3ROY2ZmLW1aa1puV3dZNWpnV2pNZU5ySF9ZNUE1VHRDbXZwSzRmLTMyUDc3R0tsVVBBbXRsU1pOQWNtVnZmYzUzUVppQkhRbG5VZk1MQmN1QkRzd05lb0I1Y2g2N1VJbTEtQl9aZUNGYXVXT3NxZmZwZElQYzBERV9LSElBSlk0WUhhWlZjUmZkNURlcDNvTVBBVEdHUGdfSldxdG9Hdlo0aXMtUG90aDk5YTBpaHpVVUF1MDZjdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Limited (HDB) Alert: Securities Class Action Pending, Investors with Losses Encouraged to Contact Hagens Berman Before October 13, 2026 Lead Plaintiff Deadline",
+      "source": "PR Newswire",
+      "published_utc": "2026-10-08T15:27:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNU1JaY1FTSzctZGNWamYtejZOZ2Z5WE9JUjhmelJtc1JJOTNDYmFpTzhLQWtLai04SnRMZDhXeVZDVUhNRklmbVk4REhzSnZBbUpWaG5MTW9Fcm9GOVJUVHdmaWVSdmdmZWJhZktSZHlXbWJVQk1WZXUxNUdFbjgwWTFYNWtJWkVYZGE1TmV2a0NHU2txZ042eW9nQlF6dFk5eHNxNmc2MzQxMlVSNTExU1IyQ1J2UDVuUklVYWU0alRFd21uMGJMQ1lTNzU5MkM5UlN2TE1STURpMFF5cG1HZzk3VUhCWWVzOUFQYVQtek5iZG56LVRjbTVkRkVGcTF2bGxtbzJEWWhGRGdPZTdVT3FuTjJuTU9HRkRFV2hJTFNWTFRrcm1uamk2Nk1rZ2VMY29DOVVrZDhJMlFxQVZqRVBR?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Kanco Tea Nine Monthly Results, Nine Monthly Earnings for Kanco Tea",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-08T14:46:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlpKUVdZRk0tbzAtQW91MlRWbFJiZnNmYlRHVUtVZTQ2cHJnT3hXczV2Qmt0SXJKZDVZWVQ2Q25rSW1nYTVTanNfa1YwN1RPcHBsY2lfMTV4ZGFlSzVEMy1odE9DV2pWX2hOV0lKOVBIQ1piWnpuNU0xT1FxZDNJQkU5Y2Npd3dIWERvWFNLLV9XbV93WC1KMEVWaw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Vippy Spinpro Limited Secures \u20b930 Crore Working Capital Limit Enhancement from HDFC Bank",
+      "source": "EquityBulls",
+      "published_utc": "2026-10-08T14:43:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JUzlnZUd6QngyWUNRaVhiTHVWZERHYVpud29ud0ZKYVNDblB6cE5POVNjWHR5T0VISTN0eHRQSEV1ZS1wcUprR2tDQzIzLWhyY2xMT0U2Y0d0RTNXOW5j?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank names Anup Bagchi as India\u2019s top-paid bank CEO",
+      "source": "Investing.com",
+      "published_utc": "2026-10-08T14:37:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR3kwdFNSR3RpaWxlQ0tCNmpQalgwY3ZGSFlqNDNVSEZKZUJfd3dTTkNwcjh6VkZRbXhWa08xNm9HOFRCTU1OSWJ4SHJaRTFtWUNYSmR2MEhFcDNYTzZ2QTczaEdYTFpnZlZUYWpHNnNGWFlSay1UcE0teGRZWTd2S3lSZ3dYcnJqRmc0aGdtZFZrb3kxNDJ4amRkVHFiRUF2V3FxN1d3aWpWWkFkdHJ6SXp5RU8xUE0?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SueWallSt Reminds Shareholders of a Lead Plaintiff Deadline of October 13, 2026 in HDFC Bank Limited Lawsuit - HDB",
+      "source": "TradingView",
+      "published_utc": "2026-10-08T14:09:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQN2xEazVKcnhLYnJFRjRnZzZ5UjhJWmQteG4wWU84VjBqWmh5ZmVGNW5PT0FHUHllRUNXbGNLWGRkclVUM205WGt1dm11NVVhV2lmVG1rU3c4bEtqLS1TaURfaUZ5cU9tclBHWFhyNXFyLUVRclNrdVFRTWY0VXZFRlkyTS1zbmhMa0dFZXdHSklXdWlUMmIwU2RVTXpHVGY0QUxWVzdESXFZNDVxWC1KWGJ6aGgzeGp1MjR0TktKbXpyWDMxSktqS0ZlOFhZdVlGMzRrbVlSQXFkbEtlTTBTX3hLcUp5WmYwbzd1c05MdVJFUXFYSzVDUnlZX05HZC16MEE?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in HDFC Bank Limited of Class Action Lawsuit and Upcoming Deadlines - HDB",
+      "source": "PR Newswire",
+      "published_utc": "2026-10-08T14:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQbklMY1BHSGhHbUdmWkV6cU5BdWJvVk5zLVJGQUpHQUo2NXQtZkdTejBadGFiZTJHN2xEWUtDdzVxbzVfYnBSQnc1dnhuTkk0UEN0OFJlNmhMb2VDWVBzNlBEOWJnMFc0TXZDbmo1bWc2MnAyZDVFaUltS3A5N1lOY0c0MENZekJtN3oyS2tXWlY3RWF4bVRRUU80Rm1GaXZwT1RlNEp3NWRfLVhyV2ljejJhb0ZBbjdxMnRqbzN4bVgxTW4tdEpxdVpYRTRqb2FOM1NzSmt2azNrTWFJUTZpQTVJUjk2dXRNeUpxbTlrM19qbUFmLWZGTnItS2RzNi1famhRNkNZTjd1RWJnazJFT2pvQ0xyWm1iMDNWQlFERWd6aVB4N2xFRFZPbFhXZHhydEY3aDVtVQ?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDB Investors Have Opportunity to Lead HDFC Bank Limited Securities Fraud Lawsuit with SBS Law",
+      "source": "GlobeNewswire",
+      "published_utc": "2026-10-08T13:23:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbWlPeEV4MGdoZl9DRWVZZkY3eThENDBWaE55MW05Z2RlNk5oLUJJbGRQaHZlbkZ3RGxDN3VURlZVLUplTDlGaUlaMF85bXlmQzI5X0VJMkFkVkRmSGdoQzRZMnluWUxzUU9lNklkdUNoTTRsWENBdldlZGhURzd0Y3lRYjJPMHoyTlJLbEtBYy1VTEF6TGNXVmQyRVdTSkhyWWhJa21tMExkNnpjQVFFWE04UUE3c2VBdzNhQk9URV8tSE9xSGtCSVY3RmNJNHhsbW1GUDdLR3dYa2JuR1F5cjM3ZlJXYlpuVExvRl9CdjQ5a0RZQlVvWVJB?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC's next CEO set to be India's highest-paid bank chief",
+      "source": "VCCircle",
+      "published_utc": "2026-10-08T12:55:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHJDdHplblJlQnh4SXg3VDRZaWlEMGttVHE3RmRLRkktdlFCMlFvNFNLQ1E4MXVaYk9jRElXZ09hQXIxTkh1WmJ5VEQ1YnFVZ25meEZyY2xQY252QmVBZlE0bU8zMU9tYjVlNkd1aXZiYUl3UlQtZHFFbThydEJpVTQ0SU1NdkJCQ0p1OEFnN0E?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank's Merger Is Done. Can Anup Bagchi Unlock Its Full Potential?",
+      "source": "Outlook Business",
+      "published_utc": "2026-10-08T12:24:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGhQZFAzeHhaYUFSOXJvM19JQ0tOcTdYQ2MtZl93bGR0M3doa0JlZURWSy13ZElPRmNnbV93V015SHVxTVVTTC1Gd1JsTVc4bmtNZ3JZNW0wVDdKNDJJNG53V1Z4dlp0bkt1clNaQjhLZms1TVJIQ2xGSUl0cXhTQXBCeVZlY25Ndk9CV0xTLXJHZUtOQTBnNk1vcWpuRDl1aHNtaDRPVHM1QVdzdnfSAbsBQVVfeXFMT3Jqb2tGaVVVanNwMDY2SDl4alFwSlYyTDkwSndhTE11NjRtcmFBQ2tnVF9LNkpXc0hYRFcwdnRVdENxcTNLVkJfQUdjTlMtT3ktZnhmVzhGZGt6Qlg3N2Uyd3d4M2tjUWY2UjVBdUlHemRfc09jb1FEM3hmQlNEZnNabVZ5UE42ZW9rMDM4cWViR2FzR29xVGVHVXNCdkFNYWJOX25GSjBXbktHY0FDYmkzMGc5NTVQazFIaw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank's Anup Bagchi set to become India's highest-paid bank CEO",
+      "source": "Business Standard",
+      "published_utc": "2026-10-08T12:21:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWUyWndSWnFqSkdjSy01akF4cHZlaHNLNVlObk1DVUZva3VZRGZuLVFDbGkweHF2cnZ6aW5QZ2k5UHJjUmZyMW1UUUpWZm9EbUx2TDdNME5rVG9aTmQ5cWhGUm04N2FNVkRJUHJESFdDZlp5ZDBXUk5iLVpPT0I5MldYcHJsSDF3Ymp1eXFtRjdhZ0Y0V2VRT21EVDI4VzFJc2FHdzFQSTRnVmkyRkE4NGNnUHl5ZXlGY3NJc0xfNE0wM0pNMV8wWGtyMWhnc0dwRzRhb9IB2gFBVV95cUxPQTR2T3A2MFVJWGxMaEQ4VXRnbUJGTzUxUHhtaUdaQXA1ZmJNRWpOcFR1SElZNFhacl8yYTVOYU5aM2VlbVY5SW4zSUVsVUJ6VmRSWmxvTnNETnhPOW81LUxTM1k4cExHMUZ6ajdUUVR3NXl6Umw4aU9CeTZMVTFnVE12aXIzTHA0bVRWUW8xVllmMlg5TGk2RkJHaElRV2t6RzZyNTFqY1ZkZF8ycURjcV84QXdwc3A3M1ZBc1dEaVRfOHVnOVQ5Uk5hVHZtdHZEbmFJdy1RNHJXZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Swiggy Instamart brings back Quick India Movement: iPhone 17 Pro at Rs 1,19,999, MacBooks from Rs 66,900,",
+      "source": "The Times of India",
+      "published_utc": "2026-10-08T12:17:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOMjNicnJ4cGN1aXBva05DN0I1Y1JVU0dSb3ZmNUVOaVZ5ZGQzUG9OVUxyX1lla2ZZREF3M3laT2ZHV0E3dlA3bF9Sd2tqZ1Y2RnpmS3pJY1A3NEF6MGtqc2RQbTA0Ri1fNy1heGZsVkV1UEFmRWxJQUJWTE5GQ3RvV21FVmxIQXBXQ2NreWFRUUd0WHdNenphaUI3eE9oUk9vMmN0ZEdKcGphVE0yalBNY0ZSZ0VMNS1BMTc1UGhnbzM1MVY1WVlta0dhYUpfYW9EMnRwQXZKeXYzVGJUZXlfZmk2enNjZldrb1pTcmpRTkJlM2JsMzdNUkhxRFJnRkJCTldjRXdvVWk3S2dYYjJkQ2FEZ1QxTU9lVHpxd0dHWjlPWDFJTGR0X3dURWRJTE5qblV2a3VaQ00xNjA3eGVCd3ZB0gHHAkFVX3lxTE9WbUlHb1o2NDJhRjh5UXBfckVRUTZPcHFLSHozSXdTOFp2R0dGMk43Mnc5Y1pzZ3VMazBsQ2U5RS1CU2tMSW9ZOENERXh3OHFjazFYRkZMZUJVUlIzRnBzWTZDbFRLZDZBYTRESzMzZElCUlFKRkRFRTVlU0hLZ29jaHhQclJYQUFCUDl6cjBKRThDc1VDUFVzWWdwSlh1aFh1c3FEc1JKYmE4RTZJLXBzT0lER25uMVJqLVpNLTBYYzgyR3BwTHhydWhYTjB5WS03T3RDZHlhVDltbkJTWnVjMWdBMGVXbk90b3UyYmNOdWQ4dEFqTG9EYVNmYnBlaXo5TE5aazZOeEN1anIxOE5kUVQtV2dnSFl4Si1pYjQ0Ym9kVXJwc09LSnN0cEpfa3d4ajNtYWgwNl9IOWZINXhmbkxrSzdnbw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank CEO salary: Here\u2019s how much Anup Bagchi will earn",
+      "source": "StoryBoard 18",
+      "published_utc": "2026-10-08T11:32:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZW83WTBXQnNmcHUyT0xlYXFIY182cUxRU1R3UzFwMjh6cFIwQy1tTDRyUTZ6WnNGbnhEdklnYjFEelpJdjhVVkRpTUdOQ1FJel8zWHJTLUxTSDkxcGhSZFAzUzhLTDNlYWgwLWxweks5N3k0YlhXaXU5bVZBc0hNQ052YV9Xam4yMkYyVE9Db2lNaWlMalFlczV6N19NMXE5eTk1MlJOdE0wZzdObDdWam0wdWkzWUFrN0JzVjJwTGU2T0hUTGhxb0ZOSFp1Um0yamx0eXB6c9IB1wFBVV95cUxPZW83WTBXQnNmcHUyT0xlYXFIY182cUxRU1R3UzFwMjh6cFIwQy1tTDRyUTZ6WnNGbnhEdklnYjFEelpJdjhVVkRpTUdOQ1FJel8zWHJTLUxTSDkxcGhSZFAzUzhLTDNlYWgwLWxweks5N3k0YlhXaXU5bVZBc0hNQ052YV9Xam4yMkYyVE9Db2lNaWlMalFlczV6N19NMXE5eTk1MlJOdE0wZzdObDdWam0wdWkzWUFrN0JzVjJwTGU2T0hUTGhxb0ZOSFp1Um0yamx0eXB6cw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SterlingWilson Solar Nine Monthly Results, Nine Monthly Earnings for SterlingWilson Solar",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-08T10:56:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0NjRF8wY0VRZkFZUnlFQjdYeEVzYW9TeDhiR3pQYzlYUlo0XzEzSy05aGZ0enRyV0VJNk1SVFFmM08zLWpGUjgzTEhmM2pNVXV2bVdGdHVfQTZtRHkzV2tkMzY2X3h0UlhvYmwwd2Z2X3ZSblB0OW9jQUc5Wi1tajl6U2lhTzFDYVhvNERRcDEwMGhVLVhEbUplMHlOd1hmdDZmbzB2azVHUGY5SnpZaDhMOA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.034,
+    "strength": 1.0,
+    "material_count": 4,
+    "view": -0.034
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-09T11:28:17.961357+00:00"
+}
