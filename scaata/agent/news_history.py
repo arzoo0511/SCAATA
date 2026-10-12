@@ -14,7 +14,8 @@ way the live ones are.
 Both steps are resumable (every week and month is its own file) and polite:
 Google is asked once every few seconds, and Groq scoring stops for the day
 at `DAILY_REQUEST_BUDGET`, well under the free tier's 1,000 requests, so the
-live agent's own scoring never runs out.
+live agent's own scoring never runs out. It runs on GitHub Actions
+(`.github/workflows/news-backfill.yml`), which commits each day's progress.
 
 Caveats, both real:
 - the archive is thinner than the live feed (a handful of headlines a week
@@ -26,6 +27,7 @@ Caveats, both real:
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 import time
@@ -46,9 +48,13 @@ LEDGER_PATH = ARCHIVE_DIR / "groq_ledger.json"
 START = date(2012, 1, 2)                 # a Monday
 MODEL_KNOWLEDGE_CUTOFF = date(2024, 7, 1)
 GOOGLE_PAUSE_SECONDS = 3.0
-DAILY_REQUEST_BUDGET = 800               # of Groq's 1,000/day free tier; the rest is the live agent's
+# Groq's free tier gives each model 200,000 tokens a day and 8,000 a minute.
+# A 40-headline call is ~2,100 tokens, so 65 calls (~140k) leave the live
+# agent (~15k a day) plenty, and a 30 s pause leaves it half of every minute.
+# On a paid Groq tier, raise both through these environment variables.
+DAILY_REQUEST_BUDGET = int(os.environ.get("HANSEI_BACKFILL_DAILY_CALLS", 65))
+TOKENS_PER_MINUTE_PAUSE = float(os.environ.get("HANSEI_BACKFILL_PAUSE_SECONDS", 30))
 BATCH = news.MAX_HEADLINES               # headlines per scoring call, as live
-TOKENS_PER_MINUTE_PAUSE = 9.0            # free tier: 8,000 tokens/min; a call is ~1,000-1,500
 
 
 def _symbol_dir(symbol: str) -> Path:
@@ -140,9 +146,12 @@ def _spend(n: int = 1) -> int:
     return ledger[today]
 
 
-def score_all(symbols=INDIA_TICKERS, client=None, budget: int = DAILY_REQUEST_BUDGET) -> bool:
+def score_all(symbols=INDIA_TICKERS, client=None, budget: int | None = None,
+              deadline: float | None = None) -> bool:
     """Scores every fully-fetched stock-month not yet scored. Returns True when
-    nothing is left, False if it stopped at the daily budget."""
+    nothing is left, False if it stopped at the daily budget or the deadline
+    (a `time.time()` value), so a scheduled job can save its progress."""
+    budget = DAILY_REQUEST_BUDGET if budget is None else budget
     client = client if client is not None else news._llm_client()
     if client is None:
         sys.exit("GROQ_API_KEY is not set (in the environment or .env)")
@@ -161,6 +170,9 @@ def score_all(symbols=INDIA_TICKERS, client=None, budget: int = DAILY_REQUEST_BU
             for k in range(0, len(headlines), BATCH):
                 if _ledger().get(datetime.now(timezone.utc).date().isoformat(), 0) >= budget:
                     print(f"daily Groq budget of {budget} reached; rerun tomorrow", flush=True)
+                    return False
+                if deadline is not None and time.time() >= deadline:
+                    print("time limit reached; progress saved", flush=True)
                     return False
                 chunk = headlines[k:k + BATCH]
                 scores = news.llm_scores(chunk, news.COMPANY_NAMES[symbol][0], client)
@@ -233,8 +245,9 @@ def main() -> None:
     command = sys.argv[1] if len(sys.argv) > 1 else "status"
     if command == "fetch":
         fetch_all()
-    elif command == "score":
-        score_all()
+    elif command == "score":   # optional: --minutes N stops cleanly after N minutes
+        minutes = float(sys.argv[sys.argv.index("--minutes") + 1]) if "--minutes" in sys.argv else None
+        score_all(deadline=time.time() + 60 * minutes if minutes else None)
     elif command == "run":   # fetch, then score day after day until done (resumable; safe to kill)
         fetch_all()
         while not score_all():

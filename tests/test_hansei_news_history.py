@@ -83,3 +83,16 @@ def test_score_all_scores_months_newest_regime_first_and_stops_at_the_budget(tmp
     assert calls == ["2024-07-02T08:00:00+00:00"]                 # after the model's cutoff, first
     assert nh.score_all(["ITC.NS"], client=object(), budget=5) is True
     assert nh.scored_months("ITC.NS") == {"2024-06", "2024-07"}
+
+
+def test_score_all_stops_at_the_deadline(tmp_path, monkeypatch):
+    import json
+    import time
+    monkeypatch.setattr(nh, "ARCHIVE_DIR", tmp_path)
+    monkeypatch.setattr(nh, "LEDGER_PATH", tmp_path / "ledger.json")
+    monkeypatch.setattr(nh, "weeks", lambda *a, **k: [date(2024, 7, 1)])
+    (tmp_path / "ITC").mkdir()
+    (tmp_path / "ITC" / "2024-07-01.json").write_text(json.dumps([{"title": "ITC x", "source": "s",
+        "published_utc": "2024-07-02T08:00:00+00:00"}]), encoding="utf-8")
+    monkeypatch.setattr(nh.news, "llm_scores", lambda *a: pytest.fail("should not score after the deadline"))
+    assert nh.score_all(["ITC.NS"], client=object(), budget=5, deadline=time.time() - 1) is False

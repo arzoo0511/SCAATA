@@ -1,0 +1,57 @@
+# Scores HANSEI's archived headlines (data_cache/news_history) with the live
+# agent's LLM, a little every day, so the news advisor can be backtested.
+#
+# Groq's free tier allows each model 200,000 tokens a day. This job takes
+# about 65 calls (~140k tokens) and pauses 30 s between them, so the live
+# agent's own scoring keeps its share. It counts its calls in
+# data_cache/news_history/groq_ledger.json and commits progress after every
+# run; a run that is cut short loses at most the month it was scoring.
+# Once everything is scored, each run finds nothing to do and exits.
+name: News backfill
+
+on:
+  schedule:
+    - cron: "40 3 * * *"     # 09:10 IST daily (GitHub may start it hours late)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-backfill
+  cancel-in-progress: false
+
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt "groq>=0.29"
+
+      - name: Score archived headlines
+        env:
+          # a separate key, if one is set, keeps the backfill off the live agent's quota entirely
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY_BACKFILL || secrets.GROQ_API_KEY }}
+        run: python -m scaata.agent.news_history score --minutes 100
+
+      - name: Commit progress
+        if: always()
+        run: |
+          git config user.name "hansei-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data_cache/news_history
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+            exit 0
+          fi
+          git commit -m "HANSEI news backfill progress"
+          git pull --rebase origin main
+          git push origin HEAD:main
