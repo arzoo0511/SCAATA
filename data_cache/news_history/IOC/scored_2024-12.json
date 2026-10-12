@@ -1,0 +1,416 @@
+[
+ {
+  "title": "Petrol Pump plan in Guwahati's Kharghuli sparks environmental concerns among residents",
+  "source": "The Assam Tribune",
+  "published_utc": "2024-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG Cylinder Rates From Today: Commercial cooking gas becomes dearer by Rs 16.5",
+  "source": "Zee Business",
+  "published_utc": "2024-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel, jet fuel sales surge in November as economy picks up",
+  "source": "Zee Business",
+  "published_utc": "2024-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Navy to take out \u2018Sea Riders Odyssey\u2019 bike rally in Tamil Nadu",
+  "source": "The Times of India",
+  "published_utc": "2024-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Removed! Modi government has taken big decision on tax",
+  "source": "Times Bull",
+  "published_utc": "2024-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flight Ticket Price Can Increase As Aviation Fuel Price Hiked By Rs 1318/KiloLitre",
+  "source": "Trak.in",
+  "published_utc": "2024-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Scraps Windfall Tax on Crude Oil & Fuel Exports",
+  "source": "Utkarsh Classes",
+  "published_utc": "2024-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FEATURE: For Indian oil products exporters, Europe offers an opportunity like no other",
+  "source": "S&P Global",
+  "published_utc": "2024-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EXCLUSIVE: Rising costs squeeze intermediaries out of thriving Russian oil trade with India",
+  "source": "Reuters",
+  "published_utc": "2024-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gruner Renewable Energy welcomes Rajesh Gupta as new executive VP",
+  "source": "Manufacturing Today India",
+  "published_utc": "2024-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Police Department\u2019s Welfare Petrol Pump Inaugurated",
+  "source": "The Hans India",
+  "published_utc": "2024-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol bunk run by transgenders inaugurated in Sircilla",
+  "source": "Telangana Today",
+  "published_utc": "2024-12-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil partners with Tata Medical Centre, Kolkata to strengthen cancer care facilities",
+  "source": "MillenniumPost",
+  "published_utc": "2024-12-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 best credit cards offering the fuel surcharge waiver benefits",
+  "source": "Livemint",
+  "published_utc": "2024-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fortune 500 India: IOC aims for $1 trillion valuation by 2047",
+  "source": "Fortune India",
+  "published_utc": "2024-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC eyes offshore gas opportunities with Shell and Petronas",
+  "source": "Manufacturing Today India",
+  "published_utc": "2024-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jefferies upgrades Indian Oil to 'Buy', lifts target to Rs 185; share up 2%",
+  "source": "Business Standard",
+  "published_utc": "2024-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC shares gain as Jefferies raises price target",
+  "source": "Business Today",
+  "published_utc": "2024-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What are the things that annoy you the most during highway journeys",
+  "source": "Team-BHP",
+  "published_utc": "2024-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Refining margins of state-run oil marketing companies fall this fiscal",
+  "source": "Livemint",
+  "published_utc": "2024-12-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In Jharkhand, piped natural gas project to households yet to pick up speed: Union min",
+  "source": "The Times of India",
+  "published_utc": "2024-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US Govt Imposes 300% Penalty For Bribing Indian Railways, HAL, IOC",
+  "source": "Trak.in",
+  "published_utc": "2024-12-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Reaches Record Financial and Operational Heights, Targets Net-Zero by 2046",
+  "source": "ET EnergyWorld",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to invest over Rs 21,000 cr in Bihar refinery expansion, gas projects",
+  "source": "Business Standard",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil To Invest Rs 657 Crore For Yarn Project In Odisha",
+  "source": "NDTV Profit",
+  "published_utc": "2024-12-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL to invest over Rs 21,000-cr to expand Bihar refinery",
+  "source": "Projects Today",
+  "published_utc": "2024-12-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation announces Rs 4,382 crore yarn project in Odisha",
+  "source": "Business Upturn",
+  "published_utc": "2024-12-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Allocates Rs 4,382 Crore For Textile Park In Bhadrak",
+  "source": "Ommcom News",
+  "published_utc": "2024-12-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil clears investment plan for yarn project in Odisha",
+  "source": "The New Indian Express",
+  "published_utc": "2024-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation probes allegation of US firm bribing officials",
+  "source": "Business Standard",
+  "published_utc": "2024-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire breaks out at IOC refinery in Vadodara, no injuries reported",
+  "source": "The Indian Express",
+  "published_utc": "2024-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Year-Ender 2024: Top 5 Most Valued Oil & Gas Stocks; Bonus Issues, Dividends, Recommendations",
+  "source": "Goodreturns",
+  "published_utc": "2024-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL to set up 4,382cr megayarn unit in Bhadrak district",
+  "source": "The Times of India",
+  "published_utc": "2024-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil rises 2% as board approves setting up of yarn project in Odisha",
+  "source": "Business Standard",
+  "published_utc": "2024-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Announces \u20b94,382 Crore Investment in Textile Manufacturing Hub in Odisha",
+  "source": "The Textile Magazine",
+  "published_utc": "2024-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Demand grows to shift LPG plant out of Sitapura",
+  "source": "The Times of India",
+  "published_utc": "2024-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp to invest 610 bln rupees in naphtha cracker project in Odisha state",
+  "source": "Reuters",
+  "published_utc": "2024-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to Invest over INR 21,000 Crore in Bihar\u2019s City Gas Projects",
+  "source": "Tube & Pipe India",
+  "published_utc": "2024-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank IndianOil Credit Card: Everything you need to know before applying",
+  "source": "Livemint",
+  "published_utc": "2024-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian state refiners may buy Mideast spot oil to replace Russian shortfall",
+  "source": "Reuters",
+  "published_utc": "2024-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 61,000 crore Paradip project set to transform Odisha as manufacturing hub",
+  "source": "Manufacturing Today India",
+  "published_utc": "2024-12-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL to set up naphtha cracker unit in Paradip; to invest Rs 61,000 crore",
+  "source": "The New Indian Express",
+  "published_utc": "2024-12-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to invest Rs 61,000 crore for naphtha cracker project in Odisha",
+  "source": "Business Standard",
+  "published_utc": "2024-12-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Elite Basketball Academy: A New Era For Indian Basketball In Noida",
+  "source": "Free Press Journal",
+  "published_utc": "2024-12-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "December 26, 1984, Forty Years Ago: Repoll In Four States",
+  "source": "The Indian Express",
+  "published_utc": "2024-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Data suggests Russian oil is reaching EU via India",
+  "source": "NZZ",
+  "published_utc": "2024-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

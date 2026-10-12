@@ -1,0 +1,722 @@
+[
+ {
+  "title": "Axis Bank manager arrested for duping senior citizen of Rs 2.3 crore in Cuttack",
+  "source": "The New Indian Express",
+  "published_utc": "2024-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian online ID verification firm Signzy confirms security incident",
+  "source": "TechCrunch",
+  "published_utc": "2024-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ghodawat Consumer Ltd Appoints Shanta Vallury Gandhi to its Board of Directors",
+  "source": "Passionate In Marketing",
+  "published_utc": "2024-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jeevan Pramaan or life certificate submission deadline missed? Pensioners should do this now or pension wi",
+  "source": "The Economic Times",
+  "published_utc": "2024-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates: 8 banks offer highest interest on 3-year fixed deposits, see details",
+  "source": "Livemint",
+  "published_utc": "2024-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit Cards: Top 8 cashback cards for online shopping, check details here",
+  "source": "Livemint",
+  "published_utc": "2024-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus Nord CE 4 under \u20b920000 on Amazon: Check out bank and exchange offers",
+  "source": "Livemint",
+  "published_utc": "2024-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI's 3 offices searched by Maharashtra GST officials, bank says cooperating fully",
+  "source": "India Today",
+  "published_utc": "2024-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares dip as Maharashtra GST officials search three offices; bank assures full cooperation",
+  "source": "PGurus",
+  "published_utc": "2024-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three ICICI Bank offices searched by Maharashtra GST in tax-related probe",
+  "source": "Business Today",
+  "published_utc": "2024-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank revises fixed deposit rates. Check comparative FD rates of PNB, ICICI, HDFC, SBI, Union Bank",
+  "source": "Livemint",
+  "published_utc": "2024-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI To HDFC Bank \u2014 Savings Account Interest Rate Comparison",
+  "source": "NDTV Profit",
+  "published_utc": "2024-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares fall after GST officials search 3 offices",
+  "source": "Zee Business",
+  "published_utc": "2024-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Under GST Scrutiny: Maharashtra GST conducted operations in several branches",
+  "source": "Zee Business",
+  "published_utc": "2024-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI Investigating Whistle-blower Allegation of Misconduct in ICICI Securities Fairness Opinion",
+  "source": "Moneylife",
+  "published_utc": "2024-12-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI monetary policy: 5 bank stocks to buy amid potential turn in interest rate cycle",
+  "source": "Business Today",
+  "published_utc": "2024-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank\u2019s new credit card rules: How the December 2024 changes affect you",
+  "source": "Livemint",
+  "published_utc": "2024-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank customers take note! This money transfer service will not be available for some time on Decemb",
+  "source": "The Times of India",
+  "published_utc": "2024-12-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank customers: This money transfer service will be down briefly between December 14 and 15, check d",
+  "source": "The Economic Times",
+  "published_utc": "2024-12-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: Why NDTV founders got clean chit 7 years after CBI raids",
+  "source": "Newslaundry",
+  "published_utc": "2024-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Redmi Note 14 5G Series launched in India starting at \u20b917,999 combined with offers",
+  "source": "MobiGyaan",
+  "published_utc": "2024-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Poonawalla Fincorp CTO Dhiraj Saxena resigns citing \"harassment and unnecessary interventions\" by CHRO",
+  "source": "ETHRWorld.com",
+  "published_utc": "2024-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Customers ALERT! THIS Service Will Be Halted On... - Here's The Reason",
+  "source": "Times Now",
+  "published_utc": "2024-12-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Inaugurates Its New Service Centre at Oasis Mall in Juffair",
+  "source": "intlbm",
+  "published_utc": "2024-12-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank users: RTGS to be unavailable briefly between December 14-15 | Check details",
+  "source": "Livemint",
+  "published_utc": "2024-12-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's RTGS services to be unavailable for 6 hours this week",
+  "source": "CNBC TV18",
+  "published_utc": "2024-12-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED initiates restitution of assets in Mehul Choksi case",
+  "source": "DD News",
+  "published_utc": "2024-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ratan Tata\u2019s Tata group is most valuable group in india! Mukesh Ambani\u2019s Reliance and Gautam Adani\u2019s Adani Gr",
+  "source": "India.com",
+  "published_utc": "2024-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Commonwealth Bank signs Memorandum of Understanding with ICICI Bank",
+  "source": "CommBank",
+  "published_utc": "2024-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Signs MoU With Commonwealth Bank of Australia",
+  "source": "www.fintechbiznews.com",
+  "published_utc": "2024-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Approves Sale Of 19% Stake In ICICI Merchant Services",
+  "source": "NDTV Profit",
+  "published_utc": "2024-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's board approves 19% stake sale in ICICI Merchant Services",
+  "source": "Business Standard",
+  "published_utc": "2024-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBA to \u2018accelerate growth across Australia\u2013India corridor\u2019",
+  "source": "Broker Daily",
+  "published_utc": "2024-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank approves proposal to divest 19% stake in ICICI Merchant Services",
+  "source": "Livemint",
+  "published_utc": "2024-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What are ICICI Bank\u2019s prospects in the New Year?",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2024-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why only paying the minimum due on credit card may not be a wise move?",
+  "source": "Business Standard",
+  "published_utc": "2024-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These HDFC Bank services will not be available on December 14, 15: Know when you cannot use UPI, IMPS, NEF",
+  "source": "The Economic Times",
+  "published_utc": "2024-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top UPI Stocks in India - UPI Stocks",
+  "source": "Alice Blue",
+  "published_utc": "2024-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest FD Rates: What SBI, PNB, HDFC Bank, ICICI Bank, and other 6 banks are offering in 1-year FD",
+  "source": "Zee Business",
+  "published_utc": "2024-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The POSH Push, in Private",
+  "source": "India Legal",
+  "published_utc": "2024-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mukesh Ambani's loses Rs 520310000000 in just one week, still Reliance Industries remained\u2026",
+  "source": "India.com",
+  "published_utc": "2024-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Completed Wrong With Ongoing Effects Does Not Constitute Continuing Wrong: NCDRC Dismisses Petition...",
+  "source": "Live Law",
+  "published_utc": "2024-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BT500: Amid banking sector turmoil, HDFC, ICICI, and SBI stand strong with impressive resilience",
+  "source": "Business Today",
+  "published_utc": "2024-12-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock Of The Day: Sell ICICI Bank Futures: SL 1338 Tgt 1300, 1285, 1270 Banking stocks looking weak ICICI may lead weakness in Bank Nifty Sell Hindalco Futures: SL 643 Tgt 620, 610, 602 Meltdown in metals in global market Sell Chola Investment Futures:",
+  "source": "Facebook",
+  "published_utc": "2024-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loan against mutual funds: Interest rates of SBI, HDFC Bank, ICICI Bank, others",
+  "source": "The Economic Times",
+  "published_utc": "2024-12-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank & Times Internet Debut Exclusive Metal Credit Card For India",
+  "source": "MensXP",
+  "published_utc": "2024-12-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Introducing The Times Black ICICI Bank Credit Card",
+  "source": "The Times of India",
+  "published_utc": "2024-12-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PMAY 2.0: How to check eligibility and apply online for Pradhan Mantri Awas Yojana-Urban 2.0",
+  "source": "The Economic Times",
+  "published_utc": "2024-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit cards: Top 5 cards for couples for dining and travel perks",
+  "source": "Livemint",
+  "published_utc": "2024-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Times Internet, ICICI Bank unveil super-premium metal credit card",
+  "source": "The Times of India",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank and Times Internet unveil premium metal credit card",
+  "source": "BusinessLine",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Times Black ICICI Bank Credit Card launched: Key features and benefits explained",
+  "source": "CNBC TV18",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Launches Times Black Co-Branded Metal Credit Card",
+  "source": "SMEStreet",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Times Internet Partners With ICICI Bank For A Co-Branded Premium Metal Credit Card",
+  "source": "iDiva",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Times Black ICICI Bank Credit Card: ICICI Bank & Times Internet launch super-premium card",
+  "source": "ET Government",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank and Times Internet launch super-premium credit card",
+  "source": "The Economic Times",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zee Business. . \u092a\u094d\u0930\u093e\u0907\u0935\u0947\u091f \u092c\u0948\u0902\u0915\u094b\u0902 \u092a\u0930 \u0938\u093f\u091f\u0940 \u0915\u0940 \u0930\u093f\u092a\u094b\u0930\u094d\u091f \u0915\u094d\u092f\u093e \u0939\u0948? \u0926\u0947\u0916\u093f\u090f \u092a\u094d\u0930\u093e\u0907\u0935\u0947\u091f \u092c\u0948\u0902\u0915\u094b\u0902 \u092a\u0930 \u0938\u093f\u091f\u0940 \u0915\u093e \u0915\u094d\u092f\u093e \u0939\u0948 \u0928\u091c\u0930\u093f\u092f\u093e,\u0915\u094c\u0928-\u0938\u0947 \u092a\u094d\u0930\u093e\u0907\u0935\u0947\u091f \u092c\u0948\u0902\u0915 \u0938\u093f\u091f\u0940 \u0915\u094b \u0939\u0948 \u092a\u0938\u0902\u0926? #PrivateBank #CITI",
+  "source": "Facebook",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 7 credit cards for maximum savings on grocery shopping",
+  "source": "Livemint",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit cards: THESE bank cards offer premium OTT memberships such as Amazon Prime, others",
+  "source": "Livemint",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 credit cards offering maximum cashback on utility bills",
+  "source": "Livemint",
+  "published_utc": "2024-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "4 big-ticket mergers to track in 2025: What stock market investors must know",
+  "source": "The Economic Times",
+  "published_utc": "2024-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Smooth EPF transfer while changing jobs: How to seamlessly transfer your retirement savings online without",
+  "source": "The Economic Times",
+  "published_utc": "2024-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "False claims about former NDTV director Prannoy Roy\u2019s \u2018real identity\u2019 as a Muslim resurface",
+  "source": "English Varthabharati",
+  "published_utc": "2024-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank rewrites the rulebook: Redefining service and value to captivate customers",
+  "source": "Business Today",
+  "published_utc": "2024-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank and Times Internet launches super-premium Credit Card",
+  "source": "MarcaMoney",
+  "published_utc": "2024-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q3 Update: India's second-largest private bank to declare Oct-Dec quarter results on THIS date",
+  "source": "Livemint",
+  "published_utc": "2024-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Malaysia Airlines inks strategic deal with ICICI Bank to offer exclusive privileges for cardholders",
+  "source": "TravelBiz Monitor",
+  "published_utc": "2024-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Expected decline in food prices in January could increase odds of rate cut in Feb: ICICI Bank",
+  "source": "ChiniMandi",
+  "published_utc": "2024-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates: Get up to 7.4% interest on five-year FDs; Check full list here",
+  "source": "The Economic Times",
+  "published_utc": "2024-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to buy: Reliance, L&T, SBI among 12 high conviction large-cap ideas by Mirae Asset Sharekhan for 2025",
+  "source": "Livemint",
+  "published_utc": "2024-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI Introduces SIFs or Specialised Investment Funds- Know Everything About SIFs",
+  "source": "ICICI Direct",
+  "published_utc": "2024-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank & Times Internet launch co-branded super premium credit card",
+  "source": "IBS Intelligence",
+  "published_utc": "2024-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Pay ICICI Credit Card Review: Benefits And Features",
+  "source": "Forbes",
+  "published_utc": "2024-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital and Financial Products Launched by Indian Banks in 2024",
+  "source": "Jagranjosh.com",
+  "published_utc": "2024-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "China's central bank owns Rs 40k-crore portfolio in India, even as ties remain turbulent",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jefferies turns positive on HDFC Bank; reveals 22 stocks of its India long-only equity portfolio",
+  "source": "Livemint",
+  "published_utc": "2024-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex drops by 451 pts, Nifty ends below 23,650 on selling in blue-chips, FII outflows",
+  "source": "Daily Excelsior",
+  "published_utc": "2024-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Paying Online is The Best Way to Pay MSEB Bills Easily and Securely?",
+  "source": "The Assam Tribune",
+  "published_utc": "2024-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Should you buy HDFC Bank, ICICI Bank, Varun Beverages, Vodafone Idea, other largecap stocks today?",
+  "source": "Zee Business",
+  "published_utc": "2024-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jefferies\u2019 Chris Wood trims 4 stocks to bring back HDFC Bank",
+  "source": "The Financial Express",
+  "published_utc": "2024-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

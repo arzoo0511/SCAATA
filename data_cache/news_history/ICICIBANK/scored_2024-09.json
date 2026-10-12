@@ -1,0 +1,893 @@
+[
+ {
+  "title": "ICICI Bank to customers: How SMS fraud work and tips to spot these scams",
+  "source": "The Times of India",
+  "published_utc": "2024-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ICICI Bank says it did not give salary or employee stock options to regulatory chief",
+  "source": "Reuters",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank refutes Congress allegations of post-retirement payments to SEBI chairperson Madhabi Puri Buch",
+  "source": "The Times of India",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank denies allegations that it paid salary to SEBI chief after her retirement from the group",
+  "source": "The Hindu",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Sebi is facing criticism over ICICI Securities, ICICI Bank merger",
+  "source": "Business Standard",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank nullifies Congress allegations of Madhabi Puri Buch receiving salary, ESOPs from bank as SEBI chief",
+  "source": "Business Today",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No salary paid to Madhabi Buch after retirement, ICICI Bank rebuts Congress's claim",
+  "source": "India Today",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Madhabi Buch Gets Salary From ICICI Bank,\u2019 Congress\u2019s Pawan Khera\u2019s Scathing Attack On Sebi Chairperson",
+  "source": "India.com",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Didn't Pay Salary To SEBI Chief After Retirement: ICICI On Congress Claim",
+  "source": "NDTV",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Congress Accuses SEBI Chairman Buch Of Drawing Salary From ICICI Bank Since 2017; Bank Denies Claims",
+  "source": "Outlook India",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Madhabi Puri Buch drew Rs 16.80 cr salary from ICICI Bank despite being a full-time Sebi member, claims Congress",
+  "source": "Business Today",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Congress raises questions on SEBI chief pay from ICICI between 2017 and 2024, asks PM if he was aware",
+  "source": "CNBC TV18",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BIG claim by Congress on SEBI chief Madhabi Puri Buch, alleges drawing salary from ICICI Bank, ICICI Prudential",
+  "source": "Livemint",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi chief Madhabi Puri Buch drew Rs 16.8 cr from ICICI Bank, alleges Congress",
+  "source": "The New Indian Express",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Congress alleges Madhabi Puri Buch took salary from ICICI Bank as Sebi member",
+  "source": "Zee Business",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI Chief Madhabi Buch questioned by Congress over ICICI Bank payments, discrepancies in salary, and ESOPs post-retirement",
+  "source": "The Hindu",
+  "published_utc": "2024-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI Chairperson under Fire: Congress Reply to Clarification by ICICI bank",
+  "source": "Moneylife",
+  "published_utc": "2024-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Madhabi Puri Buch got salary from ICICI after joining SEBI: Congress; bank denies",
+  "source": "The Indian Express",
+  "published_utc": "2024-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares rise amid row over alleged payments to Sebi chief Madhabi Puri Buch",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Congress cries conflict of interest over Sebi chief Madhabi Puri Buch\u2019s links to ICICI Bank",
+  "source": "Telegraph India",
+  "published_utc": "2024-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank has staged an amazing turnaround. Is it overvalued now?",
+  "source": "Livemint",
+  "published_utc": "2024-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Taking forward the expose...': Congress to target SEBI chief Madhabi Puri Buch with new claims on salary row",
+  "source": "Business Today",
+  "published_utc": "2024-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No salary or ESOPs paid to Madhabi Puri Buch after retirement, clarifies ICICI",
+  "source": "Fortune India",
+  "published_utc": "2024-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet India\u2019s top 50 mutual fund distributors",
+  "source": "Cafemutual",
+  "published_utc": "2024-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u200bTop fuel credit cards in India September 2024: HDFC Bank, ICICI Bank, SBI Card, Kotak Mahindra Bank, Axis",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Madhabi Buch exercised ICICI Bank stock options to get shares worth Rs 10.3 crore after joining SEBI",
+  "source": "Scroll.in",
+  "published_utc": "2024-09-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi chair Buch worked at ICICI and a PE firm between 2011 and 2013",
+  "source": "Livemint",
+  "published_utc": "2024-09-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Did Madhabi Puri Buch Do Moonlighting During Her ICICI Bank Tenure? Fresh Allegations Surface Against SEBI Chief",
+  "source": "Zee News",
+  "published_utc": "2024-09-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Hitesh Kumar Sethia, Harvard alumnus to take over as CEO of Mukesh Ambani's company",
+  "source": "DNA India",
+  "published_utc": "2024-09-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank-Videocon loan case: SC notice to Chanda Kochhar, husband",
+  "source": "The New Indian Express",
+  "published_utc": "2024-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New airport lounge access rules for 19 ICICI Bank debit cards effective from October 1, 2024",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s Pockets Tops List Of India\u2019s Most Valued Digital Payment Brands, Followed By PayZapp & Google Pay",
+  "source": "Outlook Money",
+  "published_utc": "2024-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Credit Card Customer Care Number",
+  "source": "Forbes",
+  "published_utc": "2024-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Transparency on Trial: SEBI Chairperson's Ongoing ICICI Earnings Raise Conflict-of-interest Alarm",
+  "source": "Moneylife",
+  "published_utc": "2024-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Congress demands independent probe into allegations against SEBI chairperson",
+  "source": "Maktoob",
+  "published_utc": "2024-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The 8 Most Important M-Commerce Applications",
+  "source": "Techfunnel",
+  "published_utc": "2024-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar-Videocon case: SC issues notice to former ICICI Bank head, husband on CBI's plea against ba",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cyber thugs take Portugal route to hoodwink INCOIS of 40 lakh",
+  "source": "The Times of India",
+  "published_utc": "2024-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank updates debit card airport lounge access rules from Oct 1 \u2013 THESE cards impacted",
+  "source": "The Financial Express",
+  "published_utc": "2024-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks focus on fee income to fight margin pressure and rate cycle uncertainty",
+  "source": "Economic Times BFSI",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loans for properties above Rs 75 lakh surge in four years; check which bank is offering cheapest home",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Madhabi Puri Buch: Allegations mount against India market regulator",
+  "source": "BBC",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone 15 is available for just Rs 34,350 on Amazon before iPhone 16 launch; check bank offer and e",
+  "source": "The Times of India",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC vs Axis vs ICICI: Which Bank Offers Best Fixed Deposit Rates? Check Here",
+  "source": "Times Now",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Future of Banking: How Technology is Driving Change",
+  "source": "Nasscom",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amid Emergency controversy, Kangana Ranaut sells her controversial Pali Hill bungalow for Rs 32 crore: report",
+  "source": "The Indian Express",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis, ICICI, SBI, BOB, Bandhan, HDFC Bank: Nomura\u2019s top rate cut picks, share price targets",
+  "source": "Business Today",
+  "published_utc": "2024-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank vs ICICI Bank | New fixed deposit interest rates compared: Which is better?",
+  "source": "CNBC TV18",
+  "published_utc": "2024-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank stake sale stuck as RBI doesn\u2019t want to let management into foreign hands",
+  "source": "The New Indian Express",
+  "published_utc": "2024-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC to Sell Loans Worth Rs 84 Billion to International Banks Including JP Morgan, Barclays",
+  "source": "Outlook Business",
+  "published_utc": "2024-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank in talks with several global banks to offload $1 billion in loans",
+  "source": "The Times of India",
+  "published_utc": "2024-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Bharti Airtel and 3 more: Axis Direct recommends buying 5 stocks for 5-15 days | Check targets, stop losses",
+  "source": "Zee Business",
+  "published_utc": "2024-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone 16 series to go on pre-order today: Price, bank discount, how to book and all other details",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-09-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank's stake sale runs into RBI hurdle",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI Chief Madhabi Buch, Husband Deny Allegations; Issue 3 Key Clarifications",
+  "source": "TimelineDaily",
+  "published_utc": "2024-09-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 16 series goes on pre-order: How much discount and cashback you will get at Amazon, Flipkart, Appl",
+  "source": "The Times of India",
+  "published_utc": "2024-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Get 8.05% interest on these RBI bonds: How to buy RBI Floating Rate Savings Bonds online, offline",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u200bLarsen & Toubro\u200b - TIME's Indian companies on World's Best 2024 List: Top picks revealed",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus 12 Expected To Feature A Powerful Processor, Improved Camera Capabilities",
+  "source": "Times Bull",
+  "published_utc": "2024-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best Credit Card Offers to buy Apple Products in India",
+  "source": "Live From A Lounge",
+  "published_utc": "2024-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Want to cancel your Netflix subscription? Try it on SiHub, a cool hack all should know!",
+  "source": "Livemint",
+  "published_utc": "2024-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bharti Airtel, TCS, HUL, 2 other blue-chip firms gain Rs 1.5 lakh crore in mcap in a week",
+  "source": "Zee Business",
+  "published_utc": "2024-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank warns customers; says these are signs of 'fraud attempt'",
+  "source": "The Times of India",
+  "published_utc": "2024-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank issues advisory for customers, highlights signs of potential \u2018fraud attempts\u2019",
+  "source": "India.com",
+  "published_utc": "2024-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's market cap tops Rs 9 trillion; stock hits new high",
+  "source": "Business Standard",
+  "published_utc": "2024-09-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank stock hits record high, market cap crosses \u20b99 lakh crore for first time; What's driving the rally?",
+  "source": "Livemint",
+  "published_utc": "2024-09-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI dy manager held for links with cyber fraudsters; 18th banker to be arrested this yr",
+  "source": "The Times of India",
+  "published_utc": "2024-09-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank\u2019s deputy manager held in cyber fraud case",
+  "source": "The Financial World",
+  "published_utc": "2024-09-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Up to 8.5% FD rate: SBI vs HDFC Bank vs ICICI Bank vs Canara Bank vs PNB latest fixed deposit interest rates September 2024",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HEG, Graphite India soar up to 12.5% today; here's what's driving the rally",
+  "source": "Business Standard",
+  "published_utc": "2024-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPS Vatsalya opens! ICICI Bank, Axis Bank launch scheme \u2013 Know eligibility, minimum contribution and more",
+  "source": "The Financial Express",
+  "published_utc": "2024-09-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Man from West Bengal held for \u20b95.27 crore fraud",
+  "source": "The Hindu",
+  "published_utc": "2024-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves re-appointment of V Vaidyanathan as IDFC First Bank's MD & CEO",
+  "source": "Business Standard",
+  "published_utc": "2024-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPS Vatsalya: Your child can get more than Rs 10 crore on retirement if you put Rs 10,000 a year till he i",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches NPS Vatsalya pension account for minors; key features, other details to kow",
+  "source": "Zee Business",
+  "published_utc": "2024-09-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex ends 1,400 points higher, Nifty above 25,800; ICICI Bank jumps 5%",
+  "source": "India Today",
+  "published_utc": "2024-09-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC, ICICI, PNB, UCO, Axis \u092f\u093e \u0915\u094b\u0908 \u0914\u0930 Bank? \u091c\u093e\u0928\u0947\u0902 \u0915\u094c\u0928 \u0926\u0947 \u0930\u0939\u093e \u0938\u092c\u0938\u0947 \u0938\u0938\u094d\u0924\u093e Car Loan",
+  "source": "India TV Hindi",
+  "published_utc": "2024-09-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Earn up to 8.50% FD rate: SBI, HDFC Bank, ICICI Bank, Canara Bank, PNB, Yes Bank latest FD interest rates",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to invest in NPS Vatsalya: 6 banks that have launched NPS Vatsalya, a pension scheme for minors",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank HPCL Super Saver Credit Card - Top 9 fuel credit cards in India September 2024",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank May Have Emerged From The Shadows Of Its Rescuer Banks",
+  "source": "NDTV Profit",
+  "published_utc": "2024-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDFC First Bank Limited Launched \u2018Ashva\u2019 & \u2018Mayura\u2019 credit cards",
+  "source": "AffairsCloud",
+  "published_utc": "2024-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dreamfolks fixes IT Issues; card-based lounge access resumes across Indian airports",
+  "source": "Live From A Lounge",
+  "published_utc": "2024-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Debit and credit card changes to take place in October",
+  "source": "CNBC TV18",
+  "published_utc": "2024-09-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flyers denied airport lounge access, issue sorted in evening",
+  "source": "The Times of India",
+  "published_utc": "2024-09-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest daily cash deposit limit at ATMs: SBI, HDFC Bank, Bank of Baroda, Union Bank of India, PNB",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State Consumer Commission order helps credit card holders in getting compensation",
+  "source": "Deccan Chronicle",
+  "published_utc": "2024-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex Closes At All-Time High, Nifty Above 26,000 For First Time",
+  "source": "Zee News",
+  "published_utc": "2024-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLAT gives go-ahead to IECCL resolution, delinks with other IL&FS cos",
+  "source": "Business Standard",
+  "published_utc": "2024-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How employee attrition rates declined at India's leading private banks",
+  "source": "ETHRWorld.com",
+  "published_utc": "2024-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MakeMyTrip Partners with 10 Leading Airlines and ICICI Bank to Boost International Business Class Travel",
+  "source": "Passionate In Marketing",
+  "published_utc": "2024-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sees gross credit loss of 4.4% in credit card portfolio in FY24: Macquarie",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 16 Deal From ICICI Bank: Offer allows one to buy iPhone 16 by paying Rs 2,497 on interest-free 2-year EMI; cashbacks available for Apple watches and AirPods",
+  "source": "Zee Business",
+  "published_utc": "2024-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to Buy Bitcoin In India 2024.",
+  "source": "Binance",
+  "published_utc": "2024-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDFC FIRST Bank Announces Successful Completion of Merger With IDFC Limited",
+  "source": "Times Now",
+  "published_utc": "2024-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Masterstroke by ICICI Bank, now buy Apple iPhone 16 for just Rs 2497, no interest for....",
+  "source": "India.com",
+  "published_utc": "2024-09-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 16 and iPhone 16 Pro Max on sale with big discount, offers valid for limited period",
+  "source": "India Today",
+  "published_utc": "2024-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State Consumer Commission orders ICICI to compensate man for unauthorised credit card transactions, pay punitive damages",
+  "source": "The Hindu",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian lender IDFC First Bank completes merger with IDFC",
+  "source": "NS Banking",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

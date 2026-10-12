@@ -1,0 +1,659 @@
+[
+ {
+  "title": "PSBs clock higher failure rates for UPI payments",
+  "source": "The Economic Times",
+  "published_utc": "2024-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai: ICICI Prudential AMC Purchases Commercial Office Space Worth \u20b9315 Crore At Kalpataru Infinia In",
+  "source": "Free Press Journal",
+  "published_utc": "2024-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank and Axis Bank revise their FD interest rates. Check latest rates here",
+  "source": "Livemint",
+  "published_utc": "2024-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest FD rates up to 8.75%: Which banks have revised fixed deposit interest rates effective July 1, 2024",
+  "source": "The Times of India",
+  "published_utc": "2024-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches premium forex card for students with joining benefits up to \u20b915,000",
+  "source": "CNBC TV18",
+  "published_utc": "2024-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Launches Student Sapphiro Forex Card For Indians Studying Abroad: Check Features, How To Apply",
+  "source": "News18",
+  "published_utc": "2024-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Say no to medical bill shock! This health plan offers infinite claim amount",
+  "source": "Business Standard",
+  "published_utc": "2024-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon's 'Prime Day' sale in India dates out. Check bank offers and deals here",
+  "source": "CNBC TV18",
+  "published_utc": "2024-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Revised Fixed Deposit Rates for BOI, Punjab & Sindh, Axis, ICICI banks effective July 2024",
+  "source": "Zee Business",
+  "published_utc": "2024-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank rolls out Student Sapphiro Forex Card for Indian students",
+  "source": "IBS Intelligence",
+  "published_utc": "2024-07-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JNAC Deputy Municipal Commissioner directs Jamshedpur banks to Expedite PMAY Home Loans",
+  "source": "The Avenue Mail",
+  "published_utc": "2024-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rate up to 8.75%: These 5 banks have revised fixed deposit rates with effect from July 1",
+  "source": "The Economic Times",
+  "published_utc": "2024-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Prime Day Sale 2024 in India: Dates, bank offers, likely discounts and other details",
+  "source": "The Times of India",
+  "published_utc": "2024-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deduction Of Instalments After Loan Settlement, Shimla District Commission Holds ICICI Bank Liable",
+  "source": "Live Law",
+  "published_utc": "2024-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches premium forex card for students studying abroad",
+  "source": "Banking Frontiers",
+  "published_utc": "2024-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New credit card rules: HDFC Bank, Axis Bank, other banks customers cannot make credit card bill payments u",
+  "source": "The Economic Times",
+  "published_utc": "2024-07-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi 14 is available for Rs 26,999 only; check bank offers and exchange deal",
+  "source": "The Times of India",
+  "published_utc": "2024-07-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Highest FD rates: A comparison of Axis Bank, Bank of India, Ujjivan Small Finance Bank",
+  "source": "News9live",
+  "published_utc": "2024-07-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, ICICI Bank, SBI and other Indian banks are rising on global stage. but investors are yet to join the party",
+  "source": "Livemint",
+  "published_utc": "2024-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2 complimentary international airport lounge access in this newly launched card for foreign students",
+  "source": "The Financial Express",
+  "published_utc": "2024-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s Mr Dependable",
+  "source": "Fortune India",
+  "published_utc": "2024-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates: 6 banks offer highest returns on their 3-year fixed deposits",
+  "source": "Livemint",
+  "published_utc": "2024-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q1 Net Profit seen up 10% YoY to Rs. 10,611.7 cr: Prabhudas Lilladher",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank officials held for cyber fraud in Gurugram",
+  "source": "ET CISO",
+  "published_utc": "2024-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank share price outperforms Sensex in the last 1 year. Is there more steam left?",
+  "source": "Livemint",
+  "published_utc": "2024-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Merger of 4 PSU banks",
+  "source": "ICICI Direct",
+  "published_utc": "2024-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Savings account interest rate up to 7.25%: Post office savings account vs SBI, HDFC Bank, ICICI Bank, PNB,",
+  "source": "The Economic Times",
+  "published_utc": "2024-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI allows resident Indians to open dollar accounts in Gift City. What this means for you",
+  "source": "Livemint",
+  "published_utc": "2024-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to download Form 16A from the TRACES website, SBI, HDFC Bank, ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2024-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities Delisting: Minority Shareholders Raise Concerns over Transparency, Fairness and Non-compliance",
+  "source": "Moneylife",
+  "published_utc": "2024-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Raymond Demerger: Gautam Singhania as MD? Lifestyle entity ropes in top honchos from HCL Tech, ICICI Bank, Abbott",
+  "source": "ET Now",
+  "published_utc": "2024-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Bank appoints ICICI veteran Pranav Mishra to lead new distribution strategy",
+  "source": "The Times of India",
+  "published_utc": "2024-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLT holds GVK Power and Infra bankrupt, admits insolvency petition by ICICI Bank",
+  "source": "Bar and Bench",
+  "published_utc": "2024-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to obtain Form 16A: Your guide to downloading TDS certificates",
+  "source": "Business Standard",
+  "published_utc": "2024-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank Announces New Distribution Structure to Enhance Customer Experience ; Pranav Mishra joins as Head of Distribution",
+  "source": "Odisha Diary",
+  "published_utc": "2024-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank raises Rs 10,000 crore through infra bonds at 7.40% coupon",
+  "source": "The Economic Times",
+  "published_utc": "2024-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GVK Power and Infrastructure faces insolvency proceedings on loan default",
+  "source": "Business Standard",
+  "published_utc": "2024-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BOS Hires Half Dozen Bankers in Dubai",
+  "source": "finews.asia",
+  "published_utc": "2024-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loan default: NCLT declares GVK power & infra bankrupt",
+  "source": "The Times of India",
+  "published_utc": "2024-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 18K crore loan default: NCLT declares GVK PIL bankrupt",
+  "source": "The Siasat Daily",
+  "published_utc": "2024-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank stock likely to gain nearly 40%, believes ICICI Securities \u2014 here\u2019s why",
+  "source": "Livemint",
+  "published_utc": "2024-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is ICICI Bank Calculating Higher Charges on Late Payment for Credit Card Dues?",
+  "source": "Moneylife",
+  "published_utc": "2024-07-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank locker charges 2024: Bank locker fees of major banks including SBI, PNB, HDFC and ICICI, check here",
+  "source": "informalnewz",
+  "published_utc": "2024-07-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Sale: This OnePlus smartphone has dropped below Rs 20,000, Here's how to get the deal",
+  "source": "The Times of India",
+  "published_utc": "2024-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon sale: Deals and discounts available on OnePlus smartphones, smartwatch, earbuds and more",
+  "source": "The Times of India",
+  "published_utc": "2024-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SAIL Signs MoU with five Indian Banks to facilitate its employees to get loans",
+  "source": "News Riveting",
+  "published_utc": "2024-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meghna Gupta joins National Securities Depository as CHRO",
+  "source": "ETHRWorld.com",
+  "published_utc": "2024-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank opens a branch at Bol village in Sanand",
+  "source": "DeshGujarat",
+  "published_utc": "2024-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank Q1 FY25 results: Net profit up 2% due to higher provisions",
+  "source": "Business Standard",
+  "published_utc": "2024-07-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Deposit Rates SBI Vs HDFC Vs ICICI Vs PNB And More --Check Interest Rate Comparison",
+  "source": "Zee News",
+  "published_utc": "2024-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q1 results: Net profit grows 14.62%, interest income up 17%, gross NPAs fall 9.75%, net interest margin falls | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2024-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank infuses Rs 500 crore in home finance subsidiary, says ED",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ICICI Bank beats Q1 profit view on strong loan growth",
+  "source": "Reuters",
+  "published_utc": "2024-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s Profit Beats Estimates on Strong Loan Growth",
+  "source": "Bloomberg.com",
+  "published_utc": "2024-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q1 FY25: Net profit up by almost 15% to Rs 11,059 cr, asset quality improves",
+  "source": "Business Today",
+  "published_utc": "2024-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Q1 results today: ICICI Bank, Dr Reddy's among 34 companies to announce earnings on Saturday",
+  "source": "The Economic Times",
+  "published_utc": "2024-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 dupe event manager, friends of 1.52cr in gold loan fraud",
+  "source": "The Times of India",
+  "published_utc": "2024-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank has posted a net profit growth of 14.6 pc, NII up by 7.3 pc",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2024-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q1 Results: Earns Net Profit Of Rs 11,059 Crore, Up By 15% YoY; NII Up 7%",
+  "source": "Goodreturns",
+  "published_utc": "2024-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank expects its LCR to fall by 10-14 percentage points due to new norms",
+  "source": "Livemint",
+  "published_utc": "2024-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank share price rises after strong Q1 results. Should you buy, sell or hold the largecap banking stock?",
+  "source": "Livemint",
+  "published_utc": "2024-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank share price target: Stock should re-rate post Q1, say analysts",
+  "source": "Business Standard",
+  "published_utc": "2024-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank is going strong, but proposed LCR norms pose risk for sector",
+  "source": "Livemint",
+  "published_utc": "2024-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank stock up 2% after strong Q1 results. Should you buy, sell or hold?",
+  "source": "Hindustan Times",
+  "published_utc": "2024-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3 reasons why ICICI Bank stock may outperform peers; share price targets & more",
+  "source": "Business Today",
+  "published_utc": "2024-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank jumps over 2% on robust other income- Brokerages see over 10% from Friday\u2019s close of Rs 1,207.20",
+  "source": "The Financial Express",
+  "published_utc": "2024-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to make nearly Rs 55000 through this high ICICI Bank FD interest rate",
+  "source": "News9live",
+  "published_utc": "2024-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to change lounge access rules for these 19 debit cards from Oct 1",
+  "source": "CNBC TV18",
+  "published_utc": "2024-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Revises Airport Lounge Access Rules For Select Debit Cards From October 1; Check Features",
+  "source": "Goodreturns",
+  "published_utc": "2024-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, ICICI Bank revise FD rates. How they compare with SBI, Axis Bank. Latest fixed deposit rates of these banks",
+  "source": "Livemint",
+  "published_utc": "2024-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs ICICI Bank vs Axis Bank: Which private bank stock should you buy after Q1 results?",
+  "source": "Livemint",
+  "published_utc": "2024-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities Delisting Saga Escalates: Investor Challenges SEBI's Exemption in Bombay HC",
+  "source": "Moneylife",
+  "published_utc": "2024-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus Nord 4 and Pad 2 to go on open sale starting next month: Price, offers and more",
+  "source": "The Times of India",
+  "published_utc": "2024-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

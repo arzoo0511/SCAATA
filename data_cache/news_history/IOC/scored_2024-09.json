@@ -1,0 +1,551 @@
+[
+ {
+  "title": "Union Minister Hardeep Puri wishes Indian Oil on 65th establishment day",
+  "source": "ThePrint",
+  "published_utc": "2024-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "V. Satish Kumar, Director (Marketing), Takes Additional Charge As Chairman Of IndianOil",
+  "source": "Sarkaritel.com",
+  "published_utc": "2024-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Minister Hardeep Puri acknowledges \u2018extraordinary contributions\u2019 of Indian Oil on its 65th anniversary",
+  "source": "The Statesman",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "V. Satish Kumar takes additional Charge as Chairman of IndianOil",
+  "source": "Indian Chemical News",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "V Satish Kumar takes charge as IOC chairman with additional responsibilities",
+  "source": "ET Auto",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Director Marketing assumes additional charge as Chairman",
+  "source": "PSU Watch",
+  "published_utc": "2024-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil for India",
+  "source": "The National Bureau of Asian Research",
+  "published_utc": "2024-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "V Satish Kumar Takes Additional Charge as Indian Oil Chairman",
+  "source": "APAC Media",
+  "published_utc": "2024-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil achieved 0.73 pc biodiesel blending, 23.24 cr litres of biodiesel blended",
+  "source": "ET EnergyWorld",
+  "published_utc": "2024-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil hits impressive biodiesel blending ratio, sets new benchmark by blending 23.24 crore litres of",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil achieves an average blending of 0.5 per cent of biodiesel in diesel in 2023-24",
+  "source": "BioEnergy Times",
+  "published_utc": "2024-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shortage of Indian oil sardines affects Kerala coast fishermen",
+  "source": "BusinessLine",
+  "published_utc": "2024-09-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil Stocks to Buy: Brokerage maintains 'buy' call on IOCL, BPCL - Check share price target by UBS",
+  "source": "Zee Business",
+  "published_utc": "2024-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha: Thieves drill hole in IOCL pipeline, steal oil",
+  "source": "The New Indian Express",
+  "published_utc": "2024-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crude calculations: How cheaper Venezuelan oil flows will help India",
+  "source": "Business Standard",
+  "published_utc": "2024-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADNOC to supply Indian Oil with LNG for 15 years",
+  "source": "Reuters",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to get 1 MMT LNG from ADNOC per annum for 15 years",
+  "source": "PSU Watch",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBL Bank aims to grow in credit cards, launches offering with Indian Oil",
+  "source": "Business Standard",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained | The Importance Of India\u2019s Strategic Oil Reserves",
+  "source": "ETV Bharat",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Goa aims to boost piped gas adoption with new targets",
+  "source": "The Times of India",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL pipeline: Miscreants drill hole, steal hundreds of liter of oil in Odisha",
+  "source": "OdishaTv",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best Petrol brand in India: Mileage test results of different brands",
+  "source": "Asianet Newsable",
+  "published_utc": "2024-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADNOC Signs 15-Year LNG Supply Deal with Indian Oil",
+  "source": "Offshore Engineer Magazine",
+  "published_utc": "2024-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UAE looks to expand crude storage at Indian Strategic Petroleum Reserves",
+  "source": "S&P Global",
+  "published_utc": "2024-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Smallcap stock jumps 6% after receiving work order worth \u20b9 58 Cr from Indian Oil Corporation",
+  "source": "Trade Brains",
+  "published_utc": "2024-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Abu Dhabi awards onshore block rights to BPCL, Indian Oil JV",
+  "source": "The Hindu",
+  "published_utc": "2024-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADNOC Inks Agreement to Supply LNG to Indian Oil",
+  "source": "Rigzone",
+  "published_utc": "2024-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU oil majors power up EV revolution with charging network expansion in FY24",
+  "source": "BusinessLine",
+  "published_utc": "2024-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADNOC to Supply India with 1 MMTPA of LNG for 15 Years",
+  "source": "Egypt Oil & Gas",
+  "published_utc": "2024-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Abu Dhabi gives onshore block production license to India's IOC-BPCL JV",
+  "source": "Reuters",
+  "published_utc": "2024-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to Provide Monthly Scholarships and Medical Insurance for Para-Athletes: Petroleum Secretary Pankaj Jain",
+  "source": "PIB",
+  "published_utc": "2024-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian JV gains full production rights in Abu Dhabi\u2019s onshore block",
+  "source": "Offshore Technology",
+  "published_utc": "2024-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who says Indian stocks don\u2019t pay big dividends? These four blue chips yield more than 4%.",
+  "source": "Livemint",
+  "published_utc": "2024-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Abu Dhabi awards consortium of two Indian oil companies production rights in Ruwais area",
+  "source": "Gulf News",
+  "published_utc": "2024-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil felicitates Indian Para Athletes for historic feat at Paris 2024",
+  "source": "PSU Watch",
+  "published_utc": "2024-09-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL Vs BPCL Vs IOCL: Bonus, Dividend; Which Maharatna PSU Oil Stock To Buy If Petrol, Diesel Prices Are Cut?",
+  "source": "Goodreturns",
+  "published_utc": "2024-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Court U/S. 11(6) A&C Act Is Only Entitled To Examine Existence Of Arbitration Agreement And Timely Filing ...",
+  "source": "Verdictum",
+  "published_utc": "2024-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil taps Univation for major unit at Paradip petrochemical project",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2024-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil PSUs\u2019 dividends stuck in Russia swell to around $900 million as repatriation efforts flounder",
+  "source": "The Indian Express",
+  "published_utc": "2024-09-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Press Release Distribution India",
+  "source": "Business Wire India",
+  "published_utc": "2024-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why governments are loath to cut fuel prices",
+  "source": "Livemint",
+  "published_utc": "2024-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is Oil & Gas Sector a case of Have Money will Travel",
+  "source": "NewsIP",
+  "published_utc": "2024-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Non Executive Exam Date 2024 and Result Out for 467 Vacancies",
+  "source": "Career Power",
+  "published_utc": "2024-09-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court directs Indian Oil Corporation to hand over possession of disputed property to landowner | SCC Times",
+  "source": "SCC Online",
+  "published_utc": "2024-09-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Price Cut Before Maha Elections? Oil Official Comments",
+  "source": "Rediff MoneyWiz",
+  "published_utc": "2024-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil India to start production from Gabon block next fiscal",
+  "source": "Livemint",
+  "published_utc": "2024-09-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil\u2019s mascot Rhino leads the charge for conservation this World Rhino Day",
+  "source": "Social Samosa",
+  "published_utc": "2024-09-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank HPCL Super Saver Credit Card - Top 9 fuel credit cards in India September 2024",
+  "source": "The Economic Times",
+  "published_utc": "2024-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Challenge for oil PSUs: How to get $900 million dividends out of Russia",
+  "source": "The Indian Express",
+  "published_utc": "2024-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Clean Slate: The Interface Between Arbitration and Insolvency Processes in India",
+  "source": "Wolters Kluwer",
+  "published_utc": "2024-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation withdraws Rs 22,000 crore rights issue",
+  "source": "India Today",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After board meeting, Indian Oil withdraws Rs 22,000 crore rights issue",
+  "source": "Business Standard",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil withdraws proposed rights issue of equity shares worth Rs 22,000 crore",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Withdraws Proposed Rs 22,000 Crore Rights Issue",
+  "source": "Sarkaritel.com",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp withdraws $2.6 bln rights issue",
+  "source": "Reuters",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation withdraws proposed \u20b922,000 crore rights issue",
+  "source": "Upstox",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Limited Invites Applications For Recruitment Of Experienced Law Officers",
+  "source": "Verdictum",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SATAT scheme completes six years on Oct 1: All about the initiative for India\u2019s biogas push",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, HPCL, BPCL raking in big gains from petrol, diesel! Making THIS MUCH profit per litre",
+  "source": "ET Now",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation withdraws Rs 22000 crore rights issue | Know why",
+  "source": "News9live",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Withdraws Proposed Rights Issue Of Rs 22,000 Crore",
+  "source": "NDTV Profit",
+  "published_utc": "2024-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,767 @@
+[
+ {
+  "title": "Diplomatic tension unlikely to impact IndianOil\u2019s Canada gas assets",
+  "source": "Livemint",
+  "published_utc": "2024-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India buying cheap Russian oil, but no relief to buyers at home: TMC MP",
+  "source": "The Indian Express",
+  "published_utc": "2024-11-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2024: Apply Online for 240 Graduate and Technician Diploma Apprentice Posts, Check Eligibility",
+  "source": "Jagran Josh",
+  "published_utc": "2024-11-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why IOC Share Price is Falling",
+  "source": "Equitymaster",
+  "published_utc": "2024-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL joins hands with TTD to build biogas plant in Tirumala",
+  "source": "The Hindu",
+  "published_utc": "2024-11-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil starts sales promotion scheme at Kisan Sewa Kendra",
+  "source": "PSU Watch",
+  "published_utc": "2024-11-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Power and Indian Oil Corporation Collaborate to Deploy 500+ Fast and Ultra-Fast EV Charging Points across India",
+  "source": "Tata Power",
+  "published_utc": "2024-11-08T00:17:36+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Volkswagen Polo With 45 Liter Fuel Tank Filled With 53 Liters Of Fuel: Here\u2019s How!",
+  "source": "Cartoq",
+  "published_utc": "2024-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Blast triggers fire at Indian Oil Corporation refinery in Gujarat\u2019s Vadodara; rescue operations on",
+  "source": "The Hindu",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire at Indian Oil refinery kills 1, injures 2, police official says",
+  "source": "Reuters",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Massive fire breaks out at Indian Oil Corporation's Gujarat refinery",
+  "source": "Business Today",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Huge Explosion At Indian Oil Refinery Shakes Homes In Gujarat's Vadodara",
+  "source": "NDTV",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BREAKING: Massive Explosion Rocks Indian Oil Refinery in Gujarat",
+  "source": "ChemAnalyst",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explosion in Indian Oil Corporation's factory in Vadodara | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil says fire at Gujarat refinery now fully extinguished",
+  "source": "Deccan Herald",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil says Gujarat refinery ops normal after benzene tank fire, no casualties",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Massive Fire Breaks Out At Indian Oil Refinery In Vadodara; No Casualties",
+  "source": "Outlook India",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Massive explosion, fire at IOCL refinery in Vadodara claims one life",
+  "source": "The Times of India",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "1 dead in huge blast at Indian Oil Corporation's refinery in Vadodara",
+  "source": "India Today",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil says fire at refinery fully extinguished, death toll climbs to two",
+  "source": "Reuters",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Video | Huge Explosion At Indian Oil Refinery Shakes Homes In Gujarat's Vadodara",
+  "source": "NDTV",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Massive fire breaks out at Indian Oil\u2019s Vadodara refinery in Gujarat",
+  "source": "PSU Watch",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp says Gujarat refinery ops normal after benzene tank fire",
+  "source": "Reuters",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One dead as massive fire breaks out at Gujarat oil refinery",
+  "source": "The Indian Express",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Blast in storage tank causes fire at IOCL Vadodara refinery; 1 dies",
+  "source": "Business Standard",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Massive blast at Indian Oil refinery shakes homes Vadodara",
+  "source": "Madhyamam",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explosion at Indian Oil Corporation facility in Vadodara",
+  "source": "Mathrubhumi English",
+  "published_utc": "2024-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil aims to finish expansion of Panipat, Gujarat, Barauni refineries by Dec 2025",
+  "source": "Reuters",
+  "published_utc": "2024-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Blast at Indian Oil Corporation\u2019s Gujarat refinery in Vadodara",
+  "source": "The Times of India",
+  "published_utc": "2024-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire at Indian Oil Corp's Mathura refinery injures eight",
+  "source": "Reuters",
+  "published_utc": "2024-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gujarat refinery fire: Kin launch protest demanding information on 2 deceased workers",
+  "source": "The Indian Express",
+  "published_utc": "2024-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vadodara IOCL refinery blast: Death toll rises to two",
+  "source": "The New Indian Express",
+  "published_utc": "2024-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Massive blast rocks Indian Oil Corporation refinery in Vadodara; one dead, two injured | Video",
+  "source": "Livemint",
+  "published_utc": "2024-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire at Vadodara IOCL refinery: Death toll rises to 2",
+  "source": "The Economic Times",
+  "published_utc": "2024-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At least 12 injured in explosion at Mathura refinery of Indian Oil Corporation",
+  "source": "Telangana Today",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvindar Singh Sahney will be new chairman of Indian Oil Corporation",
+  "source": "Business Standard",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire at Indian Oil Corp's Mathura refinery, eight injured",
+  "source": "The Hindu",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvindar Singh Sahney appointed as new chairman of Indian Oil Corporation",
+  "source": "ET EnergyWorld",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvinder Singh Sahney is new chairman of Indian Oil",
+  "source": "The Hindu",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvinder Singh Sahney takes charge as Indian Oil chairman",
+  "source": "Deccan Herald",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvinder Singh Sahney to be new IndianOil Chairman",
+  "source": "BusinessLine",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Blast at Indian Oil's Mathura refinery injures 8; fire now under control",
+  "source": "Business Standard",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvinder Singh Sahney appointed Indian Oil CMD",
+  "source": "Livemint",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Another fire incident reported at IOC\u2019s Mathura Refinery; 8 people injured",
+  "source": "PSU Watch",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At least 8 injured in explosion at Mathura refinery",
+  "source": "The Indian Express",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "As ACC appoints Arvindar Singh Sahney as IOC Chairman, Director (P&BD) spot opens up again",
+  "source": "PSU Watch",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iocl To Complete Expansion Of Its Refineries By December - PT Pulse",
+  "source": "Projects Today",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "8 injured in explosion at oil refinery in UP's Mathura",
+  "source": "The Times of India",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Welcomes Arvindar Singh Sahney as New Chairman",
+  "source": "Adda247",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Invites Tender for Development of New a Site Retail Outlet at Within 4 Km of Jakhalabandha Hospital - 2024_ERO_181847_1",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2024-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvinder Singh Sahney takes over as Chairman of Indian Oil",
+  "source": "PSU Watch",
+  "published_utc": "2024-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvinder Singh Sahney Appointed CMD of Indian Oil Corporation Ltd",
+  "source": "Elets eGov",
+  "published_utc": "2024-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Coast Guard conducts Regional-Level Pollution Response Exercise at Paradip",
+  "source": "PIB",
+  "published_utc": "2024-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government appoints Arvindar Singh Sahney as Chairman of Indian Oil Corporation (IOCL)",
+  "source": "APAC Media",
+  "published_utc": "2024-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can India become the next major oil refining hub?",
+  "source": "LinkedIn",
+  "published_utc": "2024-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvinder Singh Sahney Takes Charge As Chairman Of Indian Oil",
+  "source": "BW Marketing World",
+  "published_utc": "2024-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp appoints Arvinder Singh Sahney as chairman",
+  "source": "Business Today",
+  "published_utc": "2024-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GPS Renewables, Oil India form JV to set up 8 compressed biogas plants",
+  "source": "ET EnergyWorld",
+  "published_utc": "2024-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3 critical after Mathura refinery blast injures 8",
+  "source": "The Times of India",
+  "published_utc": "2024-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GPS Renewables Partners with OIL India to Set Up 8 Compressed Biogas Plants Across India",
+  "source": "Energetica India Magazine",
+  "published_utc": "2024-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvinder Singh Sahney Becomes Indian Oil Chairman",
+  "source": "GK Today",
+  "published_utc": "2024-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvindar Singh Sahney takes the helm as new Chairman of Indian Oil Corporation",
+  "source": "Manufacturing Today India",
+  "published_utc": "2024-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vadodara refinery partially closed after fire incident",
+  "source": "GujaratSamachar English",
+  "published_utc": "2024-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nigeria, Guyana visits: Stronger oil trade tops PM Narendra Modi's agenda",
+  "source": "Business Standard",
+  "published_utc": "2024-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Magisterial inquiry ordered into explosion, fire at IOCL refinery",
+  "source": "The Times of India",
+  "published_utc": "2024-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EKI Energy Services Receives Grants from Bill & Melinda Gates Foundation for Surya Nutan Project",
+  "source": "Energetica India Magazine",
+  "published_utc": "2024-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-official speaks out about alleged racism at Indian Oil and Gas Canada",
+  "source": "CBC",
+  "published_utc": "2024-11-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gilbarco Veeder-Root wins Indian submersible turbine pumps tender",
+  "source": "World Pumps",
+  "published_utc": "2024-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL, Vedanta, Coal India among 15 large-cap stocks with highest dividend yields. Do you own any?",
+  "source": "Livemint",
+  "published_utc": "2024-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Invites Tender for Development of New a Site Retail Outlet at New Ro at Within 2 Km from Rajgarh Chariali - 2024_ERO_181982_1",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2024-11-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Green Hydrogen Project Attracts Interest from Linde, Acme, Thermax",
+  "source": "Machine Maker",
+  "published_utc": "2024-11-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kashi cancer hospitals enhance treatment capacity with new radiation machine",
+  "source": "The Times of India",
+  "published_utc": "2024-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lawsuit claims oil and gas leasing process cheated Oklahoma tribal landowners",
+  "source": "KTUL",
+  "published_utc": "2024-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Masters Golf to kick off in Digboi today; Kapil Dev assures his participation in next season",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2024-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GPCB demands \u20b91 cr compensation for Vadodara refinery fire",
+  "source": "GujaratSamachar English",
+  "published_utc": "2024-11-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WFD 2024: MASS FISH KILL in Indian Rivers, Wetlands Continue\u2026",
+  "source": "South Asia Network on Dams, Rivers and People",
+  "published_utc": "2024-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Guyana: Why This Small South American Nation Has Become Important To India's Strategic Calculus",
+  "source": "Swarajya",
+  "published_utc": "2024-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Scope Of Examination U/S 34 A&C Act Doesn't Extend To Re-adjudication Of Disputes But To Consider If...",
+  "source": "Verdictum",
+  "published_utc": "2024-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's IOC keeps Iraq oil import agreement steady, eyes more Russian crude",
+  "source": "Reuters",
+  "published_utc": "2024-11-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil maintains oil agreement with Iraq",
+  "source": "India Infoline",
+  "published_utc": "2024-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra set to lose out on mega refinery, talks on with Gujarat & Andhra",
+  "source": "The Times of India",
+  "published_utc": "2024-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco Shifts Focus From Maharashtra, Plans Oil Refineries In Gujarat And Andhra Pradesh With ONGC And BPCL",
+  "source": "Swarajya",
+  "published_utc": "2024-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Future of Energy: How Indian Oil Plans to Adapt and Thrive",
+  "source": "EventFAQs",
+  "published_utc": "2024-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra loses out once again as Gujarat and Andhra gain Saudi-backed refinery projects",
+  "source": "Manufacturing Today India",
+  "published_utc": "2024-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Eyes Guyana: Modi\u2019s Visit Sparks Oil Deal Hopes (video)",
+  "source": "EnergiesNet",
+  "published_utc": "2024-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
