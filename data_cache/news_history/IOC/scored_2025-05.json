@@ -1,0 +1,677 @@
+[
+ {
+  "title": "Indian Oil signs five-year LNG deal with Trafigura",
+  "source": "Baird Maritime",
+  "published_utc": "2025-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation to award green hydrogen tender by mid-May",
+  "source": "Business Standard",
+  "published_utc": "2025-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation says not in talks for term crude import deal with Russia",
+  "source": "ET EnergyWorld",
+  "published_utc": "2025-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Airlines sign cheaper ATF deals with OMCs for 2025 as crude prices fall",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil\u2019s project SPRINT: A strategic transition to become future-ready",
+  "source": "BusinessLine",
+  "published_utc": "2025-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco likely to pick 20% each in new BPCL, ONGC refineries",
+  "source": "Business Standard",
+  "published_utc": "2025-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil shares may rise up to 49% after strong Q4 results; analysts raise earnings estimates",
+  "source": "CNBC TV18",
+  "published_utc": "2025-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Approves INR 1,086 Cr Equity Investment in Terra Clean to Develop 4.3 GW RE Projects",
+  "source": "Energetica India Magazine",
+  "published_utc": "2025-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC share price: Should you buy this PSU stock after Q4 results, dividend announcement?",
+  "source": "Livemint",
+  "published_utc": "2025-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Low Price PSU Stocks",
+  "source": "Alice Blue",
+  "published_utc": "2025-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest Rs 1,086 crore in Terra Clean for 4.3 GW renewable expansion",
+  "source": "Manufacturing Today India",
+  "published_utc": "2025-05-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Russian oil imports at 9-month high in April; uptick in US crude volumes",
+  "source": "The Indian Express",
+  "published_utc": "2025-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil`s sales volume, including exports, crosses 100 MMT for 1st time",
+  "source": "Investment Guru India",
+  "published_utc": "2025-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trincomalee Oil Tank Farm: Govt. moves to attract investors for energy hub",
+  "source": "The Morning",
+  "published_utc": "2025-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Green Hydrogen Strategy in Action: Policy Actions, Market Insights, and Global Opportunities",
+  "source": "Ifri - Institut fran\u00e7ais des relations internationales",
+  "published_utc": "2025-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crude prices may average $65-70/bbl in 2025, say analysts",
+  "source": "The Financial Express",
+  "published_utc": "2025-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sojitz Corporation invests in biomethane production in India with IOC GPS Renewables; IndusLaw advises",
+  "source": "ETLegalWorld.com",
+  "published_utc": "2025-05-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Accelerates Strategic Shift with Project SPRINT |",
+  "source": "Chemical Industry Digest",
+  "published_utc": "2025-05-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL, IOC to Asian Paints: Which stocks to buy as crude oil prices crash nearly 20% YTD?",
+  "source": "Livemint",
+  "published_utc": "2025-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Apprentice Recruitment 2025 Notification OUT for 1770 Posts across the country, Check Eligibility, Apply Online and More at iocl.com",
+  "source": "Jagranjosh.com",
+  "published_utc": "2025-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HC asks IOC to present plan for relocating bottling plant",
+  "source": "The Times of India",
+  "published_utc": "2025-05-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil assures public of fuel stocks amid rising tensions: No need for panic buying",
+  "source": "India Today",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No need for panic buying: Oil companies assure public of ample fuel stocks",
+  "source": "The Hindu",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\"Ample Stock\": Indian Oil's Assurance Amid Panic Buying Of Fuel",
+  "source": "NDTV",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ample petrol, diesel available at our outlets: Indian Oil",
+  "source": "The New Indian Express",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No need for panic buying: IOCL, BPCL assures public of ample fuel stocks",
+  "source": "Business Standard",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil reserves, crude tie-ups to ensure India\u2019s energy security amid rising border tensions",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u201cNo need for panic buying\u201d - Indian Oil & BPCL assure sufficient fuel stocks nationwide",
+  "source": "HT Auto",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel, vegetables, pulses in steady supply amid rising India-Pak tension",
+  "source": "Business Standard",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India-Pakistan: No shortage of petrol, diesel or LPG, say oil PSUs; urge public to avoid panic buying",
+  "source": "ET EnergyWorld",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC vs BPCL vs HPCL: Which oil PSU stock to buy after Q4 results, falling crude prices?",
+  "source": "Livemint",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No need for panic buying: Indian Oil assures ample fuel, LPG stock across country",
+  "source": "India TV News",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, BPCL Assures Ample Fuel Supply Amid Panic Buying in Border States",
+  "source": "PUNE PULSE",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Our Supply Lines Are Operating Smoothly': Indian Oil Says There Is No Need for Panic Buying as Fuel and",
+  "source": "LatestLY",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State-run fuel retailers assure ample supply amid rising tensions with Pakistan",
+  "source": "Livemint",
+  "published_utc": "2025-05-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol-Diesel Crisis Rumours: Indian Oil\u2019s Big Statement Amid Pakistan Tension, No Need to Panic Over Fuel",
+  "source": "Times Bull",
+  "published_utc": "2025-05-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Islamabad petrol pumps shut for 48 hours: Pakistan in panic mode over fuel shortage?",
+  "source": "The Financial Express",
+  "published_utc": "2025-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Bank and IOCL Sign MoU to Provide Channel Financing Solutions to Dealers",
+  "source": "Indianmasterminds",
+  "published_utc": "2025-05-10T08:45:01+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha eyes to become next petrochemical hub with plans to attract Rs 1.2 trillion investments in 10 years",
+  "source": "OdishaTv",
+  "published_utc": "2025-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CAM, IndusLaw act on Sojitz\u2019s USD400m India renewables stake",
+  "source": "Law.asia",
+  "published_utc": "2025-05-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JioStar signs three-year broadcast deal with Indian Oil's UTT",
+  "source": "Social Samosa",
+  "published_utc": "2025-05-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Director (Marketing): Shortlisting Underway",
+  "source": "Legend Officers",
+  "published_utc": "2025-05-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "L&T wins IndianOil\u2019s tender for 10ktpa green hydrogen plant at Panipat refinery",
+  "source": "pv magazine India",
+  "published_utc": "2025-05-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India approves more Russian insurers to provide marine cover",
+  "source": "Baird Maritime",
+  "published_utc": "2025-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Security tightened at Paradip port after ship arrives with 21 Pak crew",
+  "source": "Business Standard",
+  "published_utc": "2025-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pakistani crew on cargo ship barred from deboarding at Odisha\u2019s Paradip port",
+  "source": "India TV News",
+  "published_utc": "2025-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Paradip Port On High Alert After Arrival Of Tanker With 21 Pakistani Crew",
+  "source": "Marine Insight",
+  "published_utc": "2025-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Oil Imports Shift Away from OPEC",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2025-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "L&T Energy Secures Green Hydrogen Project for IOCL in Panipat",
+  "source": "Energetica India Magazine",
+  "published_utc": "2025-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Share Price Target 2026, 2027, 2030, 2040, 2050",
+  "source": "Share Price Target",
+  "published_utc": "2025-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will the oil refineries of Assam be able to face challenges and survive the upcoming decade?",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2025-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sujoy Choudhury appointed as Chief Strategy Officer of CMSL",
+  "source": "Indian Chemical News",
+  "published_utc": "2025-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL targets $1 trillion revenue by 2047, to enter data centres, nuclear power, battery and mining sectors",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL eyes $1 Trillion with bold green, tech expansion",
+  "source": "Manufacturing Today India",
+  "published_utc": "2025-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil regulator mandates LNG terminal registration, scraps carrier rule",
+  "source": "Business Standard",
+  "published_utc": "2025-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to invest $10 billion in homegrown oil tanker fleet by 2040",
+  "source": "Business Standard",
+  "published_utc": "2025-05-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ennore High Road throws open train of worries for commuters in Chennai",
+  "source": "The New Indian Express",
+  "published_utc": "2025-05-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oxy Oman and Oman Government Sign Agreement to Extend Block 53 Operations",
+  "source": "euro petrole",
+  "published_utc": "2025-05-20T11:49:24+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "39 CPSEs bags 'Excellent Rating' from DPE",
+  "source": "PSU Connect",
+  "published_utc": "2025-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to surpass China in oil demand growth over next decade: Moody's",
+  "source": "The Hindu",
+  "published_utc": "2025-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SwaRail app now live on Android: Book tickets, track trains, and more",
+  "source": "Business Standard",
+  "published_utc": "2025-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2025: Apply for 1770 Technician and Trade Apprentice posts by June 2",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICG and Haldia Dock Complex Conduct Marine Pollution Response Workshop to Strengthen Oil Spill Readiness",
+  "source": "PIB",
+  "published_utc": "2025-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICG, Haldia Dock Complex conduct marine pollution response workshop to strengthen oil spill readiness",
+  "source": "ANI News",
+  "published_utc": "2025-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal\u2019s export boom driven by edible oil re-exports raises trade manipulation concerns",
+  "source": "The Kathmandu Post",
+  "published_utc": "2025-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Oil Market Has a Bigger Problem Than a Slowing China \u2013 India",
+  "source": "Bloomberg.com",
+  "published_utc": "2025-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bihar native dupes man on pretext of helping open petrol pump, arrested",
+  "source": "The New Indian Express",
+  "published_utc": "2025-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How India's plan to build 112 crude oil tankers is a bold move for energy security, self-reliance",
+  "source": "India Today",
+  "published_utc": "2025-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC said to consider building ships locally for own use",
+  "source": "ET Infra",
+  "published_utc": "2025-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trade deals will bring opportunities for Indian agriculture. But there will also be challenges",
+  "source": "The Indian Express",
+  "published_utc": "2025-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai Petroleum Corporation gets govt nod for foray into retail marketing of petrol, diesel",
+  "source": "The Hindu",
+  "published_utc": "2025-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Steel ministry backs extension of import curbs on metallurgical coke",
+  "source": "Business Standard",
+  "published_utc": "2025-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank to levy new 1% fee on high fuel spends from June 1; check if your credit card is affec",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Sun Pharma Is Betting on New Drugs",
+  "source": "The Daily Brief by Zerodha",
+  "published_utc": "2025-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil IOCL Apprentice Recruitment 2025 - Apply Online for 1770 Posts Before June 02",
+  "source": "FreeJobAlert.Com",
+  "published_utc": "2025-05-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

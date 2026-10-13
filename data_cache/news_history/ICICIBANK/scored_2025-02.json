@@ -1,0 +1,605 @@
+[
+ {
+  "title": "Private Job: ICICI Bank announced vacancy for Relationship Manager post at MP location, salary up to 12 lakhs",
+  "source": "Bhaskar English",
+  "published_utc": "2025-02-01T06:52:28+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tailor among four arrested for credit card fraud of Rs 52.90 lakh in Odisha",
+  "source": "The New Indian Express",
+  "published_utc": "2025-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank holidays: Are banks closed today for Union Budget 2025? Check full list of month holidays here | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2025-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI 3-year FD Vs ICICI Bank 3-year FD: How much maturity you can get on Rs 1 lakh, Rs 3 lakh, and Rs 5 lakh investments?",
+  "source": "Zee Business",
+  "published_utc": "2025-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple Watch Series 10 available for Rs 22,380 on Amazon; check exchange deal and bank offer",
+  "source": "The Times of India",
+  "published_utc": "2025-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private Job: ICICI Bank releases vacancy for Relationship Manager in UP and Rajasthan locations; salary up ...",
+  "source": "Bhaskar English",
+  "published_utc": "2025-02-03T14:46:21+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gaurav Agarwal joins AuthBridge as Senior Vice President, BFSI Vertical",
+  "source": "ET Edge Insights",
+  "published_utc": "2025-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyderabad doctor conned of \u20b91.41 lakh while \u2018screen sharing\u2019",
+  "source": "The Hindu",
+  "published_utc": "2025-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Income-tax calculator: Fixed deposit interest up to \u20b912 lakh can be tax-free from FY 2025-26",
+  "source": "Upstox",
+  "published_utc": "2025-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 6 banks that make credit card balance transfers easy and affordable",
+  "source": "Livemint",
+  "published_utc": "2025-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank directed to pay compensation to customer",
+  "source": "The Hindu",
+  "published_utc": "2025-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Last chance to book fixed deposits (FDs) at these interest rates: Check latest rates offered by top 7 banks",
+  "source": "Livemint",
+  "published_utc": "2025-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi has \u2018adequate internal mechanisms\u2019 for addressing conflict of interest issues: Finance Ministry on allegations against Madhabi Puri Buch",
+  "source": "The Indian Express",
+  "published_utc": "2025-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Personal loan for NRIs: 10 best banks with competitive interest rates",
+  "source": "Livemint",
+  "published_utc": "2025-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Poco X7 Pro gets a sweet discount during Valentine's Day sale; now available at \u20b924,999",
+  "source": "Livemint",
+  "published_utc": "2025-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Want a higher ICICI credit card limit? Here\u2019s how to get it approved",
+  "source": "Livemint",
+  "published_utc": "2025-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to retain majority stake in ICICI Prudential Mutual fund",
+  "source": "Business Standard",
+  "published_utc": "2025-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Pru AMC plans IPO, UK promoter may sell Rs 10,000 crore stake",
+  "source": "The Economic Times",
+  "published_utc": "2025-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prudential Plc mulls listing of ICICI Prudential Asset Management Company",
+  "source": "Business Standard",
+  "published_utc": "2025-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prudential Plc weighs listing of ICICI Prudential Asset Management Company",
+  "source": "Livemint",
+  "published_utc": "2025-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CSR: ICICI Bank Installs Water-from-Air Units, Boosting Sustainability Efforts",
+  "source": "India CSR",
+  "published_utc": "2025-02-12T14:28:43+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prudential is said to hire Citigroup for $1 billion India IPO",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank share price in focus as Prudential considers listing of ICICI Prudential Mutual Fund",
+  "source": "Livemint",
+  "published_utc": "2025-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Court allows liquidator to carry out valuation, auction of Gitanjali Gems properties",
+  "source": "The Times of India",
+  "published_utc": "2025-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI, start-ups turn to Star Wars-style atmospheric generators to cut groundwater use. How they work",
+  "source": "ThePrint",
+  "published_utc": "2025-02-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB loan fraud: Court allows valuation, auction of unsecured properties of Mehul Choksi\u2019s Gitanjali Gems",
+  "source": "The Indian Express",
+  "published_utc": "2025-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Unpaid salaries, defaulted dues: How a cash crunch at AGS hit banks\u2019 ATM ops",
+  "source": "Livemint",
+  "published_utc": "2025-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Personal loan growth slows, but banks haven't given up on it",
+  "source": "Livemint",
+  "published_utc": "2025-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches iShop (offering accelerated rewards on Travel and Shopping Vouchers)",
+  "source": "Live From A Lounge",
+  "published_utc": "2025-02-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ransomware Hacked & Helpless",
+  "source": "The New Indian Express",
+  "published_utc": "2025-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Public Banks outpace private peers in expansion; SBI, Canara add most branches in Q3",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GSTN Enables GST Payments via ICICI Bank Debit/Credit Cards and Karur Vysya Bank UPI",
+  "source": "A2Z Taxcorp LLP",
+  "published_utc": "2025-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior Citizen FD Rates: Which bank offers you highest return on Rs 1 lakh deposit in 1-, 3-, and 5-year schemes? Check calculations",
+  "source": "Zee Business",
+  "published_utc": "2025-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI is said to weigh buying additional stake in Prudential JV",
+  "source": "The Economic Times",
+  "published_utc": "2025-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest car loan interest rates 2025: Check which bank is offering lowest car loan interest rates",
+  "source": "The Economic Times",
+  "published_utc": "2025-02-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank manager arrested for duping customers of Rs 45 lakh in Odisha",
+  "source": "The New Indian Express",
+  "published_utc": "2025-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KKR\u2019s InvIT Highways Infrastructure Trust raises Rs 8,250 cr debt from Axis Bank, HDFC Bank, ICICI Bank,...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-02-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates: THESE 6 banks offer up to 7.5 percent on their 1-year fixed deposits",
+  "source": "Livemint",
+  "published_utc": "2025-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Highest FD Rates: Know your maturity amount on Rs 4 lakh investment in 1-year, 3-year, 5-year tenures from banks like SBI, BoB, PNB, Canara Bank, HDFC Bank, and ICICI Bank",
+  "source": "Zee Business",
+  "published_utc": "2025-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 50 CMOs Driving Tech & Innovation in India\u2019s BFSI Sector",
+  "source": "Indian Startup Times",
+  "published_utc": "2025-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Pay ICICI Credit Card: Eligibility, documentation, and application process",
+  "source": "Livemint",
+  "published_utc": "2025-02-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Times Black ICICI Bank credit card and Atlys partner for making visa applications hassle-free for elite Indian traveler",
+  "source": "MediaBrief",
+  "published_utc": "2025-02-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Which bank personal loan is best? Compare across top banks",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Deposit rates for Rs 7 lakh investment: Compare SBI, PNB, HDFC, ICICI, and Post Office 5-year FD returns",
+  "source": "Zee Business",
+  "published_utc": "2025-02-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank named best large bank: BT-KPMG India\u2019s Best Banks & NBFCs 2023-24",
+  "source": "BMI",
+  "published_utc": "2025-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates: These 6 banks offer highest interest across these tenures. Check here",
+  "source": "Livemint",
+  "published_utc": "2025-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Premji Invest picks up shares of 9 companies for Rs 446 crore",
+  "source": "ET Infra",
+  "published_utc": "2025-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former ICICI Bank chief Chanda Kochhar launches podcast",
+  "source": "India Today",
+  "published_utc": "2025-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Times Black ICICI bank credit card partners with Atlys to make visa applications effortless for global tr",
+  "source": "The Times of India",
+  "published_utc": "2025-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Visa-fee waivers, hassle free travel with Times Black ICICI Bank Card",
+  "source": "Business Standard",
+  "published_utc": "2025-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Times Black ICICI Bank Credit Card partners with Atlys to simplify visa applications",
+  "source": "CNBC TV18",
+  "published_utc": "2025-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar makes comeback with a new role; launches podcast \u2018Journey Unscripted\u2019",
+  "source": "Business Today",
+  "published_utc": "2025-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card spending rises by 10.8% to Rs 1.84 trn in Jan 2025: RBI data",
+  "source": "Business Standard",
+  "published_utc": "2025-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Not my signature\u2019: Embattled tycoon BR Shetty vows to appeal $106 mn Dubai court award to ICICI Bank",
+  "source": "Livemint",
+  "published_utc": "2025-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JAMMU, FEBRUARY 24: Shri Sandeep Sharma, Zonal Head, J&K and Ladakh, ICICI Bank called on Lieutenant Governor Shri Manoj Sinha, today.",
+  "source": "Morning Kashmir",
+  "published_utc": "2025-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex Drops Below 75,000-mark; Nifty Tanks 188 Points On Weak US markets, Relentless FII Selling",
+  "source": "Zee News",
+  "published_utc": "2025-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai: Man Booked For Cheating Widow And Son Of \u20b945 Lakh In Fake Investment Scam",
+  "source": "Free Press Journal",
+  "published_utc": "2025-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD Interest Rate Offered By Top Indian Banks --From SBI To PNB And More; Check Latest Rates",
+  "source": "Zee News",
+  "published_utc": "2025-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Personal Loan Interest Rates Compared: SBI vs PNB vs HDFC vs Other Banks- Which One Will Offer Low EMI?",
+  "source": "Zee News",
+  "published_utc": "2025-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Higher than SCSS: 14 banks offering fixed deposits with over 8.2% interest rate for senior citizens",
+  "source": "Upstox",
+  "published_utc": "2025-02-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Centre appoints Tuhin Kanta Pandey as new SEBI chief: Finance Secretary to succeed controversial market reg...",
+  "source": "Bhaskar English",
+  "published_utc": "2025-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Robbers snatch \u20b95.36 lakh in daylight near ICICI Bank at Tapasya Chowk, Nagpur",
+  "source": "Nagpur Today",
+  "published_utc": "2025-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "AM Best affirms credit ratings of ICICI Lombard General Insurance",
+  "source": "Asia Insurance Post",
+  "published_utc": "2025-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Madhabi Puri Buch to hang up boots as SEBI chief after eventful 3-year tenure",
+  "source": "The Hindu",
+  "published_utc": "2025-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 Best Banks In India 2025",
+  "source": "Equitypandit",
+  "published_utc": "2025-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MSCI rebalancing takes effect today, driving $1 billion in passive flows; IndusInd Bank, Zomato, Hyundai...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Deposit Rates for Rs 10 lakh investment: Compare SBI Bank, HDFC Bank, ICICI Bank, PNB & post office 5-year FD returns",
+  "source": "Zee Business",
+  "published_utc": "2025-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

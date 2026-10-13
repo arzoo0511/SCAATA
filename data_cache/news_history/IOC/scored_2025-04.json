@@ -1,0 +1,938 @@
+[
+ {
+  "title": "India\u2019s OMCs now offer nearly 26,000 chargers",
+  "source": "electrive.com",
+  "published_utc": "2025-04-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ABB India delivers integrated automation and digital technology for India\u2019s largest pipeline network of IndianOil",
+  "source": "ABB",
+  "published_utc": "2025-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government's dividend receipts surge to Rs 74,016.68 crore in FY25, Coal India and ONGC lead payouts",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best Low Price Shares To Buy in 2025",
+  "source": "Alice Blue",
+  "published_utc": "2025-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OIL conducts large-scale disaster mock drill in Duliajan to test emergency preparedness",
+  "source": "Syllad",
+  "published_utc": "2025-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Indian Oil Explorer Taps Bank of India for $200 Million Loan",
+  "source": "Bloomberg",
+  "published_utc": "2025-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC unveils Project SPRINT to be future-ready",
+  "source": "ET EnergyWorld",
+  "published_utc": "2025-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pilot Scale Process Development for Generation of Pyrolysis Oil from Multifeed (Biomass, Tyre, Plastic) and its Co-Processing in Refinery and Valorization of Biochar with LCA and Techno-Economic Assessment (TERI-IOCL Collaboration under CHT-MoPNG",
+  "source": "TERI",
+  "published_utc": "2025-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ABB Digitizes IndianOil\u2019s 12,400-Mile Pipeline Network with Nationwide SCADA System",
+  "source": "Pipeline and Gas Journal",
+  "published_utc": "2025-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Unveils Project SPRINT to Drive Future-Ready Transformation",
+  "source": "Indianmasterminds",
+  "published_utc": "2025-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNGRB Proposes Indian Oil for Andaman & Nicobar Gas Infrastructure Development",
+  "source": "Indianmasterminds",
+  "published_utc": "2025-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dr. Alok Sharma Unveils Majestic Basanti Durga Puja Idol for Indian Oil Celebration",
+  "source": "The Impressive Times",
+  "published_utc": "2025-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches Project \u2018SPRINT\u2019 to Adapt to Changing Energy Landscape",
+  "source": "APAC Media",
+  "published_utc": "2025-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is tanker barred from India transferring its Russian oil at sea?",
+  "source": "Baird Maritime",
+  "published_utc": "2025-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russian Oil Stuck On India-Banned Ship Finds New Tanker",
+  "source": "gCaptain",
+  "published_utc": "2025-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Project SPRINT: Indian Oil launches initiative to Drive Future-Ready Transformation",
+  "source": "PSU Connect",
+  "published_utc": "2025-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Strategic Currents: Trilateral MoU Puts Trincomalee At The Heart Of Indian Ocean Energy Map",
+  "source": "ETV Bharat",
+  "published_utc": "2025-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Telangana HC grants interim stay on LPG customer transfer policy",
+  "source": "The New Indian Express",
+  "published_utc": "2025-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, UAE to develop Sri Lanka energy hub as Delhi competes with China for influence",
+  "source": "Reuters",
+  "published_utc": "2025-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Startup Mahakumbh 2025: MoPNG-Backed Startups To Accelerate India's Energy Transition",
+  "source": "ETV Bharat",
+  "published_utc": "2025-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, UAE, Sri Lanka sign MoU to develop energy hub in Trincomalee in pushback against China's influence",
+  "source": "The Times of India",
+  "published_utc": "2025-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil tanker captain wins Rs 8 cr in Dubai Duty Free draw",
+  "source": "The Siasat Daily",
+  "published_utc": "2025-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India not to raise petrol, diesel retail prices despite tax hike",
+  "source": "Reuters",
+  "published_utc": "2025-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt raises excise duty on petrol, diesel by Rs 2; no hike in retail prices amid global oil price crash",
+  "source": "DD News",
+  "published_utc": "2025-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt increases excise duty on petrol, diesel by Rs 2 per litre; consumers not to be hit",
+  "source": "The Economic Times",
+  "published_utc": "2025-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, UAE to Build Sri Lanka Energy Hub with Pipeline, Storage Infrastructure",
+  "source": "Pipeline and Gas Journal",
+  "published_utc": "2025-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp to build $7.1-B dual-feed cracker in Odisha state",
+  "source": "Hydrocarbon Processing",
+  "published_utc": "2025-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches Project SPRINT to Drive Future-Readiness",
+  "source": "Construction World",
+  "published_utc": "2025-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Ltd (IOC) - Top 10 PSUs that paid big in dividends, highest yield at 7%. Check full list",
+  "source": "The Economic Times",
+  "published_utc": "2025-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha, IOCL Ink \u20b961,000 Cr Deal For India\u2019s Largest Dual-Feed Petrochemical Plant",
+  "source": "ETV Bharat",
+  "published_utc": "2025-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil to set up petrochemicals complex at Paradip for Rs 61,077 crore, signs MoU",
+  "source": "ANI News",
+  "published_utc": "2025-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL (India) - Top 10 PSUs that paid big in dividends, highest yield at 7%. Check full list",
+  "source": "The Economic Times",
+  "published_utc": "2025-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil inks \u20b961,077-cr deal with Odisha for Paradip petrochemical complex",
+  "source": "Fortune India",
+  "published_utc": "2025-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Maharashtra stock rallies 5% as Q4 gross loans rise 18% YoY",
+  "source": "Business Standard",
+  "published_utc": "2025-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Price Today: Fuel Rates Updated In Delhi, Mumbai, Chennai, Bangalore, Hyderabad",
+  "source": "NDTV Profit",
+  "published_utc": "2025-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to inject \u20b961k Cr for petchem plan for Odisha",
+  "source": "Manufacturing Today India",
+  "published_utc": "2025-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to invest \u20b961,000 crore in mega petchem project in Odisha",
+  "source": "The Hindu",
+  "published_utc": "2025-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Which oil marketing company benefits the most from lower LPG losses?",
+  "source": "Livemint",
+  "published_utc": "2025-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL to invest Rs 61,077-cr in petrochemical complex at Paradip, Odisha",
+  "source": "Projects Today",
+  "published_utc": "2025-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha secures over Rs 1 lakh crore investment intent at Delhi roadshow, promises 95,915 jobs",
+  "source": "The New Indian Express",
+  "published_utc": "2025-04-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cheaper oil and what it means for India",
+  "source": "Upstox",
+  "published_utc": "2025-04-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL expansion, Naptha plant not new: BJD",
+  "source": "NewsDrum",
+  "published_utc": "2025-04-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Water mixed petrol sold at petrol pump in Odisha\u2019s Mayurbhanj, locals protest, watch",
+  "source": "KalingaTV",
+  "published_utc": "2025-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Ltd",
+  "source": "Fortune India",
+  "published_utc": "2025-04-12T06:37:57+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Denying Permission To Use Toilet At Petrol Pump; Consumer Commission Holds Dealer Of Indian Oil...",
+  "source": "Live Law",
+  "published_utc": "2025-04-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol-Diesel Prices Today: Crude oil becomes cheaper by Rs 860 in two weeks \u2013 Check today\u2019s fuel rates",
+  "source": "Zee Business",
+  "published_utc": "2025-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three-way energy play: The India-Sri Lanka-UAE deal in Trincomalee",
+  "source": "Lowy Institute",
+  "published_utc": "2025-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Allahabad High Court: Making Person Aware Of Material During Appellate Proceedings Without There\u2019s...",
+  "source": "Verdictum",
+  "published_utc": "2025-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CNG, EV, Hydrogen: Will India\u2019s Multi-Fuel Economy Disrupt the Oil & Gas Industry?",
+  "source": "CXO Digitalpulse",
+  "published_utc": "2025-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BP eyes major expansion in India's oil and gas sector through RIL, ONGC ties",
+  "source": "Livemint",
+  "published_utc": "2025-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coal India, ONGC, BPCL among 5 PSU stocks with highest dividend yields",
+  "source": "Livemint",
+  "published_utc": "2025-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crude oil price trend in India FY 2009-2024",
+  "source": "Statista",
+  "published_utc": "2025-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL News: Indian Oil Corporation awards Rs 9 crore work order to Konstelec Engineers",
+  "source": "PSU Connect",
+  "published_utc": "2025-04-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL P-25 Project Achieves Milestone: 1600 MT Reactor Successfully Erected at Panipat Refinery",
+  "source": "PSU Connect",
+  "published_utc": "2025-04-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Duty-free loophole? Nepal\u2019s edible oil exports stir crisis in Indian refining industry",
+  "source": "Asia News Network",
+  "published_utc": "2025-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian OMCs Kick Off Biodiesel Procurement for FY 2026 with Major Tender",
+  "source": "Autocar Professional",
+  "published_utc": "2025-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crude oil imports bill up 2.7% to $137 billion in FY25",
+  "source": "The Financial Express",
+  "published_utc": "2025-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil-GPS JV to establish 10 biogas plants at Rs 1,200 crore",
+  "source": "BioEnergy Times",
+  "published_utc": "2025-04-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tariff war hits crude oil prices: No ease for Indian consumers; Govt. Increases excise duty by \u20b92 per litre",
+  "source": "Bhaskar English",
+  "published_utc": "2025-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil dividend announcement 2025 in Q4 results; date, schedule fixed | Quarterly earnings",
+  "source": "ET Now",
+  "published_utc": "2025-04-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Battery-Swapping Boom Hinges on Deliveries and Rickshaws",
+  "source": "Bloomberg.com",
+  "published_utc": "2025-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai Motor India & Indian Oil Sign MoU",
+  "source": "Sarkaritel.com",
+  "published_utc": "2025-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hydrogen fuel cell vehicles for India? Hyundai, Indian Oil to explore mass usage",
+  "source": "India Today",
+  "published_utc": "2025-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai NEXO to be used by Indian Oil to test Hydrogen cars in India, MoU signed",
+  "source": "HT Auto",
+  "published_utc": "2025-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai teams up with IndianOil to test hydrogen fuel cell in India",
+  "source": "Business Standard",
+  "published_utc": "2025-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai & Indian Oil Begin Hydrogen Mobility Trials With NEXO FCEV In India",
+  "source": "Mobility Outlook",
+  "published_utc": "2025-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai and Indian Oil Join Forces to Test Hydrogen Fuel Cell Vehicles in India",
+  "source": "Fuel Cells Works",
+  "published_utc": "2025-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HMEL and IIT Kanpur to Collaborate on Advanced Energy R&D",
+  "source": "Construction World",
+  "published_utc": "2025-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai and IndianOil Partner to Test Hydrogen Fuel Cell Vehicles in India",
+  "source": "Autocar Professional",
+  "published_utc": "2025-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai ties up with IndianOil to check viability of hydrogen fuel cell vehicles for mass adoption",
+  "source": "ET Auto",
+  "published_utc": "2025-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG appoints Saurav Mitra as CFO for five years",
+  "source": "cfo.economictimes.indiatimes.com",
+  "published_utc": "2025-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HMIL signs MoU with IOC to explore mass use of hydrogen fuel cell vehicle",
+  "source": "Business Standard",
+  "published_utc": "2025-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil plans to operate Gujarat refinery at higher capacity from mid-2026",
+  "source": "Reuters",
+  "published_utc": "2025-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai and Indian Oil to conduct road trials of Nexo Hydrogen FCEV",
+  "source": "Team-BHP",
+  "published_utc": "2025-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai and Indian Oil Team Up to Test Hydrogen Cars in India",
+  "source": "Car Lelo",
+  "published_utc": "2025-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai and Indian Oil Begin Real-World Testing of Hydrogen Cars in India",
+  "source": "Cartoq",
+  "published_utc": "2025-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India accelerates energy push into Africa as global markets shift",
+  "source": "World Oil",
+  "published_utc": "2025-04-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai Nexo To Be Used By IOCL To Test Hydrogen Cars In India",
+  "source": "NDTV",
+  "published_utc": "2025-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crude oil prices fall below $70, will you get fuel price relief soon?",
+  "source": "India Today",
+  "published_utc": "2025-04-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai Nexo Test Mule to Assess FCEV Feasibility in India",
+  "source": "CarWale",
+  "published_utc": "2025-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil bets on petrochemicals, sets \u20b924,000 cr investment in Gujarat",
+  "source": "BusinessLine",
+  "published_utc": "2025-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India cuts LNG buying as other fuels become more attractive",
+  "source": "ET EnergyWorld",
+  "published_utc": "2025-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC\u2019s next big leap isn\u2019t about fuel",
+  "source": "Manufacturing Today India",
+  "published_utc": "2025-04-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka to begin talks with India, UAE for new energy hub",
+  "source": "Reuters",
+  "published_utc": "2025-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New LPG Gas: Indian Oil launched a new LPG gas cylinder, it does not blast; it is also very light in weight",
+  "source": "informalnewz",
+  "published_utc": "2025-04-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil GPS Renewables to invest Rs 1,200 crore in biogas projects across states",
+  "source": "ET EnergyWorld",
+  "published_utc": "2025-04-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Q4 Results Preview: Weaker margins, crude oil volatility may dent profitability",
+  "source": "mint",
+  "published_utc": "2025-04-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trincomalee\u2019s energy hub: What will it take to succeed as an enterprise",
+  "source": "India's World",
+  "published_utc": "2025-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Massive fire at scrap yard in Paradip, none injured",
+  "source": "The New Indian Express",
+  "published_utc": "2025-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UAE'S ADNOC to supply US LPG to India following China-US tariffs, sources say",
+  "source": "Reuters",
+  "published_utc": "2025-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil net surged 50% in Q4 to \u20b97,265 crore on lower revenue",
+  "source": "The Hindu",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Reports Strong Q4FY25 Results, Standalone Net Profit Increases 152%",
+  "source": "Groww",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil signs five-year LNG deal with Trafigura, chairman says",
+  "source": "Reuters",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Q4 result: Net profit jumps 58% to \u20b98,124 cr; dividend declared",
+  "source": "Business Standard",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil signs five-year LNG supply deal with Trafigura",
+  "source": "The Energy Year",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Q4 Dividend: Oil PSU company announces final dividend of \u20b93/share. Check details here",
+  "source": "Livemint",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sojitz Enters Biomethane Production and Sales Business in India\uff5c News Room\uff5cSojitz Corporation",
+  "source": "\u53cc\u65e5\u682a\u5f0f\u4f1a\u793e",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Q4 Results: Refining margins beat; FY26 LPG loss pegged at \u20b940,000 crore",
+  "source": "CNBC TV18",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil's fourth-quarter profit jumps on inventory gains",
+  "source": "Reuters",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Q4 results 2025: Net profit jumps 152% QoQ to \u20b97,265 crore; declares dividend of \u20b93 per share",
+  "source": "Livemint",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Q4 results: Net profit rises 58% to \u20b98,124 crore, revenue down by 1%",
+  "source": "Business Standard",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Signs $1.4 Billion LNG Deal with Trafigura",
+  "source": "Rediff MoneyWiz",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TrucksUp partners with IOC to introduce XTRAPOWER-Fleet Card for Smarter Fuel and Fleet Management",
+  "source": "Motorindia",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL News: Indian Oil revised project cost of Barauni Refinery in Bihar",
+  "source": "PSU Connect",
+  "published_utc": "2025-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

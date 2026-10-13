@@ -1,0 +1,758 @@
+[
+ {
+  "title": "RBI imposes penalties on ICICI Bank, Bank of Baroda, 2 other lenders",
+  "source": "The Times of India",
+  "published_utc": "2025-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI imposes penalty on ICICI, Axis, BoM, IDBI, BoB for violating norms",
+  "source": "Business Standard",
+  "published_utc": "2025-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI penalises 5 banks including Axis, ICICI, BoB, and others",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Major Bank Credit Cards Offering Free Airport Lounge Access 2025 List",
+  "source": "Zee News",
+  "published_utc": "2025-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Penalizes 5 Banks; Fine Rs2.52 Cr",
+  "source": "www.fintechbiznews.com",
+  "published_utc": "2025-05-02T19:58:21+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI imposes fines totalling \u20b92.5 crore on ICICI Bank, Axis Bank, three others for compliance failures",
+  "source": "Fortune India",
+  "published_utc": "2025-05-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI imposes penalties on five major banks for compliance failures",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM cash withdrawal charges hiked from May 1, 2025: Check latest ATM charges of SBI, HDFC Bank, ICICI Bank, PNB, Yes Bank",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Post office vs bank FD: Highest 3-year interest rate on fixed deposit for Rs 5 lakh investment in 2025",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank Records 14% Year-On-Year Drop In Net Profit At \u20b93,551.7 Crore",
+  "source": "Free Press Journal",
+  "published_utc": "2025-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Fines ICICI, Axis, 3 Other Key Banks Over Lack Of Regulatory Compliances",
+  "source": "NDTV",
+  "published_utc": "2025-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shopping online? ICICI Bank\u2019s iShop portal offers big rewards\u2014Here\u2019s what you get",
+  "source": "Livemint",
+  "published_utc": "2025-05-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks set for seventh straight year of profit growth in FY25: SBI, CBI, BoM, IOB, ICICI, HDFC, Axis, and Yes bank show strong momentum",
+  "source": "Fortune India",
+  "published_utc": "2025-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI imposes penalties on ICICI Bank, Bank of Baroda, Axis Bank, two other lenders",
+  "source": "CNBC TV18",
+  "published_utc": "2025-05-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Scope for Non-Medical Students: Career Paths Beyond Science",
+  "source": "LPU",
+  "published_utc": "2025-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL, Tata Motors in; ICICI Bank, IT stocks out: How LIC reshuffled its Rs 15 lakh crore portfolio in Q4",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Discussions preliminary': Yes Bank issues clarification on Japan's SMBC in talks to buy significant stak",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Analyst Call - Breakout Stocks: How to trade KPR Mill, CEAT and ICICI Bank that hit fresh 52-week high?",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Solitaire Credit Card launched: Is this the best travel credit card for you?",
+  "source": "Livemint",
+  "published_utc": "2025-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ICICI Venture to shift PE, real estate funds businesses to ICICI Pru AMC",
+  "source": "Reuters",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC to take over PE, VC, real estate funds from ICICI Venture",
+  "source": "VCCircle",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sumitomo of Japan buys 20% stake in YES Bank for around Rs 13,483 crore",
+  "source": "The Indian Express",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Japan\u2019s SMBC To Acquire 20% Stake in Yes Bank from SBI, 7 Other Banks To Become Largest Shareholder",
+  "source": "Moneylife",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Are banks hiding weak asset quality with higher loan write-offs?",
+  "source": "Livemint",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, other lenders sell Yes Bank stake for Rs 13,483 crore in deal with Japan\u2019s Sumitomo Mitsui Banking C",
+  "source": "The Times of India",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YES Bank stake sale: SBI, HDFC Bank and 6 others to cut holdings. Here's why",
+  "source": "Livemint",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Japan's SMBC succeeds in its pursuit of Yes Bank; to acquire a 20% stake",
+  "source": "Livemint",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC, HAL, BEL to Reliance: Experts pick 12 stocks to buy today amid India-Pakistan conflict",
+  "source": "Livemint",
+  "published_utc": "2025-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Low interest personal loans: Check loan rates from top lenders in 2025",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Yes Bank up after Japan's SMBC agrees to buy 20% stake",
+  "source": "Reuters",
+  "published_utc": "2025-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest savings account interest rates: Comparison of ICICI Bank vs HDFC Bank vs Axis Bank vs YES Bank",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Scotia Wealth Management enters into an arrangement with ICICI Bank Canada to offer wealth management services to ICICI's high-net-worth clients",
+  "source": "PR Newswire Canada",
+  "published_utc": "2025-05-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI clients gain access to Scotia Wealth Management",
+  "source": "Investment Executive",
+  "published_utc": "2025-05-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Scotiabank signs referral deal with ICICI Bank Canada for wealth management services",
+  "source": "Times Colonist",
+  "published_utc": "2025-05-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tabu lends star power to ICICI Bank's cyber fraud awareness drive",
+  "source": "Adgully.com",
+  "published_utc": "2025-05-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loan interest: Rates dip below 8%, PSBs faster in passing on repo rate cut benefit",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank RD Interest Rates - Latest RD rates: SBI vs HDFC Bank vs ICICI Bank vs Kotak Mahindra Bank",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SCSS vs Senior Citizen Bank FDs: Which offers the highest interest rate?",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amitabh Chaudhry's game plan: Can Axis bank beat HDFC Bank, ICICI Bank?",
+  "source": "Forbes India",
+  "published_utc": "2025-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Top 10 Most Valuable Private Banks in 2025",
+  "source": "Equitypandit",
+  "published_utc": "2025-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Read About Yes Bank and Sumitomo Mitsui Banking Corporation or SMBC's Merger",
+  "source": "ICICI Direct",
+  "published_utc": "2025-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We're choosing our own battles: Axis Bank's Amitabh Chaudhry",
+  "source": "Forbes India",
+  "published_utc": "2025-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Investing in India: An unparalleled opportunity for Australian businesses",
+  "source": "CommBank",
+  "published_utc": "2025-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Global Custodian reveals winners of Leaders in Custody awards 2025",
+  "source": "Global Custodian",
+  "published_utc": "2025-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank unlikely to increase its headcount on a net basis in FY26",
+  "source": "Business Standard",
+  "published_utc": "2025-05-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBM Bank India and ICICI Prudential Life Insurance Join Forces",
+  "source": "Elets BFSI",
+  "published_utc": "2025-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank appoints Navin Sharma as Chief Audit Executive",
+  "source": "ETLegalWorld.com",
+  "published_utc": "2025-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u20b911K monthly SIP since the launch of this blue chip mutual fund would have grown to \u20b91 crore. Check how",
+  "source": "Livemint",
+  "published_utc": "2025-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBM Bank India ties up with ICICI Prudential for life insurance products",
+  "source": "Livemint",
+  "published_utc": "2025-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Breakout Stocks: How to trade Divi\u2019s Laboratories, Bajaj Holdings & ICICI Bank that hit fresh 52-week high?",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBM Bank India, ICICI Prudential Life Insurance forge bancassurance alliance",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD Rates for Rs 5,00,000 One-Time Investment: Compare SBI, HDFC Bank, ICICI Bank, PNB, post office 1-year fixed deposit interest returns",
+  "source": "Zee Business",
+  "published_utc": "2025-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What are the latest ATM charges at HDFC, ICICI and other banks",
+  "source": "CNBC TV18",
+  "published_utc": "2025-05-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bad news for all banks customers, RBI allows to increase these charges\u2026, know what HDFC Bank, SBI, ICICI, PNB",
+  "source": "India.com",
+  "published_utc": "2025-05-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM Charges Revised: What HDFC Bank, SBI, ICICI, And Others Are Now Charging",
+  "source": "Zee News",
+  "published_utc": "2025-05-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Consumer court directs bank to refund Rs 2.4 lakh lost in online fraud",
+  "source": "The Times of India",
+  "published_utc": "2025-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This bank has changed its name: Will its cheque book, passbook, card and IFSC code still work?",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha HC orders woman to clean Cuttack bank premises for two months as bail condition in cheating case",
+  "source": "The New Indian Express",
+  "published_utc": "2025-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks Likely to Split in 2025: A Watchlist for Investors",
+  "source": "Equitymaster",
+  "published_utc": "2025-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Axis Bank Credit Card update: Key changes you must know before June 20",
+  "source": "Livemint",
+  "published_utc": "2025-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, ITC, HDFC Bank and 12 more stocks have zero promoter holding",
+  "source": "Zee Business",
+  "published_utc": "2025-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Global Crude Oil Prices To Remain In Range Of USD 60 To USD 70 Per Barrel, Says ICICI Bank",
+  "source": "Free Press Journal",
+  "published_utc": "2025-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Will Stop PayLater Credit On UPI From May 8",
+  "source": "Outlook Money",
+  "published_utc": "2025-05-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI fines 26 banks, fintechs in May for regulatory breaches; Union Bank, Lendbox latest",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank discontinues its PayLater credit line on UPI for all customers; The bank answers what happens w",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to buy for long-term: ICICI Bank, HDFC Bank, SBI among Axis Securities\u2019 banking stock picks after Q4 results 2025",
+  "source": "Livemint",
+  "published_utc": "2025-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank follows HDFC Bank in fixed deposit rate cut; depositors to earn up to 20 bps less",
+  "source": "Upstox",
+  "published_utc": "2025-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI And HDFC Bank Reduce Fixed Deposit Interest Rates",
+  "source": "Outlook Money",
+  "published_utc": "2025-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks clean unsecured book with aggressive write-offs in FY25",
+  "source": "BusinessLine",
+  "published_utc": "2025-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 best travel credit cards of 2025: Top picks for rewards and benefits",
+  "source": "Livemint",
+  "published_utc": "2025-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC upholds ICICI Securities delisting, clears way for merger with ICICI Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court upholds delisting of ICICI Securities",
+  "source": "ETLegalWorld.com",
+  "published_utc": "2025-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SAT orders SEBI to grant Chanda Kochhar access to ICICI Bank documents, data in Videocon loan case",
+  "source": "Bar and Bench",
+  "published_utc": "2025-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Emeralde Private Metal Credit Card issues? Here\u2019s how to get fast support",
+  "source": "Livemint",
+  "published_utc": "2025-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Highest FD returns: SBI, HDFC, ICICI and Canara Bank, which one gives the maximum interest on Rs 5 lakh de",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC upholds delisting of ICICI Securities shares, dismisses investor\u2019s plea",
+  "source": "The Economic Times",
+  "published_utc": "2025-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cyber police arrest 2 for facilitating Rs 55 lakh online trading fraud targeting senior citizen in Mumbai",
+  "source": "The Times of India",
+  "published_utc": "2025-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Earnings v/s Returns: How India\u2019s Top 10 profitable private banks fared in 5 years",
+  "source": "Business Today",
+  "published_utc": "2025-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "More jobs for you?: RBI\u2019s annual report forecast India\u2019s strong economic momentum, 6.5% FY26 GDP growth & l...",
+  "source": "Bhaskar English",
+  "published_utc": "2025-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, ICICI Bank stocks may feel Bank Nifty weight rejig pressure",
+  "source": "Business Standard",
+  "published_utc": "2025-05-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard Ordered To Pay Rs3 Crore Insurance to Widow, NCDRC Condemns Misleading Home Loan Insurance Practices",
+  "source": "Moneylife",
+  "published_utc": "2025-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC to Canara Bank: 4 banks cut FD rates in May; which is offering the highest returns?",
+  "source": "Upstox",
+  "published_utc": "2025-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Applying for an ICICI credit card? Here's the credit score you should aim for",
+  "source": "Livemint",
+  "published_utc": "2025-05-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Holiday Today: Open or closed on Saturday, May 31, 2025? DETAILS",
+  "source": "ET Now",
+  "published_utc": "2025-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

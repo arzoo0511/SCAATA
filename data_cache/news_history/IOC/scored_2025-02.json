@@ -1,0 +1,578 @@
+[
+ {
+  "title": "Manish Malik Appointed as Executive Director & CIO of Indian Oil Corporation Limited",
+  "source": "Elets CIO",
+  "published_utc": "2025-02-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp Ltd Elevates Manish Malik to Executive Director (Information Systems) & CIO",
+  "source": "APAC Media",
+  "published_utc": "2025-02-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "INAUGURAL EDITION OF INDIAN NAVY HALF MARATHON AT NEW DELHI",
+  "source": "PIB",
+  "published_utc": "2025-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Budget 2025: HPCL, IOC, BPCL shares fall over 5%; here's why",
+  "source": "Livemint",
+  "published_utc": "2025-02-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Manish Malik Elevated to Executive Director (Information Systems) & Chief Information Officer (CIO) at Indian Oil Corp Limited",
+  "source": "hrtoday.in",
+  "published_utc": "2025-02-02T07:19:45+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Hiring For 456 Posts, No Written Test Or Interview Required",
+  "source": "NDTV",
+  "published_utc": "2025-02-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation selects LYB's advanced HDPE Tech",
+  "source": "ALCHEMPro",
+  "published_utc": "2025-02-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Apprentice Recruitment 2025 Apply Online for 456 Technical and Non-Technical Posts, Check Details Here",
+  "source": "Jagranjosh.com",
+  "published_utc": "2025-02-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Junior Operator Salary 2025, Pay Scale and Allowances",
+  "source": "Bankersadda",
+  "published_utc": "2025-02-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Eligibility Criteria and Selection Process 2025, Check Details Here",
+  "source": "Adda247",
+  "published_utc": "2025-02-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Biplob Biswas assumes charge as Executive Director of Gujarat Refinery",
+  "source": "The Indian Express",
+  "published_utc": "2025-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assam: New Executive Director Rahul Prashant assumes office in Digboi AOD",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2025-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy Indian Oil Corporation Ltd Ltd For Target Rs.145 by Motilal Oswal Financial Services Ltd",
+  "source": "Investment Guru India",
+  "published_utc": "2025-02-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Hiring For 246 Posts, Monthly Salary Up To Rs 1 Lakh",
+  "source": "NDTV",
+  "published_utc": "2025-02-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil in talks with Cheniere for 15-year LNG deal, company source says",
+  "source": "Reuters",
+  "published_utc": "2025-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "With PM Modi set to meet President Trump, India\u2019s oil & gas companies look to increase LNG imports from the US",
+  "source": "The Indian Express",
+  "published_utc": "2025-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Engineers India inches up on bagging contract from Indian Oil Corporation",
+  "source": "Investment Guru India",
+  "published_utc": "2025-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil companies in talks to buy U.S. LNG supplies",
+  "source": "Reuters",
+  "published_utc": "2025-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tuensang town receive its second petrol pump with inaugural of AY Fuel Center agent",
+  "source": "Nagaland Tribune",
+  "published_utc": "2025-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil buying sanction-free Russian crude oil cargoes, chairman says",
+  "source": "Reuters",
+  "published_utc": "2025-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADNOC agrees 5-year LNG supply deal with India's BPCL, sources say",
+  "source": "Reuters",
+  "published_utc": "2025-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2025: Apply Online for 382 Apprentice Posts, Check Eligibility, Application Process And More",
+  "source": "Jagranjosh.com",
+  "published_utc": "2025-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Junior Operator Syllabus 2025 and Exam Pattern: Check Important Topics",
+  "source": "Jagranjosh.com",
+  "published_utc": "2025-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India buys crude from clean entities, no embargo on Russian oil, says IOCL Chairman",
+  "source": "ANI News",
+  "published_utc": "2025-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State-run Indian Oil signs deal to export LNG to Nepal",
+  "source": "Reuters",
+  "published_utc": "2025-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADNOC Gas secures $7-9 billion LNG deal with Indian Oil for 14 years",
+  "source": "News On AIR",
+  "published_utc": "2025-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil & ADNOC Gas: The Future of LNG in India",
+  "source": "Sustainability Magazine",
+  "published_utc": "2025-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADNOC Gas signs 14-year LNG supply deal with Indian Oil Corporation",
+  "source": "The Energy Year",
+  "published_utc": "2025-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Engineers India gains on securing \u20b9106-crore order from Indian Oil Corp",
+  "source": "CNBC TV18",
+  "published_utc": "2025-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADNOC Gas to supply 1.2 MTPA LNG to Indian Oil under 14-year deal",
+  "source": "ET EnergyWorld",
+  "published_utc": "2025-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil signs $7-9 billion long-term LNG import deal with ADNOC Gas, UAE",
+  "source": "PSU Watch",
+  "published_utc": "2025-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India scrambles for Russian oil supplies as sellers play sanctions whack-a-mole",
+  "source": "The Japan Times",
+  "published_utc": "2025-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Total's Dhamra LNG terminal expansion not imminent: CEO Lamba",
+  "source": "Business Standard",
+  "published_utc": "2025-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "$7-9 billion gas deal strengthens India-UAE LNG ties",
+  "source": "Offshore Energy",
+  "published_utc": "2025-02-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why gas rather than oil could be route to raising India\u2019s energy imports from US",
+  "source": "The Indian Express",
+  "published_utc": "2025-02-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Hiring For 457 Posts, Check Eligibility, Selection Process",
+  "source": "NDTV",
+  "published_utc": "2025-02-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC dominates 34th PSPB Inter Unit Rapid Team 2025",
+  "source": "ChessBase India",
+  "published_utc": "2025-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil lobby pushes for curbs on edible oil imports from Nepal",
+  "source": "The Kathmandu Post",
+  "published_utc": "2025-02-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vidit Gujrathi wins 34th PSPB Inter Unit Rapid Individual 2025",
+  "source": "ChessBase India",
+  "published_utc": "2025-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cylinder Blast Due To Gas Leakage, Thrissur District Commission Holds Indian Oil Corporation Liable For...",
+  "source": "Live Law",
+  "published_utc": "2025-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment GATE 2025; Date, Eligibility, Selection Process",
+  "source": "IE Education",
+  "published_utc": "2025-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock market today: Tata Motors to Coal India \u2014 907 BSE-listed shares hit 52-week low. Do you own any?",
+  "source": "Livemint",
+  "published_utc": "2025-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TTD to convert food waste into energy for eco-conservation",
+  "source": "The New Indian Express",
+  "published_utc": "2025-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Regular import of petroleum products via pipelines begins",
+  "source": "The Rising Nepal",
+  "published_utc": "2025-02-18T01:41:34+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3rd Edition of India Energy Week Held in Delhi \u2013 Part II",
+  "source": "AffairsCloud",
+  "published_utc": "2025-02-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US takes place as fifth top oil seller to India in January; Russia remains number one",
+  "source": "Baird Maritime",
+  "published_utc": "2025-02-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive: ISPRL exploring developing India's 1st gas, Green Hydrogen reserves in Bikaner & Bina",
+  "source": "PSU Watch",
+  "published_utc": "2025-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Glycols bags Rs. 1,264.20 crore Ethanol order from OMCs and oil companies",
+  "source": "Indian Chemical News",
+  "published_utc": "2025-02-20T04:10:19+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Glycols wins over Rs 1,200 crore orders from OMCs; should you buy/sell smallcap stock?",
+  "source": "Zee Business",
+  "published_utc": "2025-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "As India and Qatar eye trade expansion, why LNG\u2019s centrality in bilateral trade is in focus",
+  "source": "The Indian Express",
+  "published_utc": "2025-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gujarat GST AAR: Tax Applicable on High Seas Sale Goods Used in EPC Projects Despite IGST Payment",
+  "source": "SAG Infotech Official Tax Blog",
+  "published_utc": "2025-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Good if we get Russian crude, but no major concern if we don\u2019t: BPCL Director (Refineries) Sanjay Khanna",
+  "source": "The Indian Express",
+  "published_utc": "2025-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel outlet told to pay Rs 8 lakh after adulterated diesel damages Chennai man's Benz",
+  "source": "DT Next",
+  "published_utc": "2025-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What is the road ahead for the ailing Oil & Gas sector? Analysts decode",
+  "source": "Livemint",
+  "published_utc": "2025-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2025: Apply Online for 457 Apprentice posts, Check Eligibility",
+  "source": "Jagranjosh.com",
+  "published_utc": "2025-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US sanctions 4 Indian oil export companies for Iran trade: Firms from UAE, China also targeted in latest cr...",
+  "source": "Bhaskar English",
+  "published_utc": "2025-02-25T14:46:56+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil appoints Suman Kumar as Director (Planning & Business Development)",
+  "source": "PSU Watch",
+  "published_utc": "2025-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil and Gas Stocks In India",
+  "source": "Alice Blue",
+  "published_utc": "2025-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Suman Kumar takes over as Indian Oil Director-Planning and BD",
+  "source": "The Hindu",
+  "published_utc": "2025-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL among highest taxpayers to Mizoram govt: CM Lalduhoma",
+  "source": "ET EnergyWorld",
+  "published_utc": "2025-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Suman Kumar takes over as IndianOil\u2019s Director (Planning & BD)",
+  "source": "Indian Chemical News",
+  "published_utc": "2025-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "World\u2019s Longest LPG Pipeline to be Built in India worth USD 1.3 Billion",
+  "source": "Tube & Pipe India",
+  "published_utc": "2025-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India builds world\u2019s longest LPG pipeline to cut costs & deadly road accidents",
+  "source": "ET EnergyWorld",
+  "published_utc": "2025-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, BPCL, HPCL Shares: BUY rating from UBS - check target price",
+  "source": "ET Now",
+  "published_utc": "2025-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
