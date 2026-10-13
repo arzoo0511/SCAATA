@@ -1,0 +1,414 @@
+{
+  "symbol": "IOC.NS",
+  "date": "2026-10-13",
+  "headlines": [
+    {
+      "title": "Indian Oil Sets Date for Q2 FY27 Results Announcement",
+      "source": "PSU Connect",
+      "published_utc": "2026-10-13T11:51:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTRsSTJMS2QtVjhwanlRY2V1OGFfRjJfX0ZtaTNydFcxbHBqZEJxMWdYMlVyZk5FVFNpbjdvU204R0stSXFVRU03WGpGSjF0TjA3MmpjOXlCMmptTDFZUzBtRjRQOWM5NjhtWmM1ODUyemNSaFFXRkdVYmNlODFCbWoyR2k3MXBTMkp1Ym44RDY4bk1LN1FUSmdn?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Grounds",
+      "source": "Cricinfo",
+      "published_utc": "2026-10-13T09:27:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YS3ZoSXYtQ2JacU4wUnBCS1c4TTZIb3M2NndTSEkzSDlDVEIwdEsxODdtcEdENlk5X0NyOEMtQ1lSOEtpX0FXRHBxSWJiMGJqVnA5U1dpUmMtQkZHbmlCVWFPa3ZtcWZxVlBoeW1sd3RqZFFkQmxmMUVEdw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IOOA Writes to Union Petroleum Minister, Seeks Central Protection Law for Oil Sector Personnel After IndianOil Manager\u2019s Murder",
+      "source": "Indian PSU",
+      "published_utc": "2026-10-13T08:49:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLW5HcS1QSW1uZFpqTWsxdDFiUTZHVURlZ1d5WmhwMTJuRDdydzdhY3JOT1MtSGJ1UTFHSzhxeC1HWFRveVpfVUtKQmk5c0JOUjVPNWdhZGFHY2pZbU1fb0NOcUlQbC1xVkJHamhhbjlDbzZuZENONHlna1JCRDBSYTlxQTVadw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Mirae Asset: Oil volatility to rise ahead of midterm; Brent may test $120",
+      "source": "Business Standard",
+      "published_utc": "2026-10-13T07:46:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM0hNY1RoZmxhNVhRc0x6dlM5aWdDSUU2X0lNY2dydkFhcDhBWkZhRlc2NE9qejR5MllUV1pCZDB0SzdvYkhuYUpYU3U0YnJpbG5nYVVIcmZwenNlRnhDa1lGd3BHYkpadWhZXzV6bnFxcTZyc3VuRXR0MEpkVXNjRThKeVpYclR2OEwySWZuR3FXNTZhOUtGV2lDVFB3ZU12ckxSa2NwQUlzUWlHa0dKejBPcjZDUGFwUmlTUW9RNC1kUEVJcXJyc2NzZ1dFY3kwNFhoSG55NGZKbmwt?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Why Is the Rupee Rising Against the US Dollar? Indian Currency Touches \u20b994.96 After RBI Measures",
+      "source": "The Sunday Guardian",
+      "published_utc": "2026-10-13T06:20:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMzI2SE9JWFFNQ0x4YmJxS21QWG50TUZhSE5CUDdoVXJ2MnJtNDdkM3FWNnlIWTdEd2t2SUNFT1ZVQTJHNS1kNUhSc0JFQVVibHNnNEFpaUNMcmVyQVY1Ump2NElmeWxTd1hmT0xESGQwUnV0d0lVbnhobnBDNmdJNFVpenk4TXJqNGl6OHZRN3ZMbmNQTktNWm53c2g2cGRWb0IxemZaNnJWQUJwZEJWOWRUWWNnbVJWaVJHcTE2TGQ5WFdUZDJoV1AzbUtPbTB3MEFFVzlReElPWXFjZXfSAd4BQVVfeXFMTjMyNkhPSVhRTUNMeGJicUttUFhudE1GYUhOQlA3aFVydjJybTQ3ZDNxVjZ5SFk3RHdrdklDRU9WVUEyRzUtZDVIUnNCRUFVYmxzZzRBaWlDTHJlckFWNVJqdjRJZnlsU3dYZk9MREhkMFJ1dHdJVW54aG5wQzZnSTRVaXp5OE1yajRpejh2UTd2TG5jUE5LTVpud3NoNnBkVm9CMXpmWjZyVkFCcGRCVjlkVFljZ21SVmlSR3ExNkxkOVhXVGQyaFdQM21LT20wdzBBRVc5UXhJT1lxY2V3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ADNOC open to further long-term LPG deals with India, sees India among most important energy markets: Acting CEO, Marketing",
+      "source": "The Hindu",
+      "published_utc": "2026-10-13T01:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcDFqQXZ5cUtxVUFhT0x2bjhtUlJidF96TklEVWtKRzhyOUpWNXZJRkNENDJOaHNKZS1UY2hkX0xSVEhZUlF1RTZWNkNNZk9KVmhqUkVaOTdNUHhpQzN6MmktaDRmalNJOVpmVmVmNnB2dldnNFUxMFlvTHcyZU9QTFB1QU9lVEF2c0xoTEJPRjZTNHZlcTZuaHA2MVNxeUFtQnZjbjR5WHlla1JFbFdEMnVXNVMxUU9pUGl0NkQ2bnJFMUhUeXROcnJfQ0pwSmM2MElkU1VmYVVrZ9IB2gFBVV95cUxOcDFqQXZ5cUtxVUFhT0x2bjhtUlJidF96TklEVWtKRzhyOUpWNXZJRkNENDJOaHNKZS1UY2hkX0xSVEhZUlF1RTZWNkNNZk9KVmhqUkVaOTdNUHhpQzN6MmktaDRmalNJOVpmVmVmNnB2dldnNFUxMFlvTHcyZU9QTFB1QU9lVEF2c0xoTEJPRjZTNHZlcTZuaHA2MVNxeUFtQnZjbjR5WHlla1JFbFdEMnVXNVMxUU9pUGl0NkQ2bnJFMUhUeXROcnJfQ0pwSmM2MElkU1VmYVVrZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "U.S. dollar rises, holding near 18-month high as oil prices climb, euro weakens",
+      "source": "Investing.com India",
+      "published_utc": "2026-10-12T21:57:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcms5Z25OTmJXNk1ucUlCUExORDNDSGxZV2ZDLTNfeHRpOWNNbzg1Um94Y0RyRlQ1RDl0ZFdjclZ1QzVXTHZMUFFiQXVRMV9JN0dJNDV4LTA5WjJERVFMZFdVY0VVV1Q1bXJ5aWNJRms2VDVqcnFLaDVuWEZEdmpQb1VqYW83Z25qR3BrSmNZNUY1U0x0R2FCWGdfUGZBdEdWVDlLNkFGM1lqb3VYRTVBaHhwb05meGFoUEw3SW83cVg?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Fixtures",
+      "source": "Cricinfo",
+      "published_utc": "2026-10-12T17:06:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpZ1JCQTRlTU5MVzVmcGw3WTJ6SVJoeWxmaDMwd3UxMVVpay04MmF0dFY2MjkwYkl2TFEtVl9FcFFDamlwU1UwMlBuazctalY3NkhYOVlrRUM4aEVZdVAxWFpDbVJIcDdiOE9zU0o0Wk1fdkhnOWhxUTlrYUdfQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Rupee Surges 1% After RBI Moves to Cut $12B in Dollar Demand",
+      "source": "Coinpaper",
+      "published_utc": "2026-10-12T16:14:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmVueVJtdVdVQUJhZVczeHkxdUNva214aEY1NndqUE91NlJJdkJwUUNqQ3JKSXBUaGlYWjF0UlZ3a2p5Z3lOa3RkVUdyN3dMZV9zbGg0SF9GUnBYNVRKS3RJZXVBNU9nc2FlQVBxeFYyaXVwS2wxN0xHOGZUSVBJV19hMTFXZ0xnakFxZ3VyX1A0ZUh5ekU4cQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Is Indian Oil Corporation the Best Stock in Its Sector? A Look at the Numbers",
+      "source": "Univest",
+      "published_utc": "2026-10-12T15:17:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZTmRYQ2NocXVBdmVwTUhmQk5GeUNJNkZzdEszUEtVZHZNN1dmZWJ1S2hOUVpLSTExU3FFRDZPVEJBX20yaEFIS1pNekNLSkJDRlJEZzZJTllVRkJrOVc5XzhYVQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "PSU Dividend Delight: THIS Maharatna PSU Fixes Record Date For 12% Dividend | Do You Own?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-12T15:11:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLV9XWGlkSF9Bei1NTjNNVG1xalFqaUtoNmRLWFNUV2Fmay1fTzlKRXl6V1psOGJIZnRmOWgzLUJLcldBMTU3ZFNId0lySWc1Nm4xOGpGQ2tNejZlNE56VW41WEt5WFBVc055X0FFamY1M0FLdnBuMFJYSHBfNUh0R3JTcVdyVE1uVVFySWd0amQyVVJlWHJpVjdsY2FDdmxfTXpTX1d6NFE0dGlwaE8tbXBmTUFkZUVsWkRIYlNjREtBNk9aNjNyTmtnc0t3ZnU1THNtTg?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SAIL Rourkela Steel Plant Signs Three-Year MoU with Indian Oil for Diesel and Petrol Supply",
+      "source": "Indianmasterminds",
+      "published_utc": "2026-10-12T14:52:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnpMVGtiNWNfNHNZMTNlV29MdnRKTWRJLU9mSDFka1c2TXUtUHNhVENzeVFfbUJwdFB0Vm8xbUpWQjgwSzJGbnFwQ2pfVmY1ZWdzWGpBSXNIakRCbENNN2ZwZVFmcmVBWVM1eGFRcmswdlI5QXY4OXJtZm9SbExTODNONFRqLXE2S3hlREJkc1BlR0g4Y0JoMkNJVDdVdUhjWndsQ1BRTTV3dw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SAIL\u2019s Rourkela Steel Plant signs three-year fuel supply MoU with IOCL",
+      "source": "PSU Watch",
+      "published_utc": "2026-10-12T13:50:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDZpaUNLdUEwb1ZyUGpkclVYbkJjZFlLdmNjcExkVVNSMFBBZlpaeUJVSkZMaGpKWGtRd1Z6ajhlckZzQTZfLUJON25jcFYtVXZ1NWxpRDFFOG9sNG9abGNpYkxNX3RJaHN3eVNwbVBMTHRSZ25yRmlYb05BUW41TzE3eGJKdGVpdXkwazdvX244UnJuNklTRmRiNURtYkNKaTZPbNIBsgFBVV95cUxPcGM0TzVvQUo0ZHNFa2hFZUtvbk4xYWdQcUpxVmJ3Wm5OVUJ2RTEwQzhxc3BJdTdrX0JBaEpMNkxCbVBKVkpnajBIWFJuTk8wNnlFN3FRQVg0MjVqY21qVGRUSHh6TWZGOGpkUjVOSUotQUxmQngySUhmSVBOR0UyNm80QkZjR2hCWU5MYmQwY3dCZldydEFNb2RYTjdWMHZLTzBrSU9uVGJMSTdtam9VNF93?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Journey 1959 to 2026: How India\u2019s Energy Giant Grew from One Refinery to a Global Powerhouse",
+      "source": "PSU Connect",
+      "published_utc": "2026-10-12T12:06:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUtVaGdxSlltM0hBbFhRd3Zac1NjYWVSTVF2QnNhRndjUHNkUnhTU2V5WUtUQ0VUMHZkRExwWWxvaW91bHdfcS04Tk1Ea2ptZi1sUTdIWUwza3hKRUF4OUc0WTJfVjk4NVRmRE1iMnRRZ2dxSGFKOWJHTlBEdzZ2LTFlSXlxQ0tGa2FGVVVaRFZ5UEJyWDMzbU5QRVlSMktucURPVGFnaFBxaE0?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI\u2019s special forex window for OMCs could absorb $10-12 bn in monthly dollar demand, ease rupee...",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-12T11:32:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeDRMZVZhd1c3akdDUE5xbUk3WktoTXpqTjczSE55UEE1QzVEeXVORUZCbHpQVG5VTGYxQXlWMkhWWkFBZXQxV3h3X2p3SU0zVE5oR290dG9zbTdtZ2Vobkk2UkpHazQ1MllpTEZrLU9mN3R5YW45bExZcXNxLWpRd1JicVpCMkx1cE5WM013T2NrWndMa2ZGcDZUbUcxdEZMb2tXbThRbFMyVGJ3Unk2VC1peFlpSDVXR0tNcHg4aHJYMk1naGF2Z1BmSzdycklSWGFiMkdKRlZ6RjZkVlQxUWo5UDdTd0pBSk5ONllFQnc0ZjlCUHlKaENtYzNYTWVzZ0luOVgyQmFoRm910gGMAkFVX3lxTE14NExlVmF3VzdqR0NQTnFtSTdaS2hNempONzNITnlQQTVDNUR5dU5FRkJselBUblVMZjFBeVYySFZaQUFldDFXeHdfandJTTNUTmhHb3R0b3NtN21nZWhuSTZSSkdrNDUyWWlMRmstT2Y3dHlhbjlsTFlxc3EtalF3UmJxWkIyTHVwTlYzTXdPY2tad0xrZkZwNlRtRzF0Rkxva1dtOFFsUzJUYndSeTZULWl4WWlINVdHS01weDhoclgyTWdoYXZnUGZLN3JySVJYYWIyR0pGVnpGNmRWVDFRajlQN1N3SkFKTk42WUVCdzRmOUJQeUpoQ21jM1hNZXNnSW45WDJCYWhGb3U?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian rupee rebounds from near record low after RBI unveils support measures",
+      "source": "Investing.com India",
+      "published_utc": "2026-10-12T08:28:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPelRaMWFFcHZ2MnEwX01jZjdvT1BVc3pQdXRTQXZYTzcyVjFGWDRSelRxWnJ6a1hrcVdYWTlXUXpJN0MwVEQ4YklyMWlFaW51RWpISlpUVFhXclduTmtNS1FRZlo2SUljZ3M1VFdpS0NTN0s3UEh4UE9jTnQ4cVg1anpCeW1jVy13cHYzQmRKLTFtc0hkN2dsRG5nc3dZbXVqb2stQi1HY29fQ2NlYWFyeHVNNmhFZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Rupee Posts Biggest Single-Day Gain In Six Months After Reserve Bank Unveils Support Measures",
+      "source": "Swarajya",
+      "published_utc": "2026-10-12T08:01:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNTV5Q3c4ZHV0QnJoNzhMdUpVVjFtU3MtTkVwT3ZwcHhrcDdJY2h0aXN0dlFaczdhczhxQ0JZeGx2Z2cyeUt2MkdyX1o1STF6aGlOUEFGb19iT3I1ekRLZ1lESmpwMkVtV2FQYnJUTkZSMERldTRMVkowVjVkeU1GT0R6cURHZEU4RDlhU3cyeHc1RDFQNTlzSVZaaXRwdnlJSENqd0tOT1VlaWZLV1h3VHQxeU1jSldfUmFRbXEtakVySkwzSlQzSDlmNjVvMXN00gHgAUFVX3lxTE5MbzJ2VkhQaEVveXlBRnlrTzNTMVd6XzE5TElGQzlSYl9HTi1renhfQVFhVFJnOEVCVlNJUUtRM2xKaWN2dnBZVG1rSFBKZkJCelo5THFtRlJuNjFvV2ozOTltSmg4LTJaTHZvR01QZ2EzTFp4Y0FYcUozRF9oYW1ZaEZZSEhjZXNHNjV0WXhPaEJxZlNiUGd2emZMSmtnN1BhRWFaQVpZYkZ2aGdJWHBTYTFQdi14a1F1d2t6QS1IN0Jpay1PRnNvMGZtNGxVeF8tbEllNUllbnZ5azBTcWxz?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "INR vs USD: RBI's rupee support move shows results as Indian currency jumps 1% post dollar-demand curbs: Investors guide",
+      "source": "Livemint",
+      "published_utc": "2026-10-12T07:32:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQSDB5RDB2Zk8wN2tlZW9vcTBuU0dESGNKRDdNM3I1S1dwZmFCY1Z2ZTVZamFqeUVscTlIaUJiVERNemlxS1hvMGI1NlpHanhNWkZXbGNmYzczSDRNQjJVUEt6RnFWQ0lGdm9Mb1VMaS1wbEk5cGFQSDZ3Mi0wak5WWkpHbFNBVG1qRVVHa1F5Vm1EbEJIUWxZWkxSZ2l1ckJsZWd5d0NhVWdkd2RyR1JrR204RUJwdWptalRSNGtoV2p5Z2NLejk5SkRTVEZiS2U5S2hOZ0dIX0MzV2lnRncxZnc3SlFOcHNIQzVBdk45RTE4MzBsX3ZqRmdvWmlZLWE0R09HTU1xcDhFanZXYkN6WkE5T1rSAZoCQVVfeXFMUEpFY0szZzdZeWc1OVUzZmxtWVhHdnZ2Z2RnR1ZIdHFwV183S09vYnVaa2x0cVBYOXdfWmE5eVZRQkduYkx2cmVTbWtRaWxNWFZCcXdqQWdienJpaktPdmdhUEg2NDNhTWRRcjVmTmdmSmxWRC16YXFUTE9aYWtZTWd6ZFRZazY5VWRKbG5zZWhMOHpYUUhrb0d0bTNhQzgxQl9xbHlKNUlkWDVYX2pjRFlRcWFmODlHdlRGdmVFVlFtM2FfUDNrRlpTSkVBMnhEQndfVGdfRzlQZjhHV1A4Q3p4RlNpaGZTM0gtc3RZU090X1M5dk5TVFdkSmZ3anJOUzZJYjYxdWdfUXZGZ1pMOHdFbDJHYWMwRi1R?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Opens Special Window for Transfer and Demat of Physical Shares",
+      "source": "TipRanks",
+      "published_utc": "2026-10-12T06:55:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMTN2d0ROeU5wZDhENFc5VkdlSm04bEJ4ZElMMmY2OUZhbHEyck9ZQTF4ejFCUWJYX3RrcHlfRkVmVkJQdXdjbVdWWDRBZlRIenliWU9oeGZFSDRJN2todVJaTVpKNWlSZjYwbjNNMjVoc3NSSVNFMlhHOHJiTEVORmdtY0RLemJncGdqX0E2OGVyNUNuWldhNmZFOWJIMHBneE1GbHcwZkdTNDZkUkRLaTFxRzRYbHk1U19Ya2xMVXRwcDQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI's dollar window for oil firms lifts rupee nearly 1%, experts see near-term support",
+      "source": "www.malaysiasun.com",
+      "published_utc": "2026-10-12T05:45:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZGpjUV9PRnF5OFBjYVVQdWJtcG81SjRtR1FjUzZRQnZQQXBBak41TWN0UzVKN21hazd6WWJGTlpXUUZUSm1tNWhwSFdvazBkd1hTaUZUalZEYTFwVjlMWmxBdUNxS25KQkFPek41c2tmOXg5TjZfQlRfeHI2ZHhDT3U3WnljUWFWSFNzb1dwQnVSdktPSTlNTDc1YW5pX3h2TlRpX3JyZ0RTeXlYUWdTZ0RHS1pKak8zN09wQkpLQVkwX28?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "USD vs INR: Rupee jumps 97 paise after RBI's dollar move \u2014 Is this temporary relief rally?",
+      "source": "Zee Business",
+      "published_utc": "2026-10-12T04:56:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNemxVOWluUnkyZG5NMVRXZllzdWt1UHd3OGNfM2lianNNMldNXzlpNkFHWVZoMC1CbU4yajlNVUhja0RwdUQwWnljMlc0WWNwUmpoMUNhQWZZakZPTldWcTRCblNWdXN2LWt2cUtROEVKZWpZQU14RWpmLWxHNlRjb2VseC0wZWdBV0QyTHZtNWtQdDJHMTBRajhRV3FWczhGSi1nQ2tDOGFGcFVfcGlxVHppRlBrLVY5dnJRcU5iMHl5bmcxZVcwNnVLQ1k?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Rupee gains about 1% to open at 95.76 after RBI\u2019s dollar curbs",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-12T03:43:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRllsR3pBN3gwekpKNUtkclpJRFdLNTVHM0VrTFZIQzI1QUYyM3hwVlYtY0g5RjZLYlhkT2Jpb1F6bV90UXhBQ2prbWE4RmxreWhTV2ZwMTBaSGsyZmh1OTBUdHJuTXRaT3lVWVN4T195N1gydFNZdUJ4Nm9ReGhnMzM5b0FQejU1M0gwa283b0ZxYTY4LXBBbVhldGI5NUh2Tkt1ZWw1OW4zaXFqUklrM244WmcxQzJUSVFDNWxpelFVd9IBxwFBVV95cUxPdXVER0hJclVGQk1CbGQxUXI0cU9BbldhZzI3SVFpdzhqOURzbWl0XzB4YnVEMFNIcDZrZVRONi12cEdONGJkQm9nNGNUQmtXRmtFYmp6elNvbXVJR3dwN3MtOUF3MEdLNTh3dlRkYlFMeWtnanhQd1VUX0s2bjVLcDNWcTFfdnl1S3hiYVVOVzZ4S1dLLWo5S3BpamV3QUN1cWVUOWdKaDl1anNKMjM5a2tVWFdoTGk4RHdBMmtvUkZ3elNDYlJj?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Launches MT IRIS, Plans Four More Vessels to Strengthen Andaman Fuel Supply",
+      "source": "The Wave Andaman",
+      "published_utc": "2026-10-12T03:23:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMTJmR1hScDZlUUlyZVFMaDROcUZjSEF6RlhFdjZZNnU5MHo5bDVvNTJXT1lpQ0tKdmd1dXdtdzZPNDg5VFB4MDV4NkVFZ1Ywck1uYmVyWW0wcVdWWE5QS2RNcEhMTGx2STIzMUpRcWdySmJlbHozRUh5T1Z6ZlQyNEEyUVdWZw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI to meet dollar requirement of three state-run oil companies",
+      "source": "ET Infra",
+      "published_utc": "2026-10-12T03:01:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVNvLVMyaldVYVpMWUN1WHA3WXlSa2ZBNy1IV3oxRUJYRVhlNU0zSkxKN3VmeUtmcjd6RS0wS1pZcXh0R3dVZUg1ZnN2dVB6SEc1Y3h0dW1YekRhbk1BN2Nva1dqX3FNWUUwYnltc2dXQk5sbE9fdWUyZDM4VWMtLTJBSEdsUXVpR2RpdGVOSklQazBBYjV5Wkl1QTRrUkJ5MnE2dzR3STNwbk01UlFlMS0wQnc0VkFTS244Zm1sbDVqU0tDWU80?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder Booking: After 45-Day & 25-Day Rules, New LPG Formula Out; How To Buy LPG 19 Kg, 425Kg Indane Gas",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-12T02:13:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbDBpaUpqUW9tZGQ0TGZqUThON3RoMmxLRHBibVU2SEN6LXFHRFA4YlFiR3R2VFF0d3VyUUpfaDlzeHpKaG4xN1lLS2hBNjU4SVVrMEpFY2otLVVLSHZZV21BVV9jQjNPSktBaUl2YVZrVFFleEM3ZHF5Y1dKbFlwUmxyOGUzRU90VFdLNFUzeE1hQ1JhZG5sbXJQTkJ5TkwwV2g2ZDRJS3VPOFZhcnAxbzlxU2ZaNUZjYXlxV3FpaWFZVW56YVFqRmZOODkyUUxNSWZ5YkpBSUc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history",
+      "source": "Yahoo Finance UK",
+      "published_utc": "2026-10-11T22:49:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xeXJjVnZ0V2gtTms3eTY0ak1yaTZnR0RXVHpEMEQ0bTh1SElpTFBkV3c1R1dIUlk5SEZVMnFzLUM3MmcwS1BPRWxLV0RHS1prbmU1U2NKbTByNm8?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Supreme Court Dismisses Appeal Against Dismissal from Service by Indian Oil Corporation \u2014 Upholds Validity of Standing Orders.",
+      "source": "Lawtext",
+      "published_utc": "2026-10-11T22:24:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JQ1kyamtiYjJNc3NaSll0Q0VmVlVvaHFBTmVyMDQ0ajM4bVlmUExyVzFwRWhTMmxCYjY4ZHRwZG1lQjYwOWVIR3QwLXFKT0FJUks4SnFRR3hwazc4Y1d2WV9RR1NDUQ?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Hon\u2019ble Lt. Governor, Dr. Dinesh Sharma Inaugurates Indian Oil\u2019s New Barge MT IRIS at Sri Vijaya Puram",
+      "source": "Andaman Chronicle",
+      "published_utc": "2026-10-11T19:20:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPblVsOG82RWREZEstb3Z1MEQ2ZktsLUd5VE01djh3NnNYYkh4VG9yWVNhVzBRNU44dURPZ0tJM3hlMXNXaFg1WUlLaDhLbXEzcFRoTTlZY1BsNUZWNVUtTWZXekRvcWQ4LThtODB1U2FYM3g0U0RTYlNDcXBSQ2I3alVuNU9qRmZ6WDR6emdyLVh2cVpCRGUwemRWeUxxZHNNejVOdlAzSE04alhybGlRWGFwVXI0bVlidGRpdElqazB6eURiRWc?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Lt Governor Discusses LPG Supply, Storage Capacity Augmentation with Indian Oil Officials - Nicobar Times",
+      "source": "Nicobar Times",
+      "published_utc": "2026-10-11T18:36:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa0Vvcy16VmFxeE5OOVlySnl2TnVfb0J3dFZwdnBQNWxZb0x1ZFZGbVVQb3drZmJQUVdUcUxWa2JMeXRFdEItUE52UHZZZVZfVVZTazZjbHB2MDNJY2haS0QweHEwRVR6MDQtUzlrYVlMQXM1UG1pcXVjVmVfd2ZuNjdjREhpazA1SktrRWs4NC13M2tRQUZ3V2dqckRYM0VfdjFxbzFmUnVENVlpVzRjTXdyMDlXT0hEb0lDc2FiM0dMUXfSAcMBQVVfeXFMTmtFb3MtelZhcXhOTjlZckp5dk51X29Cd3RWcHZwUDVsWW9MdWRWRm1VUG93a2ZiUFFXVHFMVmtiTHl0RXRCLVBOdlB2WWVWX1VWU2s2Y2xwdjAzSWNoWktEMHhxMEVUejA0LVM5a2FZTEFzNVBtaXF1Y1ZlX3dmbjY3Y0RIaWswNUpLa0VrODQtdzNrUUFGd1dnanJEWDNFX3YxcW8xZlJ1RDVZaVc0Y013cjA5V09IRG9JQ3NhYjNHTFF3?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI to meet daily dollar needs of 3 state-run oil firms to ease rupee pressure",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-11T18:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORnNLTXpwSWVyU3FJV1lMdE5PNjVLZnNvSGNHZXpWMlRaeW5neWVMdlltSXZoMU9CRkdObHhDcHJ0TGZCVWZkdjczb1RZWkY4X2RUREtTSjBWeWhJNk0yU21mSDNfa0YtaGpPVVdMM2J1UzMyQjdCWHJDTFJPLU4xdVJuTXVYT1phNmozUW0tS2hEaV9jdEE0czlIREZ3bzM2ajhOa24tUnRvc3JmSzA4M0c1bU1MRGJSVFB0UlAwcGFhT3FqSFo3c3hIeEFXN3AySW40QzZyRWpfUXFNbUxpSVozNEJybVVsbFJ0UzgyQ1JOQdIB8gFBVV95cUxORnNLTXpwSWVyU3FJV1lMdE5PNjVLZnNvSGNHZXpWMlRaeW5neWVMdlltSXZoMU9CRkdObHhDcHJ0TGZCVWZkdjczb1RZWkY4X2RUREtTSjBWeWhJNk0yU21mSDNfa0YtaGpPVVdMM2J1UzMyQjdCWHJDTFJPLU4xdVJuTXVYT1phNmozUW0tS2hEaV9jdEE0czlIREZ3bzM2ajhOa24tUnRvc3JmSzA4M0c1bU1MRGJSVFB0UlAwcGFhT3FqSFo3c3hIeEFXN3AySW40QzZyRWpfUXFNbUxpSVozNEJybVVsbFJ0UzgyQ1JOQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "LG Flags Off Indian Oil\u2019s MT IRIS Barge to Strengthen Fuel Supply to Remote Islands - Nicobar Times",
+      "source": "Nicobar Times",
+      "published_utc": "2026-10-11T18:28:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNW43cy02SHhvQ3hXbzZyZ2ZhMW11TG8xTzlZUlR4Zk1FVVZDMUtLakUtdTRtcVUwWTg5aGhZd0RtWVBob1ZIY0JhQW45SF9pbVFkTjhvOHRqSmZDZ3RRWkVhUE02MXJsS0FOMFRrcmRHT2xPSnFxUUwxTnJpaWhpNUItc0FPRVJsR3VBUExlR2F2VnlDTlZxMlpKLVRYWHM0Yi00RXFwWmk0c3J1U2plWW14eDlkSWVHcHpF0gG7AUFVX3lxTE01bjdzLTZIeG9DeFdvNnJnZmExbXVMbzFPOVlSVHhmTUVVVkMxS0tqRS11NG1xVTBZODloaFl3RG1ZUGhvVkhjQmFBbjlIX2ltUWROOG84dGpKZkNndFFaRWFQTTYxcmxLQU4wVGtyZEdPbE9KcXFRTDFOcmlpaGk1Qi1zQU9FUmxHdUFQTGVHYXZWeUNOVnEyWkotVFhYczRiLTRFcXBaaTRzcnVTamVZbXh4OWRJZUdwekU?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder Booking Rules: No OTP, No LPG Cylinder! How To Get Your Indane, Bharat Gas, HP Gas LPG Refill?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-11T18:08:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3BlWkxZRktfSy1zSHBBczZHMmROX3p4VzdCN3pieDBOLUFqZGtEcXhERG9HT2RITFZLNUtLWjZIYmRIU1RvNXR6OUhxZHVvSmdvU0NqNmtXWERUZHdnVTdocDljemhqaFYyV0NrMTItSUR4SkNPcUVqR25wQmxma001RkVOUlRHeEMtMF9MWEFwYTc0TzNZcmQ4aS0zaEFsU2V2WDNjU2czX1BjZXRidlNOSmtPYTFTXzFHbjJjTXFjREZCeHZvNHJQcjFWQ0hPeExWQUUwWTJaaUN0MXc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Two Indians missing, 9 rescued as drone attacks oil tanker off Oman coast",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-11T17:28:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWG92Mkw4b1ZnaWJudTBEb09FRnVJOGUzZVB0SFVERkFwcW95ZVA0bGtlYWlvd2VhVk1rOHRkblZQQ29sMmFaaTJhMUlPRHBtVEduTHhwOUJycWl5RXZrUHVHVVpOOUlzd2Z4Vmc4SC1GRy1menRobmcwTENxenNNMEN0Z1NsSjQ4eEtEZExpXzh0QU0xLWh4YlVWbkE3dEIzSkswaE9WblUyR3dobF9GOC1kQjJuUl9JQnhndmZmd0R3RWdva2lGOGd1d2F6QWVxUGhRNnRMVUI5N2RnVVRWS3VEdS1aRE5hdGM3ZU5sb9IB7wFBVV95cUxQWG92Mkw4b1ZnaWJudTBEb09FRnVJOGUzZVB0SFVERkFwcW95ZVA0bGtlYWlvd2VhVk1rOHRkblZQQ29sMmFaaTJhMUlPRHBtVEduTHhwOUJycWl5RXZrUHVHVVpOOUlzd2Z4Vmc4SC1GRy1menRobmcwTENxenNNMEN0Z1NsSjQ4eEtEZExpXzh0QU0xLWh4YlVWbkE3dEIzSkswaE9WblUyR3dobF9GOC1kQjJuUl9JQnhndmZmd0R3RWdva2lGOGd1d2F6QWVxUGhRNnRMVUI5N2RnVVRWS3VEdS1aRE5hdGM3ZU5sbw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI Tightens Forex Derivative Rules and Opens Oil Import Dollar Window",
+      "source": "illustrated Daily News",
+      "published_utc": "2026-10-11T13:40:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZExUNVhONF9ULWticUdLTUVKbEcySG9Xd3plT3A0ang0R3lrTmJzSFlrX2ZKSTE5ZVdwcXByckRySjN3bDhJZldQc3Y4WG5odXZkOTFiREJjcTRObUpIXy1zZTBIWGl4ZUtOYnpNaUFJa2VkdlpzcUVzZU4tQjNuVlRSZ3Z4Qk0yQjQ3S3J3YnpDTlg5ZERyVF9iS1hUR3NTemxTN3d1ekhkanlKSkg4emRfcUhjTXRQWnBuNFVBeGnSAcYBQVVfeXFMUHU4anBEMFE1THdSVHFKUXEzV3BFejlEYjhTdm4xUkhqRjdMYjBvSmxYWWZ5Vk5oYTloLUNFbkx6eWhZSVlXYlAwdnNqXzlyWmk3YThka3JEbnl1X0F1M25SQk9pcnNGaEhMQ0VHam9DYmgwNnlZOTFnZ0ZpTUNzMzJDLXUybFdoQW50eTJLaXczVW9PQWhSV1AyMUhkaUZ4eVJtWjNlUmRva2Q2RHBkZG5DUnlwN1RMMWVmbWJ1MjdrRHNyTXJR?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder E-KYC Deadline Is Tomorrow: 5 Rules To Know For Indane Gas, HP Gas, Bharat Gas Before August 16",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-11T11:20:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdFVscUlTX1RuMDRIQm1hTXdHcXZGQWhlc0V1d2theTltYXhtMFdOTVFnclZQQTNDMUZrQ1pGOTBaZVdIYmhtQlFoR1l2MENKQWJPWENHRDZibzltdlUteEF5NEFsLXBPVUx1a0dKWEY0cWJDd2R1SlB4NDNOMWJIZlFiSGxxXy1hZjdkRnFnZGhFdi0tdUNsRl9XY3BJMHN0UEJQY3hlODNPVEcwZFVKOE9HbGdMclJQNWdMOThwQnY3VnRmb0E0d3BkUlZQdXJJR1VIb3BKYjFNYTVGdjdHUmZ6Ym81NklHZkVF?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder New Rules: What Happens If You Miss August 16 e-KYC Deadline For Indane Gas, HP Gas, Bharat Gas?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-11T10:12:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYzd4VW9QOXZxczJQQmZMQUg4T0ZFdWpOOFFFZ202bEMxUVZiSjFUY2dMTmd0QkFrSmNrUWpHbTltazl4LUtSM0c3V0Y5TTU2b2RSbDE4ZElzZ3I4MC1fSlFINUFTZXhVRWp0V0hrOVh2VURuck9Ranh6eVRiN3h1bGhncnFMT3ZoOVk0SGZtdnlyZ29pTERYWHJNczhxM2VzWGVUZEtFZVVpMlVHLXdkTktXTVQxVjBQTlNpd0pLZW90d2N6c1E4NGxGeVFhR1lqenM0alUxc2hHVWFNWEZqY2ZGZUZMU1VFbEVhZWR3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India grants three oil firms direct dollar access to support rupee",
+      "source": "Nation Thailand",
+      "published_utc": "2026-10-11T08:37:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rZUNvS0Z5YnFINUYteWx4R0Q0TjJBVTBwRHdrcXZtdGQwVU9EYjJOaElkQUhESi1NY05RSkkyTnVwQmtkMDgwaEgtRnY2aWxGczBQR0s1Z2ppYnplSGtR?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "How India has sought to defend the slumping rupee",
+      "source": "Reuters",
+      "published_utc": "2026-10-11T07:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFF2VFI4UGZEY2Q5dnVYMlRZZFU0SHVzbW5aT3MxMF9JNjhiNWtQYllxamg4MVl4UkNQenZ4RXY2NkZwVDJlUkltUzIta0xvRzE5RTFQdlZFTlU3YnVPM0lpOEtZQXJ2dlpoX2dwcmNJVUp4WFlhYVgwd3RXVlBYSTZOSmUzRWl4YU1aNy02UWtlNlZETll0R2txRmNOSl9Uc3ZqWk1PaEwzSmVwRTFaLVEyd3ZYM1FoVFE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "BPCL, HPCL, IOCL, Reliance Shares Alert: Why Oil & Gas Stocks Fall After Rs 3/Litre Windfall Tax On Petrol?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-11T06:44:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd3NrWEdjYWhVS3RaeE1hcVZVMFViYzBWeGRwSnRtaDUwd0F2b0R5OVFEZWtPM1NNdDk2RUJyXzJRaTJrdWstdlNDdkVYeW5taW9aYzNUZ2wzS0hVZjFtWVhkc2ZscVg5THg5WHA5TWh2RVBNc2E1Zld0NDlKS1VmTGpCeEpRLW82WU1SeThWTTNUSldTd3Q0d0NXZkxDOHd5YzNRbFZ3c3pfSjkxZUhrbHUySThXN2FMb25OZjFRUnB5eHRIZzhZZzBuY0FCSk9NUDlPRTk2QTJpYlpU?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI Launches Emergency Forex Measures to Support Ailing Indian Rupee",
+      "source": "illustrated Daily News",
+      "published_utc": "2026-10-11T05:39:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYUdHT210Z3dEdmpuMk1OYjF2MkNORm1aXzhsQkg3bUdYNWplWnMzcGtzaE5Ld0FqQzVES0llRDZmVlkzSVZHcy1ENWxSTmpDNmhnNks1NTFwRVlyN3RpOGI5NW82V1ZHcUJ0X2tnbXh5T1lQbFFBdnk2OE9hQ01rMXBEYkd1OGFlVS1KNnE2NmJfZXlqZkZrOWdfczdIQlhCZERVV19pWTZpWEdIUE43Z3BTTW0wU0xxaXNnV2xB0gHDAUFVX3lxTFBYekJpejg1dHNXYVd2dUR5djJQT0FVYVJNMmxtaEJsbG1Rd0RCbWVPdWpZMmloMUR5eUx4Z1NQdm9zcjVMNEVYdXROTV81MWtEQ1lzNll5SUR1VWlPYnlfMDdPM3JGTU96UVFxVHpLRl9mOXF2SDh3UGxKMlJkamMxZHVzSEdZSWNZcGVPT19uZjN0RndkR2FYel9nZDJ6V2dGMXFuZlNSbHVraU5qazl4a3VldkZuclRWeGJQbFlhdjkyRQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.127,
+    "strength": 1.0,
+    "material_count": 7,
+    "view": 0.127
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-13T12:03:50.304694+00:00"
+}

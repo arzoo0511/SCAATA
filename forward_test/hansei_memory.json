@@ -665,6 +665,66 @@
       },
       "close": 266.0,
       "judged": false
+    },
+    {
+      "date": "2026-10-13",
+      "symbol": "HDFCBANK.NS",
+      "views": {
+        "trend": -0.872,
+        "volatility": -0.202,
+        "momentum": -0.68,
+        "news": 0.133
+      },
+      "close": 714.0,
+      "judged": false
+    },
+    {
+      "date": "2026-10-13",
+      "symbol": "ICICIBANK.NS",
+      "views": {
+        "trend": 0.142,
+        "volatility": -0.0,
+        "momentum": 0.552,
+        "news": -0.215
+      },
+      "close": 1360.199951171875,
+      "judged": false
+    },
+    {
+      "date": "2026-10-13",
+      "symbol": "PETRONET.NS",
+      "views": {
+        "trend": 0.417,
+        "volatility": -0.0,
+        "momentum": 0.412,
+        "news": 0.058
+      },
+      "close": 290.0,
+      "judged": false
+    },
+    {
+      "date": "2026-10-13",
+      "symbol": "IOC.NS",
+      "views": {
+        "trend": -0.935,
+        "volatility": -0.0,
+        "momentum": -0.225,
+        "news": 0.127
+      },
+      "close": 126.13999938964844,
+      "judged": false
+    },
+    {
+      "date": "2026-10-13",
+      "symbol": "ITC.NS",
+      "views": {
+        "trend": -0.89,
+        "volatility": -0.874,
+        "momentum": -0.648,
+        "news": 0.021
+      },
+      "close": 261.0,
+      "judged": false
     }
   ],
   "weight_history": [],

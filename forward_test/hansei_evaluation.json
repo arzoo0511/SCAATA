@@ -1,44 +1,44 @@
 {
-  "as_of": "2026-10-09",
+  "as_of": "2026-10-13",
   "performance": {
-    "sessions": 11,
+    "sessions": 12,
     "first": "2026-09-24",
-    "last": "2026-10-09",
-    "hansei_return": -0.004135,
-    "hold_return": -0.012299999999999978,
-    "gap": 0.008164999999999978,
+    "last": "2026-10-13",
+    "hansei_return": -0.005279000000000034,
+    "hold_return": -0.01475000000000004,
+    "gap": 0.009471000000000007,
     "hansei_max_drawdown": -0.014406887476195673,
     "hold_max_drawdown": -0.026440999999999937,
-    "sessions_ahead": 10,
-    "gap_from_exposure": 0.00829849118831294,
-    "gap_from_selection": -0.00013349118831296192,
-    "average_invested": 0.4117853675219567,
-    "daily_gap_volatility": 0.006256889608748525,
-    "hansei_volatility": 0.10414457968482413,
-    "hold_volatility": 0.19029597387433095,
-    "volatility_ratio": 0.5472768423025066
+    "sessions_ahead": 11,
+    "gap_from_exposure": 0.010058597554656878,
+    "gap_from_selection": -0.0005875975546568712,
+    "average_invested": 0.4109853481725773,
+    "daily_gap_volatility": 0.005937987567404059,
+    "hansei_volatility": 0.09886185062436455,
+    "hold_volatility": 0.18063110173524496,
+    "volatility_ratio": 0.5473135560523158
   },
   "advisors": {
     "5_sessions": {
       "trend": {
-        "judged": 30,
-        "hit_rate": 0.7,
-        "correlation": 0.5273001022787404
+        "judged": 35,
+        "hit_rate": 0.6571428571428571,
+        "correlation": 0.5093418834678693
       },
       "volatility": {
-        "judged": 6,
-        "hit_rate": 0.8333333333333334,
-        "correlation": 0.19656484013598044
+        "judged": 8,
+        "hit_rate": 0.75,
+        "correlation": 0.1905388014835597
       },
       "momentum": {
-        "judged": 30,
-        "hit_rate": 0.6333333333333333,
-        "correlation": 0.49440945791550817
+        "judged": 35,
+        "hit_rate": 0.6,
+        "correlation": 0.4943626817931714
       },
       "news": {
-        "judged": 22,
-        "hit_rate": 0.5,
-        "correlation": -0.02779198112143198
+        "judged": 26,
+        "hit_rate": 0.46153846153846156,
+        "correlation": -0.098821236714267
       }
     },
     "20_sessions": {
@@ -71,9 +71,10 @@
     "news": 0.25
   },
   "health": {
-    "last_session": "2026-10-09",
+    "last_session": "2026-10-13",
     "weekdays_without_a_session": [
-      "2026-10-02"
+      "2026-10-02",
+      "2026-10-12"
     ],
     "sessions_out_of_order": false,
     "news_days_scored_by_keywords": [
@@ -97,10 +98,10 @@
   },
   "significance": {
     "backtest_cagr_edge": 0.006642662683372658,
-    "daily_gap_volatility": 0.006256889608748525,
-    "sessions_needed": 219722,
-    "years_needed": 886.0,
-    "sessions_so_far": 11
+    "daily_gap_volatility": 0.005937987567404059,
+    "sessions_needed": 197895,
+    "years_needed": 798.0,
+    "sessions_so_far": 12
   },
   "backtest_reference": {
     "Full period": {

@@ -1,0 +1,44 @@
+{
+  "symbol": "PETRONET.NS",
+  "date": "2026-10-13",
+  "headlines": [
+    {
+      "title": "Iran\u2019s petrochemical build-out draws $91.6 billion in investment, NPC says",
+      "source": "Indiatimes",
+      "published_utc": "2026-10-12T15:27:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblhscDFaY2RRamZEdzh2VTNDSXBscTNNNkZURW1QV21HckJxYXdTdzg3REc5NkMzbWc2R05pVllDQVNaVFRYaXJYS0dEU3pzaDJZM2ZycFpyd1k4VnIzbnZCUERvXzN2OTUyc0hwOHFQc0JpTTZfb2JZX05RNTB1akhzUVZIZFpuQjFPaThjUkxCclZuM1o2MnR2NEhpSFZqU1VvOGs0dUt4aDFoeXl3N04wOXZMWi0tcnpGOF94d2RKbWxHYmdJTDhPM0RoVEYtOVFxTG84UnBtZ1Bsb0FyaDN30gHmAUFVX3lxTFB2NTg2YzJzVVM1alpiUWJ0djVIV3lyVkVyMWF3dWpIYks2OXNPdnpaN3A4RmJFT1RGZFR3V3pvN0ZFLTloTUxMdHRGbnhvQnpzRTV1TjcycC12TGsxN05aZGNHU1FKblhHckg2Tk04Yk5NSjIzV2NLQ280WTVPTzZ6VG1hOFA2WWhINjhINlpQbExRc3JyeWJxZTJzcmlyNVBhNF80c3VfTjBjMGdsSjMtOVBMZzBoc2hRRmRoeFVhMUwzNWphQWQ3YTJyZTJCdDJVMzZzX2RhWE5WLUlFZjFPRkNQOFBn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Parag Parikh Flexi Cap Fund: Bharti Airtel, Indus Towers and Petronet LNG among 13 stocks bought in September",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-12T08:05:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOXzd0N2h4SkNIMVlqaVFvTUVwUGdCSHVEQ0kwd3ZyTmhqRTBFRkpkdV93cU5DaXAwWHVGcjJid2d2dnVVdW5RcDVCdTlvdzFCN1Z3M3k0Sk1qUHdsb1pRQXN1bXdNdFAwRFlZMEpUWEdjQzlXYl8zc3FyS3JvY3htUGZ2cWdTdmxCSllKVERRRE9ncjUxUUNuT1JwVnA5SVM4bV9icTRpNTRydzNYN2JwbTNORk8tcGFWWmRzZzFNaDNnNUE1VktSVFVkaHNINlBJM2FDYlpMMFVQa2FSOGtYSWRPaWx0RkNRbzJmZnExVjJNM1pfRC1ySEdOVWhrYVBOUnlOSG9kekRvc0Vq?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Fuel50 names Jo Mills CEO after Phoenix Education Partners acquisition, as Anne Fulton steps down",
+      "source": "People Matters Global",
+      "published_utc": "2026-10-12T07:49:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbGozV1FhT1J2cjR4THBka01WUnVlRy03eS04Wi1KR1hYcTFFaUNOZUZMRVd3OHhtQ3A1T1FGVF9MOEZKb05rcWs3OElyU0NwYWNtLW91WTFqS2R6SlVFVm50eWFCeDFaSFh0eGI0aW1jQWtJa0F0cXdXWHh4dHduOHJBRUZ5MGVxVGtiZDQwTEpzOWZfVnpOZjRFMG52bGstem1LYWc5OGxVNU9GWFBjMTRQTm1FbEhCLVgxdTJLeExxYURFX0NueFExUGpsNGI3SEhXaXlicklRSU40R2VBc1BFR3ZIZmNkejlyWkR3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 1.0,
+    "strength": 0.058,
+    "material_count": 0,
+    "view": 0.058
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-13T12:03:46.312248+00:00"
+}

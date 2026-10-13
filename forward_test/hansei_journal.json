@@ -3149,5 +3149,271 @@
         "top": []
       }
     }
+  },
+  {
+    "session": "2026-10-13",
+    "ran_utc": "2026-10-13T12:03:53.432530+00:00",
+    "equity": 9947.21,
+    "benchmark_equity": 9852.5,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.405,
+        "target_exposure": 0.19,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.87, trusted 25%)",
+          "momentum against (-0.68, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.872,
+          "volatility": -0.202,
+          "momentum": -0.68,
+          "news": 0.133
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.12,
+        "target_exposure": 1.0,
+        "current_exposure": 0.684,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "momentum supportive (+0.55, trusted 25%)",
+          "news against (-0.21, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.142,
+          "volatility": -0.0,
+          "momentum": 0.552,
+          "news": -0.215
+        },
+        "value": 1360.2
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.222,
+        "target_exposure": 1.0,
+        "current_exposure": 0.875,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 87%: no strong reason to change",
+          "trend supportive (+0.42, trusted 25%)",
+          "momentum supportive (+0.41, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.417,
+          "volatility": -0.0,
+          "momentum": 0.412,
+          "news": 0.058
+        },
+        "value": 1740.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.258,
+        "target_exposure": 0.483,
+        "current_exposure": 0.19,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 19%: no strong reason to change",
+          "trend against (-0.94, trusted 25%)",
+          "momentum against (-0.23, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.935,
+          "volatility": -0.0,
+          "momentum": -0.225,
+          "news": 0.127
+        },
+        "value": 378.42
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.598,
+        "target_exposure": 0.0,
+        "current_exposure": 0.262,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "trend against (-0.89, trusted 25%)",
+          "volatility against (-0.87, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.89,
+          "volatility": -0.874,
+          "momentum": -0.648,
+          "news": 0.021
+        },
+        "value": 522.0
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.133,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": 0.133
+        },
+        "top": [
+          {
+            "title": "HDFC Bank appointed Anup Bagchi: what it means for HDFC Bank stock",
+            "source": "ad-hoc-news.de",
+            "sentiment": 0.821,
+            "material": 0.9,
+            "published_utc": "2026-10-13T08:19:29+00:00",
+            "count": 2
+          },
+          {
+            "title": "HDFC Bank Q4 Result: Net Profit Increases 9% YoY, NII Up 3.2%; Dividend Declared",
+            "source": "Goodreturns",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-12T18:18:30+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Q2 Results Date: Private lender to host earnings call on THIS day",
+            "source": "Zee Business",
+            "sentiment": 0.0,
+            "material": 0.6,
+            "published_utc": "2026-10-13T11:12:33+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank lawsuit deadline is October 13, 2026: stock pre-market at EUR 20.30",
+            "source": "ad-hoc-news.de",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-10-13T05:38:09+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.215,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": -0.215
+        },
+        "top": [
+          {
+            "title": "ICICI Bank Gold Loan Scam: Rs 23 Crore Fraud Uncovered as Fake Ornaments Found Across Nine Branches in Nagpur",
+            "source": "Goodreturns",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-12T16:49:24+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank schedules second-quarter results and ICICI Bank stock costs EUR 25.45",
+            "source": "ad-hoc-news.de",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-10-13T08:37:35+00:00",
+            "count": 3
+          },
+          {
+            "title": "ICICI Bank to host Q2FY27 earnings call on October 17",
+            "source": "scanx.trade",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-10-12T14:07:58+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank Issues Shares Under Employee Stock Option Scheme",
+            "source": "marketscreener.com",
+            "sentiment": 0.0,
+            "material": 0.6,
+            "published_utc": "2026-10-13T06:15:18+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 1.0,
+          "strength": 0.058,
+          "material_count": 0,
+          "view": 0.058
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.127,
+          "strength": 1.0,
+          "material_count": 7,
+          "view": 0.127
+        },
+        "top": [
+          {
+            "title": "IOOA Writes to Union Petroleum Minister, Seeks Central Protection Law for Oil Sector Personnel After IndianOil Manager\u2019s Murder",
+            "source": "Indian PSU",
+            "sentiment": -1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-13T08:49:52+00:00",
+            "count": 1
+          },
+          {
+            "title": "Supreme Court Dismisses Appeal Against Dismissal from Service by Indian Oil Corporation \u2014 Upholds Validity of Standing Orders.",
+            "source": "Lawtext",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-11T22:24:52+00:00",
+            "count": 1
+          },
+          {
+            "title": "SAIL Rourkela Steel Plant Signs Three-Year MoU with Indian Oil for Diesel and Petrol Supply",
+            "source": "Indianmasterminds",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-12T14:52:55+00:00",
+            "count": 2
+          },
+          {
+            "title": "BPCL, HPCL, IOCL, Reliance Shares Alert: Why Oil & Gas Stocks Fall After Rs 3/Litre Windfall Tax On Petrol?",
+            "source": "Goodreturns",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-11T06:44:34+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.057,
+          "strength": 0.367,
+          "material_count": 1,
+          "view": 0.021
+        },
+        "top": [
+          {
+            "title": "Cigarette Stock: Should ITC Ltd Split Its Business Into 1:2? What's Smoking In This FMCG Giant?",
+            "source": "Goodreturns",
+            "sentiment": 0.0,
+            "material": 0.5,
+            "published_utc": "2026-10-13T08:28:59+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]
