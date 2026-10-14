@@ -307,3 +307,14 @@ def test_tolerance_and_floor_shape_the_target_but_default_to_the_live_rule():
     assert target_from_score(-0.25) == 0.5 and target_from_score(-0.6) == 0.0
     assert target_from_score(-0.25, tolerance=0.25) == 1.0
     assert target_from_score(-0.9, floor=0.25) == 0.25
+
+
+def test_a_run_that_finds_several_new_sessions_processes_each_in_order(paths):
+    from scaata.agent.daily import load_journal
+
+    run_day(date(2026, 1, 1), prices=_prices(300), news_fn=_quiet_news, **paths)
+    result = run_day(date(2026, 1, 1), prices=_prices(303), news_fn=_quiet_news, **paths)
+    sessions = [e["session"] for e in load_journal(paths["journal_path"])]
+    assert len(sessions) == 4 and sessions == sorted(sessions)
+    assert len(result["caught_up"]) == 2
+    assert len(result["filled"]) == 0          # the first-day buys filled at the first caught-up open

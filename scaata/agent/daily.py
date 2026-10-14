@@ -118,6 +118,20 @@ def run_day(today: date | None = None, prices: pd.DataFrame | None = None, news_
         return {"skipped": True, "session": session_day.isoformat(),
                 "reason": "this session was already processed", "summary": summary(book)}
 
+    # Yahoo sometimes publishes a session's bar only after the next one has
+    # started, so a run can find more than one unprocessed session. Process
+    # each in order, as of its own close (prices up to it, news known by the
+    # open its orders fill at), so none is skipped.
+    caught_up = []
+    if book.get("last_session"):
+        missed = [t for t in closes.index if book["last_session"] < t.date().isoformat() < session_day.isoformat()]
+        for t in missed:
+            run_day(today, prices=raw.loc[raw.index <= t], news_fn=news_fn, book_path=book_path,
+                    memory_path=memory_path, journal_path=journal_path, now=now)
+            caught_up.append(t.date().isoformat())
+        if missed:
+            book = load_book(book_path)
+
     # 1-2: yesterday's decisions fill at today's open; mark to today's close
     today_opens = {s: float(opens.loc[session, s]) for s in INDIA_TICKERS if pd.notna(opens.loc[session].get(s))}
     today_closes = {s: float(closes.loc[session, s]) for s in INDIA_TICKERS if pd.notna(closes.loc[session].get(s))}
@@ -164,7 +178,8 @@ def run_day(today: date | None = None, prices: pd.DataFrame | None = None, news_
     save_book(book, book_path)
     mem.save_memory(memory, memory_path)
 
-    result = {"skipped": False, "session": session_day.isoformat(), "filled": filled, "marked": marked,
+    result = {"skipped": False, "session": session_day.isoformat(), "caught_up": caught_up,
+              "filled": filled, "marked": marked,
               "decisions": decisions, "queued": list(book["pending"]), "weights": weights,
               "lessons": lessons, "news": news_digest, "summary": summary(book)}
     journal = load_journal(journal_path)
@@ -196,6 +211,8 @@ def main() -> None:
     if result["skipped"]:
         print(f"  skipped: {result['reason']}")
     else:
+        if result["caught_up"]:
+            print(f"  caught up first on missed session(s): {', '.join(result['caught_up'])}")
         for t in result["filled"]:
             print(f"  FILLED {t['action']:<4} {t['symbol'].replace('.NS', ''):<10} {t['qty']:>4} @ ₹{t['price']:,.2f}"
                   f"  (cost ₹{t['cost']:.2f})")

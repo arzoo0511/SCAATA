@@ -1,7 +1,7 @@
 {
   "as_of": "2026-10-14",
   "performance": {
-    "sessions": 13,
+    "sessions": 14,
     "first": "2026-09-24",
     "last": "2026-10-14",
     "hansei_return": -0.004995999999999889,
@@ -9,36 +9,36 @@
     "gap": 0.009994000000000058,
     "hansei_max_drawdown": -0.014406887476195673,
     "hold_max_drawdown": -0.026440999999999937,
-    "sessions_ahead": 12,
-    "gap_from_exposure": 0.010277705447962915,
-    "gap_from_selection": -0.00028370544796285646,
-    "average_invested": 0.41031568983853217,
-    "daily_gap_volatility": 0.005662406816031032,
-    "hansei_volatility": 0.09432531691951405,
-    "hold_volatility": 0.17229581697049634,
-    "volatility_ratio": 0.5474614449616393
+    "sessions_ahead": 13,
+    "gap_from_exposure": 0.010280667956088285,
+    "gap_from_selection": -0.0002866679560882268,
+    "average_invested": 0.40962618738727535,
+    "daily_gap_volatility": 0.006118262668987234,
+    "hansei_volatility": 0.09263132296987663,
+    "hold_volatility": 0.1774210296311244,
+    "volatility_ratio": 0.5220988918983627
   },
   "advisors": {
     "5_sessions": {
       "trend": {
-        "judged": 39,
-        "hit_rate": 0.6666666666666666,
-        "correlation": 0.44972321702806645
+        "judged": 44,
+        "hit_rate": 0.6363636363636364,
+        "correlation": 0.38486850628898034
       },
       "volatility": {
-        "judged": 10,
-        "hit_rate": 0.8,
-        "correlation": 0.17855661658450225
+        "judged": 12,
+        "hit_rate": 0.6666666666666666,
+        "correlation": 0.16583908760025548
       },
       "momentum": {
-        "judged": 40,
-        "hit_rate": 0.575,
-        "correlation": 0.46046258695644143
+        "judged": 45,
+        "hit_rate": 0.5555555555555556,
+        "correlation": 0.41107054940482657
       },
       "news": {
-        "judged": 30,
-        "hit_rate": 0.4,
-        "correlation": -0.1561630190996034
+        "judged": 34,
+        "hit_rate": 0.4411764705882353,
+        "correlation": -0.21693004314737546
       }
     },
     "20_sessions": {
@@ -73,8 +73,7 @@
   "health": {
     "last_session": "2026-10-14",
     "weekdays_without_a_session": [
-      "2026-10-02",
-      "2026-10-12"
+      "2026-10-02"
     ],
     "sessions_out_of_order": false,
     "news_days_scored_by_keywords": [
@@ -95,6 +94,10 @@
         "symbol": "HDFCBANK.NS"
       },
       {
+        "queued_on": "2026-10-12",
+        "symbol": "ICICIBANK.NS"
+      },
+      {
         "queued_on": "2026-10-13",
         "symbol": "ICICIBANK.NS"
       }
@@ -102,10 +105,10 @@
   },
   "significance": {
     "backtest_cagr_edge": 0.006642662683372658,
-    "daily_gap_volatility": 0.005662406816031032,
-    "sessions_needed": 179953,
-    "years_needed": 725.6,
-    "sessions_so_far": 13
+    "daily_gap_volatility": 0.006118262668987234,
+    "sessions_needed": 210094,
+    "years_needed": 847.2,
+    "sessions_so_far": 14
   },
   "backtest_reference": {
     "Full period": {

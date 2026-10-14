@@ -3151,103 +3151,344 @@
     }
   },
   {
+    "session": "2026-10-12",
+    "ran_utc": "2026-10-14T13:16:59.028933+00:00",
+    "equity": 9920.69,
+    "benchmark_equity": 9764.63,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.35,
+        "target_exposure": 0.3,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.90, trusted 25%)",
+          "momentum against (-0.68, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.902,
+          "volatility": -0.188,
+          "momentum": -0.68,
+          "news": 0.371
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.037,
+        "target_exposure": 1.0,
+        "current_exposure": 0.675,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "momentum supportive (+0.55, trusted 25%)",
+          "news against (-0.36, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.044,
+          "volatility": -0.0,
+          "momentum": 0.552,
+          "news": -0.362
+        },
+        "value": 1340.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.229,
+        "target_exposure": 1.0,
+        "current_exposure": 0.878,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 88%: no strong reason to change",
+          "trend supportive (+0.43, trusted 25%)",
+          "momentum supportive (+0.41, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.435,
+          "volatility": -0.0,
+          "momentum": 0.412,
+          "news": 0.068
+        },
+        "value": 1743.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.184,
+        "target_exposure": 0.631,
+        "current_exposure": 0.19,
+        "action": "HOLD",
+        "reasons": [
+          "Would move to 63% but traded 1 session(s) ago -- waiting",
+          "trend against (-0.94, trusted 25%)",
+          "news supportive (+0.43, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.943,
+          "volatility": -0.0,
+          "momentum": -0.225,
+          "news": 0.43
+        },
+        "value": 376.05
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.609,
+        "target_exposure": 0.0,
+        "current_exposure": 0.26,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "trend against (-0.91, trusted 25%)",
+          "volatility against (-0.90, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.914,
+          "volatility": -0.899,
+          "momentum": -0.648,
+          "news": 0.025
+        },
+        "value": 515.8
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.385,
+          "strength": 0.962,
+          "material_count": 3,
+          "view": 0.371
+        },
+        "top": [
+          {
+            "title": "HDFC Bank Q4 Result: Net Profit Increases 9% YoY, NII Up 3.2%; Dividend Declared",
+            "source": "Goodreturns",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-12T18:18:30+00:00",
+            "count": 1
+          },
+          {
+            "title": "Anup bagchi to earn Rs 43 crore in first year after joining HDFC Bank",
+            "source": "Mid-Day",
+            "sentiment": 0.5,
+            "material": 0.5,
+            "published_utc": "2026-10-12T21:20:07+00:00",
+            "count": 1
+          },
+          {
+            "title": "Private banks' inoperative Jan Dhan accounts rise led by HDFC Bank, Kotak Mahindra Bank",
+            "source": "TradingView",
+            "sentiment": -0.8,
+            "material": 0.5,
+            "published_utc": "2026-10-12T17:19:18+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.362,
+          "strength": 1.0,
+          "material_count": 3,
+          "view": -0.362
+        },
+        "top": [
+          {
+            "title": "ICICI Bank Gold Loan Scam: Rs 23 Crore Fraud Uncovered as Fake Ornaments Found Across Nine Branches in Nagpur",
+            "source": "Goodreturns",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-12T16:49:24+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank to host Q2FY27 earnings call on October 17",
+            "source": "scanx.trade",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-10-12T14:07:58+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank set October 17 results date and ICICI Bank stock costs EUR 24.80",
+            "source": "ad-hoc-news.de",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-10-12T12:11:06+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 1.0,
+          "strength": 0.068,
+          "material_count": 0,
+          "view": 0.068
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.43,
+          "strength": 1.0,
+          "material_count": 6,
+          "view": 0.43
+        },
+        "top": [
+          {
+            "title": "Supreme Court Dismisses Appeal Against Dismissal from Service by Indian Oil Corporation \u2014 Upholds Validity of Standing Orders.",
+            "source": "Lawtext",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-11T22:24:52+00:00",
+            "count": 1
+          },
+          {
+            "title": "SAIL Rourkela Steel Plant Signs Three-Year MoU with Indian Oil for Diesel and Petrol Supply",
+            "source": "Indianmasterminds",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-12T14:52:55+00:00",
+            "count": 2
+          },
+          {
+            "title": "BPCL, HPCL, IOCL, Reliance Shares Alert: Why Oil & Gas Stocks Fall After Rs 3/Litre Windfall Tax On Petrol?",
+            "source": "Goodreturns",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-11T06:44:34+00:00",
+            "count": 1
+          },
+          {
+            "title": "PSU Dividend Delight: THIS Maharatna PSU Fixes Record Date For 12% Dividend | Do You Own?",
+            "source": "Goodreturns",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-10-12T15:11:17+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.157,
+          "strength": 0.157,
+          "material_count": 0,
+          "view": 0.025
+        },
+        "top": []
+      }
+    }
+  },
+  {
     "session": "2026-10-13",
-    "ran_utc": "2026-10-13T12:03:53.432530+00:00",
+    "ran_utc": "2026-10-14T13:16:59.073891+00:00",
     "equity": 9947.21,
     "benchmark_equity": 9852.5,
     "filled": [],
     "decisions": [
       {
         "symbol": "HDFCBANK.NS",
-        "score": -0.405,
-        "target_exposure": 0.19,
+        "score": -0.379,
+        "target_exposure": 0.243,
         "current_exposure": 0.0,
         "action": "HOLD",
         "reasons": [
           "Holding at 0%: no strong reason to change",
           "trend against (-0.87, trusted 25%)",
-          "momentum against (-0.68, trusted 25%)"
+          "momentum against (-0.70, trusted 25%)"
         ],
         "views": {
-          "trend": -0.872,
-          "volatility": -0.202,
-          "momentum": -0.68,
+          "trend": -0.868,
+          "volatility": -0.081,
+          "momentum": -0.698,
           "news": 0.133
         },
         "value": 0.0
       },
       {
         "symbol": "ICICIBANK.NS",
-        "score": 0.12,
+        "score": 0.071,
         "target_exposure": 1.0,
         "current_exposure": 0.684,
         "action": "REBALANCE",
         "reasons": [
           "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
-          "momentum supportive (+0.55, trusted 25%)",
+          "momentum supportive (+0.36, trusted 25%)",
           "news against (-0.21, trusted 25%)"
         ],
         "views": {
           "trend": 0.142,
           "volatility": -0.0,
-          "momentum": 0.552,
+          "momentum": 0.358,
           "news": -0.215
         },
         "value": 1360.2
       },
       {
         "symbol": "PETRONET.NS",
-        "score": 0.222,
+        "score": 0.238,
         "target_exposure": 1.0,
         "current_exposure": 0.875,
         "action": "HOLD",
         "reasons": [
           "Holding at 87%: no strong reason to change",
-          "trend supportive (+0.42, trusted 25%)",
-          "momentum supportive (+0.41, trusted 25%)"
+          "momentum supportive (+0.48, trusted 25%)",
+          "trend supportive (+0.41, trusted 25%)"
         ],
         "views": {
-          "trend": 0.417,
+          "trend": 0.412,
           "volatility": -0.0,
-          "momentum": 0.412,
+          "momentum": 0.481,
           "news": 0.058
         },
         "value": 1740.0
       },
       {
         "symbol": "IOC.NS",
-        "score": -0.258,
-        "target_exposure": 0.483,
+        "score": -0.279,
+        "target_exposure": 0.443,
         "current_exposure": 0.19,
         "action": "HOLD",
         "reasons": [
           "Holding at 19%: no strong reason to change",
-          "trend against (-0.94, trusted 25%)",
-          "momentum against (-0.23, trusted 25%)"
+          "trend against (-0.93, trusted 25%)",
+          "momentum against (-0.31, trusted 25%)"
         ],
         "views": {
-          "trend": -0.935,
+          "trend": -0.934,
           "volatility": -0.0,
-          "momentum": -0.225,
+          "momentum": -0.308,
           "news": 0.127
         },
         "value": 378.42
       },
       {
         "symbol": "ITC.NS",
-        "score": -0.598,
+        "score": -0.612,
         "target_exposure": 0.0,
         "current_exposure": 0.262,
         "action": "HOLD",
         "reasons": [
           "Holding at 26%: no strong reason to change",
-          "trend against (-0.89, trusted 25%)",
-          "volatility against (-0.87, trusted 25%)"
+          "volatility against (-0.90, trusted 25%)",
+          "trend against (-0.89, trusted 25%)"
         ],
         "views": {
-          "trend": -0.89,
-          "volatility": -0.874,
-          "momentum": -0.648,
+          "trend": -0.885,
+          "volatility": -0.903,
+          "momentum": -0.681,
           "news": 0.021
         },
         "value": 522.0
@@ -3418,7 +3659,7 @@
   },
   {
     "session": "2026-10-14",
-    "ran_utc": "2026-10-14T12:15:53.849661+00:00",
+    "ran_utc": "2026-10-14T13:16:59.142010+00:00",
     "equity": 9950.04,
     "benchmark_equity": 9850.1,
     "filled": [],

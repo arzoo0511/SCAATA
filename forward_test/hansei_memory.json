@@ -667,12 +667,72 @@
       "judged": false
     },
     {
+      "date": "2026-10-12",
+      "symbol": "HDFCBANK.NS",
+      "views": {
+        "trend": -0.902,
+        "volatility": -0.188,
+        "momentum": -0.68,
+        "news": 0.371
+      },
+      "close": 704.9000244140625,
+      "judged": false
+    },
+    {
+      "date": "2026-10-12",
+      "symbol": "ICICIBANK.NS",
+      "views": {
+        "trend": -0.044,
+        "volatility": -0.0,
+        "momentum": 0.552,
+        "news": -0.362
+      },
+      "close": 1340.0,
+      "judged": false
+    },
+    {
+      "date": "2026-10-12",
+      "symbol": "PETRONET.NS",
+      "views": {
+        "trend": 0.435,
+        "volatility": -0.0,
+        "momentum": 0.412,
+        "news": 0.068
+      },
+      "close": 290.5,
+      "judged": false
+    },
+    {
+      "date": "2026-10-12",
+      "symbol": "IOC.NS",
+      "views": {
+        "trend": -0.943,
+        "volatility": -0.0,
+        "momentum": -0.225,
+        "news": 0.43
+      },
+      "close": 125.3499984741211,
+      "judged": false
+    },
+    {
+      "date": "2026-10-12",
+      "symbol": "ITC.NS",
+      "views": {
+        "trend": -0.914,
+        "volatility": -0.899,
+        "momentum": -0.648,
+        "news": 0.025
+      },
+      "close": 257.8999938964844,
+      "judged": false
+    },
+    {
       "date": "2026-10-13",
       "symbol": "HDFCBANK.NS",
       "views": {
-        "trend": -0.872,
-        "volatility": -0.202,
-        "momentum": -0.68,
+        "trend": -0.868,
+        "volatility": -0.081,
+        "momentum": -0.698,
         "news": 0.133
       },
       "close": 714.0,
@@ -684,7 +744,7 @@
       "views": {
         "trend": 0.142,
         "volatility": -0.0,
-        "momentum": 0.552,
+        "momentum": 0.358,
         "news": -0.215
       },
       "close": 1360.199951171875,
@@ -694,9 +754,9 @@
       "date": "2026-10-13",
       "symbol": "PETRONET.NS",
       "views": {
-        "trend": 0.417,
+        "trend": 0.412,
         "volatility": -0.0,
-        "momentum": 0.412,
+        "momentum": 0.481,
         "news": 0.058
       },
       "close": 290.0,
@@ -706,9 +766,9 @@
       "date": "2026-10-13",
       "symbol": "IOC.NS",
       "views": {
-        "trend": -0.935,
+        "trend": -0.934,
         "volatility": -0.0,
-        "momentum": -0.225,
+        "momentum": -0.308,
         "news": 0.127
       },
       "close": 126.13999938964844,
@@ -718,9 +778,9 @@
       "date": "2026-10-13",
       "symbol": "ITC.NS",
       "views": {
-        "trend": -0.89,
-        "volatility": -0.874,
-        "momentum": -0.648,
+        "trend": -0.885,
+        "volatility": -0.903,
+        "momentum": -0.681,
         "news": 0.021
       },
       "close": 261.0,
