@@ -3415,5 +3415,272 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-14",
+    "ran_utc": "2026-10-14T12:15:53.849661+00:00",
+    "equity": 9950.04,
+    "benchmark_equity": 9850.1,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.388,
+        "target_exposure": 0.224,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.88, trusted 25%)",
+          "momentum against (-0.56, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.876,
+          "volatility": -0.031,
+          "momentum": -0.556,
+          "news": -0.09
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": -0.024,
+        "target_exposure": 0.953,
+        "current_exposure": 0.673,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 67%: no strong reason to change",
+          "news against (-0.23, trusted 25%)",
+          "momentum supportive (+0.19, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.058,
+          "volatility": -0.0,
+          "momentum": 0.194,
+          "news": -0.23
+        },
+        "value": 1338.6
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.312,
+        "target_exposure": 1.0,
+        "current_exposure": 0.883,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 88%: no strong reason to change",
+          "momentum supportive (+0.57, trusted 25%)",
+          "trend supportive (+0.51, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.511,
+          "volatility": -0.0,
+          "momentum": 0.575,
+          "news": 0.163
+        },
+        "value": 1757.7
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.185,
+        "target_exposure": 0.629,
+        "current_exposure": 0.193,
+        "action": "HOLD",
+        "reasons": [
+          "Would move to 63% but traded 3 session(s) ago -- waiting",
+          "trend against (-0.91, trusted 25%)",
+          "news supportive (+0.39, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.911,
+          "volatility": -0.0,
+          "momentum": -0.221,
+          "news": 0.39
+        },
+        "value": 383.4
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.512,
+        "target_exposure": 0.0,
+        "current_exposure": 0.263,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "volatility against (-0.90, trusted 25%)",
+          "trend against (-0.88, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.875,
+          "volatility": -0.899,
+          "momentum": -0.609,
+          "news": 0.333
+        },
+        "value": 523.0
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.09,
+          "strength": 1.0,
+          "material_count": 6,
+          "view": -0.09
+        },
+        "top": [
+          {
+            "title": "HSBC cuts target for HDFC Bank stock to USD 26.10",
+            "source": "ad-hoc-news.de",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-14T12:07:16+00:00",
+            "count": 1
+          },
+          {
+            "title": "CLASS ACTION DEADLINE TONIGHT: Faruqi & Faruqi, LLP Reminds HDFC Bank Limited Investors of Securities Class Action Lawsuit Deadline on October 13, 2026",
+            "source": "Business Wire",
+            "sentiment": -0.7,
+            "material": 0.8,
+            "published_utc": "2026-10-13T13:37:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "At 16:00 IST on October 17, HDFC Bank (HDB) will discuss quarter and half-year results.",
+            "source": "Stock Titan",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-10-14T10:04:14+00:00",
+            "count": 1
+          },
+          {
+            "title": "Will Q2 FY27 Results and Rising Margins Spark HDFC Bank\u2019s Recovery?",
+            "source": "Motilal Oswal",
+            "sentiment": 0.6,
+            "material": 0.6,
+            "published_utc": "2026-10-13T12:06:10+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.23,
+          "strength": 1.0,
+          "material_count": 3,
+          "view": -0.23
+        },
+        "top": [
+          {
+            "title": "ICICI Bank Gold Loan Scam: Rs 23 Crore Fraud Uncovered as Fake Ornaments Found Across Nine Branches in Nagpur",
+            "source": "Goodreturns",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-12T16:49:24+00:00",
+            "count": 1
+          },
+          {
+            "title": "Erste Group Bank Lowers Earnings Estimates for ICICI Bank",
+            "source": "MarketBeat",
+            "sentiment": -0.7,
+            "material": 0.8,
+            "published_utc": "2026-10-14T11:15:31+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank schedules second-quarter results and ICICI Bank stock costs EUR 25.45",
+            "source": "ad-hoc-news.de",
+            "sentiment": 0.0,
+            "material": 0.5,
+            "published_utc": "2026-10-13T08:37:35+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.774,
+          "strength": 0.21,
+          "material_count": 1,
+          "view": 0.163
+        },
+        "top": [
+          {
+            "title": "PETRONET: Capacity Still Leads, Petrochemicals And Contracts Now Anchor The Case",
+            "source": "Simply Wall Street",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-12T07:00:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.39,
+          "strength": 1.0,
+          "material_count": 6,
+          "view": 0.39
+        },
+        "top": [
+          {
+            "title": "IOCL profit recovery forecast: what it means for Indian Oil Corporation stock",
+            "source": "ad-hoc-news.de",
+            "sentiment": 0.8,
+            "material": 0.8,
+            "published_utc": "2026-10-14T00:20:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil Sets 30 October for Q2 FY27 Results Announcement",
+            "source": "PSU Connect",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-10-13T11:51:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "PSU Dividend Delight: THIS Maharatna PSU Fixes Record Date For 12% Dividend | Do You Own?",
+            "source": "Goodreturns",
+            "sentiment": 0.8,
+            "material": 0.6,
+            "published_utc": "2026-10-12T15:11:17+00:00",
+            "count": 1
+          },
+          {
+            "title": "IOOA Writes to Union Petroleum Minister, Seeks Central Protection Law for Oil Sector Personnel After IndianOil Manager\u2019s Murder",
+            "source": "Indian PSU",
+            "sentiment": -0.6,
+            "material": 0.5,
+            "published_utc": "2026-10-13T08:49:52+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.732,
+          "strength": 0.455,
+          "material_count": 1,
+          "view": 0.333
+        },
+        "top": [
+          {
+            "title": "ITC shareholders approve final dividend, reappoint Hemant Bhargava",
+            "source": "scanx.trade",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-13T20:56:12+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]
