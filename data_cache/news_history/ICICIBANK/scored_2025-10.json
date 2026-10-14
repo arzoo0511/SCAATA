@@ -1,0 +1,1658 @@
+[
+ {
+  "title": "ICICI Bank receives \u20b9216 crore GST demand from Maharashtra tax authorities",
+  "source": "A2Z Taxcorp LLP",
+  "published_utc": "2025-10-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates: These 7 banks offer highest rates on long-term deposits",
+  "source": "Livemint",
+  "published_utc": "2025-10-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Car loans starting at 7.6% interest rate: Check what SBI, PNB, HDFC Bank, ICICI Bank are others are offeri",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI drops proposed restriction on bank-NBFC overlap",
+  "source": "Livemint",
+  "published_utc": "2025-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI leave repo rate unchanged: What it means for home loan borrowers",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI drops 'restriction' on business overlap by banks & group entities",
+  "source": "Business Standard",
+  "published_utc": "2025-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank appoints Piramal veteran Anand Vardhan as General Counsel",
+  "source": "Bar and Bench",
+  "published_utc": "2025-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks charge THESE interest rates on personal loans in October 2025. Check the latest rates here",
+  "source": "Livemint",
+  "published_utc": "2025-10-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank Appoints Anand Vardhan As Its General Counsel",
+  "source": "BW Legal World",
+  "published_utc": "2025-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank holiday today: Are banks closed today on October 2 for Gandhi Jayanti, Dussehra and Vijaya Dashami?",
+  "source": "Livemint",
+  "published_utc": "2025-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank shares at 30-40% discount to HDFC Bank, ICICI Bank; Morgan Stanley ups target",
+  "source": "Business Today",
+  "published_utc": "2025-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks To Clear Cheques On Same Day From Tomorrow: RBI",
+  "source": "NDTV",
+  "published_utc": "2025-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jefferies flags top 4 bank stocks as RBI norms set to fuel credit uptick",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India 10-year bond yield dips, new note's cutoff key for further slide",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cheque clearance on the same day: How will RBI\u2019s continuous clearing system work from October 4?",
+  "source": "Upstox",
+  "published_utc": "2025-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Same-day cheque processing starts October 4; here\u2019s what you need to know",
+  "source": "Mathrubhumi English",
+  "published_utc": "2025-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New cheque clearing rules: Banks to clear cheques within..., What is THIS new RBI guideline? to be effect fro",
+  "source": "India.com",
+  "published_utc": "2025-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Holiday Today: Are banks open or closed on Saturday, October 4? Check here",
+  "source": "Livemint",
+  "published_utc": "2025-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CLSA bullish on 3 bank stocks, sees up to 33% upside; here\u2019s why",
+  "source": "Business Today",
+  "published_utc": "2025-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, ICICI Bank to Begin Same-Day Cheque Clearance from October 4",
+  "source": "The Live Nagpur",
+  "published_utc": "2025-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock market: M-cap of 7 of top-10 most valuable firms jumps Rs 74,573 cr; HDFC gains top spot",
+  "source": "The Times of India",
+  "published_utc": "2025-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pankaj Sharma Appointed as Head of Business Transformation at IndusInd Bank",
+  "source": "hrtoday.in",
+  "published_utc": "2025-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian backer of embattled WA coal mine handed money from taxpayers",
+  "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+  "published_utc": "2025-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Seven Firms\u2019 Combined Market Valuation Rises \u20b974,573 Crore; HDFC Bank Leads Gains",
+  "source": "Free Press Journal",
+  "published_utc": "2025-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Unveils Corporate Sapphiro Forex Card with Visa",
+  "source": "SMEStreet",
+  "published_utc": "2025-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Visa launch Corporate Sapphiro Forex Card for business travellers",
+  "source": "CNBC TV18",
+  "published_utc": "2025-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Corporate Sapphiro Forex Card: ICICI Bank and Visa launch premium card for business travellers",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How ICICI, HDFC, Axis, Kotak, and NBFCs are set to benefit from RBI policy measures",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank holidays in October 2025: Check if banks are open or closed on Gandhi Jayanti, Dussehra, Diwali, Chat",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank leads \u20b974,573 cr rise in top 7 firms\u2019 Mcap",
+  "source": "The Shillong Times",
+  "published_utc": "2025-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Complaint against ICICI Prudential AMC over non-disclosure of trademark dispute in IPO papers",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying SBI, HPCL shares today - 06 October 2025",
+  "source": "Livemint",
+  "published_utc": "2025-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Unclaimed bank deposits: How to check, claim and get your money back with RBI\u2019s new initiatives",
+  "source": "Upstox",
+  "published_utc": "2025-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 credit cards for best cashback, rewards and discounts in festive season",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank and Visa launch Corporate Sapphiro Forex Card for business travellers",
+  "source": "Investment Guru India",
+  "published_utc": "2025-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex rises 137 points on buying in HDFC Bank, ICICI Bank",
+  "source": "Rediff",
+  "published_utc": "2025-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, Axis, ICICI, Federal, Yes Bank customers can now buy US Dollars via CRED, Mobikwik: FAQs inside",
+  "source": "Upstox",
+  "published_utc": "2025-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of India shares rise 3% after Q2 business update; check details here",
+  "source": "Business Standard",
+  "published_utc": "2025-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shopping for Diwali? 5 credit cards offering best cashback, rewards and discounts in festive season; whic",
+  "source": "The Times of India",
+  "published_utc": "2025-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FM announces real-time foreign currency settlement system in Gift City",
+  "source": "Forbes India",
+  "published_utc": "2025-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex settles 400 pts lower from day's high, Nifty ends near 25,100: Key reasons behind market paring...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank holiday today: Are banks open or closed in your state today for Valmiki Jayanti on October 7, 2025?",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bharat Connect gets linked with FX-Retail platform; enables customers to buy USD",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential MF becomes second to cross \u20b910 trillion AUM mark",
+  "source": "Business Standard",
+  "published_utc": "2025-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Medanta, Max: Analysts pick best hospital stocks to buy post CGHS revision",
+  "source": "Business Standard",
+  "published_utc": "2025-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank sets its sights on acquisition financing, awaits RBI guidelines",
+  "source": "Business Standard",
+  "published_utc": "2025-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lowest gold loan interest rates in 2025: Compare rates from SBI, PNB, HDFC Bank, ICICI Bank and others",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates: These 8 banks offer the highest returns on fixed deposits",
+  "source": "Livemint",
+  "published_utc": "2025-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Parag Parikh Flexi Cap Fund increases stake in 4 bank stocks and ITC; trims exposure in Maruti Suzuki in S",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Success Story: Growth, Innovation & Milestones",
+  "source": "Business Outreach Magazine",
+  "published_utc": "2025-10-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold loan interest rates: What different banks are offering? Check latest rate of SBI, HDFC, ICICI & othe",
+  "source": "The Times of India",
+  "published_utc": "2025-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Analysts say top pvt banks, PSBs well positioned for ECL norm transition",
+  "source": "Business Standard",
+  "published_utc": "2025-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Deputy Governor Launches New Digital Payment Innovations at GFF 2025",
+  "source": "SMEStreet",
+  "published_utc": "2025-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5.5% interest on savings account: Yes, this bank offers it without higher balance requirement",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty 50, Sensex today: What to expect from Indian stock market in trade on October 10",
+  "source": "Livemint",
+  "published_utc": "2025-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These 6 credit cards help travellers buy cheaper flight tickets. See list",
+  "source": "Livemint",
+  "published_utc": "2025-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Overview of Global Fintech Fest 2025 held in Mumbai \u2013 Part II",
+  "source": "AffairsCloud",
+  "published_utc": "2025-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank Announces Key Leadership Appointments for Growth",
+  "source": "SMEStreet",
+  "published_utc": "2025-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From HDFC to ICICI: Banks roll out cashback, loans, EMI offers this festive season",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-10-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saturday bank holiday: Are banks open or closed today on October 11, 2025?",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks CLOSED: SBI, HDFC, PNB, ICICI to remain closed on Dhanteras, Bihu, and other festivals? Dates are\u2026",
+  "source": "India.com",
+  "published_utc": "2025-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mcap of eight of top-10 most valued firms jumps by Rs 1.94 lakh cr; TCS biggest winner",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks to remain closed on Dhanteras, Bihu, and other festivals from October 13\u201319? Check full schedule",
+  "source": "Livemint",
+  "published_utc": "2025-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Q2 results 2025: RIL, Infosys, HDFC Bank, IRFC, Wipro among companies to declare earnings next week; check full list",
+  "source": "Livemint",
+  "published_utc": "2025-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Narrowing margins to shrink banks' Q2 profits",
+  "source": "The Times of India",
+  "published_utc": "2025-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to Block FASTag If Vehicle Is Lost | FASTag Block Process",
+  "source": "Airtel",
+  "published_utc": "2025-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU bank stock PNB to announce Q2 results 2025 on this date. Details here",
+  "source": "Livemint",
+  "published_utc": "2025-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI's offline digital rupee is here: Pay with e\u20b9 even without internet",
+  "source": "Business Standard",
+  "published_utc": "2025-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks\u2019 second quarter FY26 outlook: Loan growth steady, margins tighten",
+  "source": "CNBC TV18",
+  "published_utc": "2025-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Muhurat trading picks for Diwali 2025: ICICI Direct recommends HDFC Bank, L&T, Data Patterns, among 8 stocks to buy",
+  "source": "Livemint",
+  "published_utc": "2025-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank vs HDFC Bank vs IDFC First Bank: Which banking stock to buy ahead of Q2 results?",
+  "source": "Livemint",
+  "published_utc": "2025-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diwali Stock Picks 2025: These names from PL Capital can fetch up to 33% upside",
+  "source": "CNBC TV18",
+  "published_utc": "2025-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u201cYour Money, Your Right\u201d Campaign Empowers Citizens in Raipur and Bilaspur to Claim Their Financial Rights",
+  "source": "PIB",
+  "published_utc": "2025-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q2 Preview: Modest quarter likely, but better show than peers",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Earnings, demand rebound hopes lift India's Nifty to one-year high",
+  "source": "Reuters",
+  "published_utc": "2025-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q2 results preview: Analysts eye muted profit growth, weak NIM",
+  "source": "Business Standard",
+  "published_utc": "2025-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Card to HDFC, ICICI, PNB, BoB and Axis Bank: Credit card offers for Diwali 2025 shopping",
+  "source": "Upstox",
+  "published_utc": "2025-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks CLOSED on Dhanteras, Bihu and\u2026, SBI, HDFC, ICICI and Kotak Bank will remain closed from October 13 to\u2026,",
+  "source": "India.com",
+  "published_utc": "2025-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vijay Sales announces festive offers on iPhone Air, MacBook Air M4 and more",
+  "source": "Business Standard",
+  "published_utc": "2025-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Q2 preview: HDFC Bank, ICICI Bank set for steady loan growth amid margin pressure",
+  "source": "Livemint",
+  "published_utc": "2025-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "6 large & midcap funds that clocked 20%+ returns in 5 yrs",
+  "source": "Value Research",
+  "published_utc": "2025-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank share price close to lifetime high. Should you buy or wait for Q2 results 2025?",
+  "source": "Livemint",
+  "published_utc": "2025-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to buy: Centrum Broking suggests Dixon Tech, Azad Engineering, Canara Bank, 2 other stock picks for Samvat 2082",
+  "source": "Livemint",
+  "published_utc": "2025-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ICICI Bank beats quarterly profit estimates on lower provisions for bad loans",
+  "source": "Reuters",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q2 net rose 5.2% to \u20b912,359 crore",
+  "source": "The Hindu",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank delivers street-beating nos: net up 5% on higher NII, better asset quality",
+  "source": "The New Indian Express",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s Profit Beats Estimates on Strong Loan Growth",
+  "source": "Bloomberg.com",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q2 profit rises 5.2% YoY to \u20b912,359 cr; asset quality strengthens",
+  "source": "Fortune India",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank net profit grows 5.2% to Rs 12,359 crore",
+  "source": "The Times of India",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q2 net profit up 5% YoY to Rs 12,359 crore, beats estimates on steady NII growth",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q2 net profit up 5% to Rs 12,359 cr on lower provisions, beats estimates",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Mutual Fund: RIL and Sun Pharma among top 10 stock holdings in September",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDFC First Bank Q2 profit rises 76% on lower provisions; NIM narrows",
+  "source": "Business Standard",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q2 results: Profit rises 5.2% YoY to Rs 12,359 Crore; NII Grows 7.4%, margins remain flat",
+  "source": "The Financial Express",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's Q2 PAT rises 5 pc YoY to Rs 12,359 crore, NII up 7.4 pc",
+  "source": "IBTimes India",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Investor Presentation \u2013 Q2 2026 Performance Review",
+  "source": "InvestyWise",
+  "published_utc": "2025-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zee Business. . \u0915\u0948\u0938\u0947 \u0930\u0939\u0947\u0902 Reliance, HDFC Bank, ICICI Bank \u0914\u0930 Ultratech Cement \u0915\u0947 \u0928\u0924\u0940\u091c\u0947? \u0906\u091c \u0915\u094c\u0928-\u0938\u0947 \u0936\u0947\u092f\u0930\u094b\u0902 \u092a\u0930 \u0930\u0939\u0947\u0917\u093e \u092b\u094b\u0915\u0938? IPO \u092e\u093e\u0930\u094d\u0915\u0947\u091f \u092e\u0947\u0902 \u0915\u0939\u093e\u0902 \u0930\u0916\u0947\u0902 \u0928\u091c\u0930? Auto Sector \u092a\u0930 \u0915\u0939\u093e\u0902 \u0915\u0930\u0947\u0902 \u092b\u094b\u0915\u0938? \u091c\u093e\u0928\u093f\u090f \u092a\u0942\u0930\u0940 \u0921\u093f\u091f\u0947\u0932\u094d\u0938 #StockMar",
+  "source": "Facebook",
+  "published_utc": "2025-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank commits \u20b9625 crore CSR funding to Tata Memorial Centre\u2019s new cancer care facility at Navi Mumbai",
+  "source": "BusinessLine",
+  "published_utc": "2025-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to donate for construction at TMC\u2019s advanced cancer hospital in Navi Mumbai",
+  "source": "News Arena India",
+  "published_utc": "2025-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank commits \u20b9625 crore to set up radiation therapy facilities at Tata Memorial Centre, Navi Mumbai",
+  "source": "The Hindu",
+  "published_utc": "2025-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Earnings power Indian stocks to fourth day of gains ahead of holidays",
+  "source": "Reuters",
+  "published_utc": "2025-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Tata Memorial to build \u20b9625 cr cancer facility in Navi Mumbai",
+  "source": "Business Standard",
+  "published_utc": "2025-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Navi Mumbai to get one of India\u2019s largest radiation therapy centres",
+  "source": "The Indian Express",
+  "published_utc": "2025-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Memorial Centre & ICICI Bank Announce \u20b9625-Crore Cancer Therapy Centre In Navi Mumbai",
+  "source": "Free Press Journal",
+  "published_utc": "2025-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank funds \u20b9625 crore to set up radiation therapy facilities at Tata Memorial Centre, Navi Mumbai",
+  "source": "Express Healthcare",
+  "published_utc": "2025-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to donate Rs 625 cr for cancer care building at Tata Memorial Centre",
+  "source": "ET HealthWorld",
+  "published_utc": "2025-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to benefit from improved asset quality, healthy loan growth",
+  "source": "Business Standard",
+  "published_utc": "2025-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares drop 3% amid moderate loan growth in Q2: Here's what analysts say",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs ICICI Bank vs Axis Bank: Here's how top private lenders fared in Q2",
+  "source": "Upstox",
+  "published_utc": "2025-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why HDFC Bank, ICICI Bank shares moved opposite after quarterly results | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2025-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Reports 9.1% Growth in Profit Before Tax in Q2 FY26",
+  "source": "SMEStreet",
+  "published_utc": "2025-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to Watch Today: Reliance Ind, RBL Bank, IRB Infra, ICICI Bank, HDFC Bank, IRCON, Sterling &...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs ICICI Bank vs IDFC First Bank vs Yes Bank: Which bank stock to buy after Q2 results 2025?",
+  "source": "Livemint",
+  "published_utc": "2025-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy, Sell or Hold: Morgan Stanley remains overweight on HDFC Bank; Emkay Global recommends Buy on RIL",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Axis Bank, Kansai Nerolac shares on 20 October 2025",
+  "source": "Livemint",
+  "published_utc": "2025-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks in news: RIL, HDFC Bank, YES Bank, IndusInd Bank, RBL Bank, Jain Resource",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Pledges Rs 625 Crore To Establish Major Radiation Therapy Facility At Tata Memorial Centre",
+  "source": "BW Healthcare World",
+  "published_utc": "2025-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank set to sustain profitability amid margin pressure, rate cycle shift",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks say new RBI stress norms are fine: Is it a smooth transition ahead for SBI, ICICI Bank, HDFC Bank, others?",
+  "source": "Livemint",
+  "published_utc": "2025-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC & ICICI banks go slow on retail loans",
+  "source": "The Times of India",
+  "published_utc": "2025-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank vs HDFC Bank: Why a treasury dip doesn\u2019t undermine ICICI\u2019s edge",
+  "source": "Livemint",
+  "published_utc": "2025-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jefferies\u2019 top 10 banking sector picks for 2025 with up to 33% upside potential",
+  "source": "The Financial Express",
+  "published_utc": "2025-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to fund Rs 625 cr cancer care block at Tata Memorial Centre",
+  "source": "Healthcare Radius",
+  "published_utc": "2025-10-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD rates: THESE 8 banks offer up to 7.1% interest on fixed deposits to senior citizens",
+  "source": "Livemint",
+  "published_utc": "2025-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is today bank holiday for Govardhan Puja? Check state wise RBI bank holiday list for October 22, 2025",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Direct - Stocks to buy in Samvat 2082: Over 70 names put together from top brokerages for your ease",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jitendra Singh Appointed as Zonal Head \u2013 Mumbai at RBL Bank",
+  "source": "hrtoday.in",
+  "published_utc": "2025-10-22T07:51:31+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank stock: Declining right now and may be a bit undervalued",
+  "source": "HDFC Sky",
+  "published_utc": "2025-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Sees Significant Block Trade Worth Rs. 69.95 Crores on NSE",
+  "source": "scanx.trade",
+  "published_utc": "2025-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Vs ICICI Bank: A Tale Of Two Futures",
+  "source": "NDTV Profit",
+  "published_utc": "2025-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YES Bank share price target raised; ICICI Sec on SMBC\u2019s absence of promoter tag",
+  "source": "Business Today",
+  "published_utc": "2025-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Vs ICICI Bank: Which private lender holds the edge stepping into H2FY26?",
+  "source": "The Financial Express",
+  "published_utc": "2025-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Industries, L&T and 8 other top holdings of BlackRock to keep on your radar",
+  "source": "Trade Brains",
+  "published_utc": "2025-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar \u2013 Rise and Fall of ICICI Bank`s Former CEO",
+  "source": "Investment Guru India",
+  "published_utc": "2025-10-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Not HDFC Bank, Axis nor ICICI, this Indian bank receives, 'World's Best Consumer Bank 2025' award from\u2026, it i",
+  "source": "India.com",
+  "published_utc": "2025-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Taking Stock: Market snaps six-day run; Nifty below 25,800, Sensex down 345 pts",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock markets decline in early trade amid profit-taking, fresh foreign fund outflows",
+  "source": "Telangana Today",
+  "published_utc": "2025-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ASI slaps bank manager in Alwar: Arrives in civil dress and threatens victim's father; assaults him and hur...",
+  "source": "Bhaskar English",
+  "published_utc": "2025-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jefferies raises targets for 10 banks including HDFC Bank, Bandhan Bank with up to 34% upside potential",
+  "source": "The Financial Express",
+  "published_utc": "2025-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Motilal Oswal\u2019s Nitin Aggarwal expects high-teen earnings growth for HDFC Bank and ICICI Bank",
+  "source": "CNBC TV18",
+  "published_utc": "2025-10-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saturday bank holiday: Are banks open or closed today on October 25, 2025?",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 16 under Rs 50,000, iPhone 15 under Rs 45,000: How to get the best deal on Amazon",
+  "source": "The Indian Express",
+  "published_utc": "2025-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 private banks\u2019 Q2 results show diverging paths \u2014 ICICI stays at the top",
+  "source": "CNBC TV18",
+  "published_utc": "2025-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Sets Sail Towards a Green and Global Maritime Future: MoPSW Leads Day 1 of India Maritime Week 2025 with Landmark MoUs Worth \u20b955,000 Crore",
+  "source": "PIB",
+  "published_utc": "2025-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will ICICI Bank\u2019s chief stay another term? The market wants to know",
+  "source": "Livemint",
+  "published_utc": "2025-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, Bandhan among top bank and financial stocks showing strong growth signals",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Axis Bank could be the next value play on the Indian stock market",
+  "source": "The Indian Express",
+  "published_utc": "2025-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Life Pioneers Mobile Banking Premium Payments, Receives AAA Rating Reaffirmation",
+  "source": "scanx.trade",
+  "published_utc": "2025-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former Standard Chartered India CEO Zarin Daruwala appointed as Group CEO of PL Capital",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank holiday today for Chhath Puja 2025: Banks are closed for 2 days in these states, check now",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CLSA recommends \u2018Outperform\u2019 on 3 stocks with up to 22% upside\u2014See which names make the cut",
+  "source": "The Financial Express",
+  "published_utc": "2025-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock markets snap 5-day losing run on buying in ICICI bank, DII push",
+  "source": "Press Trust of India",
+  "published_utc": "2025-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Credit Card lounge access: Who will be eligible for complimentary lounge access from July 1, 2025",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian banking outlook to improve next fiscal as margin declines halt says S&P arm",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank puts 2 senior bankers on leave amid Credit Suisse bond probe",
+  "source": "Business Standard",
+  "published_utc": "2025-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card spends hit record \u20b92.2 trillion in September on festive boom",
+  "source": "Business Standard",
+  "published_utc": "2025-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Domain Name Change from \u2018.com\u2019 to \u2018.bank.in\u2019",
+  "source": "InvestyWise",
+  "published_utc": "2025-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Times Black ICICI Bank Credit Card holders experience an iconic evening at the Red Fort",
+  "source": "The Times of India",
+  "published_utc": "2025-10-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We see many opportunities to drive risk-calibrated profitable growth and grow market share: Sandeep Bakhshi, ICICI Bank",
+  "source": "The Statesman",
+  "published_utc": "2025-10-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Navigating global turmoil: Experts on managing liquidity, financial risks",
+  "source": "Business Standard",
+  "published_utc": "2025-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt mulls Union Bank-Bank of India merger to form India's second largest PSU lender: Report",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi government plans to merge Union Bank, Bank of India",
+  "source": "NewsBytes",
+  "published_utc": "2025-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi HC Allows Firm to File Fresh Objections Against DGGI\u2019s Provisional Bank Account Attachment",
+  "source": "Juris Hour",
+  "published_utc": "2025-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai Metro 3 Update: New A3 Gate Opens At BKC; Easy Access To One BKC, Jio Garden & More | Know Which",
+  "source": "Free Press Journal",
+  "published_utc": "2025-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICRA Reaffirms ICICI Bank's AAA Credit Ratings, Underscoring Strong Financial Position",
+  "source": "scanx.trade",
+  "published_utc": "2025-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates: These 8 banks offer highest returns on one-year fixed deposits. Check list here",
+  "source": "Livemint",
+  "published_utc": "2025-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Girish Kousgi Appointed as Managing Director & CEO of IIFL Home Loans Finance Ltd",
+  "source": "hrtoday.in",
+  "published_utc": "2025-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zarin Daruwala appointed group CEO, PL Capital Group",
+  "source": "HR Katha",
+  "published_utc": "2025-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google trends: HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank among most searched banks amid Q2 buzz",
+  "source": "The Financial Express",
+  "published_utc": "2025-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "#MCExplains \ud83c\udfa5 | SEBI\u2019s new rules could shake up the Nifty Bank index! Big banks may lose some weight while new names could join the pack. What\u2019s changing and who\u2019s in line for inclusion? Watch. Nandita Khemka with more info #SEBI #Markets #NiftyBan",
+  "source": "LinkedIn",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI\u2019s New Bank Nifty Rules May Cut HDFC & ICICI Bank Weights",
+  "source": "NiftyTrader",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New RBI rule: Banks move to secure \u2018.bank.in\u2019 domains to curb online fraud",
+  "source": "CNBC TV18",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi increases Bank Nifty stocks to 14 from 12, caps top stock's weight",
+  "source": "Business Standard",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here are the new SEBI rules for the Nifty Bank and its impact on stocks",
+  "source": "CNBC TV18",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, PNB, HDFC Bank & others have changed their website domain names on RBI\u2019s instructions; Is your bank a",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI increases Bank Nifty constituents, caps top stock's weight",
+  "source": "ETLegalWorld.com",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI Reshapes Nifty Bank Index: New Rules to Diversify Weightage",
+  "source": "scanx.trade",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTag users alert! NHAI simplifies KYV process for vehicles; know what will change for you",
+  "source": "The Economic Times",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "THESE 5 credit cards can help you save money on your movies with family",
+  "source": "Livemint",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior Citizen FD Rates: Top 10 banks with highest interest rates",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Car loan rates starting at 7.6%: Check best offers and EMI here",
+  "source": "Business Standard",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks go \u2018.bank.in\u2019 from today: RBI\u2019s new directive takes effect to secure digital transactions",
+  "source": "Business Today",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hidden banking gems: 3 quiet performers that beat the big banks at their own game",
+  "source": "The Financial Express",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI directs banks to shift to .bank.in domain to curb cyber fraud",
+  "source": "Onmanorama",
+  "published_utc": "2025-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

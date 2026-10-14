@@ -1,0 +1,371 @@
+[
+ {
+  "title": "Learning from Best Manufacturing Practices of World Class Companies in Haridwar",
+  "source": "Garhwal Post",
+  "published_utc": "2025-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sunfeast Marie Light Distributes Cooling \u2018Surya Vardaan\u2019 Caps to Rath Yatra Devotees",
+  "source": "IMPACT Magazine",
+  "published_utc": "2025-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Godfrey, ITC, VST Industries \u2014 Tobacco Stocks Fall On Fear Of Possible GST Hike On Cigarettes",
+  "source": "NDTV Profit",
+  "published_utc": "2025-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Nykaa shareholder to sell stake worth $150 million, NDTV Profit reports",
+  "source": "Reuters",
+  "published_utc": "2025-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Receives Occupancy Certificate for Rs 1200 Cr IT Center from West Bengal Govt; Generates 5000 Jobs",
+  "source": "APAC Media",
+  "published_utc": "2025-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aashirvaad leads devotees on a \u2018Bhakti Pathe\u2019 at Puri Rath Yatra | Media4Growth",
+  "source": "Media4Growth",
+  "published_utc": "2025-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ratnadipa Hotel owner optimistic about Sri Lanka\u2019s tourism potential",
+  "source": "Daily Mirror - Sri Lanka",
+  "published_utc": "2025-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aashirvaad Salt rolls out \u2018Iodine Ka Tilak\u2019 Rath Yatra campaign with Patha Nataka across Odisha",
+  "source": "MediaNews4U",
+  "published_utc": "2025-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Vs Godfrey Phillips Vs VST: What Could A Rs 10,000 Investment In These Cigarette Stocks Have Grown Into?",
+  "source": "Goodreturns",
+  "published_utc": "2025-07-05T11:37:08+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best Tobacco Stocks in India for 2025",
+  "source": "Univest",
+  "published_utc": "2025-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to Expand High-Value Agricultural Products Range",
+  "source": "scanx.trade",
+  "published_utc": "2025-07-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to boost growth by scaling up value-added agri products portfolio",
+  "source": "Business Standard",
+  "published_utc": "2025-07-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels Ltd to separate from ITC Ltd: Demerger to be effective from Jan 1, 2025, 99.6% of shareholders v...",
+  "source": "Bhaskar English",
+  "published_utc": "2025-07-08T11:43:52+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aashirvaad expands soya chunks range to Bihar and Jharkhand after East India debut",
+  "source": "MediaBrief",
+  "published_utc": "2025-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Aashirvaad introduces region-specific \u2018Boga Atta\u2019 for Assam Market",
+  "source": "MediaNews4U",
+  "published_utc": "2025-07-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Aashirvaad launches \u2018Boga Atta\u2019",
+  "source": "Indian Television Dot Com",
+  "published_utc": "2025-07-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This NPS pension fund is an outlier in a year with double-digit returns. Where does it invest?",
+  "source": "Upstox",
+  "published_utc": "2025-07-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels Q1 results: Check date, time, expectations, past performance, share price trend and more",
+  "source": "Upstox",
+  "published_utc": "2025-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Q1 FY26 Results Preview: All Eyes on Core Businesses Post Hotels Demerger",
+  "source": "Value Research",
+  "published_utc": "2025-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Aashirvaad launches \u2018Boga Atta\u2019 for Assam market",
+  "source": "FoodTechBiz",
+  "published_utc": "2025-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels Q1 Results: Profit, margins rise from last year",
+  "source": "CNBC TV18",
+  "published_utc": "2025-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s Sunfeast Wowzers Partners with Shah Rukh Khan for New Ad",
+  "source": "IMPACT Magazine",
+  "published_utc": "2025-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's Sunfeast Wowzers onboards Shah Rukh Khan; launches new campaign",
+  "source": "StoryBoard 18",
+  "published_utc": "2025-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shah Rukh Khan becomes brand endorser for Sunfeast Wowzers",
+  "source": "Social Samosa",
+  "published_utc": "2025-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels Share Price: Stock hits fresh 52-week high as net profit surges 54% in Q1",
+  "source": "India TV News",
+  "published_utc": "2025-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels Ltd Share Price: Hotel Stock Jumps 7% After Q1 FY26 Net Profit Soars 54%\u2014Check Details",
+  "source": "Republic World",
+  "published_utc": "2025-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ACP Pradyuman\u2019s CID team returns to crack a flavourful case in Bingo! Mad Angles\u2019 \u2018Mystery Pickle\u2019 launch",
+  "source": "MediaNews4U",
+  "published_utc": "2025-07-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Sunfeast goes rural to premiumise biscuits, not just dominate mass market",
+  "source": "Fortune India",
+  "published_utc": "2025-07-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Limited Secures 'Strong' ESG Rating from Crisil for FY2024-25",
+  "source": "scanx.trade",
+  "published_utc": "2025-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC bets on new growth engines, expands food-tech and wellness play",
+  "source": "Livemint",
+  "published_utc": "2025-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to invest Rs 20,000 crore in new manufacturing units in medium term: Chairman Sanjiv Puri",
+  "source": "The Economic Times",
+  "published_utc": "2025-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Chairman Puri unveils \u20b920,000 crore expansion strategy at AGM 2025",
+  "source": "Business Standard",
+  "published_utc": "2025-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Unveils Rs 20,000 Crore Investment Plan for Manufacturing Expansion",
+  "source": "scanx.trade",
+  "published_utc": "2025-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to invest \u20b920,000 crore in medium term, eight new facilities already commissioned: Sanjiv Puri",
+  "source": "Fortune India",
+  "published_utc": "2025-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC announces Rs 20,000cr investment push: Focus on FMCG margin boost; Puri sees demand rebound ahead",
+  "source": "The Times of India",
+  "published_utc": "2025-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to invest Rs 20,000 cr across businesses in the medium term: Sanjiv Puri",
+  "source": "Adgully.com",
+  "published_utc": "2025-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's FMCG biz eyes growth despite headwinds",
+  "source": "ETRetail.com",
+  "published_utc": "2025-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to invest Rs 20,000 cr across businesses; 'Bharat First' to anchor global aspirations: CMD",
+  "source": "ETRetail.com",
+  "published_utc": "2025-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why ITC Is Investing Rs 20,000 Crore Over the Next 6 Years \u2014 A Closer Look at Its Big FMCG Bet",
+  "source": "Republic World",
+  "published_utc": "2025-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s food-tech vertical shows serious muscle, grows at 108% CAGR; national expansion in sight",
+  "source": "Fortune India",
+  "published_utc": "2025-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to Announce Q1 FY26 Results on August 1, Shares Down 17.67% Year-on-Year",
+  "source": "scanx.trade",
+  "published_utc": "2025-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
