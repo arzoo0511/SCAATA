@@ -1,0 +1,1622 @@
+[
+ {
+  "title": "ICICI Prudential AMC gets final SEBI nod for IPO",
+  "source": "Cafemutual",
+  "published_utc": "2025-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC, 3 others get Sebi's approval to launch IPOs",
+  "source": "ETLegalWorld.com",
+  "published_utc": "2025-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC, Annu Projects, Technocraft Ventures & Powerica get SEBI nod for IPOs",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Companies",
+  "source": "BusinessLine",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top gainers and losers, December 2: IndiGo, ICICI Bank, Reliance Industries shares fall over 1.14%; check full list",
+  "source": "Upstox",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI retains SBI, HDFC Bank and ICICI Bank as systemically important banks",
+  "source": "Business Standard",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI says SBI, HDFC Bank, ICICI Bank remain domestic systemically important banks",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI retains SBI, HDFC Bank & ICICI Bank in 'Systemically Important' category",
+  "source": "ETLegalWorld.com",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's 'Baa3' rating reaffirmed by Moody's on strong financials",
+  "source": "Livemint",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI retains SBI, HDFC, ICICI in the too-big-to-fail-banks list",
+  "source": "The New Indian Express",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty Bank Index rejig: Why HDFC Bank, ICICI Bank shares are under pressure? Here\u2019s what you should know",
+  "source": "The Financial Express",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI identifies SBI, HDFC Bank, ICICI Bank as Domestic Systemically Important Banks in 2025 list",
+  "source": "The Hindu",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s Concerns Raised Over Handling of Credit Card Documentation Request",
+  "source": "Thekanal",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI retains SBI, HDFC Bank and ICICI Bank as Domestic Systemically Important Banks",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI risk guardrails: SBI, HDFC and ICICI keep D-SIB tag; what do higher capital buffers mean for them?",
+  "source": "The Times of India",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NSE Weight Concentration Guidelines: Here's how the Nifty Bank will be impacted",
+  "source": "CNBC TV18",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's banks poised for re-rating, top picks have up to 31% upside: Nomura",
+  "source": "CNBC TV18",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From ICICI and HDFC to SBI: Here's what 5 major banks are charging on personal loans",
+  "source": "India Today",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO Gets Final Sebi Nod: Issue Size, Valuation, Expected Date And Other Key Details To Know",
+  "source": "Outlook Money",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI says SBI, HDFC, ICICI remain as systemically important banks",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks Returned Nearly \u20b910,300 Crore Unclaimed Deposits to Account-holders in 3 Years, Rajya Sabha Told",
+  "source": "Moneylife",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex settles 500 pts lower, Nifty ends below 26,050: Rupee at record low among key factors behind market...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock Market Closing Bell: Sensex sinks 504 pts, Nifty below 26,050 - HDFC, ICICI Bank, RIL top laggards",
+  "source": "Zee Business",
+  "published_utc": "2025-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Retains SBI, HDFC Bank, and ICICI Bank as Domestic Systemically Important Banks (D-SIBs)",
+  "source": "Adda247",
+  "published_utc": "2025-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC Bank, ICICI Bank Remain Systemically Important Banks In RBI\u2019s 2025 Classification",
+  "source": "KNN India",
+  "published_utc": "2025-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI, SBI, HDFC Bank best placed as fresh loan yields rise, margins hold firm",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC Bank, and ICICI Bank Continue to be Identified as D-SIBs: RBI",
+  "source": "AffairsCloud",
+  "published_utc": "2025-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Infosys among 20 stocks that will ride India's 2026 rally: Nomura",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC & ICICI remain India\u2019s D-SIBs with same capital buckets in 2025",
+  "source": "ET Edge Insights",
+  "published_utc": "2025-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Names SBI, HDFC Bank and ICICI Bank as India\u2019s Safest Banks",
+  "source": "GK Today",
+  "published_utc": "2025-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI, HDFC \u092c\u0948\u0902\u0915 \u0915\u094b RBI \u0928\u0947 SIB \u0915\u0948\u091f\u0947\u0917\u0930\u0940 \u092e\u0947\u0902 \u0930\u0916\u093e, \u092f\u0947 \u0915\u094d\u092f\u093e \u091a\u0940\u091c \u0939\u0948? | The Lallantop",
+  "source": "The Lallantop",
+  "published_utc": "2025-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Has Declared These 3 Banks As The Safest In India",
+  "source": "News18",
+  "published_utc": "2025-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 16 price drops at Croma with bank offers bringing cost down: 5 key things",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, ICICI Bank may face short-term selling as Bank Nifty, FinNifty shift towards diversification",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Breaking: ICICI Prudential AMC IPO to hit D-Street on Dec 12; CleanMax Enviro Energy in third week of Dec",
+  "source": "Fortune India",
+  "published_utc": "2025-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI rate cut: Will lower lending rates follow? Banks now charge these interest rates on home loans",
+  "source": "Livemint",
+  "published_utc": "2025-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to buy for long term: From ITC, TCS to ICICI Bank\u2014 Rahul Ghose of Hedged.in recommends 10 shares; do you own any?",
+  "source": "Livemint",
+  "published_utc": "2025-12-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Asset Management Co files red herring prospectus for mega IPO",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Upcoming IPO: ICICI Pru AMC set to launch IPO, files RHP with Registrar of Companies, SEBI, BSE, NSE",
+  "source": "Livemint",
+  "published_utc": "2025-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC sets price band of Rs 2061-2165 a share for IPO",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO to open on Dec 12 with a pure OFS; listing on Dec 19",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of India, Indian Bank lower lending rates after RBI repo rate cut; check home loan interest rates of top",
+  "source": "CNBC TV18",
+  "published_utc": "2025-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s 6 Best Mobile Banking Apps for 2025 \u2014 Find Out Which One Is the Safest",
+  "source": "Trade Brains",
+  "published_utc": "2025-12-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares fall today, as lender moves to buy additional stake in ICICI Prudential AMC ahead of IPO",
+  "source": "TradingView",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to maintain over 51% stake in all three of its listed entities: ED Sandeep Batra",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to Watch Today: Eternal, Biocon, ICICI Bank, HFCL, Ashoka Buildcon, MTAR Tech, Cochin Shipyard, Zen...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO: Rs 10,602-crore offer opens December 12; check price band, listing date & other",
+  "source": "The Times of India",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC's Rs 10,602-cr IPO to open on Dec 12; price band at Rs 2,061-2,165/share",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zee Business. . \u0906\u0928\u0947 \u0935\u093e\u0932\u093e \u0939\u0948 ICICI Pru AMC \u0915\u093e IPO \u0915\u092c \u0938\u0947 \u0916\u0941\u0932\u0947\u0917\u093e ICICI Pru AMC \u0915\u093e \u0907\u0936\u094d\u092f\u0942? \u0915\u0948\u0938\u093e \u0930\u0939\u093e ICICI Group \u0915\u0947 IPOs \u0915\u093e \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 #ICICIPruAMC #IPO #ICICIGroup #StockMarket",
+  "source": "Facebook",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CNBC-TV18 turns 26; ICICI Prudential AMC IPO; Decoding IndiGo\u2019s rapid wave of cancellations & more",
+  "source": "LinkedIn",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO: Check ICICI Bank shareholder quota and cut-off date for eligibility",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC plans acquisition in private equity space, targets $11.9 bn valuation in IPO",
+  "source": "VCCircle",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO To Open On December 12, GMP Hints At Single-Digit Listing Gains",
+  "source": "Outlook Money",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC to launch three SIF products; CEO Nimesh Shah sees opportunity, not cannibalisation",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Asset Management Company Announces Price Band For IPO, Valuing Company At \u20b91.07 Lakh Crore",
+  "source": "Free Press Journal",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC sets IPO price band at \u20b92,061\u20132,165 to raise \u20b910,603 cr; eyes \u20b989,027 cr valuation",
+  "source": "Fortune India",
+  "published_utc": "2025-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO Opens On Dec 12",
+  "source": "www.fintechbiznews.com",
+  "published_utc": "2025-12-08T12:56:40+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Share Price Falls 0.53%, Trades at Rs. 1,382.30 Amid Stake Purchase Update",
+  "source": "Analytics Insight",
+  "published_utc": "2025-12-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to watch: IndiGo, Siemens, L&T, ICICI Bank among 10 shares in focus today",
+  "source": "Livemint",
+  "published_utc": "2025-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO opens today: Here is how it stacks up against peers",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBL Bank shares: Upside potential strong, downside limited; ICICI Sec explains why",
+  "source": "Business Today",
+  "published_utc": "2025-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank makes key appointments to strengthen leadership team",
+  "source": "Business Standard",
+  "published_utc": "2025-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 Stocks To Buy: Brokerage selects ICICI Bank, Max Financial, BEL, targets suggest up to 40% upside\u2014See list",
+  "source": "Zee Business",
+  "published_utc": "2025-12-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Fined Rs 10 Lakh, Vodafone Rs 5 Lakh In Gujarat SIM Fraud Case",
+  "source": "NDTV",
+  "published_utc": "2025-12-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank embraces disciplined testing to reinforce digital resilience",
+  "source": "QA Financial",
+  "published_utc": "2025-12-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay High Court Quashes Prosecution Against Chanda Kochhar, ICICI Bank Officials In Octroi Avoidance...",
+  "source": "Live Law",
+  "published_utc": "2025-12-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prudential sells 4.5% stake in Indian asset management JV for $545 million ahead of IPO",
+  "source": "Reuters",
+  "published_utc": "2025-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mphasis appoints Punit Sood as an Independent Director on the Board",
+  "source": "BusinessLine",
+  "published_utc": "2025-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Pru AMC IPO GMP rises ahead of issue opening on Dec 12; here's all you need to know",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "False Bank Records in Maintenance Case: Allahabad HC Refuses to Quash Case Against Man",
+  "source": "LawBeat",
+  "published_utc": "2025-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 10,602 cr ICICI Pru AMC IPO: 7 key insights on India\u2019s biggest active fund manager \u2013 Can it outshine peers?",
+  "source": "The Financial Express",
+  "published_utc": "2025-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Vodafone fined Rs 15 lakh for lapses over Rs 1.19 crore Gujarat SIM-swap fraud",
+  "source": "WION",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to Block ICICI Bank Credit Card Using Different Methods Online: A Step-by-Step Guide",
+  "source": "Gadgets 360",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to re-rate, outperform ICICI Bank by FY28? Emkay lists 4 reasons",
+  "source": "Business Standard",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zee Business. . ICICI Pru AMC IPO: \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902 Apply? - \u0928\u093f\u0935\u0947\u0936\u0915 2 \u0915\u0948\u091f\u0947\u0917\u0930\u0940 \u092e\u0947\u0902 \u0926\u0947 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0905\u0930\u094d\u091c\u0940 - IPO \u092e\u0947\u0902 5% \u0936\u0947\u092f\u0930\u0939\u094b\u0932\u094d\u0921\u0930 \u0915\u094b\u091f\u093e \u0910\u0938\u0947 \u0915\u0930\u0947\u0902 Apply \u0924\u094b Allotment \u0915\u0940 \u092c\u0922\u093c\u0947\u0917\u0940 \u0938\u0902\u092d\u093e\u0935\u0928\u093e? #ICICIPruAMCIPO #ICICIIPO #IPOAllotment #HowT",
+  "source": "Facebook",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay HC Quashes Summons to Chanda Kochhar in Octroi Case; Proceedings to Continue Against ICICI Bank",
+  "source": "LawBeat",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "High Court cancels 2009 octroi evasion complaint against Chanda Kochhar",
+  "source": "India Today",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lunate, Premji Invest, Jhunjhunwala Estate Among 26 Investors as Prudential Offloads 4.5 percent Stake in...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prudential sells \u20b94,900 crore stake ahead of ICICI Prudential AMC IPO \u2014 Who bought the shares?",
+  "source": "Livemint",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO: A Rs 1 lakh crore price tag seeks to dethrone market leader HDFC. Will investors",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC raises Rs 3,022 crore via anchor book, Rs 10,603-crore IPO to open on December 12",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC's Rs 10,603 crore IPO to open on Friday: Should you subscribe? Price band, GMP among...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon Scam: Deepak and Chanda Kochhar Move Bombay High Court Against ED\u2019s Property Attachment",
+  "source": "LawBeat",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kaynes Tech set for 48% upside ahead? 5 reasons why ICICI Direct is bullish",
+  "source": "The Financial Express",
+  "published_utc": "2025-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ekta World Repays Rs 170 Crore to ICICI Bank, Strengthening Financial Position Through Robust Sales Performance",
+  "source": "ANI News",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A look at the ICICI Prudential AMC IPO",
+  "source": "Finshots",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay High Court Refuses To Quash Complaint Against ICICI Bank For Non-Payment Of Octroi On Import Of...",
+  "source": "Verdictum",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank - Motilal Oswal picks 10 stocks to buy for what it sees as multi-trillion dollar opportunity",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay HC quashes case against Chanda Kochhar, ICICI officials over octroi evasion",
+  "source": "The Hindu",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Major banks pause digital onboarding as mule account scams surge: Report",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MF news: ICICI Prudential AMC and LIC MF announce change in shareholding patterns; see details",
+  "source": "Upstox",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO: How to increase chances of allotment through ICICI Bank shareholders quota",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO sees strong demand from Prashant Jain, Madhu Kela, global giants, domestic MFs",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO opens today: Check GMP, price band, lot size, bid details, key timelines",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Pru pre-IPO round brings in 26 investors",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO day 1: GMP, subscription status, other details. Apply or not?",
+  "source": "Livemint",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC secures \u20b93,022 cr from anchor investors; 10 things to know as IPO opens today",
+  "source": "Fortune India",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO Opens As Anchor Investors Pump In Rs 3,022 Cr",
+  "source": "BW Businessworld",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO opens today. GMP, price band, key details in 10 points - Should you apply?",
+  "source": "Livemint",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Pru AMC IPO: How to apply to boost your allotment chances\u2014Market guru Anil Singhvi shares tips",
+  "source": "Zee Business",
+  "published_utc": "2025-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here\u2019s why Bombay High Court quashed Chandra Kocchar\u2019s Prosecution in Octroi evasion case & ordered to proceed against ICICI Bank only",
+  "source": "SCC Online",
+  "published_utc": "2025-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top market movers: Eight of top-10 firms lose Rs 79,129 crore in value; Bajaj Finance, ICICI Bank lead we",
+  "source": "The Times of India",
+  "published_utc": "2025-12-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hit by mcap erosion",
+  "source": "News Arena India",
+  "published_utc": "2025-12-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC's $1.2 billion India IPO fully subscribed, led by institutions",
+  "source": "Reuters",
+  "published_utc": "2025-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mcap of 8 of 10 most valued firms erodes by Rs 79,129 cr; Bajaj Finance, ICICI Bank hit hard",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank staff, cops save elderly Gujarat woman from Rs 33 lakh digital arrest fraud",
+  "source": "India Today",
+  "published_utc": "2025-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI cuts FD interest rates from today: Comparisons with HDFC Bank, ICICI Bank and Canara Bank fixed deposi",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Group\u2019s 5 epic IPOs: Rs 5,750 cr bank issue to Rs 10,602 cr mega AMC IPO \u2013 Full list inside",
+  "source": "The Financial Express",
+  "published_utc": "2025-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO: Is the Rs 1.07 lakh crore valuation justified?",
+  "source": "ET Now",
+  "published_utc": "2025-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FMCG demand shows signs of recovery as GST-led price cuts lift volumes: ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank inaugurates a branch in Bharuch",
+  "source": "PSU Connect",
+  "published_utc": "2025-12-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI vs HDFC Bank: Which bank stock will deliver higher returns?",
+  "source": "Zee Business",
+  "published_utc": "2025-12-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI to ICICI Bank: 4 banks revise fixed deposit rates after RBI's repo rate cut in December",
+  "source": "Upstox",
+  "published_utc": "2025-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, PNB, ICICI among top 10 banks with most unclaimed deposits: Here\u2019s how to get yours back",
+  "source": "Upstox",
+  "published_utc": "2025-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC shares to list Friday: This brokerage gives 'Buy' rating, sees up to 39% upside from...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to buy for long term: Dharmesh Shah of ICICI Securities picks seven shares for 2026, sees Nifty 50 at 50K by 2030",
+  "source": "Livemint",
+  "published_utc": "2025-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 3 Lifetime Free ICICI Bank Credit Cards for 2026; Features and Benefits Explained",
+  "source": "Trade Brains",
+  "published_utc": "2025-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Mutual Fund Portfolio: HDFC Bank and 9 other top stock holdings and November allocation updates",
+  "source": "Trade Brains",
+  "published_utc": "2025-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ICICI Prudential AMC notches $14.4 billion valuation on trading-debut spike",
+  "source": "Reuters",
+  "published_utc": "2025-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank gets Rs 238 cr GST demand notice",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ICICI Prudential AMC sees shares jump 19% in market debut after stellar IPO",
+  "source": "CNBC",
+  "published_utc": "2025-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank gets Rs 237.90 crore GST demand from CGST Mumbai",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-12-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank receives \u20b9238 Cr GST demand from Maharashtra tax authorities",
+  "source": "Storyboard18",
+  "published_utc": "2025-12-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to buy for 2026: These 5 banks can rally up to 30%, says mkt expert",
+  "source": "Business Standard",
+  "published_utc": "2025-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC shares could list with bumper gains of up to 19% on Friday; experts recommended...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO debut in focus: Can ICICI group finally snap the muted listing jinx?",
+  "source": "Livemint",
+  "published_utc": "2025-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO listing date tomorrow: Here's what GMP signals ahead of debut",
+  "source": "Livemint",
+  "published_utc": "2025-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From SBI to HDFC, banks revise fixed deposit rates after RBI's repo rate cut",
+  "source": "CNBC TV18",
+  "published_utc": "2025-12-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC IPO - Check Allotment Status, Listing Date, Listing Price",
+  "source": "Groww",
+  "published_utc": "2025-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Personal loan interest rate changes in 2025: What SBI, HDFC, ICICI, Axis, Kotak and other banks offer",
+  "source": "Upstox",
+  "published_utc": "2025-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dhurandhar stocks to buy for 2026: Swiggy, ICICI Bank among 75 stock bets by 6 brokerages",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC shares list at 20% premium after strong IPO response",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC shares settle 19% higher on debut day",
+  "source": "Moneycontrol.com",
+  "published_utc": "2025-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC, ICICI, Axis, Canara Bank revise FD rates post RBI rate cut",
+  "source": "Business Today",
+  "published_utc": "2025-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC share price makes bumper debut! Stock lists at \u20b92,600, surging 20% from IPO price",
+  "source": "Livemint",
+  "published_utc": "2025-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC shares list at 20% premium over IPO price",
+  "source": "Fortune India",
+  "published_utc": "2025-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SFIO questions IndusInd Bank executives on accounting discrepancies",
+  "source": "Business Standard",
+  "published_utc": "2025-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC Shares List With Over 20% Premium After Blockbuster IPO",
+  "source": "Free Press Journal",
+  "published_utc": "2025-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Manish Bhandari Appointed as Chief Compliance Officer at ICICI Prudential Life Insurance Company Limited",
+  "source": "hrtoday.in",
+  "published_utc": "2025-12-20T07:41:38+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private banks: ICICI Bank - Top 10 biggest wealth creators: Which stocks made investors richest in 5 years? Check here",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best AMC Stock: ICICI Pru vs HDFC AMC",
+  "source": "Equitymaster",
+  "published_utc": "2025-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pre-Agreed Online Dispute Resolution Clause Prevails \u2013 Amit Chaurasia v. ICICI Bank Limited",
+  "source": "IndiaLaw LLP",
+  "published_utc": "2025-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Credit Card Changes from January 2026: New Fees, Reward Caps, Entertainment Benefit Updates, and Li",
+  "source": "CNBC TV18",
+  "published_utc": "2025-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises credit card rules for 2026: Bank to charge 2% fee on online gaming transactions; other",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Board Meet on Jan 17 for Q3FY26 Results",
+  "source": "scanx.trade",
+  "published_utc": "2025-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank shares beat HDFC Bank, ICICI Bank in 2025; still a buy?",
+  "source": "Business Today",
+  "published_utc": "2025-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC Makes Strong Market Debut; Shares List at 20% Premium",
+  "source": "Groww",
+  "published_utc": "2025-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC announces change in shareholding pattern. Details here",
+  "source": "Upstox",
+  "published_utc": "2025-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gaming to travel spends: What changes for ICICI credit card users in 2026",
+  "source": "India Today",
+  "published_utc": "2025-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Life launches Sector Leaders Index Fund under ULIPs",
+  "source": "CNBC TV18",
+  "published_utc": "2025-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential AMC share price dips after strong debut last week. Opportunity to buy?",
+  "source": "Livemint",
+  "published_utc": "2025-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises credit card charges, benefits from January 2026",
+  "source": "NewsBytes",
+  "published_utc": "2025-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Announces Latest Credit Card Fees & Rewards; Here\u2019s What Changing From 2026",
+  "source": "Goodreturns",
+  "published_utc": "2025-12-22T11:40:27+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Credit Card Users Alert: 2% Online Gaming Fee and More New Charges from 2026",
+  "source": "Trade Brains",
+  "published_utc": "2025-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex falls for 2nd session; RIL, ICICI Bank slip on profit-booking",
+  "source": "Press Trust of India",
+  "published_utc": "2025-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SFIO launches probe into IndusInd Bank over accounting discrepancies",
+  "source": "Business Standard",
+  "published_utc": "2025-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Labour Commissioner Flags Unfair Practices at ICICI Bank Amid CEO\u2019s Multi-Crore Pay",
+  "source": "Thekanal",
+  "published_utc": "2025-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2026 top picks: From BSE to HAL, why Motilal Oswal is betting on these large caps for the new year",
+  "source": "The Financial Express",
+  "published_utc": "2025-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card spends fall sharply in November as GST cut impact moderates; HDFC, Federal Bank gain share",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-12-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank holiday today: Are banks open or closed on December 25 for Christmas? All you need to know",
+  "source": "Livemint",
+  "published_utc": "2025-12-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU banks are quietly eating private banks\u2019 lunch? Motilal Oswal says HDFC Bank, ICICI Bank, SBI and AU Ba",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2026 top picks: Motilal Oswal\u2019s big bets include Bharti Airtel, ICICI Bank, L&T and 7 more",
+  "source": "The Financial Express",
+  "published_utc": "2025-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, AU SFB well-placed as credit cycle turns more disciplined: Siddhartha Khemka",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank tops credit card market, SBI leads in debit cards as of Nov \u201825",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2025-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to buy for long term: Shrikant Chouhan of Kotak recommends 10 stocks with up to 33% upside potential",
+  "source": "Livemint",
+  "published_utc": "2025-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank holiday today: Are banks open or closed on Saturday, 27 December? Check here",
+  "source": "Livemint",
+  "published_utc": "2025-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How bank insiders enabled cyber fraud: CBI exposes nexus among Canara Bank's manager, Axis Bank's BD and m",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 private banks with highest interest on fixed deposits: IndusInd Bank gives 7% RoI; Senior citizens ge...",
+  "source": "Bhaskar English",
+  "published_utc": "2025-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank fixed deposits in 2026: 2025 in review and what's ahead for FD investors in the New Year",
+  "source": "Upstox",
+  "published_utc": "2025-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flexi-cap fund performance: 1, 3 & 5-year returns of Parag Parikh, HDFC, ICICI Pru and SBI MF",
+  "source": "Upstox",
+  "published_utc": "2025-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Employment at private banks dips in FY25 due to a drop at ICICI Bank; inches up in PSU banks",
+  "source": "The Economic Times",
+  "published_utc": "2025-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "8 key personal finance rules to change in 2026: From credit cards, tax to gold and silver loans",
+  "source": "Upstox",
+  "published_utc": "2025-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prabhjot Chhabra Appointed as National Head, Personal Loans Product at ICICI Bank",
+  "source": "hrtoday.in",
+  "published_utc": "2025-12-29T16:41:57+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Employment at pvt banks dips in FY25 due to a drop at ICICI Bank; inches up in PSU banks",
+  "source": "ETHRWorld.com",
+  "published_utc": "2025-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Balance Sheet Debt Entry Without Disclaimer Extends Limitation For IBC Plea: NCLT Kolkata Reaffirms",
+  "source": "Live Law",
+  "published_utc": "2025-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty Rebalancing Today: Here are the five stocks with the highest potential inflows and outflows",
+  "source": "CNBC TV18",
+  "published_utc": "2025-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Q3 banking preview: YES Bank, Bandhan Bank, IndusInd Bank may see soft Dec quarter",
+  "source": "Business Today",
+  "published_utc": "2025-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai: Police Nab Bus Driver After ICICI Bank Deputy Manager Dies In WEH Road Accident",
+  "source": "Free Press Journal",
+  "published_utc": "2025-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top picks for 2026: ICICI Securities\u2019 7 key bets with up to 32% upside potential",
+  "source": "The Financial Express",
+  "published_utc": "2025-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Credit Cards: 3 Lifetime Free Beginner-Friendly Cards for Cashback and Rewards in 2026",
+  "source": "Trade Brains",
+  "published_utc": "2025-12-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
