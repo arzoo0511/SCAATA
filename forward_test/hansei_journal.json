@@ -3923,5 +3923,280 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-15",
+    "ran_utc": "2026-10-15T11:57:13.817390+00:00",
+    "equity": 10022.98,
+    "benchmark_equity": 10030.98,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.383,
+        "target_exposure": 0.234,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.80, trusted 25%)",
+          "momentum against (-0.59, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.796,
+          "volatility": -0.152,
+          "momentum": -0.586,
+          "news": 0.002
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.069,
+        "target_exposure": 1.0,
+        "current_exposure": 0.693,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "trend supportive (+0.39, trusted 25%)",
+          "news against (-0.10, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.391,
+          "volatility": -0.088,
+          "momentum": 0.068,
+          "news": -0.095
+        },
+        "value": 1389.4
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.227,
+        "target_exposure": 1.0,
+        "current_exposure": 0.884,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 88%: no strong reason to change",
+          "trend supportive (+0.58, trusted 25%)",
+          "momentum supportive (+0.38, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.578,
+          "volatility": -0.0,
+          "momentum": 0.378,
+          "news": -0.047
+        },
+        "value": 1771.2
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.288,
+        "target_exposure": 0.423,
+        "current_exposure": 0.193,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 19%: no strong reason to change",
+          "trend against (-0.89, trusted 25%)",
+          "momentum against (-0.50, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.892,
+          "volatility": -0.0,
+          "momentum": -0.502,
+          "news": 0.24
+        },
+        "value": 386.49
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.559,
+        "target_exposure": 0.0,
+        "current_exposure": 0.263,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "volatility against (-0.88, trusted 25%)",
+          "trend against (-0.84, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.842,
+          "volatility": -0.875,
+          "momentum": -0.673,
+          "news": 0.155
+        },
+        "value": 527.8
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.002,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": 0.002
+        },
+        "top": [
+          {
+            "title": "HSBC cuts target for HDFC Bank stock to USD 26.10",
+            "source": "ad-hoc-news.de",
+            "sentiment": -0.8,
+            "material": 0.6,
+            "published_utc": "2026-10-14T12:07:16+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Limited expected to post earnings of 39 cents a share - Earnings Preview",
+            "source": "TradingView",
+            "sentiment": 0.0,
+            "material": 0.5,
+            "published_utc": "2026-10-15T11:01:11+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank, ICICI Bank and Axis Bank Business Updates",
+            "source": "Kalkine India",
+            "sentiment": 0.0,
+            "material": 0.5,
+            "published_utc": "2026-10-15T10:13:59+00:00",
+            "count": 2
+          },
+          {
+            "title": "HDFC Bank names Bagchi CEO. October 17 results test HDFC Bank stock",
+            "source": "ad-hoc-news.de",
+            "sentiment": 0.3,
+            "material": 0.5,
+            "published_utc": "2026-10-14T08:49:35+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.095,
+          "strength": 1.0,
+          "material_count": 8,
+          "view": -0.095
+        },
+        "top": [
+          {
+            "title": "ICICI Bank Limited expected to post earnings of 38 cents a share - Earnings Preview",
+            "source": "TradingView",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-10-15T11:01:08+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank | 6-K: Report of foreign private issuer (related to financial reporting)",
+            "source": "Moomoo",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-10-15T01:34:38+00:00",
+            "count": 1
+          },
+          {
+            "title": "Erste Group Bank Lowers Earnings Estimates for ICICI Bank",
+            "source": "MarketBeat",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-14T11:15:31+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank schedules October 17 results: what it means for IBN stock",
+            "source": "ad-hoc-news.de",
+            "sentiment": 0.0,
+            "material": 0.6,
+            "published_utc": "2026-10-15T08:12:06+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": -0.111,
+          "strength": 0.423,
+          "material_count": 1,
+          "view": -0.047
+        },
+        "top": [
+          {
+            "title": "Gas Utilities Q1 FY27: GAIL, Petronet LNG and IGL Under Pressure",
+            "source": "Kalkine India",
+            "sentiment": -0.5,
+            "material": 0.6,
+            "published_utc": "2026-10-14T10:41:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.24,
+          "strength": 1.0,
+          "material_count": 10,
+          "view": 0.24
+        },
+        "top": [
+          {
+            "title": "ONGC, Indian Oil and BPCL June 2026 Earnings",
+            "source": "Kalkine India",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-10-14T13:26:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "RBI Opens Special Dollar Window for State-Run Oil Companies",
+            "source": "Construction World",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-14T18:07:08+00:00",
+            "count": 2
+          },
+          {
+            "title": "RBI\u2019s oil-dollar window aims to ease rupee pressure",
+            "source": "The Financial Express",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-14T14:52:17+00:00",
+            "count": 2
+          },
+          {
+            "title": "IOCL profit recovery forecast: what it means for Indian Oil Corporation stock",
+            "source": "ad-hoc-news.de",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-14T00:20:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.385,
+          "strength": 0.403,
+          "material_count": 1,
+          "view": 0.155
+        },
+        "top": [
+          {
+            "title": "ITC shareholders approve final dividend, reappoint Hemant Bhargava",
+            "source": "scanx.trade",
+            "sentiment": 0.6,
+            "material": 0.7,
+            "published_utc": "2026-10-14T20:13:14+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]
