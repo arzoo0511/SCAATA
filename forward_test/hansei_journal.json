@@ -4198,5 +4198,280 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-16",
+    "ran_utc": "2026-10-16T11:48:19.480154+00:00",
+    "equity": 10021.97,
+    "benchmark_equity": 10053.69,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.356,
+        "target_exposure": 0.287,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.78, trusted 25%)",
+          "momentum against (-0.48, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.777,
+          "volatility": -0.093,
+          "momentum": -0.478,
+          "news": -0.077
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.189,
+        "target_exposure": 1.0,
+        "current_exposure": 0.697,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "trend supportive (+0.45, trusted 25%)",
+          "news supportive (+0.24, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.447,
+          "volatility": -0.051,
+          "momentum": 0.122,
+          "news": 0.238
+        },
+        "value": 1397.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.21,
+        "target_exposure": 1.0,
+        "current_exposure": 0.877,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 88%: no strong reason to change",
+          "trend supportive (+0.51, trusted 25%)",
+          "momentum supportive (+0.33, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.506,
+          "volatility": -0.0,
+          "momentum": 0.328,
+          "news": 0.007
+        },
+        "value": 1758.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.331,
+        "target_exposure": 0.339,
+        "current_exposure": 0.195,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 20%: no strong reason to change",
+          "trend against (-0.86, trusted 25%)",
+          "momentum against (-0.36, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.859,
+          "volatility": -0.0,
+          "momentum": -0.364,
+          "news": -0.1
+        },
+        "value": 391.14
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.482,
+        "target_exposure": 0.036,
+        "current_exposure": 0.263,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "volatility against (-0.87, trusted 25%)",
+          "trend against (-0.84, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.84,
+          "volatility": -0.869,
+          "momentum": -0.607,
+          "news": 0.388
+        },
+        "value": 527.0
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.077,
+          "strength": 1.0,
+          "material_count": 2,
+          "view": -0.077
+        },
+        "top": [
+          {
+            "title": "HDFC Bank's DMD Kaizad Bharucha could seek early retirement",
+            "source": "Moneycontrol.com",
+            "sentiment": -0.3,
+            "material": 0.6,
+            "published_utc": "2026-10-16T03:06:02+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Q2 results: Net profit likely to remain flat despite strong loan growth; key focus on NIM and leadership transition",
+            "source": "Upstox",
+            "sentiment": -0.5,
+            "material": 0.5,
+            "published_utc": "2026-10-16T06:38:15+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.238,
+          "strength": 1.0,
+          "material_count": 7,
+          "view": 0.238
+        },
+        "top": [
+          {
+            "title": "ICICI Bank Q2 Results Preview: Profit seen rising 18% YoY to Rs 14,650 crore; NII may jump 17%",
+            "source": "Zee Business",
+            "sentiment": 0.7,
+            "material": 0.8,
+            "published_utc": "2026-10-16T10:32:53+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank Q2 Results Preview: PAT, NII may rise up to 21% YoY; margins, deposit growth in focus",
+            "source": "The Economic Times",
+            "sentiment": 0.6,
+            "material": 0.7,
+            "published_utc": "2026-10-16T09:07:51+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank Q2 Preview: Profit Seen Rising 16%, Margins Under Pressure From FCNR(B) Flows",
+            "source": "NDTV Profit",
+            "sentiment": 0.3,
+            "material": 0.6,
+            "published_utc": "2026-10-16T08:45:35+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank Q2 Preview: Profit may rise 8-14% YoY, NIM likely to contract",
+            "source": "Business Standard",
+            "sentiment": 0.2,
+            "material": 0.6,
+            "published_utc": "2026-10-16T07:25:34+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.028,
+          "strength": 0.246,
+          "material_count": 1,
+          "view": 0.007
+        },
+        "top": [
+          {
+            "title": "Gas Utilities Q1 FY27: GAIL, Petronet LNG and IGL Under Pressure",
+            "source": "Kalkine India",
+            "sentiment": -0.5,
+            "material": 0.5,
+            "published_utc": "2026-10-14T10:41:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": -0.1,
+          "strength": 1.0,
+          "material_count": 8,
+          "view": -0.1
+        },
+        "top": [
+          {
+            "title": "ONGC, Indian Oil and BPCL June 2026 Earnings",
+            "source": "Kalkine India",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-10-14T13:26:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "Oil marketing companies losing up to Rs 30 per litre on fuel sales amid high crude costs: Jefferies",
+            "source": "www.indiagazette.com",
+            "sentiment": -0.7,
+            "material": 0.7,
+            "published_utc": "2026-10-16T05:42:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "IOCL profit recovery forecast: what it means for Indian Oil Corporation stock",
+            "source": "ad-hoc-news.de",
+            "sentiment": 0.7,
+            "material": 0.7,
+            "published_utc": "2026-10-14T00:20:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "RBI Opens Special Dollar Window for Three State-Run OMCs",
+            "source": "Construction World",
+            "sentiment": 0.455,
+            "material": 0.6,
+            "published_utc": "2026-10-16T07:20:28+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.449,
+          "strength": 0.864,
+          "material_count": 3,
+          "view": 0.388
+        },
+        "top": [
+          {
+            "title": "Welcomhotel by ITC Hotels, Manesar Gurugram",
+            "source": "Hospitality Net",
+            "sentiment": 0.8,
+            "material": 0.6,
+            "published_utc": "2026-10-16T09:04:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "ITC shareholders approve final dividend, reappoint Hemant Bhargava",
+            "source": "scanx.trade",
+            "sentiment": 0.3,
+            "material": 0.5,
+            "published_utc": "2026-10-15T23:49:10+00:00",
+            "count": 1
+          },
+          {
+            "title": "Hotel Stock BLOCK DEAL: FMGC Giant ITC-Backed ITC Hotels Stock Nears Day's High Despite GQG's Stake Sale; BUY?",
+            "source": "Goodreturns",
+            "sentiment": 0.7,
+            "material": 0.5,
+            "published_utc": "2026-10-14T07:00:00+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]
