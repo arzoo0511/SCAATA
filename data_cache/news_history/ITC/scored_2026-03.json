@@ -1,0 +1,299 @@
+[
+ {
+  "title": "ITC Sunrise Spices launches Champaran Mutton Masala to celebrate Holi in Bihar",
+  "source": "MediaBrief",
+  "published_utc": "2026-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex ends 1,048 lower, Nifty below 24,900; RIL down 2%",
+  "source": "India Today",
+  "published_utc": "2026-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sunrise Spices launches Champaran Mutton Masala for Holi",
+  "source": "Indian Television Dot Com",
+  "published_utc": "2026-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Supreme Court on imposition of levies in Nigeria",
+  "source": "The Guardian Nigeria News",
+  "published_utc": "2026-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Shares Fall Today Amid Broader Market Weakness; FMCG Giant Faces Selling Pressure After Investors Lose 23% In 6 Months",
+  "source": "www.lokmattimes.com",
+  "published_utc": "2026-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy, Sell Or Hold: L&T, HAL, MCX, Paras Defence, Dixon Tech, Aadhar HFC \u2014 Ask Profit",
+  "source": "NDTV Profit",
+  "published_utc": "2026-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Protein revolution in India: India sees surge in protein products; Brands aim to integrate essential nutr",
+  "source": "The Times of India",
+  "published_utc": "2026-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL, ITC, Infosys, L&T: LIC loses Rs 47,000 cr notionally on top 5 portfolio stocks",
+  "source": "Business Today",
+  "published_utc": "2026-03-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty50 slides 10% from Jan peak into 'correction' zone; VIX up 150% YTD",
+  "source": "Business Standard",
+  "published_utc": "2026-03-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sunfeast Marie Light launches #MarieLightMode campaign to help couples reconnect",
+  "source": "IMPACT Magazine",
+  "published_utc": "2026-03-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court February 2026 Roundup: Key Judgments on Prison Reforms, NCERT Class 8 Judiciary Chapter Row, Arbitration and More",
+  "source": "SCC Online",
+  "published_utc": "2026-03-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ltd eases for fifth straight session",
+  "source": "Business Standard",
+  "published_utc": "2026-03-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sunfeast Marie Light launches #MarieLightMode campaign",
+  "source": "Indian Television Dot Com",
+  "published_utc": "2026-03-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apsis Aerocom IPO subscribed 1.65 times so far on Day 1: Check price band, lot size and key dates",
+  "source": "Upstox",
+  "published_utc": "2026-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HAL, Infosys, ITC, PFC, LIC, L&T, BEML among top-10 techno-fund picks for up to 32% upside",
+  "source": "Business Today",
+  "published_utc": "2026-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex opens over 500 points lower, Nifty below 23,500; IT stocks decline",
+  "source": "India Today",
+  "published_utc": "2026-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex jumps 938 pts, Nifty settles above 23,400",
+  "source": "News Arena India",
+  "published_utc": "2026-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Limited Allots 2.39 Lakh Shares Under Employee Stock Option Scheme",
+  "source": "scanx.trade",
+  "published_utc": "2026-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ltd. Stock Falls to 52-Week Low of Rs.299.75 Amid Continued Downtrend",
+  "source": "MarketsMojo",
+  "published_utc": "2026-03-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC stock heads for worst FY return in 6 years; is this buy opportunity?",
+  "source": "Business Standard",
+  "published_utc": "2026-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy, Sell Or Hold: Dixon Tech, Trent, LG Electronics, Shriram Finance, ITC \u2014 Ask Profit",
+  "source": "NDTV Profit",
+  "published_utc": "2026-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s Aashirvaad launches iron-rich 'Iron Shakti Salt' ahead of National Anaemia Day",
+  "source": "IMPACT Magazine",
+  "published_utc": "2026-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Markets Rally, But ITC Ltd. Sinks to 52-Week Low in Stock-Specific Sell-Off",
+  "source": "MarketsMojo",
+  "published_utc": "2026-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLT Kolkata Sanctions Merger Of Group Companies Sresta Natural Bioproducts, Wimco Into ITC",
+  "source": "LiveLawBiz",
+  "published_utc": "2026-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tackling iron deficiency: ITC Aashirvaad launches Iron Shakti Salt; Aims to reduce anaemia rates in India",
+  "source": "The Times of India",
+  "published_utc": "2026-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Launches Aashirvaad Iron Shakti Salt With Iodine",
+  "source": "SMEStreet",
+  "published_utc": "2026-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Share Price Slips Nearly 3% Today; Stock Among Worst Nifty 50 Performers in FY26",
+  "source": "www.lokmattimes.com",
+  "published_utc": "2026-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Target Price Cut: Goldman Sachs Flags Margin Hit From Cigarette Tax Hike",
+  "source": "NDTV Profit",
+  "published_utc": "2026-03-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Limited Issues Public Notice for Lost Share Certificates Under SEBI Regulation 30",
+  "source": "scanx.trade",
+  "published_utc": "2026-03-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bharti Airtel, ITC, Aurobindo Pharma: How to trade these buzzing stocks",
+  "source": "Business Today",
+  "published_utc": "2026-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Share: Can the FMCG Firm Sustain Growth as Margin Pressures Build?",
+  "source": "Trade Brains",
+  "published_utc": "2026-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Monthly Dividend Stocks in India 2026 Top Picks",
+  "source": "Univest",
+  "published_utc": "2026-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sunfeast Dark Fantasy activates \u2018Party with SRK\u2019 campaign with Live Party on a Hoarding | Media4Growth",
+  "source": "Media4Growth",
+  "published_utc": "2026-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
