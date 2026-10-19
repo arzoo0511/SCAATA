@@ -1,0 +1,414 @@
+{
+  "symbol": "ICICIBANK.NS",
+  "date": "2026-10-19",
+  "headlines": [
+    {
+      "title": "ICICI Bank stock: Jefferies keeps INR 1,750 target for ICICI Bank stock",
+      "source": "ad-hoc-news.de",
+      "published_utc": "2026-10-19T14:10:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVBjUEhUNmI4eFM0NkF1dHI1b0RxRV95UnNVbjU0WjgzTGl6WTFMa0JLbmRJemZfazlOVFVVZ0pvS3RlOC05cjY2N3hpT1RQazBBSU9nazQzVHJBRWxWZDVnd3BjbEVIOVljeUNtUFJfa3hBWkdkTDJERkFPdXUwTklSWHNpWVBxR1o2QkZyeDdEUUl4WW5xZEpRYk0wRy1oT2duSmp1REk2eHI4TEhQRGRHVGJjYVVkS0E0bVNmU3NhZWJfWVhaeXRqQ1FNZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Limited Stock 12\u2011Month Price Target Raised to $37.06, Implies 24% Upside",
+      "source": "TradingView",
+      "published_utc": "2026-10-19T13:20:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSUVFSmtwTzlIdW15QkdwUDZ2UDVlRzg1SnRGbFRGdkFXRDhVUGpSR2p0NkllUXotMFkwT25Wd0dnTnZ5VTdLNFFhNmF1OTgtM2RscGNfR2RHMXlEa3kybjVOTU9qeU1WVURmcFFkWGlVeERtX3NSNXk5c2duNno5SC1PUDVUTXk3N3VBQ1VVZHlyWTNWMlA4SVBoSVpHN1Q2c0lpaElodW1MQk9TSmEtVFY5eFVuVUR5bnNCM3gtbkl4T0VRTmM1elZ6U3dRQnl1ems4QjQ1Z09GZw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Weaker rupee is part of the solution, not the problem: ICICI Pru\u2019s Anand Shah",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-19T13:07:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaWhGOTJ6bE9jT1oyVU1vZHBreHNkZ241cGh3R2ttMjNMbnhDNnd0UUlsaDhhbXVmcEwtZDhIa0NtYXIyY0RKY180dW1VYlhvLUZRejRZLU9RMXdTTmFCSHRMMzUyVHVRREh3eXRDM2xBOG1xMF9vQ0R0RTNsRjlvc1E5UjhQYWpzZ0tTaDF5enZxdUYtb0RPNEhJbWRaV0NVM1YwZi1qWjlmb3gycVdpRVlKel9fd2Nub0FiZzZydFVRVUdGSUtZdjlmV1VHLTlQZXJvTzNid1BhUm5k0gHcAUFVX3lxTE1paEY5MnpsT2NPWjJVTW9kcGt4c2RnbjVwaHdHa20yM0xueEM2d3RRSWxoOGFtdWZwTC1kOEhrQ21hcjJjREpjXzR1bVViWG8tRlF6NFktT1Exd1NOYUJIdEwzNTJUdVFESHd5dEMzbEE4bXEwX29DRHRFM2xGOW9zUTlSOFBhanNnS1NoMXl6dnF1Ri1vRE80SEltZFpXQ1UzVjBmLWpaOWZveDJxV2lFWUp6X193Y25vQWJnNnJ0VVFVR0ZJS1l2OWZXVUctOVBlcm9PM2J3UGFSbmQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank: Solid Performance And Favorable Prospects (NYSE:IBN)",
+      "source": "Seeking Alpha",
+      "published_utc": "2026-10-19T12:46:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUk5MVlFR01YTl9wZFBMemd6a2JaUEJsdTFOVzh3NXBWemF6SzNiS19mUnp4NmRPYTE4cmgtMXhWeGtEZWlnbkNZMnFnU2pSaDVzLUcta0cwd05vN2VMNmJITGZHVW05TkNsZkEzUjhXOG1BU21vSlplZWU5MEFJU2lHa2JSOGVPenJLZzM5TF9mWnB0akd4eQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Dominates Credit Card Spending in India",
+      "source": "Analytics Insight",
+      "published_utc": "2026-10-19T12:19:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXV1UlExNnh4VndhMUZJZ21NZ2dkR2xURkVWZHYtTUE4VEV3d25qNWl1Ri1jNG5YUWhvT256cXUxV3VPek43LS1nRE5qdURWQmxPRUpiRWhHNzhsN2hiY3FibkVvZE1scWRCdktobzN5WGlZdk1aQXpmajVDLVlzcV9mXzBCd3ZmYmNSWGhJVTBHX1NJbFl4OWFGQ2N4cWfSAZ8BQVVfeXFMTml1dVJRMTZ4eFZ3YTFGSWdtTWdnZEdsVEZFVmR2LU1BOFRFd3duajVpdUYtYzRuWFFob09uenF1MVd1T3pONy0tZ0ROanVEVkJsT0VKYkVoRzc4bDdoYmNxYm5Fb2RNbHFkQnZLaG8zeVhpWXZNWkF6Zmo1Qy1Zc3FfZl8wQnd2ZmJjUlhoSVUwR19TSWxZeDlhRkNjeHFn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank shares close lower after Q2 earnings; 3 brokerages remain bullish",
+      "source": "Business Today",
+      "published_utc": "2026-10-19T10:48:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZlRlZGZ1U1NhZVpDRDgxRy1RckkzaHZMbjc1N1RIUktFSTVFUjV2UGRVdkIzeWREY1dYaFp4TkZVd2RtOGtkbElQZjhScUtHa3VQUWxEcUVBb0dTVVY5OTZTbDhsRVhwNW5KRDVlUnZQSEg3WXBHR0FFSkk1SkpxV3FpU1dKNjFRN05LNEp2cDYtRXdKdWhuMjNyWVFLcWQyU1dTeGVEb3dJT0p0Uk4yc2dPREtnTGpsX0JYYTA2ZjZhQmR1SkxrMDhWTVJTc2hMdGxuQUZtd2dfMjTSAeABQVVfeXFMTkt0V1B2dF9iLVBrTXBMX1hZTWwzeGsyY2FhVmJ0cVJFRFVIWDNib3VIaHM5U1FLQy00TmJubFJLV2dJbzZFT1RfWUZrb1FRWUpuR25fem9NeHF5VV9YWEg4RGNRalF2RTJsZGNVdmo2VWxPZkhsWDdZekRDRjFuT2N6TGFNZVh3R3RRVl9yQXVmTWFLYXRPZ3NuSk5zTjBLU20xLXN5UExnN0pZbElBR0VjNzVpLXlnQ1BKUXg2d2tDckVHQnNncUxTdC1hMjhDU0g2RFFLVHlVdWhHd3YyTXk?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank falls Monday, still outperforms market",
+      "source": "MarketWatch",
+      "published_utc": "2026-10-19T10:32:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTFSWXdRV2NkUmZjcGxMckhXcEhhUDB0MmxzaXVBSHEyYWZvTmRyY0NjYVRoOF9TWkNLVllnd3BUdTJVX0NzODZQSEVxUHdpMloyQ1dSS18tOUszTkEzaWd2UDFCR2xTR0p3Y1daNzBDVlZSQlBmeFZ5OWpiZ0gweVAzb2RlUmY5ODdNdTJQNDBGbXRGVDNFYld3VGUzVmUtQUpuMmNqTjBYbk9abUphd29vWllDNERRR3NZSC1ZV2ZZb19n?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India's Services Trade Surplus Narrows 10% YoY to USD 16.9 Bn in Sept as Imports Outpace Exports: ICICI Bank",
+      "source": "KNN India",
+      "published_utc": "2026-10-19T10:14:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPXzR5NzVXZzFUNzZjMHdkTTg1ZnFPd05xQl9TdGZMQ0hGRlQ4R3gzeEU2VmFhWldJdXFzRmFldnZuZk1JQkRHdzB0TWhnRXRtOWVINTFWVkFBVWFzbzFjaU10UlhNSXoxeUlBOEFsNFVLamVMYlJHNTJYa0lpLXVhMW9NMmE5azloMmRDWFJEZUNwNEI5TmlMSXptOTNWbFV4dWVwdzJUa0xycmhzV2QyNW9vX2dtSFhKRGx4LV82UU92d203ZnEtMUxmcmVCMVJuSlVnNTd5ZmdvQWV1YlVGZ2FJMFlZZ2c?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "hdfc icici axis bank q2 results comparison loan deposit growth",
+      "source": "Zee Business",
+      "published_utc": "2026-10-19T10:09:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQk40T2VGektydkk2d05QaHpBVHZqVUxnOXJySnhLeEJ1ZndKN1ktRFhDOXRBRmxQQWVDdHp3NldzblNSbkV5T0l6MWVkOUlWd3lNMkJJYXVwdm9JLU4zZV84bkU0UFR2TFBGVDZnbkoyMEVDVWpIME85M3hwenIyTmh0OUZSVGR5M0xnVTl2Zjk5S1ZqaGxPX1E0b0Y0WVEwLWZEdFhnSjRHemRNVnllbzhlQm5fVzJZeHc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Nomura Adjusts ICICI Bank's Price Target to 1,740 Indian Rupees",
+      "source": "Moomoo",
+      "published_utc": "2026-10-19T09:25:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREhVcXV5UllOdHpTbk9Bc2ItUXRqSmhvQlltb1lBaHl4NFJOU0tCNWpQVWZGcDEyN0U3bjVnOVRmdEVXMTBLQXRua0g0b3pWcFFCTS1KTkdEeDJ6VkhWSEFQWE1TeG9sMVNFMHhpdmFlSm1IYkFqLVBVN19Edi1KYzZhZHB6S2pzMWYxNXRfbjFOdGNTMEVjQ3c0NTNUaWRS?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Banks deploy FCNR-B funds differently as pressure on lending margins persists: Report",
+      "source": "ANI News",
+      "published_utc": "2026-10-19T09:10:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdHEzYUMwZnhqM3pkdmdxRjd5cUtfNXNIWDluTUxaRm1hdV8xQVNJU2Q1NDVmQUlEYVBLbFM1MnVONUU0M212R0J1bDZSYmNqRWtpYXFQcmdlWXZGUWlpMzJWSEZFR3lVUXpqTFhEUjhaZWlGeG0xZU9MRGhpSloydVMtN2VNWnVFOGtCNzN5OW1UWmgzZVdNS19IaDY2UXVfTTBMdWtKMlZzaEFtV3d3bHhMcTlqd2tMYUV5dG1QMlB4eGZfWEZBeXRBWFlMTExN?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Why are banking stocks falling? Nifty Bank down 1%; Axis, HDFC Bank shares crash up to 5% - What should investors do?",
+      "source": "TradingView",
+      "published_utc": "2026-10-19T08:48:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTVNYU21rMTc5Q3RLY3FKcWp1eGR5VU9hcjhiSlpEa254UGMtbF9tQXhqaXd5MEFBZW15RG5KZDhuaEM2TUJjSmpOR1hoaHU5TmM3RS1vSGlIQ3NwZTgzd3U4LTF5azhnM2N4VzVxbGFXZHAtMXJ3bzlpYzRhcWlmbThCUDNrcW9xU1ZmeGRtcnNrYjVGWXdPSGktSFNOT0JfemlPWUs2cEJydEtVaVlScnk0N2VLcFFjOS16Qy03NXFXU2xEakIzb3M1cFQtX0FUSHcxZWMtaE5RQmVTdHBLRkdEeVJpa2V1MzRZX0h5N3RxY2dKTExsU0tR?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Q2 FY27 Results on October 17: ICICI, HDFC Bank, Axis and More",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-19T08:42:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYnlUcC1Yd28ySTlRRVJyVWZLZElXMWNyS3dNaUhkSFc3eTNuWkc0eGUxZkFSTzFuR2E1VFpVMkxKVHBMRms3cWhSU0NCcW9OXzh5WnBISkVBb1dIblpNUDltdUlTelBsUkVRM2tBNTNyNkl3Mk90ZnhpZldyLXlHbUxEeVJscC1lQ19qTW0tNzZSUklDRnc3ZGctb0dCYl9CVXVNY3F5UXR4XzVfSWowMWlhLWJGNGNyeE9VbUd1WVJfYXY1VjJCZmhiNkxVdDF1QXlfdg?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Buy ICICI Bank; target of Rs 1785: Emkay Global Financial",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-19T08:33:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSGowQ0R4cjN3aW1hdnhSY1VjeFJpMGVfQzNxTVlhSG45dFJXS2dNUXAwSzVpbEtfSWZQQWYzUU90eUFpTzRZbTdSREg3S2pPVnhiSlhfaGNCcmhqcjMyOHVJOXdnbFg0bWltSE5PdTlRMm9keUtxV1JxZ3dRa29XekNvRHJFNUlIMkd0RDdPdlh6ZE1GYU9YOFZBUEkySHFVTXhsZzBBNjFWSU9wajc0WDh3QjRrbHZVTEJBWWhB0gHDAUFVX3lxTFB1NHh1bWx2ZWphVlFYWGRic1loUWlIMWZnN1dZaWRRSXdEcW1KNGpVeGVsU0VDb2c2cHBJcWZJMHk5N0t1WnBRbW13LVJ3WlRqVTI4aG9XdjloTTZHX3lSUTZ5OUpxdXVKRmtETFZGRGEzT0Zobll1dldzYzZFNGY0Rl80NGx1SDRGZVRFMWN1WC1xZ0g0MFIteTdSaXJwc3piTjZTQzc3aTRod2Y0S0xUUmhDeFhrMmR1UnRkWmtZemRsZw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "PNB Grows Profit Slower Than ICICI Bank And Axis, Yet Its Stock Outran Them. Four Reasons Why",
+      "source": "NDTV Profit",
+      "published_utc": "2026-10-19T08:32:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnptZlozMkNURnNRR2NodXBtYmFlTzludWtmdDVSV2dhZm5oMmRpRnU3NDhoOTFuYmpDd245RzhzWVRVWmw0R3J0cm1KS3BHYmotZmtZdEI4eHNZT2ZUWHFMb1Q0RTJLUFpadXRvUnRRX1pqWHRuMDU0R2x2VGI3SGlNZXZzWkxTQTJud1ExNU51Wmt2S2F5bGI0Zi1RTEpiejI5UkRyNXQ5WXlNeG1pN0l6QmZnYklfNzhJQ1Q3MnphNjA1c2Z0TnVhTmNSR2JO0gHYAUFVX3lxTE9wNHl4UEhPaU5UWklBZ3EyZmx0X0N0VFJUbWVWQUlhQzlPVGdWV0VWc2p4UENGRXNZWUNIOVNhaUhzR0x3NFY3ODZQQ1ZJQUhBWG0wRS1TS1RlQWw4UDB4SFNhVHp3VE0xQmUtQUhpUHhkRmxvdmo3c2ZCYWtyaFZ6cThQb0h4RmNHZ2V5VGh1NWtVU094XzdfMHVvTW9GSzNubmgtU0EtN0JaQ3dUNi12SUtEb0FRdzdhZWxaZ0lYMW5JUmhEOTVSUEpwZWQ2Q05lWllPeGZpdQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Nomura raises target for ICICI Bank stock to INR 1,740 after profit grows 20.1 percent",
+      "source": "ad-hoc-news.de",
+      "published_utc": "2026-10-19T08:25:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdHFPMlg0Y0ZfYmNaeUgydUppUTJqY2xqNzFvdVpBLTRhanRKYkdENDdjUTIyMkREYlhnbDFVTFpuclY0OHdQMS1tbVFJWUVrV00xTlNnMXpPWHAtMExpY21yU0NQeldDV196YVprOXZ4X0FzYV9fNnJwZGNxTm9FNFlDTWwyaUI3eU4xWWMwT1hCQmxaeXVxZkdNbkF6cEJzRHhxOVotU18yeDJneFJXTktTcHpqMXUzek8yOV9kZkNZYW95U0RhZGNKN0ZScVhmOWxkTnlLMTRBbjBnX2Zhak4wYw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Banking Stocks Have Bottomed Out? Deven Choksey on HDFC, ICICI & Axis Bank",
+      "source": "Business Today",
+      "published_utc": "2026-10-19T08:12:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUpWcEJvZjhHZ2dmUXJyaGtrQndPTnRHbllLRTB4YWw0VDhKLVJxTVd3WkRuUVlEaHg2MWZSQU56X3dCYldOOEdfbGVBOGZqSG84R3FDSy01MzYwLXl5Z0t5RXRhZXRubi10M1VRejVYMEZGMzlBUEhLYjNEZTBXNHFUMHhPOUZNbTZKQ280V1BKdmd1U3gzT09ZQURiVTdaX3JhQ1dZaXZVX1pkZ3U4MFppcFBtR3ZiV1FKNWZxTnFobm1JZ193Y3llYU9wdFIxRmxVY0tOM0VrN3VmSzc00gHfAUFVX3lxTE91SlZwQm9mOEdnZ2ZRcnJoa2tCd09OdEduWUtFMHhhbDRUOEotUnFNV3daRG5RWURoeDYxZlJBTnpfd0JiV044R19sZUE4ZmpIbzhHcUNLLTUzNjAteXlnS3lFdGFldG5uLXQzVVF6NVgwRkYzOUFQSEtiM0RlMFc0cVQweE85Rk1tNkpDbzRXUEp2Z3VTeDNPT1lBRGJVN1pfcmFDV1lpdlVfWmRndTgwWmlwUG1HdmJXUUo1ZnFOcWhubUlnX3djeWVhT3B0UjFGbFVjS04zRWs3dWZLNzQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "stock insights icici bank breakout hdfc reliance sugar stocks",
+      "source": "Zee Business",
+      "published_utc": "2026-10-19T08:06:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakNpMkNOX0VXZzN2aFV0S2JMLWl3dDJIUS04OHFyMjBwR0FZWFdOZUg5T0psc1dHemk3aHVtcFg5dEI1NURZSFZQR1VIeTNVRWctNGRoZXpabkx1OTRwUzlFVG9aemo2WUR3eG1GMFRRU1ZuY0V1cmhiWVhRYkxXU0FpeXVtNDFqa3dwYXV0LWZLaUx2SDJUaDBwdG9icHRLZWZmR0V4Q0V6S1RCRFFKU2s0N2J2d2tC?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Shares Volatile Despite Strong Q2; 5 Brokers Recommend BUY, Upgrades Target; 36% Upside Seen",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-19T07:59:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPXzhpbloyV0FtX0hSUWlING9nWkU3RG5leXA0ZWJnQXJZUkkxdEFQQzNPclBVdTZ5ZE5lSlRDX19DbFZnUmxkU1JIM3FMWXN6WTc2WTRTTmFmOHBicm81dlVFSlN6M1dmNmtYRkVIRWpIT09wNnJ4X3c5ekNrM0NwZzdpWmMwdGcwbWVSM3NmMGg5NkxSQ1Qzb01mdkhIXzFKYnJNeTlqMVBaUWUycUZMcFJEaG51WFlTWlpUdHRuMGM0aU9veG5Ec3FubmhUa0YybF9GcUtibkpRdWZP?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-19T06:56:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQTFPNlpta3RJdW5HMkMteExPTUwzSVhCOXdfbXlma1cwSWtvOEdqWGhiYkR2Ukc1Q2tHUHYtRmlhQ1hJMzYwYmJCcjVHcE54QW5Oam5XUWJCcjNmU2xHNmpnWjBpMlRXTExIdWhvWnFPN3A2bDNCQlNGSGEyTnhERk0tS1NrX0UtMFlaOXZiTTZSWXZ2YXhmV0lUaTAwd29ZZ0lZMzdPZkRhYkNFQzQ0NnhpVVh3V0YtLUNuZDFwOGJsaExnZllLLWJiRmkxSm5tLXJPcWM2M1BwRHRzSVIwbVhEZldIYklnRE1FOHI2SzlGNURwSFhhUkdTUlDSAYICQVVfeXFMTnJ2SVpic3N1UXYzZkxYdWhmWUMyQVA2YVFKcThhSVowMFhKVFNmOENINWhJYmlHVDY0clFNeVpQNXlPWGdKQlEyYm1YTFdSVmhDOEJsQmpYbTlvTDZNN080TlV0ek05cVZDdzRZaVZOcGNVWlNxamk3ZjFrQTAzU2dFYWlrcERtbmFtUUlnZjNXTHRTY0hRRkdXd2ZRaUUta1l2eVZTOXhKdUFHTjkzMVhkU2RwZHRjM3E4eGRTSnpnUzYxWEJxVWRlTFZTZVFZYlFjUVdtUTQxazNpU0NBTC15VXpzZXdIZDRCNTFOdVFxcDItQkppUUNSck5nSjVnYWFn?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Q2 FY27: Net Profit Up 20.1% to \u20b914,843 Crore, NII Up 17.7%",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-19T06:43:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0swcU9qLW9WbjI0ZjdiMExLZTM1ZXo5VktSMDZVZHNRaHI1S3Bmb1RVQUJtWWp2R2hhVldnUjkxa3l0SVp5Mk5VV2NCTEF5VVdDNjRKQ2w3NmhuUEQtdHFtcTRIRkgwV1RxSlhOb0Q5cGU3dzBCR2hyVE1zajd1R0cyYlB3Mndob3R2QW5oSEJtNENhWlNRUGlIakRfUWJvODNwX0pWc1ZFSUZJTTF3TmRHbVJzSVIxNjlqYVJ4UzJFdzA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Q2 Review: Growth Backed, Margin Recovery Seen in Q4",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-19T06:43:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc1psMnlVNC1IMGdVLU8xRXRnalQ0alNwRndCUFBkZEtidG91YXNuRE5xekh3NmdjV2FXdktPUnlfejJJZlN2VUQydXpJcGE4RjZyZ1F1XzhJYzd6a2FRMGtqU1RuZ3AyUDJkSXRSYjVzLU12cmdwQWFjU0NSb3g0SF9lSUdWSVAyVFVKdHRvcS1vU3JZbzVqZFM5RjFDYnhHTlpZOTc4ZnZrWU92dnZwWDEyQTYxeGZkTV9GQVlka0Y?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Performance Analysis of ICICI, HDFC, and Axis Banks After Q2 Results",
+      "source": "India News Network",
+      "published_utc": "2026-10-19T06:36:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3RwN2tsc1REV2g3V2Q2WG1vcWMwWElnV1BGYV8xM2czQXNyQVk2dFhjbkFJUTVXcHpDNEJzVEt1Z2dZVHZQMzNtcjVMWGtHMGZzVDFSLS1jLURiTV9OZjZYbWw1NzlNUzNVSGhUUFZMT3VjdXFYYk1vYmxxM0ZJYjg5OHNLaF9tWXluNDNVTTlwUUFHb05QQ04yWmRkc3VkV0lkc1FtQQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "PSU bank stocks soar up to 8%, but HDFC, Axis and other private lenders fall up to 5% after Q2 results. Wh",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-19T06:24:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNeWdmRWswYVMxRHJocEhyTnBTY3pWNXhmOXJoWTJ3a00wSnN3R293RE45ZzdwdWVKcEd0SnlNS29NWDJiOTM4emtRa2lLS3FxUTREa2hhMjQtUklxOW11Q0FuUmFuZWVoaVNiZmhxcXF3d3Yydm41Wm1YUm9ISmRkbFlrRkY4QWxIem45RTVXeUtFVXpoVThPclZma2JHaHQ5eUprU2VFX1lueGpYdTVFZjRuTTAxRXQzc0RxTGE1d0RoaEYtSngtZF90VVNXOFh1SGRZVWJiMFVrXzQzaXNJd3p5Nk5JT2lVY1B0eHd2akxCOEk1QTBaSTV2WkpNbFZhTjlma05BU3o1MkVRNFdiTUttS0VpTXg2STVwX1Fn0gGjAkFVX3lxTE90UTZFOTRibzVETDZ3WmtlczBJR1N0c3ZkeGtOSGZMM3doV2w3MGIxZVFydy11MFJmUHlfZk1ZYlNTVkpocm9uU2wzV3g5TEFua2tlbmRnSkVfWnN5cWU3WmoxVG5pU1U2ZFZEblQzZWVtV19pSkU3c0sweGRvbGgxck5NS2dtRTZ4NmxUdGhCcE1STWJuSDNMd2dQWWpzbFZZdFRjMUQ5bDVlMUFUcDJpaXpnd2ZiSlV3ZnRzclUzQTRONnpmb013LVEzaGJZQUpFRC1sLUg5MWZPSEhmYlB1TU51eEo4YlhmbGtWdHU1Tm9VWjktWmNuWjNodWxjVGtwakpBbGhQV2dNY3IzalV2bElqNXZISElWa0lqWmxZOWJmaw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Axis Bank Q2 Review: ICICI Securities Sees Up To 26% Upside; Check Other Brokerages Target Prices, Ratings",
+      "source": "NDTV Profit",
+      "published_utc": "2026-10-19T06:16:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2NCVXVkSC1FNmsxVEpFUEN4X1lhbFNTVENOQmpQclNpVVN0VVB4R1JiX3ZVVkdjaTdJNUUzWF85d0d5N3JpVXJkQ1locG5SbERPRnBnaUxDRjZ1aFNDMTVpbnFkN1ZNTDJKU2UteFg0YUx6SjNQenFrYV85RnBLZHZEVDZrWjNjT0dwRGR6WlVNblFSR25OQjlDVGRuQjZUR1hmbG1oZkZoYk9Cb2k1RG4xNjhSckxsMTAzOUlNVjdtYThERVRRTlJrclp1WU9ZQlZRRjBLZ05ZYjA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "FCNR(B) Inflows Squeeze Private Bank Margins in Q2, Recovery Expected",
+      "source": "Rediff",
+      "published_utc": "2026-10-19T06:11:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZWY2VGUxMXZRR0dsQkJRd1QzaTl5eXE2SFY3a0N0SjdPa1FUZ2hmcmQ3enZxTXZ3bkItQkwtMEVZcXdHODhqZV9JZFl3UDhEbDk0ZUVfZ2V5YnhMZUxMLWhOUUlUV1Y5ZnNURUFheVJkQWd5bTVVZVFFZjhETVFWdDJBYTJ1V1d1dEJtS1E4eEdwN25TS1FnNFBKLWdHbEl6a2M5LVF4UDhQUUJmQnRiVng5bWY2WUpOUnRBNFB5VFRDUdIBxAFBVV95cUxQa2FTa0dhUnE5U045dXkzd1ZKaXNLYjJqVDU5ZUh3ZVY5ZlZwZXpRQklTTWJNQmt6SW1lRlpGRVZRM3hkd3VQNEFkRWdta2NXc0FudGthdTZEVl9jOUNuUndTa1c1N2FXRVE4OW9qWXFud1dWcUdsTjg5RE8xUnE1YkpvQXRmNk85R0I1X294RmpMYUdCTGU4Y0RvS3JVcTVVdjViMUtKTlkxZm5QM2FoZkdIQUxHVEloV3F4ZUNrUEJiLUF1?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank stock falls 1% after Q2 results, among top Nifty losers; brokerages bullish on growth,...",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-19T06:07:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeUZNakZueDdQbFZ4X2xmNnkyaEotVWUwaDhtSWJGUGd0YWJZR3dCTWpWRlh0Y0tLcF9TVnhaM2tpTEVNRWNXZ2d2dGt6V1BzNFJ2amZyVkE2WTdZemtZcUZFQWVQc0JKaGw2cF82LWNHS2ZqS0swWHMtTHJBWFdGMWFMTWVvWmV2ZmRLMVpxMkxXOW5Td2FZblkwa1o5LVpSOUhaR29sTzRGZVlwZm8wSm9lUkdFQUlrRk9BUDExcDhDUmtadlphS2JaLUlOUno2SFhKUlhMQWNEa1dDN3JLRGpSMGZjRGMyOEk1WXY1ZldpS2xHZWhFN0hSMW9CTXc2dUHSAYcCQVVfeXFMUG9la0Jubk5VNHFROVFObTZVWmpKcGRQaTgwRlVZbXZzM25IaWJ5bDJxTWdvVnE1NnZxWWEtVkl2YVRkS2RKbWtJcXZXVnV0UlVKUHRFVjNVU3JjTVZZTUxIeWJTcUJhNFZkTWYtWGNzdWZnV1NqUUl5Mllua3RVajEzZEFyQnVScEFqa0JkVU5oejU2OW51RlZTZWR2THJVRHRqQkY2dmdJUW12Z1lUeGdkc1ZzSTlTMXpVUmlzN09RX01GQjJSRDh5dlA2LTc2aEhaVnBGeUdSQnBKVDJQU3R2YUQtUXpvcEVqTDk2ck9fMER5d254YzV3WUtuYWZfeXBqT2tkQTQ?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IBN stock JPMorgan lifts target to INR 1,800 ahead of the Xetra open",
+      "source": "ad-hoc-news.de",
+      "published_utc": "2026-10-19T05:48:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRVVjYVliaFlfWWVlMk1qazdGRkxZREpNbW1xeUtFSWVmT3dGU2xpdnhfSE4xc1NDWjhCOWIzLWRpZHNWZy01cWVBaFhtNnFuZWR6cWY4aW5KdENpVVI2NmdZTkx6QnZSbHhBT2Q1QWtHOG81ay1yd1Q1MnVNaW9URk95T2E0b0hlZlhXN1FOTEtBVGhrOTh4YWQzZnB0SUM1R1JGaDFEUVpxbi1WUmFVNGpWU2dUSC1fdEZONUtPemVHcXFF?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Axis Bank vs ICICI Bank vs HDFC Bank: Who leads on profit, margins and NPAs?",
+      "source": "Zee Business",
+      "published_utc": "2026-10-19T05:44:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZXVNQ1pMVkZiX0RSMEJIYmxEaUdoX3BJeUNJOFpEbmx4U2dIZ1ZKVGpVN1dMcFlvNmYyMm9xLVdUWFJRQnZsVEVRcng0YUQ1WTVTS2s2UjZsYndyQXRHTkxmZ1RTZ2luZ1V3RW9WRmpDNENnSkNlSmlsUzdhMjUyb0pmYnN3RGt6MW1LLS1ZRVVYLVIzNHNGb0gzMFViOV8wZjAzLXBteDFCMENZdzU4d1pvZXdiU25FSmhkTXNrQXZqUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank shares remain 'consensus buy'; Majority analysts rate it top pick after Q2 results - CNBC TV18",
+      "source": "LinkedIn",
+      "published_utc": "2026-10-19T05:36:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWVBKZFk2WXRLLVlrVmk5THQySkZRYXJ2Z2dub1dTeWJneW5fSVJJc2JoRXB0YlhZS2F6Vi1UZ1c1cXFjUmJlQWt3MlZxSU5fcTdEdDhEc012T0ZqNVFlR1o3b0JNM3gtUDZpQUh1WXJZTFRCN3AzT3FNUndBNWZpLVNSeE1KR0ZJSGY1bGlCY2NYSElIeDRmeGFGSTVIVXNOaWd3cndjdkdQeTBvMDhBY2FmMA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Buy HDFC Bank; target of Rs 966: Anand Rathi",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-19T05:35:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWtJU3djdTlUbW1YMlBiYk9abVVBOFhBUmxKTWszTERBRjc4aTE3UTliSzNGNTVielZLTXdSUDdCaHlVNWR5eUZZNlZMSndEYTU4cTFmMndTME14RUxJZ3VYUUgxTDBvdWNYaWR3Xzh6M3l3VmZYT012elNwVlRrQzJZSkxNUDVaNVhrY01vc1AyaUNGR2lTcy1zRHZvM2lWRlBPanlkYU9YS19wRGdZ0gGvAUFVX3lxTE0ta0lTd2N1OVRtbVgyUGJiT1ptVUE4WEFSbEpNazNMREFGNzhpMTdROWJLM0Y1NWJ6VktNd1JQN0JoeVU1ZHl5Rlk2VkxKd0RhNThxMWYyd1MwTXhFTElndVhRSDFMMG91Y1hpZHdfOHozeXdWZlhPTXZ6U3BWVGtDMllKTE1QNVo1WGtjTW9zUDJpQ0ZHaVNzLXNEdm8zaVZGUE9qeWRhT1hLX3BEZ1k?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank, HDFC Bank, Yes Bank, Axis Bank shares fall after Q2 results; here\u2019s why",
+      "source": "Fortune India",
+      "published_utc": "2026-10-19T05:29:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX2sydGZicFRKTTBxN2xLNTY0X1BULXZBWktxRGhaV3c3UjI5YTF4WEtGNE8tN3NvS3A5YlRaeldtaW9GNTR6d1NHb0JjZlJkZVJ3ZmkxOGVrU0ROdnllQ2JTTlc2Nm9YRmVIdWtpRk1KX3VDLUlBUEZPc1Z0TnV0UTBpWUIzLW9oakhDZ2hQOUhlRlFpeDRkbl9jWWJlU3hzMnBjNnJVckJ3SWg5US1aWEpNNUYtZHZJN0lVNlVPY9IBzAFBVV95cUxNckRXQTUtMmY0cHJkOU9IU01QLUYySUpRZGtBUHNKLXRxWUlOTElEMFg1MUZGNEZpeE1sQzItNm9GRFJCYVF5d3FBNl9fVW9FMXhia1FENnMyOTVib1dZVnFfWmZFLVBTLTR5UnowUGpyNXVCSnQ4TDNGQlZKcmU5NXJqSmJOVXpCdUF6TDdFRnI5ZHpnTzN4VjRLWmZsWVZsMWhrYlZLbnhKUG5jZVVPOW5KdTdiZzZlbkFFdzFIVDlhS3dtWjVGMmxud2k?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Buy ICICI Bank; target of Rs 1750: Motilal Oswal",
+      "source": "TradingView",
+      "published_utc": "2026-10-19T05:12:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNmxrQVNONC1oWWpoMkpvN19Oa2tqUTdIMVBzZkt0c0JSRUNzNlE2S19SeUhoQlRhNGJkRi1fWWhpMkkwV0xUVy1sVHJHbldHdUJOTGU5RlAwRHFSZ191ajRlN1FMSXh5X19TRmRiWWx4ZFlIWDhwR3c3RHZoUDZMSjJZMDdkd0dNUGI0TklQU2NYMmROeElNWS1WeFlzeTZYbFVYN1FFdzVPVEw4bUE?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd (IBN) (Q2 2027) Earnings Call Highlights: Strong Deposit Growth and Asset ...",
+      "source": "Yahoo Finance",
+      "published_utc": "2026-10-19T05:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV2NnUlNkemRxMFA0b2ZoaDdCbTRPaG1VZVB5T3NNNklMbXRKZVg3RGdQZEpiWXJzT0Qyemd4RE4zc1N4RzNJdGtfcnRpdWlKeVlaaURDLXdtSFloRFhnZUZZeWZUVTFyWl9aYTJmbm1sWUlWb2V6UlZJcHo2bkpHOWRHOFZlYzJVMEZDUnlkYw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Vs ICICI Vs Axis Bank - Which among the three major lenders has the highest upside potential",
+      "source": "CNBC TV18",
+      "published_utc": "2026-10-19T04:54:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV1hsUFRFV0JBdXc3UGg2U2VRUDdvYzdEUXpKWWgzZFJOb0RmOE5CYnJjc1VwUm5Da0hKOGJ6UjMyTWxPUDhTWDFNSThEQVpjS2VXT3p0Ty1vOEFybEthRU50bHdTY3N5cXJzdFM3Q2N4N2k2X2xwVXA3MlBSdDh2NzJENzNPeUpTQVZPMnE2UDVweGN3T0xJMnpQbkF2c1JvRlRjYmVTbVAxYl9HTHpqcU5UeHZyNnEzcENfekxkcVM0Y3JqZV9WUzByb2VMME9zZ1BhOUtEa9IB3AFBVV95cUxNUVBhVFJpN1VyOW80VlpCWWVZQzRCM3ZWTzJTVkxuandJRjNOYmRXSmNidUNrbWdTRlptUVY3czNaSWllQVJqRHh0UEdfSWY0bDJONGtQSS1LaEJ2bFlPYmdFbnZxeE91THBvTjgzQ1lXX3VaM3FPenFzX1dCUmNWN0dRTFMxbUVwLVctU3VoeXc0NXNMaEtYTXlERUxwX1ViVWVmWVp0UDNQYmVLRjdwb3NyZms2dkFqaU1zU3NYU1REdnBma0NlOHNfX0VnZG0zQzBfbXAtYy1odDBr?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "News by CNBC TV18 on TradingView, 2026-10-19 \u2014 cnbctv:0df02b546094b:0",
+      "source": "TradingView",
+      "published_utc": "2026-10-19T04:54:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12UGZhRUpVVDJEWWlmOXA2bXQ4bVZhb1k2SmVVZUlqS050MTdRWXFFR3JlcFNsbllfSDRvb0xxb3dsQkZDWUZxajJObUNYV3kyV0dnRkhBbDYzdFA5ZDhScjhBRlFkalE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank remains MOFSL's top pick; HDFC Bank earnings growth seen at 15%",
+      "source": "CNBC TV18",
+      "published_utc": "2026-10-19T04:41:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUnVFclBia3c3ZzBrSmlMRzR6aHNYdHd6NFlHUDZKSWV4T0EzTk1zN1BacW94MTI0VVhOSTlOcXdKRjdsVWdmV0ZRemExelExQU5xUzRpRFNZUmM5bHZmOWJKbE9tcFU5WjdUT3lnbGd0TXlOQlA1dnZuRG1scTJHbG4wYmp4alFJLTZBd3l2dXNZal9wZ0pUdnBkNnpZQnEtRlZTenlTU1lwd9IBrwFBVV95cUxNTHFiNGRCNFJqU29wYnpBdmpFQVpQcXJXbmd6RGdoc0wtX1Z1V1FiNGx6TGxYbWlkbnE1UUZFRTE1Q21BTy1QcTB2ZXVNeUdrVC1fbHpTWG5KbURRX1B1TnF5b2JIZEpGQTFYakR0RnRIVjRwYVl3TlcxMzRiSUlMVWgtaGE2aVVJU0c4NjlQdk1nT2UzNFZrcXF0MmJGdGpJeUwwNmk5TTUtR2s4YkVj?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "News by CNBC TV18 on TradingView, 2026-10-19 \u2014 cnbctv:bf90e2ed3094b:0",
+      "source": "TradingView",
+      "published_utc": "2026-10-19T04:41:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HblZ5d3hWQWJ1ckhtZE5ZeWFTTlJ4UmNzYUl2dEx2VW1wSnZKQkl5NGMtZmx2eDh0YUNSVl90Wjc1a3AxT0ZkaDRtQWFqVWxILWVMTWoxMGlxNEwtOVJLR3pzWUN5Tmc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Nifty Bank Expiry in Spotlight: What D-Street traders should know",
+      "source": "Zee Business",
+      "published_utc": "2026-10-19T04:33:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcE9uMkJ4eGZwWW9UTVZwcDlLSDEwenBiZGNZTGRwQzRqaWd4aVFFU0RrXzFtaFBYbXMtbVVMVDR3cFFlN1NocGhtVWpKek16SVpEeU9JOXl6MUthNnJfWXctcU5XenUwcWhyLVczRUJ3YmQ1WGlSaDRRYjZjOXhvc3ZlTThMYW8tZHRDUDRGMzNGc2wzNjNreVZYc1Zrd3A1UldOQkRCMERadnFMa0JERTM1UkZXQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India\u2019s services trade cushion faces pressure as imports outpace exports: ICICI Bank",
+      "source": "Magzter",
+      "published_utc": "2026-10-19T04:21:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTldFLUcydC0xN1NlOGxzS24wT3M0OHRjM09KUEFtaGNOaFpFSHNUeWQ5NUlaY1M5dlZKUS1uN3BlbWpERHpHS2NEVHdjb2EtcUFmVUs4YW5EMnFaUjN4TGEzelUxOFhoeldMQ1M0RTNUZTZZRFNTUHdKMnVvdm54SGFxUVl2WWNGMk1ubEltZ2Y0ZGVDMFA0RVo0Z1g1b1FlUTlVaUliSkRUNmhBRGFWQmlGcDJCZnhsbEJOUjkwZl8xTFhoTktMZzduVHZCd2tOUTBSdExQWXdIMHNCQmhJ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.321,
+    "strength": 1.0,
+    "material_count": 11,
+    "view": 0.321
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-19T17:11:04.623804+00:00"
+}

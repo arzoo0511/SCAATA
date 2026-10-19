@@ -1,0 +1,84 @@
+{
+  "symbol": "ITC.NS",
+  "date": "2026-10-19",
+  "headlines": [
+    {
+      "title": "Summercool Launches 18 New Air Cooler Models",
+      "source": "Indian Retailer",
+      "published_utc": "2026-10-19T07:38:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX09wNXBJWnFVRmFEU2hIbmFCNExMS2tpVWFWUGt3X01LVUpHUmxYQzQzM1NqTUhkMzkzQ3ZyQzJiaTZ2UXdDTF9la1F2NkwwOEd5R3JXR0tVdmlkQUM2N1gxUVY3NEI2NUVrZFdzV08zNnRGWm1WVVVWUU9jQ1JvUEo1RjVCdHc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "PPFAS Cuts Cash to Under 10%: Where the Fund Is Investing",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-19T06:55:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYTJPQVh5dE1OZThOazZlUlpERXhuRlg5Mm5scE9oV1l1M3pGMVRMbVZrWWs0M201QXlVQXZhdHkycEdYajVMVEFpdUo2TnlxRDdYMHZmRzJ6MmlDVWJNTnFwWVRPZmZOY1J1djZxNkVoWDFBVDdNMEtYRXJzS0lOczVDSFVYTWtvZ0EtWnNEa0k4R2RRY0pzNWpFeHVGNkRNcWVzdGJScUZZQWdDcmQ3d01yNXhQcEJpN0dXSWZuWHFvd1RBMXktZ19faw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ITC shareholders approve final dividend, reappoint Hemant Bhargava",
+      "source": "scanx.trade",
+      "published_utc": "2026-10-18T22:18:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRy1jS2tHNDMyYXkwUW1HNWVPbV9CQ3R6ZE9ja1ltTjMtQ2RpT3A0QUZLdUN0WGRoSkZ4T2hIZEQzYkVhTFlWaDdfWW9XeWd6MU5DMGEwd2FwV2R6SEg0TEgwVnV4TzB6SENyRzU3WUwxY2lRMzhQM1U1UmN1am1tVGx3VUhpOVhGYTBSTkdjdkd0ckNZaDVwZTVXbTVoVW4xRGpzWXVCZHA4Vl9kSjdBbTJ0aU0?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ITC LTD (ITC6.BO) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "published_utc": "2026-10-18T00:06:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kRmxrOHNSWGtOSVRKbUlpLWp4MlZSQ09CbkgzQ2paNldBN0NEM09XMjRTMGJBRWhtQnFPaDI3RnVxTDU1Sl9Cd2tJYm04Q2gzblJWWjdGdVp3Tll5YVU1TnVwUm95QnJscHpRaW9R?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Cigarette Stock: Should ITC Ltd Split Its Business Into 1:2? What's Smoking In This FMCG Giant?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-17T16:24:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObzV5S2lZbVZab3hrdVFMbDFGT2MtWkQ4QTQ2MGJ0T294Y1pQeDV5Ym5OZ0xSRGhJUVNjZEh1bkI3SXRnYk5keExFOVpocHNBeFdsMF9nS1ptSUJrSHdtTW95TjdRWVV6X2s1YUF1WFBVdW5xUVVNNWRRdG1DU2duRFBQa2dPcjdIX296YjQxV3BUenhFd1l3b2ZDOXhpMkRxTEN2TTFhckdTZC1WSGpQWE12aW4xaGxfZ1c1Y21WaHVhOTIwTDdTMXdEWGVxVFNERHc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IPL 2027 auction to be held on December 16 in Goa",
+      "source": "ET Now",
+      "published_utc": "2026-10-17T15:45:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQXY3aUF4VVIzc2xJSkJ5OWw0b01xZk9nZGhYU040VU9nN2dBaUJReDZpbWdoS18wQlI0by1JRkFJelRGNFBWWDlUS0IwM0EyTlZ4b05CXzJxdEZiMGZBamRmdTZIT2RpUE13Sjc3aDEtNEVodUxxcXlaS1kxOXp6cW9FLWRSYkFfYTBreW5HQWZFSFNvZDdkcnBTOGduNzhGWkHSAacBQVVfeXFMTTdvWDRKVFJWSzlZWGw0dFVnMUhjNHJTUjlSeEtCaF80YU9na1c3dFNCai10OFlZYUl5SVF2MVdTVHlfT09xOTNxYngyc3lxS3hOR0dneV9Kc3BaWmNGM0ZadFdCdWl4bjBBWVRvZUF2dGZ1dDF6SktLanhqRmxpMjIxSjJHQXJ3bHQ5WU1QenE0eDdqUWI4anA5YzA4eVVYcV91VW1rTTQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Top 20 Shares For Long-Term Investment In India For October 2026",
+      "source": "Samco",
+      "published_utc": "2026-10-17T06:51:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa19lTDRSSlBMY0kzOUhFc2JXTGxaaE9FWld6VlNwMVZ6N3BENjZRa1FZdFFJbjdDQ1MwMHZ5eHFheS1abWJBZGRJMFJZM3h5OVNxYW04eE1WUjhLN0VBT0ktMDA1c21NMUc2TkJIb3ZpTUFXOFdYWUlWWDd5QlJtalRacl91WlVDOGgzUkxtUXNzUEd6WVB1NVZsZEtJZnpxZjBKbjBHN1F1ajZ1Sk9EZlpEX0JYYWNi?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.877,
+    "strength": 0.317,
+    "material_count": 1,
+    "view": 0.278
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-19T17:11:12.131406+00:00"
+}

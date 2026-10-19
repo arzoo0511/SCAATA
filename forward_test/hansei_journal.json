@@ -4473,5 +4473,280 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-19",
+    "ran_utc": "2026-10-19T17:11:12.133428+00:00",
+    "equity": 10006.33,
+    "benchmark_equity": 9971.85,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.377,
+        "target_exposure": 0.246,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.86, trusted 25%)",
+          "momentum against (-0.56, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.858,
+          "volatility": -0.056,
+          "momentum": -0.555,
+          "news": -0.039
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.154,
+        "target_exposure": 1.0,
+        "current_exposure": 0.69,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "news supportive (+0.32, trusted 25%)",
+          "trend supportive (+0.32, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.319,
+          "volatility": -0.083,
+          "momentum": 0.06,
+          "news": 0.321
+        },
+        "value": 1381.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.239,
+        "target_exposure": 1.0,
+        "current_exposure": 0.88,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 88%: no strong reason to change",
+          "trend supportive (+0.53, trusted 25%)",
+          "momentum supportive (+0.32, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.525,
+          "volatility": -0.0,
+          "momentum": 0.318,
+          "news": 0.113
+        },
+        "value": 1761.9
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.228,
+        "target_exposure": 0.544,
+        "current_exposure": 0.195,
+        "action": "HOLD",
+        "reasons": [
+          "Would move to 54% but traded 6 session(s) ago -- waiting",
+          "trend against (-0.86, trusted 25%)",
+          "momentum against (-0.44, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.859,
+          "volatility": -0.0,
+          "momentum": -0.443,
+          "news": 0.39
+        },
+        "value": 390.75
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.517,
+        "target_exposure": 0.0,
+        "current_exposure": 0.261,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "trend against (-0.86, trusted 25%)",
+          "volatility against (-0.86, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.865,
+          "volatility": -0.861,
+          "momentum": -0.62,
+          "news": 0.278
+        },
+        "value": 521.6
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.039,
+          "strength": 1.0,
+          "material_count": 13,
+          "view": -0.039
+        },
+        "top": [
+          {
+            "title": "HDFC Bank ADR Falls After Quarterly Profit Miss and Ownership Overhang",
+            "source": "Quiver Quantitative",
+            "sentiment": -1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-19T16:19:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "Deputy managing director requests exit from HDFC Bank (HDB), subject to regulatory approval.",
+            "source": "Stock Titan",
+            "sentiment": -1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-19T11:51:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank ADR earnings beat by $0.01, revenue topped estimates",
+            "source": "Investing.com India",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-19T12:23:16+00:00",
+            "count": 1
+          },
+          {
+            "title": "Deposits grow 18.8% at HDFC Bank (HDB), outpacing its quarterly standalone profit growth.",
+            "source": "Stock Titan",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-19T11:49:49+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.321,
+          "strength": 1.0,
+          "material_count": 11,
+          "view": 0.321
+        },
+        "top": [
+          {
+            "title": "ICICI Bank Q2 FY27: Net Profit Up 20.1% to \u20b914,843 Crore, NII Up 17.7%",
+            "source": "Kalkine India",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-19T06:43:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank Q2 Review: Growth Backed, Margin Recovery Seen in Q4",
+            "source": "Kalkine India",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-19T06:43:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank Ltd (IBN) (Q2 2027) Earnings Call Highlights: Strong Deposit Growth and Asset ...",
+            "source": "Yahoo Finance",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-19T05:00:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank shares close lower after Q2 earnings; 3 brokerages remain bullish",
+            "source": "Business Today",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-19T10:48:37+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 1.0,
+          "strength": 0.113,
+          "material_count": 1,
+          "view": 0.113
+        },
+        "top": [
+          {
+            "title": "Petronet LNG\u2019s Dahej and Kochi Terminals Earn 5-Star Rating, Sword of Honour for Fourth Consecutive Year",
+            "source": "PSU Connect",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-17T06:28:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.39,
+          "strength": 1.0,
+          "material_count": 10,
+          "view": 0.39
+        },
+        "top": [
+          {
+            "title": "United States exempts Indian oil imports from Russian sanctions citing imminent bilateral trade deal",
+            "source": "prameyanews.com",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-19T09:13:41+00:00",
+            "count": 1
+          },
+          {
+            "title": "President Trump Waives Tariff Threat on Indian Russian Oil Imports",
+            "source": "illustrated Daily News",
+            "sentiment": 0.29,
+            "material": 0.8,
+            "published_utc": "2026-10-18T12:36:46+00:00",
+            "count": 5
+          },
+          {
+            "title": "Trump's Russian oil tariff waiver offers India relief, but experts warn of renewed US pressure",
+            "source": "Devdiscourse",
+            "sentiment": 0.2,
+            "material": 0.7,
+            "published_utc": "2026-10-17T15:52:48+00:00",
+            "count": 1
+          },
+          {
+            "title": "IOC: Capacity And Cost Savings Matter Most, Clean Energy Adds The Next Leg",
+            "source": "Simply Wall Street",
+            "sentiment": 0.8,
+            "material": 0.7,
+            "published_utc": "2026-10-17T07:00:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.877,
+          "strength": 0.317,
+          "material_count": 1,
+          "view": 0.278
+        },
+        "top": [
+          {
+            "title": "ITC shareholders approve final dividend, reappoint Hemant Bhargava",
+            "source": "scanx.trade",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-18T22:18:37+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]
