@@ -1,0 +1,2792 @@
+[
+ {
+  "title": "Indian Oil Corp boost spot oil buy amid Middle East crisis",
+  "source": "Reuters",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil ramps up spot crude purchases as Middle East disruptions hit supplies",
+  "source": "The Times of India",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Earnings call transcript: Indian Oil posts Q1 2026 loss as crude swings bite",
+  "source": "Investing.com",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Q1 FY27 Posts \u20b92,661 Crore Loss As West Asia Crisis Pushes Up Crude Costs",
+  "source": "Sarkaritel.com",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil swings to loss as costlier crude bites",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil raises $500 mn under RBI's concessional forex swap window, eyes more",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Buys Record Spot Market Crude on Mideast Supply Hit",
+  "source": "Bloomberg.com",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation reports consolidated net loss of Rs 1630.74 crore in the June 2026 quarter",
+  "source": "Business Standard",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil posts Rs 2,661.37 crore loss for Q1FY27 amid West Asia crisis",
+  "source": "Mid-Day",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Q1 FY27 slides show sharp loss amid crude volatility",
+  "source": "Investing.com",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Q1 Results: Earnings call scheduled for Aug 1, 2026",
+  "source": "scanx.trade",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Q1 Loss Widens To Rs 2,661 Cr, Revenue Rises 26%",
+  "source": "BW Businessworld",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil buys record spot market crude in 2Q on Mideast supply hit",
+  "source": "The Edge Malaysia",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol in Delhi would have cost around \u20b9125/litre without ethanol blending during crude spike, says Centre",
+  "source": "Livemint",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jet fuel price for domestic airlines increased by \u20b95 per litre",
+  "source": "CNBC TV18",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian equities \u2018probably oversold\u2019: Foreign investors warm up to India after months of outflows",
+  "source": "The Times of India",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol could cost Rs 125/litre without ethanol blending: Government",
+  "source": "The Economic Times",
+  "published_utc": "2026-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mint Sustainability Summit: Fuel security key to energy transition, says Indian Oil\u2019s Saumitra Srivastava",
+  "source": "Livemint",
+  "published_utc": "2026-08-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel demand surges in July as weak monsoon lifts diesel, petrol sales",
+  "source": "ET Auto",
+  "published_utc": "2026-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to Watch for August 3: Auto stocks, ITC, Maruti Suzuki, Indian Oil and more",
+  "source": "CNBC TV18",
+  "published_utc": "2026-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian govt clarifies foodgrain use for ethanol production, says 'E20 saved \u20b930/litre on petrol prices' during global oil shock",
+  "source": "WION",
+  "published_utc": "2026-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Sales In India Rise By Up To 10% Year-On-Year In July",
+  "source": "NDTV",
+  "published_utc": "2026-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to commission refinery expansions by yearend",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Subsidiary CPCL Plans 280,000 Bpd Manali Refinery",
+  "source": "Yahoo Finance",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest \u20b91 trillion in petrochemicals over next 5 years",
+  "source": "Business Standard",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Neutral Indian Oil Corporation Ltd for the Target Rs.150 by Motilal Oswal Financial Services Ltd",
+  "source": "Investment Guru India",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp Reports Q1 Standalone Net Loss Of 26.61B Rupees Vs Profit QoQ",
+  "source": "Sahi",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Accumulate Indian Oil Corporation; target of Rs 147: Prabhudas Lilladher",
+  "source": "Moneycontrol.com",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC rethinks \u20b933,000 cr Tamil Nadu refinery",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "War-Led Oil Spike Weighs On OMCs, But Q1 Losses Far Below Govt Estimate",
+  "source": "NDTV Profit",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL Vs BPCL Vs IOC: How India's OMCs fared during the June quarter",
+  "source": "CNBC TV18",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Eternal, IOC, IndiGo, other crude-sensitive shares gain up to 4% as oil falls below $85",
+  "source": "Moneycontrol.com",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US move on Venezuela oil bond could unlock gains for India\u2019s energy companies",
+  "source": "WION",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Sees LPG Under-Recovery Nearly Halving To Rs 250/Cylinder If Soft Saudi Crude Prices Hold",
+  "source": "NDTV Profit",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL vs BPCL vs IOC: What Drove Losses and Where They Differed in Q1 FY27",
+  "source": "Outlook Business",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai Petroleum plans to expand refining capacity to 280,000 bpd",
+  "source": "Business Standard",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Chennai Petroleum plans refinery expansion",
+  "source": "Quantum Commodity Intelligence",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "High dividend yield stocks: Vedanta, Coal India among 15 largecap stocks with high dividend yields. Do you own any?",
+  "source": "The Economic Times",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "High Crude Oil Prices Could Pressure India's Finances",
+  "source": "Construction World",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Steel, Aditya Birla Capital, Divi's Labs, Shree Cement, Dixon, Clean Science, And More Q1 Review \u2014 Check HDFC Securities Calls, Ratings and Target Prices",
+  "source": "NDTV Profit",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices today \u2014 3 Aug: Fuel rates in Delhi, Mumbai, Bengaluru as Brent falls on US-Iran deal optimism",
+  "source": "Livemint",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GRSE wins \u20b91,032 crore ONGC order for four platform supply vessels",
+  "source": "Business Standard",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's imports of Russian oil hit all-time high despite US tariff threat",
+  "source": "thecradle.co",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil (IOC)1450 Apprentice Vacancies at Panipat Refinery \u2013 Apply Online Before Deadline",
+  "source": "PSU Connect",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil stocks rally: IOCL, HPCL, BPCL share prices rise up to 3% as crude oil rates plunge over 7%",
+  "source": "ET Now",
+  "published_utc": "2026-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil increases spot crude purchases amid supply disruptions | Tap to know more | Inshorts",
+  "source": "Inshorts",
+  "published_utc": "2026-08-03T07:07:46+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Q1 beat on strong refining margins; Nomura retains 'Buy', Rs 180 target",
+  "source": "Moneycontrol.com",
+  "published_utc": "2026-08-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest Rs 1 trillion in petchem projects over 5 years",
+  "source": "Rediff",
+  "published_utc": "2026-08-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US-Iran war shook the oil market. How India softened the hit at petrol pumps",
+  "source": "India Today",
+  "published_utc": "2026-08-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian top refinery operator buys 2 million barrels of crude from Nigeria, sources confirm",
+  "source": "Businessfront",
+  "published_utc": "2026-08-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty Oil and Gas Prediction for Tomorrow 4 Aug 2026: Closed 12,548",
+  "source": "Univest",
+  "published_utc": "2026-08-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL buys W.Africa crude for Rajasthan refinery, sources say",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2026-08-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "News Content Hub - Indian yard GRSE awarded contract to build four PSVs for ONGC",
+  "source": "Riviera Maritime Media",
+  "published_utc": "2026-08-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dividend alert: Record dates for 7 PSU stocks coming up \u2013 HAL, IOC, RVNL, Power Grid in focus",
+  "source": "The Financial Express",
+  "published_utc": "2026-08-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Reassesses Tamil Nadu Refinery, Eyes Petrochemical Complex",
+  "source": "ChemAnalyst",
+  "published_utc": "2026-08-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian refiners buy Middle East and West African crude, sources say",
+  "source": "The Economic Times",
+  "published_utc": "2026-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hormuz Bottleneck Pushes Indian Refiners Toward West African Grades",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2026-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Macquarie in advanced talks to buy Fourth Partner Energy",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil Arm Terra Clean Invites Bids for 200 MW ISTS-Connected Wind Project in Karnataka",
+  "source": "Energetica India Magazine",
+  "published_utc": "2026-08-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Ship MSV Faize Noore Oliya Sinks Off Yemen; 14 Crew Rescued",
+  "source": "Outlook India",
+  "published_utc": "2026-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal Oil Corporation Faces LP Gas Supply Shortage Due to Unusually High Demand",
+  "source": "Ratopati",
+  "published_utc": "2026-08-05T10:58:51+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL rethinks Nagapattinam project as petrochemicals take centre stage",
+  "source": "Indiatimes",
+  "published_utc": "2026-08-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to Invest Rs 1 Trillion in Petrochemicals",
+  "source": "Construction World",
+  "published_utc": "2026-08-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Share Pros and Cons 2026: India's Largest PSU OMC at 6x PE",
+  "source": "Univest",
+  "published_utc": "2026-08-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches Indane XTRALITE NOW with 3-hour LPG delivery service in Delhi",
+  "source": "PSU Watch",
+  "published_utc": "2026-08-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's alternative-fuel cars close in on petrol as E20 uncertainty grows",
+  "source": "Reuters",
+  "published_utc": "2026-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Refiners Continue West Africa Crude Buying Spree",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2026-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hindustan Petroleum buys 2 million bbl West African oil for Sept via tender, sources say",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "E20 is safe: Oil firms reject contamination claims after nationwide testing",
+  "source": "India Today",
+  "published_utc": "2026-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Releases Business Responsibility and Sustainability Report for FY 2025-26",
+  "source": "scanx.trade",
+  "published_utc": "2026-08-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India fuel retailers say E20 petrol meets quality standards",
+  "source": "Reuters",
+  "published_utc": "2026-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation FY26 Results: Net profit rises 184% to \u20b936,802 crore",
+  "source": "scanx.trade",
+  "published_utc": "2026-08-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil Firms Say E20 Is Safe After Nationwide Testing Rules Out Contamination",
+  "source": "NDTV",
+  "published_utc": "2026-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil companies reject E20 contamination claims, say pan-India testing shows quality as per norms",
+  "source": "The Indian Express",
+  "published_utc": "2026-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hiking capex not enough, boost oil output, expand strategic reserves faster\u2014House panel to govt",
+  "source": "ThePrint",
+  "published_utc": "2026-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "E20 Contamination Claims Don't Hold up to Testing, Oil Marketers Say",
+  "source": "Autocar Professional",
+  "published_utc": "2026-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "E20 petrol is completely safe for vehicles; confirmed after extensive testing: Government",
+  "source": "India.com",
+  "published_utc": "2026-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OMCs say E20 petrol chloride within limits, dismiss contamination claims",
+  "source": "PSU Watch",
+  "published_utc": "2026-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others",
+  "source": "The Hindu",
+  "published_utc": "2026-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil launches 10-kg LPG cylinder with 4-hr delivery promise in Shillong",
+  "source": "The Shillong Times",
+  "published_utc": "2026-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OMCs Reject E20 Contamination Claims, Say Nationwide Tests Confirm Chloride Within Limits",
+  "source": "ETV Bharat",
+  "published_utc": "2026-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL, IOC, MRPL Secure West African and Omani Crude as Middle East Term Supplies Fail - News and Statistics",
+  "source": "IndexBox",
+  "published_utc": "2026-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GOBARdhan Scheme can help reduce gas imports by $5 billion, says IBA",
+  "source": "Business Standard",
+  "published_utc": "2026-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US Senate Russia sanctions vote threatens Indian crude supplies: Kpler",
+  "source": "Business Standard",
+  "published_utc": "2026-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OIL CMD Ranjit Rath among applicants for ONGC top job",
+  "source": "MillenniumPost",
+  "published_utc": "2026-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here's What We Like About Indian Oil's (NSE:IOC) Upcoming Dividend",
+  "source": "Simply Wall Street",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian retailers' losses on domestic LPG sales narrow in August",
+  "source": "Reuters",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Book An LPG Cylinder At 7 AM, Get It By 10? Indian Oil's New Indane Service Explained",
+  "source": "News18",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Refiners Cut LPG Losses in August",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia\u2019s share in India\u2019s oil imports jumps to all-time high of 48%, even as U.S. readies 100% tariffs",
+  "source": "The Hindu",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil PSUs\u2019 LPG Losses On Below-Market Sales Cross Rs 59,000 Crore",
+  "source": "Sarkaritel.com",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s top three OMCs report combined \u20b918,150-crore loss in Q1FY27 amid West Asia conflict",
+  "source": "Fortune India",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG under-recovery falls sharply to Rs 188 per cylinder in August; accumulated burden crosses Rs 59,000 crore",
+  "source": "The New Indian Express",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OMCs reject E20 fuel contamination claims after nationwide testing",
+  "source": "Autocar India",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State oil companies still lose \u20b9188 on every LPG cylinder, but gap has narrowed sharply",
+  "source": "CNBC TV18",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ethanol or EVs? India needs both for cleaner mobility, says IFGE",
+  "source": "The Times of India",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyderabad gas users face delivery delays over e-KYC",
+  "source": "Hyderabad Mail",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Russian oil imports hit record as US tariff threat looms",
+  "source": "Firstpost",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Russian crude imports hit record for second straight month",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Russian Oil Imports Hit Record For Second Month In Row Even As 100% Tariff Sword Looms",
+  "source": "NDTV Profit",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US 100% Tariff Bill: India\u2019s Russian Oil Imports Face Fresh Risk After Senate Vote",
+  "source": "NiftyTrader",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ethanol, EVs must coexist in India's clean mobility transition; E20 mileage impact limited: IFGE",
+  "source": "The Economic Times",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt explores ethanol as cooking fuel to cut India's dependence on LPG imports",
+  "source": "CNBC TV18",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil PSUs\u2019 losses on LPG sales below market price cross Rs 59,000 crore",
+  "source": "The Hans India",
+  "published_utc": "2026-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil companies assigned 30,000 tonnes of green hydrogen production",
+  "source": "gasworld",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Russian oil imports hit record; refined fuel flows to nations sanctioning Moscow",
+  "source": "The Times of India",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2026 Without GATE: Engineers, Law Officers, Quality Control & Junior Engineers",
+  "source": "PW",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil-and-gas PSUs see first Q1 capex decline in at least five years",
+  "source": "Business Standard",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil companies to consume 30,000 tonnes of green hydrogen a year for refining",
+  "source": "Hydrogen Insight",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2026 Notification Out For JE, Officer, Apply Online From August 12",
+  "source": "PW",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil and Gas Industry in India: Market Size, Companies 2034",
+  "source": "IMARC Group",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's HPCL, MRPL seek up to six million barrels crude, documents show",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Junior Engineer Recruitments Notification Out: Applications from Tomorrow | Details Here",
+  "source": "Sakshi Education",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is ethanol-free petrol still available? Find out where to get it and what it costs",
+  "source": "India.com",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ethanol blending in diesel fails flash-point test, says govt",
+  "source": "Manorama Yearbook",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai Petroleum, MRPL Surge Up to 15% on Crude Oil Rally",
+  "source": "Equitypandit",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private investment vital to build competitive fuel market",
+  "source": "Daily Sun",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Dividend 2026: PSU stock to trade ex-dividend this week; check record date",
+  "source": "Zee Business",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Awards \u20b918.51 Crore Work Order to Expo Engineering for Crude Oil Tank Maintenance",
+  "source": "Indianmasterminds",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Awards \u20b918.51 Cr Maintenance Contract to Expo Engineering",
+  "source": "PSU Connect",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Apprentice Recruitment 2026: Apply Online for 433 Trade/ Technical Posts, Check Eligibility & Other Details Here",
+  "source": "Jagranjosh.com",
+  "published_utc": "2026-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Refiners Seek 6 Million Barrels of Spot Crude",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2026-08-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG e-KYC Deadline: Complete Aadhaar Verification",
+  "source": "Northeast Live",
+  "published_utc": "2026-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Refineries to Procure 30,000 Tons Green Hydrogen",
+  "source": "ESG News.earth",
+  "published_utc": "2026-08-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG Aadhaar e-KYC deadline: Indane, Bharat Gas, HP Gas customers who miss it may need to pay more; All you need to know",
+  "source": "Business Today",
+  "published_utc": "2026-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nayara Energy: What to know about Gujarat-based firm reportedly supplying fuel to Russia",
+  "source": "Livemint",
+  "published_utc": "2026-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia imports gasoline from India for the first time amid Ukrainian attacks on refineries",
+  "source": "The Kyiv Independent",
+  "published_utc": "2026-08-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Terra Clean Floats Land Aggregation Tender for 300 MW Solar Project",
+  "source": "Mercomindia.com",
+  "published_utc": "2026-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia imports gasoline from India due to Ukraine\u2019s strikes on refineries - Bloomberg",
+  "source": "\u0426\u0435\u043d\u0437\u043e\u0440.\u041d\u0415\u0422",
+  "published_utc": "2026-08-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Centre awards 30 KTPA green hydrogen capacity to four oil refineries under National Green Hydrogen Mission",
+  "source": "Big News Network.com",
+  "published_utc": "2026-08-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apollo Hospitals, HAL, HPCL, Indian Oil, Quality Power, Bondada Engineering Dividends: Last Day To Buy Shares To Qualify",
+  "source": "NDTV Profit",
+  "published_utc": "2026-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to start up synthetic rubber plant by year-end",
+  "source": "European Rubber Journal",
+  "published_utc": "2026-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotyark Industries Secures Order Valued At \u20b9174 Crore",
+  "source": "Sahi",
+  "published_utc": "2026-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India seeks more US LPG to cut West Asia reliance, aid trade deal",
+  "source": "Moneycontrol.com",
+  "published_utc": "2026-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Centre seeks more US LPG to cut reliance on West Asia, aid trade deal",
+  "source": "Business Standard",
+  "published_utc": "2026-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Stock And India Refiners Facing A Russian Crude Test",
+  "source": "Simply Wall Street",
+  "published_utc": "2026-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gas Cylinder E-KYC Deadline: How To Do eKYC Of Indane, HP, Bharat Gas Via Apps, AadhaarFaceRD, LPG Distributor",
+  "source": "Goodreturns",
+  "published_utc": "2026-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indiane Gas consumers suffer as they go through e-KYC process at local agency",
+  "source": "MYLAPORE TIMES -",
+  "published_utc": "2026-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 113 Dividend Payout: Last day to buy HPCL, HAL, Apollo Hospitals, Indian Oil, REC and 34 other stocks",
+  "source": "ET Now",
+  "published_utc": "2026-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dividend alert: Record dates for PSU OMC stocks coming up \u2013 HPCL & IOC in focus",
+  "source": "The Financial Express",
+  "published_utc": "2026-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation fixes Aug 14 record date for \u20b91.25 dividend",
+  "source": "scanx.trade",
+  "published_utc": "2026-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Refiners Snap Up Crude Months Ahead as Wars Upend Supply",
+  "source": "Bloomberg.com",
+  "published_utc": "2026-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian refiners turn to spot crude as Middle East supply risk rises",
+  "source": "Indiatimes",
+  "published_utc": "2026-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Organic Recycling Systems\u2019 Subsidiary Secures Second O&M Contract from Indian Oil for Gorakhpur CBG Plant",
+  "source": "Press Trust of India",
+  "published_utc": "2026-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India cuts windfall tax on exports of petrol, diesel, aviation fuel",
+  "source": "Reuters",
+  "published_utc": "2026-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Set To Partner Russian Energy Week",
+  "source": "StratNews Global",
+  "published_utc": "2026-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rupee under RBI\u2019s shield: How softer oil could ease pressure on the currency",
+  "source": "Firstpost",
+  "published_utc": "2026-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gas Cylinder E-KYC: Are LPG Agencies Open on Saturday, Sunday This Week? Eveything You Need To Know",
+  "source": "Goodreturns",
+  "published_utc": "2026-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia's share of India's oil imports exceed 50% in July \u2014 Reuters",
+  "source": "Ukrinform",
+  "published_utc": "2026-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "E20 Petrol Effect: India's First 'Pure Petrol Finder' App E0Fuel Is Here",
+  "source": "Cartoq",
+  "published_utc": "2026-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian State Refiners HPCL and MRPL Step Up Spot Crude Oil Purchases",
+  "source": "energynews.pro",
+  "published_utc": "2026-08-14T08:27:36+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil firms rush to secure supply: IOC, HPCL seek cargoes for as far ahead as November",
+  "source": "Telegraph India",
+  "published_utc": "2026-08-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Invites Applications For Executive Posts, Salary Up To Rs 1.60 Lakh",
+  "source": "NDTV",
+  "published_utc": "2026-08-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG e-KYC Deadline August 16: What happens if you miss it? Check Indane, Bharat Gas, HP Gas rules",
+  "source": "Zee Business",
+  "published_utc": "2026-08-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil appoints Dr. Alka Mundra as independent director",
+  "source": "scanx.trade",
+  "published_utc": "2026-08-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2026: Apply Online for Executive Posts, Check Dates",
+  "source": "PW",
+  "published_utc": "2026-08-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hindustan Petroleum And Bharat Petroleum Stocks In Focus As Oil Price Risk Returns",
+  "source": "Simply Wall Street",
+  "published_utc": "2026-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG cylinder e-KYC deadline extended to August 23 in Tamil Nadu",
+  "source": "DT Next",
+  "published_utc": "2026-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trapped with 23 crew and 110,000 tonnes of oil: Indian captain recounts 75 days stranded in Iran war",
+  "source": "The Economic Times",
+  "published_utc": "2026-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Asian operator seeks gas floater for South Andaman project",
+  "source": "Upstream Online",
+  "published_utc": "2026-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Last day for LPG cylinder eKYC today: Miss deadline and you may pay higher prices, lose subsidy benefits; k...",
+  "source": "Bhaskar English",
+  "published_utc": "2026-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty 50 by Revenue: The Companies Powering India\u2019s Economy",
+  "source": "Artificial Intelligence News & Cryptocurrency News: Latest Trends | Analytics Insight",
+  "published_utc": "2026-08-17T06:43:04+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Giant Secures U.S. License to Return to Venezuela",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2026-08-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dr Alka Mundra Appointed Independent Director on IndianOil Board",
+  "source": "APAC Media",
+  "published_utc": "2026-08-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil\u2019s \u2018Energy Soldiers\u2019 to strengthen India\u2019s energy security: Director (Refineries)",
+  "source": "PSU Watch",
+  "published_utc": "2026-08-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Executive Recruitment 2026 Out: Check Vacancy, Eligibility, Salary & Apply Online",
+  "source": "Careers360",
+  "published_utc": "2026-08-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "East Bengal advance to Durand Cup semi-finals after Vishnu header sinks Indian Army",
+  "source": "Telegraph India",
+  "published_utc": "2026-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "$115/bbl: CareEdge pegs oil level seen turning OMCs' operating profit red",
+  "source": "Business Standard",
+  "published_utc": "2026-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s crude basket price rises to $91.16 as oil rebounds on renewed US-Iran tensions",
+  "source": "Moneycontrol.com",
+  "published_utc": "2026-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bring back E10 for older vehicles. Work out food-versus-fuel trade-off",
+  "source": "The Indian Express",
+  "published_utc": "2026-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sporting Club Delhi beat FC Raengdai 5-1 to enter Durand Cup semi-finals",
+  "source": "News On AIR",
+  "published_utc": "2026-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Executives Recruitment 2026: Applications open for 470 posts at iocl.com, check eligibility and application details here",
+  "source": "India Today",
+  "published_utc": "2026-08-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2026: Apply Online For 470 Executive Posts, Check Eligibility And Selection Process",
+  "source": "Jagranjosh.com",
+  "published_utc": "2026-08-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2026: Online applications open for 470 executive posts, check eligibility, salary and exam date",
+  "source": "ET Now",
+  "published_utc": "2026-08-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indane Launches XTRALITE NOW \u2013 Premium 10 Kg Composite LPG Cylinder in Aizawl",
+  "source": "PIB",
+  "published_utc": "2026-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two held within hours of petrol bunk robbery near Madurai",
+  "source": "The Times of India",
+  "published_utc": "2026-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The invisible machinery behind India's fuel security",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hormuz Impact: Upstream, Downstream Oil Stocks At Odds \u2014 DSP Fund Manager Explains Why",
+  "source": "NDTV Profit",
+  "published_utc": "2026-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s crude import bill surges 41% in July amid West Asia crisis; volumes up 13%",
+  "source": "The Hindu",
+  "published_utc": "2026-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shama invites Indian businesses to explore economic opportunities",
+  "source": "Bangladesh Sangbad Sangstha (BSS)",
+  "published_utc": "2026-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian delegation in Dhaka to boost bilateral trade",
+  "source": "Daily Sun",
+  "published_utc": "2026-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Apply Online 2026 Starts for 470 Posts, Submit Your Forms Before 3 Sept",
+  "source": "Career Power",
+  "published_utc": "2026-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil approves \u20b92,449 Crore for Kochi-Kanyakumari-Thoothukudi Gas Pipeline",
+  "source": "Sanskriti IAS",
+  "published_utc": "2026-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "As August 23 eKYC deadline for LPG connection nears, people make a dash to gas agencies",
+  "source": "The Hindu",
+  "published_utc": "2026-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Issue of Oil Imports from Venezuela",
+  "source": "Sanskriti IAS",
+  "published_utc": "2026-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brent may stay near $80/bbl for 12 months; JM Financial sees ONGC, Oil India as key gainers",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian refiners face crude cost surge as Gulf premiums rise, Russian oil discounts vanish",
+  "source": "The Economic Times",
+  "published_utc": "2026-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil close to signing LPG import deal with Algeria's Sonatrach for 2027; sources say",
+  "source": "Reuters",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil signs five-year deal to supply petroleum products to Mauritius",
+  "source": "Livemint",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Secures Long-Term Petrol, Diesel, Jet Fuel Supply Deal With Mauritius",
+  "source": "NDTV Profit",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Mauritius sign G2G energy MoU; Indian Oil locks in 5-Year petroleum product supply deal",
+  "source": "PSU Watch",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil close to signing LPG import deal with Algeria\u2019s Sonatrach for 2027: Report",
+  "source": "Business Today",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Do Oil Stocks Go Up When Crude Oil Price Rises?",
+  "source": "Value Research",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Ltd down for fifth straight session",
+  "source": "Business Standard",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hormuz Fallout: Indian Oil Inks Algeria LPG Deal For 2027 Supplies To Cut Gulf Reliance",
+  "source": "NDTV Profit",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India enters 'long-term arrangement' with Mauritius to supply petrol, diesel and aviation fuel",
+  "source": "The Economic Times",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs. 28.72 Lakh CENVAT Credit Denial Over Lack of Documents: CESTAT Directs Fresh Verification in Indian Oil Case",
+  "source": "Taxscan",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3 Fundamentally Strong Refinery Stocks in India",
+  "source": "Univest",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Shouldn\u2019t Give in to US Bullying on Russian Oil",
+  "source": "NewsClick",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What Happens When Crude Oil Prices Rise? How It Affects Inflation and RBI Decisions in India",
+  "source": "Jagranjosh.com",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OPINION | China\u2019s Russian oil binge begins to pinch Indian refiners",
+  "source": "Baird Maritime",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mauritius signs agreements to import oil products from India",
+  "source": "CNBC Africa",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil targets Algeria for monthly LPG imports from 2027: Report",
+  "source": "ET Now",
+  "published_utc": "2026-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil signs significant agreement with Mauritius State Trading Corporation to meet petrol, diesel, ATF requirements",
+  "source": "PSU Connect",
+  "published_utc": "2026-08-21T05:13:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil signs fuel supply deal with Mauritius",
+  "source": "ET Auto",
+  "published_utc": "2026-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Law Officer Recruitment 2026: Notification, Vacancies, Apply Online",
+  "source": "PW",
+  "published_utc": "2026-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s largest oil company turns to Africa for cheaper cooking gas as Algeria offers lower prices than Saudi Arabia",
+  "source": "Business Insider Africa",
+  "published_utc": "2026-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Signs 5-Year Mauritius Fuel Deal: Why It Matters For Energy Security",
+  "source": "Outlook Business",
+  "published_utc": "2026-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India and Mauritius Sign Oil and Gas Cooperation MoU",
+  "source": "GK Today",
+  "published_utc": "2026-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Premium Petrol Sales Quadruple On E20 Fears: But Even Premium Petrol Has Ethanol",
+  "source": "Cartoq",
+  "published_utc": "2026-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Six PSU energy majors\u2019 MC\u00b2 Foundation commits over \u20b9455 crore for startup innovation",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Secretary, MoPNG, along with CMDs of all Oil giants launches",
+  "source": "Big News Network.com",
+  "published_utc": "2026-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India and Mauritius Sign Oil Supply Agreement in Port Louis",
+  "source": "energynews.pro",
+  "published_utc": "2026-08-21T09:34:49+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil To Be Sole Supplier Of Petrol, Diesel, Jet Fuel To Mauritius For Five Years",
+  "source": "Swarajya",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to supply entire petroleum imports requirement of Mauritius",
+  "source": "Business Standard",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Mauritius ink long-term fuel supply agreement; IOC to meet complete import requirement",
+  "source": "The New Indian Express",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India-Mauritius deepen oil ties, IOC to supply island nation\u2019s fuel needs",
+  "source": "The Times of India",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hardeep Singh Puri Visits Mauritius; India, Mauritius Sign Oil and Gas Cooperation Pact",
+  "source": "DD News",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Mauritius sign oil & gas pact; IOCL to supply fuel under 5-year deal",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil pact to shield Mauritius from fuel price volatility, ensure energy security",
+  "source": "Telangana Today",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Mauritius Sign Five-Year Fuel Supply Pact; Indian Oil to Meet Island Nation\u2019s Import Needs",
+  "source": "Hindusthan Samachar English",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL recruitment 2026: Registration underway for 470 posts; check eligibility and direct link to apply",
+  "source": "The Times of India",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Mauritius Sign Long-term Fuel Supply Pact; IOC To Meet Entire Import Requirement",
+  "source": "ETV Bharat",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices today \u2014 22 Aug: Fuel rates in Delhi, Mumbai, Bengaluru as Crude oil sees 6.39% weekly gain",
+  "source": "Livemint",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kolkata Fuel Network Gains From Indian Oil Expansion",
+  "source": "Urban Acres",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hardeep Singh Puri visits Mauritius; IOC bags 5-year petroleum supply deal with STC outside South Asia",
+  "source": "Zee Business",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Mauritius Sign 5-Year Fuel Deal As IOC To Supply Entire Petrol, Diesel And ATF Imports",
+  "source": "Free Press Journal",
+  "published_utc": "2026-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru as Iran's President pushes for dialogue",
+  "source": "Livemint",
+  "published_utc": "2026-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Mauritius strengthen energy ties with oil, gas agreements as Puri meets Ramgoolam",
+  "source": "OrissaPOST",
+  "published_utc": "2026-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG connection eKYC deadline extended to August 31",
+  "source": "The Hindu",
+  "published_utc": "2026-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to supply Mauritius' entire import requirement of petrol, diesel and ATF",
+  "source": "PSU Watch",
+  "published_utc": "2026-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Mauritius Sign Five-Year Fuel Supply Deal",
+  "source": "ChemAnalyst",
+  "published_utc": "2026-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Signs Fuel Supply Deal with Mauritius",
+  "source": "GK Today",
+  "published_utc": "2026-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to Watch Today, August 24: HDFC Bank, ICICI Bank, Indian Oil, JSW Infra, NTPC Green and others",
+  "source": "ET Now",
+  "published_utc": "2026-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How imported crude turns into \u2018Made in India\u2019 petrol and diesel and sold to other countries",
+  "source": "Zee News",
+  "published_utc": "2026-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "e-KYC for LPG Booking Last Date on August 31: How To Complete Indane, Bharat Gas, HP KYC On Mobile",
+  "source": "Oneindia",
+  "published_utc": "2026-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India-Mauritius Energy Deal: IOC to Supply All Fuel Imports for 5 Years",
+  "source": "Pioneer Daily",
+  "published_utc": "2026-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil India, ONGC diverge on crude output; IOCL, BPCL, RIL lift refining utilisation while HPCL slips",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL, Indian Oil, IndiGo: Oil-linked stocks gain as crude prices drop to $85/barrel; what investors should know",
+  "source": "Upstox",
+  "published_utc": "2026-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3 Strong Undervalued Oil and Gas Stocks in India to Watch in August 2026",
+  "source": "Univest",
+  "published_utc": "2026-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India turns to US for LPG, LNG as West Asia war disrupts Gulf supplies",
+  "source": "Business Standard",
+  "published_utc": "2026-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will Trump's Iran sanctions hit India too? Here's what happens to Chabahar Port, Basmati rice and...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2026-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Missed August 23 LPG e-KYC Deadline? Last Date Extended; Check New Date, Aadhaar Authentication Rules",
+  "source": "The Sunday Guardian",
+  "published_utc": "2026-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iranian warship confronts Indian oil tanker attempting to transit Hormuz: Report",
+  "source": "India Today",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil fined \u20b914.2 lakh each by BSE, NSE for board non-compliance",
+  "source": "scanx.trade",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian refiners widen oil search as attacks hurt Russian flows",
+  "source": "The Economic Times",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India and Mauritius deepen energy ties and expand bunkering capacity",
+  "source": "safety4sea",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Refineries Cut Russian Oil Purchases as Ukrainian Strikes Disrupt Exports",
+  "source": "mezha.net",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shafaq News..Iran intercepts Indian oil tanker in Strait of Hormuz",
+  "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hardeep Puri Meets ExxonMobil Chief On Oil Exploration Opportunities",
+  "source": "Sarkaritel.com",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Refiners Chase Oil as Far as the Americas as Russian Imports Fall ~800,000 BPD",
+  "source": "NiftyTrader",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation NSE:IOC Fined for Board Compliance Gap",
+  "source": "Kalkine India",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Refiners, Global Energy Major Halt Use of Iran-Blacklisted Ships",
+  "source": "Egypt Oil & Gas",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Some oil companies to avoid ships on Iran blacklist, sources say",
+  "source": "Reuters",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Some oil companies are planning to avoid ships on Iran blacklist amid threats, sources say",
+  "source": "The Times of Israel",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Begins Looking for Alternatives to Russian Oil \u2013 Bloomberg",
+  "source": "uatv.ua",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia is preparing a textbook on Ukrainian history for schoolchildren",
+  "source": "UA.NEWS",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Cuts Russian Oil Purchases and Seeks Alternatives - Bloomberg",
+  "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India cuts Russian oil imports and looks for alternatives \u2014 Bloomberg",
+  "source": "RBC-Ukraine",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran blacklist raises risks for Gulf oil shipments",
+  "source": "Logistics Middle East",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iranian warship confronts vessel attempting Hormuz transit",
+  "source": "Middle East Eye",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation: Fined \u20b928 Lakh for Director Non-Compliance",
+  "source": "InvestyWise",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US-Israel-Iran Latest Live News: Iran Warship Reportedly Warns Indian Oil Tanker HAANA While Crossing Strait of Hormuz via \u2018Oman Corridor\u2019, Tanker Turns Back",
+  "source": "The Sunday Guardian",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran Blacklists 45 Ships: Indian Oil Refiners To Avoid Vessels Amid Hormuz Security Risks",
+  "source": "Free Press Journal",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iranian Warship Blocks Indian Tanker's Attempt to Cross Hormuz Through Southern Route: Report",
+  "source": "Times Now",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Is the Indian Stock Market Up Today? Sensex Rises, Nifty Trades in Green; Indian Markets Maintain Positive Momentum- What Investors Should Watch",
+  "source": "The Sunday Guardian",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian refiners shun Iran-blacklisted tankers over Hormuz risks",
+  "source": "Daijiworld",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US-Israel-Iran War Live News: Oil Falls 1.7% as Iran-Oman Talks Raise Hopes of Hormuz Reopening \u2013 India Avoids 45 \u2018Blacklisted Ships\u2019",
+  "source": "The Sunday Guardian",
+  "published_utc": "2026-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran's warship confronts Indian oil tanker attempting to cross Strait of Hormuz | Meanwhile, US has also claimed a blockade | Inshorts",
+  "source": "Inshorts",
+  "published_utc": "2026-08-27T02:58:23+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil tanker turns back after warning by Iranian vessel against attempt to pass through Hormuz",
+  "source": "Moneycontrol.com",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EMPANELMENT OF VALUERS INDIAN OIL CORP. LTD.",
+  "source": "ctn press",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Tanker Turns Back After Iranian Warship's Warning In 'Major Standoff' In Strait Of Hormuz",
+  "source": "News18",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BIG HORMUZ SHOWDOWN! Iran Stops Indian Vessel; Fires Shots Before Shock Turnaround | Watch",
+  "source": "The Times of India",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha government pitches port-led ecosystem to chemical investors",
+  "source": "The New Indian Express",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL explores new crude sources amid threat to Russian oil supplies, Hormuz uncertainty: CMD",
+  "source": "ANI News",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "E10 petrol could return in premium Octane 95 avatar as E20 concerns grow",
+  "source": "Livemint",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex Gains as Brent Crude Tumbles on Iran-Oman Hormuz Deal",
+  "source": "The Eastern Herald",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Several PSUs face fines for non-compliance of SEBI norms",
+  "source": "PSU Watch",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The US and Russia compete for a share of India\u2019s energy market",
+  "source": "UA.NEWS",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Godrej Industries Group\u2019s National Chemistry Day Summit Focuses on AI and Green Chemistry",
+  "source": "SMEStreet",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil companies avoiding ships blacklisted by Iran for violating Hormuz Strait protocols: Report",
+  "source": "PressTV",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US-Israel-Iran War Latest News: Iranian Warship Confronts Indian Oil Tanker HAANA In Hormuz, Vessel Forced To Turn Back",
+  "source": "The Sunday Guardian",
+  "published_utc": "2026-08-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt Intensifies Fuel Quality Crackdown; Petrol Sales Stopped at 2,573 Pumps Across India",
+  "source": "Autopunditz",
+  "published_utc": "2026-08-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay High Court Upholds \u20b91,198 Crore Indian Oil Tender, Says CVC's 80% Rule Cannot Apply Mechanically",
+  "source": "LiveLawBiz",
+  "published_utc": "2026-08-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OIL, IOCL exit Gabon block, end decade-old oil project",
+  "source": "The Economic Times",
+  "published_utc": "2026-08-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Tanker Turns Back After Iranian Warship Warning In Strait Of Hormuz",
+  "source": "Marine Insight",
+  "published_utc": "2026-08-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "E20 Petrol Contamination: 2,573 Pumps Halted Amid Chloride Concerns",
+  "source": "Pioneer Daily",
+  "published_utc": "2026-08-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia Stays India's Top Crude Oil Supplier in August 2026 Despite Drone-Driven Volume Dip",
+  "source": "The Eastern Herald",
+  "published_utc": "2026-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Marketing Companies Draw Focus Amid Crude Price Movement and Fuel Margins",
+  "source": "Kalkine India",
+  "published_utc": "2026-08-29T05:50:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cooking gas cylinder supply now smooth, says Indian Oil",
+  "source": "DT Next",
+  "published_utc": "2026-08-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mizoram in talks with IOCL to set up oil depot, plans to resume gas exploration",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC Ashoknagar Oil Discovery Moves Closer To Production",
+  "source": "Sarkaritel.com",
+  "published_utc": "2026-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG, CNG, PNG prices today, August 29: Check domestic, commercial cylinder rates in Delhi, Mumbai, Pune, Ahme",
+  "source": "India.com",
+  "published_utc": "2026-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC\u2019s first Bengal Basin oil discovery moves closer to production",
+  "source": "The Assam Tribune",
+  "published_utc": "2026-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Weekly Recap: Nomura favors BPCL and BPCL open to Gulf FOB lifts",
+  "source": "TradingView",
+  "published_utc": "2026-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil ramps up LPG output 30% as Hormuz disruption tests India\u2019s energy security",
+  "source": "The Economic Times",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil To Boost Gas Sales 1.5x And Petrochemical Intensity To 15% By 2030",
+  "source": "Sahi",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil aiming to increase natural gas sales 1.5-times by 2030: Chairman",
+  "source": "The Hindu",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil profitability remains under pressure from higher crude costs amid West Asia conflict: Chairman IOC",
+  "source": "ANI News",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Indian Oil Producer to Build $736 Million Strategic Reserves",
+  "source": "Bloomberg.com",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp Exec Says Co To Operate Its First Sustainable Aviation Fuel Plant At Panipat Refinery In 2 Months",
+  "source": "TradingView",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "West Asia crisis: Indian Oil increased LPG production by 30 per cent",
+  "source": "Mid-Day",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "West Asia conflict showed resilience has to be built before it is tested, says Indian Oil Chairman",
+  "source": "PSU Watch",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil introduces EVs for delivery of LPG cylinders",
+  "source": "The Hindu",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil raises LPG output nearly 30% as Hormuz disruption tests energy security",
+  "source": "domain-b.com",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC boosted LPG output by 30% amid Iran war, refineries ran over capacity",
+  "source": "Business Standard",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cheaper Saudi crude offers relief to Indian OMCs, but rising LNG costs loom from Sept: Equirus",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil 67th AGM: \u20b91.25 Final Dividend Approved as AS Sahney Highlights Energy Security and Growth Plans",
+  "source": "Indianmasterminds",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil eyes 1.5x gas sales by 2030",
+  "source": "The Financial Express",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil 67th AGM on 31 Aug 2026; Key Board Appointments & Final Dividend Approved",
+  "source": "PSU Connect",
+  "published_utc": "2026-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,938 @@
+[
+ {
+  "title": "Petronet LNG MD Meets Gujarat CM at Vibrant Gujarat Curtain Raiser",
+  "source": "PSU Connect",
+  "published_utc": "2026-09-01T03:33:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG to attend analyst meet in Mumbai on Sep 1, 2026",
+  "source": "scanx.trade",
+  "published_utc": "2026-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to (not) use AI for stock investing",
+  "source": "Value Research",
+  "published_utc": "2026-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to buy for short term: Sagility, Polycab India among 6 stocks experts recommend buying today; do you own any?",
+  "source": "Livemint",
+  "published_utc": "2026-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil shareholders pass all resolutions at 67th AGM",
+  "source": "scanx.trade",
+  "published_utc": "2026-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil 67th AGM on 31 Aug 2026; Final Dividend Declared & All Resolutions Passed",
+  "source": "PSU Connect",
+  "published_utc": "2026-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndiGo, Asian Paints, Indian Oil, BPCL: Oil-sensitive stocks tumble as crude oil prices hit 7-day high above $91/barrel",
+  "source": "Dailyhunt",
+  "published_utc": "2026-09-01T10:14:11+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG files FY26 sustainability report with stock exchanges",
+  "source": "scanx.trade",
+  "published_utc": "2026-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Overvalued or Undervalued? Valuation Check",
+  "source": "Univest",
+  "published_utc": "2026-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Share Price: Buy or Sell",
+  "source": "Univest",
+  "published_utc": "2026-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Neglected Ambulance Forces Kerala Tribals To Carry Sick Across Forest",
+  "source": "NDTV",
+  "published_utc": "2026-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Petronet LNG Bull Case",
+  "source": "Univest",
+  "published_utc": "2026-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG to attend J.P. Morgan India Conference 2026 in Mumbai",
+  "source": "scanx.trade",
+  "published_utc": "2026-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC ASKS GOVT OVER DEPUTATION OF IPS OFFICERS IN LEADERSHIP ROLES IN CAPF",
+  "source": "IndianMandarins",
+  "published_utc": "2026-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PTC India, Coal India among 10 stocks offering dividend yields of up to 10%",
+  "source": "The Economic Times",
+  "published_utc": "2026-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG sets September 28 date for 28th AGM",
+  "source": "scanx.trade",
+  "published_utc": "2026-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG to Participate in J.P. Morgan India Conference",
+  "source": "InvestyWise",
+  "published_utc": "2026-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bharat Forge: Kalyani Strategic Systems & Thales Alliance",
+  "source": "InvestyWise",
+  "published_utc": "2026-09-03T11:23:05+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Value stocks are making a comeback in India. These 10 stocks could benefit",
+  "source": "The Economic Times",
+  "published_utc": "2026-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEVEN CANDIDATES JOIN LEAGUE TO SUCCEED ONGC CHAIRMAN A K SINGH",
+  "source": "IndianMandarins",
+  "published_utc": "2026-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MoPNG-backed programme to support 30 energy startups with funding, pilot opportunities",
+  "source": "ANI News",
+  "published_utc": "2026-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Share Price: Is It a Good Buy After Q1 FY27 Results?",
+  "source": "Univest",
+  "published_utc": "2026-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL (India) Limited and Petronet LNG Limited host \u2018MC\u00b2 Plus Hyderabad Connect\u2019 to Accelerate Innovation and Entrepreneurship in the Energy Sector",
+  "source": "Telugu Times",
+  "published_utc": "2026-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL, Petronet LNG Host MC\u00b2 Plus IGNITE Hyderabad Connect",
+  "source": "Pioneer Daily",
+  "published_utc": "2026-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL, Petronet LNG Partner With IIT Hyderabad to Drive Digital Innovation in Energy Sector",
+  "source": "APAC Media",
+  "published_utc": "2026-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Energy Innovation Accelerator Launched In Hyderabad",
+  "source": "Deccan Chronicle",
+  "published_utc": "2026-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL, Petronet LNG and MC\u00b2 Foundation Host \u2018MC\u00b2 Plus IGNITE Hyderabad Connect\u2019 at IIT Hyderabad",
+  "source": "PSU Connect",
+  "published_utc": "2026-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL and Petronet LNG push startup innovation to transform India\u2019s energy sector",
+  "source": "Indian Chemical News",
+  "published_utc": "2026-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG pays \u20b976,700 penalty each to NSE, BSE for Q2FY27 non-compliance",
+  "source": "scanx.trade",
+  "published_utc": "2026-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG NSE:PETRONET SEBI LODR Penalty Q1 FY27",
+  "source": "Kalkine India",
+  "published_utc": "2026-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC Backs \u20b92,000 Crore Energy Start-Up Fund",
+  "source": "GK Today",
+  "published_utc": "2026-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Linde India Share Price Today: Decline and Stock Analysis",
+  "source": "Univest",
+  "published_utc": "2026-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Stock: A True High-Yield Gem? What 19 Years Of Dividend Payouts Actually Look Like",
+  "source": "NDTV Profit",
+  "published_utc": "2026-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brent oil nears $110: RIL, HPCL, IOC, BPCL, Petronet LNG, MGL, ONGC, GAIL, Oil India shares | Impact explained",
+  "source": "Business Today",
+  "published_utc": "2026-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC Backs Rs 20 Billion Energy Startups Fund",
+  "source": "Construction World",
+  "published_utc": "2026-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Q2 FY27: Date and Outlook",
+  "source": "Univest",
+  "published_utc": "2026-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LNG Importer Stock Up 23% in 5 Years With a 3.5% Dividend Yield",
+  "source": "Univest",
+  "published_utc": "2026-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Revitalisation of Willingdon Island essential to unlock Cochin Port\u2019s full potential",
+  "source": "The New Indian Express",
+  "published_utc": "2026-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chevron targets Argentina, Mediterranean for LNG growth, eyes India deal",
+  "source": "Business Standard",
+  "published_utc": "2026-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Revival of Willingdon Island key to Cochin Port\u2019s growth\u2019",
+  "source": "The New Indian Express",
+  "published_utc": "2026-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MAYAWATI MAY LAUNCH HER NIECE IN ACTIVE POLITICS",
+  "source": "IndianMandarins",
+  "published_utc": "2026-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends",
+  "source": "Reuters",
+  "published_utc": "2026-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LNG demand in India, China expected to recover when West Asia war ends",
+  "source": "Business Standard",
+  "published_utc": "2026-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "M K GUPTA EMPANELLED TO HOLD SECRETARY LEVEL POST AT GOI",
+  "source": "IndianMandarins",
+  "published_utc": "2026-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "R CHETHAN INDUCTED AS DIG IN CBI",
+  "source": "IndianMandarins",
+  "published_utc": "2026-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "China, India LNG demand seen recovering after US-Iran war ends; price normalization key",
+  "source": "BigGo Finance",
+  "published_utc": "2026-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG: Best Stock in Its Sector? Key Metrics",
+  "source": "Univest",
+  "published_utc": "2026-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi Attending Ganapati Celebrations at Goyal\u2019s Place Fans More Speculations",
+  "source": "IndianMandarins",
+  "published_utc": "2026-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks with potential upside up to 11.65%: Brokerage has set target price, stop loss",
+  "source": "News9live",
+  "published_utc": "2026-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "China, India, Pakistan LNG demand seen rebounding after Middle East supply crunch eases",
+  "source": "Gulf Business",
+  "published_utc": "2026-09-16T11:36:04+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG NSE:PETRONET Anand Rathi Analyst Meet September 2026",
+  "source": "Kalkine India",
+  "published_utc": "2026-09-17T05:25:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG approves 50:50 JV with Gruner Renewable Energy to set up 10 CBG plants",
+  "source": "CNBC TV18",
+  "published_utc": "2026-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Approves 50:50 Joint Venture With Gruner Renewable Energy",
+  "source": "TradingView",
+  "published_utc": "2026-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG approves 50:50 JV with Gruner for 10 CBG plants",
+  "source": "scanx.trade",
+  "published_utc": "2026-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Board reviews non-compliance notice from stock exchanges",
+  "source": "scanx.trade",
+  "published_utc": "2026-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LNG gets too hot for Asia at $26, but India keeps buying",
+  "source": "The Economic Times",
+  "published_utc": "2026-09-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks in news: Tata Group, Wipro, BEL, HAL, Petronet LNG and Bharat Forge",
+  "source": "The Economic Times",
+  "published_utc": "2026-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Partners with Gruner Renewable to Invest Rs 1,200 Crore in CBG",
+  "source": "Whalesbook",
+  "published_utc": "2026-09-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Stock Signals to Watch This Week",
+  "source": "Univest",
+  "published_utc": "2026-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to Watch Today: NLC India, Bharat Forge, Skyways Air Services, BEL, Veegaland, GPT Infra, Wipro, PB...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2026-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to watch today: Wipro, Petronet LNG, Bharat Forge and more in focus",
+  "source": "News9live",
+  "published_utc": "2026-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Briefs: Neogen Chemicals, Dhanuka Agritech and Petronet LNG",
+  "source": "Indian Chemical News",
+  "published_utc": "2026-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IFFCO, KRIBHCO seek equity participation in Petronet",
+  "source": "The Economic Times",
+  "published_utc": "2026-09-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No takers for 'high-priced' gas from Petronet LNG",
+  "source": "The Economic Times",
+  "published_utc": "2026-09-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG (PETRONET.NS) Slips 1.95% to \u20b9281.9; \u20b9267.8 Support Emerges as Key Level - Ascending Triangle",
+  "source": "https://www.siam.in/",
+  "published_utc": "2026-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Neogen raises \u20b9600 crore, Dhanuka ratings held, Petronet backs bio-gas push",
+  "source": "ET Chemicals",
+  "published_utc": "2026-09-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC\u2019s new pipeline project to link Kochi LNG terminal to southern Tamil Nadu",
+  "source": "The New Indian Express",
+  "published_utc": "2026-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG to host analyst meet on September 22, 2026",
+  "source": "scanx.trade",
+  "published_utc": "2026-09-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aegis Logistics vs Petronet LNG vs Gujarat State Petronet: Compar",
+  "source": "Univest",
+  "published_utc": "2026-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG MD Race Gets a Political Twist",
+  "source": "Indian PSU",
+  "published_utc": "2026-09-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Provides Ambulance to Vejalpur Machhi Panch Trust under CSR",
+  "source": "PSU Connect",
+  "published_utc": "2026-09-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 stocks rated \u2018Buy\u2019 this week: Brokerages project 23% to 54% return",
+  "source": "The Financial Express",
+  "published_utc": "2026-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG seeks 1% profit commission for directors till FY31 | Tap to know more | Inshorts",
+  "source": "Inshorts",
+  "published_utc": "2026-09-27T05:11:13+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet to pay 1% of profit as commission to directors",
+  "source": "BusinessLine",
+  "published_utc": "2026-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet to pay directors up to 1% of profit as commission",
+  "source": "The Economic Times",
+  "published_utc": "2026-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian finance minister Sitharaman leaves for official visit to Qatar",
+  "source": "Gulf News",
+  "published_utc": "2026-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG fixes June 12 record date for \u20b93.00 final dividend",
+  "source": "scanx.trade",
+  "published_utc": "2026-09-27T16:58:30+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy Petronet LNG; target of Rs 362: Motilal Oswal",
+  "source": "Moneycontrol.com",
+  "published_utc": "2026-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Despite geopolitical risks, Street remains bullish on Petronet LNG outlook",
+  "source": "Business Standard",
+  "published_utc": "2026-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buzzing Stocks: HCL Tech down on acquiring Croatia-based Robotiq.ai; Petronet LNG dips 2% as Jefferies keeps 'underperform'",
+  "source": "TradingView",
+  "published_utc": "2026-09-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock Picks Today: TCS, SBI, BPCL, Lenskart, PB Fintech And More On Brokerages' Radar",
+  "source": "NDTV Profit",
+  "published_utc": "2026-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Accumulate Petronet LNG; target of Rs 302: Prabhudas Lilladher",
+  "source": "Moneycontrol.com",
+  "published_utc": "2026-09-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to watch today: SAIL, ITC, Petronet LNG, M&M, Tata Steel, NTPC",
+  "source": "Business Standard",
+  "published_utc": "2026-09-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy Petronet LNG; target of Rs 360: Emkay Global Financial",
+  "source": "Moneycontrol.com",
+  "published_utc": "2026-09-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG shares: Nomura retains 'Buy', target price Rs 345; Kochi pipeline seen driving utilisation",
+  "source": "Moneycontrol.com",
+  "published_utc": "2026-09-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Director Pramod Narang Wins Sustainability Global Changemaker Award 2026",
+  "source": "PSU Connect",
+  "published_utc": "2026-09-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Share Price: Motilal Oswal, UBS, Nomura see up to 25% upside - What are key triggers?",
+  "source": "Zee Business",
+  "published_utc": "2026-09-28T08:50:44+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Inaugurates 4,200 sq m Garden in Kochi",
+  "source": "PSU Connect",
+  "published_utc": "2026-09-28T13:30:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Director Pramod Narang Honoured With Sustainability Global Changemakers Award 2026",
+  "source": "Indianmasterminds",
+  "published_utc": "2026-09-28T13:45:51+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG AGM approves \u20b93 dividend; director reappointments face dissent",
+  "source": "scanx.trade",
+  "published_utc": "2026-09-28T16:11:37+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Markets mixed as Petronet LNG, HCL Tech and ITC fall",
+  "source": "NewsBytes",
+  "published_utc": "2026-09-29T06:07:09+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Director Pramod Narang Receives Sustainability Global Changemakers Award 2026",
+  "source": "Chemical Industry Digest",
+  "published_utc": "2026-09-29T06:52:05+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG\u2019s next growth leg depends on improving capacity utilization",
+  "source": "Livemint",
+  "published_utc": "2026-09-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG MD Race: Interviews Today, Five Names in Contention",
+  "source": "Indian PSU",
+  "published_utc": "2026-09-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "6 \u2018Buy\u2019 recommendations by Nuvama, with 17% to 51% upside potential",
+  "source": "The Financial Express",
+  "published_utc": "2026-09-29T07:07:45+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG\u2019s Pramod Narang Wins Sustainability Global Changemakers Award 2026",
+  "source": "PSU Connect",
+  "published_utc": "2026-09-29T07:42:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG holds firm amid Hormuz crisis, brokerages bullish on Kochi ramp-up, Dahej expansion",
+  "source": "ET EnergyWorld",
+  "published_utc": "2026-09-29T07:42:42+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Share Price Slides as Fundamentals Stay Key",
+  "source": "Univest",
+  "published_utc": "2026-09-29T09:27:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Samvaayah 2.0: Key Takeaways From Kochi Investor and Analyst Meet",
+  "source": "NewsIP",
+  "published_utc": "2026-09-29T12:43:14+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG hosts investors, analysts meet \u2018Samvaayah 2.0\u2019 in Kochi",
+  "source": "PSU Watch",
+  "published_utc": "2026-09-29T14:04:19+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aster DM and 3 Other Stocks to Buy With Up to 32% Upside, Recommended by Motilal Oswal",
+  "source": "Trade Brains",
+  "published_utc": "2026-09-30T02:30:38+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy Petronet LNG Ltd for the Target Rs.360 by Emkay Global Financial Services Ltd",
+  "source": "Investment Guru India",
+  "published_utc": "2026-09-30T03:55:28+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "6 Buy recommendations by Nomura, with 10% to 45% upside potential",
+  "source": "The Financial Express",
+  "published_utc": "2026-09-30T06:21:48+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet to Pay 1 Per Cent Profit Commission to Directors",
+  "source": "Construction World",
+  "published_utc": "2026-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
