@@ -1,0 +1,74 @@
+[
+ {
+  "title": "Amazing office buildings in India",
+  "source": "Rediff",
+  "published_utc": "2012-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Daimler, makers of Mercedes, reveal BharatBenz trucks for India",
+  "source": "Motoroids",
+  "published_utc": "2012-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's MOST influential women in finance",
+  "source": "Rediff",
+  "published_utc": "2012-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s ICICI Bank Launches Online Banking via Facebook",
+  "source": "Finovate",
+  "published_utc": "2012-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jai Rajasthan Launches New Year Calendar",
+  "source": "UdaipurTimes.com",
+  "published_utc": "2012-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's 30 most trusted brands",
+  "source": "Rediff",
+  "published_utc": "2012-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Don't worry, be happy, says ICICI Bank but there's just one problem",
+  "source": "Firstpost",
+  "published_utc": "2012-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "$1.6bn injection for State Bank of India",
+  "source": "Arab News",
+  "published_utc": "2012-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

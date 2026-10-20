@@ -1,0 +1,227 @@
+[
+ {
+  "title": "Gujarat State Petronet executes $2.4bn deal for pipeline projects in India",
+  "source": "Offshore Technology",
+  "published_utc": "2012-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Madison Media Wins Enamor Media AOR \u2014 LBB",
+  "source": "LBB - Little Black Book",
+  "published_utc": "2012-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Technology Converts Flue Gases to Jet Fuel",
+  "source": "POWER Magazine",
+  "published_utc": "2012-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now, book your LPG refill through IVRS or an SMS",
+  "source": "The Hindu",
+  "published_utc": "2012-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Clinton Meets Key Regional Figure in Indian Politics",
+  "source": "VOA - Voice of America English News",
+  "published_utc": "2012-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, Bharat Petroleum and Hindustan Petroleum on petrol pump expansion spree",
+  "source": "The Economic Times",
+  "published_utc": "2012-05-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jaipur fire: Indian Oil faces negligence charge",
+  "source": "The New Indian Express",
+  "published_utc": "2012-05-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mathura oil refinery shut down",
+  "source": "The New Indian Express",
+  "published_utc": "2012-05-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Talks fail to end oil employees strike",
+  "source": "The New Indian Express",
+  "published_utc": "2012-05-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Life term, not death for Manjunath's killer",
+  "source": "The New Indian Express",
+  "published_utc": "2012-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Life getting back on track as IOC fire abates",
+  "source": "The New Indian Express",
+  "published_utc": "2012-05-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jaipur Indian Oil depot blaze continues to rage",
+  "source": "The New Indian Express",
+  "published_utc": "2012-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil and gas company desists from Falklands\u2019 exploration partnership",
+  "source": "MercoPress",
+  "published_utc": "2012-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil depots, potential threat for Sambalpur town",
+  "source": "The New Indian Express",
+  "published_utc": "2012-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Leakage in IOCL pipeline spreads panic",
+  "source": "The New Indian Express",
+  "published_utc": "2012-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jaipur fire loss: 1.4-1.5 billion rupees",
+  "source": "The New Indian Express",
+  "published_utc": "2012-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Call or message 81240 24365 for an LPG refill",
+  "source": "The New Indian Express",
+  "published_utc": "2012-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HC sets terms for IOCL intake well on Mahanadi",
+  "source": "The New Indian Express",
+  "published_utc": "2012-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC's FY12 subsidy burden seen at Rs 45,000cr: Sources",
+  "source": "Moneycontrol.com",
+  "published_utc": "2012-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol shocker: You'll pay Rs 7.50 more per litre as govt unleashes steepest ever hike",
+  "source": "India Today",
+  "published_utc": "2012-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price up by Rs 7.50/litre, steepest hike ever",
+  "source": "The Economic Times",
+  "published_utc": "2012-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil firms ran out of options: IOC's Butola",
+  "source": "Firstpost",
+  "published_utc": "2012-05-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Refinery to be shutdown for maintenance",
+  "source": "The Hindu",
+  "published_utc": "2012-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Look East Policy: Implications For The Philippines \u2013 Analysis",
+  "source": "Eurasia Review",
+  "published_utc": "2012-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A book that breaks the tortured silence on the Kashmir Valley\u2019s darkest years",
+  "source": "The Caravan",
+  "published_utc": "2012-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

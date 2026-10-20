@@ -1,0 +1,119 @@
+[
+ {
+  "title": "Auto LPG Master Meter launched in State",
+  "source": "The Hindu",
+  "published_utc": "2012-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dirty fuel",
+  "source": "Down To Earth",
+  "published_utc": "2012-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fat of the matter",
+  "source": "Down To Earth",
+  "published_utc": "2012-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Big fire at IOC refinery in Guwahati, no casualties so far",
+  "source": "Firstpost",
+  "published_utc": "2012-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Troubled equations",
+  "source": "Frontline Magazine",
+  "published_utc": "2012-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now, a low cost electric car from Tata",
+  "source": "Rediff",
+  "published_utc": "2012-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Merrill Lynch appointed to find partners to develop Falklands\u2019 oil project",
+  "source": "MercoPress",
+  "published_utc": "2012-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2 critical in Munirka petrol pump blaze | Latest News Delhi",
+  "source": "Hindustan Times",
+  "published_utc": "2012-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "16 Fabulous Westchester Spas",
+  "source": "Westchester Magazine",
+  "published_utc": "2012-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government's quota card: 27% petrol pumps for OBCs",
+  "source": "The Economic Times",
+  "published_utc": "2012-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Venkat Mallik to head Tribal DDB India & RAPP",
+  "source": "Indian Television Dot Com",
+  "published_utc": "2012-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stanley hospital gets laser machine to treat varicose veins",
+  "source": "The Hindu",
+  "published_utc": "2012-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018It was hell; attempts were made to kill us in jail\u2019",
+  "source": "The Indian Express",
+  "published_utc": "2012-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
