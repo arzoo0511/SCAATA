@@ -1,0 +1,38 @@
+[
+ {
+  "title": "Vizag to become a major hub for port-based activity",
+  "source": "The Hindu",
+  "published_utc": "2012-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL insists on right to ADB stake in Petronet",
+  "source": "Business Standard",
+  "published_utc": "2012-12-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL pipeline: Compensation for \u2018right of way\u2019 hiked by 30%",
+  "source": "The New Indian Express",
+  "published_utc": "2012-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Chemicals, Aditya Birla Nuvo may lead $9 billion urea spending",
+  "source": "Livemint",
+  "published_utc": "2012-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

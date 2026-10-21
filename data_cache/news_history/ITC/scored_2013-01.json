@@ -1,0 +1,20 @@
+[
+ {
+  "title": "ITC Q3 profit up 21 percent as cigarette volumes improve",
+  "source": "Reuters",
+  "published_utc": "2013-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex at two-year high, ends above 20,000",
+  "source": "NDTV Profit",
+  "published_utc": "2013-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

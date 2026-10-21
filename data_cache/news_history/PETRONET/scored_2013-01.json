@@ -1,0 +1,20 @@
+[
+ {
+  "title": "Blackout in half of the country;200 miners trapped in W Bengal",
+  "source": "Business Standard",
+  "published_utc": "2013-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet foundation stone on November 1",
+  "source": "Business Standard",
+  "published_utc": "2013-01-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,281 @@
+[
+ {
+  "title": "Mahindra posts 11% jump in Jan sales",
+  "source": "Livemint",
+  "published_utc": "2013-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Left should focus on issues of poorest of the poor: Amartya Sen",
+  "source": "Livemint",
+  "published_utc": "2013-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sees profit in corp credit",
+  "source": "Business Standard",
+  "published_utc": "2013-02-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank buys business loans book of Barclays India",
+  "source": "Reuters",
+  "published_utc": "2013-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI raises $1.5bn syndicated loan",
+  "source": "Business Standard",
+  "published_utc": "2013-02-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Venture buys 14% stake in Rubamin",
+  "source": "Business Standard",
+  "published_utc": "2013-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "mChek mobile payments solution in Gujarat",
+  "source": "Business Standard",
+  "published_utc": "2013-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The men and the art of deal-making",
+  "source": "Business Standard",
+  "published_utc": "2013-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Own lifestyle goods via EMI",
+  "source": "Business Standard",
+  "published_utc": "2013-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bajaj GDR moves up",
+  "source": "Business Standard",
+  "published_utc": "2013-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Afzal Guru execution: curfew continues in Kashmir",
+  "source": "Livemint",
+  "published_utc": "2013-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We'll grow a little faster than industry: ICICI's Kochhar",
+  "source": "Livemint",
+  "published_utc": "2013-02-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI venture to raise $1 bn by year end",
+  "source": "The Economic Times",
+  "published_utc": "2013-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to pay `1.75 lakh for customer's loss due to fraud",
+  "source": "Livemint",
+  "published_utc": "2013-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bajaj Auto sells 8,500 KTM Duke 200 motorcycles in 2012",
+  "source": "Livemint",
+  "published_utc": "2013-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Sangli Bank merger",
+  "source": "Business Standard",
+  "published_utc": "2013-02-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Baba Kalyani is Business India's 25th bizman of year",
+  "source": "Business Standard",
+  "published_utc": "2013-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We need to improve the investment climate",
+  "source": "Livemint",
+  "published_utc": "2013-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi penalizes 118 entities in Bank of Rajasthan case",
+  "source": "Livemint",
+  "published_utc": "2013-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lloyds Steel to be renamed as Uttam Value Steels",
+  "source": "Livemint",
+  "published_utc": "2013-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "If I Were FM | A. Vellayan",
+  "source": "Livemint",
+  "published_utc": "2013-02-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Infra Debt gets first IDF-NBFC licence",
+  "source": "The Hindu",
+  "published_utc": "2013-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank discontinues Kingfisher co-branded credit card",
+  "source": "The Hindu",
+  "published_utc": "2013-02-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDBI's worst may be over, but need to overcome many challenges",
+  "source": "The Economic Times",
+  "published_utc": "2013-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBC Shuts Down Ally High Interest Online Savings Accounts",
+  "source": "Rates.ca",
+  "published_utc": "2013-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bessemer funds ex-Firstsource CEO Ananda Mukerji's startup Anunta Tech",
+  "source": "The Economic Times",
+  "published_utc": "2013-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bharti Airtel to meet investors for a potential $1 billion bond sale",
+  "source": "Livemint",
+  "published_utc": "2013-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HC orders DCHL to give security of Rs 101 crore to Tata Capital",
+  "source": "The Economic Times",
+  "published_utc": "2013-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stanchart-Grindlays Merger Gets Green Signal",
+  "source": "Business Standard",
+  "published_utc": "2013-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Asia's Women In the Mix: Renuka Ramnath's Lucrative Intuition",
+  "source": "Forbes",
+  "published_utc": "2013-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SAD wrests Moga seat from Congress",
+  "source": "Livemint",
+  "published_utc": "2013-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

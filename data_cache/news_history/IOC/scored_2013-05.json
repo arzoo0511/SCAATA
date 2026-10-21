@@ -1,0 +1,83 @@
+[
+ {
+  "title": "Oil companies under-recovery from diesel dips to lowest in 2 yrs",
+  "source": "The Financial Express",
+  "published_utc": "2013-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Last British priest of North India dies at 91",
+  "source": "The Indian Express",
+  "published_utc": "2013-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel to cost 90 paise more",
+  "source": "The Hindu",
+  "published_utc": "2013-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel price hiked by Rs 1.02 per litre",
+  "source": "India Today",
+  "published_utc": "2013-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OMC\u2019s directive on LPG supply to those having many connections",
+  "source": "The Hindu",
+  "published_utc": "2013-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FOL supply cut may hit Army\u2019s mobility",
+  "source": "The New Indian Express",
+  "published_utc": "2013-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil plans fresh investment in Mauritius; eyes Africa",
+  "source": "The Economic Times",
+  "published_utc": "2013-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation says no to government share buy back plan",
+  "source": "The Economic Times",
+  "published_utc": "2013-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apollo Hospitals to invest Rs 540 cr to add 1,000 beds in FY14",
+  "source": "Business Standard",
+  "published_utc": "2013-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "title": "ITC's consumer business profit raises investors' hopes tentatively",
+  "source": "Livemint",
+  "published_utc": "2013-05-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wheat exports from India to plummet as farmers hoard harvest",
+  "source": "Livemint",
+  "published_utc": "2013-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

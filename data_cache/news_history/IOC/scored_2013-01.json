@@ -1,0 +1,263 @@
+[
+ {
+  "title": "AHTS Sold By Farstad",
+  "source": "Marine Link",
+  "published_utc": "2013-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The extraordinary tale of an ordinary man",
+  "source": "The Hindu",
+  "published_utc": "2013-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Major fire at IOC\u2019s Hazira terminal",
+  "source": "The Hindu",
+  "published_utc": "2013-01-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Major fire at Indian Oil's Hazira terminal in Gujarat",
+  "source": "India Today",
+  "published_utc": "2013-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2 killed in fire at Indian Oil Corporation fuel terminal",
+  "source": "NBC News",
+  "published_utc": "2013-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two dead in IOC terminal fire at Hazira in Gujarat",
+  "source": "Reuters",
+  "published_utc": "2013-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire at IOC Hazira terminal contained, one more killed",
+  "source": "The Hindu",
+  "published_utc": "2013-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire at Surat oil depot kills three",
+  "source": "PressReader",
+  "published_utc": "2013-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jaipur craftsman designs world's biggest trophy",
+  "source": "NDTV",
+  "published_utc": "2013-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Raising the bar",
+  "source": "India Today",
+  "published_utc": "2013-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG portability to roll out in Anna Nagar soon",
+  "source": "The Hindu",
+  "published_utc": "2013-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OVL's Venezuela field begins production",
+  "source": "Livemint",
+  "published_utc": "2013-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Raises Diesel Price",
+  "source": "WSJ",
+  "published_utc": "2013-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Strait of Hormuz setting oil prices",
+  "source": "Mehr News Agency",
+  "published_utc": "2013-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Industrialists and companies featured on postage stamps",
+  "source": "Rediff",
+  "published_utc": "2013-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Five 'jealous' wives rape Nigerian man to death",
+  "source": "Business Standard",
+  "published_utc": "2013-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TN govt signs three MoUs with IOC, Videocon and JK Tyres",
+  "source": "Business Standard",
+  "published_utc": "2013-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "AgTalk | Restoring the advertising attitude: Vandana Sethi",
+  "source": "Adgully.com",
+  "published_utc": "2013-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt considering disinvestment in MMTC, SCI, MOIL",
+  "source": "Business Standard",
+  "published_utc": "2013-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Guidelines for bulk sales of diesel soon",
+  "source": "Business Standard",
+  "published_utc": "2013-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil Companies: Evidence of cartelisation",
+  "source": "Frontline Magazine",
+  "published_utc": "2013-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KSRTC to explore cheaper fuel options",
+  "source": "The Hindu",
+  "published_utc": "2013-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kerala RTC to cut services on unviable routes",
+  "source": "Business Standard",
+  "published_utc": "2013-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Footsbarn is back in city with \u2018Indian Tempest\u2019",
+  "source": "The Hindu",
+  "published_utc": "2013-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why sprinters performing better than ever before?",
+  "source": "Business Standard",
+  "published_utc": "2013-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jain Takes Over As Sail Chairman",
+  "source": "Business Standard",
+  "published_utc": "2013-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prize Petro to start production in Nov",
+  "source": "Business Standard",
+  "published_utc": "2013-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Madison bags the media mandate for Max India's corporate campaign",
+  "source": "Adgully.com",
+  "published_utc": "2013-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MS Dhoni named in India Cements squad but may miss Corporate Trophy",
+  "source": "The Times of India",
+  "published_utc": "2013-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

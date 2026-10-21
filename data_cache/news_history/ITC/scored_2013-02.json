@@ -1,0 +1,29 @@
+[
+ {
+  "title": "J N Sapru of ITC dead",
+  "source": "Business Standard",
+  "published_utc": "2013-02-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TV Bytes",
+  "source": "Business Standard",
+  "published_utc": "2013-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Welcome Bellevision.com",
+  "source": "Bellevision.com",
+  "published_utc": "2013-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

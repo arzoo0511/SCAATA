@@ -1,0 +1,74 @@
+[
+ {
+  "title": "Non-subsidised LPG price cut by Rs. 3 per cylinder",
+  "source": "The Hindu",
+  "published_utc": "2013-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Security of BPCL-Kochi\u2019s single point mooring under scanner",
+  "source": "The Hindu",
+  "published_utc": "2013-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Strike at Cherlapally petrol depot IOC and Bharat Petroleum protest against imposition of tax",
+  "source": "Prokerala",
+  "published_utc": "2013-04-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Margaret Thatcher \u2013 A Lady with a Strong but Flexible Backbone",
+  "source": "Le Mauricien",
+  "published_utc": "2013-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Labour problems at LPG plant; IOC to augment gas availability",
+  "source": "Business Standard",
+  "published_utc": "2013-04-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Roadside manicure services boom in Nigeria",
+  "source": "Modern Ghana",
+  "published_utc": "2013-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil plans major maintenance at plants in FY14: source",
+  "source": "Livemint",
+  "published_utc": "2013-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BHEL has the first-mover advantage if growth recovers this year",
+  "source": "Business Standard",
+  "published_utc": "2013-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

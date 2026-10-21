@@ -1,0 +1,65 @@
+[
+ {
+  "title": "V. Balakrishnan, financial controller and interfaith leader",
+  "source": "The Washington Post",
+  "published_utc": "2012-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Asia, Middle East lead modest recovery in global refining",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2012-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crayons Communications Group",
+  "source": "IMPACT Magazine",
+  "published_utc": "2012-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Finance Ministry moves Cabinet note on exchange traded funds for 20 PSUs",
+  "source": "NDTV Profit",
+  "published_utc": "2012-12-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kashmir Gas Pipeline: No more a pipe dream",
+  "source": "Business Today",
+  "published_utc": "2012-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL insists on right to ADB stake in Petronet",
+  "source": "Business Standard",
+  "published_utc": "2012-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL pipeline: Compensation for \u2018right of way\u2019 hiked by 30%",
+  "source": "The New Indian Express",
+  "published_utc": "2012-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

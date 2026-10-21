@@ -1,0 +1,299 @@
+[
+ {
+  "title": "Check your cheque",
+  "source": "Business Standard",
+  "published_utc": "2012-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Check your cheque status, only those in new format will be honoured from January 1",
+  "source": "The Economic Times",
+  "published_utc": "2012-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2 JSW staff killed , 6 injured in building collapse",
+  "source": "Livemint",
+  "published_utc": "2012-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Markets end flat",
+  "source": "Rediff",
+  "published_utc": "2012-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supervisory college for SBI, ICICI Bank",
+  "source": "Livemint",
+  "published_utc": "2012-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Open PPF account in ICICI Bank \u2013 Few Points you can\u2019t miss !",
+  "source": "Jagoinvestor",
+  "published_utc": "2012-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rupee rises ahead of Lok Sabha vote on FDI in retail",
+  "source": "Reuters",
+  "published_utc": "2012-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Film Review | Hotel Transylvania",
+  "source": "Livemint",
+  "published_utc": "2012-12-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Media Pro case: CCI probe finds no cartelization",
+  "source": "Livemint",
+  "published_utc": "2012-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kingsbury replaces Ceylon Continental",
+  "source": "The Sunday Times, Sri Lanka",
+  "published_utc": "2012-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mobile banking: A technology gradually permeating into the system",
+  "source": "The Economic Times",
+  "published_utc": "2012-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pizza Corner owner exits PE talks, steps up India expansion",
+  "source": "Livemint",
+  "published_utc": "2012-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank: A board with a candid culture",
+  "source": "Livemint",
+  "published_utc": "2012-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pandit Ravi Shankar: India\u2019s musical genius",
+  "source": "Livemint",
+  "published_utc": "2012-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google Maps return to iPhone with new app",
+  "source": "mint",
+  "published_utc": "2012-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rupee falls for second day",
+  "source": "Livemint",
+  "published_utc": "2012-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jammu and Kashmir doctor, two assistants kill day-old baby",
+  "source": "India Today",
+  "published_utc": "2012-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Finance Ministry moves Cabinet note on exchange traded funds for 20 PSUs",
+  "source": "NDTV Profit",
+  "published_utc": "2012-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Book review: A Bank for the Buck",
+  "source": "Business Today",
+  "published_utc": "2012-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PGIM India Ultra Short Term Premium Plus-IDCW Daily",
+  "source": "The Economic Times",
+  "published_utc": "2012-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Has 49 Branch Network In J&K",
+  "source": "Kashmir Life",
+  "published_utc": "2012-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Online hiring grew 10% in Nov",
+  "source": "Rediff",
+  "published_utc": "2012-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DLF to sell Amanresorts to founder for $300 million",
+  "source": "Livemint",
+  "published_utc": "2012-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL insists on right to ADB stake in Petronet",
+  "source": "Business Standard",
+  "published_utc": "2012-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Scores Half Century in J&K",
+  "source": "Kashmir Life",
+  "published_utc": "2012-12-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State Bank of India: Banking on Modern Times",
+  "source": "Business Today",
+  "published_utc": "2012-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fundamentals weigh on rupee in 2012, no respite seen in 2013",
+  "source": "Livemint",
+  "published_utc": "2012-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mutual fund schemes for 2013",
+  "source": "The Economic Times",
+  "published_utc": "2012-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks analysis: Top 5 gainers of 2012",
+  "source": "The Economic Times",
+  "published_utc": "2012-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian markets: best stocks & sectors of 2012",
+  "source": "Reuters",
+  "published_utc": "2012-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Man to Reckon With if You Want to Do Business in India",
+  "source": "www.inc.com",
+  "published_utc": "2012-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UTI Investment Bond Fund - Plan I - Retail Plan Returns",
+  "source": "The Economic Times",
+  "published_utc": "2012-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex signs off 2012 with 26% rise, ends flat on last day",
+  "source": "Moneycontrol.com",
+  "published_utc": "2012-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

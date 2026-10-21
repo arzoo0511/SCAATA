@@ -1,0 +1,155 @@
+[
+ {
+  "title": "Non-subsidised LPG price hiked by Rs. 26.50 to Rs. 922 per cylinder",
+  "source": "NDTV",
+  "published_utc": "2012-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Staying in the moment",
+  "source": "Cricinfo",
+  "published_utc": "2012-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp: Non-subsidised LPG cylinder price hiked by Rs 26.50 to Rs 922",
+  "source": "The Economic Times",
+  "published_utc": "2012-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cooking gas price hiked by Rs 26.50 to Rs 922 per cylinder",
+  "source": "Oneindia",
+  "published_utc": "2012-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bapi Bit joins Little Lamb Films as a director",
+  "source": "afaqs!",
+  "published_utc": "2012-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG price hike: BJP slams govt, Congress chief Sonia Gandhi",
+  "source": "India Today",
+  "published_utc": "2012-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Multiple LPG connections in one name, address will be deactivated' | Hindustan Times",
+  "source": "Hindustan Times",
+  "published_utc": "2012-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Re 1 a litre cut in petrol price likely soon",
+  "source": "Moneycontrol.com",
+  "published_utc": "2012-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil wins Beighton Cup hockey",
+  "source": "The Times of India",
+  "published_utc": "2012-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BDO:A subtle combination of response to the crisis\u2026",
+  "source": "Le Mauricien",
+  "published_utc": "2012-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price slashed by Rs 0.95 per litre with effect from midnight tonight",
+  "source": "India Today",
+  "published_utc": "2012-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol Prices Cut By 95p; City Wise Prices",
+  "source": "DriveSpark",
+  "published_utc": "2012-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now surrender LPG connection online",
+  "source": "The Economic Times",
+  "published_utc": "2012-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yesterday's supercomputers are today's laptops: Bhatkar",
+  "source": "Livemint",
+  "published_utc": "2012-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ajmal Kasab's last wish: 'Tell my Ammi'",
+  "source": "Rediff",
+  "published_utc": "2012-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "15 biggest overseas acquisitions by Indian companies",
+  "source": "Rediff",
+  "published_utc": "2012-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hopes still alive for Raisoni as they beat the Riders",
+  "source": "Nagpur Today",
+  "published_utc": "2012-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

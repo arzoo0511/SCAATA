@@ -1,0 +1,119 @@
+[
+ {
+  "title": "Haldia Petrochemicals may suspend production",
+  "source": "Livemint",
+  "published_utc": "2012-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Price of non-subsidised LPG cylinders hiked to nearly Rs 900",
+  "source": "NDTV",
+  "published_utc": "2012-10-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel price hike could push up transport and consumer item costs",
+  "source": "The Sunday Times, Sri Lanka",
+  "published_utc": "2012-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price cut by 0.56 paise per litre",
+  "source": "The New Indian Express",
+  "published_utc": "2012-10-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "There is no cap on supply of LPG cylinders to schools: IOCL",
+  "source": "The Hindu",
+  "published_utc": "2012-10-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Speech By The President Of India, Shri Pranab Mukherjee At The Inauguration Of The Petrotech 2012 Conference",
+  "source": "www.presidentofindia.gov.in",
+  "published_utc": "2012-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "R K SWAMY MEDIA GROUP",
+  "source": "IMPACT Magazine",
+  "published_utc": "2012-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Agencies: Multiple LPG connections will have to be surrendered",
+  "source": "The Indian Express",
+  "published_utc": "2012-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IFGL Refractories: IFGL scales down growth target amid slowdown in steel industry",
+  "source": "The Economic Times",
+  "published_utc": "2012-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Devalued ratnas",
+  "source": "Frontline Magazine",
+  "published_utc": "2012-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel tankers to crowd airport next week",
+  "source": "The Hindu",
+  "published_utc": "2012-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSO's MD honoured with best CEO award",
+  "source": "Business Recorder",
+  "published_utc": "2012-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG cylinders to have a single price point",
+  "source": "Livemint",
+  "published_utc": "2012-10-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

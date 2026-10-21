@@ -1,0 +1,173 @@
+[
+ {
+  "title": "Jet fuel price hiked by 2%",
+  "source": "Rediff",
+  "published_utc": "2013-02-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil pool dues may hit selloff",
+  "source": "Business Standard",
+  "published_utc": "2013-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Match referee calls pacer Praveen Kumar mentally unfit in its report to BCCI",
+  "source": "India Today",
+  "published_utc": "2013-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "China\u2019s Sudan Challenge",
+  "source": "Foreign Policy in Focus",
+  "published_utc": "2013-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indians Order 12 Mil Mi-17V5s",
+  "source": "Aviation International News",
+  "published_utc": "2013-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shell India unit to invest $1 billion for LNG terminal",
+  "source": "Livemint",
+  "published_utc": "2013-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil net up 34% on govt cash dole, higher margins",
+  "source": "Livemint",
+  "published_utc": "2013-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stevedoring king Dubash on the run",
+  "source": "Business Standard",
+  "published_utc": "2013-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First SPM in Mundra",
+  "source": "Business Standard",
+  "published_utc": "2013-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price hiked by Rs 1.50 per litre, diesel by 45 paise",
+  "source": "India Today",
+  "published_utc": "2013-02-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dri Seizes Atf Worth Rs 90 Crore At Kandla",
+  "source": "Business Standard",
+  "published_utc": "2013-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel Prices Hiked Again; Petrol Rs 1.50 per litre, Diesel 45 paise",
+  "source": "CarDekho",
+  "published_utc": "2013-02-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Moily rules out roll back in petrol, diesel price hike",
+  "source": "The New Indian Express",
+  "published_utc": "2013-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vedanta will double earnings to $12-13 bn in 2-3 years: Anil Agarwal",
+  "source": "Business Standard",
+  "published_utc": "2013-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "On Indian Land, Criminals Can Get Away With Almost Anything",
+  "source": "The Atlantic",
+  "published_utc": "2013-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kakinada Sea Ports records Rs 12-crore turnover in Q1",
+  "source": "Business Standard",
+  "published_utc": "2013-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gang hacks oil pilferer to death in Tondiarpet",
+  "source": "The Hindu",
+  "published_utc": "2013-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Malleswaram as canvas",
+  "source": "The Hindu",
+  "published_utc": "2013-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jet fuel price hiked by 3.8 %",
+  "source": "Livemint",
+  "published_utc": "2013-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

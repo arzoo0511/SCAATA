@@ -1,0 +1,74 @@
+[
+ {
+  "title": "Indian Oil Corporation to Expand Haldia POL Terminal",
+  "source": "Industrial Info Resources",
+  "published_utc": "2012-08-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Chidambaram plans to rev up the economy",
+  "source": "Rediff",
+  "published_utc": "2012-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rahul Dhir Quits Cairn India",
+  "source": "Forbes India",
+  "published_utc": "2012-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Not just another border",
+  "source": "Himal Southasian",
+  "published_utc": "2012-08-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Castrol most preferred engine oil: ZigWheels Facebook poll",
+  "source": "ZigWheels.com",
+  "published_utc": "2012-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Khadangbam Kothajit - a symbol of spirit and perseverance",
+  "source": "e-pao.net",
+  "published_utc": "2012-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Parupalli Kashyap rues cold response from sponsors",
+  "source": "India Today",
+  "published_utc": "2012-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TUCS gives customers choice of brands",
+  "source": "The Hindu",
+  "published_utc": "2012-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

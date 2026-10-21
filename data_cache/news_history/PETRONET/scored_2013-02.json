@@ -1,0 +1,29 @@
+[
+ {
+  "title": "Haldia impact: GAIL not to buy Kolkata gas supply firm",
+  "source": "Business Standard",
+  "published_utc": "2013-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shell India unit to invest $1 billion for LNG terminal",
+  "source": "Livemint",
+  "published_utc": "2013-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC gas supply delay prolongs",
+  "source": "Business Standard",
+  "published_utc": "2013-02-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
