@@ -1,0 +1,290 @@
+{
+  "generated_utc": "2026-10-21T13:57:20.278019+00:00",
+  "news_covered_through": "2026-10-21",
+  "spans": {
+    "2012-2024H1": [
+      "2012-01-02",
+      "2013-05-31"
+    ],
+    "2024H2- (true test)": [
+      "2024-07-01",
+      "2026-10-21"
+    ]
+  },
+  "periods": {
+    "2012-2024H1": {
+      "with_news": {
+        "start": "2012-01-02",
+        "end": "2013-05-31",
+        "hansei": {
+          "cagr": 0.20308636308513495,
+          "sharpe": 1.4979698967483357,
+          "max_drawdown": -0.09615595126599893,
+          "final": 12978.304044135739
+        },
+        "buy_and_hold": {
+          "cagr": 0.29200693117950527,
+          "sharpe": 1.7426002983963587,
+          "max_drawdown": -0.10681841499584134,
+          "final": 14351.016632599725
+        },
+        "trades": 21,
+        "costs": 31.81,
+        "sharpe_diff": -0.24463040164802297,
+        "cagr_diff": -0.08892056809437032,
+        "weights": {
+          "trend": 0.4507,
+          "volatility": 0.1553,
+          "momentum": 0.1502,
+          "news": 0.2438
+        }
+      },
+      "without_news": {
+        "start": "2012-01-02",
+        "end": "2013-05-31",
+        "hansei": {
+          "cagr": 0.19964503424604207,
+          "sharpe": 1.4681798914776318,
+          "max_drawdown": -0.10047715210507911,
+          "final": 12925.99106650637
+        },
+        "buy_and_hold": {
+          "cagr": 0.29200693117950527,
+          "sharpe": 1.7426002983963587,
+          "max_drawdown": -0.10681841499584134,
+          "final": 14351.016632599725
+        },
+        "trades": 24,
+        "costs": 35.65,
+        "sharpe_diff": -0.2744204069187268,
+        "cagr_diff": -0.0923618969334632,
+        "weights": {
+          "trend": 0.4864,
+          "volatility": 0.1724,
+          "momentum": 0.0925,
+          "news": 0.2487
+        }
+      },
+      "cagr_diff": 0.003441328839092872,
+      "sharpe_diff": 0.029790005270703857,
+      "prob_news_better": 0.6925,
+      "grid": [
+        {
+          "act_threshold": 0.25,
+          "min_hold_days": 5,
+          "cagr_diff": -0.009896744845760308
+        },
+        {
+          "act_threshold": 0.25,
+          "min_hold_days": 10,
+          "cagr_diff": 0.005355895333957861
+        },
+        {
+          "act_threshold": 0.25,
+          "min_hold_days": 20,
+          "cagr_diff": 0.0052100238404153565
+        },
+        {
+          "act_threshold": 0.333,
+          "min_hold_days": 5,
+          "cagr_diff": 0.0011226626012448282
+        },
+        {
+          "act_threshold": 0.333,
+          "min_hold_days": 10,
+          "cagr_diff": 0.003441328839092872
+        },
+        {
+          "act_threshold": 0.333,
+          "min_hold_days": 20,
+          "cagr_diff": 0.0011128545072778273
+        },
+        {
+          "act_threshold": 0.5,
+          "min_hold_days": 5,
+          "cagr_diff": 0.003811940161357441
+        },
+        {
+          "act_threshold": 0.5,
+          "min_hold_days": 10,
+          "cagr_diff": 0.003491721886250243
+        },
+        {
+          "act_threshold": 0.5,
+          "min_hold_days": 20,
+          "cagr_diff": 0.0007166564047038637
+        }
+      ]
+    },
+    "2024H2- (true test)": {
+      "with_news": {
+        "start": "2024-07-01",
+        "end": "2026-10-21",
+        "hansei": {
+          "cagr": -0.002440644096739719,
+          "sharpe": 0.031518589471071515,
+          "max_drawdown": -0.1480393039168617,
+          "final": 9943.826151950525
+        },
+        "buy_and_hold": {
+          "cagr": -0.04349915560575268,
+          "sharpe": -0.23421289396980172,
+          "max_drawdown": -0.21371812177830873,
+          "final": 9025.567689690382
+        },
+        "trades": 73,
+        "costs": 111.29,
+        "sharpe_diff": 0.2657314834408732,
+        "cagr_diff": 0.04105851150901296,
+        "weights": {
+          "trend": 0.0758,
+          "volatility": 0.2462,
+          "momentum": 0.628,
+          "news": 0.05
+        }
+      },
+      "without_news": {
+        "start": "2024-07-01",
+        "end": "2026-10-21",
+        "hansei": {
+          "cagr": -0.006840840857280317,
+          "sharpe": -0.014014520620502671,
+          "max_drawdown": -0.14565320544887717,
+          "final": 9843.003695147609
+        },
+        "buy_and_hold": {
+          "cagr": -0.04349915560575268,
+          "sharpe": -0.23421289396980172,
+          "max_drawdown": -0.21371812177830873,
+          "final": 9025.567689690382
+        },
+        "trades": 58,
+        "costs": 83.76,
+        "sharpe_diff": 0.22019837334929904,
+        "cagr_diff": 0.036658314748472365,
+        "weights": {
+          "trend": 0.1011,
+          "volatility": 0.2024,
+          "momentum": 0.4628,
+          "news": 0.2336
+        }
+      },
+      "cagr_diff": 0.004400196760540598,
+      "sharpe_diff": 0.04553311009157419,
+      "prob_news_better": 0.647,
+      "grid": [
+        {
+          "act_threshold": 0.25,
+          "min_hold_days": 5,
+          "cagr_diff": 0.014980476225180839
+        },
+        {
+          "act_threshold": 0.25,
+          "min_hold_days": 10,
+          "cagr_diff": 0.002743323872126946
+        },
+        {
+          "act_threshold": 0.25,
+          "min_hold_days": 20,
+          "cagr_diff": 0.015538306731766927
+        },
+        {
+          "act_threshold": 0.333,
+          "min_hold_days": 5,
+          "cagr_diff": 0.004164891019187822
+        },
+        {
+          "act_threshold": 0.333,
+          "min_hold_days": 10,
+          "cagr_diff": 0.004400196760540598
+        },
+        {
+          "act_threshold": 0.333,
+          "min_hold_days": 20,
+          "cagr_diff": -0.009606967353216644
+        },
+        {
+          "act_threshold": 0.5,
+          "min_hold_days": 5,
+          "cagr_diff": 0.00348134360521013
+        },
+        {
+          "act_threshold": 0.5,
+          "min_hold_days": 10,
+          "cagr_diff": 0.003083511052166088
+        },
+        {
+          "act_threshold": 0.5,
+          "min_hold_days": 20,
+          "cagr_diff": -0.0035153714495115285
+        }
+      ]
+    }
+  },
+  "news_signal": {
+    "2012-2024H1": {
+      "5_sessions": {
+        "opinions": 159,
+        "liked_share": 0.5911949685534591,
+        "liked_excess": 0.00538989299810986,
+        "disliked_excess": -0.0017310325727018217,
+        "spread": 0.007120925570811681,
+        "spread_ci95": [
+          -0.005739273558861861,
+          0.021042166382940552
+        ],
+        "prob_spread_positive": 0.873,
+        "hit_rate": 0.5094339622641509,
+        "rank_correlation": 0.02039836125706281,
+        "months": 16
+      },
+      "20_sessions": {
+        "opinions": 159,
+        "liked_share": 0.5911949685534591,
+        "liked_excess": 0.011839903892727882,
+        "disliked_excess": 0.0031324012775942375,
+        "spread": 0.008707502615133644,
+        "spread_ci95": [
+          -0.02532337463114198,
+          0.04906815955389926
+        ],
+        "prob_spread_positive": 0.667,
+        "hit_rate": 0.5283018867924528,
+        "rank_correlation": 0.010711246235141072,
+        "months": 16
+      }
+    },
+    "2024H2- (true test)": {
+      "5_sessions": {
+        "opinions": 1792,
+        "liked_share": 0.6741071428571429,
+        "liked_excess": -0.0031092094551990273,
+        "disliked_excess": -0.0018591044437432885,
+        "spread": -0.0012501050114557388,
+        "spread_ci95": [
+          -0.007504299066408667,
+          0.004932909571164057
+        ],
+        "prob_spread_positive": 0.312,
+        "hit_rate": 0.47377232142857145,
+        "rank_correlation": -0.010631215844231531,
+        "months": 28
+      },
+      "20_sessions": {
+        "opinions": 1733,
+        "liked_share": 0.6722446624350836,
+        "liked_excess": -0.010444051648954953,
+        "disliked_excess": -0.010075140015948033,
+        "spread": -0.00036891163300692073,
+        "spread_ci95": [
+          -0.011229515230857082,
+          0.01057853637901298
+        ],
+        "prob_spread_positive": 0.449,
+        "hit_rate": 0.4598961338718984,
+        "rank_correlation": -0.013886379905736114,
+        "months": 27
+      }
+    }
+  }
+}
