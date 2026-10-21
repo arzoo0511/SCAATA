@@ -28,7 +28,8 @@ ACT_THRESHOLD = 1 / 3          # minimum change in exposure worth a trade
 MIN_HOLD_DAYS = 10             # sessions between trades in one stock, unless news overrides
 NEWS_OVERRIDE = 0.5            # |news view| at or above this may override the waiting period
 DRIFT_LIMIT = 0.20             # rebalance when a holding is 20% away from its equal share
-LABELS = {"trend": "trend", "volatility": "volatility", "momentum": "momentum", "news": "news"}
+LABELS = {"trend": "trend", "volatility": "volatility", "momentum": "momentum", "news": "news",
+          "results": "results surprise"}
 
 
 @dataclass

@@ -269,6 +269,63 @@ def main_exposure() -> None:
     print(f"saved {EXPOSURE_RESULTS_PATH.relative_to(ROOT_DIR)}")
 
 
+RESULTS_RESULTS_PATH = ROOT_DIR / "results" / "hansei_backtest_results.json"
+RESULTS_HOLDS = (5, 20, 60)
+RESULTS_PERIODS = (("Tune 2007-2019", "2007-01-01", "2019-12-31"), ("Holdout 2020-", "2020-01-01", None),
+                   ("Final 2024H2-", "2024-07-01", None))
+
+
+def with_results(views_by_day: dict, results: pd.DataFrame) -> dict:
+    """The same technical views plus a fifth advisor: the latest results surprise."""
+    return {t: {s: {**v, "results": round(float(results.at[t, s]), 3) if t in results.index else 0.0}
+                for s, v in by_symbol.items()} for t, by_symbol in views_by_day.items()}
+
+
+def main_results() -> None:
+    """Does a results-surprise advisor improve HANSEI? The same agent with and
+    without it. How long a surprise counts (RESULTS_HOLDS) is chosen on
+    2007-2019 alone (best CAGR), then checked once on 2020- and 2024H2-."""
+    from scaata.agent import earnings
+
+    opens, closes = load_prices(date.today(), LONG_HISTORY_START)
+    views = precompute_views(closes, RESULTS_PERIODS[0][1])
+    events = earnings.event_table(closes, list(INDIA_TICKERS))
+    mem.ADVISORS = (*mem.ADVISORS, "results")       # the learner gets a fifth advisor to weigh
+    try:
+        variants = {hold: with_results(views, earnings.results_views(closes, events, hold)) for hold in RESULTS_HOLDS}
+        (tl, ts, te) = RESULTS_PERIODS[0]
+        base_tune = evaluate(simulate(opens, closes, views, ts, te))
+        tune = {hold: evaluate(simulate(opens, closes, v, ts, te)) for hold, v in variants.items()}
+        chosen = max(RESULTS_HOLDS, key=lambda h: tune[h]["hansei"]["cagr"])
+        report = {"generated_utc": datetime.now(timezone.utc).isoformat(), "events": int(len(events)),
+                  "tune": {"without": base_tune, **{f"hold_{h}": r for h, r in tune.items()}}, "chosen_hold": chosen,
+                  "checks": {}}
+        print(f"{tl}: without {base_tune['hansei']['cagr']:.2%}/{base_tune['hansei']['sharpe']:.2f}"
+              f"/{base_tune['hansei']['max_drawdown']:.1%} (hold {base_tune['buy_and_hold']['cagr']:.2%})")
+        for h, r in tune.items():
+            print(f"  with results, hold {h:>2}: {r['hansei']['cagr']:.2%}/{r['hansei']['sharpe']:.2f}"
+                  f"/{r['hansei']['max_drawdown']:.1%}  trades {r['trades']}")
+        print(f"chosen on {tl}: a surprise counts for {chosen} sessions")
+        for label, start, end in RESULTS_PERIODS[1:]:
+            base_run = simulate(opens, closes, views, start, end)
+            plus_run = simulate(opens, closes, variants[chosen], start, end)
+            a, b = evaluate(plus_run), evaluate(base_run)
+            grid = [evaluate(simulate(opens, closes, variants[chosen], start, end, th, hd))["hansei"]["cagr"]
+                    - evaluate(simulate(opens, closes, views, start, end, th, hd))["hansei"]["cagr"]
+                    for th in (0.25, 1 / 3, 0.5) for hd in (5, 10, 20)]
+            report["checks"][label] = {"with": a, "without": b, "grid_cagr_diff": grid,
+                                       "prob_better": paired_block_bootstrap_prob_better(plus_run["curve"], base_run["curve"])}
+            print(f"{label:<16} with {a['hansei']['cagr']:.2%}/{a['hansei']['sharpe']:.2f}/{a['hansei']['max_drawdown']:.1%}"
+                  f"  without {b['hansei']['cagr']:.2%}/{b['hansei']['sharpe']:.2f}/{b['hansei']['max_drawdown']:.1%}"
+                  f"  holding {a['buy_and_hold']['cagr']:.2%}  P(better) {report['checks'][label]['prob_better']:.0%}"
+                  f"  CAGR better in {sum(g > 0 for g in grid)}/9 settings")
+    finally:
+        mem.ADVISORS = mem.ADVISORS[:-1]
+    RESULTS_RESULTS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    RESULTS_RESULTS_PATH.write_text(json.dumps(report, indent=2, default=str), encoding="utf-8")
+    print(f"saved {RESULTS_RESULTS_PATH.relative_to(ROOT_DIR)}")
+
+
 NEWS_HISTORY_START = "2011-01-01"
 NEWS_PERIODS = (("2012-2024H1", "2012-01-01", "2024-06-30"), ("2024H2- (true test)", "2024-07-01", None))
 NEWS_RESULTS_PATH = ROOT_DIR / "results" / "hansei_backtest_news.json"
@@ -349,6 +406,8 @@ def main() -> None:
         return main_news()
     if "--exposure" in sys.argv[1:]:
         return main_exposure()
+    if "--results" in sys.argv[1:]:
+        return main_results()
     opens, closes = load_prices(date.today())
     views = precompute_views(closes, PERIODS[0][1])
 
