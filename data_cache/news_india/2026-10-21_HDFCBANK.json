@@ -1,0 +1,414 @@
+{
+  "symbol": "HDFCBANK.NS",
+  "date": "2026-10-21",
+  "headlines": [
+    {
+      "title": "HDFC Bank governance woes grow: Probe finds 2 executives leaked confidential information",
+      "source": "The Indian Express",
+      "published_utc": "2026-10-21T11:59:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEtobVF2clRPLXNSb0ppTlpfal9JeTdBRENNdGNCdWJlU0VXV1pHQUsyTXphY3lKTVl5bjZtWTRqdW1LZlppOE1WU3g4VF9BTU1NTm4wYXdiUXotVE5wVGphYUpDd0pPbTBqMHNhQWhEU2FvZy1pMVdXSUJueXhaa2o0MkgwZmxCYUd1Q0ZSRnBPcGQwY29RVmtnVU1WNGdia0JVdXlPUdIBrgFBVV95cUxNTUNpZEcxOVhWTW1sX1NOZVhOcXdqRFd6UEZ2YjQxVVVVWXdCTVoxRG1BTk9HQWhIdjgyUkhaTzNITGhkWUJoNzBDTS1oVnR2MmtaVnVEME03Vmw0UHRiTUJ2ZlZ0TGQ2VU1QcVJpb2UtNDVYT2hKQ1F1NHhIU3Z6Y2VLcFVjWmlZY1RMNFlaWWtsTlNYV29JRmhDQ09Wc19HWnpXa1RYYXllaWxqcmc?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jupiter Life Line Hospitals rises on entering into hypothecation agreement with HDFC Bank",
+      "source": "Investment Guru",
+      "published_utc": "2026-10-21T11:18:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFRlQkVRM2hra1BlbXY1ZXYtM2REMzFNdzlPZDJCeUI1cnJrMWlhU0tCYXlubzRENlVjeUUwLUpkTG9xSWh1dkNPM19pZ1RSZlI0RjVfZERrbXo5QUU2UVlDdFEzTkNhQzhpNDhBT1RsYjVkUkcyZUEyYWtIRFJPZ0tGdFVLRGxiV0haT3VNYzRUYWMydGlxQlk3dHQwSUEzeUlGaWhzTzhWSXFkSWdKNHFMa0ZkUUR5RGtHTGtSNkVBWGJ2bzZaZVd5SzlUSVQ3aTdQbA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank executives under heat for leaking market-sensitive info amid Anup Bagchi takeover",
+      "source": "The Week",
+      "published_utc": "2026-10-21T10:49:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONVM5NGZ6Z0ZkdmVta21laVg2ckRMc0VMQnNaMExrWWR5eDhKSGNiTVROSEh5Y1NaQ0xOMlVwNXNxLVVoam56al9RSzJsQzZQd1Zua295Y19KQ1ZNaktqNVRETWpCc0pYd25GTDB0WGR6UWFKZ0hKYmU0S0FXM0lyeXF2TkZmak9yQXRzQ2ZfSzZsZ2ZwdHlEcVdaQVN6QmdnZlY4enFIUDZ0bmFTUlhPS3g1N25aTlF1NHY4aVhaakpRYml3ZWtwZUdKSURHR2FTeVhicmhMYTl0SnNN0gHiAUFVX3lxTFBVT2hWeHVRNmhYMUhfdnNNQ1dZTGMtSUVvX1RocjdfcTRXZy1YWmxva29vVmlmUEhzM0lya1A1clA1aWZmWWpOSDlaRzR2dHBkclNudkptdm1pU2RmNHcxNzI0ZzBCRVVGT2JZSkljblZHWU5kQXNWMlFfbXlrS1gwTjk2LUZQbnZka2NqRjVGYTNLbTZUNTFnbDA4alBZQXl6b2ZzSjJGY2VPb2xiRWl6RmZXdnBjbkZKZjY2Z3dyTlZTOS1hZ0JVcG1DbXVqaXdnazJkZ3F4TFZNYXo2cUZZdEE?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Probe Finds Two Senior Executives Shared Confidential Information With Outsiders: Report",
+      "source": "News18",
+      "published_utc": "2026-10-21T10:36:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeVVvbjZES0hPN3RoNTIxNzV5ZHhOQTFERjZXdGhRdDF1R185UU5ONE9QaHVxM3NYcHdGSVZydllYVGdWbDFYQzZPTjhsbXZJOVNnMEZWdUZyTGxPQmhGQzMwY2FSRXlGQ0VLTEo0N3NvMG5UWE9NQVIwTURpbHVtc0FRN0pPUmRvTmctUWxYb3lvVlhCY20yYnRGaEZnYmRNZDU3ZTF3eFlWdVBDWjJoaE93dFAwandsUFJ3Y29wRFBydjRGR0pWX1RyRTZGeEMwelZOeFRDSVBaQlk2dnlhWXozZW9LeHQyQmRoWkJIeF_SAfYBQVVfeXFMT19qckl2NV9NNVExb2gtNjlLM3R0MkxVb0tRUkhwZzMzVENWV0xSQmFOVUdYWTNjRnRrdmE5d3hTejYycGZUMGk5bGE5dVNWMU9IVFZ6TmdRc0VpTnpXbHFHYTQxeEN4b2tod251REpZSXdnV3hNT3F0Y0JfZ3MzdUpCR085elJ2SzVNRFNMNVVtYU9FQXpQLXg2TUFOZXR5c2FkUjBESDV6MHRmOHpuUFZsVG1WWER2UEFGMVYyUHJkVjBqellxU0stTFBwaVRoVzk2dUk1WHluWTEtM1AxLXUwNzZrWXFmRFZxamo0dnZBTWxrMHhB?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank probe reveals 2 high-ranking executives shared confidential information to external parties: Sources",
+      "source": "The Tribune",
+      "published_utc": "2026-10-21T10:32:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMFFlVndKQnYwY1lGNEgyZmdhM05ZREVWWWE0ZXFTSTJ2NzdTX0dUbk9MN203Vm1kWlhHNVdaWTU5bm41ekNqdWVOVUdjX3RkYjJUbTZ1TzFKOWdBVUtHbXdsNGYwQkNvcGlwdDM4aUVMU2w5UDhfZms1WElkVFlGWE1qWHJ1VlA4UFZuNlYwUTVaamc0MHZyM3JUcVZINERmdFRTaFRuSGhxNV9aZ0NBVUh4WUlNMnpTRURjaXc0dU9ZNlZObzNKaFhIV2JiQWxKckx2MVN3aVgxd2VnY3BHZkZTcmlWd2g0a1FpSUJKTUVmYWRQT3o1SHNhNXQzdFdORVhrMtIBhAJBVV95cUxPMFFlVndKQnYwY1lGNEgyZmdhM05ZREVWWWE0ZXFTSTJ2NzdTX0dUbk9MN203Vm1kWlhHNVdaWTU5bm41ekNqdWVOVUdjX3RkYjJUbTZ1TzFKOWdBVUtHbXdsNGYwQkNvcGlwdDM4aUVMU2w5UDhfZms1WElkVFlGWE1qWHJ1VlA4UFZuNlYwUTVaamc0MHZyM3JUcVZINERmdFRTaFRuSGhxNV9aZ0NBVUh4WUlNMnpTRURjaXc0dU9ZNlZObzNKaFhIV2JiQWxKckx2MVN3aVgxd2VnY3BHZkZTcmlWd2g0a1FpSUJKTUVmYWRQT3o1SHNhNXQzdFdORVhrMg?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "2 senior HDFC officials leaked confidential data, bank's internal probe shows | Business News",
+      "source": "Hindustan Times",
+      "published_utc": "2026-10-21T10:30:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQk9YeUJCQ0FZYnotdlBGYnA0OGdzVW5rTlNHeU1fUEI3NEVheHZ6OUU0Z09kV2dsZmFFZ2FGd0NtT3AzS3g3MGktVkd0MURhanhTUE9iem5qMUFERnNjQ1pHd3pVc1lwUnowWlJmZDBEeUo0YVVsQWtFazVUWkVwZWlfMi1SWGh1VlJjLXMwZ05TX3NhWXRHM1FZZFVnS044TWlidlBFMXJfVXVJZXp1akszYXFGRVFCSkdvaU84TEtqYW5ZNTZ0Tmc5SlpYTGxRSEZ3WTUxSdIB1wFBVV95cUxQQk9YeUJCQ0FZYnotdlBGYnA0OGdzVW5rTlNHeU1fUEI3NEVheHZ6OUU0Z09kV2dsZmFFZ2FGd0NtT3AzS3g3MGktVkd0MURhanhTUE9iem5qMUFERnNjQ1pHd3pVc1lwUnowWlJmZDBEeUo0YVVsQWtFazVUWkVwZWlfMi1SWGh1VlJjLXMwZ05TX3NhWXRHM1FZZFVnS044TWlidlBFMXJfVXVJZXp1akszYXFGRVFCSkdvaU84TEtqYW5ZNTZ0Tmc5SlpYTGxRSEZ3WTUxSQ?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank falls Wednesday, underperforms market",
+      "source": "MarketWatch",
+      "published_utc": "2026-10-21T10:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzB5dlBsc3VfVExHQ09ZWnpOY09UU0wzc3hlRG9OTnB3bjllcjdLMVhfUjZjSkZqbEFNMC1zZXVYTHVmdnJIbXc4elVyWFhhZVMwMFdObWVkRmpBbGp6Q3F0TjNTaENhbEZLZW8wM3hvUzd2RDFvMGVOeHhOTXppUmRUTVZYY2VaekYyMVVsU0w0S2VDZTFxWTNyelF3X1hOM1EzQlpZWkJlOE9GSERmbk00bjBzV3g3M0wzN0psUDF6UQ?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Q2 FY27 in Focus as Market Weighs Whether the Worst Is Behind",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-21T10:12:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObUZybU9PbW56V19mb0RMT21aZllfSDlIYWR0SVk0M2xKQjZwSzJRQk1hcHFKd01jMl9qRF9WM2xoODJjWTVQdEcxcUNmT1dXcmR5azdWTlpGdVZrUGpzUVl5Z0ZZR3VvaC0wTDlzd2V2SnROU3VGWFItTlVrTzlFd09PN0kzbUptM3NMSkxvbThxT2lsaWN6U2UycFNBYTF4N04wMVZlOUpLS3kxSERHM1I3OTROcU1hVGpJalJfcUI?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares fall 29% in 2026, down 5.39% in a month | Its loan growth picked up to 16.4% Q2FY27 | Inshorts",
+      "source": "Inshorts",
+      "published_utc": "2026-10-21T10:05:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ2R0LV91VWdOMWMzMFQzTkt4RkMwa0VBODJYQmF2TVowNDM0RVRiQ3Yzdy1KQ3FoV09HbmNEVUpQanBGbmlFdWN3SE5fOHpqdHF1cmJLTGYyU0ZVbEdmQVJ3M01GMUY2RXZKOUhNaFdlS2Z0UDF6Nlg1REJIRVhvNzhuaEZPLW1XVnc1UFl4NGJHaF91QTgtWVZWcWNLMmVXMkdxc0lR0gGmAUFVX3lxTE9DZHQtX3VVZ04xYzMwVDNOS3hGQzBrRUE4MlhCYXZNWjA0MzRFVGJDdjN3LUpDcWhXT0duY0RVSlBqcEZuaUV1Y3dITl84emp0cXVyYktMZjJTRlVsR2ZBUnczTUYxRjZFdko5SE1oV2VLZnRQMXo2WDVEQkhFWG83OG5oRk8tbVdWdzVQWXg0YkdoX3VBOC1ZVlZxY0syZVcyR3FzSVE?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank says internal review underway after report on alleged information leak",
+      "source": "CNBC TV18",
+      "published_utc": "2026-10-21T09:57:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTXBnbHhFYWZhSWxwbHVNMjBsVDBkYmJIcjhtNGJLUFM3Y1AtalA0c2ZCRG1lanhDcDBNSy1ERnB5dUdPajlZdWtWQUVqUGpJUi1qRFNzaHhJeWpDalVHLUlKUk91ZHV4ZnRBTnh3MFNpS1NPWHkxTDh6TExadkdfR0VIaXdfVHo0cHB1V2JVZ05VRUJMRVRYQU9ubGRWc00tM1NpbnJmeGZtOXJhRXhERUhPNnRaczhTbWVEcmpWRFV6d9IBwgFBVV95cUxPTXBnbHhFYWZhSWxwbHVNMjBsVDBkYmJIcjhtNGJLUFM3Y1AtalA0c2ZCRG1lanhDcDBNSy1ERnB5dUdPajlZdWtWQUVqUGpJUi1qRFNzaHhJeWpDalVHLUlKUk91ZHV4ZnRBTnh3MFNpS1NPWHkxTDh6TExadkdfR0VIaXdfVHo0cHB1V2JVZ05VRUJMRVRYQU9ubGRWc00tM1NpbnJmeGZtOXJhRXhERUhPNnRaczhTbWVEcmpWRFV6dw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "1,918,221 HDFC Bank Limited $HDB Shares Bought by Robeco Institutional Asset Management B.V.",
+      "source": "MarketBeat",
+      "published_utc": "2026-10-21T09:47:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZi1RQndXUnVldzlRYnVvQ2ltRzUyZ1VmQTlkZ0QxTlJNT0Z6YzZqdzlab2pxUmdQS3lOU2ZwV2I4MUVOSmZqMEJIRGlxTWgzcXhmbmptV0hqbGxtZi1WRXMtXy04ckhGU25Mb3FuZWJwcUhWaEI5eEFBRW5MOGlBNjBiVUJQOGZxNVNYRDdObTdSNTdqc3FsLVJpMTkzakhlbUFFTzBpeFRiaDVVLUZKSGdUWG1TQ2c2TVdzOGRqRXVvSmxsdDAzdGZMeFF6WGVmZjlRRzZXWDM4cHVlZU1BdE1B?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Half Yearly Results, Half yearly Earnings for Gyscoal Alloys",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-21T09:38:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNEhnQ0lzMWhpSXBNTmVmTXVpWkdqNXBZVWNTRk82eC1fM1U2dGgzNmR3SlRfWFoyNTJQUVVaZHhjVVpieFVvdk13SVJaamJsX0hRMms0aTJSeDcxZ3FnOWd2RV8wWGVnekY2MGJHZlFwYWhuTV9tZ2x4bWtCREMweGlGcjJwS296MkRCajBqVWQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank stock falls over 2 per cent post Q2FY27 earnings announcement",
+      "source": "Mid-Day",
+      "published_utc": "2026-10-21T09:31:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVTFvbkd2djJCUFdHZ29IcDY5UDJYbXJTN1hkY2lMN2lqTHJxVzZVdmxtLTl3anhrdmU5SHFFR1dINHZNaEVhQ3YwNDRsdmQ3S0sycTBUVjIxa0kyZU5Oa1hQaGJpVkR0QjcybE1xNWlYeXE3ZHlfRUNwTnZKQkR4YnZkbzJxemhNUFZoc2xGZG4tdDJ2YWpwTG96WXBQdFBJbXhvU2dYd1JoRVZ2emUzLS1ZTmE5a09JNXc?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank\u2019s Leak Probe Flags Two Senior Executives",
+      "source": "Finimize",
+      "published_utc": "2026-10-21T09:31:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0ZQMzRwZG8yMXlYYm5fTXkzNllLMUp6WURXeGcwdTFQZEFEUlhjZThxUHhOQy0tWkRCeGxXSWpaTW01NlY4N3M2dW8tQjhLa2xJR2VmMGNMWGRGOWFtaVJjX0JHMDR2aVBVVEoxSkhzUzhwVm1RRjJMdjRRMkN2SlVXWFA?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank probe finds executives leaked confidential information: Report",
+      "source": "The Times of India",
+      "published_utc": "2026-10-21T09:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSWM2YnB4Y1dZaE02TDRqaXI1UmlDVEJxTDBQWXU1RTNtZVQxejdJZ2Nxa1pLUU1UdzJzRDV0V0l6ZjRQMWJidGNxVmxseUtFOHhuc2paWFBucTd5d3NtMFBVdjlvMWM4eng4WTk3b2JRaXh6eHoxTzd1UGVVczlCUkluQzBielNxd3d0QXhRQjVpbXpzWUF6V3V2Q3poVUtxSnVfQW9hLW1VQi1ta1J0QzVxSmt3YS1Fem1nSVRhdlA2UHk5VV9EZGhjOWljazkyc3ROVS1fOGxCTUJyYlRnZmJpODZraU1XQkVZUXB30gHzAUFVX3lxTE5RN1kzNTNSSlFNc0lCclpvUmhrUTdYQ2lyTUctald1YjBXNVNFREV5dlhKZHFmaWk1c015c2ZEUjU2STdnN0RHRHRPY21FVXZLYmVsSm5SUHNHQnRoVjdxb2xBTGc3eDJrVVNMMVJOTUlOMXhQS1V1eG1nQXk2dUNidG1LSEpIYXo5eHlKbC1xUW9Pd19OTzBkRjRFUnpHS2pBcUROYkFEREJ5QkdMUWJ1VEpHYURORUZPZzFkS1E0Wmt5MTdTVnJlem16VW14MlNjcDdXTkVDMUVqa0xVZjdHd1hOYVRibXMyNEc4YUw3VkJHMA?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Says Probe Into Confidential Information Leak Is Underway",
+      "source": "NDTV Profit",
+      "published_utc": "2026-10-21T09:18:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1lNb05lRXJWUU9vaGhnMkhWOWo2bFZRT0I0YzhQOER5UjYtWjQ0R184X0g5WkVwMXduVTdQYkY1MEt4NnRYaVFYOENmTHVNTkpZeDRPUWdLbTNPX2QtY1NFcUxqdkNxblYyckR3Q19OSWhxeW1paUZuSXJ2Tnp1SnRjRXZsb0ZjMThaRGlmdmJ5RDJzR2JZNEtCb3VOczUzNXo0SG43TllkRzhZb1c3d2pn0gG6AUFVX3lxTFBpMWg3YmJZTkVjNWtWbVV5ODZ3a1d2RG1mNE0xQTFoLVI0eFoyVlFxdmZfdEhKOGR2LWxnQmJ3MV9fMkUxelBSRV84WmhRU19OMTZPZ3BQallJWU9fZjFBcGhWSGpRaUZLd1piVTlQc2JjYVJiNmROMTMzeGlBODVnUkMzU2JCMTJRNVJBMURRVnh2YTF3SVBlTGJGMXhYLU1iZUowYWJ0SS12TGNzV0pPQnlla3ppWTJndw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India's HDFC Bank probe finds executives leaked confidential information, Bloomberg News reports",
+      "source": "Reuters",
+      "published_utc": "2026-10-21T09:12:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTAwOTR1Z2FTcGtPLWtCZjdPMER5XzQ4cUo0UnF6WE45bW5iaFBwRmxvb1FldlJZUno2VmducGdDa0hHdHNXbXNfd0tBRzdpMGE1SGJDWTk3akJtYjFtd3hrWGZHXzQ1RzNvUk5teXNNekROTHhMekxlSEFDZ3lNTVpaLWZkN1NjT1JXUC1KYUJWZFBuTGxzUDB4UmdkZGlOazRTQkd2YkZLREhhMkljNkkwLVpubHlaTDBr?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jupiter Life Line Hospitals secures \u20b9500cr term loan from HDFC Bank",
+      "source": "Medical Buyer",
+      "published_utc": "2026-10-21T09:00:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZGVIR1pNdWI1VVp0Sm9SZGctUUMxcTFtMFlHaGhWb01FOS1NMHk0RjRrUklxUjYydlZvcGdCNE1fQjJhb280cjgwMUQzX0ozM1M2YXhxTm13MXFKaVE5UkxfWGlLQk5WVFoyTllmZm1wOVI2bVFEVHRrSFhIcXgtR0Ywb0RpQzFkemZid1RzbXBWQUxMU09kX2ZYRktnMGNzZTJvZ1d3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank probes senior executives over leak of business secrets: Report | HDFC Bank shares are down 29% this year | Inshorts",
+      "source": "Inshorts",
+      "published_utc": "2026-10-21T08:58:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2tqUWxQR3FUelFoSi1MUWlrTkk4WTYtaFl2dEFSTEtHaWd4S1BLd1JFUDRTTnhwUTFBMlZocmJTWE5JYWtLczh0cHJCZFdNTW00UUtMbWVJeHVybWl3X3NPYzJoUUlhT3paci1yWS1NQjMwQmZTQlc2WU54WXpDOUg4UGpyVWU5SWJWOTJZNkNlSm82VklJSUJIdEFmVWlmMUZQNUJqRWlIb3ZhbzVzc1c2SDNwYmVFRnhZ0gG7AUFVX3lxTE5na2pRbFBHcVR6UWhKLUxRaWtOSThZNi1oWXZ0QVJMS0dpZ3hLUEt3UkVQNFNOeHBRMUEyVmhyYlNYTklha0tzOHRwckJkV01NbTRRS0xtZUl4dXJtaXdfc09jMmhRSWFPelpyLXJZLU1CMzBCZlNCVzZZTnhZekM5SDhQanJVZTlJYlY5Mlk2Q2VKbzZWSUlJQkh0QWZVaWYxRlA1QmpFaUhvdmFvNXNzVzZIM3BiZUVGeFk?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Probe Finds Two Executives Leaked Secrets",
+      "source": "marketscreener.com",
+      "published_utc": "2026-10-21T08:54:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3RjOERHcmI0N2dQZzZCUTZYUlNpbmxTR3FlVi1RZVR4MmNCZ0xBNE9IeV9NZVVqTlozUHhoQWhVOEtaRjBaY09maXZzZDY2T20wOHhudDFjWHdWbGJ2TWx4NVJQQ0x3bmNjc0Jfak42dGxFZExKZ0syaTkzRTVqOU82WTlINXd0NE9mMmU5Q054NGFhbFNqbFZOMjJXNFZhVzh5dEJIZw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank probe finds that senior executives leaked secrets \u2014 Bloomberg",
+      "source": "The Edge Singapore",
+      "published_utc": "2026-10-21T08:52:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR0ZKcVZrWjFUTEN5MFh6M3RoV1Aza0xsTjdnSFY0QTItNk9YZHdSaE11VUZVQ3pPSUhTMlR6alJFZ1ZBRUEyaF9FTEpvcUF0anN5Y2RZaVJmUGpaY2ZqamJFcGZWNl9jQ1l0eVROUVZPTWVyMUpHYUdiWExxa0dQZkZjXzZMX0xzcndFU1lwUWhLaEVvbkZiUHN4WGEyZnFHV1ctZWl3WXY3bjJuVk92NzMtWTJpVzZJdk5DR2lhUGdmZk1Ha1RLZA?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank probe finds two senior executives leaked confidential information",
+      "source": "India Today",
+      "published_utc": "2026-10-21T08:43:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWi1PbVFWWmttU0tfcTRaX19zM2xuUnJ0bnNSU2JIX3hNdG9xc0lxeFZFTVRuNjZ3VnI1aC1idTBxaWw0UFNkeTEwU0t5VXZZUkZRcExLdllKR3N6TkhuNGdYaGg0cDI2bkNnZGxZSVo5N3BiaEc5SGJqOGRsZG43bEFlcnNzSU9UZ3pWc19pUDN5YWt1WlpUdExrSHFEeTZEYXBtN3I4YU40MFp3SUJBY2xlOXAzZFA4R3Biei1Ba0d5ZjhLYlHSAcsBQVVfeXFMT2M0UWZqS2pwTDRtSlU5M08tWlJqcGZ3bHI1UU5zWDFYbFd3M2Fqdjlua2paMzRXQUxJVlNzR09LcU4wX0NqelMyM1cxeEFZdVBjbUN4RjFRU2hLb3pSRW9vNU92NHJaZlNDbUpJMUhrNURXS0xudDNaVXlhM1dBc0d3SFF6XzlMNmN2WFJTRzd2d3YyaHd4MG9FbFJ6a3p2OGNxa3U2em9WQ3pBOVFqUTRUU1QzTTVlYkd3bmlEc3d1TlBPWXAwZjhreGc?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Cracks In The Citadel? HDFC Bank's Senior Executives Leaked Confidential Data, Reveals Probe",
+      "source": "NDTV",
+      "published_utc": "2026-10-21T08:35:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTjF5aGxkMlRxeTRxYmczaHFlZWotOVFFOF9odVpmVmpRcGtCLVgyR1FkMGpIcFRwcnpDU2VrRVVUSmJoZUY1OXRBOE1zSTM2WGRpMGVqMExWZWllODNqT2puN2VXemZBckFiUjh0c0cwUVoyNHBXSVJlcE5PS0w1R1lza3dWbEJOMEJpeWlqWktUN3VHUjBYcG1yNlVReW5pUElZbjNNUzVUendsUGd3UDBRcEFLQ2lOLVNXVGJNSjk5dC1sZ3drUHpyenhtUdIB1gFBVV95cUxNUUFtbm5Zb1drMWV5WjRMcGxLa3pQWmF1OVotdWhRU0lSeG1GT21aMTZ2eExWeUNKRHFHekcwbmllSzZ5dnRYYlRkckpfSXloaWg3Zk44SHFVTXJNYUVSOWoya3VSa1ZBQ3hZbFhRenIyUF9EVHVLcHZZUzFUdFNyNk5TeFk0a2g1M0tXNzJjZDBIdkJRWjVONEFzeXdmVXVxUzNGWXpEY1FEVnZWNUZDNUNvRXl5VldtQlhWNjd6dEFzNTZRTlI5VlBHejBMYzQySGlPXzh3?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Two HDFC Bank senior executives leaked confidential business information, finds probe",
+      "source": "Business Today",
+      "published_utc": "2026-10-21T08:34:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSlAydm5qRG5sTmF0VlRxeGpGNzJ4M0F0V2VnTGpwTjRKa1REbzNnek5VbnQ1ZkZnNDFoa005WGJxYkpuZE91amJQREZlZ3ZNc2RKQjk0N2pmUGwybmdPakxPRk5KTWJuLVhDb004X1JUdk9FbUVySV9uclJEZC04RUhnaXQ1eUJsQXAwT19iUDVFUFg0bng1SG1KZTNnQUhuMUJNLXdGQTR2R2kyd0FtVnpjRU5ROVh3NzlqcWdvZUg2RmJ0VTUwRVg2NUFWSkdEbS1PV1RmYVgwbXpLMjAtcUdYanA3c2xHSlHSAe8BQVVfeXFMTnBUbE1YNVJrb0U0WWhKeTdja1h2Y011dXlBWGMwSUdXWXExMm54QmdsT2dpa2dzLUxTd3ZFTWVpYVNscGMxRjZDdS1mUXlNaGY0dk9fMnQ5YzJJZm9jblRFc2tpXzU3b3R3dEtRVWNRaVg2V2dWcGlmZW9kY1dPQVZINXNTQzNUUjRYN1o1aWtLbTRNTnkwMkJuQ08zUVlSc0NaMjFCb3IzNGJ2MXpwTTVhZldpQ1dZZDA5ZUJMNkN0emtOQ0JQcTA0aDBmSnpCREpUNU1NNEZxaFptdVlpaWxFTUJpd3g5UFpuS29VcnM?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank share price: 29% down in 2026, Anand Rathi says \u2018Long road to catch-up\u2019 | Check stock target price, reasons",
+      "source": "Livemint",
+      "published_utc": "2026-10-21T08:30:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYzlfVmNlOFBBQ1Zyc0QtZWo3Q0lVMFZiZmx2QnpmeV9WZzhkWFNQUThrZFplbkxSR2oyaEdoNEFVcnVLN3UyaE1sWm5fSEZKYU5RT3p3OXgwSkdPT0VNamdGb0RwYzlDUG5jX1hEeUhjRUZPejRBTVhKdTM0XzdETnJKUlRETFEtWWZkZFZwRl9qODlNV2xFVjJLNHloUnJkUEpvSVYxajhhTnQ2RDhxdkR3UXc1QVMyREdoNkVKY2E0ZGtvR2YwQTVCbVQ0eWtjclUzTFlNRV9xcE05dTlnOHd5OFk5c3VPRDFTWDRvRW4zc1FMT2RMUmVqUEZqd0NYNlJWc3RPQnhMR03SAZACQVVfeXFMUFhfUENZYjFvek5Fem15Nkp0d0VoWElfRWpBMk50X2VzTnRlTHAyRE9KSmZhSTdyOHItbE15ZWVCaDZxOUc1WjFRQmc3SkI3Zm1MM1RQR091Rlpzdk9qSEFXLXU3VVNGU2Z4RWlBejUwc1RobFE4QXJHdkMxQ05VSzdYZUdxeVJXb2V0QkRsaGcydFlKUzFGR0xpRFhoNkxVY1J0X2RxaXRkZ2xlSC1CRHZLOU1XU2RxRXdvWkx1eGR3eTJDOGFOSkdFbDNIaWZNcTlOSm9BWThRNHRuLUdFNUFmVzVzOWNXTzFvNFQxVnRmMVdDU2J3eHRCVEh4Z0F3UTNqOWVqMlVIM1BDUGVnNVc?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank reports Q2 profit as HDFC Bank stock costs EUR 20.20",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-21T08:18:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOamg0ZHo3X1E1d004YUN2THgwMUtTN2dNUXFHaFdlRVNZWE5HVjNpYVZsVHRFNWRfTTlDVHhaVE9rMGxNNFZVMFM0OFpGS1RTemcxcGVtcHJPUWhQeVc1V2NjWWlSNUZRUUxDd1dsQndMcXdCQmwxVFlGOHFYNnA0MExMbl82ME9oYTVrcHRFNXliZXVQSXpNUzhmOUV0VktUTkhNY3p1NzYwSkdpQUQwZXZRNE1aZUJUVDhXLV9BbUZTbWs?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Probe Finds That Senior Executives Leaked Secrets - Bloomberg News",
+      "source": "TradingView",
+      "published_utc": "2026-10-21T08:05:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUnAwR3FfYl9uUWFfdEZnZTFzVk1DZjUwOUQzOGlPYi1wbkhlTlUwODl0dG5rOXdfbFRGTmlfdUVhbkJuVmpoZldhRnNrdm5sVnl3alQzX1JzeEw0NXVzYlBMNlpIVExhUDR4b05jazVXcFVCNERtbnFaWjhXVTJ1QzhIcjhxaWVmSk01OWphbVdSMHV0NGVsTVNQdU1sQlUyWlowREliTVNGZjM3RkNsWG9UZ2hCRXVNbnNIYUNmZDBwQjF6TWJZc3pJSVdvTFV0d1ZlaVpOTk1fQVlf?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Probes Claims Of Strategy Leaks By Executives",
+      "source": "Finimize",
+      "published_utc": "2026-10-21T07:57:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3ZrN1M3bFdMVFozbjNZRk1nUFNVWHd5NDN4WGNNVHpYX0JtamR4dEVGSTRzT1BEMWlEcDNqLVhzdlZUYldfTGNBclpjY2FvZnVFeXhBYlNBWkhtYkRWZlZKb1BWc2d3ai1PWlRGeWV4WC1RWHQtUTM1T3ZKdlFBNS1CUldLZjdrbENSRA?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Probe Finds That Senior Executives Leaked Secrets",
+      "source": "Bloomberg.com",
+      "published_utc": "2026-10-21T07:43:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzZsOTNnU2NITDFJU2JKay1zMFA3M2RTYVExWkhKeGtDaW93SXBSMU5sUVE5UjN1WTYzZkZaZEtrcmVyN0dOM185QmhLNUFhc2JqQ1h2Q2lob0RNMjU5aGVabnM2c3NaNzItSy1uZ05CU3J2dHlfcXdmd1k1OEp3eE83TXV4ZkFNZl9xWndrc3V2NzZhTmh4aTN1dnVfNkFuYXRQRkhJUmV2ZlRXQ2cw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares stock fall despite profit growth as street stays unimpressed",
+      "source": "BusinessLine",
+      "published_utc": "2026-10-21T06:48:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVUxZUHpBMHZxdkFiVzUwNXkyOF80a2lYdjJhckFxdXdTLU5mYmZnLWJMV2UzRmxkQ2d2d2wwNXRQVThtSGNDeE9tUlJJUUI2elFwQlFuU1JIQ2lNbVFydExKbEI5aFpMRDBUWTlHdXU5MGQ2enplczNvRjc5Q2g3UW5CYVEtMUozQTkyTnRpNUFxaWFiRG96a1pBb3Z3RUJLdFh0RExwdUp2bWpzbHkzQTRJVE56T3dkNmJ1M3Q3Q0NtYTRUSmVDbXR4WktCM19Vb0HSAdgBQVVfeXFMUFhDdHBhR19QR3NuOXdnXzhUYUh5UG02c3RwWUZzMDdxWVdFOWotRHZzU01Vdk1yWjA0V2tfUGVWZjJPZW9senhqblkzRjMxMTc1MmVEeTlvX01yMVo3QnBsNjBocUF6QXhXekJJNGxOdTlEWWluMXVSUDdUeGEyZnR2ZUktV1FQRnVaTDdTSDlHV0lRRDFld3lINFZIeUcxNVZVclBhTWZkQmxwWXNvRDNLV3lZay13T3Jidzl6NDA3RDg4Vzk4YWx1RDVJSGZ3c2FFS2c0aTBy?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC to ramp up beyond home shores | Business Standard - newspaper",
+      "source": "Magzter",
+      "published_utc": "2026-10-21T06:33:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZldLRVBfS1ZOZFVxeC1IeWlLUTRWSDMtSjBkclNPQUpDejJLdVZ0VGpPNEZxWmZpSXR2MVhuVFFIUldPcHQ5Nk5HeG5mY09BOXFTejFDX0ppRWdSN1lJVzZrRTlxYmg4Wm5vcWd1QXI4NUFaaS1LbmNNQ0lvUDRnQ09XaEpDM19la200TGtwOGZtNW5weFpNXzln?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Stock recommendations for 21 October from MarketSmith India",
+      "source": "TradingView",
+      "published_utc": "2026-10-21T03:34:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR21fM1NGMURXVnoxc2ViV3l0ZDB6czVLbUxsQzBMUFJlTDBtaGxxSk82RE5IY0hHcmF1Vkk2QnYydTNsazhhRjVaQVc2azJoR3F2SUQ0VHJjR2RWemcxVk1FRU1JT0xFMVBydEdwX3FMOGNVTHlvcHlidTdEM0ZKWnZPbnlwYXdSa3J5VUtUSXhlU0N5UTFxRUhaZlZHRlZJOHNGWk52VHZyaENrQ1RkU3YzcFpqVE0?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today: Are banks like SBI, HDFC and ICICI closed on 21 October? Check city-wise list",
+      "source": "Livemint",
+      "published_utc": "2026-10-21T01:18:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQzByc2R4S1VxVk1jMXR2aHRuamZ6TVZnTHgxWmtBdjZrZXlHX21Xa0s4T3ZqMl9NYm1FTi1BeUUwRndIN3BTbUJaT290TEdVczAtdXpxTFFNTEJKZks3QWZsU29PWGp3cnhhYktjVmxUZk5XZ2tWU3k5cHkzaHJ2d1gzOV9BcmFzWHJUMGRJc2NfZmU3N0NVSGF6QVVaalZnMmNWRkpYb0JPekRCTnUxZ2ZJSnJOUmltQTlIQ3B3bXNySTVRV3FPVmx1cDZvdzQtazZvdXJlOWRkT0FoSm9BTTVna0PSAeoBQVVfeXFMTlJMVV9qeWNiZVhjQjd4LUsxZFpvTFBMbldidXhqN2E0VGtSd1llaXRCeEFhQzQxTlNpSjVLbFB4S19INTQ0d0lXMDlEOWY5eWFxRXJsM1B1WUh6RWpfWkpmR3NDOG9SM1p6b2ZWc21SMVMyR01Da3hYbHRHc3lvRzBNeUdQMVlQNHVRUFpPc1Z0ZG9hR0lOc3hjQm92Y3JZQUNrY1J0OHZEQVp4REE2dHd5OFpvNXBRWlNucEZ4THBUM3FnRW82NnppcGthVm9VaGZGaThoQUV6Y2dSWDV6cXBZQ1dNZ1F5aGRB?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank has green shoots beyond Q2",
+      "source": "Livemint",
+      "published_utc": "2026-10-21T00:30:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWEhybjAxWjc3Qy1YNUxpU1NzQVk2Ni1pV0hHRVhaeEhic3R0Zk5VTlB2M1VQNjFTX1UxYWxVRWI0ZDhYdm9ET1JEZW16VnBLYjFlN0trSlNiN01uNmRHb3l4RkdaZ1doRFlyR1lRaXlXSVd4VEVhbUs2eld2Sk82SmhTNmFIaGZINmJ3dzRpYjA3R01TaGNpQ3Jhek56cmhRRHp1VzhjONIBrAFBVV95cUxOOVFYN0hiYy1fUjl3U0otN3ZCa3VCdG16TDk3NmU1SVM2WUVia2t2cHJEZFZEQnBhVjBYeGh0UzEyTDlSSl9TdzRPeW54R0NuV0VuX09zM2pNanpvMGMwYkZua0VlVzM5UzFnNjIzcEpwR2VEYzhyckFhQndBVlh0U2ljVWNvdElNNi1XME95QV9zQ0ZndERaRVZ3YWxJOGJURURiX1NHQldYcUYx?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Probes Two Senior Executives Over Alleged Leak Of Confidential Information",
+      "source": "BW Businessworld",
+      "published_utc": "2026-10-20T22:30:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVU82eHUtR0k2Y1JuOHFFUzlWdldISEw2bFkwMzVNOERrVXJWdHRpVWhfZUZ2M21DcnVwX2VReDNBSjVjU1VjSWkxWE9lclpFRkJnVG03dUstdGpfR24tM0dKVE1vajlMRGxiS0NDYnJWTm9tNFl2OW12blN1M2dtSWx2WGY5Q0hTUF9wVXMtTGtiX01nMkxQUjJ3ekt6UVJmVWZKU2ZTa3I2RF9qcXlranZJaG5SU01ldGxyMjhEUDk4LVBsdUxB?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC to ramp up beyond home shores under incoming MD & CEO Anup Bagchi",
+      "source": "Business Standard",
+      "published_utc": "2026-10-20T17:47:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSnJiUjJCVVV0cmJLcE9qaWJNYWtKczczXzJyYnJWN3pEc28yRFBUZVhJVk1HalFYck05TjNCaFZPTG5LVEQzZDdzQ3Z6bloyaXRtV1Z2SE1Pc1AtLVVWZUhrczFjTHhZTHRNMXE2dnoyMmpEU2FVSDdYWjlpd2IwSWdvajh5ZFdTT3FabE03WVpEdEljVkxFdWloTXB2QlZILXRaWG4tSzBfWHZBVFJyYTlBQzBEVHFuT3lmSENzZ1BNMzBlZmx3VkVlcThZQ1M5M0ZtemlR0gHbAUFVX3lxTE9QM0RldDB6a2hsa0lZaVozMXJZclNrbVJJZFZNa1U4N2tiM3hxcUt6NXZGbjFZekcxVld5djBYbTJZTDFKMC00aGRwYjI4ME9CV285TEo4R2Y3UmhEbnFBbHREWjNlYlE1RHM3OHhmelNGUkZHaVVpVFE2aWFkM1o4eUhXYWs3LV9VMFFvaFpDcy1zYS1iczlGbHV1TWZydUNfQTY1bjg1Sl95cVNOTkdfd29zTE12Y0VEYUZUT0pzN1IzLWd1blE5NTRwSDFFOHV4LTNDTEVvM3E2MA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "7 Stocks To Buy For Long Term: Analysts recommend 6 largecap, 1 midcap scrips; ICICI Bank on the list",
+      "source": "Zee Business",
+      "published_utc": "2026-10-20T16:36:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQTB6REc5MHN3QXgyOVhPWE1uZEpQd3BFdXFjX2p2U3dudTRuVnQ3WWJHa09SanlSMlJCcGZaS3lFMUVNMXprVjNUX2N5MF9wcVJob1Y0UENBQmliODg3VFhNZnE0ZV91LWJjV2FCSGluTlViZHpQdzV2WXJNazNuZFdCUDE0YVZlVjdvV2xpaC1vLUd6VzN4Y3RLNEQtdzdvdEtLS3JQVDlzVjVnSlltemdZWE1fQTF1aFdwVGhUZkp0eFRvNVQ3dzAzY2xXaXVvd2tFdVJTSm9TX3RxMVRNWmluOGdZRTZIYmJHWVpXb05oMkFpSXc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank stock: Emkay reaffirms Buy rating for HDFC Bank stock",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-20T14:32:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzc2Nmk2c1pwS3E5ZDkwS0QyZ05OSjBfeDZydDBIMnJRZzBuX1huc1hlYlBMY211YWFvYVR1RERwa0c0aUVCX3VoRnN3V0o2V3lyUFF5R0s5Vjgta1FubUxjNk1aU25HRUh4VGNMdlhSRDdweTY4bEpCVjQzOFVyVUtIeDZ2aldtZXZGdVlZZ2JMN2hVbHhZZG93Z3hXLXNqS3Bnbk94cE9iNUdNRWxEdDlBVG45WFhfY3VZb1dZbm9pQlU?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Who is Lily Vadera? HDFC Bank reappoints former RBI executive director as Kaizad Bharucha seeks departure",
+      "source": "Livemint",
+      "published_utc": "2026-10-20T07:32:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbGF6RFpEQnZGTFBmRlBRT2pvVU0zR3NBWXl0ZDZQOThVemZHSHRoQkVhVGtQLWhpTWtmLWYxRWFNOGI0Si1NQnRsZmlWSzNmMkZqaEJhUGxKN0s3Q2NLbk41Z3FwRDFYaVh3aVFTQVZZWk81R1VsWXctdzd3amR4ZnFpUm9uamlzNXMyX2s4aEh4VFZqWklXRE5keDVkZ3JBNGI4NVJFcGNjSWpVbVRFRXNyME1hWnBtWGdMWEJoazVXd0NpUU03UVFMS24ycnRfTUIxeUpWNmFlZEwwTThmWHhjazRCSU12dnhzMlQxWVg2ZGRobV9QRmF30gH_AUFVX3lxTE1Ub3lQZDNUVjlnX3MyXzBmc1YwbkdCS1EzZFBVM041T0E5ZTU1MkdPWGQyekI4V0FhMHhRamtXOU1sVXh4eEo2c3ZyOVExUE9sOE5Demlob0xGNE9xOUNqbm1BRzFzVk9feW1BcW9UUFh4bDlvdmVyZmpoa1VuUW55VGtSZ3Q5Xzl4TWlNV3VuWlpWWjRhdktfaEMxckFjUnpNS0o0cU9BUW1kMUkzN09aRzJwVkdvaWhCRXhjczZFeU9iekJfN2stSXVoeDhSME1PX3dKcEFDZmE0SVRhOF9YMFhRbnkwYVpKU013WmhUbEwzazZXanZ0TmJtQWdsdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Top banking share to buy after Q2 results 2026? HDFC Bank vs Axis Bank vs ICICI Bank vs Yes Bank vs IDBI Bank - Details",
+      "source": "TradingView",
+      "published_utc": "2026-10-20T06:49:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSnJDYmV0UmoxZDZKVzVCYXdtUzltY0hDSVNpWjVHUldKV0w0S09fa0Y1SjU4U3JKdlNqS21BTURWRHM5ektDbW5PUkh0Q1l1b25JVVdjRFJrdTN1UVdGM0hzTWRPX1V4WFhoWFNGMFZYTjY4Uk5iOW9rLUtFNWlabERXcE5xNGpzMlMwV01tU0IyYlNBWUVNdGJqX2FzTEhsakx4ZkNVajlrR0VWWlRBOXNYSWZiUkE0R2pTYl9mYnZ6dThwek9FSzdBUHFQV09kNmhPeXJSQlBUOG9KSHNwc3pIcFoxSlVnVmpBMWFtekFSVWx3ZDFqQ1lJUGZFelBocmNn?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.688,
+    "strength": 1.0,
+    "material_count": 3,
+    "view": -0.688
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-21T12:13:14.181661+00:00"
+}

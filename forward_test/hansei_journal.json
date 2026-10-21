@@ -4748,5 +4748,271 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-21",
+    "ran_utc": "2026-10-21T12:13:30.674107+00:00",
+    "equity": 10020.41,
+    "benchmark_equity": 9978.66,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.496,
+        "target_exposure": 0.009,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.87, trusted 25%)",
+          "news against (-0.69, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.873,
+          "volatility": -0.009,
+          "momentum": -0.413,
+          "news": -0.688
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.235,
+        "target_exposure": 1.0,
+        "current_exposure": 0.691,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "news supportive (+0.70, trusted 25%)",
+          "trend supportive (+0.35, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.351,
+          "volatility": -0.078,
+          "momentum": -0.03,
+          "news": 0.697
+        },
+        "value": 1385.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.272,
+        "target_exposure": 1.0,
+        "current_exposure": 0.883,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 88%: no strong reason to change",
+          "trend supportive (+0.56, trusted 25%)",
+          "momentum supportive (+0.53, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.564,
+          "volatility": -0.0,
+          "momentum": 0.526,
+          "news": 0.0
+        },
+        "value": 1770.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.479,
+        "target_exposure": 0.042,
+        "current_exposure": 0.194,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 19%: no strong reason to change",
+          "trend against (-0.87, trusted 25%)",
+          "news against (-0.67, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.87,
+          "volatility": -0.0,
+          "momentum": -0.374,
+          "news": -0.672
+        },
+        "value": 388.83
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.475,
+        "target_exposure": 0.05,
+        "current_exposure": 0.261,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "trend against (-0.84, trusted 25%)",
+          "volatility against (-0.84, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.845,
+          "volatility": -0.84,
+          "momentum": -0.651,
+          "news": 0.436
+        },
+        "value": 524.0
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.688,
+          "strength": 1.0,
+          "material_count": 3,
+          "view": -0.688
+        },
+        "top": [
+          {
+            "title": "HDFC Bank governance woes grow: Probe finds 2 executives leaked confidential information",
+            "source": "The Indian Express",
+            "sentiment": -1.0,
+            "material": 0.85,
+            "published_utc": "2026-10-21T11:59:21+00:00",
+            "count": 18
+          },
+          {
+            "title": "HDFC Bank executives under heat for leaking market-sensitive info amid Anup Bagchi takeover",
+            "source": "The Week",
+            "sentiment": -1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-21T10:49:05+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Probes Claims Of Strategy Leaks By Executives",
+            "source": "Finimize",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-21T07:57:26+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.697,
+          "strength": 1.0,
+          "material_count": 13,
+          "view": 0.697
+        },
+        "top": [
+          {
+            "title": "ICICI Bank Q2 net profit rises 20.1% to INR 14,843 crore, asset quality improves",
+            "source": "Prop News Time",
+            "sentiment": 1.0,
+            "material": 1.0,
+            "published_utc": "2026-10-20T06:03:19+00:00",
+            "count": 2
+          },
+          {
+            "title": "ICICI Bank (NSE:ICICIBANK) Reports 20.1% Q2 FY27 Profit Growth: What Drove the Rs 14,843-Crore Result?",
+            "source": "Kalkine India",
+            "sentiment": 1.0,
+            "material": 1.0,
+            "published_utc": "2026-10-19T08:57:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "JPMorgan raises target for ICICI Bank stock after Q2 profit growth",
+            "source": "AD HOC NEWS",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-21T07:34:55+00:00",
+            "count": 3
+          },
+          {
+            "title": "Icici Bank Earnings Call Shows Robust Growth, Mild Strains",
+            "source": "The Globe and Mail",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-20T00:29:19+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.0,
+          "strength": 0.095,
+          "material_count": 0,
+          "view": 0.0
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": -0.672,
+          "strength": 1.0,
+          "material_count": 7,
+          "view": -0.672
+        },
+        "top": [
+          {
+            "title": "Indian Oil approves INR 24.49 billion pipeline: what it means for Indian Oil stock",
+            "source": "AD HOC NEWS",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-19T23:12:46+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil To Cut West Asian Oil Purchases In FY28 Amid Iran War Risks",
+            "source": "BW Businessworld",
+            "sentiment": -1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-21T11:30:05+00:00",
+            "count": 4
+          },
+          {
+            "title": "Indian Oil to Slash Crude Oil Purchases Under Term Deals with Middle East Producers",
+            "source": "www.marketscreener.com",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-21T10:47:30+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil Corp Holds Back Plan For A Trading JV With Vitol - Source",
+            "source": "TradingView",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-21T05:41:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.896,
+          "strength": 0.487,
+          "material_count": 2,
+          "view": 0.436
+        },
+        "top": [
+          {
+            "title": "ITC shareholders approve final dividend, reappoint Hemant Bhargava",
+            "source": "scanx.trade",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-18T22:18:37+00:00",
+            "count": 1
+          },
+          {
+            "title": "Mere Quoting of GST Provision Is Not a Valid Charge: GSTAT Quashes ITC Denial",
+            "source": "Juris Hour",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-10-20T13:34:55+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]

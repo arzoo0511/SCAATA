@@ -1,0 +1,364 @@
+{
+  "symbol": "IOC.NS",
+  "date": "2026-10-21",
+  "headlines": [
+    {
+      "title": "Indian Oil To Cut West Asian Oil Purchases In FY28 Amid Iran War Risks",
+      "source": "BW Businessworld",
+      "published_utc": "2026-10-21T11:30:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVml3MFF3YnV0NEdjck1vUWV4TzhCR3NEa09telI2T0ZTSElIZ1hOTHJKT0NaT1BhZjdsRWN4R3lqbjJRb29mVExsOTFzblp0UXdMT1ZxbnhudEVRME45ZHZsLXpJa2pxZDNVck5Zb3V6RXQzQnRud1Z6NVhaWGdFeGlDVFpJUTA0M3pES3V3SW1GM0dZa0Q5RkZBbUR5SDhfU20yLUpoNGd3VEF4cHNTNlh0Smc?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil to Slash Crude Oil Purchases Under Term Deals with Middle East Producers",
+      "source": "www.marketscreener.com",
+      "published_utc": "2026-10-21T10:47:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUjZqenFIck9aYjIwNk5vWXNtU0c3T0s5TlhkZjE1N0laV181MDN3bmhvTVZIeHVzdUxPR0JlbENfSlZZSFJUSWsxWENodUxDMzh1NHVPUldnSTZsMXNXVjlkeGNMZFEycW5oV3F0WHl4YkR1TDBRNVA0ZWR0N3RyMzdDeW9CNE5pZXh4YnJMSXF3RC0xS0FLZHI1RFNwOVpaSzlNWkZSS3dWRWI5WmRvN2tBNWdGekwxd21VWlNDWWFtamlRcFFGZnBjeC14SlI2NWc?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Why US Secretary of State Rubio is skipping New Delhi for an Indian oil refinery",
+      "source": "South China Morning Post",
+      "published_utc": "2026-10-21T10:30:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNHpVTUJhQml3cWVyUkxHUFlTLVVabUxoMWY2ZUFXYXJlNC1fQlhKREsySHFJTm1FNHBxb09reEk4N3JXRFhZQThwb3ctc0YxdUhMeWY3MWpiRWNUbW9YbUd6eTB1VVJpU3ktMDNxYWVrbWxrOFJ3T3Y2QmlZVWRrSnQ4NHlYOXdxcFY2ekg4ZmJsSl9wdnp2UWVJbVgxVVRDTXN4SmxjSGtKSl9aa0xoeE1yN2NXSEpINFBv0gG7AUFVX3lxTE9CclY3R2hfZllGdGUyYy1rcmhtYUgtdFVQMkRJU19JTklPVk9MWnpQTGJpMFJRNlhTV3RvRDdnblY3V1BuR2RXR0tYUUktU2I4TWxYY0lxLVo1QXBZN1JEa3FpWGpDQ1RqTmo1TDNMNENWS3hOR1JqQjBDblRiUGJYNy1TWktPa0o5YnkxRmVMUXpNZjdrMWJFRDVkOTNuNVdpaDJYdnZ6a252d25NRXB0c1ZuVkkzNVlWVlU?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil to trim West Asia oil imports under annual deals amid Iran war: Report",
+      "source": "CNBC TV18",
+      "published_utc": "2026-10-21T09:35:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUm1pNHVSenNEdTc5MXEwZzNWLXUtWlhjYzZGX1lyS3hUeER1b2tNcVRxWGpteGlkOXFxaVFZMk13c050eThMd3QwRjZWdE85REZIUk5WZjdwUjBSTWNzZlJQRG12MDFCb1c3NlFTN2VoaFpaZjJBcDMtMEhNZ2doMXFtZ1hIZVg0WTdjTDJrOWlWaV85WmRXUTBDZDFPT1FnTERaR1lxY1Z3SC1mQmYwVkhKMjJmY3c0NDJ4Sk5jZkVGREt2eWVpbzQwQ1ZHN293aHgwRlBTajjSAdgBQVVfeXFMTVJtaTR1UnpzRHU3OTFxMGczVi11LVpYY2M2Rl9Zckt4VHhEdW9rTXFUcVhqbXhpZDlxcWlRWTJNd3NOdHk4THd0MEY2VnRPOURGSFJOVmY3cFIwUk1jc2ZSUERtdjAxQm9XNzZRUzdlaGhaWmYyQXAzLTBITWdnaDFxbWdYSGVYNFk3Y0wyazlpVmlfOVpkV1EwQ2QxT09RZ0xEWkdZcWNWd0gtZkJmMFZISjIyZmN3NDQyeEpOY2ZFRkRLdnllaW80MENWRzdvd2h4MEZQU2o4?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil to Trim Term Deals With Gulf Producers For Next Year",
+      "source": "Bloomberg.com",
+      "published_utc": "2026-10-21T09:05:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmw1aWt0T2ZVaEN6Z0lfbWNJYlZPOEY2eXBzelpxUkhRc0xLdGlyZkxFQ3NwNnR2Mk12alJxSmxYNi0zaEhWNG90VlFTbmxMS2JqRk1aN3RGZXFkQnlxOWJUSFRtYnNqakpOcldKYnBONjh3ZHUtTDk5M0NoT0pyQ3ZUMms0X29aOVd5OERSTkdvUE5NbjdxSEJWQmR1b2hoeGd6WTZaTzBObmVLcWsyUFZJUVg?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil to trim West Asian oil imports under annual deals amid Iran war",
+      "source": "Business Standard",
+      "published_utc": "2026-10-21T08:57:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOangyZ1YyUTM0U1pTdE1zbzVlNUhYM2hPVVpuOTZtZmlNdjZjS3k4dGNaZ3p3V0EyYUxzUEh0UzdhWENkSkVUdHFaNUp3NFF5cy1kTGE4MkcxN0ItLUt6Uzd0YkJjaTVUaTRNbHJvYkNWaHBTN0ZfMlU2dl9PbjkxUlNHLWtZdWkzQng5ZUsxcGt5UjhNUFBacUt0UTNFbFZTbDVJNDZHMW4wX2pYb2tmZ1BXNVp1NFhJVGtaV2EzLVRSamMtSXg1Nk9GTloxZUlGNGtiWTl5OE4tZTF5TmfSAd4BQVVfeXFMTmp4MmdWMlEzNFNaU3RNc281ZTVIWDNoT1Vabjk2bWZpTXY2Y0t5OHRjWmd6d1dBMmFMc1BIdFM3YVhDZEpFVHRxWjVKdzRReXMtZExhODJHMTdCLS1LelM3dGJCY2k1VGk0TWxyb2JDVmhwUzdGXzJVNnZfT245MVJTRy1rWXVpM0J4OWVLMXBreVI4TVBQWnFLdFEzRWxWU2w1STQ2RzFuMF9qWG9rZmdQVzVadTRYSVRrWldhMy1UUmpjLUl4NTZPRk5aMWVJRjRrYlk5eThOLWUxeU5n?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil to trim Middle East oil imports under annual deals amid Iran war",
+      "source": "Reuters",
+      "published_utc": "2026-10-21T08:46:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXE3WlNvck1LNktoX2lmc1NPNVZaNkRJdnJidHRaRE1RcWxTSC1rYzgyS3J1RnlpeEMwTlh5YnRBMXNPLXJiYTJOR2o2RGF0eTlMQm9Wa24wMUJXX0VzaDVGc042V0JLcnJlTTJYdzVNLWtIbFVuQkN4cXFielNxdi1RUUNRcTY2Zlo3MXJEUEZQaE1DWnh0aTludkNSWlZfbjc2TXZPSVVQZUFpaW5SXzVFSU1WVzZ1TzVLNFFSYkNCZw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IndianOil announces Sabrat kar's departure after 38 years: Here's a look at his career, achievements and more",
+      "source": "Livemint",
+      "published_utc": "2026-10-21T08:07:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQei1xYUJVV1l6TUFhRlRTLTRnSmlXTVdPRGNISmFackdPaDZwNV9SdE94Z0J1Z3ZLWFZGblRyLWtOUVBZLUJLbC0xN1oxM2l0cEh5aksxOXEycDlpeWh5cW9zenB0N0NEQ3JqWnZkOGsxRmxLWDFpZmdmeHQ3X0xqVHdQMVpvbkp6T182clJQMkNNcndXUGUyWnpJbzZzUzc1eTRYN1BJMzd2M2RKNWcwbDhpWGhZa0FZS3JvRERNLUZtclEyM2ZXMWxiN2hNRXVKWTVacVJPc1Bqakc4Q0s2eUhVR2ZZZVFMTjBBQ1ZtR1hiai1ZZUNOSEc3Y9IBgAJBVV95cUxOU0hpSlplVDZaTm5KNXdMckdudjBHRGIwcXFaeXprRVBDekNCLW9iSXdndFhaZkxiLVQ1ZE0xOTNEMzBuQ2hJbGl3bC1rQlJ1VUtzaFIxWUNIeUUzdXotd2lLUDZrM1NlemtaeWhiekhoWV93MUVaZS02eHo4bHpRMDFENFFNVzBOR2J1cVFnY1JGR3RadE5zVnB4ODM4dlNFelNiRmZzQUhQUGN6ZTZad1U0aU5YaEJjQ1VkRkFCX3NvMWkwdERaT0NnMmhkVjBKcmRULW5ubEhEWElZSGNhVml0ZnE1SWtTajZ5dDBxTl9TMHBSRndjZDNoM2hKM1RM?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil may cut crude imports under term deals in 2027, pause LPG vessel purchase plan",
+      "source": "Business Upturn",
+      "published_utc": "2026-10-21T06:01:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdDBvWHY5RU1jQ2M1anRJeUZ0SmFDWXVaSWVOd0dWcllObkpCQndxVXlnaTA1WDhCa2JacE10YzZndXBEd09ZUTVlWVB6NFNMLUVjYUFxVG82NjJycmg1OXVJcGlhaFlWNjVKNF80MGJiUVV1SUJ6STd4bGhMaWJHVi1pZW5RZzBLTzRsTWxwZTBaUGpNQzV4TVpOY3d1UE50R3ZROUoyVy1nZlVsblVFeno5Y1VqZzRfTlhnX20tQ2g?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corp Holds Back Plan For A Trading JV With Vitol - Source",
+      "source": "TradingView",
+      "published_utc": "2026-10-21T05:41:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajRWMk5Ra0JTcnNtelJoWVY0VVl0VXdRdVhZNVBFdkhLYjFVMXNfQWFCUjExMlFWQjdXU1gwQWlpUXdvWEFBdU5mRkVUTFFYTkFLQXRNZVlrR3V2blB1d2xfMkxjaW1vR3pGT0s2MXVMb3RIdEdtWlVqaUdOUV9DSzd5Z0duMWdvNllqZU1vaDZLRW1KSl95c3g4S0l3OGJpQWs0dE5Vc1BtMll4OWJkMnlvdm02RS1mai16VDM1Sk9kcFg1VlEtVnBITlpKTWU0d2c?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Ullal: Two youths killed as pickup rams scooter in Boliyar; driver arrested for murder",
+      "source": "Mangalore Today",
+      "published_utc": "2026-10-21T04:52:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWFmYW13WjlmRGNoLS1sVUZlN21RYWpjVWpReXFKNnV1T1B5UHRUS1otMUNicFllVk1kNTd3QWl4bGR3ZkhhTlEwNEZOSlAwRGk4RU1NTGc3WVBPaWh6andyNW9Ic1BpSWd1ZnU5QkNVaHNKbHRLNG9jSG01VXlYZEZ4Z2tlYkk2UFJZSjl3SVZFVGdsMTJXZ1FUNGJ3YmtTSUlmeGNGYWV6LVUzb21pMkNzU2pmQnU2NGJRZ25mSnhRM2s?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "From Samosa oil to jet fuel: 7 Indian stocks set to benefit from SAF",
+      "source": "The Financial Express",
+      "published_utc": "2026-10-21T03:07:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajZtaFBzUE5GWXl5M2EwV2l5MHgtQlpBMXBsenZJRGlaZWlFOVR4M0ZPTmNyMm1MUDRuLW56SjdrVWFvTnNOYld1VmpiMFVWWWY4eGRqczFGb1NKU1loNjFMZUlRbU5kWVZzaUZKdGJIZnJKakk5eUJ0Y0k2TUtpc2s2bVZSSW5Mc21pT1F6YlJNMC1VSlFtZXZfNmhidEM0N0w4UXNYZUE5STloV013REluVHNaYmvSAb4BQVVfeXFMTUE1dHp4T1VyQTd5Q3lEMmpRa1VISnp4NGQ5YmY3bTlqRG1HcE15dk9hRFY2UkRIWDRQOWRuTGxibFQzT293M245Q1NnQVBldnYwaURONGhIazlZQU5kYTEwc1hyck9YeTNwdlViNlZwNDh0TjEyeFlPalRXLUdPZ2ZacVVqcWd5VUJ3c2pkRlA2QUxiUldNOTlrQnE2eHpmQnJFSWIxSlBNeXB5UWVqOWZjYkdLOUtwdmN0cFkzdw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "INDIA BONDS-Indian bonds poised to extend losses as oil prices spike yet again",
+      "source": "marketscreener.com",
+      "published_utc": "2026-10-21T02:42:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdG9QZUdJNHBtWElKYldCNnlOamt4aGtZVEdOZjhzcTM0eWhqaDYybFJmMUljaDNueGV6c284clhUeHNDdnMxbmplWFE4M3pnd1NVaFRtWDZBaENhUnNDQ2pBaHdzckdHNnBzV3pTSGtvamFpbjRFNEY3NTFFQ2xCc19iYjdtZHVXRjFucW00RGpNeXowYV8taS1PQXJYT0dHQlNFc05BQ3kxZ1J1dE1aeG5hMXI3WWRXYXI4V3psSVhNWEpIRVlpcm0tTQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ADNOC Sells at Least 30 Million Barrels Crude in Supply Boost, Sources Say",
+      "source": "EnergyNow.com",
+      "published_utc": "2026-10-20T22:08:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTF4c1NmRThSWE1YUjJ4ZnlYNHNxVm10emlOTnM2aGZWR04weEpyLW5YNmlfUmtPcFJManZuREdOdzZQMGQ1eHA4ZlZaU0NZYXo2c0ZBQnNVcFd4RGVoS2V0SlJ5RWpPeE1hdDZ1SG9mNEZpb2RxYXk2d3Vuc0R5LWFvQVRKdnM0Zi1FNExxSVlYNG9TSFNlSjBjVmtacWE0bzYyZDlFMA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder New Rules From August 1: Big Changes Likely In Indane Gas, HP Gas, Bharat Gas Next Month",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-20T17:11:41+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa1I4b3g1Tk5SUmZhV04wTFlEWk03QlpLV2paaWhWNEprQVNxV1NNMTkza0h1eFhoM2FxWllZWW5tMUNBMEFzTXdwTWxvT1Z4RHZucTMzOEZVYi1IWUFtU256OUFrUFhGbF9zQVZVVTRJcnB2dGNoTGNkaDN1THVJcnBfNUtkLVBsNl95SUxJcGZZVVZiRGFLMkxhZWs4YlllZzBGY1VtaUdfeV9Ia3h5UDhMN1psY3lzdi0xUk0zWUpNZ0pOWFN4cDlJTUlSRi1rXzBBUTJHZTFmZ19YLVBPNkR5ekJBVFRUWTFV?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diesel exports offer Indian refiners gains amid rising crude import bill",
+      "source": "Business Standard",
+      "published_utc": "2026-10-20T16:29:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcFgzelB2bEI5WU5JdGxKcjB0Z1JpMUZ6cy1RV2FJUFBKMFhQMjE2NnhTYmRzaGF3OFVQSWt6NUlJUzZxQi1qZ1F5U0dPZkVQakNGNHE5ZEFFZGxzUks4NFdsR19iRVUwU2xZTlVLQUtSQWFCeDhQNEdpM1lnNHlpUENwUzJNWE9TRjh5RDZXNXp6VGRQNDhtOUE4QVRaWkd5ODY4cVdZdDA3YWx4NGpkeFJwTktPZjZodWxZaS1qQmVvUWdxbmdVRDFOUjltazBCZm9rOTl3YUswcnPSAdsBQVVfeXFMUHBYM3pQdmxCOVlOSXRsSnIwdGdSaTFGenMtUVdhSVBQSjBYUDIxNjZ4U2Jkc2hhdzhVUElrejVJSVM2cUItamdReVNHT2ZFUGpDRjRxOWRBRWRsc1JLODRXbEdfYkVVMFNsWU5VS0FLUkFhQng4UDRHaTNZZzR5aVBDcFMyTVhPU0Y4eUQ2VzV6elRkUDQ4bTlBOEFUWlpHeTg2OHFXWXQwN2FseDRqZHhScE5LT2Y2aHVsWWktakJlb1FncW5nVUQxTlI5bWswQmZvazk5d2FLMHJz?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India\u2019s strategic oil reserves: The urgent need to add capacity",
+      "source": "The Financial Express",
+      "published_utc": "2026-10-20T13:59:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbEVKcm44OVVpRFlJOWo5RkNjdXJmam1qNFVwbkFGbWdjakk4b1RqaDFkX3owdnQtN3BwREVhYl93OEl3cVFOUVFLSW5PMjJKRlFGRDJyUE9PVTdVRXhwZE9Rek84OW56ckxQcHZyRS1tWWx6YnpUekFwd0p0RlRlS2pLemExdGpzaS1WLU5ZZXA0NFN4ZzBrMnIyRFptUHY0aWd0cjV3Mmh4akIzOGR2SnZ4cDdZTmZL0gG_AUFVX3lxTFA5dTU3cVkzMmRtR2FBM2h2dVZBTnBmZUtTem01U3Q5YThrUFdLaU40MXpjazY4aG9BeDJaaU9HQ3dPWVRFREVtS1RXbHdBWUdnaG45WEVUeFAwMmJrc1J2c25sNlJwaDBvcVVFc01LcllnTmRrOENtVEtHZXlTSU9zY1VydFJZWTd4RC11TDRFcnBaejFMekFtWU9DSjllMGhkbU8zUTRzOFN0Ul9TQXJiSlNJMkhoOVZxZkFsRG9J?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Rubio pushes for India to buy more U.S., Venezuelan oil",
+      "source": "The Hindu",
+      "published_utc": "2026-10-20T11:27:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVNxQ0o3X25iMTVvbnVGZWtQQXN6UzlWY0VLSmRMSlRZZk5Zekk3VnBzVF90d0lxQ0FOQl9QWllnQUJZbjZ0TU5EeFd0aWhpQnl5UERoTjRDNmdLWm1seGJoMzNscl83aDQwaERMLWN1T2h2Sl83UGZUWHI1dW9tRUc5TDdieFRyVWhwSWZzcllDSkhCNVBkc2hvQzl4T1pBWFhwYmJHdjZGZm96c3UydEUxUm55azTSAb4BQVVfeXFMTWZHSDRrOWRCMDl4NEUzTEw4ZDdKX0tjWmVlbTVwTEgwYnN2Q0p4MmlHeWE4M1BfXzl5ZmJTUjVES3U3dlJFNnBzeGxQd29IaG9jeXNJUjhkOTZfME5oWGxuVkNjNGhGTmlpQzN3YW5WdEp6UDJ6Snd6RmZ6UXpYcFFHUEJXWXd0d3JBM21GNXM3NERNaWVScTd3STJBbW5qMXVqcFV4U1ZyTEN6aGZiTGpEVk84S1dhWllUOU1Udw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India\u2019s Freight Costs Surge to $120",
+      "source": "India Business Trade",
+      "published_utc": "2026-10-20T07:05:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3VFc5R25tSTcteFpHVk9YdVlDY3VYbWQxbno4YU43VGdPZHRSTkctWUZBamZQR0VjNGFGN1FMeURoZjh2ZXN3YkMtZDhzek9uUUl4NlRiOWdHejl0NXNNSGY1VmhEWlJmb3ZhcGZxNmFIU2kyUUE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IndianOil Bids Farewell to Subrat Kar After 38-Year Distinguished Career",
+      "source": "PSU Connect",
+      "published_utc": "2026-10-20T06:06:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb2ljOHMybElMMm9MZzdXQl9NUVVHWFJtR0tTUWVueUFOM1J6Zld2bE9ONHFzcUJ3UmlKNHNtcXNacU9wbm1rOC1OeTRNOHkzSWRaYkg0R01VZjRzYThiYS1MdnZ1ZDJxaU9MMUU3bTZDamh2bVhKd0hjam9tLTd1XzBxcUU4X3ViVWJRVExaUlJOQllOZ0JlQUtVX3lhb29tT0JhTi1PNXRsS2M?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil approves INR 24.49 billion pipeline: what it means for Indian Oil stock",
+      "source": "AD HOC NEWS",
+      "published_utc": "2026-10-19T23:12:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQlR6cTVhc2Vzcm8tblRUVUhEcnFwTEFOck1rV0JsRnpYeS1oTUpOZTFuN0VpSTBmc1RkaV9pUXZnVndyT3JjRXh0Qlg1MDloT0VxTVNMZGx3Mzk0aE5rb2FicmJlTnVyVjVCNm5lVnAxaVVhUmZCMGtwQURvVlo0VGFZOWdfckhwX1dvbHN4R0hqLTZ3alJMMy1KaHFWS2FTTmFRbzVZdmJRTXlsTEJvbTRTMjlZTTJBMzE4Unc3Ulo0X0plNnVlNHoybG42V1pBZTZySzNyRQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "List of Oil & Gas Stocks in India (2026)",
+      "source": "INDmoney",
+      "published_utc": "2026-10-19T10:31:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81VFpQTnBGb1l4dTFnMTJSWHJGTXlBVmxFU0tQSzJHX3k2QzUwYXlQRUpZYmE5TXNsamd4QXFrOXlMVzBvYnk1Y0JCZkZoTnQyUlhsblRFR184SVU?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "United States exempts Indian oil imports from Russian sanctions citing imminent bilateral trade deal",
+      "source": "prameyanews.com",
+      "published_utc": "2026-10-19T09:13:41+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbnFuLUtPUXRxQmNzQ1pSdG5XVTBVaTJPT0tXUHRQRGVNdE9CZ2VLaEpTVlpBQTFDMGlzNHJ3dmpGRHh1UWctakNzbUVWMk0tZHVCT0RrbXlXaU90MzRyd2pLMkY5RGdhOE14ZTBCVEVFUmZBYmhsZDRBZmxjRFM5TWVETDc4SlZKX2w0NnpUbXFRLUFmYTJoVjVjT3FtT2R5anhUTTVVdWx0dWJwaVZNZGNfeUNPY1Fmc2VEUFdaaEJiREFscDdv?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Hormuz Tanker Traffic Falls; Oil-Supply Risk Rises",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-19T08:52:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUJTZnU0UFpielI3aGNyUkY5RkwxYktRRXZRM2dhVkNDN0M4TVJaRFhtR2d3LVBmTlNtcVc5cng4S0p3YkpYa01IdWpVakNGS1JVYjZzTjJkQjJxSnV2NmJRNDBpTGVVSnFzTkdjVzlrUDNQRmJ3R2owRXp5SmVzX1p1bFFZSS00NThXQkhBR2xpS0pLb09uZjhUNExMb2s1NmhJWkUyRXpybU1YOUJj?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Russia Oil Waiver Prospect Keeps OMCs in Focus",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-19T08:52:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHNfNFJkbjVUcjdEVklTZU1rRGlEbzdIWlVUWlZIUFBCVEl3X0ZJZDM4S25JU2o5THFYZWpKaWloeGxNTHZNaDhCcnU3NkYxcGhkMll5VFN3WVpzY0ZIMC1jRzdZckFuck1pSjJ5Rl9rYXhpel9VcFFlUWtJNFhfMkFsd1RoSG9tYnBfOW9tU3dtR1d2Q1puVlM3Qk1FZVAzSWZpSDRtSEZwZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Govt bars oil firms from buying sugarcane-based ethanol to keep sugar prices in check",
+      "source": "India Today",
+      "published_utc": "2026-10-19T08:26:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS3ZvTXRrUFlxNGw3M3FDRnJIYXhHX2dFSHk0QWRqTi13RFdyYURtTjJjZDBaZlIzQ19yQWI2NTZESWxZM1pwOFp3clVBNmRPSUpabm5tOGJZLXR4bXUxWUFucEhSODZjMGxPdnV2SC14RFRicWNrbzdFVGFzeEVHcWFxdTdnNlJDMUtGVDIyMkF5cUZJYjFEaW12eTZFdFJTQWM2WFhaZW02ZGtLNzJQckY4Ukt6RkVpYWwzQlFSUnBNbmRkZEhsbnhLeGZEalVDNEctaGhyWjQwVlRJODczOGtJUdIB4wFBVV95cUxOS3ZvTXRrUFlxNGw3M3FDRnJIYXhHX2dFSHk0QWRqTi13RFdyYURtTjJjZDBaZlIzQ19yQWI2NTZESWxZM1pwOFp3clVBNmRPSUpabm5tOGJZLXR4bXUxWUFucEhSODZjMGxPdnV2SC14RFRicWNrbzdFVGFzeEVHcWFxdTdnNlJDMUtGVDIyMkF5cUZJYjFEaW12eTZFdFJTQWM2WFhaZW02ZGtLNzJQckY4Ukt6RkVpYWwzQlFSUnBNbmRkZEhsbnhLeGZEalVDNEctaGhyWjQwVlRJODczOGtJUQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IOCL Executive Result 2026 Out, Download Scorecard & Branch-wise Cutoff Here",
+      "source": "Adda247",
+      "published_utc": "2026-10-19T07:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iNHQ0YVhUM205LXRUdVdLY24zdkNwSVZYaklGbEVxNEJ5dTlOY1N2VlJHRHZJVWpnYVhiMW9TdV9YUF80TldLOGVibDNIRlJwT2ZEVGQ4anpvV1kwbkczVWRxazJXV1N2Y3JqZDlGaEtpa0pUTG80?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil Falls on US Russia Sanctions Waiver: Impact on Indian Refiners",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-19T06:56:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZFZYeUV6NDhtckJhbDUwelJFTHM2SHNVc0NuckpEWjF3VEwzU1hLNHlzb281N0liTW5WakJmRXF2eWV0Qzg0azNpcXRZN2E2Vm9PRzVzSlpFT1ctNjlZbGlBTGZSa1RrVlpyeTNGay1hZ0R3NjhMWVZ2Z05Yak1jSXlZRXNRRGRiWVhwTWktS0loYWE0MGdBcUpmbUZSY3I4Z3U1OEhWZGFieVF6WTZ1Y25BWnUzUW10bWVsZ0dOSE5DaDhkSXc2R2hnZHFzc0luR0F6cg?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petrol and Diesel Prices Remain Stable on October 19 Across Major Indian Cities",
+      "source": "The CSR Journal",
+      "published_utc": "2026-10-19T01:47:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVlZaZHdpY3lzbml0ODhXMjdRLUtlZE5nRWlmN1lwblJjUVBTd29Td1p6c1RjNHNhYkJwek9zN1I2bzJMRmxGby0xZjlGU0t4eHF4alZSNkQtRFFoSTU3NE1HTUFiZHMybHhYdXdlOW93TllUNUs1LXBoSUxua1p5RXNqZ1R5aEZrRjB0Ql9yR0lYRko3R19fZG5aUk0xSnNJWUxJRGFORDI2MTE0OURTMmxJWEdiamtrNFkzajMzcktmdU5XMmE4aXpkakpjSU90UFRsT0gyRlZuWWNTQVcyMVF3OA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Refiners\u2019 Russian Crude Trade Exposes EU Sanctions Gap",
+      "source": "Urban Acres",
+      "published_utc": "2026-10-19T00:11:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUtzOHZKX2E0czdUdVZFR011Zl9XU3QxM1VwZ1NNemsyMFhQZ0xjdTN5a2hrOHpoX19tQTQ0WEJnb0JjN3FyUHg2X0JnYUxGbHRyYWJDR3NHdldiSFk0UnhreEhDMUJpa0MyZnRhNlE2cXZPQ21HWk5XRjNueUlMT1J2bWMyYzdfWjZJ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian refiners\u2019 fuel exports to West jump 43% to $1.2 billion in September",
+      "source": "MillenniumPost",
+      "published_utc": "2026-10-18T18:11:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGRYOTN1cHRMSm5MU05ZNWZabkpfV0VUMkE4c3ZWcmpkWTJfNlVUakV0UktQTlVnc0pGOEtPdy1UT3RPejlxNW9DYmR3UWlSMDJTVUh2YjFSRVo3MUwwLVJtUVNUUUV0S3F3WDk4T1ZJUllHUnc3SHVTcFlSXzlhZ3N4NGVEQVhKV2tHRVQyVVdQNGxRcFBTcF92bF9Qa3ZPcGdYYWw4NEFLajFCMkhBWko0bzIwTzk10gG-AUFVX3lxTE5pSGtyQUhUNmJrTFllWUlGY0c5MWlpaENsZm5Gc29ZY2ttTllSMEFscG5vVFBCR28xdE9LQnpqYkhXbnVKOGREMkYwZ21jV0MzcXV6TEdUTkVHaEItUUhtaWpSbDJCWlNScWxXU3M3VEYwa1lTcDVHMzRIM2RENUhSVkEybDlHQW9iMnBSVklBZU5WTkpuN3RDc2xnbDJfMHJCaGJkQjJPRm82cldtUlRJdkhfMGRsWjdhS2lsMVE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder Booking Rules: 5 Things To Know For Your 14.2Kg, 19KG, 5KG, 10KG LPG Booking In April 2026",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-18T17:11:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeC1qZ0FRMVpFS3pGcDhWSjRCNS1iY1lJV0hISkcwcmZQMDRja3NRS0hqMFJ0dEQ5Z2VEMGk0NkxwSGo2N3kzU0RRLVBQTUt4emNPaENFSDhLQlFadXAwUGstM3R2OHNWZTRxakNEdmI2OGtZb0I5WGx1MUVaZ2Z0M0d0WnhzdDdHZzg3ck9qUndadktRM25SeEZ2bWhqbWdwYnBYOHhLREZ3SDZvSW95bWw5OVQ2TVpqZzNVZGc5Mlk4Y0dwdkNfeUZkX09PZHhmNjEzNk91a3JQNEU?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "European nations relying on India; Big boost for Reliance Jamnagar refinery - INDIA - GENERAL",
+      "source": "Kerala Kaumudi",
+      "published_utc": "2026-10-18T15:20:41+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdktXTnVjZkpDWVgyUUI4eXNzYWpwOWNlZUxPWEo0VVJqMTZpbjlXLXNaN0RBVW1VYlpEMVRaRzJITV82UjlRQ2ZVZ1J1SWFvS1I0UEFFc0RxTHZFbWZfWnJfZDlYZUI4NFlvY2JURDZheERXLW9kdmFNM0ZwT0dSeXhJSVMtYXZqM2FOMg?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "3 Indian Logistics Stocks In Focus As Russia Oil Routes Shift",
+      "source": "Simply Wall Street",
+      "published_utc": "2026-10-18T14:14:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWE9pQXlpV0paMGRYRTlQOE5fVFl4WWdoa1EzdTRNU1FhbjB3cW1OT19oZC1vZmVsY05kd3hLOXliR2J0a1RqcVJNMVFWcXNGYkRVV04ydEl6Mm55N0Z2bjZNM2IydWhPanJWX3pfbUhwY253b3RrWkJMR05fajJ3S0lnamNIS3pUQUxST1VycUtwZjVkR2Zidmo4WHZRZlVRMS1ibmZucHBZTjVlWmQ4RktBVjBvUHgzNklrMzEyMlNGblNVcDZ2MzVQRXRtcjYyLXZMMHVlT1NPRDREN21Xd3JfRnpzUdIB6wFBVV95cUxPNmdwdDNqZkFaaHBJT0I2RFBlbEZPVkF3Z0ltaHZpRnkzWHJUZkpWQUZ5bDUyYXhqOUxIQTMzS1dsWmg2TFd4bmFoVFJzYklvczA0elZ3MHRsTmtsclR2ME91MzBvWC05eGZxbExZUXZnR2twTXhXLVR6cmtHQ2JrWUhzLUpQSFBEa3hEOURaTGIybjhkeDU3aFU2d2xZay1STU5CQVEyVk1yNGFWejV5VUFycl9BUUhQSHNUdHpJejJ5VXBrYTh1VWRibkthbzhQaFZEQTlhRmFDc1pIT2lRd3FMT2JwRkhfcWNz?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Russian Crude Imports Put Indian Refineries in Focus",
+      "source": "Urban Acres",
+      "published_utc": "2026-10-18T12:36:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2VudElmRXpxSHI4VEZ1b1k3ZkRONS1IU2ZNXzJWOUV2OEpaRDdNbEpUV1NKcDhpWUxEY3VfWFp5VjdlT05Hd21vTVFVNVBVYkFLWUJtWktielNOdV81eUJJM25XdE5qN25HTnYxNExwdGxxU1YtQ1o3VXpjdmd5TlJ2cDE2TUJVMU9GVUdHcDhqU1U?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.672,
+    "strength": 1.0,
+    "material_count": 7,
+    "view": -0.672
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-21T12:13:23.275414+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "symbol": "PETRONET.NS",
+  "date": "2026-10-21",
+  "headlines": [
+    {
+      "title": "Petronet LNG PETRONET Analyst Roadshow Hong Kong Nov 2026",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-21T09:39:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZE5JQU5UWFpHU0dwOGx4VnVIbm1VX1l1RzdwMEZZalZMQlVlVTlzQXJtZlgtMS1oUUdYcXY3T0RFSkwteVFjYkJkMGpkMTg1T0pNWFhEYWlmTUFhaFNwOVhwaTNPb1hlR1FVWl9lMXRRbG5ld3RiWDZLMUNfaHZpNUk3U096SEx6ekRPWW1TOHA2R2MwVWpJTDNycG9TaThtcUpwT0xlUl84NkVuU1FkSzN6NWlpMGx0T1EwNFRYZU9KU3BhYkdHQQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India\u2019s LNG imports drop in September",
+      "source": "LNG Prime",
+      "published_utc": "2026-10-20T02:21:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGVfMmh0SUk3SGlXaFROSHVuMVhHV0FHZm9ldkJ3RlVjclg0cTBXZXdOU0FFNFEwU1R5NURpcTFtc2Q5SGhjaWxET2V5ZEh5Wld4emc3OVpVb19tcS1WUHFHNG53MmtMemN1bmgtd0pzcEJrTHpMOGhtVGE5UFRGckk1WkxRQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Axiom Gas Engineering Ltd Share Price Today,, AXIOMGAS Share Price NSE, BSE",
+      "source": "Business Today",
+      "published_utc": "2026-10-19T07:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcGZTOEs4ZVczR0pOV05vb1lpN0ttY2hBdERiTWxQRE1fV29Xc0tBWHVKZ0FfQzdtRTVoNV8yNy1ncFpCSW9ZZWw5dkpILWY3UkhyWUtFOFktYTUxMWk3NG9YU2s0VlBPQnZRc3RVVlhYVFB2T0NOS2Z5cl9OWXl1Sk9lcnRic2tnYldmV2xKdWFhNDQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.0,
+    "strength": 0.095,
+    "material_count": 0,
+    "view": 0.0
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-21T12:13:20.421671+00:00"
+}
