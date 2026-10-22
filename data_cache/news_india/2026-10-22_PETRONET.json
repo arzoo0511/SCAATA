@@ -1,0 +1,54 @@
+{
+  "symbol": "PETRONET.NS",
+  "date": "2026-10-22",
+  "headlines": [
+    {
+      "title": "Rebalancing Markets and Resetting Supply Expectations | Thought Leadership | December 2026",
+      "source": "Baker Botts",
+      "published_utc": "2026-10-22T04:09:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbXRQWjd2MVBZaVNiOTdmYVNpVWltS3FlaTFEYW9rVjhYcEUzX0pVTlVEdUNZSXc4MmJnRGFnc0REVWhuemcwdkJybUZES1k5NlJNSTdUZ3VmZmtfYkRwbDFzWGJLM1JfWm9Qa05hWE12dEFVRVBWakVjaW9mNDVPMzU0bWhESXNXUTB3dDk0TFdlUE5nbGppSFA2RWxxUmxxQ2ZaeG4wMTgtVHNUMFR5RlJJNVNEcGFuMGgyWnplSHhnaEVO?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG to host UBS investor roadshow in Hong Kong on Nov 6",
+      "source": "scanx.trade",
+      "published_utc": "2026-10-21T10:16:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQS1yY1lEbjFuSEY3NmhBaUprMHZRRGxzZnZYbHo5VUFTTnNISEY0TUJKUDktX1J1WmlWSm4yY1FuQWtWdjNNNllfbmlJbzFBU2NLSDZ5VUN6b2RpU0F3c3FBcE9weU1ZdmpsMXZxb1NNR2hXYTBXbmNreWlNQkZzeFlZU2RsWTdGZ0pndVdiZ3g4MndiM0pWc3Ata3dLLUpmaURvMkxJSkpIQWJvUVI1ajNR?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG to participate in investor roadshow in Hong Kong",
+      "source": "Business Upturn",
+      "published_utc": "2026-10-21T10:00:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVGRKa1Nva2dLYlgxeWdJQmZZREJxS0NGTm5VTTNSdW1Tb3NJRkRQMlhxbTJNbWdnNnZHOVRwaUxfeW9ocTZCQXM2RVp3WU1RZUdqX25XUHQxanZoZnExTU93MktCRVdXN1ZaeEdRVUJsMWFiTzh0clljN0NtYlAwZjJ2UG14T05jeXZuOENVWnJTTUlSWThGRWlpTEUydjA?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG PETRONET Analyst Roadshow Hong Kong Nov 2026",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-21T09:39:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZE5JQU5UWFpHU0dwOGx4VnVIbm1VX1l1RzdwMEZZalZMQlVlVTlzQXJtZlgtMS1oUUdYcXY3T0RFSkwteVFjYkJkMGpkMTg1T0pNWFhEYWlmTUFhaFNwOVhwaTNPb1hlR1FVWl9lMXRRbG5ld3RiWDZLMUNfaHZpNUk3U096SEx6ekRPWW1TOHA2R2MwVWpJTDNycG9TaThtcUpwT0xlUl84NkVuU1FkSzN6NWlpMGx0T1EwNFRYZU9KU3BhYkdHQQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.5,
+    "strength": 0.127,
+    "material_count": 0,
+    "view": 0.064
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-22T12:16:19.131801+00:00"
+}

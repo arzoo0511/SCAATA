@@ -5014,5 +5014,279 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-22",
+    "ran_utc": "2026-10-22T12:16:26.191461+00:00",
+    "equity": 10004.97,
+    "benchmark_equity": 9945.15,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.453,
+        "target_exposure": 0.094,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.91, trusted 25%)",
+          "momentum against (-0.46, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.91,
+          "volatility": -0.079,
+          "momentum": -0.457,
+          "news": -0.366
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.053,
+        "target_exposure": 1.0,
+        "current_exposure": 0.699,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "trend supportive (+0.45, trusted 25%)",
+          "momentum against (-0.15, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.453,
+          "volatility": -0.085,
+          "momentum": -0.153,
+          "news": -0.005
+        },
+        "value": 1398.5
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.193,
+        "target_exposure": 1.0,
+        "current_exposure": 0.871,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 87%: no strong reason to change",
+          "trend supportive (+0.41, trusted 25%)",
+          "momentum supportive (+0.30, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.406,
+          "volatility": -0.0,
+          "momentum": 0.303,
+          "news": 0.064
+        },
+        "value": 1742.4
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.463,
+        "target_exposure": 0.075,
+        "current_exposure": 0.196,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 20%: no strong reason to change",
+          "trend against (-0.83, trusted 25%)",
+          "news against (-0.61, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.835,
+          "volatility": -0.0,
+          "momentum": -0.408,
+          "news": -0.608
+        },
+        "value": 392.94
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.512,
+        "target_exposure": 0.0,
+        "current_exposure": 0.259,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "trend against (-0.87, trusted 25%)",
+          "volatility against (-0.84, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.874,
+          "volatility": -0.843,
+          "momentum": -0.642,
+          "news": 0.311
+        },
+        "value": 517.8
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.366,
+          "strength": 1.0,
+          "material_count": 8,
+          "view": -0.366
+        },
+        "top": [
+          {
+            "title": "HDFC Bank reports Q2 profit growth as leadership change nears for HDFC Bank stock",
+            "source": "AD HOC NEWS",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-22T07:36:16+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Probes Alleged Confidential Information Leaks By Two Senior Executives",
+            "source": "BW People",
+            "sentiment": -1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-22T10:02:33+00:00",
+            "count": 15
+          },
+          {
+            "title": "HDFC Bank shares down 30% in 2026: FPI love for India\u2019s largest bank wanes; what\u2019s ahead?",
+            "source": "India IPO",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-22T10:33:36+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank shares near 52-week low as insider leak probe rattles investors",
+            "source": "BusinessLine",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-22T06:21:39+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.005,
+          "strength": 1.0,
+          "material_count": 7,
+          "view": -0.005
+        },
+        "top": [
+          {
+            "title": "Form 6-K ICICI BANK LTD For: Oct 19",
+            "source": "StreetInsider",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-10-22T10:10:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank Q2 FY27 Earnings Beat Driven by High Growth and Low Provisions",
+            "source": "Kalkine India",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-21T10:12:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "Q2 Earnings Review: ICICI Bank Leads, Eternal Shows Growth Momentum And UltraTech Outlook Improves",
+            "source": "Business Today",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-22T09:06:01+00:00",
+            "count": 1
+          },
+          {
+            "title": "Assam: ICICI Bank manager arrested after womans death in Guwahati apartment",
+            "source": "NE NOW",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-21T05:48:46+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.5,
+          "strength": 0.127,
+          "material_count": 0,
+          "view": 0.064
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": -0.608,
+          "strength": 1.0,
+          "material_count": 6,
+          "view": -0.608
+        },
+        "top": [
+          {
+            "title": "Indian Oil to Cut Middle East Crude Purchases Amid Iran War Impact on Annual Deals for FY28",
+            "source": "Observer Voice",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-22T06:01:11+00:00",
+            "count": 14
+          },
+          {
+            "title": "Indian Oil approves INR 24.49 billion pipeline: what it means for Indian Oil stock",
+            "source": "AD HOC NEWS",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-19T23:12:46+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil may cut crude imports under term deals in 2027, pause LPG vessel purchase plan",
+            "source": "Business Upturn",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-21T06:01:16+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil Corp Holds Back Plan For A Trading JV With Vitol - Source",
+            "source": "TradingView",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-21T05:41:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.603,
+          "strength": 0.516,
+          "material_count": 2,
+          "view": 0.311
+        },
+        "top": [
+          {
+            "title": "Mere Quoting of GST Provision Is Not a Valid Charge: GSTAT Quashes ITC Denial",
+            "source": "Juris Hour",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-20T13:34:55+00:00",
+            "count": 1
+          },
+          {
+            "title": "Cigarette Stock: Should ITC Ltd Split Its Business Into 1:2? What's Smoking In This FMCG Giant?",
+            "source": "Goodreturns",
+            "sentiment": 0.0,
+            "material": 0.5,
+            "published_utc": "2026-10-21T23:10:11+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]
