@@ -1,0 +1,299 @@
+[
+ {
+  "title": "ICICI Bank employee found murdered in ransacked home",
+  "source": "Nagpur Today",
+  "published_utc": "2013-10-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tajbag set to deck up with the Rs 130 crore beautification facelift",
+  "source": "Nagpur Today",
+  "published_utc": "2013-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI launches skills training centre in Jaipur",
+  "source": "India Today",
+  "published_utc": "2013-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI launches vocational training academy",
+  "source": "Livemint",
+  "published_utc": "2013-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian bond yields rise after RBI open market operation disappoints",
+  "source": "Livemint",
+  "published_utc": "2013-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Simply exquisite: Abu Jani-Sandeep Khosla's bridal creations",
+  "source": "Rediff",
+  "published_utc": "2013-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Arundhati Bhattacharya, SBI's new chief",
+  "source": "Livemint",
+  "published_utc": "2013-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank: Nachiket Mor: The return of the prodigy",
+  "source": "The Economic Times",
+  "published_utc": "2013-10-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All you need to know about Arundhati Bhattacharya, SBI's first woman chief",
+  "source": "Firstpost",
+  "published_utc": "2013-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prem Watsa: The man making a big bet on BlackBerry",
+  "source": "Business Today",
+  "published_utc": "2013-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex rises for 4th day, soars 256 points on Infy results",
+  "source": "Business Today",
+  "published_utc": "2013-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cyclone Phailin hits land near Gopalpur in Odisha",
+  "source": "Livemint",
+  "published_utc": "2013-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why are there so few women bankers?",
+  "source": "Livemint",
+  "published_utc": "2013-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to realty: Rakesh Jhunjhunwala buys half a building in Malabar Hill",
+  "source": "Firstpost",
+  "published_utc": "2013-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FIIs reduce stakes in banks in Jul-Sep quarter",
+  "source": "Rediff",
+  "published_utc": "2013-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anand Mahindra is Forbes India \"Entrepreneur for the Year 2013\"",
+  "source": "Forbes India",
+  "published_utc": "2013-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anand Mahindra is Forbes India's \"Entrepreneur for the Year 2013\"",
+  "source": "Firstpost",
+  "published_utc": "2013-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Mutual Fund\u2019s equity plans underperform, CIO still hopeful",
+  "source": "The Economic Times",
+  "published_utc": "2013-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai Film Festival Preview | Liar's Dice",
+  "source": "Livemint",
+  "published_utc": "2013-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Generating evidence in the private versus public school debate",
+  "source": "Livemint",
+  "published_utc": "2013-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Umesh Rao started Vector Projects, a venture now worth Rs 250 crore",
+  "source": "The Economic Times",
+  "published_utc": "2013-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar: Rewiring a Behemoth",
+  "source": "Forbes India",
+  "published_utc": "2013-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Siddharth Varadarajan quits The Hindu; family rift resurfaces",
+  "source": "Livemint",
+  "published_utc": "2013-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities partners with Japanese investment bank GCA Savvian",
+  "source": "Livemint",
+  "published_utc": "2013-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Thyrocare's Velumani: Owns no car, lives in a small quarter, but helms a Rs 1,320-crore company",
+  "source": "The Economic Times",
+  "published_utc": "2013-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Banks Head Out to the Country",
+  "source": "WSJ",
+  "published_utc": "2013-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank surprises on margins",
+  "source": "Livemint",
+  "published_utc": "2013-10-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Opening Banks in Rural India",
+  "source": "WSJ",
+  "published_utc": "2013-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi orders MPS Greenery accounts frozen",
+  "source": "Livemint",
+  "published_utc": "2013-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nagraj Manjule | Pigs can fly",
+  "source": "Livemint",
+  "published_utc": "2013-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Allcargo Logistics became a global player",
+  "source": "Livemint",
+  "published_utc": "2013-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex jumps 359 points after RBI policy, banks surge",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2013-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Germany's Rhenus Group buys 49% stake in Indian logistics firm",
+  "source": "Livemint",
+  "published_utc": "2013-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

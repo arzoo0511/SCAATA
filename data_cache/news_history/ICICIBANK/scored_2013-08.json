@@ -1,0 +1,353 @@
+[
+ {
+  "title": "ICICI Bank Q1 net up 25%, meets forecast",
+  "source": "Business Standard",
+  "published_utc": "2013-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No surprise in ICICI Bank numbers",
+  "source": "Livemint",
+  "published_utc": "2013-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Bank of India Q1 profit rises 9.5% to Rs 560 cr",
+  "source": "Business Standard",
+  "published_utc": "2013-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis, HDFC Bank join Yes Bank in raising deposit rates",
+  "source": "Livemint",
+  "published_utc": "2013-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Consultancy Services most popular organisation in India",
+  "source": "Consultancy.in",
+  "published_utc": "2013-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mamata Banerjee woos India Inc, says Bengal better for investment now",
+  "source": "India Today",
+  "published_utc": "2013-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Markets continue to trade flat, weak rupee weighs",
+  "source": "Business Standard",
+  "published_utc": "2013-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Markets end sharply lower amid weakening rupee",
+  "source": "Rediff",
+  "published_utc": "2013-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Barclays banks on corporate clients, partnerships in India",
+  "source": "Livemint",
+  "published_utc": "2013-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The dark side of social media",
+  "source": "Livemint",
+  "published_utc": "2013-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "On 9 August, it's \u2018Chennai Express' versus the rest",
+  "source": "Livemint",
+  "published_utc": "2013-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Faster in-flight Internet, even over oceans, to be a reality soon",
+  "source": "Livemint",
+  "published_utc": "2013-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ratnakar Bank to purchase some Indian assets of RBS",
+  "source": "Livemint",
+  "published_utc": "2013-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "North American oil boom eases Opec supply problems, says IEA",
+  "source": "Livemint",
+  "published_utc": "2013-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sells seven-storey residential property in Mumbai",
+  "source": "Livemint",
+  "published_utc": "2013-08-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BJP\u2019s Jaitunbi Ansari defeats BSP aspirant to become new Deputy Mayor of Nagpur",
+  "source": "Nagpur Today",
+  "published_utc": "2013-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lenders take possession of Kingfisher Airlines' headquarters",
+  "source": "Livemint",
+  "published_utc": "2013-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty crosses 5,700 led by banks & auto",
+  "source": "Business Standard",
+  "published_utc": "2013-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC to decide if candidates who withhold information will be barred",
+  "source": "Livemint",
+  "published_utc": "2013-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Onion crisis: govt puts curbs on exports, looks for import",
+  "source": "Livemint",
+  "published_utc": "2013-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Secured syndicated RCF closes at USD1.385 billion",
+  "source": "Trafigura",
+  "published_utc": "2013-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CIL unions to meet on 18 August; ask AICWF to withdraw strike notice",
+  "source": "Livemint",
+  "published_utc": "2013-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Review: American Express Lounge, Mumbai Airport, Terminal 1C",
+  "source": "Live From A Lounge",
+  "published_utc": "2013-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "More than half of India's rivers too polluted for drinking water",
+  "source": "Livemint",
+  "published_utc": "2013-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pay property tax at banks now",
+  "source": "The Hindu",
+  "published_utc": "2013-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian banks with highest NPAs, SBI tops",
+  "source": "Rediff",
+  "published_utc": "2013-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indiabulls MF launches new fund",
+  "source": "Business Standard",
+  "published_utc": "2013-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vodafone India launches mobile money transfer with ICICI Bank",
+  "source": "India Today",
+  "published_utc": "2013-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Markets snap 4-day losing streak; Nifty above 5,400",
+  "source": "Rediff",
+  "published_utc": "2013-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India may be removed from UN aviation watchdog blacklist",
+  "source": "Livemint",
+  "published_utc": "2013-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rohan Murty to be appointed as vice-president at Infosys",
+  "source": "Livemint",
+  "published_utc": "2013-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "China prosecutors demand heavy sentence for Bo Xilai",
+  "source": "Livemint",
+  "published_utc": "2013-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Even cricket is no longer cricket in modern India",
+  "source": "Livemint",
+  "published_utc": "2013-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "StarAgri: Building Storage Capacities, and Much More",
+  "source": "Forbes India",
+  "published_utc": "2013-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lounge Opinion: Why it's dangerous to de-humanize the men who rape",
+  "source": "Livemint",
+  "published_utc": "2013-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sell ICICI Bank, Union Bank of India: Sudarshan Sukhani",
+  "source": "Moneycontrol.com",
+  "published_utc": "2013-08-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New private banks upbeat on rural expansion",
+  "source": "Livemint",
+  "published_utc": "2013-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Video | At 13, she's a senior student at Lucknow University",
+  "source": "NDTV",
+  "published_utc": "2013-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Book Review | Locks, Mahabharata and Mathematics",
+  "source": "Livemint",
+  "published_utc": "2013-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

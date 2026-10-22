@@ -1,0 +1,20 @@
+[
+ {
+  "title": "India\u2019s crimes against women continue to surge as five women reported raped in 36 hours",
+  "source": "New York Daily News",
+  "published_utc": "2014-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Budget 2014: Cigarette makers urge government to not increase excise duty",
+  "source": "The Economic Times",
+  "published_utc": "2014-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

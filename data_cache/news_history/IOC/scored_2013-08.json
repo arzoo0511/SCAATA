@@ -1,0 +1,200 @@
+[
+ {
+  "title": "PetroMin seeks tax equalisation for LPG",
+  "source": "Business Standard",
+  "published_utc": "2013-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Venezuela delays may mar India's energy security efforts",
+  "source": "Livemint",
+  "published_utc": "2013-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s IOC to Start Work on Ennore LNG Terminal",
+  "source": "gCaptain",
+  "published_utc": "2013-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karnataka: No kerosene for APL families with LPG",
+  "source": "The New Indian Express",
+  "published_utc": "2013-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hutchings crowned Subroto Cup champs",
+  "source": "The Indian Express",
+  "published_utc": "2013-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Key Sectors for FDI in India: Telecoms, Power and Oil & Gas",
+  "source": "India Briefing",
+  "published_utc": "2013-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SAIL net drops as costs rise",
+  "source": "Business Standard",
+  "published_utc": "2013-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran Seizes Indian Oil Tanker Carrying Iraqi Crude",
+  "source": "Radio Free Europe/Radio Liberty",
+  "published_utc": "2013-08-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First unit of Paradip Refinery to be ready by December: IOC",
+  "source": "The Economic Times",
+  "published_utc": "2013-08-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to invest Rs 8,000 crore in Koyali refinery expansion",
+  "source": "The Hindu",
+  "published_utc": "2013-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aman Kachroo ragging: Accused of murder, medicos return to college as students",
+  "source": "India Today",
+  "published_utc": "2013-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crashing markets spell trouble for India's privatization plans",
+  "source": "Reuters",
+  "published_utc": "2013-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Live: Sensex closes 200 pts up, rupee recovers",
+  "source": "Firstpost",
+  "published_utc": "2013-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Major fire at HPCL refinery in Vizag; one killed, 35 injured",
+  "source": "The Economic Times",
+  "published_utc": "2013-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Medical Center raising Rs 200 cr for poor cancer patients",
+  "source": "The Economic Times",
+  "published_utc": "2013-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two weeks on, Indian ship MV Desh Shanti still under detention in Iran",
+  "source": "India Today",
+  "published_utc": "2013-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India central bank to sell dollars to oil companies to shore up rupee",
+  "source": "Reuters",
+  "published_utc": "2013-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian rupee rises most in 15 years,zooms 225 paise to 66.55 against US dollar",
+  "source": "The Indian Express",
+  "published_utc": "2013-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's rupee rebounds on central bank support",
+  "source": "RTE.ie",
+  "published_utc": "2013-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol gets COSTLIER by Rs 2.35; diesel 50 paise",
+  "source": "Rediff",
+  "published_utc": "2013-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A slippery hope amidst a lot of alarm",
+  "source": "Business Standard",
+  "published_utc": "2013-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price hiked by Rs 2.35 per litre, diesel by 50 paisa",
+  "source": "India Today",
+  "published_utc": "2013-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

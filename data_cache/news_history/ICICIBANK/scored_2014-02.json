@@ -1,0 +1,191 @@
+[
+ {
+  "title": "Any Inclusion Strategy Must be Granular, Comprehensive: Chanda Kochhar",
+  "source": "Forbes India",
+  "published_utc": "2014-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HCL enters the healthcare business",
+  "source": "Livemint",
+  "published_utc": "2014-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The 50 Most Powerful Women in Business: Global edition",
+  "source": "Fortune",
+  "published_utc": "2014-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sun TV Network: advertisement revenues disappoint",
+  "source": "Livemint",
+  "published_utc": "2014-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Debit card usage at merchant outlets less than 5 per cent",
+  "source": "Business Today",
+  "published_utc": "2014-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No immediate relief for Ratnagiri gas and power",
+  "source": "Business Standard",
+  "published_utc": "2014-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI plans money transfer via ATMs to non-account holders",
+  "source": "Livemint",
+  "published_utc": "2014-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hindalco profit drops 23% to `334 crore",
+  "source": "Livemint",
+  "published_utc": "2014-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No transaction at ICICI bank\u2019s Ramdaspeth branch; Customers facing inconvenience",
+  "source": "Nagpur Today",
+  "published_utc": "2014-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Revealed: The secret behind the Harley Street 750\u2019s Rs 410,000 price",
+  "source": "Autocar Professional",
+  "published_utc": "2014-02-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Harley-Davidson announces finance scheme for Street 750",
+  "source": "Team-BHP",
+  "published_utc": "2014-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Harley-Davidson finance offer for Street 750",
+  "source": "www.motownindia.com",
+  "published_utc": "2014-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC and ICICI banks offer new finance schemes for Harley-Davidson Street 750 in India",
+  "source": "www.overdrive.in",
+  "published_utc": "2014-02-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dabhol revival hinges on new govt at Centre",
+  "source": "Rediff",
+  "published_utc": "2014-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Thane consumer forum fines ICICI Bank",
+  "source": "DNA India",
+  "published_utc": "2014-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Harley-Davidson announces special finance scheme for the Street 750",
+  "source": "ZigWheels.com",
+  "published_utc": "2014-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Halla Bol | Of the people, by the people",
+  "source": "Livemint",
+  "published_utc": "2014-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI chief Arundhati Bhattacharya declares war on bad loans",
+  "source": "Livemint",
+  "published_utc": "2014-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A People Person Sunil Prabhune",
+  "source": "Business Today",
+  "published_utc": "2014-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "McCann appoints Pradyumna Chauhan, Prateek Bhardwaj as joint NCDs",
+  "source": "afaqs!",
+  "published_utc": "2014-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "McCann Worldgroup India announces key creative leadership",
+  "source": "Indian Television Dot Com",
+  "published_utc": "2014-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

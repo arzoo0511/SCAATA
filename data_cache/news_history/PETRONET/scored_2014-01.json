@@ -1,0 +1,20 @@
+[
+ {
+  "title": "IHI Awarded EPC of Two LNG Tanks in Dahej LNG Terminal, India | 2013FY | News Articles | IHI Corporation",
+  "source": "\u682a\u5f0f\u4f1a\u793eIHI",
+  "published_utc": "2014-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC looks to buy 26% stake in Indian Oil's Ennore LNG terminal",
+  "source": "Firstpost",
+  "published_utc": "2014-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

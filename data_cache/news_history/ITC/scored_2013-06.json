@@ -1,0 +1,20 @@
+[
+ {
+  "title": "ITC unveils Choupal Sagar expansion plan",
+  "source": "Business Standard",
+  "published_utc": "2013-06-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delectable Alphonso getting cheaper",
+  "source": "Business Standard",
+  "published_utc": "2013-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

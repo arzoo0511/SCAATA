@@ -1,0 +1,56 @@
+[
+ {
+  "title": "Gail India in a spot over Kochi \u2013 Mangalore pipeline project",
+  "source": "ProjectsMonitor",
+  "published_utc": "2013-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shell's power lady",
+  "source": "Fortune India",
+  "published_utc": "2013-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet in Kochi to lease out tanks to stay afloat",
+  "source": "The Hindu",
+  "published_utc": "2013-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Petronet receives RasGas LNG cargo | Gulf Times",
+  "source": "Gulf Times",
+  "published_utc": "2013-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shell to join GAIL's Kakinada LNG project with 30% stake",
+  "source": "Business Standard",
+  "published_utc": "2013-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochi port tests waters for harbour refinery",
+  "source": "The Hindu",
+  "published_utc": "2013-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

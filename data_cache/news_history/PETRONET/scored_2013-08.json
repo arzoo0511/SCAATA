@@ -1,0 +1,38 @@
+[
+ {
+  "title": "Petronet receives maiden cargo at Kochi port",
+  "source": "Business Standard",
+  "published_utc": "2013-08-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New Kochi, India, LNG Terminal: First Ship Awaiting Entry",
+  "source": "Marine Link",
+  "published_utc": "2013-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LNG project for State turns a reality",
+  "source": "The Hindu",
+  "published_utc": "2013-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Powerful ship berths at Puthuvype",
+  "source": "The New Indian Express",
+  "published_utc": "2013-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

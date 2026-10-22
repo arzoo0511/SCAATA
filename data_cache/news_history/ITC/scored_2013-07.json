@@ -1,0 +1,29 @@
+[
+ {
+  "title": "ITC raises price of Gold Flake brand by over 7%",
+  "source": "The Economic Times",
+  "published_utc": "2013-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IPAB says 'ayur' can't be a trademark",
+  "source": "Business Standard",
+  "published_utc": "2013-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex gains 143 points as consumer goods shares hit record highs",
+  "source": "Livemint",
+  "published_utc": "2013-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

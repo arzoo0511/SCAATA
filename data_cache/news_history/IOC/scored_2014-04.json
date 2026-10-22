@@ -1,0 +1,110 @@
+[
+ {
+  "title": "A double-decker delight!",
+  "source": "Construction World",
+  "published_utc": "2014-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New fiscal heralds 12-subsidised cylinder quota",
+  "source": "The Hindu",
+  "published_utc": "2014-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WT20: India train barefoot ahead of South Africa semis clash",
+  "source": "Mid-Day",
+  "published_utc": "2014-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BEST drivers bring city to sudden halt",
+  "source": "The Indian Express",
+  "published_utc": "2014-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC begins 5 kg LPG cylinders sale in kirana stores",
+  "source": "The Economic Times",
+  "published_utc": "2014-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Case of Gujarat: An extract from Khushwant Singh's \"The End of India\"",
+  "source": "The Caravan",
+  "published_utc": "2014-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Devendra Kumar Pathak takes over as BSF chief",
+  "source": "Indiablooms",
+  "published_utc": "2014-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Virat Kohli in Jodhpur for lady love Anushka Sharma",
+  "source": "The Indian Express",
+  "published_utc": "2014-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol Price Cut by 70 Paise a Litre",
+  "source": "The New Indian Express",
+  "published_utc": "2014-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court recognises transgenders as third gender in landmark judgement",
+  "source": "Scroll.in",
+  "published_utc": "2014-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rail link to Arunachal - After 27 years, Arunachal Pradesh now on India's railway map",
+  "source": "The Economic Times",
+  "published_utc": "2014-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The story of Manjunath picked me, says director Sandeep Varma",
+  "source": "Firstpost",
+  "published_utc": "2014-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

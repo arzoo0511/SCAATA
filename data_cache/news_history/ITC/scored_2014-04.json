@@ -1,0 +1,20 @@
+[
+ {
+  "title": "ITC sustainability award for India's million smoking deaths",
+  "source": "WhyQuit",
+  "published_utc": "2014-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC forays into e-commerce business with Wills Lifestyle, plans exclusive outlets for fashion sub-brands",
+  "source": "The Economic Times",
+  "published_utc": "2014-04-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

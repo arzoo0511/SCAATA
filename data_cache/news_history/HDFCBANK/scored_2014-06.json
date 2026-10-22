@@ -1,0 +1,326 @@
+[
+ {
+  "title": "Haryana raises award money for defence personnel",
+  "source": "BusinessLine",
+  "published_utc": "2014-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flight rescheduled after dog poops in aisle, twice",
+  "source": "Mid-Day",
+  "published_utc": "2014-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Using credit card to pay fees: easy but costly",
+  "source": "Livemint",
+  "published_utc": "2014-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha sees iron ore output steady despite mine closures",
+  "source": "Livemint",
+  "published_utc": "2014-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indiabulls co-founder Rajiv Rattan to buy house in Lutyens Delhi for Rs 220 crore",
+  "source": "The Economic Times",
+  "published_utc": "2014-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI CGM resigns over being superseded",
+  "source": "Business Standard",
+  "published_utc": "2014-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Officers Training Academy cadet dies during training",
+  "source": "India Today",
+  "published_utc": "2014-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We Will Grow as Long as the Economy Does: Aditya Puri, MD, HDFC Bank",
+  "source": "Forbes India",
+  "published_utc": "2014-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chat with the author who dared to expose the Sahara group!",
+  "source": "Rediff",
+  "published_utc": "2014-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri is India's highest-paid bank CEO",
+  "source": "Business Standard",
+  "published_utc": "2014-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JSW Steel's May Production Up 5.4%",
+  "source": "NDTV Profit",
+  "published_utc": "2014-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Neighbours first",
+  "source": "Livemint",
+  "published_utc": "2014-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Malaysian woman raped in Jaipur, one held",
+  "source": "Business Standard",
+  "published_utc": "2014-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FinMin puts amalgamation of regional rural banks on hold",
+  "source": "Business Standard",
+  "published_utc": "2014-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Single women face discrimination when applying for home loans",
+  "source": "The Economic Times",
+  "published_utc": "2014-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exports Speed Up In May, Trade Talks Planned With US",
+  "source": "NDTV Profit",
+  "published_utc": "2014-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI: ICICI Bank axes 1,200 of its staffers across board",
+  "source": "The Economic Times",
+  "published_utc": "2014-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Downsizing at ICICI Bank",
+  "source": "Banking Frontiers",
+  "published_utc": "2014-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Morgan Stanley said to plan giving up some Mumbai office space",
+  "source": "Livemint",
+  "published_utc": "2014-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Earnest Attempt Being Made for Implementing GST: Commerce Minister",
+  "source": "NDTV Profit",
+  "published_utc": "2014-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold Regains Rs 28,000 level on Firm Global Cues",
+  "source": "NDTV Profit",
+  "published_utc": "2014-06-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Suryoday Micro Finance raises `27 cr funding",
+  "source": "mint",
+  "published_utc": "2014-06-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Infosys elevates 12 leaders as executive vice-presidents",
+  "source": "Livemint",
+  "published_utc": "2014-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bipasha speaks out on 'Humshakals' promotions controversy",
+  "source": "Rediff",
+  "published_utc": "2014-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Film review | With You, Without You",
+  "source": "Livemint",
+  "published_utc": "2014-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The lost era: When Delhi dribbled and dodged | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2014-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anand Mahindra sells entire stake in Mahindra Ugine Steel",
+  "source": "Livemint",
+  "published_utc": "2014-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Instant mix: Gits gets 3rd generation on board",
+  "source": "The Times of India",
+  "published_utc": "2014-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hopeful of FIPB approval to increase foreign holding: Aditya Puri",
+  "source": "Livemint",
+  "published_utc": "2014-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DLF puts Pune IT park on the block, eyes Rs 300 cr from deal",
+  "source": "Business Standard",
+  "published_utc": "2014-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold Futures Extend Losses, Down 0.34% on Global Cues",
+  "source": "NDTV Profit",
+  "published_utc": "2014-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to expand branch network by 10 per cent in south India",
+  "source": "Indian Retailer",
+  "published_utc": "2014-06-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Let\u2019s get inspired: The life and awesomeness of a surfer-turned-billionaire, GoPro founder Nick Woodman",
+  "source": "The Times of India",
+  "published_utc": "2014-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Your cigarette now costs 44% more",
+  "source": "Business Standard",
+  "published_utc": "2014-06-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "reserve bank of india: BCSBI to put customer service ratings of banks in public domain",
+  "source": "The Economic Times",
+  "published_utc": "2014-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A case for reforms: was FYUP good or bad for Delhi University? | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2014-06-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

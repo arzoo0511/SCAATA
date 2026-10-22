@@ -1,0 +1,272 @@
+[
+ {
+  "title": "Haryana raises award money for defence personnel",
+  "source": "BusinessLine",
+  "published_utc": "2014-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Table: Investment savings accounts",
+  "source": "The Globe and Mail",
+  "published_utc": "2014-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Using credit card to pay fees: easy but costly",
+  "source": "Livemint",
+  "published_utc": "2014-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha sees iron ore output steady despite mine closures",
+  "source": "Livemint",
+  "published_utc": "2014-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Official ICICI Bank iMobile App Now Available On Windows Phone Store",
+  "source": "MSPoweruser",
+  "published_utc": "2014-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PE As Crucial As Commercial Banking: Renuka Ramnath, Multiples Alternate Asset Management",
+  "source": "Forbes India",
+  "published_utc": "2014-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Abolish the retrograde CESS on women employment",
+  "source": "MarketExpress",
+  "published_utc": "2014-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why companies hang on to bell curve-based performance appraisal system",
+  "source": "The Economic Times",
+  "published_utc": "2014-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri is India's highest-paid bank CEO",
+  "source": "Business Standard",
+  "published_utc": "2014-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Insider trading on L&T: Who is controversial hedge fund manager Barun Agarwal?",
+  "source": "Firstpost",
+  "published_utc": "2014-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is Barun Agarwal?",
+  "source": "Business Standard",
+  "published_utc": "2014-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Neighbours first",
+  "source": "Livemint",
+  "published_utc": "2014-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FinMin puts amalgamation of regional rural banks on hold",
+  "source": "Business Standard",
+  "published_utc": "2014-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Five best interest rates in Canada",
+  "source": "chatelaine.com",
+  "published_utc": "2014-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Single women face discrimination when applying for home loans",
+  "source": "The Economic Times",
+  "published_utc": "2014-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI: ICICI Bank axes 1,200 of its staffers across board",
+  "source": "The Economic Times",
+  "published_utc": "2014-06-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Downsizing at ICICI Bank",
+  "source": "Banking Frontiers",
+  "published_utc": "2014-06-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rupee sees biggest fall in 4-1/2 months on Iraq worries",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2014-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shikha Sharma | The liberal banker",
+  "source": "Livemint",
+  "published_utc": "2014-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Baburaj Pillai: An IIM-L alumnus & the recluse investor who draws big respect in India Inc",
+  "source": "The Economic Times",
+  "published_utc": "2014-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Infosys elevates 12 leaders as executive vice-presidents",
+  "source": "Livemint",
+  "published_utc": "2014-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UP becomes 3rd state to abolish affidavit regime",
+  "source": "Elets eGov",
+  "published_utc": "2014-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BlackRock fund benefits most from Modi rise",
+  "source": "Livemint",
+  "published_utc": "2014-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Film review | With You, Without You",
+  "source": "Livemint",
+  "published_utc": "2014-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deal4loans has helped over 49 lakh customers get best deals for their loans",
+  "source": "YourStory.com",
+  "published_utc": "2014-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anand Mahindra sells entire stake in Mahindra Ugine Steel",
+  "source": "Livemint",
+  "published_utc": "2014-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches co-branded card with Delhi Metro",
+  "source": "Business Standard",
+  "published_utc": "2014-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prime Focus World merges Hollywood VFX business with Europe's Double Negative",
+  "source": "Business Standard",
+  "published_utc": "2014-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Inside the Network18 takeover",
+  "source": "Livemint",
+  "published_utc": "2014-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A digital eye on land and sea",
+  "source": "The Financial Express",
+  "published_utc": "2014-06-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

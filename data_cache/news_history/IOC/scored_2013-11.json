@@ -1,0 +1,155 @@
+[
+ {
+  "title": "'Head of family entitled to only one gas connection'",
+  "source": "The New Indian Express",
+  "published_utc": "2013-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price cut by Rs 1.15 a litre; diesel hiked by 50 paise",
+  "source": "The Economic Times",
+  "published_utc": "2013-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sudan missed four payments to Indian oil firm: report",
+  "source": "Sudan Tribune",
+  "published_utc": "2013-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi: Ex-Congress MLA, son arrested in dowry death case",
+  "source": "India Today",
+  "published_utc": "2013-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sale of 5-kg LPG cylinders allowed at petrol pumps",
+  "source": "The Hindu",
+  "published_utc": "2013-11-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zambia\u2019s Sata \u2018getting increasingly dictatorial\u2019",
+  "source": "The Namibian -",
+  "published_utc": "2013-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The unsung warhorse",
+  "source": "The Hindu",
+  "published_utc": "2013-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DBT for LPG users launched in central Tamil Nadu",
+  "source": "The Hindu",
+  "published_utc": "2013-11-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "11th November: Global downstream update",
+  "source": "Hydrocarbon Engineering",
+  "published_utc": "2013-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Venugopal Dhoot Sees Videocon's Future in Offshore Oil",
+  "source": "Forbes India",
+  "published_utc": "2013-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Today Editor's take on December 2, 2013 issue: Snoop Shock",
+  "source": "India Today",
+  "published_utc": "2013-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shell to join GAIL's Kakinada LNG project with 30% stake",
+  "source": "Business Standard",
+  "published_utc": "2013-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL beats IOC, enters Nehru senior hockey tournament finals",
+  "source": "The Hindu",
+  "published_utc": "2013-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Game-changing Iran deal a god-send for UPA, rupee and petrol prices",
+  "source": "Firstpost",
+  "published_utc": "2013-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC mulls to expand its Panipat refinery capacity",
+  "source": "The Hindu",
+  "published_utc": "2013-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bridge between Europe and Asia \u2014 Strategic Challenges in the Indian Ocean",
+  "source": "Stagecraft and Statecraft",
+  "published_utc": "2013-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel price hiked by 50 paise a litre from midnight, petrol price unchanged",
+  "source": "India Today",
+  "published_utc": "2013-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "title": "Cadbury loses trademark case on Eclairs",
+  "source": "Livemint",
+  "published_utc": "2013-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cadbury 'happy to forfeit' three lost Eclair trademarks",
+  "source": "Confectionery News",
+  "published_utc": "2013-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iconic Great Eastern Hotel reopens its doors in Kolkata",
+  "source": "Livemint",
+  "published_utc": "2013-11-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,344 @@
+[
+ {
+  "title": "Clipper Lounge, Mumbai Terminal 2",
+  "source": "Live From A Lounge",
+  "published_utc": "2014-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Plenty of fight left in Arvind Bhat",
+  "source": "Livemint",
+  "published_utc": "2014-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hottest Young Executives in India 2008",
+  "source": "Business Today",
+  "published_utc": "2014-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Witch-hunt, says Reliance",
+  "source": "Frontline Magazine",
+  "published_utc": "2014-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NLS grads Shekhar Vyas, Anindita Phukan and Dinesh Singh set up Altum Law",
+  "source": "Bar and Bench",
+  "published_utc": "2014-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hottest Young Executives in India 2006",
+  "source": "Business Today",
+  "published_utc": "2014-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Inc's pride: Meet 10 powerful women leaders",
+  "source": "Rediff",
+  "published_utc": "2014-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BSE Sensex, NSE Nifty, Gold Price on March 07, 2014",
+  "source": "The Indian Express",
+  "published_utc": "2014-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How ICICI Bank has emerged as a \u2018CEO factory\u2019 of primarily women leaders",
+  "source": "The Economic Times",
+  "published_utc": "2014-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is Atul Auto a contrarian play in the auto sector?",
+  "source": "Livemint",
+  "published_utc": "2014-03-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Savings accounts hit hard by rock-bottom interest rates",
+  "source": "The Guardian",
+  "published_utc": "2014-03-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ANZ not in a hurry to open local arm: CEO Michael Smith",
+  "source": "Livemint",
+  "published_utc": "2014-03-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The transformation of Hiware Bazar",
+  "source": "Business Today",
+  "published_utc": "2014-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC's Mozambique gas field holds larger reserves at 45-70 tcf",
+  "source": "Livemint",
+  "published_utc": "2014-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rakesh Sethi appointed as new CMD of Allahabad Bank",
+  "source": "Livemint",
+  "published_utc": "2014-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Don't be amazed if colleges ask you to pursue career in banking",
+  "source": "Rediff",
+  "published_utc": "2014-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shikhar Dhawan is brand ambassador for Canara Bank",
+  "source": "Banking Frontiers",
+  "published_utc": "2014-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI debuts payments aggregator SBIePay",
+  "source": "MediaNama",
+  "published_utc": "2014-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IMPS Data: 58.15M Mobile Money IDs, Rs 1,531.16 Crore Transacted In February 2014",
+  "source": "MediaNama",
+  "published_utc": "2014-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Don\u2019t expect rupee to see significant appreciation from current level: Sam Mahtani, F&C Investments",
+  "source": "The Economic Times",
+  "published_utc": "2014-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI working with \u2018crazy logic', ignoring facts: C.B. Bhave",
+  "source": "Livemint",
+  "published_utc": "2014-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Infuse Ventures raises INR 110 crores to support ventures across cleantech sector",
+  "source": "YourStory.com",
+  "published_utc": "2014-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Joy Das joins FCBUlka Interactive as Media Director",
+  "source": "Indian Television Dot Com",
+  "published_utc": "2014-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Election Commission of India Approves Allotment of Liquor Vends for Punjab",
+  "source": "Sikh24.com",
+  "published_utc": "2014-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nirma University plans new avatar for Entrepreneurship Centre",
+  "source": "The Economic Times",
+  "published_utc": "2014-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Film Review | Ankhon Dekhi",
+  "source": "Livemint",
+  "published_utc": "2014-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Street theatre",
+  "source": "Livemint",
+  "published_utc": "2014-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Marico group CFO Milind Sarwate resigns",
+  "source": "Livemint",
+  "published_utc": "2014-03-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coolest Start-ups in India 2014: What sets Citrus apart from other payment solutions companies?",
+  "source": "Business Today",
+  "published_utc": "2014-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Improving the business environment is largely up to the states: Arun Maira",
+  "source": "Livemint",
+  "published_utc": "2014-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Big B receives India's Global Icon award",
+  "source": "Prokerala",
+  "published_utc": "2014-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jujhar Singh: Could have been a doctor, but always knew finance was his calling",
+  "source": "The Economic Times",
+  "published_utc": "2014-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL money-laundering charges under apex court's scanner",
+  "source": "Business Standard",
+  "published_utc": "2014-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of India plans to sell India's first Basel III dollar bonds",
+  "source": "Livemint",
+  "published_utc": "2014-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hazaaron Khwaishein for Chitrangada@38",
+  "source": "NDTV",
+  "published_utc": "2014-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ABG Shipyard sails out of troubled waters with Rs 11K-cr CDR",
+  "source": "Business Standard",
+  "published_utc": "2014-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Malaysia Airlines case: Tony Abbott sets no time limit for MH370 search",
+  "source": "Livemint",
+  "published_utc": "2014-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sesa Sterlite rejigs top deck: Navin Agarwal is chairman; Tom Albanese, CEO",
+  "source": "Firstpost",
+  "published_utc": "2014-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

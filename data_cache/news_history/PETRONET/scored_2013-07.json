@@ -1,0 +1,74 @@
+[
+ {
+  "title": "State losing race for India\u2019s first semiconductor fab unit",
+  "source": "The Hindu",
+  "published_utc": "2013-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Group eyes a return to ship-breaking business",
+  "source": "Livemint",
+  "published_utc": "2013-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India should stop building refineries: Fereidun Fesharaki",
+  "source": "Livemint",
+  "published_utc": "2013-07-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet To Commission Kochi Gas - PT Pulse",
+  "source": "Projects Today",
+  "published_utc": "2013-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL wants Gorgon gas price renegotiated",
+  "source": "Livemint",
+  "published_utc": "2013-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochi LNG terminal to go on stream early next month",
+  "source": "The Hindu",
+  "published_utc": "2013-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Polaris Q1 profit slips to Rs 43.20 cr",
+  "source": "Business Standard",
+  "published_utc": "2013-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JSPL Q1 profit up 28% at Rs 494 crore",
+  "source": "Business Standard",
+  "published_utc": "2013-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

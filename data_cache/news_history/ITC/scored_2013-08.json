@@ -1,0 +1,38 @@
+[
+ {
+  "title": "Sensex declines 68 points on rupee woes",
+  "source": "Livemint",
+  "published_utc": "2013-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HSBC says ITC a 'winner'; brokerages upgrade target prices",
+  "source": "The Economic Times",
+  "published_utc": "2013-08-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Segregation at source is crucial for a clean city",
+  "source": "The Hindu",
+  "published_utc": "2013-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Chairman Ajit Narain Haksar retires after 14 years of path-breaking stewardship",
+  "source": "India Today",
+  "published_utc": "2013-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

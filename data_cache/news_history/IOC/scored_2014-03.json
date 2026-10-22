@@ -1,0 +1,173 @@
+[
+ {
+  "title": "Kamarajar Port inks MoU with IOC, Adani",
+  "source": "Business Standard",
+  "published_utc": "2014-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol bunks in Hyderabad shut to protest raids",
+  "source": "Oneindia",
+  "published_utc": "2014-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Emission norms: Catalyst or hurdle for Indian automobile industry?",
+  "source": "ET Auto",
+  "published_utc": "2014-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Carabobo Oil Project",
+  "source": "Offshore Technology",
+  "published_utc": "2014-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil India, ONGC to Buy IOC Stake at Rs 220",
+  "source": "The New Indian Express",
+  "published_utc": "2014-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp. buys 10% of B.C. LNG project from Petronas",
+  "source": "CBC",
+  "published_utc": "2014-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to buy Petronas's 10% stake in Canadian shale gas assets",
+  "source": "Livemint",
+  "published_utc": "2014-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronas triples gas reserve estimates for B.C. joint venture",
+  "source": "The Globe and Mail",
+  "published_utc": "2014-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Women's Day Spl: Ritu Sachdeva lubricates her way to success",
+  "source": "KNN India",
+  "published_utc": "2014-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India eyes better rates from Kuwait and KSA",
+  "source": "Oil & Gas Middle East",
+  "published_utc": "2014-03-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TMC MLA shares stage with Muslim leaders as they \u2018slam\u2019 Mamata govt",
+  "source": "The Indian Express",
+  "published_utc": "2014-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil plans to build Rs30,000 crore refinery at Mundra",
+  "source": "Livemint",
+  "published_utc": "2014-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Disinvestment ETF to hit market next week",
+  "source": "Rediff",
+  "published_utc": "2014-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Alia Bhatt celebrates birthday shooting for \u2018Humpty Sharma Ki Dulhania\u2019",
+  "source": "The Indian Express",
+  "published_utc": "2014-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC plans Rs7,650 crore petrochemical complex at Paradip",
+  "source": "Livemint",
+  "published_utc": "2014-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fantastic Four",
+  "source": "Kashmir Life",
+  "published_utc": "2014-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Manjunath biopic: 'A story worth telling'",
+  "source": "Deccan Herald",
+  "published_utc": "2014-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kerala-TN Gas Project by Next Year",
+  "source": "The New Indian Express",
+  "published_utc": "2014-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jujhar Singh: Could have been a doctor, but always knew finance was his calling",
+  "source": "The Economic Times",
+  "published_utc": "2014-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
