@@ -1,0 +1,38 @@
+[
+ {
+  "title": "Everyone wants a taste of India's white gold",
+  "source": "Livemint",
+  "published_utc": "2015-03-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to raise prices of all its key cigarette brands",
+  "source": "Livemint",
+  "published_utc": "2015-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Manipal WGSHA Admissions 2015: Eligibility, Selection Process & Fee",
+  "source": "Shiksha.com",
+  "published_utc": "2015-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vikram Oberoi to take over as MD at EIH",
+  "source": "Livemint",
+  "published_utc": "2015-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

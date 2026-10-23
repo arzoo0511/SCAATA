@@ -1,0 +1,182 @@
+[
+ {
+  "title": "Amitabh Bachchan gets Honorary Doctorate from Egypt\u2019s Academy of Arts",
+  "source": "The Indian Express",
+  "published_utc": "2015-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India may delay oil company share sales, threatening fund-raising target",
+  "source": "Reuters",
+  "published_utc": "2015-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MP Shyama Charan Gupta who said nothing wrong with beedis flaunts his beedi empire",
+  "source": "The Indian Express",
+  "published_utc": "2015-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC slashes fuel prices",
+  "source": "The Kathmandu Post",
+  "published_utc": "2015-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Minister commissions polypropylene unit of MRPL",
+  "source": "The Hindu",
+  "published_utc": "2015-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'MSMEs in the Oil & Gas Sector Needs Special Attention by the Govt.'",
+  "source": "SMEStreet",
+  "published_utc": "2015-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "P5 Plus 1 \u2013 Iran Nuclear Deal: What It Means for India",
+  "source": "South Asian Voices",
+  "published_utc": "2015-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ennore to get networked to gas grid in 2017",
+  "source": "The Hindu",
+  "published_utc": "2015-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "VRL Logistics: Take the ride",
+  "source": "Business Standard",
+  "published_utc": "2015-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price cut by 80 paise, diesel cheaper by Rs 1.30",
+  "source": "Rediff",
+  "published_utc": "2015-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil Minister Dharmendra Pradhan takes stock of Assam assets",
+  "source": "ET EnergyWorld",
+  "published_utc": "2015-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance plans to reopen 1,400 filling stations by March 2016",
+  "source": "Team-BHP",
+  "published_utc": "2015-04-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Indians are no longer queuing up to open petrol pumps",
+  "source": "The Times of India",
+  "published_utc": "2015-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rape complaint details 9 hours of horror in custody: \u2018Hope justice swift\u2019",
+  "source": "The Indian Express",
+  "published_utc": "2015-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Incredible Rise and Rise of Gautam Adani: Part One",
+  "source": "The Citizen - Independent Journalism | Indian News | The Citizen",
+  "published_utc": "2015-04-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Starts Up 300,000 bpd Paradip Refinery: Report",
+  "source": "NDTV Profit",
+  "published_utc": "2015-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil\u2019s Paradip Refinery Starts Crude Processing",
+  "source": "Sarkaritel.com",
+  "published_utc": "2015-04-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court order brings relief to Chharba villagers",
+  "source": "The Hindu",
+  "published_utc": "2015-04-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price hiked by Rs 3.13 per litre and Diesel price hiked by Rs 2.71 per litre",
+  "source": "India Today",
+  "published_utc": "2015-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Daunting journey",
+  "source": "Down To Earth",
+  "published_utc": "2015-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "title": "ICICI Bank inaugurates 4,000th branch; 1,000th self-service kiosk",
+  "source": "India.com",
+  "published_utc": "2015-04-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "AAP removes Yogendra Yadav from chief spokesperson post",
+  "source": "Livemint",
+  "published_utc": "2015-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ING Vysya-Kotak Mahindra merger gets RBI approval",
+  "source": "The Indian Express",
+  "published_utc": "2015-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Banking and Insurance Sectors",
+  "source": "International Banker",
+  "published_utc": "2015-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Once over $12 trillion, the world's reserves are now shrinking",
+  "source": "Livemint",
+  "published_utc": "2015-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karnataka CM to request CBI again to probe D.K. Ravi's death",
+  "source": "Livemint",
+  "published_utc": "2015-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sets up unit to handle bad loans, brings in Partha Dey from PE arm",
+  "source": "VCCircle",
+  "published_utc": "2015-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Muthoot Finance cautions public on fake loan ads",
+  "source": "BusinessLine",
+  "published_utc": "2015-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Video | Bond Funds Expected to Perform Well: Axis MF",
+  "source": "NDTV",
+  "published_utc": "2015-04-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Educomp to change its business model, cut debt",
+  "source": "mint",
+  "published_utc": "2015-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NRI of the Year Awards: Shah Rukh Khan becomes Global Icon; Speaks about Kajol and 'Dilwale' [PHOTOS+VIDEO]",
+  "source": "IBTimes India",
+  "published_utc": "2015-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI cuts home loan interest rate by up to 0.25%",
+  "source": "The Hindu",
+  "published_utc": "2015-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank opens account in 'iWatch' banking",
+  "source": "Rediff",
+  "published_utc": "2015-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Rajasthan & ICICI Bank merger: PIL filed in SC urging SEBI to be made accountable; says unfair...",
+  "source": "Live Law",
+  "published_utc": "2015-04-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank cuts home loan rates by 0.25%",
+  "source": "Moneylife",
+  "published_utc": "2015-04-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Axis Follow Leaders in Lowering Home Loan Rates",
+  "source": "The New Indian Express",
+  "published_utc": "2015-04-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit/debit card that allows you travel in Metro",
+  "source": "Deccan Herald",
+  "published_utc": "2015-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why banks now have more officers and fewer clerks",
+  "source": "Business Standard",
+  "published_utc": "2015-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Newsmaker: Nitin Kasliwal, S Kumars nationwide | Company - People",
+  "source": "Business Standard",
+  "published_utc": "2015-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Narendra and I: Obama writes on Modi for Time magazine",
+  "source": "Rediff",
+  "published_utc": "2015-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI ties up with UAE bank Emirates NBD for instant money transfers",
+  "source": "The Economic Times",
+  "published_utc": "2015-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches app for Apple's iWatch",
+  "source": "The Economic Times",
+  "published_utc": "2015-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Use decoy customers to check flouting of rules, RBI tells banks",
+  "source": "Livemint",
+  "published_utc": "2015-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches applications for wearables on Android, Tizen and Apple",
+  "source": "MediaNama",
+  "published_utc": "2015-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JSA makes 4 Salaried Partners; Mary Julie John, Arpita Garg, Vishal Anand and Kannan Rahul",
+  "source": "Bar and Bench",
+  "published_utc": "2015-04-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI opens stall at Chithirai expo",
+  "source": "The Hindu",
+  "published_utc": "2015-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Uday Kotak's elder son Jay heads to Harvard",
+  "source": "The Economic Times",
+  "published_utc": "2015-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The well-being warrior",
+  "source": "Deccan Chronicle",
+  "published_utc": "2015-04-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Profit Rises 10%",
+  "source": "WSJ",
+  "published_utc": "2015-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q4 profit beats forecast, sees bad loans situation improving",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2015-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of India raises $750 million by selling bonds in Asia, Europe",
+  "source": "Livemint",
+  "published_utc": "2015-04-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank sells Rs 550 crore Essar Steel loans at 40% discount",
+  "source": "Business Standard",
+  "published_utc": "2015-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

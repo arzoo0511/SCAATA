@@ -1,0 +1,74 @@
+[
+ {
+  "title": "WBNUJS batch\u201915 records cent percent placements, the administration feels delighted",
+  "source": "Live Law",
+  "published_utc": "2015-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Not just Nestle: FSSAI seeks tests for all instant noodle brands",
+  "source": "Livemint",
+  "published_utc": "2015-06-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Food joints replace Maggi with other noodles",
+  "source": "Livemint",
+  "published_utc": "2015-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One Brand's Loss is Another One's Gain: How Other Instant Noodle Brands Are Using the Maggi Noodles Controversy to Their Advantage",
+  "source": "NDTV Food",
+  "published_utc": "2015-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nestle takes India\u2019s food regulator to court over Maggi noodle ban",
+  "source": "macau daily times \u6fb3\u9580\u6bcf\u65e5\u6642\u5831",
+  "published_utc": "2015-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Cornitos landed on your plate",
+  "source": "Livemint",
+  "published_utc": "2015-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u200a to invest `8,000\u200acr in Telangana",
+  "source": "Livemint",
+  "published_utc": "2015-06-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's YC Deveshwar offloaded 90% stake during FY14-15; executive director Kurush Grant also cut his holding",
+  "source": "ETRetail.com",
+  "published_utc": "2015-06-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,299 @@
+[
+ {
+  "title": "Govt says no to Mallya's reappointment as Kingfisher CMD",
+  "source": "Business Standard",
+  "published_utc": "2014-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vijay Mallya quits as MCF director, shares zoom",
+  "source": "Business Standard",
+  "published_utc": "2014-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra govt scales down land acquisition for Dighi port project",
+  "source": "Business Standard",
+  "published_utc": "2014-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prices of goods moved by freight trains may rise",
+  "source": "Livemint",
+  "published_utc": "2014-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking transactions in public sector banks hit due to strike",
+  "source": "The Economic Times",
+  "published_utc": "2014-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Cuts Retail Fixed Deposit Rates By 0.25%",
+  "source": "NDTV Profit",
+  "published_utc": "2014-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Interest rates may dip in 2015 as SBI slashes deposit rates",
+  "source": "Deccan Chronicle",
+  "published_utc": "2014-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anoushka Shankar gets her third Grammy nomination",
+  "source": "Rediff",
+  "published_utc": "2014-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KKR's entry will change the rules of the bad loan market",
+  "source": "Livemint",
+  "published_utc": "2014-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt to consider 31 FDI proposals on Dec 16",
+  "source": "Daily Excelsior",
+  "published_utc": "2014-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi allows exit to Inter-connected Stock Exchange as bourse",
+  "source": "The Economic Times",
+  "published_utc": "2014-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to welcome back its former employees",
+  "source": "Business Standard",
+  "published_utc": "2014-12-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A rate cut is not critical to kick-start investment cycle: Mohini Singh Chauhan",
+  "source": "Livemint",
+  "published_utc": "2014-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Securities launches e-Will writing service",
+  "source": "Business Today",
+  "published_utc": "2014-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC launches electronic will writing service 'e-Will'",
+  "source": "Business Standard",
+  "published_utc": "2014-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi keen on second airports, ensure connectivity with metro rail",
+  "source": "Livemint",
+  "published_utc": "2014-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC merger with HDFC Bank makes sense in long run: Aditya Puri",
+  "source": "Livemint",
+  "published_utc": "2014-12-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How home loan schemes with an overdraft option can help save time and money",
+  "source": "The Economic Times",
+  "published_utc": "2014-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No more high rates; right time for fixed deposits and recurring deposits",
+  "source": "The Economic Times",
+  "published_utc": "2014-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gujarat's Dharmaj village has over Rs 1,000 crore in NRI deposits",
+  "source": "The Economic Times",
+  "published_utc": "2014-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FUND PICK: Birla Sun Life Frontline Equity Fund",
+  "source": "Business Standard",
+  "published_utc": "2014-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank strike on multiple days in January: Unions",
+  "source": "The Economic Times",
+  "published_utc": "2014-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Five basic rights for bank customers laid down by RBI",
+  "source": "The Economic Times",
+  "published_utc": "2014-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vijay Mallya\u2019s son Sid Mallya to make his film debut",
+  "source": "The Financial Express",
+  "published_utc": "2014-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Le beta, PK is yours\u2019: Anushka Sharma on how she bagged movie alongside Aamir Khan",
+  "source": "The Financial Express",
+  "published_utc": "2014-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC offers fixed-rate home loans for 10 years",
+  "source": "Business Standard",
+  "published_utc": "2014-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New fixed rate home loans make an entry",
+  "source": "Livemint",
+  "published_utc": "2014-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi allows exit of Cochin Stock Exchange",
+  "source": "Livemint",
+  "published_utc": "2014-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Patel Logistics Wants to Triple e-Commerce Revenue",
+  "source": "NDTV Profit",
+  "published_utc": "2014-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dispute among promoters of Rs 2,000-cr Sanghi group being settled",
+  "source": "Business Standard",
+  "published_utc": "2014-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's HDFC Bank revamps its app as part of a new Go Digital campaign",
+  "source": "Windows Central",
+  "published_utc": "2014-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3 Modi mantras for PSU banks: less capital, more autonomy, productive staff",
+  "source": "Firstpost",
+  "published_utc": "2014-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wish to take govt's 'ABCD culture' to 'ROAD' which leads to success: Narendra Modi",
+  "source": "Business Standard",
+  "published_utc": "2014-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

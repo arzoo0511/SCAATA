@@ -1,0 +1,29 @@
+[
+ {
+  "title": "ITC to milk expanding dairy sector",
+  "source": "Down To Earth",
+  "published_utc": "2014-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty Ends Higher for Fourth Straight Session; Blue Chips Gain",
+  "source": "NDTV Profit",
+  "published_utc": "2014-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Consumer goods makers gain as investors shun risk",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2014-09-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

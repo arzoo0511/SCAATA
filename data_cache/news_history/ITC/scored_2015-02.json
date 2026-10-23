@@ -1,0 +1,38 @@
+[
+ {
+  "title": "Mining revenue worth Rs 1,835 cr pending on 24 Odisha mines",
+  "source": "Business Standard",
+  "published_utc": "2015-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to acquire Johnson & Johnson's 'Savlon' and 'Shower To Shower' brands",
+  "source": "The Economic Times",
+  "published_utc": "2015-02-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top six Sensex companies add Rs 57,869 cr in market valuation",
+  "source": "The Financial Express",
+  "published_utc": "2015-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cigarette makers fall after budget hikes excise duty",
+  "source": "Reuters",
+  "published_utc": "2015-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

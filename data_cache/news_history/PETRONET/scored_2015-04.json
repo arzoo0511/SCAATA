@@ -1,0 +1,47 @@
+[
+ {
+  "title": "5 Stocks That Have Potential To Generate Good Returns In Medium Term",
+  "source": "Goodreturns",
+  "published_utc": "2015-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet innovation",
+  "source": "The Times of India",
+  "published_utc": "2015-04-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Complaints of corruption against Petronet LNG",
+  "source": "ET EnergyWorld",
+  "published_utc": "2015-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG under government investigation over gas purchase deals",
+  "source": "Splash247",
+  "published_utc": "2015-04-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India seeking first cut in LNG imports under deal with Qatar | Gulf Times",
+  "source": "Gulf Times",
+  "published_utc": "2015-04-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

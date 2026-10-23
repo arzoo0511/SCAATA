@@ -1,0 +1,38 @@
+[
+ {
+  "title": "Sensex posts first weekly fall in seven; valuations a concern",
+  "source": "Yahoo",
+  "published_utc": "2014-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "100 years of ITC: Corporate India's big success story",
+  "source": "Rediff",
+  "published_utc": "2014-12-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pro-IS Indian Tweeter Is Employed by Us: ITC",
+  "source": "The New Indian Express",
+  "published_utc": "2014-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Khammam set to emerge as a major player",
+  "source": "The Hindu",
+  "published_utc": "2014-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

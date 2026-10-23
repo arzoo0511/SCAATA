@@ -1,0 +1,20 @@
+[
+ {
+  "title": "Biscuit makers aim for a bigger bite of health, premium markets",
+  "source": "Livemint",
+  "published_utc": "2014-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Moves Toward Ban on Loose Cigarettes",
+  "source": "VOA - Voice of America English News",
+  "published_utc": "2014-11-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

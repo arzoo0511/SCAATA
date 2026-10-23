@@ -1,0 +1,29 @@
+[
+ {
+  "title": "Subir Purkayastha Joins As Director - Finance, GAIL",
+  "source": "Sarkaritel.com",
+  "published_utc": "2015-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG appoints new chairman",
+  "source": "Marine Link",
+  "published_utc": "2015-05-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance-BP in race for Mumbai LNG terminal",
+  "source": "Splash 24/7",
+  "published_utc": "2015-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,218 @@
+[
+ {
+  "title": "ATF price hiked by 7.5%; non-subsidised LPG by Rs 10.50",
+  "source": "The Hindu",
+  "published_utc": "2015-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ongc To Invest Rs 5000 Cr In Four Cbm - PT Pulse",
+  "source": "Projects Today",
+  "published_utc": "2015-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FIFA scandal gets murkier, Interpol issues wanted-person alerts for 6",
+  "source": "Rediff",
+  "published_utc": "2015-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, Hindustan Petroleum to Buy Crude from Iraq",
+  "source": "WSJ",
+  "published_utc": "2015-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UP Reliance fuel pump dealers seek clarity before reopening outlets",
+  "source": "Business Standard",
+  "published_utc": "2015-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PIX: Bipasha, Riteish Deshmukh, Parineeti leave for IIFA 2015",
+  "source": "Rediff",
+  "published_utc": "2015-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani dilemma torments Kerala",
+  "source": "Telegraph India",
+  "published_utc": "2015-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to spend Rs 15,000 cr to raise Panipat Refinery capacity to 20.2 MMTPA",
+  "source": "ET EnergyWorld",
+  "published_utc": "2015-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt looks to save Rs 10,000 cr in cooking gas subsidies",
+  "source": "Rediff",
+  "published_utc": "2015-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to invest Rs 15,000 cr to raise Panipat refinery capacity | Hindustan Times",
+  "source": "Hindustan Times",
+  "published_utc": "2015-06-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Law catches up with Sita's father in Odisha",
+  "source": "Telegraph India",
+  "published_utc": "2015-06-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TCS tops dividend league in FY15",
+  "source": "Business Standard",
+  "published_utc": "2015-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka focuses on setting up an electric train service",
+  "source": "Adaderana Biz English",
+  "published_utc": "2015-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Filling station flouts rule near PAP intersection",
+  "source": "The Tribune",
+  "published_utc": "2015-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price hiked by 64 paise per litre, diesel cut by Rs 1.35",
+  "source": "India Today",
+  "published_utc": "2015-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp's Lotus Xangpo petrol pump world's highest altitude outlet",
+  "source": "The Economic Times",
+  "published_utc": "2015-06-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol prices hiked again and diesel gets cheaper",
+  "source": "CarWale",
+  "published_utc": "2015-06-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation begins work on 4 MW solar power project in Nagapattinam",
+  "source": "The Economic Times",
+  "published_utc": "2015-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL reschedules refinery project commissioning",
+  "source": "OdishaChannel",
+  "published_utc": "2015-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco wants to ship Indian oil aboard own VLCCs",
+  "source": "Logistics Middle East",
+  "published_utc": "2015-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex- Airtel, Exxon Mobil and Apollo Tyres employees start Punctureman to bring structure to tyre services sector",
+  "source": "YourStory.com",
+  "published_utc": "2015-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vizag's oil thieves busted.",
+  "source": "The Hindu",
+  "published_utc": "2015-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PV Narasimha Rao: The Savior India waited for over 40 Years",
+  "source": "Tfipost.com",
+  "published_utc": "2015-06-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Aims To Offset Production Declines, Slash Energy Imports",
+  "source": "JPT Homepage",
+  "published_utc": "2015-06-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

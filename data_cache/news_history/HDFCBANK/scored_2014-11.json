@@ -1,0 +1,335 @@
+[
+ {
+  "title": "Mint Luxury Conference | Keeping spirits up",
+  "source": "Livemint",
+  "published_utc": "2014-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Global Beverages Posts 65 Per Cent Fall in Q2 Profit",
+  "source": "NDTV Profit",
+  "published_utc": "2014-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can mobile money transfer service M-Pesa succeed in India?",
+  "source": "Business Today",
+  "published_utc": "2014-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian bonds snap 4-day gains on profit-taking; OMO worry looms",
+  "source": "Livemint",
+  "published_utc": "2014-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis and HDFC Bank to charge their own customers beyond 5 ATM transactions",
+  "source": "Business Standard",
+  "published_utc": "2014-11-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Male prostitution growing in Jaisalmer: RSCW",
+  "source": "Business Standard",
+  "published_utc": "2014-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Bank to charge customers beyond 8 ATM transactions",
+  "source": "Rediff",
+  "published_utc": "2014-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Having mixed feelings, says Manohar Parrikar's brother over his appraisal to union cabinet",
+  "source": "Business Standard",
+  "published_utc": "2014-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PGIM India Ultra Short Term Regular Plan-IDCW Quarterly",
+  "source": "The Economic Times",
+  "published_utc": "2014-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Coal India, TCS took the biggest hit in m-cap",
+  "source": "Rediff",
+  "published_utc": "2014-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "G.K. Vasan to launch new party on 28 November",
+  "source": "Livemint",
+  "published_utc": "2014-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now, you can order a cake on board your next Indigo flight",
+  "source": "Live From A Lounge",
+  "published_utc": "2014-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM Charges: When RBI acts as \u2018toothless\u2019 tiger",
+  "source": "Moneylife",
+  "published_utc": "2014-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pranav Adani: Powering ahead",
+  "source": "Business Standard",
+  "published_utc": "2014-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'India my second home', Myanmar's Aung San Suu Kyi tells Prime Minister Narendra Modi",
+  "source": "The Economic Times",
+  "published_utc": "2014-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s FIPB Raises Foreign Investment Cap for HDFC Bank",
+  "source": "WSJ",
+  "published_utc": "2014-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Royal Enfield eyes expansion; buys 50 acres in Tamil Nadu",
+  "source": "Business Standard",
+  "published_utc": "2014-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jawaharlal Nehru and his troubled legacy",
+  "source": "Livemint",
+  "published_utc": "2014-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cooperation with India not in disputed area: Japan to China",
+  "source": "Livemint",
+  "published_utc": "2014-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra to buy ING Vysya Bank in $2.4B all-stock deal",
+  "source": "VCCircle",
+  "published_utc": "2014-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Allows FIIs to Buy Equity in Yes Bank",
+  "source": "NDTV Profit",
+  "published_utc": "2014-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank offers early retirement to executives aged over 40 years",
+  "source": "The Economic Times",
+  "published_utc": "2014-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hexaware Technologies in demand despite sketchy performance",
+  "source": "Livemint",
+  "published_utc": "2014-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ING Vysya Bank Merged With Kotak Mahindra Bank",
+  "source": "AffairsCloud",
+  "published_utc": "2014-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak buys ING Vysya in all-share deal",
+  "source": "Business Standard",
+  "published_utc": "2014-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank-ING Vysya Bank deal a well-matched merger",
+  "source": "Livemint",
+  "published_utc": "2014-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank to acquire ING Vysya in all-stock deal",
+  "source": "Livemint",
+  "published_utc": "2014-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ING shareholders feel deal tilted in favour of Kotak Mahindra Bank",
+  "source": "The Economic Times",
+  "published_utc": "2014-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lounge Extract |The Golden Pigeon",
+  "source": "Livemint",
+  "published_utc": "2014-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU banks account for over 90% of total bad loans in FY'14",
+  "source": "The Economic Times",
+  "published_utc": "2014-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'A' grade red sanders gets quoted at Rs 1.95 crore a tonne",
+  "source": "Business Standard",
+  "published_utc": "2014-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Congress leader Murli Deora dies",
+  "source": "Livemint",
+  "published_utc": "2014-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State run banks face tough sell on capital raising plan",
+  "source": "Business Today",
+  "published_utc": "2014-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exim Bank raises $17 million by selling samurai bonds",
+  "source": "Livemint",
+  "published_utc": "2014-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Authorised documentary on Nirvana's Kurt Cobain to air on HBO",
+  "source": "India Today",
+  "published_utc": "2014-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICC condoles Phil Hughes's death",
+  "source": "The Economic Times",
+  "published_utc": "2014-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BSE Market Capitalization Surges",
+  "source": "AffairsCloud",
+  "published_utc": "2014-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

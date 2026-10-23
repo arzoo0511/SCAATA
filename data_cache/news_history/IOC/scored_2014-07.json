@@ -1,0 +1,92 @@
+[
+ {
+  "title": "LPG price hiked by Rs 16.50 per cylinder",
+  "source": "The Hindu",
+  "published_utc": "2014-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Non-Subsidised LPG Cylinder Price Hiked By Rs 16.50",
+  "source": "NDTV",
+  "published_utc": "2014-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG consumers can avail 12 cylinder quota at anytime of year",
+  "source": "India Today",
+  "published_utc": "2014-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A. Pandian, new GM of Indian Oil Corporation (SR)",
+  "source": "Motorindia",
+  "published_utc": "2014-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mangalore origin Author launches 8 th Book - Innovation Sutra - July 4",
+  "source": "Mangalore Today",
+  "published_utc": "2014-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Women of the Global 500",
+  "source": "Fortune",
+  "published_utc": "2014-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "B Ashok takes over as IOC Chairman",
+  "source": "ET Auto",
+  "published_utc": "2014-07-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mangalore: Medical student Rohit's death - CID begins probe",
+  "source": "Daijiworld",
+  "published_utc": "2014-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At least 15 school children killed as train hits bus",
+  "source": "The Indian Express",
+  "published_utc": "2014-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Are digital wallets the next thing in digital revolution?",
+  "source": "Firstpost",
+  "published_utc": "2014-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

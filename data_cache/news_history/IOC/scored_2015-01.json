@@ -1,0 +1,200 @@
+[
+ {
+  "title": "Six Injured in Blaze at IOC Tank in Madurai Terminal",
+  "source": "The New Indian Express",
+  "published_utc": "2015-01-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Six engineering students killed in road accident",
+  "source": "The Hindu",
+  "published_utc": "2015-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC not responsible for shortage: MD Goit",
+  "source": "The Kathmandu Post",
+  "published_utc": "2015-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG subsidy transfer",
+  "source": "Frontline Magazine",
+  "published_utc": "2015-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Uncle' has educated the poorest of the poor",
+  "source": "Rediff",
+  "published_utc": "2015-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Verghese Cherian takes over as Indian Oil's Director (HR)",
+  "source": "ET EnergyWorld",
+  "published_utc": "2015-01-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Campus Talk",
+  "source": "The New Indian Express",
+  "published_utc": "2015-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cooking gas crunch hits all and sundry",
+  "source": "The Kathmandu Post",
+  "published_utc": "2015-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "On Energy Subsidy Reforms in India",
+  "source": "The Fletcher Forum of World Affairs",
+  "published_utc": "2015-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Haldia Petrochemicals closure impact minimal on Indian Oil Corporation",
+  "source": "The Economic Times",
+  "published_utc": "2015-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price cut by Rs 2.42, diesel cheaper by Rs 2.25",
+  "source": "Rediff",
+  "published_utc": "2015-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PIA New Delhi office receives closure notice from Indian authorities",
+  "source": "Dawn",
+  "published_utc": "2015-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil Minister Dharmendra Pradhan launches CSR schemes at IOC\u2019s Barauni refinery township",
+  "source": "ET EnergyWorld",
+  "published_utc": "2015-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil launches 'XTRAREWARDS' in Kerala",
+  "source": "ET EnergyWorld",
+  "published_utc": "2015-01-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Largest cricket bat bids for Guinness world record",
+  "source": "Rediff",
+  "published_utc": "2015-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki unveils limited edition Swift Windsong",
+  "source": "The Indian Express",
+  "published_utc": "2015-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LP gas shortage: Teku depot overrun by folk seeking refill",
+  "source": "The Kathmandu Post",
+  "published_utc": "2015-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Variable Interest Rates - Service Tax",
+  "source": "CAclubindia",
+  "published_utc": "2015-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC begins selling gas cylinders to ease crisis",
+  "source": "The Kathmandu Post",
+  "published_utc": "2015-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL not to shut down Assam plant but convert to supply feedstock",
+  "source": "Firstpost",
+  "published_utc": "2015-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gail converts LPG unit to supply feedstock for BCPL's petrochem plant in Assam",
+  "source": "Business Standard",
+  "published_utc": "2015-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel price in city should be just Rs 13.35, not Rs 52.50",
+  "source": "Bangalore Mirror",
+  "published_utc": "2015-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

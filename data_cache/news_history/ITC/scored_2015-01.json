@@ -1,0 +1,20 @@
+[
+ {
+  "title": "Calcutta HC turns down ITC's petition against construction of city's tallest skyscraper",
+  "source": "ET Realty",
+  "published_utc": "2015-01-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A Peek Inside Obama\u2019s Bedroom",
+  "source": "WSJ",
+  "published_utc": "2015-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

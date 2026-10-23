@@ -1,0 +1,110 @@
+[
+ {
+  "title": "Users giving up LPG subsidy in 'Scroll of Honour'",
+  "source": "India.com",
+  "published_utc": "2014-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Likely to Join Hands with IOC for Mundra Port Oil Refinery Project",
+  "source": "IBTimes India",
+  "published_utc": "2014-08-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Only Four Per Cent of Indian Company Directors Are Women: Report",
+  "source": "NDTV",
+  "published_utc": "2014-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Group is India's Most Valuable Brand",
+  "source": "NDTV",
+  "published_utc": "2014-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani-GSPC to build Rs4,500 crore Mundra LNG terminal by end 2016",
+  "source": "Livemint",
+  "published_utc": "2014-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pallavi Shroff wants to see more women in her law firm",
+  "source": "Business Today",
+  "published_utc": "2014-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A Silent Leak that Drains Life",
+  "source": "The New Indian Express",
+  "published_utc": "2014-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Downstream news catch up",
+  "source": "Hydrocarbon Engineering",
+  "published_utc": "2014-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil companies want to lay pipelines along railway tracks",
+  "source": "Livemint",
+  "published_utc": "2014-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bench Structure and Constitutional Adjudication \u2013 The Court at a Crossroads",
+  "source": "Live Law",
+  "published_utc": "2014-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Antony Group bets big on upcoming eco-friendly projects",
+  "source": "Motorindia",
+  "published_utc": "2014-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NDA scraps monthly limit of one subsidized cylinder per household",
+  "source": "Livemint",
+  "published_utc": "2014-08-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

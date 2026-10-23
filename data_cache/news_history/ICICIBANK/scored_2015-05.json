@@ -1,0 +1,344 @@
+[
+ {
+  "title": "S Kumar's retail investors do a U-turn on chairman Kasliwal's ouster",
+  "source": "Livemint",
+  "published_utc": "2015-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Startup diaries",
+  "source": "Business Standard",
+  "published_utc": "2015-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dalal Street veteran Parag Parikh dies in car accident in United States",
+  "source": "The Economic Times",
+  "published_utc": "2015-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From typical to role models: Most prominent women bankers of India",
+  "source": "TechStory",
+  "published_utc": "2015-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Alia Bhatt, Sidharth Malhotra in Coca Cola ad",
+  "source": "The Financial Express",
+  "published_utc": "2015-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's KV Kamath to be first head of BRICS bank",
+  "source": "Forbes India",
+  "published_utc": "2015-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private banker KV Kamath appointed as first president of BRICS bank: All you need to know",
+  "source": "Firstpost",
+  "published_utc": "2015-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kamath to head BRICS bank",
+  "source": "The Hindu",
+  "published_utc": "2015-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Taps K. V. Kamath to Lead New Brics Development Bank",
+  "source": "WSJ",
+  "published_utc": "2015-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The men behind Rahul 2.0",
+  "source": "Rediff",
+  "published_utc": "2015-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KV Kamath named as first President of New Development Bank of BRICS nations",
+  "source": "GK Today",
+  "published_utc": "2015-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India picks private banker KV Kamath as first BRICS bank head",
+  "source": "Yahoo News Canada",
+  "published_utc": "2015-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "K V Kamath appointed first head of five-nation BRICS Bank",
+  "source": "Daijiworld",
+  "published_utc": "2015-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to expand China presence with Shanghai branch",
+  "source": "Livemint",
+  "published_utc": "2015-05-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The discreet charm of KV Kamath",
+  "source": "Open Magazine",
+  "published_utc": "2015-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank computer bug hits customers",
+  "source": "India Today",
+  "published_utc": "2015-05-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Modi inaugurates ICICI Bank branch in Shanghai",
+  "source": "India Today",
+  "published_utc": "2015-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank opens first branch in China",
+  "source": "Reuters",
+  "published_utc": "2015-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Modi inaugurates ICICI Bank's first branch in China",
+  "source": "Business Standard",
+  "published_utc": "2015-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "K.V. Kamath: The New Banker For Brics",
+  "source": "LinkedIn",
+  "published_utc": "2015-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One minute guide: hashtag banking",
+  "source": "Livemint",
+  "published_utc": "2015-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi draws flak for remark on foreign soil",
+  "source": "BusinessLine",
+  "published_utc": "2015-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "S.V. Raju: the last Swatantrite",
+  "source": "Livemint",
+  "published_utc": "2015-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt proposes new rules to check pollution from thermal power plants",
+  "source": "Livemint",
+  "published_utc": "2015-05-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mahindra to buy 33% stake in Mitsubishi Agri Machinery",
+  "source": "Livemint",
+  "published_utc": "2015-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Western Union renews tie-up with India Post",
+  "source": "Express Computer",
+  "published_utc": "2015-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sudhir Valia's Fortune Financial acquires investment banking outfit",
+  "source": "Business Standard",
+  "published_utc": "2015-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's misunderstood rivers",
+  "source": "Livemint",
+  "published_utc": "2015-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet five fintech start-ups seeking to disrupt banking",
+  "source": "AFR",
+  "published_utc": "2015-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank now lets you do banking transactions using voice",
+  "source": "FoneArena.com",
+  "published_utc": "2015-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI's Arundhati Bhattacharya, ICICI's Chanda Kochhar among world's 100 most powerful women: Forbes",
+  "source": "The Economic Times",
+  "published_utc": "2015-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mobikwik wallet users can now load cash at ICICI Bank branches",
+  "source": "MediaNama",
+  "published_utc": "2015-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A \u2018Renew and New Strategy\u2019 of Banking Innovation",
+  "source": "Banking Frontiers",
+  "published_utc": "2015-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Angela Merkel tops Forbes' list of the world's 100 most powerful women",
+  "source": "Forbes India",
+  "published_utc": "2015-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to find a strong stock in the market",
+  "source": "Business Standard",
+  "published_utc": "2015-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The top 10 highest paid Indian women in business",
+  "source": "YourStory.com",
+  "published_utc": "2015-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jyothy Labs to expand its power brands list",
+  "source": "Business Standard",
+  "published_utc": "2015-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL overtakes ONGC to become India's most profitable firm",
+  "source": "Oneindia",
+  "published_utc": "2015-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

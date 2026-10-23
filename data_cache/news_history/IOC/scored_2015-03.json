@@ -1,0 +1,236 @@
+[
+ {
+  "title": "'Privatisation' makes comeback after 10 yrs",
+  "source": "Business Standard",
+  "published_utc": "2015-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Alia Bhatt, Priyanka Chopra, Sonam Kapoor: Actresses are such \u2018sports\u2019",
+  "source": "The Indian Express",
+  "published_utc": "2015-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Director-Designate Suspended Over Information Leak",
+  "source": "NDTV",
+  "published_utc": "2015-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Document leak: Top Indian Oil official suspended",
+  "source": "Business Today",
+  "published_utc": "2015-03-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Autos skip CNG line, car owners have to wait",
+  "source": "Telegraph India",
+  "published_utc": "2015-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "35th Indian National Team Championships",
+  "source": "Chess News | ChessBase",
+  "published_utc": "2015-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court Gives Life Term to Killers of S. Manjunath, IOC Manager Who Exposed Corruption",
+  "source": "NDTV",
+  "published_utc": "2015-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Manjunath Shanmugham: Pride of his parents, Machan for his friends",
+  "source": "The News Minute",
+  "published_utc": "2015-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Manjunath murder case: Supreme Court awards life term to 6 convicts",
+  "source": "India Today",
+  "published_utc": "2015-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court confirms Life term for six accused in Manjunath's murder Case [Read the Judgment]",
+  "source": "Live Law",
+  "published_utc": "2015-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Manjunath murder case: SC awards life sentence to six",
+  "source": "Deccan Herald",
+  "published_utc": "2015-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "INDIA-MAURITIUS : Diversity \u2013 The Glue that Binds",
+  "source": "Le Mauricien",
+  "published_utc": "2015-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC upholds life term in Manjunath murder case",
+  "source": "The Hindu",
+  "published_utc": "2015-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court hands out life term to six convicts in Manjunath murder case",
+  "source": "The Indian Express",
+  "published_utc": "2015-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC uphelds life sentence for 6 guilty of murdering engineer Manjunath | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2015-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gas agency Gets suspension Notice on Consumer Plaints",
+  "source": "The New Indian Express",
+  "published_utc": "2015-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paul Walker jokes to be edited out of Justin Bieber roast",
+  "source": "The Indian Express",
+  "published_utc": "2015-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IAS officer D K Ravikumar death: 5 Indian officers who paid a heavy price for honesty",
+  "source": "India.com",
+  "published_utc": "2015-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 Amazingly Dedicated Indian Civil Servants You Will Be Proud To Know",
+  "source": "The Better India",
+  "published_utc": "2015-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PIX: Aishwarya, Abhishek celebrate Gudi Padwa",
+  "source": "Rediff",
+  "published_utc": "2015-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Orissa announces insurance policy for elementary school kids",
+  "source": "The Indian Express",
+  "published_utc": "2015-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "College Katta to Golden Corridor: The story of \u2018Maoist\u2019 couple arrested in Pune last year",
+  "source": "The Indian Express",
+  "published_utc": "2015-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Locals rejoice as coal mining banned in Mahan forest",
+  "source": "India Water Portal",
+  "published_utc": "2015-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why India is still looking for a perfect cookstove",
+  "source": "The Caravan",
+  "published_utc": "2015-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'This award will motivate me to achieve more laurels for India'",
+  "source": "Rediff",
+  "published_utc": "2015-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jack Ma in India; Alibaba to help small local businesses",
+  "source": "VCCircle",
+  "published_utc": "2015-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

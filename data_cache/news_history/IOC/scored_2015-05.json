@@ -1,0 +1,146 @@
+[
+ {
+  "title": "After several cuts, petrol and diesel prices head north",
+  "source": "Motoroids",
+  "published_utc": "2015-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Propylene Recovery Unit commissioned at Mathura Refinery",
+  "source": "ET EnergyWorld",
+  "published_utc": "2015-05-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What has suddenly changed for the Indian economy?",
+  "source": "VCCircle",
+  "published_utc": "2015-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India home to 56 of the world's 2000 powerful companies:Forbes",
+  "source": "Oneindia",
+  "published_utc": "2015-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Rising Sports Star: Tyron Pereira",
+  "source": "Bandra Buzz",
+  "published_utc": "2015-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil and GAIL sign MoU with Adani\u2019s Dhamra LNG Terminal",
+  "source": "ET EnergyWorld",
+  "published_utc": "2015-05-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Visakhapatnam Strategic reserve crude storage facility to open this year",
+  "source": "AffairsCloud",
+  "published_utc": "2015-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SRF to set up specialty chemicals plant in Dahej",
+  "source": "Business Standard",
+  "published_utc": "2015-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Biryani with a Twist in the Tale",
+  "source": "The New Indian Express",
+  "published_utc": "2015-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal earthquake: India by its side, Nepal takes first steps on recovery road",
+  "source": "The Indian Express",
+  "published_utc": "2015-05-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Petrol Stations Are Back in Business in India",
+  "source": "WSJ",
+  "published_utc": "2015-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to infuse Rs 1,000 crore in Chennai Petroleum",
+  "source": "Business Standard",
+  "published_utc": "2015-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "#ModiYearOne: FY16 will be painful as earnings adjust to reforms, says Saurabh Mukherjea",
+  "source": "VCCircle",
+  "published_utc": "2015-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "It\u2019s a full stop at seven crossings in Noida | Hindustan Times",
+  "source": "Hindustan Times",
+  "published_utc": "2015-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Find out why Cristiano Ronaldo wants to leave Real Madrid",
+  "source": "Rediff",
+  "published_utc": "2015-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL overtakes ONGC to become India's most profitable firm",
+  "source": "Oneindia",
+  "published_utc": "2015-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

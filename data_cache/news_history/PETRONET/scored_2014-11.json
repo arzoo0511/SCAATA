@@ -1,0 +1,29 @@
+[
+ {
+  "title": "Petronet plans to expand Dahej LNG terminal capacity to 17.5 mtpa",
+  "source": "Livemint",
+  "published_utc": "2014-11-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet Lng To Invest Rs 1100 Cr In Dahej - PT Pulse",
+  "source": "Projects Today",
+  "published_utc": "2014-11-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to Receive Its Biggest LNG Cargo Ahead of U.S. Shipments",
+  "source": "gCaptain",
+  "published_utc": "2014-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

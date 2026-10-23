@@ -1,0 +1,38 @@
+[
+ {
+  "title": "ITC tries short cigarettes as taxes hit demand",
+  "source": "Livemint",
+  "published_utc": "2015-04-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Online test preparation platform Toppr acquires competitor EasyPrep",
+  "source": "Techcircle",
+  "published_utc": "2015-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Live market updates: Rupee recovers to close marginally higher against dollar at 62.83",
+  "source": "Livemint",
+  "published_utc": "2015-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC in talks to buy Century's paper business: report",
+  "source": "Livemint",
+  "published_utc": "2015-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

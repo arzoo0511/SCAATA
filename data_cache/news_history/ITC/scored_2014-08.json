@@ -1,0 +1,47 @@
+[
+ {
+  "title": "ITC hikes price of select cigarette brands by up to Rs 10/pack | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2014-08-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Select cigarette brands of ITC to cost more",
+  "source": "Deccan Herald",
+  "published_utc": "2014-08-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oberoi not to choose between son and nephew as successor at EIH",
+  "source": "Livemint",
+  "published_utc": "2014-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Biz hotel shuts shop",
+  "source": "Telegraph India",
+  "published_utc": "2014-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC develops shelf-ready packaging solution for FMCG industry",
+  "source": "The Economic Times",
+  "published_utc": "2014-08-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
