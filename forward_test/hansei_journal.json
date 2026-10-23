@@ -5288,5 +5288,280 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-23",
+    "ran_utc": "2026-10-23T11:57:39.442770+00:00",
+    "equity": 9969.15,
+    "benchmark_equity": 9871.9,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.405,
+        "target_exposure": 0.191,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.91, trusted 25%)",
+          "momentum against (-0.39, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.91,
+          "volatility": -0.076,
+          "momentum": -0.388,
+          "news": -0.244
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.079,
+        "target_exposure": 1.0,
+        "current_exposure": 0.699,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "trend supportive (+0.42, trusted 25%)",
+          "volatility against (-0.09, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.418,
+          "volatility": -0.092,
+          "momentum": -0.081,
+          "news": 0.069
+        },
+        "value": 1394.2
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.247,
+        "target_exposure": 1.0,
+        "current_exposure": 0.862,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 86%: no strong reason to change",
+          "news supportive (+0.62, trusted 25%)",
+          "trend supportive (+0.24, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.241,
+          "volatility": -0.0,
+          "momentum": 0.129,
+          "news": 0.618
+        },
+        "value": 1717.8
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.338,
+        "target_exposure": 0.325,
+        "current_exposure": 0.194,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 19%: no strong reason to change",
+          "trend against (-0.88, trusted 25%)",
+          "momentum against (-0.36, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.875,
+          "volatility": -0.0,
+          "momentum": -0.36,
+          "news": -0.115
+        },
+        "value": 387.27
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.515,
+        "target_exposure": 0.0,
+        "current_exposure": 0.259,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "trend against (-0.88, trusted 25%)",
+          "volatility against (-0.82, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.878,
+          "volatility": -0.821,
+          "momentum": -0.61,
+          "news": 0.249
+        },
+        "value": 515.8
+      }
+    ],
+    "weights": {
+      "trend": 0.25,
+      "volatility": 0.25,
+      "momentum": 0.25,
+      "news": 0.25
+    },
+    "lessons_learned": 0,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.244,
+          "strength": 1.0,
+          "material_count": 12,
+          "view": -0.244
+        },
+        "top": [
+          {
+            "title": "HDFC Bank reports Q2 profit growth: what it means for HDFC Bank stock",
+            "source": "AD HOC NEWS",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-23T07:59:52+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Q2 Results Good Or Bad: Largest Indian Bank Earns Rs 19,510 Crore Profit, NII Up 10% YoY; Highlights",
+            "source": "Goodreturns",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-22T21:05:04+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank probe reveals data leak by two senior executives \u2013 report",
+            "source": "Retail Banker International",
+            "sentiment": -0.845,
+            "material": 0.7,
+            "published_utc": "2026-10-22T13:56:29+00:00",
+            "count": 5
+          },
+          {
+            "title": "Ashima settles HDFC Bank and BBK cases for net outgo of \u20b913.94 crore",
+            "source": "scanx.trade",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-23T10:40:12+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.069,
+          "strength": 1.0,
+          "material_count": 6,
+          "view": 0.069
+        },
+        "top": [
+          {
+            "title": "Q2 Earnings Review: ICICI Bank Leads, Eternal Shows Growth Momentum And UltraTech Outlook Improves",
+            "source": "Business Today",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-22T09:06:01+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank Stock Update: Shares Edge Higher on Robust Q2 Earnings",
+            "source": "LatestLY",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-22T05:20:51+00:00",
+            "count": 1
+          },
+          {
+            "title": "JPMorgan raises target for ICICI Bank stock to INR 1,800",
+            "source": "AD HOC NEWS",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-22T07:48:20+00:00",
+            "count": 2
+          },
+          {
+            "title": "ICICI Bank Charges To Change From December 1, 2026: Check The New Fees",
+            "source": "Times Now",
+            "sentiment": -0.914,
+            "material": 0.6,
+            "published_utc": "2026-10-23T07:29:22+00:00",
+            "count": 10
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.649,
+          "strength": 0.952,
+          "material_count": 2,
+          "view": 0.618
+        },
+        "top": [
+          {
+            "title": "Petronet LNG Signs \u20b91,200 Crore JV with Gruner Renewable Energy for 10 CBG Plants",
+            "source": "Indian PSU",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-10-23T10:10:10+00:00",
+            "count": 12
+          },
+          {
+            "title": "Petronet LNG Board Meet on 2 Nov to Consider Q2 Results & Interim Dividend",
+            "source": "PSU Connect",
+            "sentiment": 0.0,
+            "material": 0.5,
+            "published_utc": "2026-10-23T09:36:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": -0.202,
+          "strength": 0.571,
+          "material_count": 3,
+          "view": -0.115
+        },
+        "top": [
+          {
+            "title": "Indian Oil to Cut Middle East Crude Purchases Amid Iran War Impact on Annual Deals for FY28",
+            "source": "Observer Voice",
+            "sentiment": -0.269,
+            "material": 0.7,
+            "published_utc": "2026-10-22T06:50:14+00:00",
+            "count": 14
+          },
+          {
+            "title": "Indian Oil announces Subrat Kar's departure after 38 years: Here's a look at his career, achievements and more",
+            "source": "Livemint",
+            "sentiment": -0.2,
+            "material": 0.5,
+            "published_utc": "2026-10-21T08:07:35+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil may cut crude imports under term deals in 2027, pause LPG vessel purchase plan",
+            "source": "Business Upturn",
+            "sentiment": -0.2,
+            "material": 0.5,
+            "published_utc": "2026-10-21T06:01:16+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.717,
+          "strength": 0.348,
+          "material_count": 1,
+          "view": 0.249
+        },
+        "top": [
+          {
+            "title": "Mere Quoting of GST Provision Is Not a Valid Charge: GSTAT Quashes ITC Denial",
+            "source": "Juris Hour",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-20T13:34:55+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]
