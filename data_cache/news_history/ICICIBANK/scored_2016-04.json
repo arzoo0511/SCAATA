@@ -1,0 +1,281 @@
+[
+ {
+  "title": "ICICI Bank puts on hold plans to sell home finance division",
+  "source": "Livemint",
+  "published_utc": "2016-04-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loans begin to get cheaper with new interest rate formula",
+  "source": "The Times of India",
+  "published_utc": "2016-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Commercial banks announce new lending rate structure",
+  "source": "Business Standard",
+  "published_utc": "2016-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How MCLR will affect your home loan",
+  "source": "Livemint",
+  "published_utc": "2016-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nita Ambani, Arundhati Bhattacharya among 8 Indians on Forbes Asia's 50 Power Businesswomen 2016 list",
+  "source": "Forbes India",
+  "published_utc": "2016-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank fraud case: ED attaches assets with Rs 53 crore of Delhi firm",
+  "source": "Business Standard",
+  "published_utc": "2016-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Asia\u2019s 50 most powerful businesswoman list topped by Nita Ambani",
+  "source": "AffairsCloud.com",
+  "published_utc": "2016-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nita Ambani most powerful businesswoman in Asia: Forbes",
+  "source": "Oneindia",
+  "published_utc": "2016-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "1,200 Vying for Rs 1 Crore BDA Sites in Kempegowda Layout",
+  "source": "The New Indian Express",
+  "published_utc": "2016-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anita Dongre's green room",
+  "source": "Livemint",
+  "published_utc": "2016-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nita Ambani, SBI chief on Forbes powerful businesswomen list",
+  "source": "Business Standard",
+  "published_utc": "2016-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Narendra Modi says govt working for permanent solution to drought",
+  "source": "Livemint",
+  "published_utc": "2016-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CarDekho launches online auto finance marketplace",
+  "source": "CarDekho",
+  "published_utc": "2016-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank cuts MCLR by 15 basis points to 8.95%",
+  "source": "Business Standard",
+  "published_utc": "2016-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI CEO Chanda Kochhar Wrote A Moving Letter About Success And Gender To Her Daughter",
+  "source": "BuzzFeed",
+  "published_utc": "2016-04-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar\u2019s letter to her daughter is going viral, and there are lessons for every mother-daughter duo in there",
+  "source": "YourStory.com",
+  "published_utc": "2016-04-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aishwarya Rai Bachchan, Sania Mirza honoured at NRI of the Year Awards 2016 in Mumbai",
+  "source": "The Times of India",
+  "published_utc": "2016-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jabong launches international fashion brand Mexx in India",
+  "source": "Business Standard",
+  "published_utc": "2016-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How liberalization brought in a new era for business families",
+  "source": "Livemint",
+  "published_utc": "2016-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Up to 500 feared dead in Mediterranean shipwreck last week",
+  "source": "Livemint",
+  "published_utc": "2016-04-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBL Bank one step closer to IPO launch",
+  "source": "Livemint",
+  "published_utc": "2016-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top banker's must-read tips to her daughter",
+  "source": "Rediff",
+  "published_utc": "2016-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Toll plazas in Telangana will not stop all motorists",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Review: Confessions\u2014It's Complicated",
+  "source": "Livemint",
+  "published_utc": "2016-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prepaid forex cards the best way to carry money abroad",
+  "source": "Business Standard",
+  "published_utc": "2016-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI governor Rajan among lowest paid central bank chiefs in world | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2016-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Venture invests $18M in fragrance maker Anthea Aromatics",
+  "source": "VCCircle",
+  "published_utc": "2016-04-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DBS taps digital platform to grow retail banking operations",
+  "source": "Livemint",
+  "published_utc": "2016-04-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank net profit plunges 87% to over 11-yr low in March quarter | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2016-04-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 1.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank net plunges 87% to over 11-year low",
+  "source": "Rediff",
+  "published_utc": "2016-04-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 1.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ramkumar leaves ICICI; Vijay Chandok made ED",
+  "source": "The Economic Times",
+  "published_utc": "2016-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

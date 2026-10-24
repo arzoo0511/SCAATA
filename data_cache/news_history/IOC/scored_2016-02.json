@@ -1,0 +1,281 @@
+[
+ {
+  "title": "Petrol, diesel price cut but hardly any difference!",
+  "source": "Rediff",
+  "published_utc": "2016-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Blow for Jones Day's cap markets: India head Manoj Bhargava, Ankit Kashyap walk",
+  "source": "Legally India",
+  "published_utc": "2016-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL pulls out of Paradip",
+  "source": "Telegraph India",
+  "published_utc": "2016-02-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vijayawada: Every LPG blast victim can claim insurance",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nagarjuna Oil Refinery looking for investors to take over Cuddalore project",
+  "source": "Business Standard",
+  "published_utc": "2016-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Narendra Modi Inaugurates Indian Oil's Paradip Refinery",
+  "source": "NDTV",
+  "published_utc": "2016-02-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why 75% drop in global oil prices isn't reaching you",
+  "source": "Rediff",
+  "published_utc": "2016-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC pledges enough gas to Nepal, shortage likely to continue in parts of the country",
+  "source": "OnlineKhabar English News",
+  "published_utc": "2016-02-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India resumes fuel supply to Nepal via Raxaul border",
+  "source": "Oneindia",
+  "published_utc": "2016-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Narendra Modi inaugurates Indian Oil's Paradip refinery",
+  "source": "Livemint",
+  "published_utc": "2016-02-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "$3 billion lawsuit begun over aboriginal oil",
+  "source": "Global News",
+  "published_utc": "2016-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Poundmaker, Onion Lake Cree Nations file $3-billion lawsuit against Canadian government over oil, gas rights",
+  "source": "Edmonton Journal",
+  "published_utc": "2016-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Profile of oil industry and fuel saving tips Part 1 By SI Singh",
+  "source": "e-pao.net",
+  "published_utc": "2016-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "95 fuel tankers enter via Birgunj",
+  "source": "The Himalayan Times",
+  "published_utc": "2016-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC doesn\u2019t know when gas shortage will end. Better ask IOC",
+  "source": "OnlineKhabar English News",
+  "published_utc": "2016-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Major Ports\u2019 Perspective: Key projects in the pipeline",
+  "source": "Indian Infrastructure Magazine",
+  "published_utc": "2016-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pakistani, Indian websites prone to cyber-attacks during key events: report",
+  "source": "The Express Tribune",
+  "published_utc": "2016-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price cut by 32 paise/litre; diesel to cost 28 paise more",
+  "source": "Andaman & Nicobar Administration",
+  "published_utc": "2016-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pawan Hans conducts successful flight test at Rohini heliport",
+  "source": "India.com",
+  "published_utc": "2016-02-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Non-tax revenues to ride on dividends, strategic sales",
+  "source": "Business Standard",
+  "published_utc": "2016-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kerala: City Gas project inaugurated",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jat quota protests: Three more agitators killed in army firing in Sonipat",
+  "source": "Scroll.in",
+  "published_utc": "2016-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt likely to resume sales of full gas cylinders",
+  "source": "The Kathmandu Post",
+  "published_utc": "2016-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Danny Derek Prince dazzles in State Bank of Hyderabad's victory",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal lifts fuel restrictions after five months of protests",
+  "source": "The Indian Express",
+  "published_utc": "2016-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian state refiners join forces in bid for better OPEC oil deals",
+  "source": "The Fiji Times",
+  "published_utc": "2016-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gilivindu set to be opened on March 6 in Kasargod",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rail Budget: Long on potential, short on reform",
+  "source": "orfonline.org",
+  "published_utc": "2016-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "School Cuts Hair Of A Class 3 Student In Bihar",
+  "source": "NDTV",
+  "published_utc": "2016-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC estimates cost of Rs28b",
+  "source": "The Kathmandu Post",
+  "published_utc": "2016-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rumours about another blockade baseless, says DPM Bhim Rawal",
+  "source": "OnlineKhabar English News",
+  "published_utc": "2016-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

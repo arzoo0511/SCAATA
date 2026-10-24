@@ -1,0 +1,326 @@
+[
+ {
+  "title": "Indian Oil launches SERVO Genuine Oils for Tata Motors passenger vehicle range",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATF price up 12%; non-subsidised LPG rate cut by Rs 61.5",
+  "source": "Moneycontrol.com",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Qutub Minar will not Tilt More",
+  "source": "Oneindia",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to set up INDMAX Unit at Bongaigaon Refinery",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-03-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC pulls up LPG agency",
+  "source": "Telegraph India",
+  "published_utc": "2016-03-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India doesn\u2019t intend to reduce petroleum supply to Nepal: Ambassador Upadhyaya",
+  "source": "OnlineKhabar English News",
+  "published_utc": "2016-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Serve and smash",
+  "source": "Telegraph India",
+  "published_utc": "2016-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dream team from season 3 of Pro Kabaddi League",
+  "source": "The Indian Express",
+  "published_utc": "2016-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bhatkal: Hangyo Shoppee inaugurated, MOU signed with Indian Oil Corp",
+  "source": "Daijiworld",
+  "published_utc": "2016-03-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Inox Wind bags two orders of 26 MW each",
+  "source": "Projects Today",
+  "published_utc": "2016-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian women participation in labour force shrinking: report",
+  "source": "VCCircle",
+  "published_utc": "2016-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai: Row over Cristiano Ronaldo, Lionel Messi ends in murder",
+  "source": "The Indian Express",
+  "published_utc": "2016-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL seeks Euro 4 diesel in rare move",
+  "source": "Reuters",
+  "published_utc": "2016-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL starts work on Octamax unit at Mathura refinery",
+  "source": "Business Standard",
+  "published_utc": "2016-03-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top News: UN report sees violations of Libyan arms embargo, ISIS expansion",
+  "source": "Atlantic Council",
+  "published_utc": "2016-03-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai Port starts refuelling service for ships at anchorage",
+  "source": "The Hindu",
+  "published_utc": "2016-03-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bid to unlock potential",
+  "source": "The Fiji Times",
+  "published_utc": "2016-03-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors flags off new endurance test for its three models",
+  "source": "ET Auto",
+  "published_utc": "2016-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s growing importance in international tanker trades",
+  "source": "Splash 24/7",
+  "published_utc": "2016-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Honey Singh looks forward to share stage with Salman Khan",
+  "source": "The Indian Express",
+  "published_utc": "2016-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Informatica expands India development facility, invests $185 million in R&D globally in 2016",
+  "source": "ET CIO",
+  "published_utc": "2016-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rosneft to Form a Unique International Consortium Based on the Vankor Project",
+  "source": "Rosneft",
+  "published_utc": "2016-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil marketing companies gain on petrol, diesel price hike",
+  "source": "Business Standard",
+  "published_utc": "2016-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rosneft Sells Stake In Oil Fields To Indian Companies Amid Debt, Low Oil Prices",
+  "source": "International Business Times",
+  "published_utc": "2016-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will China invest in Nepal\u2019s hydropower plants?",
+  "source": "Scroll.in",
+  "published_utc": "2016-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Service road being built along Dindigul arm of over-bridge",
+  "source": "The Times of India",
+  "published_utc": "2016-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation launch new Servo Tata Motors Genuine Oils in India",
+  "source": "Overdrive",
+  "published_utc": "2016-03-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RULL bets big on next-generation lubricants range",
+  "source": "Motorindia",
+  "published_utc": "2016-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Chemicals to temporarily shut down Babrala fertiliser plant",
+  "source": "Business Standard",
+  "published_utc": "2016-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2020: Indian Refineries on fast track to meet BS VI emission norms",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-03-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "AIl India Public Sector Chess Tournament 2016",
+  "source": "ChessBase India",
+  "published_utc": "2016-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Neighbouring with the north",
+  "source": "The Kathmandu Post",
+  "published_utc": "2016-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Profile: FCB Ulka's Nitin Karkare: \"We haven't made a song and dance about most of our business wins\"",
+  "source": "afaqs!",
+  "published_utc": "2016-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Suzlon to supply 48.3MW in northwest",
+  "source": "Wind Power Monthly",
+  "published_utc": "2016-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Industry will be $100 bn in 10 years: Ambani",
+  "source": "Business Standard",
+  "published_utc": "2016-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ground water level up 67% in Gujarat",
+  "source": "Business Standard",
+  "published_utc": "2016-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

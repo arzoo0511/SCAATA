@@ -1,0 +1,317 @@
+[
+ {
+  "title": "Towards a Swachh Bharat",
+  "source": "PM India",
+  "published_utc": "2016-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex begins 2016 with a stumble, down 51 points",
+  "source": "The Hindu",
+  "published_utc": "2016-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After discount of Rs 1.50/kg on CNG, IGL also eases payment of PNG security",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI imposes Rs1 crore penalty on State Bank of Travancore",
+  "source": "Livemint",
+  "published_utc": "2016-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Academy for Skills inaugurates its first centre in Mumbai",
+  "source": "India.com",
+  "published_utc": "2016-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pathankot attack aftermath: Bathinda police setup bunkers | Hindustan Times",
+  "source": "Hindustan Times",
+  "published_utc": "2016-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Engineering: Better growth ahead, but nowhere near the best",
+  "source": "Livemint",
+  "published_utc": "2016-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATMs to be shut down during night",
+  "source": "The Tribune",
+  "published_utc": "2016-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Post Payments Bank receives 40 partnership proposals for new venture",
+  "source": "Business Standard",
+  "published_utc": "2016-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The link between Capricorn eServe and former Foodpanda MD Rohit Chadda",
+  "source": "Livemint",
+  "published_utc": "2016-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bharat Forge to invest in Andhra Pradesh",
+  "source": "mint",
+  "published_utc": "2016-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ranty Martins gets East Bengal three points in I-League's opening match",
+  "source": "The Economic Times",
+  "published_utc": "2016-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The resurgence of Bombay Gas",
+  "source": "Livemint",
+  "published_utc": "2016-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Contributions to TN flood relief crosses Rs 300 Crore",
+  "source": "Oneindia",
+  "published_utc": "2016-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India largest recipient of World Bank loans over 70 years",
+  "source": "Business Standard",
+  "published_utc": "2016-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank mortgage portfolio crosses Rs 1 lakh crore",
+  "source": "India.com",
+  "published_utc": "2016-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI taps into wealth management segment",
+  "source": "Livemint",
+  "published_utc": "2016-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Raja Nayak | When caste became irrelevant",
+  "source": "Livemint",
+  "published_utc": "2016-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank grabs 52% share in credit card book size",
+  "source": "Business Standard",
+  "published_utc": "2016-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "27 bank stocks@52-wk lows: Good time to buy?",
+  "source": "The Economic Times",
+  "published_utc": "2016-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet 7 leaders who are changing the face of fintech in Asia",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2016-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra net up 32%",
+  "source": "Business Standard",
+  "published_utc": "2016-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank enters South Africa, opens branch in Johannesburg",
+  "source": "The Economic Times",
+  "published_utc": "2016-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Foreign insurers bet big on their Indian ventures",
+  "source": "Business Standard",
+  "published_utc": "2016-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank eyes Rs 80,000 crore mobile banking transactions by March",
+  "source": "India.com",
+  "published_utc": "2016-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICSI appointed Mamta Binani as its President",
+  "source": "AffairsCloud.com",
+  "published_utc": "2016-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FreeCharge launches virtual card FreeCharge Go",
+  "source": "MediaNama",
+  "published_utc": "2016-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "I&M Bank",
+  "source": "Soko Directory",
+  "published_utc": "2016-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q3 net profit slips 4.3 per cent to Rs 3,122 crore",
+  "source": "India.com",
+  "published_utc": "2016-01-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Profit Growth Slows to Six-Year Low as Bad Loans Surge",
+  "source": "Bloomberg.com",
+  "published_utc": "2016-01-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mortgages offer silver lining for India's banks as corporate loans languish",
+  "source": "Reuters",
+  "published_utc": "2016-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank net up but weighed down by higher provisions",
+  "source": "India.com",
+  "published_utc": "2016-01-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fast bowling is 75% body and fitness: Ashish Nehra",
+  "source": "Livemint",
+  "published_utc": "2016-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why India needs Sunny Leone",
+  "source": "Livemint",
+  "published_utc": "2016-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What really happened at Vasan Healthcare?",
+  "source": "Livemint",
+  "published_utc": "2016-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

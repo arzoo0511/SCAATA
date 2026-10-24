@@ -1,0 +1,20 @@
+[
+ {
+  "title": "India\u2019s energy muscle helps Petronet get better Qatar gas deal",
+  "source": "Arab News",
+  "published_utc": "2015-12-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RasGas Qatar slashes gas price for India, waives Rs 12,000-crore penalty",
+  "source": "ET EnergyWorld",
+  "published_utc": "2015-12-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

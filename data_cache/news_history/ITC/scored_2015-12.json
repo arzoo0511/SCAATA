@@ -1,0 +1,38 @@
+[
+ {
+  "title": "Lets Transport \u2013 Overhauling transport business",
+  "source": "Motorindia",
+  "published_utc": "2015-12-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3i Group to sell 30% stake in BVG India",
+  "source": "Livemint",
+  "published_utc": "2015-12-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC follows the Aashirvaad trail",
+  "source": "Rediff",
+  "published_utc": "2015-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC elevates Dipak Haksar as Chief Executive, Hotels division",
+  "source": "The Economic Times",
+  "published_utc": "2015-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,407 @@
+[
+ {
+  "title": "SKS Microfinance raises Rs216 crore through securitization deal",
+  "source": "Livemint",
+  "published_utc": "2016-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDBI Bank unveils Rs 20,000-crore investment plan over three years",
+  "source": "The Economic Times",
+  "published_utc": "2016-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank app for Windows Phone updated with new features",
+  "source": "nokiapoweruser.com",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brand Trust: Consumers give thumbs up to product brands",
+  "source": "Business Standard",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIM Indore sees 10% jump in salary offers",
+  "source": "The Economic Times",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to partner with startups",
+  "source": "The Times of India",
+  "published_utc": "2016-03-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s pilot for location based ATM fraud detection has 25k consenting customers",
+  "source": "MediaNama",
+  "published_utc": "2016-03-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swift India goes live",
+  "source": "Society for Worldwide Interbank Financial Telecommunication",
+  "published_utc": "2016-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "redBus goes Uber way, starts on-demand ticketing for buses",
+  "source": "Business Standard",
+  "published_utc": "2016-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Capital Local Area Bank receives RBI licence to operate as small finance bank",
+  "source": "The Economic Times",
+  "published_utc": "2016-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon emerges as India's most trusted online shopping brand: Survey",
+  "source": "ET BrandEquity",
+  "published_utc": "2016-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Security beefed up in Kolkata airport after threat mail",
+  "source": "Business Standard",
+  "published_utc": "2016-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two ways to open an NPS account online",
+  "source": "Livemint",
+  "published_utc": "2016-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Black money: RBI to share FDI-related information with IB, RAW",
+  "source": "The Times of India",
+  "published_utc": "2016-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank serves notice on HDFC Bank's HR head",
+  "source": "Business Standard",
+  "published_utc": "2016-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank deploys products from five fintech companies",
+  "source": "MediaNama",
+  "published_utc": "2016-03-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet The Five Fintech Startups Who Won At The HDFC Bank\u2019s Digital Innovation Summit",
+  "source": "Inc42",
+  "published_utc": "2016-03-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CVC for e-verification of bank guarantees to check frauds",
+  "source": "The Economic Times",
+  "published_utc": "2016-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No Sign of Sharp Economic Turnaround in FY17: Crisil",
+  "source": "NDTV Profit",
+  "published_utc": "2016-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank partners with five start-ups",
+  "source": "Business Standard",
+  "published_utc": "2016-03-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why this Indian bank is partnering with startups",
+  "source": "YourStory.com",
+  "published_utc": "2016-03-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank ties up with 5 start ups",
+  "source": "AffairsCloud",
+  "published_utc": "2016-03-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CRISIL downgrades ratings of 8 PSBs",
+  "source": "Business Standard",
+  "published_utc": "2016-03-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Armed with new R&D centre, Hero to focus on premium bikes",
+  "source": "Business Standard",
+  "published_utc": "2016-03-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What\u2019s Next, Mr Vijay Mallya?",
+  "source": "LinkedIn",
+  "published_utc": "2016-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "S&P Assigns Investment Grade Rating to ICICI Bank Dollar Bond",
+  "source": "NDTV Profit",
+  "published_utc": "2016-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches 'SmartUp' for startups",
+  "source": "The Times of India",
+  "published_utc": "2016-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Launches SmartUp \u2013 Banking Solution For Startups",
+  "source": "Inc42",
+  "published_utc": "2016-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Breaking the glass ceiling: Meet the female brigade that is leading the charge at SBI",
+  "source": "The Economic Times",
+  "published_utc": "2016-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shehnai exponent Ustad Ali Ahmad Hussain Khan dies",
+  "source": "Rediff",
+  "published_utc": "2016-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Unleashes \u2018Smartup\u2019 Its Banking Solution Service For Startups",
+  "source": "TechStory",
+  "published_utc": "2016-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC grants early hearing of Uphaar theatre fire case review",
+  "source": "Livemint",
+  "published_utc": "2016-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TCS, 5 Other Sensex Firms Add Rs 37,414 Crore to Market Value",
+  "source": "NDTV Profit",
+  "published_utc": "2016-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Startup Rubique helps bridge the gap between borrowers and lenders",
+  "source": "The Economic Times",
+  "published_utc": "2016-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Multinational foreign banks exiting India to protect profitability",
+  "source": "The Economic Times",
+  "published_utc": "2016-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The budget has got validation from the market: Hitendra Dave",
+  "source": "Livemint",
+  "published_utc": "2016-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Sistine Chapel of the Middle Ages' reopens to public in Rome",
+  "source": "Livemint",
+  "published_utc": "2016-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rajeev Satav\u2014the Congress crusader",
+  "source": "Livemint",
+  "published_utc": "2016-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Obama shrugs off criticism after baseball game, tango dance",
+  "source": "Livemint",
+  "published_utc": "2016-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mobile banking sees dramatic surge in India",
+  "source": "Livemint",
+  "published_utc": "2016-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dentsu Media bags National Payments Corporation of India (NPCI) business",
+  "source": "afaqs!",
+  "published_utc": "2016-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes, it's true we are separated... say Malaika, Arbaaz in joint statement",
+  "source": "Rediff",
+  "published_utc": "2016-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is a higher credit limit good for you?",
+  "source": "The Economic Times",
+  "published_utc": "2016-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Opening a bank locker? Do your homework",
+  "source": "Livemint",
+  "published_utc": "2016-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 years after split, Honda sets formidable challenge for Hero MotoCorp",
+  "source": "Livemint",
+  "published_utc": "2016-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

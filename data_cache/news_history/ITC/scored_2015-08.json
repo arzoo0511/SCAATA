@@ -1,0 +1,56 @@
+[
+ {
+  "title": "India | Gov\u2019t seeks USD99m damages from Nestle after banning Maggi noodles",
+  "source": "macau daily times \u6fb3\u9580\u6bcf\u65e5\u6642\u5831",
+  "published_utc": "2015-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sanitation woes continue to plague girl students",
+  "source": "Livemint",
+  "published_utc": "2015-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Uttar Pradesh food regulator finds \u2018excess\u2019 lead in Yippee noodles, to file case",
+  "source": "The Indian Express",
+  "published_utc": "2015-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UP food regulator finds lead in Yippee noodles; to file case",
+  "source": "The Hindu",
+  "published_utc": "2015-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "U.P. to file case over \u2018excess\u2019 lead in Yippee noodles",
+  "source": "The Hindu",
+  "published_utc": "2015-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC denies receiving notice on excess lead in Yippee noodles",
+  "source": "ETRetail.com",
+  "published_utc": "2015-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

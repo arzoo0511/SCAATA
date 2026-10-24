@@ -1,0 +1,371 @@
+[
+ {
+  "title": "Helping \u201cMake in India\u201d",
+  "source": "McKinsey & Company",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mobile phone promoters accused in several cases",
+  "source": "The Hindu",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prasad Patil joins JM Baxi Group as CTO",
+  "source": "Express Computer",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "You can sell CHB house any time",
+  "source": "The Times of India",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New dividend tax to hurt Premji, Mukesh Ambani the most",
+  "source": "Business Standard",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIM Indore sees 10% jump in salary offers",
+  "source": "The Economic Times",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brand Trust: Consumers give thumbs up to product brands",
+  "source": "Business Standard",
+  "published_utc": "2016-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swift India goes live",
+  "source": "Society for Worldwide Interbank Financial Telecommunication",
+  "published_utc": "2016-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Time Inc. Ups its Global Ambitions",
+  "source": "Time Magazine",
+  "published_utc": "2016-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon emerges as India's most trusted online shopping brand: Survey",
+  "source": "ET BrandEquity",
+  "published_utc": "2016-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI among 4 new foreign banks allowed to operate in Myanmar",
+  "source": "The Economic Times",
+  "published_utc": "2016-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank takes two steps to foster women's career goals",
+  "source": "Forbes India",
+  "published_utc": "2016-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bajaj Power signs agreement with Indian Railways",
+  "source": "Business Standard",
+  "published_utc": "2016-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to allow women employees one year of work from home",
+  "source": "The Hindu",
+  "published_utc": "2016-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI deploys tech, allows women staffers to log in to work @home",
+  "source": "The Times of India",
+  "published_utc": "2016-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to let women work from home for a year",
+  "source": "Business Standard",
+  "published_utc": "2016-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches iWork@home for women employees",
+  "source": "Oneindia",
+  "published_utc": "2016-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Shows the Way, Lets Women Employees Work From Home for up to a Year - Cosmopolitan India",
+  "source": "Cosmopolitan India",
+  "published_utc": "2016-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank serves notice on HDFC Bank's HR head",
+  "source": "Business Standard",
+  "published_utc": "2016-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank associates with Ferrari for co-branded credit card",
+  "source": "Equitypandit",
+  "published_utc": "2016-03-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "S&P Assigns Investment Grade Rating to ICICI Bank Dollar Bond",
+  "source": "NDTV Profit",
+  "published_utc": "2016-03-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches Ferrari range of credit cards",
+  "source": "Forbes India",
+  "published_utc": "2016-03-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank has launched contactless mobile pay solution",
+  "source": "Equitypandit",
+  "published_utc": "2016-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches Ferrari credit cards",
+  "source": "Banking Frontiers",
+  "published_utc": "2016-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who\u2019s who of India served on Kingfisher Airlines\u2019 board",
+  "source": "The Times of India",
+  "published_utc": "2016-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shehnai exponent Ustad Ali Ahmad Hussain Khan dies",
+  "source": "Rediff",
+  "published_utc": "2016-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil marketing companies gain on petrol, diesel price hike",
+  "source": "Business Standard",
+  "published_utc": "2016-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank ties up with Ferrari for co-branded credit cards",
+  "source": "ZigWheels.com",
+  "published_utc": "2016-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Devendra Fadnavis\u2019 lawyer sends legal notice to Digvijaya Singh",
+  "source": "Scroll.in",
+  "published_utc": "2016-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI leads mobile banking chart with 38 per cent market share",
+  "source": "Express Computer",
+  "published_utc": "2016-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The budget has got validation from the market: Hitendra Dave",
+  "source": "Livemint",
+  "published_utc": "2016-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Sistine Chapel of the Middle Ages' reopens to public in Rome",
+  "source": "Livemint",
+  "published_utc": "2016-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rajeev Satav\u2014the Congress crusader",
+  "source": "Livemint",
+  "published_utc": "2016-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Obama shrugs off criticism after baseball game, tango dance",
+  "source": "Livemint",
+  "published_utc": "2016-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Profile: FCB Ulka's Nitin Karkare: \"We haven't made a song and dance about most of our business wins\"",
+  "source": "afaqs!",
+  "published_utc": "2016-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mobile banking sees dramatic surge in India",
+  "source": "Livemint",
+  "published_utc": "2016-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes, it's true we are separated... say Malaika, Arbaaz in joint statement",
+  "source": "Rediff",
+  "published_utc": "2016-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dentsu Media bags National Payments Corporation of India (NPCI) business",
+  "source": "afaqs!",
+  "published_utc": "2016-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Opening a bank locker? Do your homework",
+  "source": "Livemint",
+  "published_utc": "2016-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sukanya Samriddhi Account: A promise of security for the girl child",
+  "source": "The News Himachal",
+  "published_utc": "2016-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TRACK SENSEX, NIFTY LIVE: Who moved my market today",
+  "source": "The Economic Times",
+  "published_utc": "2016-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

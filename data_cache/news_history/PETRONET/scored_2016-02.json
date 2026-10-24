@@ -1,0 +1,20 @@
+[
+ {
+  "title": "TN move may hit Petronet plans",
+  "source": "The Hindu",
+  "published_utc": "2016-02-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "S C Pandey appointed as AS & FA, DIPP",
+  "source": "IndianMandarins",
+  "published_utc": "2016-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

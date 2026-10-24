@@ -1,0 +1,47 @@
+[
+ {
+  "title": "Amul collaborates with WOW Design for a packaging design makeover!",
+  "source": "Adgully.com",
+  "published_utc": "2016-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dabur Nepal juice supply to resume as blockade ends",
+  "source": "Livemint",
+  "published_utc": "2016-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maggi chicken noodles on Snapdeal from 11 February",
+  "source": "Livemint",
+  "published_utc": "2016-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC looking to enter seafood, frozen food categories",
+  "source": "Livemint",
+  "published_utc": "2016-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "If Shan doesn't get you, Pran will",
+  "source": "Livemint",
+  "published_utc": "2016-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,326 @@
+[
+ {
+  "title": "ICICI Bank's top executives forego performance bonus",
+  "source": "Livemint",
+  "published_utc": "2016-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 reasons why ICICI Bank is a difficult buy",
+  "source": "Business Standard",
+  "published_utc": "2016-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank top-brass lose performance bonus",
+  "source": "The Economic Times",
+  "published_utc": "2016-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPA pains to continue at 'elevated levels' this fiscal: ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2016-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks sell portion of Arch pharma\u2019s Rs 3,000-crore loan at half the value",
+  "source": "The Economic Times",
+  "published_utc": "2016-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lenders to revalue Kingfisher House, hope to sell it shortly",
+  "source": "Livemint",
+  "published_utc": "2016-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aviva Plc raises stake to 49% in Indian venture",
+  "source": "Business Standard",
+  "published_utc": "2016-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank has signed MoU with BRICS bank NDB",
+  "source": "Equitypandit",
+  "published_utc": "2016-05-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Craters \u2013 Not Cracks \u2013 Are Finally Emerging at ICICI Bank",
+  "source": "TheWire.in",
+  "published_utc": "2016-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Legal tangle to hit auction of Dunlop's Mumbai property",
+  "source": "ET Realty",
+  "published_utc": "2016-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mrugank Paranjape is the new MD & CEO of MCX",
+  "source": "Moneylife",
+  "published_utc": "2016-05-09T19:28:26+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No negative balances in savings accounts: RBI",
+  "source": "The Times of India",
+  "published_utc": "2016-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DTAA with Mauritius: Indian firms with high FII holding at risk, says report",
+  "source": "IBTimes India",
+  "published_utc": "2016-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tiger Global gets exit option with Titan's CaratLane deal",
+  "source": "Livemint",
+  "published_utc": "2016-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "19 firms lap up 47 NLSIU grads; average salary Rs 14L",
+  "source": "The Times of India",
+  "published_utc": "2016-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HSBC\u2019s Vikas Khattar to head Jefferies\u2019 equity capital markets business",
+  "source": "The Economic Times",
+  "published_utc": "2016-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NITI Aayog to replace 5-year plans with 15-year vision document",
+  "source": "Livemint",
+  "published_utc": "2016-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TRACK SENSEX, NIFTY LIVE: Who moved my market today",
+  "source": "The Economic Times",
+  "published_utc": "2016-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Associate banks propose merger with parent SBI",
+  "source": "The Economic Times",
+  "published_utc": "2016-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mapping the market: Exit poll magic lifts market, Sun TV; 19 stocks @52-wk highs",
+  "source": "The Economic Times",
+  "published_utc": "2016-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Sex Files, courtesy ICICI Bank a/c holders",
+  "source": "Bangalore Mirror",
+  "published_utc": "2016-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Urges Taxpayers to Pay their Income Tax Dues On Time",
+  "source": "SAG Infotech Official Tax Blog",
+  "published_utc": "2016-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three charts show how State Bank of India could become five times the size of its closest competitor",
+  "source": "Scroll.in",
+  "published_utc": "2016-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NEET II 2016 Admission Notice",
+  "source": "Allen",
+  "published_utc": "2016-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tim Cook meets Narendra Modi to craft Apple\u2019s India strategy",
+  "source": "The Hindu",
+  "published_utc": "2016-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple's Cook tours India in critical moment for iPhones",
+  "source": "USA Today",
+  "published_utc": "2016-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking sector: More bad news expected",
+  "source": "The Economic Times",
+  "published_utc": "2016-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple CEO Tim Cook India visit recap: Meets PM Modi, Hyderabad Maps office and more",
+  "source": "The Indian Express",
+  "published_utc": "2016-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Send cheque image for faster clearance",
+  "source": "The Times of India",
+  "published_utc": "2016-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank now has Pay Positive feature for sending cheque image for faster clearance",
+  "source": "KNN India",
+  "published_utc": "2016-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex, Nifty, Bank Nifty end at 2016 closing high; infra up 9%",
+  "source": "Moneycontrol.com",
+  "published_utc": "2016-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "It is hard to miss L&T's S N Subrahmanyan if you are a business flyer",
+  "source": "Business Standard",
+  "published_utc": "2016-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We will not get into something that we do not understand: Melwyn Rego",
+  "source": "Business Standard",
+  "published_utc": "2016-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Among World's Top 10 Consumer Financial Services Company",
+  "source": "NDTV Profit",
+  "published_utc": "2016-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The demographic divide",
+  "source": "Ahmedabad Mirror",
+  "published_utc": "2016-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Multiples PE puts Vikram Hospital stake on sale",
+  "source": "Livemint",
+  "published_utc": "2016-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

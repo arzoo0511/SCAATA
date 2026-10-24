@@ -1,0 +1,308 @@
+[
+ {
+  "title": "New year gift: Petrol price down by 63 paise/litre, diesel by Rs 1.06 a litre",
+  "source": "India Today",
+  "published_utc": "2016-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SpiceJet, IndiGo, Jet Airways Surge Over 10%",
+  "source": "NDTV Profit",
+  "published_utc": "2016-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixtures, Schedule | Indian Oil Cup",
+  "source": "Cricinfo",
+  "published_utc": "2016-01-01T16:54:39+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Wins Discount on Qatari LNG Purchase",
+  "source": "Egypt Oil & Gas",
+  "published_utc": "2016-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meru Cabs launches ridesharing services in Delhi",
+  "source": "MediaNama",
+  "published_utc": "2016-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "N-projects to get equity boost on NPCIL\u2019s JV plans with PSUs",
+  "source": "The Indian Express",
+  "published_utc": "2016-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Poorakothi Village in Bihar becomes smoke-free: Read to know more",
+  "source": "India Today",
+  "published_utc": "2016-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Electromagnetic Radiation : \u2018Wake-Up Call\u2019 For Everyone",
+  "source": "ET HealthWorld",
+  "published_utc": "2016-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to spend $600 million on Paradip refinery upgrade",
+  "source": "Business Standard",
+  "published_utc": "2016-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors Genuine Oil, developed jointly with Petronas Lubricants, launched in India",
+  "source": "www.overdrive.in",
+  "published_utc": "2016-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil ties up with logistics start-up firm Fortigo",
+  "source": "The Economic Times",
+  "published_utc": "2016-01-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Singapore gross refining margins show strength",
+  "source": "Livemint",
+  "published_utc": "2016-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "18 Law Officer Vacancies at Indian Oil Corporation (IOCL)",
+  "source": "Live Law",
+  "published_utc": "2016-01-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Paradip Refinery to Produce Euro VI Fuel by 2020",
+  "source": "Egypt Oil & Gas",
+  "published_utc": "2016-01-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC, HPCL, BPCL plan country's biggest oil refinery",
+  "source": "The Economic Times",
+  "published_utc": "2016-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "14 years on, Paradip refinery to be inaugurated",
+  "source": "Business Standard",
+  "published_utc": "2016-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran Oil Tankers Pointing Straight at India and Europe as Clock Ticks Down on Sactions",
+  "source": "gCaptain",
+  "published_utc": "2016-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC begins petrol production from Paradip refinery",
+  "source": "The Hindu",
+  "published_utc": "2016-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Commissions Paradip Refinery",
+  "source": "BestCurrentAffairs.com",
+  "published_utc": "2016-01-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL aims to run Paradip refinery at 100% capacity from FY17",
+  "source": "Business Standard",
+  "published_utc": "2016-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bio diesel first loco flagged off",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paradip refinery to turn around IOC's prospects",
+  "source": "Business Standard",
+  "published_utc": "2016-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Narendra Modi to dedicate Rs 35,000 cr, 15 MMTPA Paradip refinery to the nation on 7th February",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now Consumers Can Pay Online While Booking LPG Cylinder",
+  "source": "NDTV",
+  "published_utc": "2016-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Novak Djokovic loves chewing on dates",
+  "source": "Mid-Day",
+  "published_utc": "2016-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's State Oil Refiners Plan Plant to Rival Ambani's Reliance",
+  "source": "Bloomberg.com",
+  "published_utc": "2016-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dhanush \u2018excited\u2019 about Hollywood debut",
+  "source": "The Indian Express",
+  "published_utc": "2016-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lelu Declaration a Major Wrench in Hardhat Premier\u2019s LNG Plans",
+  "source": "The Tyee",
+  "published_utc": "2016-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State-run oil firms plan refinery to rival Reliance",
+  "source": "Livemint",
+  "published_utc": "2016-01-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "World's largest oil refinery to be built by Indian PSUs",
+  "source": "NewsBytes",
+  "published_utc": "2016-01-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State-run oil firms to set up biggest refinery",
+  "source": "The Hindu",
+  "published_utc": "2016-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire at Indian Oil refinery at Paradip a week before PM Modi\u2019s visit",
+  "source": "The Indian Express",
+  "published_utc": "2016-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odd-even paves way for 14 new CNG pumps in Noida",
+  "source": "ET Auto",
+  "published_utc": "2016-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire at IOCL refinery in Odisha, no major damage",
+  "source": "The Peninsula Qatar",
+  "published_utc": "2016-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

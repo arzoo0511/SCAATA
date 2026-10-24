@@ -1,0 +1,47 @@
+[
+ {
+  "title": "India renegotiates LNG agreement with Qatar: Indian minister",
+  "source": "The Peninsula Qatar",
+  "published_utc": "2016-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to gradually move to gas-based economy, Dharmendra Pradhan says",
+  "source": "Reuters",
+  "published_utc": "2016-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LNG terminal at Gangavaram Port awaits backing from AP govt",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LNG terminal project in Vizag is on back burner",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LNG pipeline: Govt sitting on compensation file",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

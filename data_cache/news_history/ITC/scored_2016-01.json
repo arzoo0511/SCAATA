@@ -1,0 +1,47 @@
+[
+ {
+  "title": "Will larger warning on cigarette packs cut tobacco consumption? Parl panel asks health ministry",
+  "source": "Firstpost",
+  "published_utc": "2016-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's Yippee nears Rs 1,000-crore mark, gains from Maggi controversy",
+  "source": "ETRetail.com",
+  "published_utc": "2016-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Balaji Wafers to sell 10% stake via IPO",
+  "source": "Livemint",
+  "published_utc": "2016-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s Yippee noodles nears Rs 1k-cr mark, gains from Maggi controversy",
+  "source": "The Financial Express",
+  "published_utc": "2016-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC appoints Nirupama Rao as Additional Independent Director",
+  "source": "ET Retail",
+  "published_utc": "2016-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

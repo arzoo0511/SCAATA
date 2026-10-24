@@ -1,0 +1,47 @@
+[
+ {
+  "title": "Zydus Cadila CMD Pankaj Patel named IIM-Udaipur chairman",
+  "source": "Business Standard",
+  "published_utc": "2016-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Wins Discount on Qatari LNG Purchase",
+  "source": "Egypt Oil & Gas",
+  "published_utc": "2016-01-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Qatar\u2019s LNG value chain efficiency is tough for other producers to match | Gulf Times",
+  "source": "Gulf Times",
+  "published_utc": "2016-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cochin Port to explore use of dredged sand for construction",
+  "source": "The Economic Times",
+  "published_utc": "2016-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Port plans to encash dredged sand",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

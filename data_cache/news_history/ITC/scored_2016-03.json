@@ -1,0 +1,74 @@
+[
+ {
+  "title": "Cigarette gets the stick yet again",
+  "source": "Telegraph India",
+  "published_utc": "2016-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Happening Haryana Global Investors Summit-2016 - Arun Jaitley",
+  "source": "Prokerala",
+  "published_utc": "2016-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MPs to seek smaller health warnings on cigarette packs: report",
+  "source": "Livemint",
+  "published_utc": "2016-03-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Sri Ravi Shankar vs Baba Ramdev: the new consumer product war?",
+  "source": "Livemint",
+  "published_utc": "2016-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WHO to India: Stick to Larger Health Warnings on Cigarette Packs",
+  "source": "VOA - Voice of America English News",
+  "published_utc": "2016-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC hikes prices of its two most-selling cigarette brands",
+  "source": "Livemint",
+  "published_utc": "2016-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ltd acquires Technico Agri Sciences ltd",
+  "source": "EquityBulls",
+  "published_utc": "2016-03-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC buys Technico's India seed potato unit for Rs121 crore",
+  "source": "Livemint",
+  "published_utc": "2016-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

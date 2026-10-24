@@ -1,0 +1,56 @@
+[
+ {
+  "title": "Consumer: sales growth wears thin",
+  "source": "Livemint",
+  "published_utc": "2015-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How India's tax system helps cigarettes flourish",
+  "source": "Rediff",
+  "published_utc": "2015-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's Yippee noodles looks to step into fill Maggi void",
+  "source": "Livemint",
+  "published_utc": "2015-09-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jagmohan Dalmiya: The tactician who made business out of cricket",
+  "source": "Business Standard",
+  "published_utc": "2015-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to spend Rs 250 crore for strengthening rural livelihoods",
+  "source": "ETRetail.com",
+  "published_utc": "2015-09-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Delays Implementation Of Bigger Tobacco Pack Warnings",
+  "source": "Medical Daily",
+  "published_utc": "2015-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

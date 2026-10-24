@@ -1,0 +1,308 @@
+[
+ {
+  "title": "Lubes oil the HP brand",
+  "source": "Business Standard",
+  "published_utc": "2015-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai Petroleum May Shut Refinery Unit After Floods",
+  "source": "NDTV Profit",
+  "published_utc": "2015-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "INDMAX Commissioned at IOCL Paradip Refinery",
+  "source": "ET EnergyWorld",
+  "published_utc": "2015-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Train running on bio-diesel flagged off",
+  "source": "The Hindu",
+  "published_utc": "2015-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest updates: Modi announces Rs. 2 lakh ex-gratia",
+  "source": "The Hindu",
+  "published_utc": "2015-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai airport to be made operational in rain-battered Tamil Nadu today",
+  "source": "Zee News",
+  "published_utc": "2015-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "More fuel-laden tankers enter Nepal via Dhangadhi point",
+  "source": "The Himalayan Times",
+  "published_utc": "2015-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran may seal $4.5-bn undersea gas pipeline agreement with India",
+  "source": "Business Standard",
+  "published_utc": "2015-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Manager Arrested in Jaipur for Allegedly Trying to Spread ISIS Ideology",
+  "source": "NDTV",
+  "published_utc": "2015-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC official held for ISIS links",
+  "source": "The Hindu",
+  "published_utc": "2015-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil settles rehab issue",
+  "source": "Telegraph India",
+  "published_utc": "2015-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal blockade: Six ways it affects the country",
+  "source": "BBC",
+  "published_utc": "2015-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation to invest Rs.1.75 lakh cr to expand",
+  "source": "The Hindu",
+  "published_utc": "2015-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Neighbours say Jaipur engineer held for IS links was shy, quiet, and a caring husband",
+  "source": "Scroll.in",
+  "published_utc": "2015-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Number of cargo vehicles entering Nepal on the rise",
+  "source": "The Himalayan Times",
+  "published_utc": "2015-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Panamaram to become first smoke-free village",
+  "source": "The Hindu",
+  "published_utc": "2015-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shakur Basti residents dismiss claims of Northern Railway notices",
+  "source": "India Today",
+  "published_utc": "2015-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil\u2019s \u2018Make in India\u201d initiative: Low cost Aviation Fuel Station",
+  "source": "ET EnergyWorld",
+  "published_utc": "2015-12-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL CMD Nishi Vasudeva awarded Global \u2018CEO of the Year\u2019 by Platts Global Energy Awards",
+  "source": "ET EnergyWorld",
+  "published_utc": "2015-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India and Russia eye nuclear, helicopter deals before Modi's Moscow visit",
+  "source": "Yahoo",
+  "published_utc": "2015-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ISIS luring Indian girls in the age group of 14 and 20",
+  "source": "Oneindia",
+  "published_utc": "2015-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "U.S. Oil Is Too Good, Too Pricey and Too Far for Asia Buyers",
+  "source": "gCaptain",
+  "published_utc": "2015-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IS leanings put girl, 16, under the radar",
+  "source": "PressReader",
+  "published_utc": "2015-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC's Director (R&D)--designate Debangshu Ray resigns",
+  "source": "The Economic Times",
+  "published_utc": "2015-12-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to Buy $7 Billion Worth of Russian Weapons",
+  "source": "The Moscow Times",
+  "published_utc": "2015-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India doubles ethanol blending target to help sugar mills",
+  "source": "Agweek",
+  "published_utc": "2015-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC to convert loans to OVL into equity",
+  "source": "Livemint",
+  "published_utc": "2015-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Relation With Neighbours in 2015",
+  "source": "BestCurrentAffairs.com",
+  "published_utc": "2015-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fortune 500 India: IOC, RIL grab top 2 slots for 6th straight year",
+  "source": "Business Standard",
+  "published_utc": "2015-12-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indane directs staff to carry weighing scale, give only weighed cylinder to customers",
+  "source": "The Times of India",
+  "published_utc": "2015-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India pumps desert oil, seeks energy security",
+  "source": "Kuwait Times",
+  "published_utc": "2015-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bulk LPG tanker drivers on strike",
+  "source": "The Hindu",
+  "published_utc": "2015-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Residents in Hyderabad, beware of the increasing 'petrol' fraud",
+  "source": "The News Minute",
+  "published_utc": "2015-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Beginning 2016: LPG delivered, a \u2018smokeless\u2019 panchayat",
+  "source": "The Indian Express",
+  "published_utc": "2015-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

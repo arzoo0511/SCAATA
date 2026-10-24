@@ -1,0 +1,128 @@
+[
+ {
+  "title": "Indian cigarette makers halt production over health warning rules",
+  "source": "Reuters",
+  "published_utc": "2016-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cigarette makers shut their factories over pictorial warning rules | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2016-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ITC says to keep cigarette factories shut over health warning rules",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "dCell develops Visual Identity for Raw Pressery juices",
+  "source": "MediaNews4U",
+  "published_utc": "2016-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India steps up fight against cigarette firms over prominence of health warnings on packs",
+  "source": "South China Morning Post",
+  "published_utc": "2016-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Beedi makers halt production over health warnings",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC launches \u2018low smell' cigarettes",
+  "source": "Livemint",
+  "published_utc": "2016-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian tobacco industry appeals to Supreme Court but Delhi can't afford to compromise",
+  "source": "Firstpost",
+  "published_utc": "2016-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Tobacco Firms Halt Cigarette Output as They Fight New Warning Labels",
+  "source": "WSJ",
+  "published_utc": "2016-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to resume cigarette production amid health warning row",
+  "source": "Livemint",
+  "published_utc": "2016-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian firm ITC to resume production of cigarettes",
+  "source": "Taipei Times",
+  "published_utc": "2016-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to resume cigarette production, amid warnings",
+  "source": "India Retailing",
+  "published_utc": "2016-04-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maggi noodles now has 50% market share, says Nestle India",
+  "source": "Livemint",
+  "published_utc": "2016-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to invest in Andhra Pradesh for agribusiness facility, five-star hotel",
+  "source": "Livemint",
+  "published_utc": "2016-04-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

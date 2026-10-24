@@ -1,0 +1,29 @@
+[
+ {
+  "title": "Prof Bimal Prasad passed away: Sanjay Prasad (IAS:1986:GJ) bereaved",
+  "source": "IndianMandarins",
+  "published_utc": "2015-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NTPC refuses to buy expensive natural gas from GAIL",
+  "source": "Livemint",
+  "published_utc": "2015-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LNG Power Plant to Come up at Brahmapuram",
+  "source": "The New Indian Express",
+  "published_utc": "2015-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
