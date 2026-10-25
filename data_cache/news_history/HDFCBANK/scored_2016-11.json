@@ -1,0 +1,425 @@
+[
+ {
+  "title": "NCR bags largest ATM order from SBI for over 7,000 machines",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Lebanese loop' - Six ATM frauds hackers can trick you into",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sparkling Display",
+  "source": "Business Today",
+  "published_utc": "2016-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, ICICI Bank cut home loan rate by 0.15 per cent",
+  "source": "India.com",
+  "published_utc": "2016-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Etihad Guest might launch an Indian Credit Card?",
+  "source": "Live From A Lounge",
+  "published_utc": "2016-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who owns how much in Tata group firms?",
+  "source": "Livemint",
+  "published_utc": "2016-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The UPI is now live on HDFC Bank\u2019s mobile banking app",
+  "source": "MediaNama",
+  "published_utc": "2016-11-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Switching to new rates could help in reducing your EMI burden",
+  "source": "The Indian Express",
+  "published_utc": "2016-11-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pakistani moves against diplomatic norms: MEA",
+  "source": "Livemint",
+  "published_utc": "2016-11-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Poor People's Access To Financial Services On The Rise In India",
+  "source": "LinkedIn",
+  "published_utc": "2016-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank & Flipkart credit card to offer more online discounts",
+  "source": "MediaNama",
+  "published_utc": "2016-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "86% of currency by value in India are of Rs 500 & Rs 1,000 denominations",
+  "source": "Business Standard",
+  "published_utc": "2016-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks to open this weekend, SBI and Canara Bank to work longer hours",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ban on Rs 500 and Rs 1,000 notes: Cash deposit machines unlikely to work for two days",
+  "source": "The Times of India",
+  "published_utc": "2016-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u20b9500, 1000 Currency Ban: 5 Things You Should Know Before Going To A Bank | BOOM",
+  "source": "BOOM Fact Check",
+  "published_utc": "2016-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lakshmi, country\u2019s first banking robot, makes debut in Chennai",
+  "source": "The Times of India",
+  "published_utc": "2016-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In Pics: India Queues Up Outside ATMs",
+  "source": "NDTV",
+  "published_utc": "2016-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rush to exchange old Rs500, Rs1,000 notes sees long queues, confusion at banks",
+  "source": "Livemint",
+  "published_utc": "2016-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mayhem captured in photos: ATMs go dry after opening; queues get bigger",
+  "source": "Business Standard",
+  "published_utc": "2016-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI to issue 13.63 crore shares to shareholders of associates, BMB",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "City Union Bank deploys India's first banking robot in Chennai",
+  "source": "NewsBytes",
+  "published_utc": "2016-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Puneites find they can\u2019t bank on banks",
+  "source": "The Indian Express",
+  "published_utc": "2016-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi: ATMs run dry during day, cash rush begins at night",
+  "source": "The Indian Express",
+  "published_utc": "2016-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bankers give up their holiday to ease liquidity trauma for public",
+  "source": "Telegraph India",
+  "published_utc": "2016-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Learn with ETMarkets: Impact of demonetisation on reserve money, money supply",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cloud computing is a big leveller: Munish Mittal, HDFC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Demonetisation: Sharp surge in demand for card-swipe machines",
+  "source": "The Indian Express",
+  "published_utc": "2016-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Patna: Bank refuses Rs 40,000 to father for daughter's marriage",
+  "source": "India Today",
+  "published_utc": "2016-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Select petrol pumps to dispense cash up to Rs 2000; here's the list of places where you can withdraw money",
+  "source": "India.com",
+  "published_utc": "2016-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai petrol pumps may not have cash exchange facility",
+  "source": "The Asian Age",
+  "published_utc": "2016-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire in HDFC Bank Nalasopara branch, ATM safe",
+  "source": "The Times of India",
+  "published_utc": "2016-11-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MasterCard jumps on the QR code payments bandwagon",
+  "source": "MediaNama",
+  "published_utc": "2016-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dena Bank cuts deposit rates by up to 50 basis points",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kerala's KTC Group to offload stake in logistics business",
+  "source": "Livemint",
+  "published_utc": "2016-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New Rs. 500 note available in Bengaluru",
+  "source": "The Hindu",
+  "published_utc": "2016-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pictures of misprinted currency notes go viral",
+  "source": "The Asian Age",
+  "published_utc": "2016-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bracing for payday: Special counters, on-site payments",
+  "source": "The Times of India",
+  "published_utc": "2016-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Suzuki two wheelers make a Smart Move towards Demonetisation",
+  "source": "India.com",
+  "published_utc": "2016-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PoS person is latest channel for selling life insurance",
+  "source": "Business Standard",
+  "published_utc": "2016-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gurgaon banks with currency chests get cash, rest left dry | Hindustan Times",
+  "source": "Hindustan Times",
+  "published_utc": "2016-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm Relaunches Point Of Sale Feature On Its App",
+  "source": "NDTV Profit",
+  "published_utc": "2016-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI records of loans to Gautam Adani firms cannot be disclosed: Central Information Commission",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI: The Little Known \u2018Start-Up\u2019 Behind India\u2019s Cashless Revolution",
+  "source": "Swarajya",
+  "published_utc": "2016-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed deposit rates down. Should you lock in or look for alternatives?",
+  "source": "Livemint",
+  "published_utc": "2016-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank ties up with retail body to offer cash at 50 stores",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From Rs 3000 to Rs 9806 crore! Taxi driver turns billionaire for a day",
+  "source": "Rediff",
+  "published_utc": "2016-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Logjam in Parliament continues, Rajya Sabha adjourned",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,497 @@
+[
+ {
+  "title": "Happy New Year with a cash-rich ATM and a higher withdrawal limit",
+  "source": "The Indian Express",
+  "published_utc": "2017-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches OnChat for payments through Facebook\u2019s Messenger",
+  "source": "MediaNama",
+  "published_utc": "2017-01-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sharp fall in stock price makes J&K Bank analysts' favourite",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BHIM app for UPI-based payments ranked top on the Google Play Store",
+  "source": "FoneArena.com",
+  "published_utc": "2017-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Finance ministry seeks report on malpractices by bank officials",
+  "source": "Livemint",
+  "published_utc": "2017-01-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank cuts lending rate by up to 0.90 per cent",
+  "source": "India.com",
+  "published_utc": "2017-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank cuts lending rate by up to 0.90%, effective Jan 7 | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2017-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Ltd, Bank of India announce cut in lending rates",
+  "source": "The Times of India",
+  "published_utc": "2017-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YES Bank launches Facebook chatbot for employees to disburse loan info",
+  "source": "MediaNama",
+  "published_utc": "2017-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI to launch its own version of digital only bank soon",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol pumps to not accept card payments from Monday",
+  "source": "The Indian Express",
+  "published_utc": "2017-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol pumps won't accept card payments from tomorrow",
+  "source": "Rediff",
+  "published_utc": "2017-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Demonetisation: Petrol pumps threaten to stop accepting cards from Monday to protest banks' transaction fee",
+  "source": "The Times of India",
+  "published_utc": "2017-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol pumps threaten to stop accepting cards from Monday to protest banks' transaction fee",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now, a robot to assist you at HDFC Bank",
+  "source": "Forbes India",
+  "published_utc": "2017-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "50 Days In The Life Of A Bank\u2019s Branch Manager In India",
+  "source": "LinkedIn",
+  "published_utc": "2017-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Late-night deal: Fuel pumps say no, then yes to card payments",
+  "source": "The Times of India",
+  "published_utc": "2017-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shiva Cement scales 9-year high on promoters exit, open offer",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank defies demonetisation effect",
+  "source": "Livemint",
+  "published_utc": "2017-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Over 150 mining leases to lapse today",
+  "source": "Business Standard",
+  "published_utc": "2017-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition HDFC Bank opens new branch in Dambulla",
+  "source": "Daily Mirror - Sri Lanka",
+  "published_utc": "2017-01-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BHIM app: 'A technology ecosystem for the poor'",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFCMFMobile app by HDFC MF - Mutual fund apps for easy investing",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chandra\u2019s rise puts focus on key Tata crisis managers",
+  "source": "The Times of India",
+  "published_utc": "2017-01-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Use plastic money at petrol pumps and get 0.75% cash back within next 3 days",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Barkha Dutt quits NDTV group, likely to start her own venture",
+  "source": "The Financial Express",
+  "published_utc": "2017-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "8 Interesting facts about HDFC Bank",
+  "source": "Value Research",
+  "published_utc": "2017-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zee Business. . Mumbai ! Pummy Aunty is Inviting You For BSE Bull Run On 22nd January. Registrations Open",
+  "source": "Facebook",
+  "published_utc": "2017-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI credit card user base grows to 1.15 lakh in Dec",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank JetPrivilege Diners Club Card Review",
+  "source": "Live From A Lounge",
+  "published_utc": "2017-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cipla arm Goldencross Pharma sells Four M Propack to Shriji Polymers",
+  "source": "Business Standard",
+  "published_utc": "2017-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Donald Trump to take charge of nuclear \u2018football'",
+  "source": "Livemint",
+  "published_utc": "2017-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Alok Verma appointed new CBI director",
+  "source": "Livemint",
+  "published_utc": "2017-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court To Hear Plea Seeking To Defer Annual Budget",
+  "source": "NDTV Profit",
+  "published_utc": "2017-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC gives SBI, ICICI Bank competition on home loan rate",
+  "source": "The Financial Express",
+  "published_utc": "2017-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Surat: ED arrests financier Bhajiyawala\u2019s son in money laundering case",
+  "source": "The Indian Express",
+  "published_utc": "2017-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The recovery has been far more V-shaped than expected: Aditya Puri",
+  "source": "The Times of India",
+  "published_utc": "2017-01-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Utkarsh to launch Small Finance Bank on January 23",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe temporarily disables UPI payments on Flipkart",
+  "source": "The Times of India",
+  "published_utc": "2017-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'We Think We Can Cut Regulations By 75%': Trump To Company Executives",
+  "source": "NDTV Profit",
+  "published_utc": "2017-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex hits over 2-1/2-month closing high; HDFC Bank gains",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2017-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank wants reasonable MDR charges",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank puts up a decent show",
+  "source": "Business Standard",
+  "published_utc": "2017-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deposit rate war brewing among banks",
+  "source": "Business Today",
+  "published_utc": "2017-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sanjiv Puri to be named ITC CEO, chairman's post may be split",
+  "source": "Livemint",
+  "published_utc": "2017-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI\u2019s action against IDBI chief may hit credit growth revival as bankers get nervous",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches IRA, the interactive humanoid",
+  "source": "Express Computer",
+  "published_utc": "2017-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to deploy 20 humanoids in its branches in next 2 years",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches interactive humanoid IRA",
+  "source": "ET CIO",
+  "published_utc": "2017-01-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank introduces customer guiding humanoid at Mumbai branch",
+  "source": "MediaNama",
+  "published_utc": "2017-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lenskart to expand premium segment presence through new John Jacobs stores",
+  "source": "Livemint",
+  "published_utc": "2017-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Budget 2017: Get Ready To Pay More For Dining Out, Air Travel, Phone Bills",
+  "source": "NDTV Profit",
+  "published_utc": "2017-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Don\u2019t expect big bang changes in Budget 2017: HDFC Bank",
+  "source": "The Financial Express",
+  "published_utc": "2017-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shivpal Yadav to form new party after Uttar Pradesh election",
+  "source": "Livemint",
+  "published_utc": "2017-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

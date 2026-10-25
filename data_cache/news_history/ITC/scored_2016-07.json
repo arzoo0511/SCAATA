@@ -1,0 +1,110 @@
+[
+ {
+  "title": "Access Engineering nearing completion of piling work of ITC Colombo One Project",
+  "source": "Daily FT",
+  "published_utc": "2016-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt starts sell-off process in 51 firms held via SUUTI",
+  "source": "The Indian Express",
+  "published_utc": "2016-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Divestment strategy: Govt plans sale of SUUTI stake in 51 companies",
+  "source": "Firstpost",
+  "published_utc": "2016-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt tells LIC to buy a third of SUUTI holdings",
+  "source": "mint",
+  "published_utc": "2016-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dairy firm Kwality raises $77 mn from KKR",
+  "source": "VCCircle",
+  "published_utc": "2016-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swar for transforming irrigation system",
+  "source": "The Hindu",
+  "published_utc": "2016-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cigarette margins puff up ITC in June quarter",
+  "source": "Livemint",
+  "published_utc": "2016-07-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's June quarter profit up 10%, misses estimates",
+  "source": "Livemint",
+  "published_utc": "2016-07-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Are Indians smoking fewer cigarettes",
+  "source": "Livemint",
+  "published_utc": "2016-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How ITC got its act together",
+  "source": "Livemint",
+  "published_utc": "2016-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YC Deveshwar's biggest legacy is a stable ITC",
+  "source": "Livemint",
+  "published_utc": "2016-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC names Sanjiv Puri COO",
+  "source": "www.just-food.com",
+  "published_utc": "2016-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

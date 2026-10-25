@@ -1,0 +1,308 @@
+[
+ {
+  "title": "Sanjiv Singh appointed IOCL chief",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crucial Component: Pipeline infrastructure vital to CGD development",
+  "source": "Indian Infrastructure Magazine",
+  "published_utc": "2017-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-'keeper Farokh Engineer's wife Julie relieved after cell phone bill mess",
+  "source": "Mid-Day",
+  "published_utc": "2017-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India open to investing in US energy market: Dharmendra Pradhan",
+  "source": "The Indian Express",
+  "published_utc": "2017-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Legends uncovered: R.B. Ramesh (1/3)",
+  "source": "ChessBase India",
+  "published_utc": "2017-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ranveer Singh just revealed about his Hollywood plans. Read more",
+  "source": "The Indian Express",
+  "published_utc": "2017-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIM Bangalore Placements 2017; participation of over 160 top recruiters",
+  "source": "India Education Diary",
+  "published_utc": "2017-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samson Indian Nation V. Canada; Ermineskin V. Canada, File Nos. 37280 and 37277, Supreme Court Of Canada (Moldaver, C\u00f4t\u00e9 and Rowe JJ.), 9 March 2017",
+  "source": "Borden Ladner Gervais LLP (BLG)",
+  "published_utc": "2017-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "South Sudan rebels capture two Indian oil workers",
+  "source": "Sudan Tribune",
+  "published_utc": "2017-03-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC hikes LPG price to Rs 1,375",
+  "source": "The Himalayan Times",
+  "published_utc": "2017-03-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "South Sudan rebels abduct two Indian oil engineers, accuse them of working with govt",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-03-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "S. Sudan wants its armed opposition labelled a \u201cnegative force\u201d",
+  "source": "Sudan Tribune",
+  "published_utc": "2017-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Breaking Glass Ceilings in Himachal, This Woman's a Transporter, Oil Dealer and Owns a Petrol Pump!",
+  "source": "The Better India",
+  "published_utc": "2017-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "South Sudan calls to condemn kidnapping of oil workers",
+  "source": "Sudan Tribune",
+  "published_utc": "2017-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ranveer Singh launches Switzerland Tourism's summer campaign",
+  "source": "India Today",
+  "published_utc": "2017-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC has discovered hydrocarbon deposit in Mizoram: Minister",
+  "source": "The New Indian Express",
+  "published_utc": "2017-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Castrol India Launches New Engine Oil For Cruiser Motorcycles",
+  "source": "DriveSpark",
+  "published_utc": "2017-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC\u2019s Paradip-Hyderabad pipeline awaits clearances",
+  "source": "The Hindu",
+  "published_utc": "2017-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Creating a Global Indian Oil Giant Will be a Long Grind and Should be Carefully Considered",
+  "source": "TheWire.in",
+  "published_utc": "2017-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In Battle for Digital India, Vodafone Teams Up With Idea Cellular (Published 2017)",
+  "source": "The New York Times",
+  "published_utc": "2017-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran-Pakistan-India Gas Pipeline to Be Revived",
+  "source": "Egypt Oil & Gas",
+  "published_utc": "2017-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Indian amateur to be in action at PSPB Inter-Unit Golf",
+  "source": "India.com",
+  "published_utc": "2017-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "South Sudan says armed opposition kidnapped four oil workers",
+  "source": "Sudan Tribune",
+  "published_utc": "2017-03-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Asks Big Oil Companies \"Where Do You Want to Drill?\"",
+  "source": "JPT Homepage",
+  "published_utc": "2017-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal, India to sign new petro supply agreement next week",
+  "source": "The Kathmandu Post",
+  "published_utc": "2017-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to help build pipeline to supply fuel to Nepal: Dharmendra Pradhan",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-03-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to supply 1.3 MT refined fuels to Nepal for five years",
+  "source": "The Himalayan Times",
+  "published_utc": "2017-03-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal and India sign new oil supply agreement",
+  "source": "The Kathmandu Post",
+  "published_utc": "2017-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kingpin of Rs 100cr oil pilferage racket caught",
+  "source": "The Times of India",
+  "published_utc": "2017-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NGT asks oil cos to stop plying BS-I, BS-II vehicles in Delhi-NCR",
+  "source": "Business Standard",
+  "published_utc": "2017-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two Indian oil workers abducted by South Sudan rebels freed: Officials | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2017-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp to set up second generation ethanol plant in Panipat",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Abducted Indian oil workers released \u2013 ambassador",
+  "source": "Eye Radio",
+  "published_utc": "2017-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "South Sudan kidnapped oil workers released in Khartoum",
+  "source": "Sudan Tribune",
+  "published_utc": "2017-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

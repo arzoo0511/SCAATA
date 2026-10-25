@@ -1,0 +1,74 @@
+[
+ {
+  "title": "Government realizes Rs.21,432.38 crore, by end-November 2016, through CPSEs\u2019 disinvestment receipts, constituting around 59.53 % of the Budgeted Target of Rs. 36,000 crore ;",
+  "source": "PIB",
+  "published_utc": "2017-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shalabh Seth appointed CEO of Ola Fleet Technologies",
+  "source": "The Hindu",
+  "published_utc": "2017-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ola appoints Shalabh Seth as CEO of Ola Fleet Technologies",
+  "source": "Adgully.com",
+  "published_utc": "2017-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Philip Morris jolted by Indian proposal to ban foreign tobacco investment",
+  "source": "CNBC",
+  "published_utc": "2017-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sanjiv Puri to be named ITC CEO, chairman's post may be split",
+  "source": "Livemint",
+  "published_utc": "2017-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC COO Sanjiv Puri set to replace YC Deveshwar as its CEO",
+  "source": "India TV News",
+  "published_utc": "2017-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC profit ticks up 5.7 per cent, cigarette business under strain",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC reviews bids from advertising agencies for Rs600 crore media mandate",
+  "source": "Livemint",
+  "published_utc": "2017-01-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

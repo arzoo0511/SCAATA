@@ -1,0 +1,344 @@
+[
+ {
+  "title": "State Bank of India cuts home loans to lowest in 6 yrs",
+  "source": "The Times of India",
+  "published_utc": "2016-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Misaligned card slots - Six ATM frauds hackers can trick you into",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI cut home loan rate: Why customers need not be kicked about the 'festival bonanza'",
+  "source": "Firstpost",
+  "published_utc": "2016-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, ICICI Bank cut home loan rate by 0.15 per cent",
+  "source": "India.com",
+  "published_utc": "2016-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Etihad Guest might launch an Indian Credit Card?",
+  "source": "Live From A Lounge",
+  "published_utc": "2016-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who owns how much in Tata group firms?",
+  "source": "Livemint",
+  "published_utc": "2016-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The UPI is now live on HDFC Bank\u2019s mobile banking app",
+  "source": "MediaNama",
+  "published_utc": "2016-11-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Switching to new rates could help in reducing your EMI burden",
+  "source": "The Indian Express",
+  "published_utc": "2016-11-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India demonetisation: Chaos as ATMs run dry",
+  "source": "Al Jazeera",
+  "published_utc": "2016-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATMs remain shut as banks replace old currency notes",
+  "source": "India Today",
+  "published_utc": "2016-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks to open this weekend, SBI and Canara Bank to work longer hours",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian rupees: Holders of notes abroad face tough battle",
+  "source": "BBC",
+  "published_utc": "2016-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Thousands line up outside banks to exchange Rs 500, Rs 1000 notes",
+  "source": "The News Minute",
+  "published_utc": "2016-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Long queues outside: Banks to remain open till 9 pm for 3 days, no ATM charges till 31 Dec",
+  "source": "Business Standard",
+  "published_utc": "2016-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India withdraws all 500 and 1,000 rupee notes \u2013 exchange yours ASAP if you can",
+  "source": "Money Saving Expert",
+  "published_utc": "2016-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Demonetisation effect: ATMs not functioning in Noida",
+  "source": "The Indian Express",
+  "published_utc": "2016-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Currency ban: Rs 100 note does Houdini act as people rush to banks, post offices",
+  "source": "Firstpost",
+  "published_utc": "2016-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u201cWe arrested Kanhaiya, you remember. What are you\u201d: How the Delhi Police Intimidated Me for Trying to Record the Unrest at a Bank",
+  "source": "The Caravan",
+  "published_utc": "2016-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Narendra Modi pledges to ease India's cash crisis",
+  "source": "The Guardian",
+  "published_utc": "2016-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Punjab National Bank makes a difference for the elderly",
+  "source": "The Times of India",
+  "published_utc": "2016-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Demonetisation: Is this the right time to open a fixed deposit account?",
+  "source": "Zee Business",
+  "published_utc": "2016-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank was the first bank to recalibrate its ATMs for 2000: Chanda Kochhar, MD & CEO, ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar at Parliament House",
+  "source": "Prokerala",
+  "published_utc": "2016-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Select petrol pumps to dispense cash up to Rs 2000; here's the list of places where you can withdraw money",
+  "source": "India.com",
+  "published_utc": "2016-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai petrol pumps may not have cash exchange facility",
+  "source": "The Asian Age",
+  "published_utc": "2016-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Post-demonetisation, ICICI Bank got Rs 32,000 crore deposits:Kochhar",
+  "source": "DeshGujarat",
+  "published_utc": "2016-11-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Honda Cars ties up with banks to limit demonetisation impact",
+  "source": "ET Auto",
+  "published_utc": "2016-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MasterCard jumps on the QR code payments bandwagon",
+  "source": "MediaNama",
+  "published_utc": "2016-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dena Bank cuts deposit rates by up to 50 basis points",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Post Demonetisation, Honda Ties Up With Banks To Limit Sales Damage",
+  "source": "CarDekho",
+  "published_utc": "2016-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bracing for payday: Special counters, on-site payments",
+  "source": "The Times of India",
+  "published_utc": "2016-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Airtel Bank opens its doors as India grapples with demonetisation crisis",
+  "source": "Business Standard",
+  "published_utc": "2016-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Leading private banks waive debit cards charges for merchants",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sets up camps at defence outposts for cash supply",
+  "source": "The New Indian Express",
+  "published_utc": "2016-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Note ban: ICICI Bank presses into service mobile branches",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed deposit rates down. Should you lock in or look for alternatives?",
+  "source": "Livemint",
+  "published_utc": "2016-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI: The Little Known \u2018Start-Up\u2019 Behind India\u2019s Cashless Revolution",
+  "source": "Swarajya",
+  "published_utc": "2016-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prem Watsa-owned Fairfax Financial Holdings close to picking up controlling stake in Catholic Syrian Bank",
+  "source": "The Economic Times",
+  "published_utc": "2016-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

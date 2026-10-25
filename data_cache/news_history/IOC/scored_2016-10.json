@@ -1,0 +1,290 @@
+[
+ {
+  "title": "Indian Oil Corporation hits record high",
+  "source": "Business Standard",
+  "published_utc": "2016-10-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Haldia Petrochemicals gets fuel retailing license",
+  "source": "Livemint",
+  "published_utc": "2016-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price hiked 14 paise a litre, diesel by 10 paise",
+  "source": "The Times of India",
+  "published_utc": "2016-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp to spend Rs 9814 crore for expansion of two refineries",
+  "source": "Business Standard",
+  "published_utc": "2016-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation plans to lay 2,000-km LPG pipeline from Kandla to Gorakhpur",
+  "source": "The Economic Times",
+  "published_utc": "2016-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC aims to invest Rs 18,000 crore to raise Panipat refinery capacity",
+  "source": "Equitypandit",
+  "published_utc": "2016-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil lines up Rs 18,000 cr to raise Panipat refinery capacity",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mega refinery to come up in Konkan region",
+  "source": "Projects Today",
+  "published_utc": "2016-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Railways to import crude oil directly",
+  "source": "Business Standard",
+  "published_utc": "2016-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL launches Rs 30 cr startup fund, will support innovation in technology",
+  "source": "The New Indian Express",
+  "published_utc": "2016-10-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mangaluru-Bengaluru LPG pipeline set for commissioning",
+  "source": "The Hindu",
+  "published_utc": "2016-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Government to invest Rs 15000 crore to increase Panipat oil refinery capacity",
+  "source": "GK Today",
+  "published_utc": "2016-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to lay India's longest LPG pipeline",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-10-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Finally, steps afoot to shift oil depot from rly station area",
+  "source": "The Tribune",
+  "published_utc": "2016-10-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt grants BP Plc licence to set up petrol pumps in India",
+  "source": "ET Auto",
+  "published_utc": "2016-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Neha Dhupia accepts Kapil Sharma\u2019s marriage proposal on his show",
+  "source": "The Indian Express",
+  "published_utc": "2016-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "British Petroleum to set up petrol pumps in India",
+  "source": "Team-BHP",
+  "published_utc": "2016-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "National Green Tribunal does not posses the power to adjudicate upon the vires or validity of any statutory enactment",
+  "source": "SCC Online",
+  "published_utc": "2016-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Illegal mustard oil imports put local producers on brink",
+  "source": "The Kathmandu Post",
+  "published_utc": "2016-10-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil marketing firms to begin selling composite LPG cylinders",
+  "source": "Livemint",
+  "published_utc": "2016-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First Time In 5 Years, PSU Profits Fell In 2015",
+  "source": "SabrangIndia",
+  "published_utc": "2016-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cooking gas scarcity hits Mizoram",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance forays into LPG retailing",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks Radar: Wipro, Idea Cellular, Reliance Industries And More",
+  "source": "NDTV Profit",
+  "published_utc": "2016-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC may buy loss-making GSPC",
+  "source": "Business Standard",
+  "published_utc": "2016-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC reiterates stand on safety, transport cost",
+  "source": "The Hindu",
+  "published_utc": "2016-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Refinery stares at huge water crisis",
+  "source": "Telegraph India",
+  "published_utc": "2016-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC posts profit, issues bonus shares",
+  "source": "Telegraph India",
+  "published_utc": "2016-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diwali Pahat, Marathi folk style",
+  "source": "Mid-Day",
+  "published_utc": "2016-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG-related accident raises questions over government initiative to provide clean cooking gas to poor",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OVL completes acquisition of 11% add'l stake in Vankor",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India needs to reduce sulphur dioxide from coal-fired plants",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

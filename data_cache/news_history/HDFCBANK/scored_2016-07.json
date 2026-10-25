@@ -1,0 +1,371 @@
+[
+ {
+  "title": "The state of play: India\u2019s banks in 2016",
+  "source": "www.thebanker.com",
+  "published_utc": "2016-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arun Jaitley's personal wealth declined by Rs. 6 crore in FY16",
+  "source": "IBTimes India",
+  "published_utc": "2016-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to add 400 branches, 1,000 ATMs this fiscal",
+  "source": "The Economic Times",
+  "published_utc": "2016-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold, cash looted : 05th jul16",
+  "source": "e-pao.net",
+  "published_utc": "2016-07-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OneAssist Consumer Solutions raises funding from Trifecta Capital",
+  "source": "VCCircle",
+  "published_utc": "2016-07-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, BoB exit Cibil, TransUnion's holding rises to 77%",
+  "source": "The Economic Times",
+  "published_utc": "2016-07-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TransUnion hikes stake in Cibil",
+  "source": "Banking Frontiers",
+  "published_utc": "2016-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank gets nod to raise foreign shareholding to 74%",
+  "source": "Business Standard",
+  "published_utc": "2016-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Current Affairs Today \u2013 July 6 2016",
+  "source": "AffairsCloud.com",
+  "published_utc": "2016-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Salman Khan\u2019s Sultan makes collection splash at Rs 73.74 cr, blows biggies out of water, guns for Akshay Kumar\u2019s Airlift",
+  "source": "The Financial Express",
+  "published_utc": "2016-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bots the Buzz?",
+  "source": "Business Today",
+  "published_utc": "2016-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government starts process for sale of SUUTI Holdings",
+  "source": "The Economic Times",
+  "published_utc": "2016-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s Aditya Puri named best banking CEO in Asia",
+  "source": "The Indian Express",
+  "published_utc": "2016-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Your Rs 10-lakh personal loan disbursed within 10 seconds",
+  "source": "The Times of India",
+  "published_utc": "2016-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC to become first issurer of Masala Bonds to overseas investors in order to raise Rs.3,000 crore",
+  "source": "AffairsCloud",
+  "published_utc": "2016-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Police nab 6 out of 7 accused : 13th jul16",
+  "source": "e-pao.net",
+  "published_utc": "2016-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank beats major European peers on m-cap",
+  "source": "Business Standard",
+  "published_utc": "2016-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition Public Bank joins LankaPay CAS Common ATM switch",
+  "source": "Daily Mirror - Sri Lanka",
+  "published_utc": "2016-07-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Book review: Half-Lion by Vinay Sitapati",
+  "source": "Livemint",
+  "published_utc": "2016-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Chief Internal Auditors appoint New Executive Committee",
+  "source": "Daily FT",
+  "published_utc": "2016-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Asset Quality Review and its impact on banks",
+  "source": "The Hindu",
+  "published_utc": "2016-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata still India's most valuable brand",
+  "source": "Livemint",
+  "published_utc": "2016-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buying mutual funds from banks? Know what they push at you",
+  "source": "Moneylife",
+  "published_utc": "2016-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Much Do Banks Love Their Mutual Fund Subsidiaries?",
+  "source": "Capitalmind",
+  "published_utc": "2016-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zee Business. . MAHINDRA LAUNCHES SCORPIO WITH MILD HYBRID TECHNOLOGY",
+  "source": "Facebook",
+  "published_utc": "2016-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can RIL sustain double digit growth in gross refining margin?",
+  "source": "Livemint",
+  "published_utc": "2016-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri and Chanda Kochhar among highest-paid bankers in India",
+  "source": "VCCircle",
+  "published_utc": "2016-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank to raise Rs 5,000 crore via bonds",
+  "source": "Business Standard",
+  "published_utc": "2016-07-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Power Grid Approves Rs 2,731-Crore Investment Proposals",
+  "source": "NDTV Profit",
+  "published_utc": "2016-07-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC ERGO enters into bancassurance tie-up with SVC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2016-07-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q1 net rises 20% to \u20b93,239 crore | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2016-07-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is Arundhati Bhattacharya protecting Coal importers who indulged in over-invoicing?",
+  "source": "PGurus",
+  "published_utc": "2016-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best of the best: The 10 best-performing quality stocks of the year you can look at",
+  "source": "The Economic Times",
+  "published_utc": "2016-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Forbes India Super 50 List Celebrates India Inc\u00e2\u20ac\u2122s Finest",
+  "source": "Adgully.com",
+  "published_utc": "2016-07-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Airtel: Opening the network to feedback",
+  "source": "Livemint",
+  "published_utc": "2016-07-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "25 years of reforms: Meet Indian banking sector's poster boys of liberalisation",
+  "source": "The Economic Times",
+  "published_utc": "2016-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC launches CSR initiatives",
+  "source": "Telegraph India",
+  "published_utc": "2016-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sunil Munjal to Step Away From World\u2019s Largest 2-Wheeler Maker to Chart His Own Destiny",
+  "source": "NDTV Profit",
+  "published_utc": "2016-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nestle India's Q2 net down 11% at Rs 290 cr q-o-q",
+  "source": "Business Standard",
+  "published_utc": "2016-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Satish Mathur appointed new Maharashtra DGP",
+  "source": "Rediff",
+  "published_utc": "2016-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bhandarkar Institute: The fountainhead of oriental studies",
+  "source": "Livemint",
+  "published_utc": "2016-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

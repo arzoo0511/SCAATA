@@ -1,0 +1,56 @@
+[
+ {
+  "title": "IIT students bag Rs1 crore-plus placement offers",
+  "source": "Livemint",
+  "published_utc": "2016-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ajay Srinivasan: The money spinner",
+  "source": "Livemint",
+  "published_utc": "2016-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FSSAI to revise food labelling norms, examine global models",
+  "source": "India Retailing",
+  "published_utc": "2016-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Japanese advertising giant Dentsu Aegis buys India's design studio Fractal",
+  "source": "Techcircle",
+  "published_utc": "2016-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BigBasket to expand private labels, products in next three months",
+  "source": "Livemint",
+  "published_utc": "2016-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC hikes prices of Navy Cut and Gold Flake",
+  "source": "Business Standard",
+  "published_utc": "2016-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

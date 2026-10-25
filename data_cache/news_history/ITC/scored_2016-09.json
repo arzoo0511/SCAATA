@@ -1,0 +1,83 @@
+[
+ {
+  "title": "HC asks Britannia not to use pack 'deceptively similar' to ITC",
+  "source": "The Times of India",
+  "published_utc": "2016-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Britannia will have to temporarily stop selling its digestive biscuits, rules Delhi High Court",
+  "source": "Scroll.in",
+  "published_utc": "2016-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC vs Britannia Biscuit Packaging: \"Deceptively Similar\" says High Court",
+  "source": "NDTV Food",
+  "published_utc": "2016-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Court tells Britannia to change packaging style for new biscuit",
+  "source": "India Retailing",
+  "published_utc": "2016-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Britannia moves Delhi HC bench against curb on sale of NutriChoice Zero",
+  "source": "Business Standard",
+  "published_utc": "2016-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No relief for Britannia from High Court in ITC Sunfeast case",
+  "source": "India Retailing",
+  "published_utc": "2016-09-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HC reserves verdict in Britannia-ITC biscuit pack dispute",
+  "source": "Moneycontrol.com",
+  "published_utc": "2016-09-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "High Court reserves verdict in Britannia-ITC biscuit pack dispute",
+  "source": "The Indian Express",
+  "published_utc": "2016-09-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We are as Indian as Patanjali: VL Rajesh, Foods CEO of ITC",
+  "source": "ET Retail",
+  "published_utc": "2016-09-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

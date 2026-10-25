@@ -1,0 +1,380 @@
+[
+ {
+  "title": "Bank employee dies in road accident",
+  "source": "The Hindu",
+  "published_utc": "2016-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Watch: Asiatic lions at watering hole in Gir National Park",
+  "source": "Business Standard",
+  "published_utc": "2016-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Henkel likely to invest in Jyothy Labs",
+  "source": "Business Standard",
+  "published_utc": "2016-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Staff under various heads of National Health Mission to be integrated",
+  "source": "Livemint",
+  "published_utc": "2016-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PayZapp is HDFC Bank's counter to Apple, Android",
+  "source": "The Times of India",
+  "published_utc": "2016-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Preeti Verma: Creating her own fashion cycle",
+  "source": "Livemint",
+  "published_utc": "2016-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Forex market braces for volatility as FCNR deposit redemptions near",
+  "source": "Livemint",
+  "published_utc": "2016-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Seven books on Muhammad Ali",
+  "source": "Livemint",
+  "published_utc": "2016-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BSP takes its campaign abroad for the first time to woo NRIs",
+  "source": "Livemint",
+  "published_utc": "2016-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central bank holds repo rate, stays accommodative",
+  "source": "The Hindu",
+  "published_utc": "2016-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Political Interference in the 2008 Malegaon Blasts Investigation",
+  "source": "NDTV Profit",
+  "published_utc": "2016-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank cuts MCLR based lending rate by 0.05% | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2016-06-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Grameen Koota lowers rates in some categories effective 1 June",
+  "source": "Livemint",
+  "published_utc": "2016-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Railway launches Janani Sewa, optional catering on pilot basis",
+  "source": "Livemint",
+  "published_utc": "2016-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why an NSG membership is important to India",
+  "source": "mint",
+  "published_utc": "2016-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches Ultracash for mobile proximity payments",
+  "source": "MediaNama",
+  "published_utc": "2016-06-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Carmakers better 'new model' sellers than 2Wheeler companies",
+  "source": "ET Auto",
+  "published_utc": "2016-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How global trade has evolved over the last 140 years",
+  "source": "Livemint",
+  "published_utc": "2016-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Story Behind `Bandhan: The Making Of A Bank\u2019",
+  "source": "LinkedIn",
+  "published_utc": "2016-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CSCs get approval from RBI for Bharat Bill Payment System",
+  "source": "The Economic Times",
+  "published_utc": "2016-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Barclays launches platform for fintech start-ups",
+  "source": "Business Standard",
+  "published_utc": "2016-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New branch of HDFC bank now at East Abhiramapuram",
+  "source": "MYLAPORE TIMES -",
+  "published_utc": "2016-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rising sugar prices may draw unwanted attention",
+  "source": "Livemint",
+  "published_utc": "2016-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Non-financial firms top advance tax charts",
+  "source": "Business Standard",
+  "published_utc": "2016-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, Max Life echo 'cultural fit' after pact",
+  "source": "Business Standard",
+  "published_utc": "2016-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC\u2019s Deepak Parekh Wonders What Made Raghuram Rajan Leave",
+  "source": "The Quint",
+  "published_utc": "2016-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 recommendations of Subramanian Committee on new education policy",
+  "source": "Livemint",
+  "published_utc": "2016-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank CEO Aditya Puri's salary hiked 32% to Rs9.73 crore in FY16",
+  "source": "Livemint",
+  "published_utc": "2016-06-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DSP BlackRock Dual Advantage Fund - Series 16 - 36 Months - Direct Plan Returns",
+  "source": "The Economic Times",
+  "published_utc": "2016-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Running Accounts Department from the Kitchen",
+  "source": "LinkedIn",
+  "published_utc": "2016-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aphex Twin commissions 12-year-old YouTuber to direct first video since 1999's 'Windowlicker'",
+  "source": "TechCrunch",
+  "published_utc": "2016-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Extramarks turns a new page in growth story",
+  "source": "Business Standard",
+  "published_utc": "2016-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of India sells 18% stake in Star Union Dai-ichi Life",
+  "source": "Business Standard",
+  "published_utc": "2016-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We may bring housing business to India in the future: Panasonic",
+  "source": "Livemint",
+  "published_utc": "2016-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Origo Commodities plans to start agriculture focused NBFC in 2017",
+  "source": "Livemint",
+  "published_utc": "2016-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Symbiosis establishes a dedicated university to focus on skill development",
+  "source": "KNN India",
+  "published_utc": "2016-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Griezmann's double takes France to Euro quarters",
+  "source": "Rediff",
+  "published_utc": "2016-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who will replace Raghuram Rajan at RBI? All you need to know",
+  "source": "Business Standard",
+  "published_utc": "2016-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three candidates interviewed for SBI's MD post",
+  "source": "The Economic Times",
+  "published_utc": "2016-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Acquisitions deliver growth at Quess Corp, but are a risk too",
+  "source": "Livemint",
+  "published_utc": "2016-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The CASA pillars of public sector banks are shrinking",
+  "source": "The Economic Times",
+  "published_utc": "2016-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches digital banking services for SME clients",
+  "source": "Forbes India",
+  "published_utc": "2016-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,326 @@
+[
+ {
+  "title": "The state of play: India\u2019s banks in 2016",
+  "source": "www.thebanker.com",
+  "published_utc": "2016-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TransUnion ups stake in CIBIL",
+  "source": "VCCircle",
+  "published_utc": "2016-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mahanagar Gas shares list at a huge premium, JP Asso plunges on SDR setback",
+  "source": "IBTimes India",
+  "published_utc": "2016-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks eye control of JP Associates in debt-for-equity swap: Sources",
+  "source": "Business Standard",
+  "published_utc": "2016-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to add 400 branches, 1,000 ATMs this fiscal",
+  "source": "The Economic Times",
+  "published_utc": "2016-07-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, BoB exit Cibil, TransUnion's holding rises to 77%",
+  "source": "The Times of India",
+  "published_utc": "2016-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TransUnion hikes stake in Cibil",
+  "source": "Banking Frontiers",
+  "published_utc": "2016-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Voice recognition: what your bank needs?",
+  "source": "www.thebanker.com",
+  "published_utc": "2016-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "When will Suuti rest in peace?",
+  "source": "Business Standard",
+  "published_utc": "2016-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Overseas Bank goes in recovery mode",
+  "source": "Business Standard",
+  "published_utc": "2016-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank on her",
+  "source": "Telegraph India",
+  "published_utc": "2016-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government starts process for sale of SUUTI Holdings",
+  "source": "ET Realty",
+  "published_utc": "2016-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Textile role sends Ajay Tamta to no man's land",
+  "source": "The Times of India",
+  "published_utc": "2016-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Your Rs 10-lakh personal loan disbursed within 10 seconds",
+  "source": "The Times of India",
+  "published_utc": "2016-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank opens international banking unit at GIFT City",
+  "source": "Business Standard",
+  "published_utc": "2016-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank opens IFSC Banking Unit at GIFT City, overall 6th IBU",
+  "source": "DeshGujarat",
+  "published_utc": "2016-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank beats major European peers on m-cap",
+  "source": "Business Standard",
+  "published_utc": "2016-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What India wears to work",
+  "source": "Livemint",
+  "published_utc": "2016-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon India is back with Prime Day on July 15 & 16, 2023",
+  "source": "Passionate In Marketing",
+  "published_utc": "2016-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Book review: Half-Lion by Vinay Sitapati",
+  "source": "Livemint",
+  "published_utc": "2016-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Asset Quality Review and its impact on banks",
+  "source": "The Hindu",
+  "published_utc": "2016-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Guest Post: BoB Starts Rating based home loans \u2013 What does it mean?",
+  "source": "Capitalmind",
+  "published_utc": "2016-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buying mutual funds from banks? Know what they push at you",
+  "source": "Moneylife",
+  "published_utc": "2016-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swipe your card to pay for vada pav",
+  "source": "The Times of India",
+  "published_utc": "2016-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can RIL sustain double digit growth in gross refining margin?",
+  "source": "Livemint",
+  "published_utc": "2016-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri and Chanda Kochhar among highest-paid bankers in India",
+  "source": "VCCircle",
+  "published_utc": "2016-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shah Rukh Khan, Anita Ambani attend Gunjan Jain's star-studded book launch",
+  "source": "India Today",
+  "published_utc": "2016-07-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is Arundhati Bhattacharya protecting Coal importers who indulged in over-invoicing?",
+  "source": "PGurus",
+  "published_utc": "2016-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI and AXIS banks join Swift\u2019s global payments innovation initiative",
+  "source": "Society for Worldwide Interbank Financial Telecommunication",
+  "published_utc": "2016-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lounge Access at Terminal 2 Mumbai Airport now easier",
+  "source": "Live From A Lounge",
+  "published_utc": "2016-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED probing 1,800 entities for possible FEMA rule breaches",
+  "source": "The Hindu",
+  "published_utc": "2016-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "25 years of reforms: Meet Indian banking sector's poster boys of liberalisation",
+  "source": "The Economic Times",
+  "published_utc": "2016-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shows 25% slide in Q1 net profit as provisions surge",
+  "source": "Forbes India",
+  "published_utc": "2016-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank organises coin exchange mela at Nagpur",
+  "source": "Indiablooms",
+  "published_utc": "2016-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Launch of Unified Payment Interface deferred",
+  "source": "Business Standard",
+  "published_utc": "2016-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL acquires 21% stake in Fino Paytech",
+  "source": "Business Standard",
+  "published_utc": "2016-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

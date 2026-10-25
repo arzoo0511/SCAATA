@@ -1,0 +1,317 @@
+[
+ {
+  "title": "Petrol price hiked by Rs 1.29, diesel by Rs 0.97 per litre",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-01-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price hiked by Rs 1.29 a litre, diesel by 97 paise",
+  "source": "The Tribune",
+  "published_utc": "2017-01-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC: No fuel price hike despite rise in India",
+  "source": "The Kathmandu Post",
+  "published_utc": "2017-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "You\u2019ll Definitely Want A Sarkari Job After Reading These 8 Awesome Perks",
+  "source": "ScoopWhoop",
+  "published_utc": "2017-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ruhrpumpen provides 4 mainline pumps for Indian oil pumping station",
+  "source": "World Pumps",
+  "published_utc": "2017-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL pumps offer diesel at lower price than PSUs to regain market share",
+  "source": "ET Auto",
+  "published_utc": "2017-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MRPL, Chennai Petroleum hit 52-week high on heavy volumes",
+  "source": "Business Standard",
+  "published_utc": "2017-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now, avail Rs 5 discount on online payment for LPG cylinders",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC declares Al-Zawiya refinery void of armed forces",
+  "source": "Libyan Express",
+  "published_utc": "2017-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Continental Caps & Closures sets higher goals",
+  "source": "Packaging South Asia",
+  "published_utc": "2017-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Honda CB Trigger Price in Hosur",
+  "source": "BikeWale",
+  "published_utc": "2017-01-10T09:28:39+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central jail petrol outlet makes Rs. 1.36 crore profit",
+  "source": "The Hindu",
+  "published_utc": "2017-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shah Rukh Khan: Can't compete with Salman Khan at the box office",
+  "source": "India Today",
+  "published_utc": "2017-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At Gateway of India, first-time visitors raise security concerns",
+  "source": "The Indian Express",
+  "published_utc": "2017-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rise in squid population recorded along the coast",
+  "source": "The Express Tribune",
+  "published_utc": "2017-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Barkha Dutt quits NDTV; Twitter abuzz with what\u2019s next \u2013 \u2018anti-Republic\u2019?",
+  "source": "The Indian Express",
+  "published_utc": "2017-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil, gas conservation fortnight Saksham 2017 begins with petroleum industry support",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CPSE ETF: Investing in Government of India",
+  "source": "Outlook Money",
+  "published_utc": "2017-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lanternfish, an alternative food source?",
+  "source": "The Times of India",
+  "published_utc": "2017-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CPSE ETF: A promising ETF for your portfolio",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indira Gandhi\u2014the iron-willed stateswoman",
+  "source": "www.theweek.in",
+  "published_utc": "2017-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "73 LPG cylinders seized from Chhendipada house",
+  "source": "The Times of India",
+  "published_utc": "2017-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reduction in auto LPG price leads to 16% jump in sales over three months",
+  "source": "Autocar Professional",
+  "published_utc": "2017-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kalpataru Power Transmission bags new orders worth Rs 825 crore",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol prices cross 2013 peaks, but political opposition missing (News Analysis)",
+  "source": "Business Standard",
+  "published_utc": "2017-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bhopalis club over golf as game gains popularity",
+  "source": "The Times of India",
+  "published_utc": "2017-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Air Force To The Rescue, Airlifts Fuel Tankers To Crippled Manipur",
+  "source": "NDTV",
+  "published_utc": "2017-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central govt enterprise books New Town plot | Kolkata News",
+  "source": "The Times of India",
+  "published_utc": "2017-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to fill strategic reserve facility at Mangaluru with oil from UAE",
+  "source": "The Hindu",
+  "published_utc": "2017-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to fill strategic reserve with UAE oil",
+  "source": "Kuwait Times",
+  "published_utc": "2017-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha may cut Indian Oil's Paradip sop",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-01-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UAE to Store Oil at India\u2019s Facilities",
+  "source": "Egypt Oil & Gas",
+  "published_utc": "2017-01-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bangalore Bravos",
+  "source": "Business Today",
+  "published_utc": "2017-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepali LPG bullets to start supplying gas within a week",
+  "source": "The Himalayan Times",
+  "published_utc": "2017-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp's Rs 34,555 crore Paradip refinery faces withdrawal of fiscal sops",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

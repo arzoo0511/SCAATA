@@ -1,0 +1,425 @@
+[
+ {
+  "title": "Taj becomes staff-friendly, offers free 10-day stay to all",
+  "source": "The Times of India",
+  "published_utc": "2016-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha man on the run nabbed from New Delhi for cheating banks",
+  "source": "Sambad English",
+  "published_utc": "2016-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest HDFC Bank FD Interest rates \u2013 Oct-2016",
+  "source": "Myinvestmentideas",
+  "published_utc": "2016-10-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oct-2016 \u2013 Best Home Loan Interest Rates in 2016",
+  "source": "Myinvestmentideas",
+  "published_utc": "2016-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata AIA in discussions to get its policies sold through HDFC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2016-10-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Greenko buys SunEdison's Indian assets for $392 mn",
+  "source": "Business Standard",
+  "published_utc": "2016-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis sells Rs 1,000 cr of Essar Steel debt",
+  "source": "The Indian Express",
+  "published_utc": "2016-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Selects Backbase to Upgrade its Digital Banking Experiences",
+  "source": "IBG News",
+  "published_utc": "2016-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI signs MoU with IIT- Kharagpur for research and running proof of concepts",
+  "source": "MediaNama",
+  "published_utc": "2016-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Roopa Ganguly's nomination to Rajya Sabha a boost for BJP's mission Bengal?",
+  "source": "Livemint",
+  "published_utc": "2016-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi high court says clubbing end-uses of coal mines can lead to arbitrariness",
+  "source": "Livemint",
+  "published_utc": "2016-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Muslim women in Islamic countries enjoy more equality than in India: Maneka",
+  "source": "Rediff",
+  "published_utc": "2016-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Importance Of Being Arundhati Bhattacharya",
+  "source": "LinkedIn",
+  "published_utc": "2016-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "J&K Bank willing to offer Islamic banking, says chairman Parvez Ahmad",
+  "source": "The Economic Times",
+  "published_utc": "2016-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt warns employees against criticising policies",
+  "source": "Business Standard",
+  "published_utc": "2016-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kerala: CPI(M) worker hacked to death in Kannur",
+  "source": "Business Standard",
+  "published_utc": "2016-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC Housing Finance gets \u2018Buy\u2019 rating; Jefferies cites steady loan growth",
+  "source": "The Financial Express",
+  "published_utc": "2016-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EpiMoney acquires FlexiLoans",
+  "source": "The Times of India",
+  "published_utc": "2016-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC relocates Piliyandala branch",
+  "source": "Daily FT",
+  "published_utc": "2016-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vishal Kampani: How JM Financial's new MD is keeping alive bank dreams",
+  "source": "The Economic Times",
+  "published_utc": "2016-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Toy shop Hamleys to increase India store count to 32 in 6 months",
+  "source": "Livemint",
+  "published_utc": "2016-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shanti\u2019s character made me a stronger person, says Mandira Bedi | Hindustan Times",
+  "source": "Hindustan Times",
+  "published_utc": "2016-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank rejigs top deck, Anup Bagchi to take over as retail chief",
+  "source": "The Economic Times",
+  "published_utc": "2016-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Payments Banks: When Will They Make Money? And, How Many Will Come Up?",
+  "source": "LinkedIn",
+  "published_utc": "2016-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Consumer Mela for spot registration of grievances to be held tomorrow; industry bodies, regulators to participate",
+  "source": "KNN India",
+  "published_utc": "2016-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3.2 million debit cards compromised; SBI, HDFC Bank, ICICI, YES Bank and Axis worst hit",
+  "source": "The Economic Times",
+  "published_utc": "2016-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Beware! Over 30 Lakh SBI, Yes Bank, ICICI, HDFC & Axis Bank debit cards exposed to ATM hack",
+  "source": "India.com",
+  "published_utc": "2016-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks, including SBI on guard after data security breach at private lender",
+  "source": "The New Indian Express",
+  "published_utc": "2016-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM security breach: Banks recall over 32 lakh debit cards; govt seeks details",
+  "source": "Firstpost",
+  "published_utc": "2016-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI asks banks to replace 17.5 lakh debit cards",
+  "source": "The Hindu",
+  "published_utc": "2016-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks cut limit, replace cards to plug data loss",
+  "source": "The Hindu",
+  "published_utc": "2016-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Bank Authorities Say 3.2 Million Debit Cards Hacked",
+  "source": "VOA - Voice of America English News",
+  "published_utc": "2016-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Multiple banks hit: 3.2 million debit cards compromised; how it happened, what happens now?",
+  "source": "The Indian Express",
+  "published_utc": "2016-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Security breach: Banks block over 32 lakh debit cards; Finance Ministry seeks report",
+  "source": "The Indian Express",
+  "published_utc": "2016-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here\u2019s why Yash Birla has been chargesheeted by Mumbai police",
+  "source": "The Financial Express",
+  "published_utc": "2016-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Debit card breach puts spotlight on outsourcing of ATM services | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2016-10-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Debit card scare: Why you need to change the ATM PIN immediately",
+  "source": "Business Standard",
+  "published_utc": "2016-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Banks: Will The Life Change After Rs100 Trillion Deposits?",
+  "source": "LinkedIn",
+  "published_utc": "2016-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "L&T Infotech to acquire analytics start-up AugmentIQ",
+  "source": "Livemint",
+  "published_utc": "2016-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "32 Lakh Debit Cards Have Been Blocked Across India: Here\u2019s What To Do",
+  "source": "OfficeChai",
+  "published_utc": "2016-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, Federal And Kotak Bank Put Up a Good Show, NPA\u2019s Stable: Results Analysis",
+  "source": "Capitalmind",
+  "published_utc": "2016-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yellow Tie to invest $20 million in chef Harpal Sokhi's restaurant ventures",
+  "source": "Livemint",
+  "published_utc": "2016-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MMTC ties up with banks to sell Indian Gold Coin",
+  "source": "The Indian Express",
+  "published_utc": "2016-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MMTC along with World Gold Council launch Indian Gold Coin",
+  "source": "The Dollar Business",
+  "published_utc": "2016-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Irish pharma firm Perrigo looks to sell Indian plant to cut debt",
+  "source": "Livemint",
+  "published_utc": "2016-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dhanteras 2016: Indian gold coin price today and where to buy; read the details",
+  "source": "The Financial Express",
+  "published_utc": "2016-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit, debit card frauds and how you can avoid them",
+  "source": "ET CIO",
+  "published_utc": "2016-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "title": "Honda exhausts new capacity at Gujarat plant",
+  "source": "Business Standard",
+  "published_utc": "2016-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The cookie crumbles in ITC vs Britannia biscuit packaging infringement",
+  "source": "Business Standard",
+  "published_utc": "2016-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Haldia Dock Earmarks Land for LNG Storage Setup",
+  "source": "The Dollar Business",
+  "published_utc": "2016-09-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

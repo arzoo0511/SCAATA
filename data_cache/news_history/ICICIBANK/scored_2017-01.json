@@ -1,0 +1,335 @@
+[
+ {
+  "title": "BHIM app for UPI-based payments ranked top on the Google Play Store",
+  "source": "FoneArena.com",
+  "published_utc": "2017-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loan to become cheapest in 6 years as SBI, other banks slash rates",
+  "source": "The Times of India",
+  "published_utc": "2017-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex ends in the red on 1st trading day of the year; Tata Steel rallies 3%; HDFC tanks 3%",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Freecharge, Paytm allows loading money via UPI; An experiment",
+  "source": "MediaNama",
+  "published_utc": "2017-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Finance ministry seeks report on malpractices by bank officials",
+  "source": "Livemint",
+  "published_utc": "2017-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Ltd, Bank of India announce cut in lending rates",
+  "source": "The Times of India",
+  "published_utc": "2017-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New version of BHIM app launched",
+  "source": "Livemint",
+  "published_utc": "2017-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Demonetisation: Petrol pumps threaten to stop accepting cards from Monday to protest banks' transaction fee",
+  "source": "The Times of India",
+  "published_utc": "2017-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol pumps threaten to stop accepting cards from Monday to protest banks' transaction fee",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "50 Days In The Life Of A Bank\u2019s Branch Manager In India",
+  "source": "LinkedIn",
+  "published_utc": "2017-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Review: 'Bairavaa' is a long and laborious film, but at least its heroine is a surprise",
+  "source": "The News Minute",
+  "published_utc": "2017-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Inc hails N Chandrasekaran's elevation as Tata Sons' chairman",
+  "source": "The Times of India",
+  "published_utc": "2017-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What Airtel Payments Bank's cash withdrawal charges mean for you",
+  "source": "Livemint",
+  "published_utc": "2017-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New Cheetham Hill Road hotel proposed",
+  "source": "Place North West",
+  "published_utc": "2017-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank blocks Flipkart-owned payments app PhonePe raising 'security concerns'",
+  "source": "The Times of India",
+  "published_utc": "2017-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI blocks PhonePe transactions in sign of banks moving to protect payments turf",
+  "source": "Livemint",
+  "published_utc": "2017-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank blocks transactions through Flipkart wallet PhonePe",
+  "source": "Business Standard",
+  "published_utc": "2017-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Updated: ICICI's blocking of PhonePe VPA's raises questions about governance of NPCI & UPI",
+  "source": "MediaNama",
+  "published_utc": "2017-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "8 Interesting facts about HDFC Bank",
+  "source": "Value Research",
+  "published_utc": "2017-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Telugu actor Pawan Kalyan to address students\u2019 organized meet at Harvard",
+  "source": "The Times of India",
+  "published_utc": "2017-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bengaluru reasons for blocking: PhonePe to ICICI Bank",
+  "source": "The Times of India",
+  "published_utc": "2017-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Block: PhonePe says 20,000 txns of over Rs 5 cr value failed",
+  "source": "MediaNama",
+  "published_utc": "2017-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank has Blocked Flipkart\u2019s PhonePe Transactions",
+  "source": "Gadgets To Use",
+  "published_utc": "2017-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC gives SBI, ICICI Bank competition on home loan rate",
+  "source": "The Financial Express",
+  "published_utc": "2017-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe app in breach of UPI guidelines: NPCI",
+  "source": "Business Standard",
+  "published_utc": "2017-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe temporarily disables UPI payments on Flipkart",
+  "source": "The Times of India",
+  "published_utc": "2017-01-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trident going strong on local and export demand",
+  "source": "The Economic Times",
+  "published_utc": "2017-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Startupbootcamp FinTech Selects 10 Startups To Join Inaugural Fintech Program In Mumbai",
+  "source": "Crowdfund Insider",
+  "published_utc": "2017-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bid to open ATM of ICICI Bank in Kukatpally",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Yes Bank\u2019s Rana Kapoor went from being an intern at Citibank to India\u2019s newest billionaire",
+  "source": "Scroll.in",
+  "published_utc": "2017-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sanjiv Puri to be named ITC CEO, chairman's post may be split",
+  "source": "Livemint",
+  "published_utc": "2017-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rajnath Singh\u2019s son Pankaj has assets of Rs 47 lakh, doesn\u2019t own a house",
+  "source": "The Times of India",
+  "published_utc": "2017-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cheque in Kannada dishonoured, customer drags bank to court",
+  "source": "The Times of India",
+  "published_utc": "2017-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Did Not Reject Cheque Because It Was Written In Kannada,' ICICI Bank Denies Customer's Charge",
+  "source": "Indiatimes",
+  "published_utc": "2017-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank introduces customer guiding humanoid at Mumbai branch",
+  "source": "MediaNama",
+  "published_utc": "2017-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lenskart to expand premium segment presence through new John Jacobs stores",
+  "source": "Livemint",
+  "published_utc": "2017-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shivpal Yadav to form new party after Uttar Pradesh election",
+  "source": "Livemint",
+  "published_utc": "2017-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

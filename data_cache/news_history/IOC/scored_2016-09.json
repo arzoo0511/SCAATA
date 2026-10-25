@@ -1,0 +1,362 @@
+[
+ {
+  "title": "Petrol price hiked by Rs. 3.38, Diesel by Rs. 2.67",
+  "source": "Team-BHP",
+  "published_utc": "2016-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "G K Satish takes over as Director-Planning and Business Development at Indian Oil Corp",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC\u2019s Gujarat refinery will expand capacity to 18 MTPA by 2020",
+  "source": "Equitypandit",
+  "published_utc": "2016-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Day celebrated at Doon office",
+  "source": "The Tribune",
+  "published_utc": "2016-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation to send fuel to Tripura via Bangladesh",
+  "source": "The Times of India",
+  "published_utc": "2016-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC plans to double refining capacity by 2030",
+  "source": "Moneycontrol.com",
+  "published_utc": "2016-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Raxaul-Amlekhganj petro pipeline's construction to begin in 4 months",
+  "source": "The Himalayan Times",
+  "published_utc": "2016-09-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "L&T Valves supplies HIPPS to Dirok project in Assam",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Refining industry facing challenging times: Indian Oil Corp official",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to send fuel consignment for Tripura via Bangladesh on 9 September",
+  "source": "Livemint",
+  "published_utc": "2016-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Resid Upgradation project reaches 88 per cent progress: CPCL",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Israel poised to become key player in regional gas industry'",
+  "source": "\u05d4\u05d9\u05d5\u05dd",
+  "published_utc": "2016-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance ranked 8th among top 10 global oil cos: Survey",
+  "source": "Firstpost",
+  "published_utc": "2016-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Hindustan Petroleum aims 60 million tonnes refining capacity by 2030",
+  "source": "The Indian Express",
+  "published_utc": "2016-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kayam Churna makers focus on their oldest brand 'Komla Gutika' weight loss pills",
+  "source": "Business Standard",
+  "published_utc": "2016-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Paradip refinery to achieve full capacity by Oct",
+  "source": "Business Standard",
+  "published_utc": "2016-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "School fumes at fuel station neighbour",
+  "source": "Telegraph India",
+  "published_utc": "2016-09-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Inks MoU With Praj Industries Ltd. for Development of 2G Ethanol",
+  "source": "PR Newswire",
+  "published_utc": "2016-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gas bottlers unwilling to import LPG from Odisha",
+  "source": "The Kathmandu Post",
+  "published_utc": "2016-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deferment of value added Tax to IOCL's Paradip Refinery hurting tax collections",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brand building: Why oil companies avoid sports stars",
+  "source": "Rediff",
+  "published_utc": "2016-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU-owned oil bunks to operate in Tamil Nadu",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tamil Nadu & Puducherry brace for Cauvery bandh today, man sets himself on fire",
+  "source": "Firstpost",
+  "published_utc": "2016-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Andheri to be partially shut for Andheri Cha Raja\u2019s 20 hour visarjan yatra",
+  "source": "Local Press Co",
+  "published_utc": "2016-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gujarat Alkalies selects Chematur Engineering for hydrogen peroxide project",
+  "source": "Business Standard",
+  "published_utc": "2016-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bayer launches fungicide for grapes",
+  "source": "Business Standard",
+  "published_utc": "2016-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samir Modi plans aggressive Twenty Four Seven expansion",
+  "source": "Livemint",
+  "published_utc": "2016-09-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nuclear-power projects: PSU leverage for imported reactors",
+  "source": "The Indian Express",
+  "published_utc": "2016-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran Bushehr Shipyard Update",
+  "source": "Bellingcat",
+  "published_utc": "2016-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fujairah commences jetty operations",
+  "source": "The Energy Year",
+  "published_utc": "2016-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation to buy a dealer management cum CRM system to handle its customers",
+  "source": "ET CIO",
+  "published_utc": "2016-09-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's energy diplomacy in Central Asia could challenge China's monopoly",
+  "source": "orfonline.org",
+  "published_utc": "2016-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lanka IOC says diesel tax increase will hit earnings",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2016-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RSS-affiliated trade union threatens protest against government\u2019s disinvestment plans",
+  "source": "SabrangIndia",
+  "published_utc": "2016-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Renewal of \u2018schedule W\u2019 plots gets govt nod",
+  "source": "The Asian Age",
+  "published_utc": "2016-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Approves $3 Billion Stake Purchase in Russian Oil Fields",
+  "source": "WSJ",
+  "published_utc": "2016-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "40 under Forty: Celebrating Young Leaders",
+  "source": "The Economic Times",
+  "published_utc": "2016-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt mulls setting up automatic fuel pumps",
+  "source": "The Himalayan Times",
+  "published_utc": "2016-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Enron's India relic comes back to life with record LNG imports",
+  "source": "Livemint",
+  "published_utc": "2016-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Police arrest four in bank fraud",
+  "source": "The Hindu",
+  "published_utc": "2016-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

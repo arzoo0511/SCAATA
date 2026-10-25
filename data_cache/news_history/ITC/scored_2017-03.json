@@ -1,0 +1,65 @@
+[
+ {
+  "title": "For ITC providing great living environment to managers is a key differentiator",
+  "source": "Livemint",
+  "published_utc": "2017-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's healthcare venture may delink doctors' pay from patient bills",
+  "source": "Livemint",
+  "published_utc": "2017-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 300-cr Pulse candy success leaves sweet taste for Rajnigandha pan masala-makers | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2017-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rajnigandha Pan Masala mints Rs 300 cr success through spectacular Pulse candy success",
+  "source": "The Financial Express",
+  "published_utc": "2017-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi HC grants Britannia permission to sell Nutrichoice Zero Digestive biscuits",
+  "source": "ETRetail.com",
+  "published_utc": "2017-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi HC allows Britannia to sell digestive biscuits in its brand war with ITC",
+  "source": "Livemint",
+  "published_utc": "2017-03-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy ITC: Goldman Is Betting Indians Will Trade Beedies For Cigarettes",
+  "source": "Barron's",
+  "published_utc": "2017-03-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

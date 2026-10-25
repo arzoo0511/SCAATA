@@ -1,0 +1,353 @@
+[
+ {
+  "title": "Anandiben Patel resigns as Gujarat chief minister",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2016-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Plastic Park to be developed in Panipat at a cost of Rs 220 crores",
+  "source": "KNN India",
+  "published_utc": "2016-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC slashes fuel prices",
+  "source": "The Kathmandu Post",
+  "published_utc": "2016-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's crude oil basket just fell below $40, now averaging at 10-year lows",
+  "source": "Zee Business",
+  "published_utc": "2016-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil India Shakthi-2 updates",
+  "source": "The Energy Year",
+  "published_utc": "2016-08-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Industrial Update \u2013 Revival of closed fertilizer plants",
+  "source": "IBG News",
+  "published_utc": "2016-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kajrolkar knocks Wagle out",
+  "source": "Mid-Day",
+  "published_utc": "2016-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Archer who bows to no one but herself",
+  "source": "The New Indian Express",
+  "published_utc": "2016-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt to build port on Mahanadi",
+  "source": "Telegraph India",
+  "published_utc": "2016-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A slice of Buddhism",
+  "source": "Telegraph India",
+  "published_utc": "2016-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC still profits Rs 111.7 per LPG cylinder",
+  "source": "myRepublica",
+  "published_utc": "2016-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Net worth doubles, no need to report to BIFR: Chennai Petroleum",
+  "source": "Business Standard",
+  "published_utc": "2016-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Energy News Monitor | Volume XIII; Issue 8",
+  "source": "orfonline.org",
+  "published_utc": "2016-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "For Eastern Region, Nepal Oil Corporation starts importing 120 KL petrol from Siliguri",
+  "source": "OnlineKhabar English News",
+  "published_utc": "2016-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp holds tender to buy 2 LNG cargoes - sources",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2016-08-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation sends petrol tankers to Tripura on train",
+  "source": "The Economic Times",
+  "published_utc": "2016-08-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coal Ministry to seek environment tax on petcoke, which is cheaper than coal",
+  "source": "ET EnergyWorld",
+  "published_utc": "2016-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Feroke municipality seeks unmanned level crossing",
+  "source": "The Times of India",
+  "published_utc": "2016-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC, partners to invest Rs823 crore for gas in Bokaro block",
+  "source": "Livemint",
+  "published_utc": "2016-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran,India to Finalize Farzad Gas Field Agreement",
+  "source": "Egypt Oil & Gas",
+  "published_utc": "2016-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Experts advocate use of technology to make Swachh Bharat mission a success",
+  "source": "The Indian Express",
+  "published_utc": "2016-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jammu and Kashmir: 28 oil tankers damaged, oil companies approach state government",
+  "source": "India Today",
+  "published_utc": "2016-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL to use treated water from STP in Mathura refinery",
+  "source": "Business Standard",
+  "published_utc": "2016-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Couple donates $100,000 for Sikh, Punjabi research in US",
+  "source": "The Economic Times",
+  "published_utc": "2016-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil signs MoU with Bangladesh for route permit",
+  "source": "Zee Business",
+  "published_utc": "2016-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ganga above danger mark in Bihar, West Bengal and UP",
+  "source": "Rediff",
+  "published_utc": "2016-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC says fuel supply to ease in a couple of days",
+  "source": "The Himalayan Times",
+  "published_utc": "2016-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supply of petroleum products to be smooth in a day or two: NOC",
+  "source": "myRepublica",
+  "published_utc": "2016-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meena Shyam Thombre",
+  "source": "The Times of India",
+  "published_utc": "2016-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kenya to Revive Mombasa Oil Refinery",
+  "source": "Egypt Oil & Gas",
+  "published_utc": "2016-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep, Kajal win carrom titles",
+  "source": "Mid-Day",
+  "published_utc": "2016-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Akira director AR Murugadoss feels it is time heroines do action films",
+  "source": "The Indian Express",
+  "published_utc": "2016-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Auto fuel adulteration rampant in India, says SC",
+  "source": "ET Auto",
+  "published_utc": "2016-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From the Archives - dated August 29, 1966",
+  "source": "The Hindu",
+  "published_utc": "2016-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai Motor Accident Claims Tribunal to Centre: Cap on insurance amount injustice to accident victims",
+  "source": "The Indian Express",
+  "published_utc": "2016-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "End the rail budget, run railways on commercial lines",
+  "source": "The Times of India",
+  "published_utc": "2016-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Q1 profit jumps 25% to \u20b98,269 crore | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2016-08-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DLF net profit doubles to Rs 261 cr",
+  "source": "Business Standard",
+  "published_utc": "2016-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance MF gets nod to manage CPSE ETF",
+  "source": "The Times of India",
+  "published_utc": "2016-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "title": "Kerala CM promises all support to GAIL project",
+  "source": "The Indian Express",
+  "published_utc": "2016-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Russia agree to build world's costliest gas pipeline worth $ 25 billion",
+  "source": "Deccan Chronicle",
+  "published_utc": "2016-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Russia to study building $25 bn pipeline",
+  "source": "Business Standard",
+  "published_utc": "2016-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Petronet gets green nod for Rs 464 crore Dahej port expansion",
+  "source": "The Economic Times",
+  "published_utc": "2016-10-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Petronet gets green nod for Dahej port expansion",
+  "source": "The Economic Times",
+  "published_utc": "2016-10-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

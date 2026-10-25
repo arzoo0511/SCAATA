@@ -1,0 +1,56 @@
+[
+ {
+  "title": "RAJEEV SINGH IS THE ONLY FUNCTIONAL MEMBER OF BOARD PRASAR BHARTI IN A FIX",
+  "source": "IndianMandarins",
+  "published_utc": "2017-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet buys 26 per cent stake in LNG vessel for Rs 100 crore",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-02-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NSE shuffles Nifty 50, replaces Idea and BHEL with Indian Oil Corporation, Indiabulls Housing",
+  "source": "Scroll.in",
+  "published_utc": "2017-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG's impressive showing",
+  "source": "Livemint",
+  "published_utc": "2017-02-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Puthuvype terminal is safe: Indian Oil Corporation",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CMD GAIL Tripathi Urges to Bring Natural Gas Under GST",
+  "source": "SAG Infotech Official Tax Blog",
+  "published_utc": "2017-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "title": "Excise duty raised on cigarettes by up to 6%, duty on chewing tobacco doubled",
+  "source": "Livemint",
+  "published_utc": "2017-02-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CII delegates get to know of \u2018best\u2019 industry practices",
+  "source": "The Tribune",
+  "published_utc": "2017-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India raises $995 million from stake sale in ITC, sources say",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2017-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ones to Watch: Banking and Wealth Management",
+  "source": "Long Island Business News",
+  "published_utc": "2017-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SUUTI's stake sale makes ITC share price jump over 5%",
+  "source": "Zee Business",
+  "published_utc": "2017-02-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Freight logistics is a brave new world thanks to BlackBuck's Chanakya Hridaya and Rajesh Yabaji",
+  "source": "Forbes India",
+  "published_utc": "2017-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC plans to set up multi-speciality hospitals",
+  "source": "Livemint",
+  "published_utc": "2017-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Nestle is rebuilding in India\u201418 months after the Maggi ban",
+  "source": "Livemint",
+  "published_utc": "2017-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to hike cigarette prices by up to 13%",
+  "source": "Livemint",
+  "published_utc": "2017-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC launches range of spices under ITC Master Chef brand",
+  "source": "India.com",
+  "published_utc": "2017-02-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

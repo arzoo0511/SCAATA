@@ -1,0 +1,308 @@
+[
+ {
+  "title": "No withdrawal limit, but no cash at ATMs either",
+  "source": "The Times of India",
+  "published_utc": "2017-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank goes live with the BBPS on its net banking service",
+  "source": "MediaNama",
+  "published_utc": "2017-02-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold or stocks or mutual funds? Spread your investments for consistent returns",
+  "source": "The Economic Times",
+  "published_utc": "2017-02-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank removes block on UPI transactions from PhonePe",
+  "source": "MediaNama",
+  "published_utc": "2017-02-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank increases cash transaction fees on savings a/cs",
+  "source": "The Economic Times",
+  "published_utc": "2017-02-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt walks the talk: Imposes 100% penalty for accepting cash above Rs 3 lakh",
+  "source": "IBTimes India",
+  "published_utc": "2017-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "China could play spoilsport; Rupee may depreciate by 3-4% in 2017: Ashish Parthasarthy, HDFC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2017-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank appoints Gaurav Kapur as its chief economist",
+  "source": "The Economic Times",
+  "published_utc": "2017-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Bank becomes Asia's top performing bank stock",
+  "source": "Livemint",
+  "published_utc": "2017-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank robbery accused confesses to end case, gets 9 years in prison | Mumbai News",
+  "source": "The Times of India",
+  "published_utc": "2017-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, Kotak Mahindra Bank go live with Bharat Bill Payment System",
+  "source": "Zee Business",
+  "published_utc": "2017-02-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Bank, Axis deny merger rumours",
+  "source": "The Times of India",
+  "published_utc": "2017-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "When will we see happy ending to the bad loan story of Indian banks?",
+  "source": "LinkedIn",
+  "published_utc": "2017-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple to offer Rs. 6,000 Cashback on iPhone 5S",
+  "source": "Gizbot",
+  "published_utc": "2017-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "200 villages use e-cash on Airtel\u2019s bank",
+  "source": "The Economic Times",
+  "published_utc": "2017-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "L&T Finance, L&T Fincorp merge with Family Credit",
+  "source": "Livemint",
+  "published_utc": "2017-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Want to make money in smallcaps & midcaps? Try it out the Porinju way",
+  "source": "The Economic Times",
+  "published_utc": "2017-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Foreign holding in HDFC Bank hits limit again: RBI",
+  "source": "India.com",
+  "published_utc": "2017-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "There is more room for lending rate cuts: HDFC Bank CEO Aditya Puri",
+  "source": "India.com",
+  "published_utc": "2017-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mahindra Group chairman Anand Mahindra defends demonetisation",
+  "source": "ET BrandEquity",
+  "published_utc": "2017-02-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What BharatQR means for India",
+  "source": "The Times of India",
+  "published_utc": "2017-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank's Rs 1,124 cr rights issue to open on March 2",
+  "source": "Business Standard",
+  "published_utc": "2017-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet The Top First-Year MBAs From India",
+  "source": "Poets&Quants",
+  "published_utc": "2017-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BharatQR digital payment solution launched",
+  "source": "MobiGyaan",
+  "published_utc": "2017-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank FPI trades: Sebi, RBI mull safeguards",
+  "source": "India.com",
+  "published_utc": "2017-02-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The BharatQR code",
+  "source": "Livemint",
+  "published_utc": "2017-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank to focus on retail loans rather lending to corporates",
+  "source": "The Economic Times",
+  "published_utc": "2017-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vijaya Bank will integrate BharatQR into its VPayQwik wallet",
+  "source": "MediaNama",
+  "published_utc": "2017-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hitachi hackers cashed in on security gaps in India's worst-ever cybersecurity breach",
+  "source": "The Economic Times",
+  "published_utc": "2017-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "D-Mart parent Avenue Supermarts to launch $280 million IPO on 8 March",
+  "source": "Livemint",
+  "published_utc": "2017-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank strike likely on Feb 28, may dent services",
+  "source": "Rediff",
+  "published_utc": "2017-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank strike likely on February 28, may dent services",
+  "source": "The Economic Times",
+  "published_utc": "2017-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Borrowers Beware: Your Bank May Be Ripping You Off",
+  "source": "Moneylife",
+  "published_utc": "2017-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank To Raise Transaction Fees From March 1",
+  "source": "Goodreturns",
+  "published_utc": "2017-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
