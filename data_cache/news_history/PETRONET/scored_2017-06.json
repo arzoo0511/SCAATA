@@ -1,0 +1,74 @@
+[
+ {
+  "title": "No Impact On Gas Imports Due To Qatar Dispute: Petronet",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GDF Intl sells entire stake in Petronet",
+  "source": "India.com",
+  "published_utc": "2017-06-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Companies Turn Generous, Step Up Dividend Payout",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nine Jammu and Kashmir Students, Coached By Army, Crack IIT Exam",
+  "source": "NDTV",
+  "published_utc": "2017-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Army's Kashmir Super 30 initiative lands 28 underprivileged students into IIT, NIT",
+  "source": "Firstpost",
+  "published_utc": "2017-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Choose books, laptops to end violence: Army chief Bipin Rawat to Kashmiri students | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2017-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Army coaching helps 9 Kashmiri students crack IIT entrance exam",
+  "source": "The Times of India",
+  "published_utc": "2017-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet in talks to buy stake in GSPC's Mundra LNG terminal",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

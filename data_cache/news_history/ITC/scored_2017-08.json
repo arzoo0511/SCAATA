@@ -1,0 +1,92 @@
+[
+ {
+  "title": "Indians can't get enough of flavoured milk: study",
+  "source": "Livemint",
+  "published_utc": "2017-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India launches exchange-traded fund for asset sales",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2017-08-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt forms Bharat 22 ETF to sell stakes in 22 firms",
+  "source": "Livemint",
+  "published_utc": "2017-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "70 years of India\u2019s Independence: 7 defining moments in Indian stock market",
+  "source": "The Financial Express",
+  "published_utc": "2017-08-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India threatens Philip Morris with 'punitive action' over alleged violations",
+  "source": "Reuters",
+  "published_utc": "2017-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC, Philip Morris warned for promoting cigarettes",
+  "source": "India.com",
+  "published_utc": "2017-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rebooting the idea of the farm economy",
+  "source": "inkl",
+  "published_utc": "2017-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Armed men hijack container, make away with cigarettes worth Rs 4 crore",
+  "source": "The New Indian Express",
+  "published_utc": "2017-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former Marketing Head Of Practo, Premanshu Singh Joins Coverfox As New CEO",
+  "source": "TechStory",
+  "published_utc": "2017-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Honda Cars India Limited: Kolkata-based auto dealer aims to add more than Rs 250 cr additional revenue every year",
+  "source": "ET Auto",
+  "published_utc": "2017-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

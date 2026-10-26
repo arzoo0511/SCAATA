@@ -1,0 +1,299 @@
+[
+ {
+  "title": "India\u2019s most admired companies",
+  "source": "Fortune India",
+  "published_utc": "2017-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha registers 2.3 pc growth in tax collection after GST",
+  "source": "India.com",
+  "published_utc": "2017-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Namkum oil depot to be shut soon",
+  "source": "Telegraph India",
+  "published_utc": "2017-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil refiners turn to use dirty fuel petcoke to produce power, gas",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-12-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha's green threat: Toxic air, pollulted rivers",
+  "source": "The Asian Age",
+  "published_utc": "2017-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC hikes price of all petroleum products",
+  "source": "The Himalayan Times",
+  "published_utc": "2017-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Rs 76.5/cylinder hike, oil cos skip LPG price revision",
+  "source": "India.com",
+  "published_utc": "2017-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Israel gives initial nod to Indian, Greek exploration companies",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Rs 76.50 hike, oil companies skip LPG price revision in December",
+  "source": "The Times of India",
+  "published_utc": "2017-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire breaks out in IOCL Paradip Refinery in Odisha",
+  "source": "The New Indian Express",
+  "published_utc": "2017-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Minor fire breaks out at IOC's Paradip refinery",
+  "source": "India.com",
+  "published_utc": "2017-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court Permits Cement Industry To Use Petroleum Coke",
+  "source": "NDTV",
+  "published_utc": "2017-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dirok Gas Field, Assam",
+  "source": "Offshore Technology",
+  "published_utc": "2017-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The view from Trump's brain: Peter Thiel at CERAweek",
+  "source": "Axios",
+  "published_utc": "2017-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Malayali walks 4,070 km on foot across Australia to highlight \u2018unfair business practices\u2019",
+  "source": "The New Indian Express",
+  "published_utc": "2017-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pune: Cycle rally with \u2018Save Fuel\u2019 message",
+  "source": "The Indian Express",
+  "published_utc": "2017-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trade talk",
+  "source": "Telegraph India",
+  "published_utc": "2017-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL to clash with Indian Oil in Gold Cup final",
+  "source": "India.com",
+  "published_utc": "2017-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u200bEngineers India Ltd officers took 2,549 official foreign trips in last three years",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC seeks redressal from government",
+  "source": "The Himalayan Times",
+  "published_utc": "2017-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai oil spill: Disposing of toxic chocolate mousse scooped in buckets, safely",
+  "source": "The Hindu",
+  "published_utc": "2017-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Minimum wages for petrol pump employees stayed; oil firms suffer setback",
+  "source": "Business Standard",
+  "published_utc": "2017-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Refilling facility for Super Gas customers",
+  "source": "The Himalayan Times",
+  "published_utc": "2017-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-CBI joint director appointed anti-corruption officer in Airports Authority of India",
+  "source": "The Indian Express",
+  "published_utc": "2017-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC, BPCL keen to acquire GAIL; company wants to merge with ONGC",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Foreign assets and ventures of Indian oil companies across the world",
+  "source": "The Times of India",
+  "published_utc": "2017-12-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil to start production of biomass-based ethanol",
+  "source": "India.com",
+  "published_utc": "2017-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government takes back LPG price hike order after 'contrary' signal",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-12-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt plans to set up bio-CNG plants and allied infrastructure",
+  "source": "Livemint",
+  "published_utc": "2017-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ASCI pulls up HUL, Dabur, Uber, others for misleading ads",
+  "source": "ETRetail.com",
+  "published_utc": "2017-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Unforgettable Events Of 2017 That Affected The Indian Automobile Industry",
+  "source": "CarDekho",
+  "published_utc": "2017-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trekker from Delhi goes missing, found after almost 24 hours",
+  "source": "The Times of India",
+  "published_utc": "2017-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Israeli Oil Pipeline, Once Co-owned by Iran, Will Continue to Be Cloaked in Secrecy",
+  "source": "CTech",
+  "published_utc": "2017-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

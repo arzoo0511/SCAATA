@@ -1,0 +1,20 @@
+[
+ {
+  "title": "Petronet Q4 profit nearly doubles to Rs 471 cr",
+  "source": "India.com",
+  "published_utc": "2017-05-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran wants India to pay more than triple the price of gas for awarding block to ONGC Videsh",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

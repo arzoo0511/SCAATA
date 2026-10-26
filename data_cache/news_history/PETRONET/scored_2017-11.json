@@ -1,0 +1,38 @@
+[
+ {
+  "title": "Petronet posts 28 pc jump in Net at Rs 589 cr in Sept qtr",
+  "source": "India.com",
+  "published_utc": "2017-11-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet looks to buy stake in Qatari LNG projects",
+  "source": "India.com",
+  "published_utc": "2017-11-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FIIs can invest up to 49% in ICICI Lombard, Petronet,Edelweiss",
+  "source": "India.com",
+  "published_utc": "2017-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Moody's upgrades ratings of nine PSUs",
+  "source": "India.com",
+  "published_utc": "2017-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

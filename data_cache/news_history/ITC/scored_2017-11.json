@@ -1,0 +1,74 @@
+[
+ {
+  "title": "India: ITC launches new Farmland brand, to sell potato based products",
+  "source": "Potato News Today",
+  "published_utc": "2017-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC launches fruit and vegetable brand Farmland",
+  "source": "Livemint",
+  "published_utc": "2017-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Biscuit Makers Locked In A Cookie War",
+  "source": "NDTV Profit",
+  "published_utc": "2017-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ktaka assures full support for investors in food processing",
+  "source": "India.com",
+  "published_utc": "2017-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC plans to take its Fabelle chocolate brand to retail outlets next year",
+  "source": "Livemint",
+  "published_utc": "2017-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC says biggest headroom for growth in FMCG business",
+  "source": "India.com",
+  "published_utc": "2017-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's Sanjiv Puri says biggest headroom for growth in FMCG business",
+  "source": "Livemint",
+  "published_utc": "2017-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC looks at FMCG segment as growth driver",
+  "source": "SME Times",
+  "published_utc": "2017-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

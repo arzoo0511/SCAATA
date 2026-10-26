@@ -1,0 +1,371 @@
+[
+ {
+  "title": "How the sensex swung from 30,000 in 2015 back to same level in 2017",
+  "source": "The Economic Times",
+  "published_utc": "2017-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "You won't see red beacon on VIP cars from today",
+  "source": "Rediff",
+  "published_utc": "2017-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "100 Indian Villages Transformed Into Tech-Savvy Digital Villages in a Matter of 100 Days!",
+  "source": "The Better India",
+  "published_utc": "2017-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Group launches 100 'ICICI Digital Villages'",
+  "source": "IBTimes India",
+  "published_utc": "2017-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Threat of automation: Robotics and artificial intelligence to reduce job opportunities at top banks",
+  "source": "The Economic Times",
+  "published_utc": "2017-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank verification can help overcome signature mismatch in mutual fund records",
+  "source": "Livemint",
+  "published_utc": "2017-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jump In ICICI Bank Profit Hides Deteriorating Asset Quality",
+  "source": "NDTV Profit",
+  "published_utc": "2017-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Video | Buy IRB Infra For Target Of Rs 272: Vikas Sethi",
+  "source": "NDTV",
+  "published_utc": "2017-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "20-year-old girl plans her own kidnapping, demands Rs.10 lakh as ransom from father",
+  "source": "InUth",
+  "published_utc": "2017-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now, Baahubali-customised debit cards by ICICI",
+  "source": "Asianet Newsable",
+  "published_utc": "2017-05-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why the street is positive on ICICI Bank",
+  "source": "Business Standard",
+  "published_utc": "2017-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mswipe enables NFC payments from Samsung Pay",
+  "source": "MediaNama",
+  "published_utc": "2017-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why this serial entrepreneur and WEF leader is bullish about starting up again",
+  "source": "YourStory.com",
+  "published_utc": "2017-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Growth Fund says Rs 1 lakh grows to Rs 1 crore in 22 years",
+  "source": "IBTimes India",
+  "published_utc": "2017-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar receives Woodrow Wilson Award",
+  "source": "The Times of India",
+  "published_utc": "2017-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HN Sinor resigns from Banks Board Bureau after surprise changes in top management of state-run banks",
+  "source": "The Economic Times",
+  "published_utc": "2017-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Life IPO picks up momentum; insurer had posted robust performance for FY17",
+  "source": "IBTimes India",
+  "published_utc": "2017-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar first Indian woman to receive top US award for global corporate citizenship",
+  "source": "YourStory.com",
+  "published_utc": "2017-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Maoist Leader Kundan Pahn Surrenders To Jharkhand Police",
+  "source": "ScoopWhoop",
+  "published_utc": "2017-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Thousands gather in Hyderabad to protest against shifting \u2018Dharna Chowk'",
+  "source": "Livemint",
+  "published_utc": "2017-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking a top draw in MBA placements",
+  "source": "The Times of India",
+  "published_utc": "2017-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bengaluru: Skeletons tumble out of mining closet",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nestle's KitKat four fingers fourth time unlucky in trademark row",
+  "source": "Livemint",
+  "published_utc": "2017-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Motherson Sumi Systems Q4 net profit up 20 per cent at Rs 705.86 crore",
+  "source": "The Financial Express",
+  "published_utc": "2017-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLAT Defines the Scope and Extent of the Corporate Debtor\u2019s Right to Contest Admission of Insolvency Applications Filed by Financial Creditors",
+  "source": "Cyril Amarchand Mangaldas",
+  "published_utc": "2017-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Portea is helping senior citizens take care of all their health requirements from the comfort of their homes",
+  "source": "YourStory.com",
+  "published_utc": "2017-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank announces winners of \u00e2\u20ac\u02dcICICI Appathon 2017\u00e2\u20ac\u2122",
+  "source": "Indiablooms",
+  "published_utc": "2017-05-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hikes CEO Chanda Kochhar's FY17 remuneration by 64%; She earns Rs 2.1 lakh a day",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO Chanda Kochhar draws Rs 7.85 cr in FY17, Rs 2.18 lakh per day, up 64%",
+  "source": "Firstpost",
+  "published_utc": "2017-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO Chanda Kochhar's salary rose 64% to Rs7.85 crore in FY17",
+  "source": "Livemint",
+  "published_utc": "2017-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO Kochhar earns Rs 2.18 lakh per day",
+  "source": "The Times of India",
+  "published_utc": "2017-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO Chanda Kochhar earned Rs 2.18 lakh a day in 2016-17",
+  "source": "The Indian Express",
+  "published_utc": "2017-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fairfax sells 12.18% stake in ICICI Lombard General Insurance",
+  "source": "Livemint",
+  "published_utc": "2017-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fairfax sells 12% stake in ICICI Lombard to Warburg Pincus for Rs 2,473 cr",
+  "source": "Business Standard",
+  "published_utc": "2017-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former ICICI Bank exec Rajiv Sabharwal joins Finova Capital as adviser",
+  "source": "VCCircle",
+  "published_utc": "2017-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank launches \u2018Money2India\u2019 website and mobile app for NRIs",
+  "source": "FoneArena.com",
+  "published_utc": "2017-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Chanda Kochhar draws Rs 6.09 cr remuneration in FY17'",
+  "source": "India.com",
+  "published_utc": "2017-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICAI steps in to check if bad loans are being misreported by banks",
+  "source": "Livemint",
+  "published_utc": "2017-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO Chanda Kochhar draws Rs 6.09 cr remuneration in FY17",
+  "source": "The Financial Express",
+  "published_utc": "2017-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Finally, The Reserve Bank Cracks The Da Vinci Code Of Indian Banking!",
+  "source": "LinkedIn",
+  "published_utc": "2017-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Ltd Launches New 'Money2India' Website and Mobile Application",
+  "source": "FF News",
+  "published_utc": "2017-05-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

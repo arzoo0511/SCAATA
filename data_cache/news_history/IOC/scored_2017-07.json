@@ -1,0 +1,308 @@
+[
+ {
+  "title": "Subroto Bagchi ceases to be Independent Director of Indian Oil Corporation Ltd",
+  "source": "EquityBulls",
+  "published_utc": "2017-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation launches 450-kg jumbo cylinder in Coimbatore",
+  "source": "The Indian Express",
+  "published_utc": "2017-07-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp launches 450-kg jumbo cylinder in Coimbatore",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-07-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation conducts special inspection of depots in North-East",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vietnam renews India oil deal in tense South China Sea",
+  "source": "Reuters",
+  "published_utc": "2017-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FIR against 29 fuel stations in Lucknow for \u2018cheating customers\u2019",
+  "source": "The Indian Express",
+  "published_utc": "2017-07-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cash-strapped Venezuela offers India\u2019s ONGC oil stake",
+  "source": "The Hindu",
+  "published_utc": "2017-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India buys first ever U.S. crude oil, to step up purchases",
+  "source": "Reuters",
+  "published_utc": "2017-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC Videsh to bid in Lebanon gas field auction",
+  "source": "Livemint",
+  "published_utc": "2017-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vietnam and India: Shared interests in the South China Sea",
+  "source": "Lowy Institute",
+  "published_utc": "2017-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "22nd World Petroleum Congress (WPC) International Conference held in Istanbul, Turkey",
+  "source": "AffairsCloud.com",
+  "published_utc": "2017-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Paradip refinery biggest gainer of tax sops among new refineries",
+  "source": "Business Standard",
+  "published_utc": "2017-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "West Bengal: 5 Indian Oil Corporation tankers catch fire in Siliguri",
+  "source": "India Today",
+  "published_utc": "2017-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Eight tankers close to Indian Oil terminal at Siliguri charred",
+  "source": "India.com",
+  "published_utc": "2017-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG subsidy: Telangana beats Andhra Pradesh, lives up to PM Modi's 'give-it-up' spirit",
+  "source": "The Times of India",
+  "published_utc": "2017-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ujjwala scheme for LPG connections now has 2.5 crore beneficiaries: Oil ministry",
+  "source": "Livemint",
+  "published_utc": "2017-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A Month Into Daily Changes In Petrol, Diesel Rates, What Consumers Are Paying Now",
+  "source": "NDTV",
+  "published_utc": "2017-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bharat Petroleum makes its first US oil purchase, buys Mars, Poseidon",
+  "source": "Firstpost",
+  "published_utc": "2017-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil leak fuels sabotage cry",
+  "source": "Telegraph India",
+  "published_utc": "2017-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court's Constitution bench to hear Aadhaar cases today",
+  "source": "Livemint",
+  "published_utc": "2017-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India approves creation of state oil giant in $4.6 billion deal",
+  "source": "The ASEAN Post",
+  "published_utc": "2017-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "40% of Fortune 500 companies Asian, India has 7 in list",
+  "source": "The Times of India",
+  "published_utc": "2017-07-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Days after \u2018clean chit\u2019, dispensing unit sealed at Pune petrol pump",
+  "source": "The Indian Express",
+  "published_utc": "2017-07-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "M&A in Russia: Opportunities and Risks in the Current Environment",
+  "source": "Legally India",
+  "published_utc": "2017-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government to sell entire stake in HPCL to ONGC, says Oil Minister",
+  "source": "The New Indian Express",
+  "published_utc": "2017-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crude Oil Worth Rs 49 Crores Stolen From Cairn India Plant in Rajasthan",
+  "source": "India.com",
+  "published_utc": "2017-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Charles Red Corn Obituary",
+  "source": "Osage News",
+  "published_utc": "2017-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u200bONGC-HPCL merger to be completed this fiscal, Jaitley to head panel: Dharmendra Pradhan",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Environmental assessment being done for cross-border oil pipeline",
+  "source": "The Kathmandu Post",
+  "published_utc": "2017-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG prices to be hiked by Rs 4 per month: Government",
+  "source": "WION",
+  "published_utc": "2017-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochi Metro Rail Ltd to help private operators to roll out CNG buses",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol pumps to get vapour recovery systems",
+  "source": "The Times of India",
+  "published_utc": "2017-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI policy, Q1 results to drive markets this week: Experts",
+  "source": "India.com",
+  "published_utc": "2017-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Review petition in High Court after dismissal of SLP by Supreme Court by non-speaking order",
+  "source": "Tilak Marg",
+  "published_utc": "2017-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

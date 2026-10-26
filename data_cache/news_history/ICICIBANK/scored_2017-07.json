@@ -1,0 +1,371 @@
+[
+ {
+  "title": "Know Business Leaders Says GST in Their Own Words",
+  "source": "SAG Infotech Official Tax Blog",
+  "published_utc": "2017-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UltraTech-Jaypee cement deal closed in relief to banks",
+  "source": "Livemint",
+  "published_utc": "2017-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GST Primer: No Double Taxation If You Pay Utility Bills Through Credit Card | BOOM",
+  "source": "BOOM Fact Check",
+  "published_utc": "2017-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fino Payments Bank has commenced operations, says RBI",
+  "source": "MediaNama",
+  "published_utc": "2017-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi Metro starts accepting payments through BharatQR",
+  "source": "MediaNama",
+  "published_utc": "2017-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The state of play: India\u2019s banks in 2017",
+  "source": "The Banker",
+  "published_utc": "2017-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Fairfax join venture terminated ahead of ICICI Lombard IPO",
+  "source": "Livemint",
+  "published_utc": "2017-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JV pact of ICICI Bank, Fairfax terminated ahead of Lombard IPO",
+  "source": "India.com",
+  "published_utc": "2017-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vague RBI guidelines see banks cap PM\u2019s Jan Dhan Yojana accounts",
+  "source": "The Times of India",
+  "published_utc": "2017-07-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ABG Shipyard says in \u2018deep crisis', reports Rs822 crore loss in Q3 of 2016-17",
+  "source": "Livemint",
+  "published_utc": "2017-07-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Krishnava Dutt, Managing Partner, Argus Partners, on working at ICICI, AMSS, and his experience",
+  "source": "superlawyer.in",
+  "published_utc": "2017-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EPFO partners with 5 banks for PF dues collection",
+  "source": "Elets BFSI",
+  "published_utc": "2017-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How is Axis Bank revolutionizing fintech startups?",
+  "source": "analyticsindiamag.com",
+  "published_utc": "2017-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBL Bank reports bad loan divergence at Rs339 crore for FY16",
+  "source": "Livemint",
+  "published_utc": "2017-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "World Bank to create women's fund championed by Ivanka Trump",
+  "source": "Livemint",
+  "published_utc": "2017-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why bank lockers are better than home safes",
+  "source": "The Economic Times",
+  "published_utc": "2017-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "China-Pakistan infrastructure seen to boost insurance sector",
+  "source": "Insurance Business",
+  "published_utc": "2017-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Life IPO: State Bank of India looks to sell 80 million shares",
+  "source": "Livemint",
+  "published_utc": "2017-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard IPO: Fairfax, ICICI Bank to sell at least 20% stake",
+  "source": "Livemint",
+  "published_utc": "2017-07-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mutual fund distributors' commissions grow in FY17",
+  "source": "Livemint",
+  "published_utc": "2017-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deals Buzz: Mu Sigma's Dhiraj Rajaram becomes controlling shareholder",
+  "source": "Livemint",
+  "published_utc": "2017-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI\u200aLombard files for IPO",
+  "source": "Livemint",
+  "published_utc": "2017-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A 'nightmare' called DreamZ: Probe reveals Rs 20.5 cr moved to 3 accounts",
+  "source": "Bangalore Mirror",
+  "published_utc": "2017-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Monsoon session: Narendra Modi walks up to opposition benches, greets Sonia Gandhi",
+  "source": "Livemint",
+  "published_utc": "2017-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Should investors worry about ICICI Pru Value Discovery Fund's underperformance?",
+  "source": "The Economic Times",
+  "published_utc": "2017-07-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks lost Rs 180 crore to dacoity, burglaries in 3 years",
+  "source": "The Economic Times",
+  "published_utc": "2017-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to sell personal loans of up to Rs 15 lakh through its ATMs",
+  "source": "Firstpost",
+  "published_utc": "2017-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Know All About The Newly Introduced Fino Payments Bank",
+  "source": "Goodreturns",
+  "published_utc": "2017-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India has four payments banks now. Here is how they differ",
+  "source": "Livemint",
+  "published_utc": "2017-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's new offer: Get a personal loan through ATM in three steps",
+  "source": "Business Standard",
+  "published_utc": "2017-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank's gross NPA divergence Rs 507 crore for FY16",
+  "source": "Business Standard",
+  "published_utc": "2017-07-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata group to sell biotech unit Advinus Therapeutics to Eurofins Scientific",
+  "source": "Livemint",
+  "published_utc": "2017-07-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty\u2019s journey from 1,000 to 10,000: Brief history and major milestones",
+  "source": "The Financial Express",
+  "published_utc": "2017-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's Q1 FY18 profit slides, gross NPAs up",
+  "source": "Forbes India",
+  "published_utc": "2017-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shikha Sharma hints at another term at Axis Bank",
+  "source": "The Economic Times",
+  "published_utc": "2017-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "High NPAs cap ICICI Group Q1 net at Rs 2,605 cr",
+  "source": "India.com",
+  "published_utc": "2017-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares dip 3% after Q1 results",
+  "source": "India.com",
+  "published_utc": "2017-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shikha Sharma re-appointed as MD and CEO, Axis Bank",
+  "source": "afaqs!",
+  "published_utc": "2017-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank chief Chanda Kochhar says additions to NPAs lowest in 7 quarters",
+  "source": "The Financial Express",
+  "published_utc": "2017-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares dip nearly 4% after Q1 results",
+  "source": "Livemint",
+  "published_utc": "2017-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EPFO ties up with 10 banks to make payments of PF withdrawals, pension to beneficiaries",
+  "source": "The Financial Express",
+  "published_utc": "2017-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

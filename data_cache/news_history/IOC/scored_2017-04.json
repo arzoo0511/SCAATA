@@ -1,0 +1,326 @@
+[
+ {
+  "title": "Paradip refinery: Pradhan for fresh Odisha-Indian Oil pact",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India tussles with Iran over Farzad B gas field",
+  "source": "WION",
+  "published_utc": "2017-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG cylinders' dispatch from Indian Oil's Bengal bottling plant hit",
+  "source": "India.com",
+  "published_utc": "2017-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Roadmap on oil, gas PSU integration likely this fiscal",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco keen to take stake in west coast refinery",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India plans high speed diesel pipeline to Bangladesh",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Clash stalls work at Indian Oil plant",
+  "source": "Telegraph India",
+  "published_utc": "2017-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to expand Paradip refinery despite stand-off with Odisha",
+  "source": "Business Standard",
+  "published_utc": "2017-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal Oil Corp starts distributing Euro IV standard petrol, diesel",
+  "source": "The Himalayan Times",
+  "published_utc": "2017-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp to expand LPG facilities in Kerala and Tamil Nadu",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol pumps threaten 'weekly off' every Sunday from 10 May as govt yet to decide on higher commission",
+  "source": "Firstpost",
+  "published_utc": "2017-04-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuelbandi: Petrol pumps may remain shut on Sundays from May 14, to operate from 9 am to 6 pm on other days",
+  "source": "India Today",
+  "published_utc": "2017-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices to change every day from May 1",
+  "source": "The Times of India",
+  "published_utc": "2017-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mega merger: A state oil conglomerate in the works to compete with global biggies",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices to change daily from 1 May",
+  "source": "Livemint",
+  "published_utc": "2017-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to build diesel, gas pipelines to Bangladesh",
+  "source": "The Indian Express",
+  "published_utc": "2017-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chief Minister uneasy as Puducherry to test dynamic fuel pricing",
+  "source": "The New Indian Express",
+  "published_utc": "2017-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jet fuel prices rise nearly 45% globally in 12 months",
+  "source": "IBTimes India",
+  "published_utc": "2017-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bengaluru is India's No 2 petrol-guzzler",
+  "source": "Deccan Herald",
+  "published_utc": "2017-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Numaligarh Refinery signs MoU to import crude oil via Paradip port",
+  "source": "India.com",
+  "published_utc": "2017-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India plans stake sales worth $5.4 billion in seven state-run firms",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2017-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prices of kerosene, cooking gas will keep rising while subsidy burden will reduce slowly. Read why",
+  "source": "The Economic Times",
+  "published_utc": "2017-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Foreign direct investment by Indian companies rises sharply in March",
+  "source": "IBTimes India",
+  "published_utc": "2017-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp sees more synergy in buying PSU rivals than oil producers",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-04-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata, Godrej, Adani show interest in buying Sahara properties",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Prices Set to Change Daily From May 1",
+  "source": "India Car News",
+  "published_utc": "2017-04-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIM topper talks grades, goals and guys",
+  "source": "Telegraph India",
+  "published_utc": "2017-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why this Kochi fishing community is agitating against Indian Oil's LPG terminal",
+  "source": "The News Minute",
+  "published_utc": "2017-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka's oil firm workers call off strike over India deal",
+  "source": "Canadian HR Reporter",
+  "published_utc": "2017-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India-Saudi Arabia Relations: New Bilateral Dynamics",
+  "source": "Middle East Institute",
+  "published_utc": "2017-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lankan trade union fuel stir against IOC's Trincomalee petroleum refinery",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-04-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC gets green nod to revamp Bongaigaon refinery at Rs 4,185 crore",
+  "source": "Business Standard",
+  "published_utc": "2017-04-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC begins pipe procurement process for pipeline project",
+  "source": "The Himalayan Times",
+  "published_utc": "2017-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to build new terminal at Motihari to supply fuel to Nepal",
+  "source": "The Financial Express",
+  "published_utc": "2017-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NRL to use IOCL's crude oil handling facility at Paradip Port for expansion",
+  "source": "Business Standard",
+  "published_utc": "2017-04-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices to be revised daily from today",
+  "source": "The Asian Age",
+  "published_utc": "2017-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

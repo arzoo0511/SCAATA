@@ -1,0 +1,326 @@
+[
+ {
+  "title": "Prices of non-subsidised LPG cylinders hiked by Rs 93-94",
+  "source": "The Asian Age",
+  "published_utc": "2017-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG prices hiked by Rs 5 per cylinder; Jet fuel also up over 2%",
+  "source": "Zee Business",
+  "published_utc": "2017-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From Durban heroics to batting in Auckland, top 5 moments in Ashish Nehra's career",
+  "source": "The News Minute",
+  "published_utc": "2017-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC hikes prices of petroleum products",
+  "source": "The Kathmandu Post",
+  "published_utc": "2017-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol bunks under IOCL down shutters to protest target norm",
+  "source": "The New Indian Express",
+  "published_utc": "2017-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL begins preliminary work to set up Asanur terminal",
+  "source": "The Hindu",
+  "published_utc": "2017-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil denies role in Lanka fuel crisis",
+  "source": "India.com",
+  "published_utc": "2017-11-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Demonetisation: How digital payments gained currency, in eight charts",
+  "source": "VCCircle",
+  "published_utc": "2017-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "27 months on, Nepal fails to take petroleum pipeline project ahead",
+  "source": "OnlineKhabar English News",
+  "published_utc": "2017-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India sends 21,000 kilo litres of petrol to Sri Lanka",
+  "source": "India.com",
+  "published_utc": "2017-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil-Tamil Nadusnooker championship: Shrikrishna wins second group match",
+  "source": "The New Indian Express",
+  "published_utc": "2017-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prime Minister hits for a six Arjuna\u2019s spin attack on LIOC",
+  "source": "The Sunday Times, Sri Lanka",
+  "published_utc": "2017-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Notes on the Indo-Pacific: Trump and Modi Reaffirm Defense Ties, \u201cQuad\u201d Meets",
+  "source": "Council on Foreign Relations (CFR)",
+  "published_utc": "2017-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jet Airways Flight Of Fantasy Celebrates 20 Glorious Years Of Giving Wings To Children's Dreams | Nickelodeon India",
+  "source": "NickALive!",
+  "published_utc": "2017-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL's PPU in Odisha's Paradip to be ready by June 2018",
+  "source": "Sambad English",
+  "published_utc": "2017-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iocls Polypropylene Unit To Be Ready By June - PT Pulse",
+  "source": "Projects Today",
+  "published_utc": "2017-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Independence and Impartiality of Arbitrators: Are We There Yet?",
+  "source": "Wolters Kluwer",
+  "published_utc": "2017-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Moody's upgrades ratings of nine PSUs",
+  "source": "India.com",
+  "published_utc": "2017-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches nation's first electric charging station",
+  "source": "India.com",
+  "published_utc": "2017-11-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp and Ola Launch India\u2019s First Electric Charging Station in Nagpur",
+  "source": "India.com",
+  "published_utc": "2017-11-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nagpur Gets India\u2019s First Electric Vehicle Charging Station",
+  "source": "The Quint",
+  "published_utc": "2017-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s First Electric Vehicle Charging Station Launched By Indian Oil Corporation",
+  "source": "DriveSpark",
+  "published_utc": "2017-11-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil spill worry in Paradip",
+  "source": "Telegraph India",
+  "published_utc": "2017-11-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Cancels $500 Million Missile Deal with Rafael, Report Says",
+  "source": "CTech",
+  "published_utc": "2017-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC and HPCL open EV charging stations in Nagpur",
+  "source": "Team-BHP",
+  "published_utc": "2017-11-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Opens Its First EV Charging Station In Nagpur",
+  "source": "ZigWheels.com",
+  "published_utc": "2017-11-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal Oil Corporation at loss of Rs 550 million a month",
+  "source": "OnlineKhabar English News",
+  "published_utc": "2017-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OMCs to fast-track upgrade of refineries to BS-VI standard",
+  "source": "Livemint",
+  "published_utc": "2017-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC books Rs13,500 crore trading profit in April-September period",
+  "source": "Livemint",
+  "published_utc": "2017-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pradhan defends mega oil refinery amid e-vehicle push",
+  "source": "India.com",
+  "published_utc": "2017-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha\u2019s biggest oil terminal at Jharsuguda to be inaugurated on Nov 29",
+  "source": "OdishaBytes",
+  "published_utc": "2017-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-Indian Oil Chairman B Ashok appointed CEO of RRPL",
+  "source": "The Economic Times",
+  "published_utc": "2017-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pradhan inaugurates fully automated oil terminal",
+  "source": "India.com",
+  "published_utc": "2017-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mercedes Poised To Launch BS-VI Compliant Vehicles Ahead Of Schedule",
+  "source": "Gaadiwaadi.com",
+  "published_utc": "2017-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jharsuguda oil terminal dedicated to nation",
+  "source": "The New Indian Express",
+  "published_utc": "2017-11-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Khunti oil depot springs hope",
+  "source": "Telegraph India",
+  "published_utc": "2017-11-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

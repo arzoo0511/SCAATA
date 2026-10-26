@@ -1,0 +1,614 @@
+[
+ {
+  "title": "GDP Growth Of 7-8% Reasonable In Current Global Scenario, Arun Jaitley Says",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Communications\u2019 Lenders Huddle To Discuss Debt",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Demonetisation Leaves An Imprint On GDP Growth In FY17",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Commercial Bank launches '60 seconds' online money transfer service to India",
+  "source": "The Peninsula Qatar",
+  "published_utc": "2017-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mastermind of Bhanwari Devi murder case arrested after 6 yrs",
+  "source": "Rediff",
+  "published_utc": "2017-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Plus and minus points of payment banks",
+  "source": "The Economic Times",
+  "published_utc": "2017-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Policy: The Risk Of Rushing Toward An Inflation Target Prematurely",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No Impact On Gas Imports Due To Qatar Dispute: Petronet",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "COAI Seeks Cut In GST Rates For Telecom In Letter To Finance Ministry",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will Oyo\u2019s Big Townhouse Bet Pay Off?",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank starts charging for outward UPI transactions",
+  "source": "MediaNama",
+  "published_utc": "2017-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks Look To Cash On UPI Payments, Plans To Levy Charges On Transactions",
+  "source": "Inc42",
+  "published_utc": "2017-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Avendus eyes $550m UK fund manager Ocean Dial",
+  "source": "The Times of India",
+  "published_utc": "2017-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC Leads The Chart For SBI\u2019s QIP",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At Rs 15,000 cr, State Bank of India launches biggest-ever QIP",
+  "source": "The Financial Express",
+  "published_utc": "2017-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI may ask banks not to charge for payments made through UPI",
+  "source": "The Economic Times",
+  "published_utc": "2017-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sharad Bishnoi lays HDFC Bank\u2019s digital strategy",
+  "source": "ET CIO",
+  "published_utc": "2017-06-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Evolution Of Urjit Patel As Reserve Bank Of India Governor",
+  "source": "LinkedIn",
+  "published_utc": "2017-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u200b OPENING BELL: SENSEX, NIFTY START ON A FIRM NOTE",
+  "source": "The Economic Times",
+  "published_utc": "2017-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Thursday Morning Briefing: Asian Stocks Pare Early Gains As Traders Hold Bets",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Strong Autonomy Message: MPC Declines Finance Ministry\u2019s Request To Meet",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Needs Open Markets To Sustain 8-10% Growth, Arvind Subramanian Says",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Transaction charges: Which is the cheapest mode of money transfer between UPI, IMPS and NEFT?",
+  "source": "Zee Business",
+  "published_utc": "2017-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Companies Turn Generous, Step Up Dividend Payout",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mahagun raises Rs325 crore from Piramal Finance for Delhi NCR projects",
+  "source": "Livemint",
+  "published_utc": "2017-06-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SCO Astana Summit 2017: India, Pakistan become full members",
+  "source": "Livemint",
+  "published_utc": "2017-06-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India climbs to 9th position on FDI inflow list, US retains top spot",
+  "source": "Livemint",
+  "published_utc": "2017-06-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLT Calls Meeting Of Religare, Subsidiaries In July For Merger",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rupee strength reflects positive dynamics in India, says Dushyant Padmanabhan",
+  "source": "Livemint",
+  "published_utc": "2017-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, ICICI Bank shares gain, Axis Bank falls in one month",
+  "source": "IBTimes India",
+  "published_utc": "2017-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cancelled Fund-Raise Won\u2019t Hurt Debt Repaying Ability, Says Vascon Engineers",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank overtakes RIL to become second most valued firm",
+  "source": "India.com",
+  "published_utc": "2017-06-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Only 12 banks score 'high' in customer services",
+  "source": "The Times of India",
+  "published_utc": "2017-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDBI bank to establish exclusive vertical for NPA recovery",
+  "source": "The Economic Times",
+  "published_utc": "2017-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank partners with TerraPay for faster international remittance",
+  "source": "The Economic Times",
+  "published_utc": "2017-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "VMC begins issuing property tax bills",
+  "source": "The Times of India",
+  "published_utc": "2017-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Bank of India under RBI's corrective action lens",
+  "source": "The Economic Times",
+  "published_utc": "2017-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Examining Relaxing Bad Loan Classification Limit Beyond 90 Days For SMEs",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Bank of India: Five things about another bank on RBI's radar for bad loans",
+  "source": "Business Today",
+  "published_utc": "2017-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Initiates Prompt Corrective Action Against Central Bank Of India",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jaipur: Fire breaks out at HDFC Bank in Vaishali Nagar",
+  "source": "The PinkCity Post",
+  "published_utc": "2017-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prachi Mishra: An early top level lateral recruit at RBI quits in less than three years",
+  "source": "The Economic Times",
+  "published_utc": "2017-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No Subsidy For Companies Under Bad Loan Category, Steel Secretary Says",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank stocks in focus as NPA resolution efforts gain traction",
+  "source": "India.com",
+  "published_utc": "2017-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "M&M More Preferred Than Volkswagen, Toyota",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tuesday Morning Briefing: Asian Stocks Rise On Tech Rebound, Crude Gains",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Four Indian Companies Make It To Goldman Sachs\u2019 Asia Stock Collection",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking stocks lift equity markets, Sensex trades at new high",
+  "source": "India.com",
+  "published_utc": "2017-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Subhash Garg Will Replace Shaktikanta Das As India\u2019s Economic Secretary",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CAIT to hold 100 GST awareness workshops pan-India for traders",
+  "source": "India.com",
+  "published_utc": "2017-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We shouldn't exaggerate our NPA problems: former RBI governor YV Reddy",
+  "source": "Livemint",
+  "published_utc": "2017-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GST Clinics to help traders in smooth transition",
+  "source": "India.com",
+  "published_utc": "2017-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CAIT to hold 100 GST Clinics pan-India to educate traders",
+  "source": "India.com",
+  "published_utc": "2017-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI's Arundhati Bhattacharya gets paid Rs 29 lakhs while private sector CEOs earn in crores",
+  "source": "Firstpost",
+  "published_utc": "2017-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "AU Small Finance Bank IPO to open on June 28: Here is all you need to know",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PCB launches online property tax payment facility",
+  "source": "The Indian Express",
+  "published_utc": "2017-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochi Metro transgender hires to have a home, after public outcry",
+  "source": "Livemint",
+  "published_utc": "2017-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bankers take home up to Rs 10 crore per year; salaries of top five bankers in the country",
+  "source": "Zee Business",
+  "published_utc": "2017-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire at HDFC Bank in Mohali",
+  "source": "The Tribune",
+  "published_utc": "2017-06-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cantonment board logs on to online property tax payment",
+  "source": "The Times of India",
+  "published_utc": "2017-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI\u2019s New Provisioning Norms Will Hurt Bank Earnings, Push Up Credit Costs, Say Brokerages",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Initiates Insolvency Proceedings Against Three Companies At NCLT",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court Refuses To Pass Interim Order On Aadhaar For Social Welfare Schemes",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks To Watch: Bajaj Hindusthan, Cadila Healthcare, Syndicate Bank",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wondering how much the SBI chief earns? Here's how low the salary is",
+  "source": "IBTimes India",
+  "published_utc": "2017-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "AU Small Finance Bank Launches IPO With Foreign Holding Already At Limit",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Two Amtek Auto Board Members Quit And Returned In 24 Hours",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UBI to raise Rs1,000 crore this fiscal: CEO",
+  "source": "Livemint",
+  "published_utc": "2017-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

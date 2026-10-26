@@ -1,0 +1,119 @@
+[
+ {
+  "title": "Highway liquor ban leaves Chennai hoteliers in low spirits",
+  "source": "The Hindu",
+  "published_utc": "2017-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC enters frozen foods market, eyes sauces, condiments",
+  "source": "Livemint",
+  "published_utc": "2017-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "McCormick to launch its branded spices in India by year-end",
+  "source": "Livemint",
+  "published_utc": "2017-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex succumbs to profit-booking, down 58 pts",
+  "source": "India.com",
+  "published_utc": "2017-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "4 Top Companies Lost Rs 36,772 Crore In Market Valuation Last Week",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Infosys Appoints Former Wipro Executive As Group General Counsel",
+  "source": "NDTV",
+  "published_utc": "2017-06-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Infosys appoints new global heads for RCL, manufacturing",
+  "source": "India.com",
+  "published_utc": "2017-06-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Six Of Top 10 Companies Lost Rs 34,183 Crore In Market Capitalisation Last Week",
+  "source": "NDTV Profit",
+  "published_utc": "2017-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC hopes to make Savlon a Rs 500 crore brand",
+  "source": "The Times of India",
+  "published_utc": "2017-06-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India farm protests push for rise in edible oils import tax",
+  "source": "Reuters",
+  "published_utc": "2017-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India wants to double consumption of cheap material in 5 yrs, what about its plastic waste?",
+  "source": "The Economic Times",
+  "published_utc": "2017-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC defends holding in ITC, says no law prevents investments in tobacco firms",
+  "source": "Livemint",
+  "published_utc": "2017-06-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YC Deveshwar sold entire ITC holding before retiring",
+  "source": "The Economic Times",
+  "published_utc": "2017-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

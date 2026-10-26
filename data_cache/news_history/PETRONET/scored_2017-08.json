@@ -1,0 +1,47 @@
+[
+ {
+  "title": "Petronet eyes 26 per cent stake in IOC's LNG terminal at Ennore",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These 7 stocks may enter $10 billion market cap in 3 years, says Morgan Stanley",
+  "source": "The Financial Express",
+  "published_utc": "2017-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG: The good run continues in Q1",
+  "source": "Livemint",
+  "published_utc": "2017-08-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Malaysia's Petronas keen to buy stake in Indian Oil Corporation's LNG terminal",
+  "source": "The Economic Times",
+  "published_utc": "2017-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bharat Petroleum Corporation Limited (BPCL.NS) stock major holders - Yahoo Finance",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2017-08-27T12:59:28+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

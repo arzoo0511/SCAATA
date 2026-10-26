@@ -1,0 +1,47 @@
+[
+ {
+  "title": "ITC to invest \u20b9200 crore in Tribeni paper unit",
+  "source": "The Hindu",
+  "published_utc": "2017-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Infotech eyes buy-outs in automation space",
+  "source": "India.com",
+  "published_utc": "2017-12-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kodagu to be Kerala\u2019s appendage if Railway Line is not stopped",
+  "source": "Star of Mysore",
+  "published_utc": "2017-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Remember Jinnah\u2019s demand for 800-mile corridor between East Pakistan and West Pakistan across India?",
+  "source": "Star of Mysore",
+  "published_utc": "2017-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "80 years on, Parle-G continues to dominate biscuit market",
+  "source": "Livemint",
+  "published_utc": "2017-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

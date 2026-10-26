@@ -1,0 +1,335 @@
+[
+ {
+  "title": "India to get its first US oil tomorrow",
+  "source": "India.com",
+  "published_utc": "2017-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India imports its first US oil at Paradip",
+  "source": "India.com",
+  "published_utc": "2017-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First-ever shipment of US crude oil to India arrives at Odisha's Paradip Port",
+  "source": "The Times of India",
+  "published_utc": "2017-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First US crude oil shipment arrives in India\u2019s Paradip port | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2017-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation receives first crude oil cargo from US",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-10-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil\u2019s not well: petrol and diesel prices scale a new high",
+  "source": "Autocar Professional",
+  "published_utc": "2017-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How palm oil from Malaysia fired the Patel agitation in Gujarat",
+  "source": "Scroll.in",
+  "published_utc": "2017-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi meets top global, Indian oil chiefs, talks investment",
+  "source": "India.com",
+  "published_utc": "2017-10-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Haven't heard from Iran on USD 11 billion offer for gas field: ONGC Videsh",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Virat Kohli and MS Dhoni's daughter Ziva make cat sounds in hilarious video",
+  "source": "Mid-Day",
+  "published_utc": "2017-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC May Sell IOC Stake to LIC in Block Deal",
+  "source": "India.com",
+  "published_utc": "2017-10-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Energy sector highly uneven, further reforms needed: PM Narendra Modi",
+  "source": "The Indian Express",
+  "published_utc": "2017-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol pump dealers call off Friday's strike",
+  "source": "ET Auto",
+  "published_utc": "2017-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC drops plans to merge Chennai Petroleum with itself",
+  "source": "The Times of India",
+  "published_utc": "2017-10-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIAC :: Russia \u2013 India Energy Cooperation: Trade, Joint Projects, and New Areas",
+  "source": "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0441\u043e\u0432\u0435\u0442 \u043f\u043e \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u043c \u0434\u0435\u043b\u0430\u043c",
+  "published_utc": "2017-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TNCA league cricketer lands in trouble after IJPL participation",
+  "source": "The Times of India",
+  "published_utc": "2017-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL starts selling lubricants in Myanmar",
+  "source": "India.com",
+  "published_utc": "2017-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Joey\u2019s Is Serving Butter Chicken Pizza & It\u2019s As Delicious As It Sounds",
+  "source": "Curly Tales",
+  "published_utc": "2017-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil Marketing Companies offer condolences to families of Ejipura building collapse",
+  "source": "India.com",
+  "published_utc": "2017-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BP Plc working with Reliance Industries to start petrol pumps",
+  "source": "Livemint",
+  "published_utc": "2017-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil defers Paradip refinery shutdown to March-April",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp delays shutdown of Paradip refinery to March-April",
+  "source": "The Asian Age",
+  "published_utc": "2017-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's oil imports hit record high in September",
+  "source": "www.theweek.in",
+  "published_utc": "2017-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC eyes Tata's Gopalpur industrial park for common user facility",
+  "source": "Business Standard",
+  "published_utc": "2017-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Green relief for thousands",
+  "source": "Telegraph India",
+  "published_utc": "2017-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US looking to become world leader in clean fossil fuels export",
+  "source": "India.com",
+  "published_utc": "2017-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bharat 22 ETF: Should you invest and how is it different from CPSE?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Madison Kirby Center Celebrates Diwali",
+  "source": "TAPinto",
+  "published_utc": "2017-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CVC to rank govt depts on anti-corruption measures",
+  "source": "The Statesman",
+  "published_utc": "2017-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gagan Khoda surprised by call for selectorial role",
+  "source": "Sportstar",
+  "published_utc": "2017-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSUs devote over Rs121 crore of CSR funds towards \u2018Statue of Unity'",
+  "source": "Livemint",
+  "published_utc": "2017-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Q2 net up 18% at Rs 3,696 cr",
+  "source": "India.com",
+  "published_utc": "2017-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Q2 profit grows 18%, co hits pay dirt on refining margin",
+  "source": "India.com",
+  "published_utc": "2017-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Panchkula LPG cylinder blast: Ensure no damage to knob, never tilt LPG cylinder, say experts",
+  "source": "The Indian Express",
+  "published_utc": "2017-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mary Kom's posts a photo with her sons with a painful message",
+  "source": "Mid-Day",
+  "published_utc": "2017-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC gets green nod for Rs 273cr KSPL augmentation project",
+  "source": "India.com",
+  "published_utc": "2017-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL to acquire MRPL in share-swap deal",
+  "source": "The Indian Express",
+  "published_utc": "2017-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

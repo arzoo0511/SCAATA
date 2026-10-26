@@ -1,0 +1,83 @@
+[
+ {
+  "title": "Lalit Modi to sell two divisions of Godfrey Phillips, says son Ruchir Modi",
+  "source": "The Economic Times",
+  "published_utc": "2017-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shilpa Shetty introduces a 'not from concentrate' twist with ITC Foods' B Natural",
+  "source": "ET BrandEquity",
+  "published_utc": "2017-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PIL filed against government, LIC for holding stake in ITC",
+  "source": "Livemint",
+  "published_utc": "2017-04-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU insurers gain big from ITC, private players turn 'responsible'",
+  "source": "The New Indian Express",
+  "published_utc": "2017-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's Master Chef brand aims to spice up its food portfolio",
+  "source": "ET BrandEquity",
+  "published_utc": "2017-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Patanjali Made \u2018Nearly\u2019 Rs 10,000 Cr in 2016-17: CEO Balkrishna",
+  "source": "The Quint",
+  "published_utc": "2017-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty breaches 9,300-mark for first time",
+  "source": "The Indian Express",
+  "published_utc": "2017-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex's journey to 30,100 in 5 highlights",
+  "source": "Livemint",
+  "published_utc": "2017-04-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google India is India\u2019s most attractive employer: Randstad | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2017-04-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

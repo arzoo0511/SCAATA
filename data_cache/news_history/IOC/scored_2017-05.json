@@ -1,0 +1,353 @@
+[
+ {
+  "title": "Cheating at petrol pumps: Govt orders surprise checks",
+  "source": "The Times of India",
+  "published_utc": "2017-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol Prices Hiked By 1 Paisa A Litre, Diesel By 44 Paise",
+  "source": "NDTV",
+  "published_utc": "2017-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol And Diesel Prices To Change Daily From Today",
+  "source": "CarDekho",
+  "published_utc": "2017-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol And Diesel Prices To Change Daily From May 1, 2017",
+  "source": "CarDekho",
+  "published_utc": "2017-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices daily change: Here\u2019s how to check the revised fuel prices every day",
+  "source": "India.com",
+  "published_utc": "2017-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price hiked by 1 paisa, diesel up by 44 paisa/litre",
+  "source": "Team-BHP",
+  "published_utc": "2017-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cheater meter: The fuel dispensing machine at your petrol bunks could be rigged; here's how",
+  "source": "IBTimes India",
+  "published_utc": "2017-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After chip racket, machine sealed at Noida fuel pump",
+  "source": "The Times of India",
+  "published_utc": "2017-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka only leasing out oil tanks to India: Ranil Wickremesinghe",
+  "source": "ET Auto",
+  "published_utc": "2017-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC, IOC considering running gas stations",
+  "source": "The Kathmandu Post",
+  "published_utc": "2017-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "For over 25 years, Kolkata\u2019s Anandalok has provided a joyful home to the mentally handicapped",
+  "source": "YourStory.com",
+  "published_utc": "2017-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC expands petrol storage capacity in Thankot depot",
+  "source": "The Himalayan Times",
+  "published_utc": "2017-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC, IOC mull constructing fuel stations in joint venture",
+  "source": "The Himalayan Times",
+  "published_utc": "2017-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lanka-India deals signed ahead of Modi's visit: Rajapaksa",
+  "source": "India.com",
+  "published_utc": "2017-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices likely to be slashed by Rs 1.50 per liter on Monday",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The China factor: There\u2019s more to Modi\u2019s visit to Sri Lanka than just Buddha Poornima celebrations",
+  "source": "Scroll.in",
+  "published_utc": "2017-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Ltd to invest Rs 15000 crore in Gujarat Refinery expansion",
+  "source": "The Indian Express",
+  "published_utc": "2017-05-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assets heat on ex-MLA, wife",
+  "source": "Telegraph India",
+  "published_utc": "2017-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran wants India to pay more than triple the price of gas for awarding block to ONGC Videsh",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to enter MSCI India index, Divis Lab out",
+  "source": "Livemint",
+  "published_utc": "2017-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First Bunker Supply by Barge at Paradip",
+  "source": "Marine Link",
+  "published_utc": "2017-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3 years of Modi government: Country for Sale",
+  "source": "SabrangIndia",
+  "published_utc": "2017-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dr Irving W. Andre publishes two books on Pont Casse Press",
+  "source": "Dominica News Online",
+  "published_utc": "2017-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bengaluru: Traffic diversion at Banaswadi flyover",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC, ONGC, 9 other oil PSUs on track to match $16 billion spending",
+  "source": "Livemint",
+  "published_utc": "2017-05-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trinco oil farm: PM to expedite deal with India",
+  "source": "The Sunday Times, Sri Lanka",
+  "published_utc": "2017-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Energy News Monitor | Volume XIII: Issue 49",
+  "source": "orfonline.org",
+  "published_utc": "2017-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How a petrol pump technician used microchips for nation-wide fraud | Hindustan Times",
+  "source": "Hindustan Times",
+  "published_utc": "2017-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Industries Ltd (RLI.SG) stock price, news, quote and history",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2017-05-25T03:43:15+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u200b GST to impact Indian Oil Corp by Rs 5,000 crore",
+  "source": "ET EnergyWorld",
+  "published_utc": "2017-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC barred from distributing bonus",
+  "source": "The Kathmandu Post",
+  "published_utc": "2017-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OMCs trade weak in firm market; Indian Oil down 5% intra-day",
+  "source": "Business Standard",
+  "published_utc": "2017-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Goldman, Citigroup among 5 bankers selected for IOC stake sale",
+  "source": "India.com",
+  "published_utc": "2017-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "International cyclist felicitated",
+  "source": "The Hindu",
+  "published_utc": "2017-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two Jet Fighters Sent Up to Shoot Down a WWII Warbird in 1956 - They Blasted 208 Rockets at it, it Survived",
+  "source": "War History Online",
+  "published_utc": "2017-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty closes above 9,600, up 10 points",
+  "source": "India.com",
+  "published_utc": "2017-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Market now: Maruti Suzuki, Motherson Sumi hit 52-week high",
+  "source": "The Economic Times",
+  "published_utc": "2017-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to shut key units at Koyali refinery for maintenance - sources",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2017-05-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices to go up from Thursday",
+  "source": "India.com",
+  "published_utc": "2017-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

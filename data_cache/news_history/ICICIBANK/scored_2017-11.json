@@ -1,0 +1,524 @@
+[
+ {
+  "title": "ICICI Bank\u2019s Sudhanshu Jain joins Paytm Payments Bank as CFO",
+  "source": "VCCircle",
+  "published_utc": "2017-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm Payments Bank appoints Sudhanshu Jain as CFO",
+  "source": "Entrackr",
+  "published_utc": "2017-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank reduces employee count by over 1,000 people during second quarter",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO Chanda Kochhar, Priyanka Chopra Among World's Most Powerful Women: Forbes",
+  "source": "NDTV",
+  "published_utc": "2017-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fino Payments Bank starts as a fully digital bank",
+  "source": "Banking Frontiers",
+  "published_utc": "2017-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s Chanda Kochhar, Kiran Mazumdar-Shaw among world\u2019s most powerful women: Forbes",
+  "source": "The Indian Express",
+  "published_utc": "2017-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI cuts FD rates; here\u2019re the latest FD rates of State Bank of India, HDFC Bank and ICICI Bank",
+  "source": "The Financial Express",
+  "published_utc": "2017-11-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai hotelier held for Rs 2 crore fake DD",
+  "source": "The Times of India",
+  "published_utc": "2017-11-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to unfreeze your bank account from a debit freeze",
+  "source": "The Economic Times",
+  "published_utc": "2017-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank makes RTGS, NEFT online transactions free, cheques to cost more",
+  "source": "The Economic Times",
+  "published_utc": "2017-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI likely to name Visa's Uttam Nayak as new CEO",
+  "source": "Livemint",
+  "published_utc": "2017-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JeM chief Masood Azhar's nephew Talha Rasheed killed in Pulwama encounter",
+  "source": "Livemint",
+  "published_utc": "2017-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI PO vs ICICI PO: Which is better?",
+  "source": "Jagranjosh.com",
+  "published_utc": "2017-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paradise Papers: Construction major DSC defaulted, ICICI bank turned to Appleby",
+  "source": "The Indian Express",
+  "published_utc": "2017-11-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DeMo@1: Banks happy as digital activity picks up",
+  "source": "Rediff",
+  "published_utc": "2017-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex ends slightly up; Reliance Industries, ICICI lead",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2017-11-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here is why these 5 incredible women cracked the Forbes 100 Most Powerful Women List for 2017",
+  "source": "YourStory.com",
+  "published_utc": "2017-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Knight Frank India hires Tushar Rane as Executive Director",
+  "source": "Consultancy.in",
+  "published_utc": "2017-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex recovers 245 points to 33,464 on GST Council meet hope",
+  "source": "The Siasat Daily",
+  "published_utc": "2017-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of India Q2 net profit rises 41% to Rs 179 cr",
+  "source": "Business Standard",
+  "published_utc": "2017-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Emirates NBD Opens India Branch in Mumbai",
+  "source": "Little India",
+  "published_utc": "2017-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Women membership rising as exclusive clubs open doors",
+  "source": "The Times of India",
+  "published_utc": "2017-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sharp edges - Kawasaki launches new Ninja 650 KRT edition at Rs 5.49 lakh",
+  "source": "The Economic Times",
+  "published_utc": "2017-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI reduces employee base by 10,500 from Apr-Sep; 5,000 more to retire by March",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Butterfly Gandhimathi Appliances rallies 5%; here\u2019s why",
+  "source": "The Economic Times",
+  "published_utc": "2017-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ABD launches semi-premium brandy",
+  "source": "BusinessLine",
+  "published_utc": "2017-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm, ICICI Bank tie-up to offer short-term digital loans up to Rs 20,000 for 45 days",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to offer small instant credit to Paytm users",
+  "source": "India.com",
+  "published_utc": "2017-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Are your valuables safe in bank locker?",
+  "source": "Telugu360",
+  "published_utc": "2017-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet India\u2019s highest-paid women directors",
+  "source": "VCCircle",
+  "published_utc": "2017-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus 5T with 6.01-inch full-screen display, dual rear cameras launched in India at a starting price of Rs. 32999",
+  "source": "FoneArena.com",
+  "published_utc": "2017-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Magicbricks generates 40,000 buyers for properties worth Rs. 5,000Cr",
+  "source": "India.com",
+  "published_utc": "2017-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Carlson group opens Radisson resort in Goa",
+  "source": "BusinessLine",
+  "published_utc": "2017-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm partners with ICICI Bank, launches \u2018Paytm-ICICI Bank Postpaid",
+  "source": "Gizbot",
+  "published_utc": "2017-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "To ease traffic flow, BKC offices alter work hours",
+  "source": "The Times of India",
+  "published_utc": "2017-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex rises 235 points, Nifty at 10,283 level on Moody's sovereign rating upgrade; Bank Nifty at record closing high of 25,728 level",
+  "source": "Business Today",
+  "published_utc": "2017-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank stocks surge up to 6% as Moody's ups India rating",
+  "source": "India.com",
+  "published_utc": "2017-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI announces integration of blockchain technology, KYC by next month",
+  "source": "Entrackr",
+  "published_utc": "2017-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can robo-advisors edge out humans?",
+  "source": "Livemint",
+  "published_utc": "2017-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Film Review: Justice League",
+  "source": "Livemint",
+  "published_utc": "2017-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches Eazypay mobile app for cashless transactions",
+  "source": "Firstpost",
+  "published_utc": "2017-11-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Eazypay Mobile App Launched to Let Merchants Accept Cashless Payments",
+  "source": "Gadgets 360",
+  "published_utc": "2017-11-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New campaigns spread banking malware through Google Play",
+  "source": "WeLiveSecurity",
+  "published_utc": "2017-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Neuland Labs buys API plant under SARFAESI Act for undisclosed amount",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm acquires stake in online loans firm CreditMate",
+  "source": "Livemint",
+  "published_utc": "2017-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One97, Vijay Shekhar Sharma infuse Rs 122 Cr in Paytm Payment Bank",
+  "source": "Entrackr",
+  "published_utc": "2017-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BillDesk-backed Coinome launches first cryptocurrency exchange platform in India",
+  "source": "Entrackr",
+  "published_utc": "2017-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Emaar Development, the biggest Dubai IPO in 3 years, has worst debut since 2014",
+  "source": "Livemint",
+  "published_utc": "2017-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BookMyShow: Book Tickets Via 'Debit & Credit Cards' Upto 80% Off*",
+  "source": "Oneindia",
+  "published_utc": "2017-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC books Rs13,500 crore trading profit in April-September period",
+  "source": "Livemint",
+  "published_utc": "2017-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "When Sanjay Reddy, Chanda Kochhar took university lessons again",
+  "source": "The Economic Times",
+  "published_utc": "2017-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Schaeffler India announced Rs 200-cr expansion at Pune plant",
+  "source": "India.com",
+  "published_utc": "2017-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm Payments Bank launch: 280 million registered users, 180 million wallets",
+  "source": "MediaNama",
+  "published_utc": "2017-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Samsung is hellbent on AI, IoT to 'connect' Indian consumers",
+  "source": "YourStory.com",
+  "published_utc": "2017-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Market close: Sensex, Nifty snap record 8-day winning streak on profit-taking",
+  "source": "The Economic Times",
+  "published_utc": "2017-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndoStar Capital calls off deal to buy ICICI Home Finance",
+  "source": "Livemint",
+  "published_utc": "2017-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ivanka Trump a \u2018rockstar\u2019 in India, despite criticism | Gulf Times",
+  "source": "Gulf Times",
+  "published_utc": "2017-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In Hyderabad, Indian Entrepreneurs Size Up Ivanka Trump",
+  "source": "NPR",
+  "published_utc": "2017-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

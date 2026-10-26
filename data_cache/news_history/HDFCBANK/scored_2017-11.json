@@ -1,0 +1,605 @@
+[
+ {
+  "title": "HDFC Bank Launches Its First Ever SmartUp Zone In Bengaluru",
+  "source": "Inc42",
+  "published_utc": "2017-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to expand SmartUp zones in Bengaluru",
+  "source": "The Economic Times",
+  "published_utc": "2017-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google Pixel 2 now on sale in India: \u20b961,000 at Flipkart",
+  "source": "Android Authority",
+  "published_utc": "2017-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best Indian Brands 2017: For the fifth time, Tata tops the chart",
+  "source": "ET BrandEquity",
+  "published_utc": "2017-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Outgrow to Grow. Insights from Interbrand Best Indian Brands 2017. Interbrand India unveils India\u2019s top 40 valuable brands.",
+  "source": "adobo Magazine",
+  "published_utc": "2017-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank reduces employee count by over 1,000 people during second quarter",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mukesh Ambani is now Asia\u2019s richest, thanks to rising RIL stock prices",
+  "source": "The Financial Express",
+  "published_utc": "2017-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cash or online, paying electricity bill becomes easier",
+  "source": "The Times of India",
+  "published_utc": "2017-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI cuts FD rates; here\u2019re the latest FD rates of State Bank of India, HDFC Bank and ICICI Bank",
+  "source": "The Financial Express",
+  "published_utc": "2017-11-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank will soon be among the world's top 10 lenders",
+  "source": "Rediff",
+  "published_utc": "2017-11-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank makes RTGS, NEFT online transactions free from Nov 1",
+  "source": "Deccan Chronicle",
+  "published_utc": "2017-11-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank makes RTGS, NEFT online transactions free from 1 November",
+  "source": "Livemint",
+  "published_utc": "2017-11-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Standard Life Insurance IPO to open Nov 7: Here are 10 things to know",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Public Sector Banks: Past Imperfect, Present Tense And Future Uncertain",
+  "source": "LinkedIn",
+  "published_utc": "2017-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life: Information analysis",
+  "source": "Value Research",
+  "published_utc": "2017-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life IPO: Analysts take a positive view despite higher valuations",
+  "source": "Outlook Money",
+  "published_utc": "2017-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI likely to name Visa's Uttam Nayak as new CEO",
+  "source": "Livemint",
+  "published_utc": "2017-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JeM chief Masood Azhar's nephew Talha Rasheed killed in Pulwama encounter",
+  "source": "Livemint",
+  "published_utc": "2017-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "When India's money helicopter flew the wrong way",
+  "source": "Livemint",
+  "published_utc": "2017-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank introduces SmartUp zone, in Hyderabad",
+  "source": "Equitypandit",
+  "published_utc": "2017-11-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of India Q2 net profit rises 41% to Rs 179 cr",
+  "source": "Business Standard",
+  "published_utc": "2017-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Actress Amrita Puri to get married",
+  "source": "Rediff",
+  "published_utc": "2017-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How LinkedIn's Resume Assistant can help you build better CV in Microsoft Word",
+  "source": "Livemint",
+  "published_utc": "2017-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PPF withdrawal, loan, pre-mature closure rules: Here's a guide",
+  "source": "The Economic Times",
+  "published_utc": "2017-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Motorola Moto X4 launched in India: Price, specifications and everything you need to know",
+  "source": "The Indian Express",
+  "published_utc": "2017-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "With Rs 100 Cr, three CAs and a data scientist are fixing loopholes in the SME lending market",
+  "source": "YourStory.com",
+  "published_utc": "2017-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Children\u00e2\u20ac\u2122s Day Special: A walk down toon lane",
+  "source": "Adgully.com",
+  "published_utc": "2017-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart\u2019s Billion Capture+ sale from midnight on Nov 15: Exchange offers on phone",
+  "source": "The Indian Express",
+  "published_utc": "2017-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Clix Capital in talks to invest up to Rs 800 crore in Catholic Syrian Bank",
+  "source": "The Economic Times",
+  "published_utc": "2017-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi-Duterte meet: India, Philippines sign deals on agriculture, defence",
+  "source": "Business Standard",
+  "published_utc": "2017-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda profit drops 36% at Rs 355cr; NPAs come down",
+  "source": "India.com",
+  "published_utc": "2017-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Children\u2019s Day: Jet Airways give wings to 100 underprivileged children",
+  "source": "Times Now",
+  "published_utc": "2017-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ABD launches semi-premium brandy",
+  "source": "BusinessLine",
+  "published_utc": "2017-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Commerce Ministry shut century-old procurement arm; 1,100 staff shifted",
+  "source": "Business Standard",
+  "published_utc": "2017-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Where are you in India's wealth distribution?",
+  "source": "Livemint",
+  "published_utc": "2017-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Navi Mumbai bank heist planned five months back: Police",
+  "source": "India.com",
+  "published_utc": "2017-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google Pixel 2 XL Now Available In India: Price, Offers, and Features",
+  "source": "Smartprix",
+  "published_utc": "2017-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Standard Life to list on bourses tomorrow",
+  "source": "India.com",
+  "published_utc": "2017-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Carlson group opens Radisson resort in Goa",
+  "source": "BusinessLine",
+  "published_utc": "2017-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Standard Life debuts, shares up 54 points to Rs 544 in early trade",
+  "source": "The Times of India",
+  "published_utc": "2017-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank stocks surge up to 6% as Moody's ups India rating",
+  "source": "India.com",
+  "published_utc": "2017-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "It's a lavish Bangkok wedding for Aditya Puri's actress daughter Amrita and beau Imrun Sethi",
+  "source": "The Economic Times",
+  "published_utc": "2017-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All About NRE, NRO, NRI Trading Accounts in India",
+  "source": "Upstox",
+  "published_utc": "2017-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The best Samsung Galaxy S8 and S8 Plus deals in India",
+  "source": "TechRadar",
+  "published_utc": "2017-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former world champion Manavjit Singh Sandhu wins trap gold",
+  "source": "Mid-Day",
+  "published_utc": "2017-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can robo-advisors edge out humans?",
+  "source": "Livemint",
+  "published_utc": "2017-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Film Review: Justice League",
+  "source": "Livemint",
+  "published_utc": "2017-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo V7 launched in India: Check out its features and specifications",
+  "source": "India.com",
+  "published_utc": "2017-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Ports names Ex-Air Asia chief Mittu Chandilya as CEO, logistics biz",
+  "source": "Business Standard",
+  "published_utc": "2017-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ID-cum-debit cards distributed",
+  "source": "The Tribune",
+  "published_utc": "2017-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Housing firm VBHC Value Homes plans IPO by 2019",
+  "source": "ET Realty",
+  "published_utc": "2017-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "P-5 privileges breached as UK blinks & Indian judge Bhandari elected to ICJ",
+  "source": "Business Standard",
+  "published_utc": "2017-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Marketing Mix (4Ps) & Marketing Strategy",
+  "source": "MBA Skool",
+  "published_utc": "2017-11-21T20:31:35+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coca-Cola India launches first variant of Thums Up in 40 years",
+  "source": "Business Standard",
+  "published_utc": "2017-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EPFO relaxes norms for pensioners to file life certificates",
+  "source": "Livemint",
+  "published_utc": "2017-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Are You a Credit Risk? Indian Banks Dig Deep in Your Phone to Find Out",
+  "source": "WSJ",
+  "published_utc": "2017-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BillDesk-backed Coinome launches first cryptocurrency exchange platform in India",
+  "source": "Entrackr",
+  "published_utc": "2017-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Emaar Development, the biggest Dubai IPO in 3 years, has worst debut since 2014",
+  "source": "Livemint",
+  "published_utc": "2017-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pradyuman murder case: Conductor Ashok Kumar describes police brutality",
+  "source": "Business Standard",
+  "published_utc": "2017-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Padmavati row: Thanks to ongoing controversy, now Alauddin Khilji becomes household name but his tomb shrouded in silence",
+  "source": "The Financial Express",
+  "published_utc": "2017-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BookMyShow: Book Tickets Via 'Debit & Credit Cards' Upto 80% Off*",
+  "source": "Oneindia",
+  "published_utc": "2017-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This Meghalaya Village Has \u2018Smart Classrooms\u2019, Access To Clean Water And Toilets",
+  "source": "Outlook India",
+  "published_utc": "2017-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Small loans can be made cheaper In India than what most MFIs charge",
+  "source": "LinkedIn",
+  "published_utc": "2017-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "N K Singh appointed chairman of 15th Finance Commission",
+  "source": "The Times of India",
+  "published_utc": "2017-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Samsung is hellbent on AI, IoT to 'connect' Indian consumers",
+  "source": "YourStory.com",
+  "published_utc": "2017-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Attack on CRPF in Maharashtra signals change in Naxal tactics",
+  "source": "Livemint",
+  "published_utc": "2017-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What Are The New Features Of HDFC Mobile Banking?",
+  "source": "Goodreturns",
+  "published_utc": "2017-11-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
