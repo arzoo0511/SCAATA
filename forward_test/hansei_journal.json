@@ -5563,5 +5563,304 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-26",
+    "ran_utc": "2026-10-26T17:01:09.282934+00:00",
+    "equity": 10023.37,
+    "benchmark_equity": 9961.02,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.418,
+        "target_exposure": 0.165,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.92, trusted 26%)",
+          "news against (-0.39, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.919,
+          "volatility": -0.056,
+          "momentum": -0.288,
+          "news": -0.385
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.233,
+        "target_exposure": 1.0,
+        "current_exposure": 0.7,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "news supportive (+0.51, trusted 25%)",
+          "trend supportive (+0.48, trusted 26%)"
+        ],
+        "views": {
+          "trend": 0.48,
+          "volatility": -0.082,
+          "momentum": 0.016,
+          "news": 0.507
+        },
+        "value": 1403.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.398,
+        "target_exposure": 1.0,
+        "current_exposure": 0.873,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 87%: no strong reason to change",
+          "news supportive (+0.82, trusted 25%)",
+          "trend supportive (+0.45, trusted 26%)"
+        ],
+        "views": {
+          "trend": 0.451,
+          "volatility": -0.0,
+          "momentum": 0.312,
+          "news": 0.824
+        },
+        "value": 1750.5
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.248,
+        "target_exposure": 0.505,
+        "current_exposure": 0.196,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 20%: no strong reason to change",
+          "trend against (-0.83, trusted 26%)",
+          "momentum against (-0.27, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.831,
+          "volatility": -0.0,
+          "momentum": -0.272,
+          "news": 0.14
+        },
+        "value": 392.55
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.482,
+        "target_exposure": 0.037,
+        "current_exposure": 0.26,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "trend against (-0.84, trusted 26%)",
+          "volatility against (-0.82, trusted 24%)"
+        ],
+        "views": {
+          "trend": -0.843,
+          "volatility": -0.823,
+          "momentum": -0.542,
+          "news": 0.295
+        },
+        "value": 521.0
+      }
+    ],
+    "weights": {
+      "trend": 0.2573,
+      "volatility": 0.2447,
+      "momentum": 0.2511,
+      "news": 0.2469
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.385,
+          "strength": 1.0,
+          "material_count": 9,
+          "view": -0.385
+        },
+        "top": [
+          {
+            "title": "Citi cuts HDFC Bank target from INR 970 to INR 880 for HDFC Bank stock",
+            "source": "ad-hoc-news.de",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-26T14:27:36+00:00",
+            "count": 2
+          },
+          {
+            "title": "HDFC Bank shares slips further as Bagchi takes charge amid leadership uncertainty",
+            "source": "BusinessLine",
+            "sentiment": -0.8,
+            "material": 0.8,
+            "published_utc": "2026-10-26T06:57:35+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank report higher Q2 profits despite margin pressure",
+            "source": "Upstox",
+            "sentiment": 0.6,
+            "material": 0.8,
+            "published_utc": "2026-10-26T06:52:36+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Probes Two Senior Executives Over Alleged Leak Of Confidential Information",
+            "source": "BW Businessworld",
+            "sentiment": -0.7,
+            "material": 0.7,
+            "published_utc": "2026-10-26T07:35:36+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.507,
+          "strength": 1.0,
+          "material_count": 9,
+          "view": 0.507
+        },
+        "top": [
+          {
+            "title": "ICICI Bank Publishes Q2 FY2027 Earnings and Media Call Transcripts",
+            "source": "Kalkine Media",
+            "sentiment": 0.818,
+            "material": 0.9,
+            "published_utc": "2026-10-26T13:29:43+00:00",
+            "count": 2
+          },
+          {
+            "title": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank report higher Q2 profits despite margin pressure",
+            "source": "Upstox",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-26T06:52:36+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank Q2FY27 earnings call transcript: NII up 17.7%, PAT rises 20%",
+            "source": "scanx.trade",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-25T10:42:37+00:00",
+            "count": 1
+          },
+          {
+            "title": "Form 6-K ICICI BANK LTD For: Oct 24",
+            "source": "StreetInsider",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-10-26T10:04:32+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.824,
+          "strength": 1.0,
+          "material_count": 7,
+          "view": 0.824
+        },
+        "top": [
+          {
+            "title": "Petronet LNG to invest Rs 1,200 crore in 10 compressed biogas plants through JV with Gruner",
+            "source": "BioEnergy Times",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-26T10:14:28+00:00",
+            "count": 2
+          },
+          {
+            "title": "Petronet LNG and Gruner Renewable Energy form JV to develop CBG projects",
+            "source": "Renewable Watch",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-26T06:58:58+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet\u2019s \u20b91,200-crore biogas JV adds domestic gas as LNG import risks mount",
+            "source": "TradingView",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-26T06:17:00+00:00",
+            "count": 2
+          },
+          {
+            "title": "Petronet LNG signs binding term sheet with Gruner for Rs 1,200 crore CBG venture",
+            "source": "BioEnergy Times",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-24T06:13:43+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.14,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": 0.14
+        },
+        "top": [
+          {
+            "title": "Indian Oil sets Aug 24 cutoff for AGM voting on \u20b925,800 crore deal",
+            "source": "scanx.trade",
+            "sentiment": 0.7,
+            "material": 0.8,
+            "published_utc": "2026-10-25T12:41:18+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil to Cut Middle East Term Crude Volumes for 2027/2028 - News and Statistics",
+            "source": "IndexBox",
+            "sentiment": -0.5,
+            "material": 0.6,
+            "published_utc": "2026-10-24T04:40:46+00:00",
+            "count": 1
+          },
+          {
+            "title": "Jamnagar refinery\u2019s role in US diesel crisis creates opportunities for Indian oil exports",
+            "source": "Indiatimes",
+            "sentiment": 0.5,
+            "material": 0.5,
+            "published_utc": "2026-10-25T12:41:45+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Refiners' Fuel Exports to West Rise 43 Per Cent",
+            "source": "Construction World",
+            "sentiment": 0.5,
+            "material": 0.5,
+            "published_utc": "2026-10-24T10:40:47+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 1.0,
+          "strength": 0.295,
+          "material_count": 1,
+          "view": 0.295
+        },
+        "top": [
+          {
+            "title": "ITC Hotels to Establish Wholly Owned Subsidiary in Dubai for Global Expansion",
+            "source": "Whalesbook",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-10-26T08:08:23+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]

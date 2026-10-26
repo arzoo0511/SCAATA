@@ -1,0 +1,414 @@
+{
+  "symbol": "IOC.NS",
+  "date": "2026-10-26",
+  "headlines": [
+    {
+      "title": "Russian oil has become too expensive for India",
+      "source": "EADaily",
+      "published_utc": "2026-10-26T15:15:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmV2NUxGbUFycllSajdLdmoteDQzNV9xNzNrNEh0ZjJabGZCVjJ5Yl8tSkcydG9hNFRwU2NpS25sbTN6X2NTLVpRSjBmdzZxUndCWFBJWUs4WFFvM2ltbE9hQlpFTG1sc1BBM3d6M0J1bVNIR2Zyb1luZm15ZkwzME5TZFhwNmFtd3FxaWln0gGSAUFVX3lxTE8xOWdZZHgtMGpfLXBHd0Q5ajEwUEEtcGdUcU5fMlloSFhXREo4Vi1KQ01lRmJkc3NzTUZaRjJmS0gtaTVTbWNoUjRyYVdtbEJiYk9NbXctQk1TT29jQm5WNW0wZ3hKV1ZnVEJyX3hqS0J1YzRVYl9pdlZzQ1oyUFpEX0p3RnVONTB0aWQ0SVhhYUV3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil observes Vigilance Awareness Week 2026",
+      "source": "PSU Watch",
+      "published_utc": "2026-10-26T14:02:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRFVkOEdXcVFxSVZSZ01XMU5nWlcwNWdialhCdHlIYWk2MVlBLW56UGN3eUw2bkNNV0I4VE9qZ1M4b2U3b29Gem5VV0hHaU9FbVdkMkV4VmJtdHNzdWQtZWlFNU1mdlBkWHlnR0dZd0pncUs1aC1JX3hMTkUxaUdDOWxVZXAzWHR2b0x4Q25R0gGbAUFVX3lxTE90TTQyU21xTnpSMmpUZXlYbXBUbzItb0tVSEJmLU5GcERqMnowZGFKZ3BuZ1lZMjNzUnV4WlE4Ri1oV0tWNlozemRqQm1XY2V2X2NHQlJwLW9vcFhEYlo1XzhtRnBNOHM5TkJhRWdFVVc3WW52UW9CbV9GZ09ka0VMZFhQdHZMS2tQQnp5QlFIQVBjN1dYMGFWc0Fv?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "BPCL Russian Crude Oil Imports to Fall in Nov Over Freight Costs",
+      "source": "Pragativadi",
+      "published_utc": "2026-10-26T13:43:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ea0IwdFl2U3RBYllpaXlvaUMteTNXQmFKck1UbkRKcUttQjBMZ0FtUVlzR0tRVEpFRlNXLW9lYnM3dDRIUGxmYnRxV2k1djV6eTJwbUhiU2tpR0VlNktVZDEzYVpyWFNSX29fSnpNUDFXNjBKNGlnZnJWaFVBRk0?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gulf Oil Bargains Lure India Away From Russia as Freight Soars",
+      "source": "Bloomberg.com",
+      "published_utc": "2026-10-26T11:37:41+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYXdYako1SmpEUXdxZExsSHVJWUZFb285cUY3UHVNQzhmZTJsTzlwYW50bjQtVGJ3d0F1c2lUV211TktQUGJObHp0Vk5BandnUlptNW1Ubzl6bG81c0w3azNoaWdxQjN0NjBMdmx3b2NBS0RtZUpwSmttTFJ1aG1SNlRJQnZUOW5FbnJXeUFNTDFNekE5UEtMem9INDlxRmljNm9jZGhPdUw1eV9rbmdCLU9Ydw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corporation: CIN Changes Due to Updated Industrial Classification",
+      "source": "InvestyWise",
+      "published_utc": "2026-10-26T10:25:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUp1enJ6SlJBVTc1LUVocHhtUlBSREM2Q3VINm0tZGhkS1lmWHFZREVaNThSVm5uSU0zRE85d1B3U3RHY29WT2dVUWNkUVRMM2xPbDh3QkVZLUdqR3hlS05SMldhY2FxRnNMSndLaTIyQ2NDblVNcjlxRUxHZVNORzhvUG4yOVhvTzhF?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corporation CIN Changed Following MoA Amendment",
+      "source": "PSU Connect",
+      "published_utc": "2026-10-26T10:07:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUhPam50ZjdMQ2pOWkwwVzBFdWtpTTdvbFFuWlAwek52YWgxVTBnVDJNS3hEazdsX1R1SnBHaHo2TTlzMno3TENBSWtxZDBmbmc0QmhGOUpmRHF3QTlqcTZFQTBiNmR2SkF6MXRkZTVBckhlNnR4WExQcW1CdFBPZjJVa29kMVZTRDk5MFlUM1BERUR4M1V2Zw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corporation modifies CIN following NIC code update",
+      "source": "Business Upturn",
+      "published_utc": "2026-10-26T09:59:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS2poRm01VzVWQ1JHR0lKUjQzZkU3NFMza3JQeWtXNThjb3RzVWZhY2NpVFpPVUh2MXJHd0hVbVpTUC1IYzJIN2N4THd6S0pKZ2xfMXRDQnZiQlBfbG5FaHd3LXNWZXpTbm5aT2d3YU14OEZ1UVNkc3U2MExwXzN0OGF2cDFDc0YwZlNEVUk3V3JqTGFDWmpReUJ2bVpvZzQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ADNOC Sells at Least 30 Million Barrels Crude in Supply Boost, Sources Say",
+      "source": "EnergyNow.com",
+      "published_utc": "2026-10-26T09:36:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTF4c1NmRThSWE1YUjJ4ZnlYNHNxVm10emlOTnM2aGZWR04weEpyLW5YNmlfUmtPcFJManZuREdOdzZQMGQ1eHA4ZlZaU0NZYXo2c0ZBQnNVcFd4RGVoS2V0SlJ5RWpPeE1hdDZ1SG9mNEZpb2RxYXk2d3Vuc0R5LWFvQVRKdnM0Zi1FNExxSVlYNG9TSFNlSjBjVmtacWE0bzYyZDlFMA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Akshay Kumar Singh: The Man Behind Landmark Energy Projects and Petronet LNG\u2019s Growth",
+      "source": "Indian PSU",
+      "published_utc": "2026-10-26T07:25:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VZlZlYkFOM1BjUnBnbF9CM2lnM3pBRjlIVmtmOGhzLWhFVHF3Ri14LWttd1N3SjNPZjhZSmd2bzh0REVEamxzWWlIRThoRlJYbzNvUHBEZG0zRl80STJ3WjB5S1dMRUFQaDN4WDFxMFVETzl4dXRBX3dJcEdRLU0?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Lanka IOC increases Octane 95 petrol price",
+      "source": "Ada Derana",
+      "published_utc": "2026-10-26T04:00:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NVVBUX3RYX3JuYXZubXZXZjZTallMQVpqenNoeVBjMDFpempDQ1A5M04td29SZG01b1pxLTRGTFBTVDUxMXBV?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Did Indian Oil's Fall Catch You Out? What Investors Missed",
+      "source": "Simply Wall Street",
+      "published_utc": "2026-10-25T19:45:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjNUdndvaW5RUWFEeHVRUWNuWGdzWk1sSmt5d1V5RkpHMkd5YXMycnVPdUFjSGVwaG1Cak9Gc0JPYjZlZ1Y5TDl6TndfSTBpeXRrbG0xRU5wQjZkWExZQnctN29XaDJTX1JRSkVhaDFrUkV1ZWxkU29ZdkI0dHZWSGpkX2h0a0hDR2FkR2s3MzJZZFJidm1HMkRUaHRqSmdvTGg1ZlpsS3hnRzFGQTRfZDk2MnlGZ1Uzc0NfMjN6dFJSOUp20gHKAUFVX3lxTE9FTHpEeU1PX1NFTzNKQWFWZm93MmNKU0ZWMlh6V25KN21xYWdyNjNkSjRJaEstVkNCRGxyNzEzLVVZQi1uM1RTUEM3aWxZX3Y3RDJPci0zQW9zcUJpZnh2VFBpZUpwQnhNdFBjd2p4NkhDdjJGX1RpUThTMWpmNVVrR25sNHozVU5kMzV1c3VBVHIxclJBNzBZZTVpYTUyX0ZIbXhFUy1oS3FVZGNaMTlsclFvSXR5em9MQVpIR0pYaVhzck9vYzF0N0E?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Stock market outlook: Fed rate decision, Q2 earnings, crude oil prices and Jio Platforms listing in focus",
+      "source": "Fortune India",
+      "published_utc": "2026-10-25T13:27:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUC1aSmtrUjNESXhTcnpLVndTTEc0bnVmWjFjOG9uTTNPdEpfalQ5SFFMRThWNDVnY1BzbnNESWFYekZUQWE0V3ROLU5kdngxU1JCOENMTzBCRWZmQ2JIS2JBZC1rZk5ETTNIcWhDdXVnQVJjOG9VdnR4czVKUHlBdU1pUF9oclp0X0NNcGRRR25QdWdpRGZzSEJJYThYcnlZcEprcGdKTXplRnkwWUJ6eUF4cG44UmJ6Sm9fZURJR2ZPMC1tQl9heWdqRnJWQTjSAdwBQVVfeXFMUDZqdGphRF9haU0tbkdHX01uSGtvZlBVdHlrV0hSVmM3T3cwNnNrU2MzcndUX184TWQxbUwwNzR3aGtHaXlRSWY5c0h6UnpDZ2hTNl85emhqSmVhQU1DeEJVUGpPY1htMzNOV2hYYkktVDJuR2xlcFVQdzg1Z01uX05FMkVULTViWnhMc1JYZE9ZMlZVdUR3cHVZMEJ4dlZaZnl5M1BYTG1GbTNQOHlkenJEWVJGaTVIVGlDel9URl9jWWtRUDNXMXFuTEhKWkpoSFFncTQ3Zmc2QWRYQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil appoints Shri A. Amarnath as Government Nominee Director",
+      "source": "scanx.trade",
+      "published_utc": "2026-10-25T13:09:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1NzZFBkU2dkN0RfLWk5ZlU5cGFBUHR0amZYSGFGZmpaTlZOem84V2tqZnlFd3E0c2JRVlhRMzJ1UFc2YUIyNTQ4TzRKdndPamlzT2xTOTQ0b1RuRDhGZ29BZ2NfYkdyTGtYTk1GUVdjUk5ZSU5IYU9aM2hOM2xCU0g5cnc2b01JOVNVZ2c4bWQ5NWFLN29Fdk13YTRjZ01lbUtaalVDa3lFZHBHcWNkcG5PVVVlTjJpSzdEXzdlcnM?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jamnagar refinery\u2019s role in US diesel crisis creates opportunities for Indian oil exports",
+      "source": "Indiatimes",
+      "published_utc": "2026-10-25T12:41:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWGFVc1g1S1o1N01zYW8zQzNrd2dyQ0ZXS2R1ejJQWncyc1pXN3hFbXEzS2lIc21GaUU0YnRfNDI0SnN2ZE9ncGhoUElveGhDOHVWeVc2ZkZrZHYwYjBfMWYyQkxzZXZYMkNMNFV6ZlpnZ2ZBVXJQcVZkRWEtMlJrYkpFcEtPV2VyMUctOHAyNjBsUlBrcjJUeVdDT2wzSGpiQXNQbDJlVXR1Z2VnaXBDbFRoQXFDMnRQMjNLR1N1dVFTQmFvVTVxbE94cHZpZi1mSEE1TzF4THFBNi1aTVBIU0VFZDFzZDlNVkxYT05Hd0ZLa0I5TTFVOVhxcTdncnfSAYMCQVVfeXFMUGpKT3Q0UklJeXZUdkhGaWFmV0lLdmJqNHQ4RllZR0Z4ZHpnRnJ0ZXZseHY1QXNhLWlWVmo1cnpvWXEtNUIyZ0I3SDIzZExwcU5xdXdERjBPLV9yZHRZVkF5SGVORnIzQmdQTk5ZcHZnRjNScEhpbWxHdXdQZzAwSDdESjVvMlF0a3RCUktGNXB2SFdocjhQSnltTnc0YkNMR04xMkdUSVBtVE5mTjhvSlZsU0N5dDZoRmtGaTNia1JTN2dnQWQ0RVZjZXFKNEJ6bjE1alVBNWdVVzZnT0RJWFVvTUxvdzBrcF9yV0NIUkExaF9qU0dEbno0UHVjdmFXaDZyOA?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil sets Aug 24 cutoff for AGM voting on \u20b925,800 crore deal",
+      "source": "scanx.trade",
+      "published_utc": "2026-10-25T12:41:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmNmWGNCRGJXN0N6RXBESE5xWkFBaGRjcDQ2ZGhLeTI2OE9lRmhkR1FVRU9EV0p6dVhDNk5HY3hPM1JxeUNrN0VPVHNNVHk3cU9UMDUzeGRfTUEtekVHdzhXek1fblpiblE2SGdKMGNPdDMxLWlvVFZwZm1CT25yR3JfSnZWaC1TQ3RqU2JGUkRHaWhKd191VjRWRjNWU0pNSUNGTndVdkdjS0hFQVE?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corporation Releases Business Responsibility and Sustainability Report for FY 2025-26",
+      "source": "scanx.trade",
+      "published_utc": "2026-10-25T12:13:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcG9XamFMYXNYQTVQYTRWY2FWbUF1b3N6ODJrRUhUREJGdmZyVjRReXhuNHlvNmI5dDZ0Q1Z1eVg0bzFqUlhRQm9rQUpjTXVQMktVNUFyOE9Qc3R2bktYNTQ0TFQwVjR1eXIyYms2UUExMV95aGJfbW1DeWllMHlfVll5emZNRlZ1emM4ZGV4VGp6ZTYyeDdnc3dTWjJCdVpRVU40ZVJLX1NiRnU1YUxKZ25yU0FQNWktSXh6eGlTSTlZeUtwMWxDTzJBRWVTSGpNWWZ1YmRTRklnSVBiV2xTaGYtOWFOekg1?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil shareholders pass all resolutions at 67th AGM",
+      "source": "scanx.trade",
+      "published_utc": "2026-10-25T11:13:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnJwbjh2Nl9DWVVqWHpGcWR4emlXZVA0TVpSaDBLdjYtVUVZRURfOEdtY0pGX1djSFZRajlGYmRWWDc3MWlzQWd4TGNJTlExa0hCaHNvTS1xdEZISUZNYU5mbVd2cG9yMDRyclJ2MFpYMEppMVVUc0ZYRWlzSWVqS3ZNQTVpSlA5VFFLLXRlVUYtUXotRWFGLVVoWDd1Sm9r?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "US Fed rate decision, corporate earnings, crude oil to steer market sentiment",
+      "source": "Rediff",
+      "published_utc": "2026-10-25T08:16:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUGdENzBwdWQxeTN5Q2J2MlZ5dWlVUUpxM0NvTnlXTjJPdVMzYTMtZ3JSdWNtcG13TTd6aG1pLVpjT2pXSllqMlJfczJZdlIyYkRIWk1jT0loWWdHYjhYSFMzNWlzNGVEUmNlNGxjelBYM29EVHBRMXhOR3FqcW1pOVY4b2FLekZqeW9MRGIzeWRjQVRxdEkxdE1iWGlMZTVlMXIwclhpanQ2SWUzbUFjZm9neGQxZFZ6cTZ2RnVISjdwTkk3QWY1a18xT25aOGRw0gHTAUFVX3lxTE9WMll4M2NNaUVPUEZXemE5WmNkbmtTMy1OWEhSV05ueW9yVkdUV3RGZ2tpdzZSSWNJM2drZlhhVEV5N0NUNFNHbkVidVJwbFVyRWRfeFpENXZXTmtMVFBGd01yX0VnUWN1c01oT2R1RFZHRml0R0tjTDIzRll3Q05tTUpuMzlwYzRhRnJNMk8tSkxhY3lzekhvX3lVMXd0ZExObk8takVtNmdfS3UtUWh0UFJxTTBMemRXX0Z3ZmtMZ1F4T2loZEtxbzJpclliZXNFUWc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "The Week Ahead: Earnings Season, Fed Policy Verdict And Crude Oil In Focus",
+      "source": "NDTV Profit",
+      "published_utc": "2026-10-25T08:02:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeURubTZrNGdCc3dlR3lhZ3V4RUU0cW9HMnlNNk81Z0NZQ2ZNRVJuX0tHM3Q3aTZKQ2hMNVd6TTF6aVZQMVZsQXZSV0JSaDdDSTE2aHcySno4WnNncnBiR2pSMVZySDlKZkpvTE9KOVN0emhUYVI4V1hZRHIyX1ZZZ2lFSks1N2N1eVFUVXozWC1kalc1WDUxZ3FGYUpnVVlZa0hJVGxOMnpldEV4Wm1YOTVUZ05fTFXSAb8BQVVfeXFMTm9TaTdYYkdHVlE2eGRKY3JhbjhucklEWUVCaDZPcFJBeVlrQ0dJc2c5NGZ1d0hyYU04M1J0Z1hGY2lWaHFsZERyNmlBblFkWEFlWkM0c2VRU2dEbXY2X3N0TVJiT1IxZzRTM1ZFSWVkdlRnR2pIU2RicmFTM0RVSVNuTlZsQ1UwOWFZNWZSYVZnNzRsR0Vaa2hMRVFkSHEtdHhVRFduTzR5LV9fNXc1bEJQOUVHOTlORTZCdlMwZE0?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder E-KYC Last Date: How To Do LPG Biometric Aadhaar Authentication Of Indane Gas, HP Gas, Bharat Gas",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-25T07:46:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYVBYNGJpWW0zRm4zenZ3MWt3cTVvUWNsckJKSnNCeWcyRW0tVVNHRk5EMmtQbjg1eGpEcVhKYVUyYVR5VjFZY19MbXNTb3l4N2xkT1duQVVwbm9uZ3RjWHZvZ1Nmc1kwUnBsUWx2YWJGXzZhbklBaW9IV0xBa3BmZDNXbjZHMEk1aWE0SnpSakVfMld0MFFVdXl4VWpYdWVtRW9LQktlYzFsWXB3VXpRT21EZmNrS2IwbW1kNzhVVFc5V19xRlNqUDl5T3NLaEFVLVc1WndCV1FOMWNDWTJIU0JIR01YMDY0S3l5RWFB?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Clean toilets, QR-code feedback: Oil companies turn petrol pump washrooms into customer trust test",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-25T07:33:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMXdTTXdGV01yNU1hR1ZGQmVsaWw1RXFrT05BQVh0ZXNzelNvNnprWnVLWkZmODd0cnUzaHpKUjRPNXhkZDZYYnFSQmJJV0I0SzE4V2l2NEZCdmRORnhLSy1wNDM1dDNISHNKQ0ZZOHRvaTRkRnFzYUo0S1hxWnl1cmxKaTAtdUtFbFV0dU5IU0RjTkZQaXVVQXJhV3dlbWVtVnJRcXpJRnE5eHhNRDN2eWlBWnhvdEFnOXBUcjBtRDNqMVJHZFNFS2wzN1kyWlIzV2xWVW1KV0ptSDRWT1FnWWpFdU1taXRFU25rZUUweENNakZWQVJLVnBfcnNFcTRua3I3UdIBigJBVV95cUxOQmF5T01nQWhBODFsdWsyZXFJVmtibmE3aGdvUTBRWWM4S3BEYmhhT3J4UDNIYWRhR0ZxYllZeC1maHdZUF83aGlnbExpdE9xaVFkLWJLX2pnMWxZWktmb2xWdzZXd1JBZmk2cWY1d2QyWUJMM3VnWXdjTHdQa0VOWVc0aFI5X2JNVmNlX0c2Z0pJV0V3WGZKYXRvRTR6d0cwU3Ywa0Fna0dOQUpEZDB6cUpmaFB4ZDhueDJ4bGlqalB5WnR0Q1lPSjdvcFQteTNtX3RrMnpNYXROMklqM1VTeDFZS0pQT2Z0WXE3LWNVNzhsX3h3VG9YRTZlM2xKN05DZGl4UGp3YjZZdw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil Companies Agree to Interim LPG Distributor Commission Hike, Ministry Approval Pending",
+      "source": "Lokmat Times",
+      "published_utc": "2026-10-25T06:36:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNal9NWjlnNkNvVHFGRFp2WFc3YWlHQUgwSGlMRTd4YmdUaVc2b2hHTUhTVjQtLU1ocU9JV3M4Wm91RGk3dy1uMWFjTmc0cl82cEpRRUt6dmFuVkhLN1E2eS04VnI3V0J2TmQzTUN1SjF6ckdwLUlPRlc1VGRkdWNQeHdPaFZFTHVNM0lTdWFWc2FacVRJZ3licHRGR053OUpTM0ZhVUZyMnV2TjEwRkhyZ3MxcDNFdW9IckRCT054T09uUGVzR0FDZDVlcThNVkJjR3NWNGd30gHWAUFVX3lxTE1qX01aOWc2Q29UcUZEWnZYVzdhaUdBSDBIaUxFN3hiZ1RpVzZvaEdNSFNWNC0tTWhxT0lXczhab3VEaTd3LW4xYWNOZzRyXzZwSlFFS3p2YW5WSEs3UTZ5LThWcjdXQnZOZDNNQ3VKMXpyR3AtSU9GVzVUZGR1Y1B4d09oVkVMdU0zSVN1YVZzYVpxVElneWJwdEZHTnc5SlMzRmFVRnIydXZOMTBGSHJnczFwM0V1b0hyREJPTnhPT25QZXNHQUNkNWVxOE1WQmNHc1Y0Z3c?oc=5",
+      "relevant": true,
+      "sentiment": -0.4,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "OMCs back interim LPG distributors' commission hike; ministry approval awaited: AIHPGDA",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-25T03:49:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPY25TMkdkdVFXX3F3dnhhN0FtT1pMT1BJbm9Pc3JyTjg5WXY1NzRDWks2Q09YYmdYelBFWG1jRGkwcnZzbDJ6N3J3SG5ZT01QSFA5NGxVNTFmeHdSc0gxYzB0YkhIUHktRlpiXy1nQ3pNYThuR0lmd0NxR2xMbUZnZFloeU1wNi1MaU9QcnFEcEtWTmJmcXY4YjFvc1pMOC12YlVuTjl5YzA2RDlMYTFVd2hmM19lbWJaeUZRRzA3T0JQdzhOaF9FZXN6Q3U4X3JJUTJyd2Q5bGdydGhDdU9zMGp1aFNRR0xoY1FRYjBRYzNoRjVuSWpOcUxn0gH6AUFVX3lxTE9jblMyR2R1UVdfcXd2eGE3QW1PWkxPUElub09zcnJOODlZdjU3NENaSzZDT1hiZ1h6UEVYbWNEaTBydnNsMno3cndIbllPTVBIUDk0bFU1MWZ4d1JzSDFjMHRiSEhQeS1GWmJfLWdDek1hOG5HSWZ3Q3FHbExtRmdkWWh5TXA2LUxpT1BycURwS1ZOYmZxdjhiMW9zWkw4LXZiVW5OOXljMDZEOUxhMVV3aGYzX2VtYlp5RlFHMDdPQlB3OE5oX0Vlc3pDdThfcklRMnJ3ZDlsZ3J0aEN1T3MwanVoU1FHTGhjUVFiMFFjM2hGNW5Jak5xTGc?oc=5",
+      "relevant": true,
+      "sentiment": -0.4,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder E-KYC Deadline Is Tomorrow: 5 Rules To Know For Indane Gas, HP Gas, Bharat Gas Before August 16",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-25T03:01:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdFVscUlTX1RuMDRIQm1hTXdHcXZGQWhlc0V1d2theTltYXhtMFdOTVFnclZQQTNDMUZrQ1pGOTBaZVdIYmhtQlFoR1l2MENKQWJPWENHRDZibzltdlUteEF5NEFsLXBPVUx1a0dKWEY0cWJDd2R1SlB4NDNOMWJIZlFiSGxxXy1hZjdkRnFnZGhFdi0tdUNsRl9XY3BJMHN0UEJQY3hlODNPVEcwZFVKOE9HbGdMclJQNWdMOThwQnY3VnRmb0E0d3BkUlZQdXJJR1VIb3BKYjFNYTVGdjdHUmZ6Ym81NklHZkVF?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "How the world is discovering India as a crude-refining superpower",
+      "source": "The New Indian Express",
+      "published_utc": "2026-10-25T02:50:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkxGa2VKTmc1bEdaNzVSNWR3R2JHdjR1WEpacnNhbFA3V3h0czVId0dwSUw3c1RZLXVZVnJURWNVU0VCTTQyaWo1NlB0eTBzRDVKRzBqZWRSSG9Pd2VVM2tOaUFZdnYzb2hZUFJZVko3TXprendDMlFBdVJfM1FVTHh3Qi04NmRwSmg0MXFaRHd2UFNMS1RVQmxXTzNBNy1kd2pqNWxRSVFKaDA3bFRoUHlwbk9tcGd3SVVSMjh30gHLAUFVX3lxTE15UjVDOGVvNExjd1lFSkIxYS1WR2NnWDhmOWFCX1NyWXg1SkFMU1F2LXpiTXJId21uNUtCMXNMZFE2SHE5clQ1QjkzSmFxTnZHVFNCa0EyRFZFeEhtSU15a1p4YlJQcmRrX3RnaFpSSkRNVjVJc3Z1SEEtN0JkSzFwOURMT3dYQUNCQkdCZU55ZTUzQTF5d0I2eGQ0M3BEb0NxelNqX0VQNnJaMmo2cGN2bXZtWjgybW52TjhyOUZfVk5hRVpiZ3BhRzRR?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Five-star India Navy downs SAI-NCOE, Bhopal",
+      "source": "DT Next",
+      "published_utc": "2026-10-25T02:21:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcHhGSVQzWmdvTWh0aTNPaFdXNWtWd3V2ZGZzRG02OEVzdXZNWWl5VXNQczFIVVRrTnJzVXJnMkhOZzV3WlI3SFFFR2VZeVRxLVNoWGJQSXZNQUNub1lZTkcwUXJQN3JSLUFUb0N4cUF1TmhtNS1QU2dWalJVWDdXSjZB0gGPAUFVX3lxTFBka240eGgxSHRTVDNudUVGM0dpR1pCNGxlcWVvcTFKamtKb1FpSUhma3BNRWN1bG0wYnl2aVBFT3JoX0lMYUZPcHFJTE51Qkh6eGsxZGFvRmdlOEFqTmJvN3RXRm9uclVpdDJXMGsyNlVfRWRTMG9jUnVma0Z5R3U2NTNob1ZPZHc4LWlwNW13?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corporation schedules Q2 results: target for Indian Oil Corporation stock is INR 160",
+      "source": "ad-hoc-news.de",
+      "published_utc": "2026-10-24T23:28:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWDBPNlRkZ1dOLVY3N1JVTVZfZURxeW1DZVBGMnQwUDl1WDBsZnJ1UUYySWltZWc5TEl2R0lzbzlyeGxpdm1vejRfWEdSSm5ndlRBRWRRM2IzMExadDNJZ0dmdzgtd2lMYlpIczJqWDlqaDI3S2J0RmZRbGpBQVNYQzRwR2lwcnpxaHktdFNZdFBDSFE5UDdibWQ0WDFlTVZXQTVab2MwSmc1LTg5UTVrS0FxQzdZOVU0V2xveS0zMTVNMkJsMzBlYzVPaEJiU3J2MGdZTlQ4VXVvT25iMTlraEhDaTUwcnQ0?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder Booking: After 45-Day & 25-Day Rules, New LPG Formula Out; How To Buy LPG 19 Kg, 425Kg Indane Gas",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-24T16:57:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbDBpaUpqUW9tZGQ0TGZqUThON3RoMmxLRHBibVU2SEN6LXFHRFA4YlFiR3R2VFF0d3VyUUpfaDlzeHpKaG4xN1lLS2hBNjU4SVVrMEpFY2otLVVLSHZZV21BVV9jQjNPSktBaUl2YVZrVFFleEM3ZHF5Y1dKbFlwUmxyOGUzRU90VFdLNFUzeE1hQ1JhZG5sbXJQTkJ5TkwwV2g2ZDRJS3VPOFZhcnAxbzlxU2ZaNUZjYXlxV3FpaWFZVW56YVFqRmZOODkyUUxNSWZ5YkpBSUc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "High dividend, low price: 4 stocks under \u20b9200 with high yield - IOCL, PTC India, Central Bank, PTL Enterprises",
+      "source": "Livemint",
+      "published_utc": "2026-10-24T16:49:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZDBucnVmTXBsRTNpMC14MzhCZTlfT01SUXRlc2ZYRmduUExVbnFTUzloRGYxaFhoN1Z0WnpGQ0x2OEZoLXZSdDNLcU5zX0tscFlEYnlWSW5NbnMwR0xFUW1LR2V0THV2RElNM2hDbzR5VmxZTEtndEJ5aElBS0p2SVFmYk1fdDllOVZPcUstd2I2SFd5UFdpYlJIRExWZEZHTE8yaUdEcnJVQjNndE9jZU1HaGliLWhNR243MXE4dXhOazZFR3YyWWRWLTVZZU1yQnpVNVpqLVJTX0hPdU11enAwWFdJVmR0d2hUY3g5S0FES2NYZmdqb3dCcEJoZlhrWVR3a3pn0gGLAkFVX3lxTE5qNjlOOWFOdXllOXJCWkRteF8xSDdodW1Ud2FHa3hBN0Z1YUJQT3BwSkRoZEVRNzE0UGRUM21HXzhvRWZIRURON1F3cG92b0hfQTExMVZWUUl5cGxfVFhpc2RXWE5mMlBLUHlKZU13WTZwNVkwMDhsSTI4UnBkYjlLa3hDX3U0NndMeUFSVTZ4OE4wcDA0a2JoeFdHaWxnYkpWT2QzSXBHZVFkWW8xZmR1SnF4TGp1WEhWeVpfT1JFVmxyZkNheks2S1pBamdDa0xjMkM1Q1A5N3EteWtKYU9RTGxHLVJadFdmQnRWQllxVGZFVzAzQ0RqTnRiSTZfVC1GZXhtQ3ZyT1l0MA?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indane Gas, HP Gas, Bharat Gas Connection To Be Suspended On August 16? Why Aadhaar E-KYC For LPG Important?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-24T15:11:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQl9BVmJybHRScTdXV0NZXzcxWmhxcUE2c2FUZFhha0s1akwzbFQ1Ui1hNUY1R2ExaEtmZVYxc1dDSkQ0R2pfQ29Mb21rN3Y1ejZRZVdUcGRuMkttNWFvaHFCd0RFVnJDYVlkNUZWWF9aRWZnRlRkX3lSR0tLellqS2NEdkh6amxWc0p2ZEp6eHNGUlB1M0RZWEcyMmtHeVdJTUxkeE1qalQtaGtOYkNOamYxVDhXYXllandoa1VnZW9ua3N3OFpXdVpiTkxLTTNUR0k5bXFVeG95bDlERWtDMmlOT21PMmRETEE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "PSU Dividend Delight: THIS Maharatna PSU Fixes Record Date For 12% Dividend | Do You Own?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-24T14:41:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLV9XWGlkSF9Bei1NTjNNVG1xalFqaUtoNmRLWFNUV2Fmay1fTzlKRXl6V1psOGJIZnRmOWgzLUJLcldBMTU3ZFNId0lySWc1Nm4xOGpGQ2tNejZlNE56VW41WEt5WFBVc055X0FFamY1M0FLdnBuMFJYSHBfNUh0R3JTcVdyVE1uVVFySWd0amQyVVJlWHJpVjdsY2FDdmxfTXpTX1d6NFE0dGlwaE8tbXBmTUFkZUVsWkRIYlNjREtBNk9aNjNyTmtnc0t3ZnU1THNtTg?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "City smallpox facility cared for neediest patients",
+      "source": "San Antonio Express-News",
+      "published_utc": "2026-10-24T12:05:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdlM2OG5fYmlZX2FzZEVXNHZ4ZmljZ2RKWlh6UXg0RXBDQjlkRUZzWEpvcHU4Q20tUEM3ZkRUYmx2cHlkV3N1VEo5dU9LMHBaSkpQWF9zWUdrRHd4N0tWNlYyM2x6X19rMmtWRHdpSVNWb3ZpR1ZPSVNLd0dLQU14VjJIVU5tRllObVRqS3U2NXBvUjJ1anA0UlRTM1prZmlnS1E?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Refiners' Fuel Exports to West Rise 43 Per Cent",
+      "source": "Construction World",
+      "published_utc": "2026-10-24T10:40:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQblphM3AxaVFneGVyb1JBSkNZSENDRWkxYkh5RDR4QW4yWTFWVjJ4aVZncWEtQ1habTMzcEtwR0VtSm5uOE9ZYUg0bVctRzExQUlXUTFuNWlVSzRhc0J6QTViQ2JsZDR6bkQ1bTJ1WlA2TXBSaVFMQ0NzYVd2dXZsWTNrSk1uc0ZxODFvdnJ6LW92QVhoX3BaVlFsbklZUm52M2ZxeHhMRS1LYjJrODRzVll5VDV6c2hFVUpsek1QdE1uMXZu?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Crude Oil Near $114: Stocks Under Pressure",
+      "source": "Artificial Intelligence News & Cryptocurrency News: Latest Trends | Analytics Insight",
+      "published_utc": "2026-10-24T07:47:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUVfdDBJbi1kb0dqTm9zY2NXY2tTOE1uU2NxNG00OG5NTVdXcm51d1VMUWM1TEhrWmF3MXRBb1NlTFM4cmtSdVRnc2xuWGhDa2pwOEplV3doelUwNHhEV1RCb3RTMHQxVmE1N2VPelpUMWpEVldfR09ITERPTndUamdJU2pkS1lwSF8zeGJTNmlXcDBMQUHSAZYBQVVfeXFMTVlFX3QwSW4tZG9Hak5vc2NjV2NrUzhNblNjcTRtNDhuTU1XV3JudXdVTFFjNUxIa1phdzF0QW9TZUxTOHJrUnVUZ3NsblhoQ2tqcDhKZVd3aHpVMDR4RFdUQm90UzB0MVZhNTdlT3paVDFqRFZXX0dPSExET053VGpnSVNqZEtZcEhfM3hiUzZpV3AwTEFB?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Gas Cylinder E-KYC Deadline August 15 or 16? Are Indane, HP, Bharat Gas Refills & New LPG Connections Stopped?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-24T05:22:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdWlyNTlmRUhYaFY4eHEwQ1A2cnp4eGNfM2JRYlladjRuQjNGR0t4dXRBS3R6LUg3c1NZZ0pHemE1WXktNjZFcnptdzZXTmJ1aG9tZGlCekoxY0tTX2pyWWQyTWpiaVVrX1BnQ3I0ZXVqNjc2bC14Y2RwQ3JwVkpHM2QtU2RFYWN6MGN2QkJLSG9Yb1FxalFPcEZQeEpNMVQtMjRpMm1HZjZxbHp2eTBVUHU5Y1B4RzB4QTZ6RW9wdnRma3JVczEtREktNENxTGlLcXloYmlLT0lFTUI4RzZxVVNzRnFZUmlfLUE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil to Cut Middle East Term Crude Volumes for 2027/2028 - News and Statistics",
+      "source": "IndexBox",
+      "published_utc": "2026-10-24T04:40:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXg0NVNWcHQtcmMxbXRCT3JQd2JMRHdPSnN6M1RfRU9Wb0JpVWdEMnpaZ19ycE9BaG5MZG9tNFV1REpZNF94eGw4RTMzUXpoM2hBUW5yLVpyb0xCT202YlMzR1kzamVtQlo0Ul82NGdsOV9FeUtsMjVubTN5QUgzWmV0TjJIUTVhMEJIMWIyVHBnNWxHX3Vn?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "LPG e-KYC Deadline Alert: Millions of LPG Users May Lose Subsidy Without Aadhaar e-KYC; Check How to Complete",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-24T04:18:41+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOWdTM1F6NXMzS1dhbkk2MkMtSE1JYk42U2ExeFdEQmVUZHlJLWZYWFhmMGw4XzVrcVZqOHN1ZURDUG9pQzFFa0dvT2YxajFvWHVlRkloMklsbzNrV0J4VnlWVGdET0daTnh1T09GYlV2YkUtZ0sybUZ4X1l0NGtESnMyRVU2ZFFLdDduSC1TZDhqYW56cFB6VFB6bzhNTHdZblN4d3FSeWpDSGdkNm1LOGtUdHlUaEtRV2tTTzhxemlvaUNYeFc0WWpodllGeTVhM2JKSzB4TXFQbmJFdnhzUkJWT2x1UTFVNjVz?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petrol and diesel prices today, October 24: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "source": "Livemint",
+      "published_utc": "2026-10-24T03:44:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSWQ4NzBDUHBlS2JwUE16N3c0S1U0aGFsTWhmdmtENE9Bb1dWeXBvSkpveEV4UmRacjQtLU1PNkVzbXp2cGRTUkF6bzctODlXUEgzTm0ycVRvNzY3SXZQbDhOU2VqQ2ZURUowMWdRVGhtSk1BcHlBRWtwTzFNUndEcTRFdTZKSHRyTERPczJCTFROZjRxN0xSQmdKN0ItNHVRMmk3RS1XWXFoZHQwNkg1a1hTd3E4Zkt3eVg1NXpvQndCSW53c1pHVnY0ZkhuQmMwQktfOERR0gHbAUFVX3lxTE1JQXVYaVhfaXNpeno2R3NpbWdETldjRXZfdi1XdDY4ZGo0bW95bWVJV2V3YUtMRW1kQWVBV3ZsY0EyYkpfYUlnbC1VUjZEYjJEMldENkstU1BFT1kwaHZWYkJjUTh6cXQ4Yi1kV3RaZll0ZHZTdmNvRzlQQlBUbkU5cXV5a3h1OVVqMlR5YTloNWJaSlBBV1Y2OUM5cWpYLU1qdGVxcDhQSk9HRDBfd0kteVJSNW1sN2lLQ3lwcmRGUEpkd2p1YjNGcVVFOENCNEJGWkVRUUtPYmU4bw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Trinidad and Tobago in talks with ONGC Videsh, Oil India to refine Venezuelan crude",
+      "source": "Livemint",
+      "published_utc": "2026-10-24T00:05:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ0dtWGxoeDlRd203NV94eVlPXzV3RUR4Tl9xU2VNTmlhYkRNVzRndjhRR1pJbDc2WkszQ2ZVTTAyalFBeDNzQTNWLVF2QnFrZmRTbDVEZjhZc2lYVjllWUlsOWF3S3UwV1dlMDdNVjF0LU12SFd0RzRCN1RRc0JvVnBIZFRpbWkzMHZkaDdOVzFXY0czRVpaeFE3V3VBQm50Vjl0RVpXZlY4VDhid0ZUYTZwTWhHTGw2a3UtNUZwejg0aTBkTk5FQjBLQ2hJek5kaTlfSXNFb1gxZ9IB3wFBVV95cUxQNXBlRHhIQ3IxdzVGZ2pELURvR3YyNXlRbXNPZkxoTEExS2hxLUp0U1BxQkRONkl4dEl6VGRnUlRFTDBDZU14QXNyNndzNUNLRmF3NGU2bGNYRGc2aTVOS0s2Z1hzejhRaHROSUFCaEg5Q25rb184ZlRsVnI0eW05X2hMQlpBZWxXUnZCNHE3NEp2MFlXZ2hieEZRMHptbHJtdHp3RDN2RHhZSVJZbW10UXNkeUJQZUtweDUtU3JBRXFiSW4xXzdTUk5LUU5CVTFBaVJ6ZkNhY3lpa2pHQWVJ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corp. Ltd. Estimates \u2013 NSE:IOC",
+      "source": "TradingView",
+      "published_utc": "2026-10-23T19:52:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HU0Qwa3RxLTJ6SW9OakxLNHJ4UGd5SUJxVFBIZDM2QkhCWFRjWjVGaHVPVUpTWEk1LVB0dVFIVnAwbXVWdDBsNnJGTkdJN2Izek9hbnhWdGYtMndyRDRxSE94RG5IMkRxM0tCcjZRd01FR1U?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.14,
+    "strength": 1.0,
+    "material_count": 5,
+    "view": 0.14
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-26T17:00:56.780260+00:00"
+}

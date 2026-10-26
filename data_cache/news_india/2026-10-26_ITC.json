@@ -1,0 +1,54 @@
+{
+  "symbol": "ITC.NS",
+  "date": "2026-10-26",
+  "headlines": [
+    {
+      "title": "Fabelle elevates chocolate into a celebration of art, music and emotion",
+      "source": "Cond\u00e9 Nast Traveller India",
+      "published_utc": "2026-10-26T08:26:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHBCNktLdWw4bHFXUnlsOEV3eG1qck9kdHhrMGE2SU5hQTJWLUdjdVowd2p5ek1aNGVPTUV6QWZkREI4NUItTFBUREh5am1PZUJ5Ung4VnZXV084YkdfWFlJWEhnOEQ3N1dlZkRuVGNNX1hheG5oOWh5RzNsNHY1TFM3VUZDUHkxNlcxcXZmY2dscWx5a3dQWVE4dnk4dmxTa2R2ZXppYV9Ka1F3M190bUJlRmg?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ITC Hotels to Establish Wholly Owned Subsidiary in Dubai for Global Expansion",
+      "source": "Whalesbook",
+      "published_utc": "2026-10-26T08:08:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMnoxa2lYOVQ1enlZRWgwd3MzUmZOLVpzbzJCTWVEVVc5ZzFQdjcxMk92UTlLRUYtbmNKcGlabTQxSjRvZVl6VVJIQXU0cnByeERPQ0I5SHZNRHFTNkE0QnUzWkRBam81S3Rybl92OV9uU0E2VzkxbHppdU1vZkJvcEpwT3B3a2pSLWk5Y2Vqcm1qV3QxVW11U1hGNXJieWlLdjlKeU9oV2wzYnRsclpma2N3ZmR0NDdDby1sZ29FWk02OGVSd3UxS1JUR0stNWZ2T1dXdVJselVnbVAza2dPajhLX25kNmljVnpEck9lRQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Top 30 Stocks for New Investors in 2026",
+      "source": "Samco",
+      "published_utc": "2026-10-25T06:51:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXc3YnppbkVRc1M2ZmotTUFZcFQtNzg5WGt5aW1NYW1MSURkaXVRRlZCbWZMUnJpX2FCLWlWOXBTV09CRngtVHRHcGR3LW5HNHg2SWV5d1pZenFlQmZkdmxhVTE3eWJIcllWaUNUVWVhaEtodllzMV9wczhTODRkRS1LaDdKaWo0aFJReklvX0RZaUE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Top 20 Shares For Long-Term Investment In India For October 2026",
+      "source": "Samco",
+      "published_utc": "2026-10-25T06:51:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa19lTDRSSlBMY0kzOUhFc2JXTGxaaE9FWld6VlNwMVZ6N3BENjZRa1FZdFFJbjdDQ1MwMHZ5eHFheS1abWJBZGRJMFJZM3h5OVNxYW04eE1WUjhLN0VBT0ktMDA1c21NMUc2TkJIb3ZpTUFXOFdYWUlWWDd5QlJtalRacl91WlVDOGgzUkxtUXNzUEd6WVB1NVZsZEtJZnpxZjBKbjBHN1F1ajZ1Sk9EZlpEX0JYYWNi?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 1.0,
+    "strength": 0.295,
+    "material_count": 1,
+    "view": 0.295
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-26T17:01:09.281419+00:00"
+}

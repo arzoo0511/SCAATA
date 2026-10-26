@@ -1,0 +1,414 @@
+{
+  "symbol": "ICICIBANK.NS",
+  "date": "2026-10-26",
+  "headlines": [
+    {
+      "title": "Nifty Bank Live | NSE Nifty Bank Index Today - S&P CNX Nifty Bank",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-26T14:27:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UWDgzbm9jRDVIMnYwdGNtY3NVVjdsSFhob2hXLVl1dDItVHp6SFBaaGY5M2NVeGszYm44bVVPTWc4bXF5dDU2eEJReGNuNUxiZ1ZLeTNBT1V1cEpiMEt3VjhJU0lsTE40Qm4yLUlEOWF2Rm8?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Publishes Q2 FY2027 Earnings and Media Call Transcripts",
+      "source": "Kalkine Media",
+      "published_utc": "2026-10-26T13:29:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFh3VF9qSVpHZ2plcFo0YVBvMmwxb1YyWTBCcHVXRnNtN0I5ZlhMRGFKOERGbWJvTG1scFQyYVEyVmxScEQxUWlmb1k1RThxQzk2dmNITDY0U3JzVU9ZdGFwNml1amM2U09XRUdtLWhFRlVDdXhsQWZOdGpMNGltOENxeDJ5ckVuWkhTSmJiUHFkemdpOGhtVGtmOVByaXlKdmJxLWN2eEdDV1dFMmplTVNKOA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Latest FD interest rates after recent rate changes: ICICI Bank, Indian Bank, SBI and HDFC Bank",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-26T12:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNY1JvbEc0NHZMV2NVdzBmN0hHTVdEOW4zNjMxYmJoOXhEMWtRZnl6a2dsRUFNVWNOZnF0d1p5bmR4OHlEdzE5c1BCWk40TXcwSkxIR1U4eGNWbjUyakZteG5FQjVvLVJoUDZsajRhRll5Rk4zODNYZkJjTXJYZy1VSnd2RUx1OWxSeWVldVBuY1VQN2huZ2t6c25RaTZiTkxWUHhLZkExS3pNaFZTekp2M2V5djJFUFItaUVOWHBIYzN4VjRMcjI3VndYS0NKWVBrVEpVaEczMFFfczhpQXVvNEM5THAzUlF3MU9jZ19FREvSAfYBQVVfeXFMTTVoZEVsWmE1clYzSXZ4aU1jdmpnUThJZWROQ1hTN0xNdWdNRkRZR1JXaFNMOFNjNnVtZXJnajBLWlZJcy0xaGUyNFV2X2NyeW56MDZ1MUx1WWpZV0tnWjFvVEtYY2swXzZtSmxmRVEzM3BSa3IyOHR6NHlUT0VvaG9DNUNyTXhSdTk4bTRRbnNybjBmb3hqbVh5LWRweTdvSFVYOW1qZDR6SDRNOEdOMUlCbG83TjdYeGlXUmhMalFUYlIybFFZV2JNZVp5dTJxQVJyYmVRVW4wSFV0bGFUVV9GWWJhX2Q5NXF4bURydjFxbzhTdEh3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Nirankar Royal Appointed Head \u2013 Human Resources, North America at ICICI Bank Canada",
+      "source": "https://hrtoday.in/",
+      "published_utc": "2026-10-26T10:37:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzR0dVFSUXFsaGNucWVvRlF4U204UWZNemQ4cFlJTDVncEFHbFM3T2xFOU8yd0tGdTJKOGpzMEdxNTZ4dnY1UkxGZGFyR2JnTVJ3eThtOWtKMlhDbzBuV2FZa0JlaXpGajU5N3V3cUYxel9tUzRpQzlJSXdGaUVWanZGb0Uwa0hBejItQ2NicV9NR1dGbWdyQ3NTckh2RXo2V1E?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank advances Monday, underperforms market",
+      "source": "MarketWatch",
+      "published_utc": "2026-10-26T10:32:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3RLNzQzUTFMSHFzVmwwcHdwNkxLbVgxVUxEVlFXY0JRamJmbTdjRHZoNFp3V0VTdFE4Ry10U1pEb1RXTEtNcmVPMnpnNVdSdWYxMVpSMzlaUkxTSHhKcGxxX2xFLU5vNS1vWEs3dG9iMzRycTVQdTBwMkxsbm03WVVidXRLWGE1amtPUjM4c2tmbmxNQmh0Y01sNE1KZGVyRVdfVlJRNEhSdVpyTm80dWhmeGdwN1ZpcGE5bmpleUhZNms?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holidays in November 2026: Full List of Dates",
+      "source": "Sakshi Post",
+      "published_utc": "2026-10-26T10:25:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGs1b1h5OWgxSVNpRTRUNksyeE5EMUI0UEFkdDJVaXhVZkExSUdsN2RQU2FHRDlEWFdJa2FsLWEwT0ZaU0stY2xoYlk2NGVfY3RkbkhNNm1FOWpnS19ld1c4WlRuVUlTX2M3T1Q1S191UEVZMGpsVHF2T2FtdXJQQk9jZk1PV2ZIZW1oLVl2X1ZSVjFXcFNwMdIBmAFBVV95cUxObGs1b1h5OWgxSVNpRTRUNksyeE5EMUI0UEFkdDJVaXhVZkExSUdsN2RQU2FHRDlEWFdJa2FsLWEwT0ZaU0stY2xoYlk2NGVfY3RkbkhNNm1FOWpnS19ld1c4WlRuVUlTX2M3T1Q1S191UEVZMGpsVHF2T2FtdXJQQk9jZk1PV2ZIZW1oLVl2X1ZSVjFXcFNwMQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Form 6-K ICICI BANK LTD For: Oct 24",
+      "source": "StreetInsider",
+      "published_utc": "2026-10-26T10:04:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2QzY3JldG5ueTFCR3FKZXRwajdnVlp1OWtxUEJNTENFLWRINzQtcmhfZmZRX0Vxc3BpdndoVHJhUWZRZEVrWnZpUUJCaGNUcF9zWVZuNVRfRFpQaE9ldC04RThsRHJSMFB6cXY1NkYtOGlodjREX054Q1lwekpoTGF0aWI4M0pvTG9HWW5YS0ZEZDV5VXN2cA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Credit ratings reaffirmed for ICICI Bank (IBN) in October 23 agency releases.",
+      "source": "Stock Titan",
+      "published_utc": "2026-10-26T10:04:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2RabDZidVU4U0QzQXRVeVlZQ3BRbGVpRDYwbm5CMFBzM3owb0hXT2hNbm4xb2NOTElDUjV6Z01CRjI4NjlZTTh6UGpvUzRmbkllanNsYVExY1R0b1NXMldEOWROcjljWFg2Yzk3QmM5b0NPQUhDOElybU54SHhVNG54UkNvazJfMF9ZNG5pLVBtaUVkWDNtNHNtMGhoZG41MVRUNlpSc01vMnNxbkE?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Media and investor call transcripts are now online at ICICI Bank (IBN).",
+      "source": "Stock Titan",
+      "published_utc": "2026-10-26T10:02:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlQzdC1qRWM3clVrQ1ZsZHo0R0ZMN2pSZUt3cXlqb09YQTFBVXVNVkNuZXFRazNZRkUwLTZaTTlER2FvY2NzamJFMm9COVdncFFxUmw5ME5zbkpqX2I4WlJUcmRzNzRoTDVqYm43SERISUpNRnFRTHM2eUlwd21TbDc1NHNydGp1dUJsUTl0TGRLV2tXU0lULUV4bTJ2N192OVk1QklYRDYtV25CNWc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "stock insights biocon support breakdown icici bank strategy",
+      "source": "Zee Business",
+      "published_utc": "2026-10-26T09:57:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUxSR251cFl5U2xsTlFYRVYwQkxrb0R3MUdIUEYzdzBxc3hibmZ2YnFJc0I4bTdxbjJ0VWdEcjdybHNtdFJYbHNMZi1nclBLZTJJcHBxc0ZtZ0d0TVpsaUFZMnUybUtvaXhCY2hOY2h1dWhPRGFuaE5LeHVCY2d5dWdaMl9RWWtxUVJyU3lGQzh6UEt4YlNSN2o2ZGNPZ0VCT2JRQWpQaXV4YU5JZHlTNTJMZUZVZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Banks Close on 24 October 2026 for SBI, HDFC Bank \u2014 Is Today A Bank Holiday?",
+      "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+      "published_utc": "2026-10-26T08:37:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wUVBxT0t2TmtlQU9TT3I0Z3pBWjhzcEljRFFrbEtNOEZoTnlyTXEzbUZKN3NzajZtbHowbjJTaE5vVTBadG4wZWhzRkl4a0RDdkpn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC, ICICI, SBI, Axis, Kotak Credit Card Diwali deals: Where you can save",
+      "source": "Business Standard",
+      "published_utc": "2026-10-26T08:18:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNXJSTUpOZWljMV90aXlDcGtaQkw1YnRkMkttQWk3c3NpLU01N0RlMDZDYjE3MWE1OFI1UVhLSk15Uk44N1J4ZWxkUGJvcEtxcXBjbWd3X2drYUNKSjQwRzRJRVFQWWFFNFZ5MGRqbGFFNFlqcWtfRzFRNmtvMHRLVVhlTTBzS2pfM2szNEFpSTMwV3V0cXpLbnU3aFc1alVwcXZMd3ZQT3FXQi0xeWo1SXRJcC16NGRmWTV4X3BMckFpM3Y0c0VZSjNUU1BkTjVNSVdtR2dTaXF4V0NFZEEzZDVB0gHnAUFVX3lxTE5nRGZiNi1TZXhXc2UxallWSWwxanVHTTdNZ3YyTmwyU0ljeDhSZzJoSUVNZFRRTlg1R3Vsb1R3dWRnUDNkWWZiS29NUHRLRFFmekdLMWJrVlhNU1B1WjFPRjR0S0sxR3gxN2pKUlRTTFJXdnREdnhHa1ozOTBqMzZKZkdSd0toUnd3YWlSenl1dUZpLUp3aVk0emtwMnVwUHJ3Z2pTTk41aGFfWmxoTi1icDNINmZ2cTlHZjJLUVpvSlpPWm5tMUlac3RHVk9CTHQwcHpNTG9CRDdsdUUtTGtDMXFqMnM1WQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Central Bank of India clarifies all accounts are safe after reports of 187 unauthorised transactions worth",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-26T08:10:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPT0ZhbUo0aTdQOXlWa2RhenY2V2pmX3dQaktXMmhodXR2R0VuYVhXRllnSm4waVdtY05iSjNrNExleXlKREJsRjg5elNVYzhVRl8zeWpvQ01PZVA5bEMyOXJvN25ZMGtIelhWcG5WZTNjbl9Od2MyZGJfTGZPU1VwZGNNajBrdVNMbUEtR2w2a1g4OGwwb0lJMWtVaG9GeUt6dUkwTFF1WHkyRXBwSzFFbElrV2FpbENmRXk3NUZkMnlIWi1sZVRPZU1pUXBNVGQzRWFSZGFRYUF1S1ZJVm53Q0pTakVDY2p0YmlySVFiWmhqZGtpdUo3bmRBa2F0b2FFTjZVem9kWFRSVHk3eTlsbUtlZks4bUJsNjZv0gGbAkFVX3lxTE9PRmFtSjRpN1A5eVZrZGF6djZXamZfd1BqS1cyaGh1dHZHRW5hWFdGWWdKbjBpV21jTmJKM2s0TGV5eUpEQmxGODl6U1VjOFVGXzN5am9DTU9lUDlsQzI5cm83blkwa0h6WFZwblZlM2NuX053YzJkYl9MZk9TVXBkY01qMGt1U0xtQS1HbDZrWDg4bDBvSUkxa1Vob0Z5S3p1STBMUXVYeTJFcHBLMUVsSWtXYWlsQ2ZFeTc1RmQyeUhaLWxlVE9lTWlRcE1UZDNFYVJkYVFhQXVLVklWbndDSlNqRUNjanRiaXJJUWJaaGpka2l1SjduZEFrYXRvYUVONlV6b2RYVFJUeTd5OWxtS2VmSzhtQmw2Nm8?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday Today, October 26: Why Some Branches Are Closed Today and In Which States?",
+      "source": "Outlook Money",
+      "published_utc": "2026-10-26T07:10:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOW5ZMVpSdWJwcm9LdmF2OEJ0a25TdjZPaXFzYm1leXdmQ0ZBVlRZUDctQ2RKbFpjcGdyOE5SOEJBdXJuc2ZCMzgtOUpiaGZuS1V2cE8xTnp0WVdYVWhxTnIxaEFoOTNXRnJRWWtWeXBFRXRJbmFrSDhsazd5bjFkMXBUZ09nbEQ3X0NIOHYtSFhHazVlTmR3TXV4aTVrbS0zOHotOGx1dmJmeTJ0VnlUTnNqY19QcnhPdVZyVG9rTUV4aDE3WnVz0gHHAUFVX3lxTE45blkxWlJ1YnByb0t2YXY4QnRrblN2Nk9pcXNibWV5d2ZDRkFWVFlQNy1DZEpsWmNwZ3I4TlI4QkF1cm5zZkIzOC05SmJoZm5LVXZwTzFOenRZV1hVaHFOcjFoQWg5M1dGclFZa1Z5cEVFdEluYWtIOGxrN3luMWQxcFRnT2dsRDdfQ0g4di1IWEdrNWVOZHdNdXhpNWttLTM4ei04bHV2YmZ5MnRWeVROc2pjX1ByeE91VnJUb2tNRXhoMTdadXM?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank report higher Q2 profits despite margin pressure",
+      "source": "Upstox",
+      "published_utc": "2026-10-26T06:52:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZTRxUTRxeFBmTl85d3l2d19DTGFGcy1LWnFGVjJvUVpYSWREbFgzM0p3ejRDTG5RM3BjTUxYRWNDNFZTT2c3bU9VYjhROVdOa3ZkLU13Z0FYbHN5ZklfUS1uQjVFSFlNTVNzMTJHRVVqdWtmQ3BDRUJZY0p6UnNvUzR4Q1dJU2x2XzRONDkwRnNWMzNYeEdFLXQwd1RsNlgwREN4Vkt1bEdDc1dqWnRLOGhIMkNjTlpKTU1OX0dDYnpfUG51dExkYVdxdUFfVTR4UDJOSWR6TUFHcXFaZElzTnpjMkVGZw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Low Price to Book Stocks 2026: ICICI Bank, LIC, PFC, Canara Bank",
+      "source": "Univest",
+      "published_utc": "2026-10-26T04:50:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRmU2UFphakRPMlc3Q2pyVFozWnJmeERjN2p1akd3LVdaV0JfaDlpUVd2ZjhTVGhNb0RGNjBQOEhYVUptRW1JaWNSRWMzbUNPbVJrMlhRdmtXaVRXSmlXT2NhZVl0RjNkanduS0VOSDAxNkdhSVhhZWhEM0hjcnpEalJXclFlM3p3VXlncjNJOXhRUTA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today: Are banks open or closed due to Valmiki Jayanti 2026?",
+      "source": "Business Standard",
+      "published_utc": "2026-10-26T04:45:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY0Q0WVJJZlJyc3hzZFJhOFdoZnI2S0xzSjNMRy1zMmZEVWVzbXE4MFl1QXNaTmN6bkJrYjhCQm9ELTlaclJxWDdiX2NZaTVQOFVzcEdpQ2RiTWxNRVN4cEJ4TW40eXJUdEswY09OaGRtWlh5ME9laDM3MElPY2NYMXA5YzJyVXpQdng3WHJKMHNmWmhHdC11NXpJWEstcEZYamJrZ2ExWVc2MnNzbmxLc0lIdmVNbDEzNWs2MW5iaktUR1lIS3pEZUkySkNBQ29iTGpnaS1NS1lVU3AtSTR0TWVzRdIB4wFBVV95cUxQY0Q0WVJJZlJyc3hzZFJhOFdoZnI2S0xzSjNMRy1zMmZEVWVzbXE4MFl1QXNaTmN6bkJrYjhCQm9ELTlaclJxWDdiX2NZaTVQOFVzcEdpQ2RiTWxNRVN4cEJ4TW40eXJUdEswY09OaGRtWlh5ME9laDM3MElPY2NYMXA5YzJyVXpQdng3WHJKMHNmWmhHdC11NXpJWEstcEZYamJrZ2ExWVc2MnNzbmxLc0lIdmVNbDEzNWs2MW5iaktUR1lIS3pEZUkySkNBQ29iTGpnaS1NS1lVU3AtSTR0TWVzRQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICRA Reaffirms Ratings on ICICI Bank, Maintains Stable Outlook",
+      "source": "marketscreener.com",
+      "published_utc": "2026-10-26T03:28:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWpTWFRlVDN0TDQ2QzJvcjM5TUdiWUtxeUhSdHpfZmlHd25MNDJJbUtnUnFZMEZZekZ1b05lTG1qQ0xKZ3RXRTdweGFFRTluSXlxX3BGeUh1ZmVsRnBjOG9odTB1VVg3eUZ1RTJtNmFHOG0tdXN1aFg1aVJqd3o1Rk1BWC13WFZRVno1emZteWw2ZlZ4SGN6NmlIaXNnQzBkV25jdTB0OXd0ZlQ2aHBNaHN1LUk?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Barclays Layoffs: British Lender to Cut 5,000 Jobs by End of 2026 Amid Automation Shift",
+      "source": "LatestLY",
+      "published_utc": "2026-10-26T02:33:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmlHT1lZMWg1NURJY0d2eEVTdHRJUmhJTzEtNFRvd0h3SlN4ODBqeUdnN01PTXBSV0dGYlBXYS1FZElRNkc1czhYa3p1MUVfNUVDeFdMNVJUaHpMWVRrYU5uZ2hrbWE5TWU1VXhPenhoSXhibk1nX0pleC1iWmllWk1pX0dQMlFTZ21Wa050MUFILXp0SGZjMHl0Tm9fWlVMdVlnS1NxY1pwdHIyY3d6bFVtOVp5RHhFV09oQzJqSFBqdzR5WTBjMUN1VFXSAdIBQVVfeXFMT0FuRm1NVHFLVEhYcU5OTGVBQ1JoV1FLRm14dVlscFFKNW0wWFhHa21teWY2ZngzaEt2WHZ5TGo5Y2hhV21FMXBpVlQ0Wnh5ZUxZVVBkQV8tSkNfZmwySDRnQjhJYUYwSjlvb0wzWm41eU1xREVfaGJvYXQwakdlNjZMSGJVRG4tTVRVaTVfbmx0OHZTNVR5S0k5MFV5bFhsTTVQVkJMUEdjbDF6QU4yajVkWEtfZVo5ZEFUcXEtOEw5X3o4RmpjMjA2d1YydXg1X01n?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today Oct 26: Why are branches at some locations closed today despite Monday working day? RBI calendar list",
+      "source": "Livemint",
+      "published_utc": "2026-10-26T02:23:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVERyc1NTY3VlS205bHA1TUtTYWtoQUZRM3FDRWhUNXVvajlKamZfY2FfWWduOE1uUzdGUy1Hbzg4VjN6ZkZtMUphMlhqOUhRZmd3T1V3NzhhVk9xWTZHa1ZVU25ZbVR1Nkpyd2N6Qmt2dEN4enRrWXdJM1pOVUxIMUxJY09hZjZfMU5pakFrZVhqeUM2MnF0NS1iOE9SSGJwRWFaNWk4TkxDTWFrOVoyQjh6T1h6OVdNcnZXb1BZcWIxMVVFUG9DcWJCU2dCT3FJRGVkb0dCX1NkbHI1SUFNUjlxTF94ZlRreTZYVWV5SllVWDY4ZmdxV0htdnMxd9IBgwJBVV95cUxPZjYwWV9ITmtpRjhndy16RXE4bTlIM1FzZWhrSHF5Si1ReGFVZmVuWkVCbmwzdXoyQzI2Q2xybEZQd3h0c0FjdlpKOWw0V1h5SnVpUEJuZ1FyUHRvY1ZGQUxqSGVnOUxHeXFXMkg3S3ZHdzFpQWpsTWptWHJTNlo2c3NUV1BudEVXV1JuamphVGtvejlranlEazVoVmpoN09jQVY3REw2cU10bF9YaktsbTdMLVJ4WWJTQVFITExIZkZ1bTVnclZ6Q3h2QzN4SDlEZ1pxR2lrbXI0ZmJsYUZFNWNmSkpDRUlTTllYVlVCRmdmVTRXa1c1ZHEwajNLTE51eEJN?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today: Are SBI, HDFC, ICICI, PNB branches closed on 26 October for Laxmi Puja? Check RBI calendar",
+      "source": "Livemint",
+      "published_utc": "2026-10-26T01:44:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdmVHcDFlY1l0YXRzTU8wdk9TZlA4MlE4dXg1WERQUENNWlBGOVNDRFFxb2RWbmVqR0FSajZZM2tCRjdPSmxsbzRmZjJ6LWVDdHVUS0pDUEJWOHJpWUJCTElOdW9ocXdIalR5TEpGdUlKNHZmeDVEdVlkaGhpZXhlVmZnMmZjQy1CU3VIYTdSS1dMakZIMVBMcG5UNzBTNk9WNFEwaUp3clFPdkt6LTViMU5US2tZWHIyUnkwYU83WEtOd1E3ckg1ajhXSnRoQjFyTkxuYWlOa2g1am44MENvWkpkTVQybk9JS0w4X2lhYWFRWnFxdkNRdEdXTk9MZXNC0gGGAkFVX3lxTE9pZGtzQ0lWU2JrMWt4eXRBNXk1d1k5Uklud0wxRTRzaXJNRVdGdXktWUpXdEh5eW1RWlRBRXBEM0Y2UjdEUnJIM2JUcEFkZHJBa0pDTHZkTzgycFJuWWZJTGJfaEI2REV4WDVrQjdqcnpaN1A1WXY2dldwLUJJbWVRSkpONXpwdTlFWE5TaFBVdGdFY0RvbENjcV9LdnNYWV9NeFNZanpiWkVsaVBLWWhkLWVpWVhpZFZ1R1RJOXRaanhVNTltZzhhM2U4aFBlb3A2b2tXSG15c25udDNUd2gyZkFUemFISzV3cmtzOGpLUWhfd25yNi1TVjFVb29XVlVScDBieVE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Weekly Recap: ICICIBANK Q2 profit rise and FCNR(B) deposits press NIM",
+      "source": "TradingView",
+      "published_utc": "2026-10-26T01:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVG1GMDVWUU1WOFhPajhIOENvcmNHZVNfcXc2WTZVaVNldWoyWDc5enVZdlFjdDFmckxjTDVsMFU5YVZfZy1hQ0hOa2diNUxOMUVGRzFWR1hHYnNPV0Qxb013X29MMkJXUjVoTWRvMmdvX2NHYV9MWGcxc0JaZTMtbzFzWWo3TGtCZHVsV2FGdGJlVFY0RGFUWWVjOFplTC1MaEdabVFzTEVwWjhBMFpmRXFOQVVVSVpnNXFjRC1tXzR0bGdranlCcA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Non-life insurance to play a bigger role in financial planning over the next 25 years: ICICI Lombard",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-26T01:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNHhkOVVYNHpuZWhtcmlCbGNfTUxoeFBrYkNIUzRCYTVyM3ZVY0ZxXy1xMEJLYTlTZUU4ODNuZXBUQUpXeWprR0ZITjcwd0VocmZyODk3VG94NHFzZVNOOGJPdFJNVFlrbzduTFloSnBWWk1paDVtdzQ4RHlERnJCRFlwdHllV052YkJWcGFNTzF4dmhPY1FCTkUydmVRZmJITV9CR2xuQnZ1ejNWZEZ5c2xOLVBRN25uY3ByUXNJTFMwcXdVZGphbDBacWZUM2k5NlV3R2c2enlCcGtwM0wyRkFxNldQSVpkMkdIU09RbVN1a2ZqMDV4OUswanBGd1Jv0gGAAkFVX3lxTFA0eGQ5VVg0em5laG1yaUJsY19NTGh4UGtiQ0hTNEJhNXIzdlVjRnFfLXEwQkthOVNlRTg4M25lcFRBSld5amtHRkhONzB3RWhyZnI4OTdUb3g0cXNlU044Yk90Uk1UWWtvN25MWWhKcFZaTWloNW13NDhEeURGckJEWXB0eWVXTnZiQlZwYU1PMXh2aE9jUUJORTJ2ZVFmYkhNX0JHbG5CdnV6M1ZkRnlzbE4tUFE3bm5jcHJRc0lMUzBxd1VkamFsMFpxZlQzaTk2VXdHZzZ6eUJwa3AzTDJGQXE2V1BJWmQyR0hTT1FtU3VrZmowNXg5SzBqcEZ3Um8?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Five Stocks To Buy Today, October 26: IPCA Labs, HBL Engineering, ICICI Bank, And More",
+      "source": "NDTV Profit",
+      "published_utc": "2026-10-25T23:43:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNWZvRmxyQ201YThSTENIS1hQTS1SUHlaUG9aV2RXck5Wb2xacjZqS2ZCMHYxNEd5Tktybkp4OGJqazZicmhNMjZYRGxLZ2ZCOUhaR1JzbjM2X3RDcUx2aDR5V0h1bnIwelh6dTRlV1AxSGtrd3p5SGgwWldxSWVLUkdWMG8yaGFwN1RYQlI4R3VYTEdPeFlhanFma0hGZkg1MUJCM2l6amNpWFBlU0tZU19lMkN5Z19uLWgwRGI2VWlVUW5CbWUwZE9sMFhqZWZJLS1aV1VHYmU4dHBUMmdZ0gHnAUFVX3lxTFByWmZLRW9ZWHRiQi1rN0xNcjI3SzBaVW1rSjF2d0lpNlhJQjFROUZiVFEzQTZ3ZXlQLWxwWlJFMGMyLTBRWnR4bEMxdTdMRnQ4ekJJMmdHY3VSVzZ0b29GTXcxbllVSUo2YlU2N2xsYWxDNm5HRnN6dzR4QTJaeEM3SU5WMGNRbjBCX2k5SkVyMl9PMFFUZFAtMy1yOF93ZGxrcC1CU3RHVDBRLUdtWkVnMjhHTmFvRVNnaE5YUkc4cHh5aE50WThCNmthYjh0SEprelF0WS0xSUxXbVlZT2ltSEJWeVZfUQ?oc=5",
+      "relevant": false,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Corporate credit is growing faster, but banks may not earn more from it",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "published_utc": "2026-10-25T20:54:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOenlvN3FCQk1EYXBLRW1uTC0yTUptUFU1X0kyd3ZHaTh5ZHpqeXkyaG5RRnNSQTFKNnFxOEJUSzJCRW1PN2ZNcjBqakJhVC0zV3h1NHc3RlgtZmUyTkxFS3Z5N3M4TW1DTHRVcWtDR0p4dHAzM1JVb1F2QXRpVzROQkt2V3A5ZnpSTkJuWVdHanhEUXZ4N3hSVzNfU1NYd3dob0RRN3BvT0NEcDBfS1dvMEp4R3NoTTVXaGtXMXNYZ05XSU1BVHFIQWZnMNIB0AFBVV95cUxQVlI0V0hCVk51TzZMXzM4dEVseUhjMHNvMjRWZjNVYkhjUVZHbnVOTmx5SlJ0Z1RRR2I5ZVZoYXJ6WDl1TkVTTThnVnRXZ0xJUlFCa2RYbm1WUmV3TEFoSVdVaVZVRWdFcVZ6VUFIS1F4N2NTT29vdHRaTXZnM3Q3ZTF0dVpRazk4SUkwc3JaLV9rQm0zTzh6MmxBVTJ0eDNxcWlxOEVzWHpsNkRMZ1B1VXpBaURzemg0WGM4bGR3cjkySzRzaGpsSkx6TVdXRFI4?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Hdfc Bank, Icici Bank, Idfc First Bank, Yes Bank Share Letest News, Anelysis, Target, Hold Or Sell? Griffin Canning (p6aENLGKLm)",
+      "source": "Unisba Media",
+      "published_utc": "2026-10-25T17:40:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGJFS2NhNTc3ZlNKNElEMmp5MkZrV0xUUXN2ckxqZzAwNERXUkFVWXp1R2dJWXRkc0NyTGZsUk8tUFdjLXFMTW13dzJhNGlKY0Z0ejFWUmxDcU4tQWhtUWQxQmVxRzhFV1RCSEk4Tzd2eUNfLTRTRlpCMlhWclRUNVN3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Q2 profits rise, but margins remain under pressure",
+      "source": "The Financial Express",
+      "published_utc": "2026-10-25T13:05:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcXRPZ0wwMzVpRi05VWNWSlNITkx1VnhocE16UDEyNnZaSnhTNnZSRkJWTS1mck1UUXpReFhJVGdiOVRmMXJqeThZTWM3RFkxS2dZXzFDb09RUzBnNTNETXI1YWxZeEFvV1pzMU94OVB4MUVVTDdwWHMxaVQ4d3I3azdpWTVPLTlIckxiUjM0aGd2V1hkNUFLRFJkaE1LeURZYm4wVUxfMGRlb3pETkRFTHJGaUdybHJ1Zk5PcTNGQkFKSEdiY2loTzAtTUxiTWpXblpfb3laNE40bU50ZU81MV9UQmpJZ3PSAe4BQVVfeXFMTXR4VGpuZl9fZ3dST01XQVFLLUs5ckFTcFZEeGUtTTFFc3ptbm1abEtSeWRBWVVONURBWlkwTndWQnkzZEVINld1NlJwMEZ1bnlzMGZuUlVpNUpwWmpaY0F6dXdDYTEyNkhfQjJ1OVVxOEVIUWgxTkVMVTlmbHFjNjcxbGI4NXhGeWhGcGpLVGxUWEJvOUNkLXdiTDZCVUREZVFKbnpfdWxOMG4zZlR0eXR3NldQdUNPMjUxQ05TSFFORVR3bHF0cG4xZ2RncWVLZlJzbkd3WWJHbURNVEdZeU53Sk1pcXhlQjJTTWlVZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Q2FY27 earnings call transcript: NII up 17.7%, PAT rises 20%",
+      "source": "scanx.trade",
+      "published_utc": "2026-10-25T10:42:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOEVBeGdyX1RHLU1mdTBXb0VUTmpnUWpnam9lbzVPVVpYUFRWZkRJbGlobWlpNFlTRm5yaVZGR1hEcjJ0aGxCbVJHTnJWdi1XU1o4NEZjdEVWYzhIU2NvSGJEVW9CaloySkhuYlAxc3ZMQk1yWHVIenRxby0zMXFtY0JrMmRoT0hrbDlSeFdVVkQyZ0ZOUFZTTFhfWWFMS3VPR0pTdy1rOA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holidays next week: SBI, HDFC, ICICI branches to remain closed on these 3 days from 26-31 Oct? Check RBI calendar",
+      "source": "Livemint",
+      "published_utc": "2026-10-25T09:27:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaEliUDgzanJua2xWRTlKQzBxYXFLWWNNcEJfbjRJS1JpVURvVHNnWVRDVVNaN1psYXFhOTQ3Sk96SzVTYk1QelJSWVQwWFNNMTZYRWs4SWh4WUw1cUdrYi1TaFNYb0YybDd4eVpiU1hLN1lQMWVDbnM2S203T01PMDgxX1U3X3FIdEhIT0xjMUZ6cXg4elJPaWxScHVuZUpIbGVVVHdDZk15YXJEbElkOFRnTW5aNEhzQnBQODRxWVRzdnBsdXpGcXlHUmVDTWdyN1lLb2dBUzlLMXJNcUVWLWxKTTVUTVBkZmVCNzdtZWNFSUQ5MmxhZWY1VV9aR0XSAYQCQVVfeXFMT2M5Nnk5RGowVERuMW9lbkR0U3RkSjRNOXI5VDc5a2FPTXpwMThrZ19PdlBuUHAxNTR0YjNnRGszUWtJSWFvbG9GX0ZwMDdOQ1V6cF80cG9lSFFHa0JtbXFVWllZQmNXUGNCSm9pbDhhdzBpNWVwS1FtSGxTMWxZVlYxSUh0VkFxZHBWYWxCUm5MWVhZeW5hb01ybzB2amZUNE5Udlo0YURRbUJZcnZQaG1JMk0zVnZ6ZHRheDJzVnQ3Um01TU5IWFhHeWRJVW9YUFFWZlpuU0pYLVhINWRva09DMjU0QmR4ckl2OTlnQVpHMnRMUEw4eVRZSVNMN0Q4V0IzRkM?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holidays This Week: SBI, HDFC, ICICI, PNB and other banks closed for four days from October 26 to November 1- Check full list here",
+      "source": "ET Now",
+      "published_utc": "2026-10-25T01:22:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQb0xvM1VTT2tIYVpPSmZfbDlENncwRXF4a3g5NXVsLTNfNGkxRVVWaHQzaC1lTjBaNVc1azRVUVJmYVRyWG5UZldBbWNPWW0xNWJnX3JQYlJza1ZXRGpCSDhiRklEV2xvaFpRX3RnaXQ3RFRLOWNEblVTcXNpUWgwN2VwcElta1llMU45X2hpZHE3TWdkQU9kMUdWVnVmby1JZjNqeC0yLW9kTEZiWjM2NzZrN1pHa0VveHNIOTN5RTZ2Q2dWaUVfUGF1WDlwU1paa2UtdHdOLUxCODF1TW1BeWNHc002dGVBT3pMTk1vTnNLaHJfa3dvampHdlZrLTh4VldSUlRybDk0SEkzaG40S0ZySjB2RXJfRm1j0gGgAkFVX3lxTE9hTktqUmFldXZHYW1GVG9paWN5U3R0Nmd1VG9IZ0F6U3cwRlRBRFU1WVJJSUstRUhHaE9DS0pQdmNMY29xUUdmcXE4b2VVRVVlSldMR3BHSXc1aGdVZV9PUkwyU083RlNTLVdyOG41QXFuRGxZeFNmOFVNaEpxT09qOFB2UjJoejRqSjdRM3NnNHc4eXdBYl9FRGpzQV9FVDgzUWY4U0JTTE1tU0hkQ2hQLWNMcE5Da3Bsbi1ldjVTbTNEdUxDVDJ1S1lEU2NZV082QjVJb0pXSkVXNkktbE1uOHZVNlp1YVVsTmdQZWRPczZ1WXRLTFY3bk1SeUh0dGpTa1hJM2J2eF9aZFp6THMwYl9PVDBnN1lZczhjdl9iXw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "JPMorgan raises ICICI Bank target to INR 1,800 for ICICI Bank stock",
+      "source": "ad-hoc-news.de",
+      "published_utc": "2026-10-24T23:53:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUkZVZTFLcXVPMWpiX2ZYMEQ3RncxMEZvU2szYkFrdnN0anBDTzM5ejBrSXBrcVh3VG5fV3h0VmRPUDRKdVJoNnB1Wm8xY1E1dTdzOWNWZ19tWU9NRkhjUWttMmVBaDl4RlBNcnpscG9TUjh3czBkSFBDb2RZMDBmbWVFbEZoTGxjX2h5N3lhbHlFWUNJUFFoQU9qM1lpVnd5MHpncDBoc3NKQ0lacVFzbzI5ZjAya2NFWFp3SDNjX1BTenN5?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Ahmedabad Senior Citizen Scam Drains \u20b93.38 Lakh Through APK Files",
+      "source": "Urban Acres",
+      "published_utc": "2026-10-24T16:35:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUhEa1hWVWRCY1dCclZ0eWkwQTB1U1hCVnRkSHFuWkZsQTJCUDdEYVZBeUJpdHNEdU9meXNxUkx4Q05TNEtqRWVjdV9BV2YtMEdCSUYyMjBWUkNhR243aG1nRUh4aFpTQTliR2NiQWM0UDBMb1FuVmw4RU5sd3JVMThSN3JpWWpPWjlFWlJHNVMzUjhDRndzTmJ4LTY?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Gold Loan Scam: Rs 23 Crore Fraud Uncovered as Fake Ornaments Found Across Nine Branches in Nagpur",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-24T15:57:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSmNCaGlVNWw0RDBTSm50V3QwbUQxRXNJSU82YnJRMWl3NFF4ZHJhZGNnSV9neGFsZ2FrNlU2YXpaMVJQTFE2VW93TlByaTkwMGJuMW1udkFHTHJDUzRtTXl5NnVkSE4zWTFxelYzZFYyVjU5MVdSdVRwSDViVG5uZFU1VDdmaEx4UGxHZVhodlIzZ3U4c0lPUld5OEVtX0o5LUwwYkxXSTNCeUJ6RHZQQ1hUVlNwWWRyWG9XWS1UTGlIQkFLV3VETmRLTk5SbXBaSXMyLXJCem5VbS1IUUE?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Punjab And Sind Bank, ICICI Bank, Ujjivan SFB, And Others Revise FD Rates, Up To 8.50 Per Cent For Seniors",
+      "source": "Outlook Money",
+      "published_utc": "2026-10-24T11:58:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbEtWMi1fRXJzMXd1VWdZZDNWLVdHeXFFTFJwM05CSnM3NkdhMzRXSDNidkFOQ1pQLUljWjJjMUxPd1JBTXZvRjZKVTE4ZGdDYWlhaHR3WjlNWWhJRmRoSVo5eFY5YUI4aWd6bVhYTF9vYkp1Q0h1SkVET3BqcUVlNElEWVhCZnNtRVNCRzBPUEJka0I1cFF1anp6TGdjYlNWRzN3NEhpMXFHcE9kdFRQLXM4M1Vfb0ZSMExyNXNRQTVkZHl2S1oyX2p1NVl1c0ZSaEhBMVdnMmHSAeYBQVVfeXFMT1ZWZTVKbVJNSzdBMmZsNEZSVncydnVfbW9Bd21vczNOb2FzTkNhYjAzanlnQXoycDVZYmNnd0FPUThlOUJGTmhYd0ZUdlVjaU5qVC1scDhJd09ZY0hXNVFEaEJGeXNVSWd0SG1pWHJvR29aSFNoYUMtRTB1b1k0V2l1aV9qN09tRFAyZVhpZGc4Y1V3Q2RhdEFycEJ3STZLeThjTktqMERmZ0pGMmFza19EUndiWHh2RlRBeXNndVB4VmQtZjZJVm0wWG5JX3dqUmdNMTBIRUp0dFp0bW5oMzQwbDNMSGc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Mumbai Police Book Five For Allegedly Defrauding ICICI Bank Of \u20b961.77 Lakh Through Shell Company",
+      "source": "Free Press Journal",
+      "published_utc": "2026-10-24T10:07:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMHg2V3lGZ0hOa3NRVk1fdk1EYzRWbURKZzFEQ0J2RUZwUXNNalR1YkRsUFJUNmJ0Q0N6SkxvdDk0T0toRXNkS3ktM0NfNklUYmVTVDNXN1RweGM1S0lYS1JPU2J5cHA2S0NjWkhlc201QlYwY2x1ZE5tdHNBLXY5WlYwcGVULWVxNWxnN00tRE16eVo0bG85MV8wSDVlRTdvTnRfRkk0V29HcF96WkVueGFNT1hLdnpPcm1fX0RzaEpoNXZNQTZfRk5UaHJUZ9IB0wFBVV95cUxPVElEeGFFSUZsNEtDcHFVd05FSUxKVG8wX19xS2pka2xQeXZkSUdBZmdoMGlfbENQajdUeVFwbmlac0prTWVfdU5EQTdfR19faXZsT2dvWmsxMHJpZEo4QkxNRUVyeG01Mmo1OFJWQVYtMktTYzdtRjlfY0VCWGNUeUstVTdmQ0Fadk1xMFlxc2NwNHhUZlhZLWdrQ3hoLWJPVDZqWUxzZHB3eEhUVE1lOGZpX0pWbVk1SjZTb0dTb2VuRjBFaUJtRkJNVnVYTEphZGM4?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Amazon Pay ICICI Bank Credit Card: No joining fee, no annual charges \u2014 Cashback, Prime benefits and rewards on orders",
+      "source": "Livemint",
+      "published_utc": "2026-10-24T09:26:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNN19zRUswUmw4UVNnVE43dzF2d25mTGpKOE9ueWVpOTQ4aExub1VzaDJyREU2YWxrYmVxdjlQNlA1UUxTc3NLcndBeGxpWjlUVlI2SEl6WG9lSEV1V1dVOVp1ckVFYU4zRzhQZFZRVHJScEFUNmlDRWtXbFMzSVlPZnBGeF82eHVCcGlpSWJCMVZKU3phYnVUVG0xazNBcmdNc1NlSnVFYllVRGhTdGh5UE1GZFZ3cXNIM0xqVUtpQ2xlbmFBRlNEUGxjYzZ1ZDJ1cThwa1gtRG1YVGFpWUVGVlFqc2J3NXlDbjdkSjB1UXhjZlhLU1lsWEoxX1UyWjRoNHlIZzZwX2xGeVlm0gGSAkFVX3lxTE9HOXhzQnJLbEg2aFhjSlNGeFgxQ2xjTlVKeHp5Y01yQ3pxRm9XU2doV3NOdGJHRXl0SnJyeUk5aXloZEpIZEctOXpHWkpBRTR6SUo2STZNRGlWVnZvb2RnZ2JjWHhBTU9kOWcxdHFPQ25GaFhrblhCMEUwWVZCRVFrOEtoNlVMZWxWbW4wU0hsTmk0R01uR2VRZzRaRUJaRGc1WXNubjVyWlV2OU5MNGo5aDMxX0taX0MwNDdMcjhic3g3b2tiaWlVcGN3V01UR0NzaThabHJCRGhNaGtuVk12aWVpbHZTcjkxdFZYMk1vMlR4Q0pCemE3NUIwTjA3dTJUY0cwcUx2Tndtel9DbVB4VFE?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICRA and CARE Reaffirm ICICI Bank\u2019s Highest Credit Ratings",
+      "source": "PSU Connect",
+      "published_utc": "2026-10-24T08:44:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbERiTDc2SngtV1FoRnJnWGtINzJhVFc0ODJrZjl2bjNCNmtqOVlkNVdoQnZxNlRxSUtiNVo0ZlR4QS10LVZuSXZPSG9fVGpKMjZOUU9GUl9Mek5oQUxuSnhJTWVWVWNiZHpVMHlSWlVzY3hQbGtBY3IzdTlMRmJKc201WDhIczY5aExsNzJrSzB0SS1uVHRkNA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Credit Rating Reaffirmed by ICRA and CARE 2026",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-24T08:16:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTkk4elJDZGVETWN2a2JNRm9pUWJCYS1ia2VPQnZERnIxZ3hkR3cyZV9iWkFRcE40UmFUaU9Oc3ZkaERySEJGcnFjRmRCRkdqLWlhSzNzVjVsdk9mNnpzRlNqOWQ1bXctbXJQTWhsdjhmaXdJaVNuWFRGUlg2bC14c0pTUGRKekFIZHRKN0V4UG5oS1NvWk9VanNKMkVOZmZmaDBodVZfWm56WWVSYVFRSmVyS1R4TXpxX1pfQ3h3?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank (NSE:ICICIBANK) Credit Ratings Reaffirmed by ICRA and CARE with Stable Outlooks",
+      "source": "Kalkine Media",
+      "published_utc": "2026-10-24T08:16:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd2NDUzZDMURnM1MtWEdSNVduVVlOaDNPMTFmWXh1VTJsckhxN0ZVUUNRMktkX04tTEdXUm92VWRXN3BlS3JmWFNzNlotZG5xMWJOdmNXUGJVNWRmbXl0dk9pMnU2Q3p4RkItdkdPTGZrSDNLYXE2eTljMXFmaDVqalpVUDFsaFlTZFVqdGF5RlRvX1BTd3k4d1czZUZOc1RnalFnaUZZN09RSEdMZmJrTkdBQTQzcEpUSlNhdVRsaHYtR3U0c2k5aWZ1aDNaeTA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank: Credit Ratings Reaffirmed by ICRA and CARE Ratings",
+      "source": "InvestyWise",
+      "published_utc": "2026-10-24T08:10:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6SXVrS2RkZ044SXYxOU9JWlp2LW56dWhDTzU2RFdUMXpHNGkwWFcxNFZ4Z2IwT21OakZtZXlGWVRTZzJyWm1vVU04bjBpeFRBTGJhbmtMbnpGSXFRWmxBV2d0cHowU0R4S1BLcDFNVVowNWxobmc?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.507,
+    "strength": 1.0,
+    "material_count": 9,
+    "view": 0.507
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-26T17:00:49.963619+00:00"
+}
