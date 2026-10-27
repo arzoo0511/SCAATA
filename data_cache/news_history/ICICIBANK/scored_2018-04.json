@@ -1,0 +1,785 @@
+[
+ {
+  "title": "CBI probing Videocon, husband of ICICI Bank CEO, in loan case - sources",
+  "source": "Reuters",
+  "published_utc": "2018-04-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Venugopal Dhoot denies dealings with Deepak Kochhar beyond initial investment",
+  "source": "The Statesman",
+  "published_utc": "2018-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Analysts remain positive ICICI Bank shares despite slew of bad news",
+  "source": "Livemint",
+  "published_utc": "2018-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI's Rs 3,250 cr loan to Videocon: Four important questions in the Dhoot-Kochhar matter",
+  "source": "Firstpost",
+  "published_utc": "2018-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's board to meet today",
+  "source": "India.com",
+  "published_utc": "2018-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank stock slumps 7%; mcap drops Rs 11,353 cr",
+  "source": "India.com",
+  "published_utc": "2018-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Board to meet today",
+  "source": "India.com",
+  "published_utc": "2018-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI shares dip amidst Videocon loan row",
+  "source": "India.com",
+  "published_utc": "2018-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is Deepak Kochhar - the link between ICICI Bank and Videocon?",
+  "source": "Zee Business",
+  "published_utc": "2018-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Managing Director And CEO Chanda Kochhar Pulls Out Of President Ram Nath Kovind's Event",
+  "source": "NDTV",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI probed ICICI Bank\u2019s loan to Videocon in 2016",
+  "source": "The Hindu",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank chief Chanda Kochhar pulls out of President's event",
+  "source": "The Times of India",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan case: ICICI Bank sanctioned Rs 650 cr loan against Dhoot\u2019s group company that had a turnover of just Rs 75 cr",
+  "source": "Firstpost",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deepak Kochhar gets I-T notice in Videocon loan case",
+  "source": "Livemint",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar & Shikha Sharma: Two bank bosses in the eye of the storm",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar pulls out of President's event",
+  "source": "India.com",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan case: I-T dept issues notice to ICICI CEO Chanda Kochhar's husband Deepak Kochhar",
+  "source": "DNA India",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brookfield in final stages of talks to acquire ICICI Tower in Hyderabad",
+  "source": "Livemint",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank reviews credit approval process, expresses full faith in Kochhar",
+  "source": "Business Standard",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar's conflict of interest? ICICI-Videocon controversy explained",
+  "source": "Business Standard",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon case: Deepak Kochhar denies quid pro quo; Dhoot says wasn't part of NuPower JV",
+  "source": "Business Today",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Curious coincidence: The Chanda Kochhar and Shikha Sharma story",
+  "source": "Fortune India",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "More trouble for ICICI Bank as it risks class action suit in US",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brookfield Said in Final Talks on Buying $185M India Office Block",
+  "source": "Mingtiandi",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI board backed Chanda Kochhar after chairman's evaluation, not third party",
+  "source": "Business Today",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brookfield eyes ICICI Tower; Blackstone invests in Salarpuria Sattva projects",
+  "source": "Entrepreneur India",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Disclose majority shareholder's real identity: Whistleblower Arvind Gupta to NuPower",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deepak Kochhar's NuPower weighs sale of its wind power plants",
+  "source": "Livemint",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NuPower Renewables is in news for all the wrong reasons",
+  "source": "Livemint",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dubai Islamic Bank Launches \u201cDIB Express Transfer\u201d an Instant Remittance Solution to India",
+  "source": "Global Brands Magazine",
+  "published_utc": "2018-04-04T17:31:41+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank reimagines banking for the digital world",
+  "source": "Express Computer",
+  "published_utc": "2018-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank risks class action suit in US",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank up nearly 4 pc",
+  "source": "India.com",
+  "published_utc": "2018-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank chairman backs Chanda Kochhar again, questions timing of charges",
+  "source": "mint",
+  "published_utc": "2018-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon paid ICICI Bank dues worth Rs 10 bn till December last year",
+  "source": "Business Standard",
+  "published_utc": "2018-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar's brother-in-law detained at Mumbai airport, being quizzed by CBI",
+  "source": "India.com",
+  "published_utc": "2018-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank-Videocon loan case: Things to know about Rajiv Kochhar",
+  "source": "Business Standard",
+  "published_utc": "2018-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Should I sit at home because my wife is ICICI Bank CEO, says Deepak Kochhar",
+  "source": "Business Today",
+  "published_utc": "2018-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank becomes first to enable SWIFT's cross-border payment service",
+  "source": "Business Standard",
+  "published_utc": "2018-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI questions ICICI Bank MD's brother-in-law Rajiv Kochhar",
+  "source": "India.com",
+  "published_utc": "2018-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI delays bonuses of top private bankers amid reports of frauds",
+  "source": "ThePrint",
+  "published_utc": "2018-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan case: CBI questions Rajiv Kochhar for 9 hours",
+  "source": "The Indian Express",
+  "published_utc": "2018-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rajiv Kochhar's Avista Corporate Finance posted loss twice in last 4 years",
+  "source": "Livemint",
+  "published_utc": "2018-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon deal puts Kochhar family in centre of probe",
+  "source": "India Today",
+  "published_utc": "2018-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon row: CBI summons Rajeev Kochhar's brother-in-law",
+  "source": "India.com",
+  "published_utc": "2018-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fitch questions strength of corporate governance at ICICI Bank",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Merrill Lynch buys ICICI Bank shares worth Rs 823 cr",
+  "source": "India.com",
+  "published_utc": "2018-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A Mis-Step Or Two Cannot Make Chanda Kochhar Or Shikha Sharma Bad CEOs",
+  "source": "Swarajya",
+  "published_utc": "2018-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is Modi Govt throwing Chanda Kochhar to the wolves?",
+  "source": "National Herald",
+  "published_utc": "2018-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI board is said to be divided over CEO Kochhar's future",
+  "source": "The Peninsula Qatar",
+  "published_utc": "2018-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shares of ICICI Bank, SBI, PNB, BoB, RCom, ITC, Wipro, Indiabulls Housing, DHFL, Adani Ports in focus today",
+  "source": "The Financial Express",
+  "published_utc": "2018-04-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deepak Kochhar, the man in the muddle",
+  "source": "Rediff",
+  "published_utc": "2018-04-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All eyes on boards of ICICI Bank and Axis Bank",
+  "source": "Livemint",
+  "published_utc": "2018-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar's good and bad times at ICICI Bank as its MD & CEO",
+  "source": "Business Standard",
+  "published_utc": "2018-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "It's For RBI to Decide on Kochhar's Term at ICICI Bank: Finmin Sources",
+  "source": "India.com",
+  "published_utc": "2018-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar, family had links with Videocon group since at least 2001",
+  "source": "Livemint",
+  "published_utc": "2018-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI, Axis troubles highlight governance issues in Indian banks: S&P",
+  "source": "India.com",
+  "published_utc": "2018-04-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI loan enquiry: IT sends second notice; CBI questions 2 executives",
+  "source": "India.com",
+  "published_utc": "2018-04-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan case: IT issues second notice to Deepak Kochhar",
+  "source": "India.com",
+  "published_utc": "2018-04-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Indian private banks are owned by foreigners",
+  "source": "The Indian Express",
+  "published_utc": "2018-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank board plans more public disclosures to allay shareholders\u2019 concerns | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2018-04-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks board bureau new member was with Rajiv Kochhar firm till days ago",
+  "source": "The Indian Express",
+  "published_utc": "2018-04-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank unions say time is ripe for nationalisation of private sector banks",
+  "source": "Business Standard",
+  "published_utc": "2018-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two more questioned in ICICI Bank's role in Videocon loan",
+  "source": "DNA India",
+  "published_utc": "2018-04-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Life open to acquisition",
+  "source": "The Asian Age",
+  "published_utc": "2018-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank promotes blockchain in banking, on-boards 250+ corporates on its platform",
+  "source": "India.com",
+  "published_utc": "2018-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank takes on-board over 250 corporates on its blockchain platform",
+  "source": "Zee Business",
+  "published_utc": "2018-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Well-wishers' paid off dues of Credential Finance before Chanda Kochhar became ICICI Bank CEO",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank loan case: CBI questions CFO of NuPower Renewables",
+  "source": "India.com",
+  "published_utc": "2018-04-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's banking system requires a stronger watchdog",
+  "source": "Livemint",
+  "published_utc": "2018-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "18,000 JPMiles for 5,000 Rupees!",
+  "source": "Live From A Lounge",
+  "published_utc": "2018-04-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches digital form for opening current accounts",
+  "source": "India.com",
+  "published_utc": "2018-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi may seek forensic probe of ICICI Bank books, disclosures",
+  "source": "India.com",
+  "published_utc": "2018-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank has new app for current account opening",
+  "source": "Banking Frontiers",
+  "published_utc": "2018-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan case: ICICI Bank under scanner over non-disclosure in NuPower deal",
+  "source": "Business Today",
+  "published_utc": "2018-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank may face probe over non-disclosures in NuPower deal",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aadhaar enabled transactions through micro ATM touches 13.7 Mn with over 2X growth",
+  "source": "Entrackr",
+  "published_utc": "2018-04-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to keep home finance as standalone arm, drops plan to sell stake",
+  "source": "Business Standard",
+  "published_utc": "2018-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Pru Life net declines 17pc to Rs 340cr in Mar qtr",
+  "source": "India.com",
+  "published_utc": "2018-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI drops sale of home loan arm, to reposition business",
+  "source": "The Times of India",
+  "published_utc": "2018-04-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to retain housing arm",
+  "source": "Banking Frontiers",
+  "published_utc": "2018-04-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan case: I-T dept issues fresh notice to Deepak Kochhar",
+  "source": "India.com",
+  "published_utc": "2018-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank loan row: Deepak Kochhar's NuPower Renewables received investments from Ravi Ruia's son-in-law's firm",
+  "source": "Firstpost",
+  "published_utc": "2018-04-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank\u2019s losses and CEO Shikha Sharma\u2019s fall from grace: The buck always stops with those at the helm",
+  "source": "Firstpost",
+  "published_utc": "2018-04-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank chief Chanda Kochhar makes first public appearance after Videocon loan row",
+  "source": "DNA India",
+  "published_utc": "2018-04-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IT Dept sends second notice to Deepak Kochhar",
+  "source": "India.com",
+  "published_utc": "2018-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After becoming No. 3 behind HDFC Bank, ICICI Bank, Bandhan Bank to end aggressive expansion",
+  "source": "Zee Business",
+  "published_utc": "2018-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

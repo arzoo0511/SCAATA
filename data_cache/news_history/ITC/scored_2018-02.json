@@ -1,0 +1,56 @@
+[
+ {
+  "title": "ITC Ltd daily share prices go down to Rs 275.15 on NSE",
+  "source": "The Times of India",
+  "published_utc": "2018-02-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GroupM to acquire Indian digital creative agency The Glitch",
+  "source": "Livemint",
+  "published_utc": "2018-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BSE Sensex Rises 196 Points, Nifty Reclaims 10,600-mark",
+  "source": "India.com",
+  "published_utc": "2018-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Do companies walk the talk on investing in communities?",
+  "source": "Livemint",
+  "published_utc": "2018-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ajay Kapoor, CFO, Tata Power Delhi Distribution Limited - The CFO Wall",
+  "source": "cfo.economictimes.indiatimes.com",
+  "published_utc": "2018-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nestle India goes hyperlocal in bid to expand reach",
+  "source": "Livemint",
+  "published_utc": "2018-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

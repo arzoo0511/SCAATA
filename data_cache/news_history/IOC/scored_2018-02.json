@@ -1,0 +1,272 @@
+[
+ {
+  "title": "Indian Oil to invest Rs3,400 crore in Assam to augment operations",
+  "source": "Livemint",
+  "published_utc": "2018-02-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "1500 km pipeline in Assam to supply gas to North Eastern states",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-02-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC Is Said to Plan $4.8 Billion Indian Oil, GAIL Stake Sale",
+  "source": "Bloomberg.com",
+  "published_utc": "2018-02-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC-led group gets stake in ADNOC offshore oil concession",
+  "source": "Reuters",
+  "published_utc": "2018-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Creating Capacity: Refining segment gears up for significant expansion",
+  "source": "Indian Infrastructure Magazine",
+  "published_utc": "2018-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC, partners acquire 10% stake in Abu Dhabi oilfield for $600 million",
+  "source": "The Times of India",
+  "published_utc": "2018-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Modi meets Crown Prince of Abu Dhabi; India, UAE sign 5 pacts",
+  "source": "The Times of India",
+  "published_utc": "2018-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi's UAE visit: In a first, India buys 10% stake in Abu Dhabi oil fields",
+  "source": "Business Standard",
+  "published_utc": "2018-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC acquires 10 per cent stake in UAE's Zakum oilfield",
+  "source": "GK Today",
+  "published_utc": "2018-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran, India to discuss development of Farzad B gas field this week",
+  "source": "Tehran Times",
+  "published_utc": "2018-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UAE\u2019s ADNOC awards $340.3m contract for Haliba field joint venture",
+  "source": "Gulf Business",
+  "published_utc": "2018-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OVL to hold 4 per cent; IOC, BPRL 3 per cent each in Abu Dhabi oilfield",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "B V Rama Gopal takes over as Director (Refineries) at Indian Oil Corp",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bulk LPG tankers on strike, supply likely to be hit",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital India: Flipkart-owned PhonePe ties up with Indian Oil to deploy PoS devices",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-02-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil partners with PhonePe to deploy PoS devices at IOCL retail outlets",
+  "source": "The News Minute",
+  "published_utc": "2018-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp to invest Rs 7 billion to expand refining capacity by 2030",
+  "source": "Business Standard",
+  "published_utc": "2018-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": ".NewDelhi DCM42 BIZ-IOC-APPT Ranjan Kumar Mohapatra takes over as Director (HR), IOC",
+  "source": "India.com",
+  "published_utc": "2018-02-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ranjan Kumar Mohapatra Takes Over As Director (HR) At IndianOil",
+  "source": "Sarkaritel.com",
+  "published_utc": "2018-02-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Borkhedi near Nagpur to have Rs 500 cr petroleum terminal by 2020",
+  "source": "Nagpur Today",
+  "published_utc": "2018-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "R K Mohapatra takes over as Director (HR) at IndianOil Corp",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-02-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ranjan Kumar Mohapatra is director HR at Indian Oil Corporation",
+  "source": "HR Katha",
+  "published_utc": "2018-02-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC claim Billiards Team title",
+  "source": "Pune Mirror",
+  "published_utc": "2018-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Construction of petro pipeline likely from Parwanipur-Pathlaiya",
+  "source": "The Himalayan Times",
+  "published_utc": "2018-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A well-oiled move",
+  "source": "Governance Now",
+  "published_utc": "2018-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco looking to buy stake in existing Indian oil refineries",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oxigen enhances footprint with IOCL's Fuel Station Network",
+  "source": "India.com",
+  "published_utc": "2018-02-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stepping on the gas: Indo-Russian energy cooperation",
+  "source": "orfonline.org",
+  "published_utc": "2018-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pidilite Industries Rs 500 crore buyback opens on March 1",
+  "source": "The Financial Express",
+  "published_utc": "2018-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chandigarh diary: Funds shortage, Bus fare hike, runway upgrade",
+  "source": "The New Indian Express",
+  "published_utc": "2018-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,119 @@
+[
+ {
+  "title": "How ITC e-Choupal Connects Corporate Giants, Farmers & Consumers",
+  "source": "The Better India",
+  "published_utc": "2018-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty 50 Companies",
+  "source": "Samco",
+  "published_utc": "2018-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Westin Kolkata Rajarhat announces new appointments",
+  "source": "India.com",
+  "published_utc": "2018-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court sets aside order cancelling larger tobacco health warnings in India",
+  "source": "Reuters",
+  "published_utc": "2018-01-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Danone to shut down its dairy business in India",
+  "source": "Livemint",
+  "published_utc": "2018-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC rolling out new campaign on triple bottomline strategy",
+  "source": "The Economic Times",
+  "published_utc": "2018-01-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC hikes Navy Cut price",
+  "source": "BusinessLine",
+  "published_utc": "2018-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Uniphore: Talking the talk",
+  "source": "Forbes India",
+  "published_utc": "2018-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India looks for more private capital in farms to boost incomes",
+  "source": "Livemint",
+  "published_utc": "2018-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Q3 Results: ITC\u2019s Profit Rises For The Eighth Straight Quarter",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u201cITC-e-Choupal\u201d-Connecting Farmers, corporate & customers",
+  "source": "Krishi Jagran",
+  "published_utc": "2018-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive - With Roman law doctrine, India moves to stub out tobacco industry rights",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2018-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "With Roman Law Doctrine, India Moves to Stub out Tobacco Industry Rights",
+  "source": "The Wire Science",
+  "published_utc": "2018-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

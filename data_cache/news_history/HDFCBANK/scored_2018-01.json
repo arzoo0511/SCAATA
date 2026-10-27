@@ -1,0 +1,578 @@
+[
+ {
+  "title": "IndusInd Bank raises $500 million from overseas lenders",
+  "source": "Livemint",
+  "published_utc": "2018-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rajya Sabha Chairman M Venkaiah Naidu asks MPs not to talk during obituary references",
+  "source": "The Financial Express",
+  "published_utc": "2018-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Markets end flat, earnings season eyed",
+  "source": "DT Next",
+  "published_utc": "2018-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIFL Upgrades Axis Bank On Fund Raising Plans",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SIT Probe Into Bribery Allegations: CJAR Files Review Petition Against Dismissal Of Earlier Plea",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JSPL To Pass On Higher Input Costs To Customers",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bajaj Vs Bajaj: The Tale Of Two Brothers",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI to cut minimum balance requirement",
+  "source": "The Times of India",
+  "published_utc": "2018-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fintech start-up Wishfin looks to raise up to $50 million",
+  "source": "Livemint",
+  "published_utc": "2018-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GDP Data: Second Half Of FY18 Could Lift Growth Out Of Gloom",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bengaluru's Rs 1500 cr real estate scam: CID freezes account of Dreamz Infra accused",
+  "source": "The News Minute",
+  "published_utc": "2018-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3 Top Indian Stocks to Buy to Profit From the World's Fastest-Growing Economy",
+  "source": "The Motley Fool",
+  "published_utc": "2018-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Car loan business of banks is in top gear, sees annual 18-20% rise",
+  "source": "Business Standard",
+  "published_utc": "2018-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI appoints Dilip Asbe as MD & CEO ahead of UPI 2.0 launch",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Sons Vs Mistry Battle Continues At NCLT",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to set up SmartUp Zones across country",
+  "source": "BusinessLine",
+  "published_utc": "2018-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After five months without a Chief, NPCI elevates Dilip Asbe as MD & CEO",
+  "source": "Entrackr",
+  "published_utc": "2018-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Double the Bank",
+  "source": "Business Today",
+  "published_utc": "2018-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CPRL to reopen 84 McDonald's outlets in east India this week",
+  "source": "Livemint",
+  "published_utc": "2018-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Satyam Case: Price Waterhouse \u2018Confident\u2019 Of Getting Stay On SEBI Order",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UIDAI Allows Airtel Aadhaar-Based Verification till March 31",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nation celebrates Swami Vivekananda Jayanti today",
+  "source": "Rediff",
+  "published_utc": "2018-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC to raise up to Rs 13,000 crore via Qualified Institutions Placement, preference shares",
+  "source": "The New Indian Express",
+  "published_utc": "2018-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best Airport Lounges in India you can access with your Credit Card",
+  "source": "Live From A Lounge",
+  "published_utc": "2018-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explaining the cryptic HDFC Regalia Lounge Access SMS",
+  "source": "Live From A Lounge",
+  "published_utc": "2018-01-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock pick of the week: Why analysts are positive about Punjab National Bank",
+  "source": "The Economic Times",
+  "published_utc": "2018-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brands celebrate Makar Sankranti with colourful messages",
+  "source": "Social Samosa",
+  "published_utc": "2018-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Responding To Flipkart\u2019s Apple Week, Amazon India To Kickstart Great Indian Sale This Week",
+  "source": "Inc42",
+  "published_utc": "2018-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gujarat: Six Indian and four foreign banks to set shop in GIFT City",
+  "source": "The Economic Times",
+  "published_utc": "2018-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Baba Ramdev's Patanjali goes online, ties with Amazon, Flipkart and 6 others",
+  "source": "Livemint",
+  "published_utc": "2018-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex- Jan 18, 2018",
+  "source": "The Hindu",
+  "published_utc": "2018-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI arrests resort owner in Hyderabad",
+  "source": "Business Standard",
+  "published_utc": "2018-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Huawei's Honor 9 Lite: All you need to know about the smartphone",
+  "source": "Livemint",
+  "published_utc": "2018-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank becomes first Indian bank to cross Rs5 trillion market cap",
+  "source": "Livemint",
+  "published_utc": "2018-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank posts record third-quarter profit on steady asset quality | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2018-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Not A Whisper Till 2016\u2019, Tata Sons Raises Delayed Claims By Mistry Firms",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Telecom Regulator Recommends Allowing Mobile Services, Wi-Fi On Flights",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "News in Numbers: Govt plans to increase public health spending by 11% in Union budget",
+  "source": "Livemint",
+  "published_utc": "2018-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis and HDFC reopen in Mokokchung",
+  "source": "Eastern Mirror Nagaland",
+  "published_utc": "2018-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sanofi recalls four batches of painkiller \u2018Combiflam\u2019 in India",
+  "source": "BusinessLine",
+  "published_utc": "2018-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TCS partners 4 colleges for creating Big Data talent",
+  "source": "BusinessLine",
+  "published_utc": "2018-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chiranjeevi, Nagarjuna to co-own Sachin\u2019s Kerala Blasters",
+  "source": "BusinessLine",
+  "published_utc": "2018-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018My name is Raghuram Rajan and I do what I do\u2019",
+  "source": "BusinessLine",
+  "published_utc": "2018-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Are you rich or poor? It all depends on how you 'feel' in comparison with others",
+  "source": "The Economic Times",
+  "published_utc": "2018-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mahindra and Mahindra launches a new version of its KUV100",
+  "source": "The Economic Times",
+  "published_utc": "2018-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone X Available With Rs. 12,000 Cashback in India on HDFC Bank EMI Transactions",
+  "source": "Gadgets 360",
+  "published_utc": "2018-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Davos WEF 2018: SBI Will Use The Entire Rs 8,800 Crore Recap To Fund Growth",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Made earnings from Bitcoin? Pay 20 percent advance tax!",
+  "source": "Entrackr",
+  "published_utc": "2018-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "West Bengal govt to take over Mother Dairy project in Bengal; rebrand it Bengal Dairy",
+  "source": "BusinessLine",
+  "published_utc": "2018-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Come Together: Displays To Mark 50 Years Of Beatles In India",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chinese electric bus makers look to set up operations in India",
+  "source": "Livemint",
+  "published_utc": "2018-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two minor grandsons of S.K. Bangur seek partition of assets",
+  "source": "Livemint",
+  "published_utc": "2018-01-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RCB buy England's Woakes for Rs. 7.4 crore",
+  "source": "Rediff",
+  "published_utc": "2018-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Give us rights of Padmaavat, will pay for its production: Karni Sena",
+  "source": "Rediff",
+  "published_utc": "2018-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Value your funds",
+  "source": "Value Research",
+  "published_utc": "2018-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Direct launches WhatsApp-based virtual assistant",
+  "source": "MediaNama",
+  "published_utc": "2018-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ranjan Kapur: The man who made Ogilvy India's top agency,no more",
+  "source": "The Economic Times",
+  "published_utc": "2018-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC shares up over 3 pc after Q3 earnings",
+  "source": "India.com",
+  "published_utc": "2018-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Q3 net profit jumps over two-fold at Rs 6,677 cr",
+  "source": "India.com",
+  "published_utc": "2018-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Rating Upgrade Reflects Growth Story, Says NITI Aayog",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "AI takes cyber security to a new level for HDFC Bank",
+  "source": "Express Computer",
+  "published_utc": "2018-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CureFit gets $10M in debt financing",
+  "source": "Entrepreneur India",
+  "published_utc": "2018-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JP Morgan Chase & Co launches in Kenya",
+  "source": "Financial Afrik",
+  "published_utc": "2018-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Power Q3 Profit Rises On Reduction In Finance, Depreciation Cost",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

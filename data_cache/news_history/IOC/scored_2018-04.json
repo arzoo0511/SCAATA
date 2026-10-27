@@ -1,0 +1,335 @@
+[
+ {
+  "title": "World class tourist facilities at Konark Sun temple dedicated to nation",
+  "source": "The New Indian Express",
+  "published_utc": "2018-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price hits 4-yr high, diesel at highest level",
+  "source": "ET Auto",
+  "published_utc": "2018-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil refiners are investing Rs 30,000 crore for upgrading to BS VI technology: SSV Ramakumar, IOC",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price at four year high, diesel hits all time high on global cues",
+  "source": "The Indian Express",
+  "published_utc": "2018-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bamboo to ethanol, India's biofuel industry to explode into a $15 bn market",
+  "source": "Business Standard",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol at Rs 73.95 in Delhi, highest since Sept 2013; Rs 81.80 in Mumbai",
+  "source": "Business Standard",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC acquires Shell's 17 pc Oman oilfield",
+  "source": "India.com",
+  "published_utc": "2018-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC acquires Shell\u2019s entire stake in Oman oilfield for $329 million",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shell sells Mukhaizna stake to Indian firm",
+  "source": "Oman Observer",
+  "published_utc": "2018-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil acquires 17% stake in Oman's Mukhaizna oil field",
+  "source": "Menafn",
+  "published_utc": "2018-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil and Gas Consortium Receives Israeli Drilling License",
+  "source": "CTech",
+  "published_utc": "2018-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil acquires 17% stake in Omani oil field",
+  "source": "Arabian Business",
+  "published_utc": "2018-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco and Indian consortium \u201cRRPCL\u201d sign MoU to develop Ratnagiri mega refinery and petrochemicals complex on India\u2019s west coast",
+  "source": "Aramco",
+  "published_utc": "2018-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Harvest festival at Kerala's Thottara Puncha",
+  "source": "The New Indian Express",
+  "published_utc": "2018-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco signs $44bn deal to build giant oil refinery in India",
+  "source": "Arabian Business",
+  "published_utc": "2018-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco penetrates Indian oil market",
+  "source": "internationalfinance.com",
+  "published_utc": "2018-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco enters agreement to build mega refinery in India",
+  "source": "The New Economy",
+  "published_utc": "2018-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pre-feasibility study for Saudi Aramco\u2019s $44bn Indian refinery complete",
+  "source": "Construction Week Online",
+  "published_utc": "2018-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nanar refinery: Shiv Sena's Uddhav Thackeray calls Fadnavis 'spineless traitor'",
+  "source": "The Week",
+  "published_utc": "2018-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani ports inks pact with IOC for LNG regasification at Dhamra",
+  "source": "India.com",
+  "published_utc": "2018-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Locking system to be fitted on more tankers",
+  "source": "The Kathmandu Post",
+  "published_utc": "2018-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cases of oil theft on rise in eastern Nepal",
+  "source": "The Kathmandu Post",
+  "published_utc": "2018-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CPCL crude oil pipeline nearing completion",
+  "source": "The Hindu",
+  "published_utc": "2018-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to organise 'LPG Panchayats' in Assam",
+  "source": "India.com",
+  "published_utc": "2018-04-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol Price In Delhi At Rs 74.08, Rs 81.93 In Mumbai, Highest In 5 Years",
+  "source": "NDTV",
+  "published_utc": "2018-04-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol prices touch nearly five-year high: Rs 74.08 per litre in Delhi, Rs 81.94 per litre in Mumbai",
+  "source": "The Indian Express",
+  "published_utc": "2018-04-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran oil imports fell 15.7 percent in fiscal year 2017/18",
+  "source": "Reuters",
+  "published_utc": "2018-04-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Smugglers using Chennai Port to bring in diesel from Dubai: Directorate of Revenue Intelligence",
+  "source": "The New Indian Express",
+  "published_utc": "2018-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel price at all-time high, petrol costliest since September 2013",
+  "source": "Livemint",
+  "published_utc": "2018-04-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices hit new high since Sept 2013: Check out rates in your city",
+  "source": "DNA India",
+  "published_utc": "2018-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": -1.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Panchayati Raj Day 2018: Prime Minister Narendra Modi to Launch Gramin Swaraj Abhiyan",
+  "source": "LatestLY",
+  "published_utc": "2018-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India will network with Asia's major oil buyers to bargain with sellers - Pradhan",
+  "source": "Reuters",
+  "published_utc": "2018-04-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil board approves Rs4,221 crore project at Paradip in Odisha",
+  "source": "Livemint",
+  "published_utc": "2018-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why India's Fuel Prices Are Sky-High When Oil Isn't",
+  "source": "Bloomberg.com",
+  "published_utc": "2018-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India-Iran Relations: Beyond Strategic Optics",
+  "source": "South Asian Voices",
+  "published_utc": "2018-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "City boys make a mark in civil services exam",
+  "source": "The Times of India",
+  "published_utc": "2018-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Largest Commercial Enterprise of India Signs Letter of Intent with ISKCON Food Relief Foundation, Haryana",
+  "source": "ISKCON News",
+  "published_utc": "2018-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

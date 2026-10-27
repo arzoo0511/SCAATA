@@ -1,0 +1,29 @@
+[
+ {
+  "title": "Kochi: Nearly 900 people benefit from \u2018Numma Oonu\u2019 scheme aimed at eradicating hunger",
+  "source": "The Indian Express",
+  "published_utc": "2018-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Ltd. donates mortuary van to PBMC",
+  "source": "Andaman & Nicobar Administration",
+  "published_utc": "2018-03-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mahanagar Gas, Sanwariya Gas to open liquefied CNG pumps",
+  "source": "Livemint",
+  "published_utc": "2018-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

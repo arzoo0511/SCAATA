@@ -1,0 +1,335 @@
+[
+ {
+  "title": "Indian Oil tops 7 Indian firms on Fortune 500 list, RIL jumps 53 places",
+  "source": "The Times of India",
+  "published_utc": "2018-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Taiwanese company proposes $6.6 billion petrochemical investment in Odisha",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fortnight celebration of Swachhta Pakhwada across the country by Ministry of Petroleum & Natural Gas",
+  "source": "AffairsCloud",
+  "published_utc": "2018-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Honeywell to help Indian Oil Corp produce BS VI fuels before end-2019",
+  "source": "Autocar Professional",
+  "published_utc": "2018-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani emerges biggest winner of city gas licences",
+  "source": "ET Auto",
+  "published_utc": "2018-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest Rs 1.75 lakh crore for expansion: Chairman Sanjiv Singh",
+  "source": "Entrepreneur India",
+  "published_utc": "2018-08-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vroom goes coastal rally",
+  "source": "Telegraph India",
+  "published_utc": "2018-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sudan settles dispute with Indian oil company over unpaid dues: minister",
+  "source": "Sudan Tribune",
+  "published_utc": "2018-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance seeks petcoke from Indian Oil, HPCL, BPCL for\u200a$5\u200abillion gasifiers",
+  "source": "Livemint",
+  "published_utc": "2018-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil PSUs ONGC, IOC and others made to pay for Rs 3000 crore Sardar Patel statue",
+  "source": "Business Today",
+  "published_utc": "2018-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndiGo aims to increase revenue from ancillary services",
+  "source": "Livemint",
+  "published_utc": "2018-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gautam Adani's group bags licences to retail gas in 21 cities' BPCL, Torrent Gas other big winners",
+  "source": "Zee Business",
+  "published_utc": "2018-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Profit Jumps 50% In The First Quarter Of Fiscal Year",
+  "source": "Equitypandit",
+  "published_utc": "2018-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil firms accused of subverting reservation policy in Kerala petrol pumps",
+  "source": "The New Indian Express",
+  "published_utc": "2018-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC says will invest Rs 20,000 crore in city gas projects in 5-8 years",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A K Singh takes charge as Director-Pipelines at Indian Oil Corporation",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cashless Payment For Fuel To Be Common Soon \u2014 Indian Oil Starts Fingerprint Payment In Bhopal",
+  "source": "DriveSpark",
+  "published_utc": "2018-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco, ADNOC cannot export Ratnagiri refinery fuel without consent",
+  "source": "Livemint",
+  "published_utc": "2018-08-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The legacy of Atal Bihari Vajpayee: 12 key reforms the former PM rolled out",
+  "source": "Business Today",
+  "published_utc": "2018-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Atal Bihari Vajpayee : The orator leader\u2019s call that changed Odisha politics",
+  "source": "The New Indian Express",
+  "published_utc": "2018-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC repays a third of loan taken to buy HPCL",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil company says won\u2019t withdraw arbitration claim against Sudan",
+  "source": "Sudan Tribune",
+  "published_utc": "2018-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "I Tried This 5,000-Year-Old Indian Healing Treatment \u2014 & I've Never Felt More Relaxed",
+  "source": "Refinery29",
+  "published_utc": "2018-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Centre Seeks Sensitive Data of 10 Lakh Workers in Petrol Pumps",
+  "source": "NewsClick",
+  "published_utc": "2018-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Indian government exports petrol at half the price we pay",
+  "source": "India Today",
+  "published_utc": "2018-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petroleum consortium says refusal to display PM's picture is inviting threat of blocked supplies",
+  "source": "The Hindu",
+  "published_utc": "2018-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol pumps claim Modi govt arm-twisting them to fuel its publicity campaign",
+  "source": "ThePrint",
+  "published_utc": "2018-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol Dealers Allege They Were Told to Put Up Modi Photos or Face a Supply Block",
+  "source": "TheWire.in",
+  "published_utc": "2018-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices witness hike on Sunday",
+  "source": "India.com",
+  "published_utc": "2018-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol pumps told to put up posters of Narendra Modi or face supply cut: Report",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL plans to invest Rs 18.23 bn to expand east India's first LPG pipeline",
+  "source": "Business Standard",
+  "published_utc": "2018-08-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: Controversy Around Government Oil Companies Seeking Data Of Petrol Pump Employees",
+  "source": "Swarajya",
+  "published_utc": "2018-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol Pumps Asked to Display PM Modi Pictures or Face Supply Cut",
+  "source": "The Quint",
+  "published_utc": "2018-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ratnagiri oil refinery and petrochemical complex, India",
+  "source": "NS Energy",
+  "published_utc": "2018-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to invest Rs 286 cr to expand LPG bottling output in north-east India by 2020",
+  "source": "India.com",
+  "published_utc": "2018-08-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to double retail outlets",
+  "source": "The Hindu",
+  "published_utc": "2018-08-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Subsidised LPG price hiked by Rs 1.49 to Rs 499.51 per cylinder",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

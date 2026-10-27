@@ -1,0 +1,326 @@
+[
+ {
+  "title": "ICICI Bank names Radhakrishnan Nair as Independent Director",
+  "source": "The Times of India",
+  "published_utc": "2018-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPAs hit net; ICICI Bank rolls out new strategy",
+  "source": "The Hindu",
+  "published_utc": "2018-05-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Contrary to expectations, ICICI Bank board meet skips loan controversy surrounding CEO Chanda Kochhar",
+  "source": "Firstpost",
+  "published_utc": "2018-05-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Which Indian bank uses Blockchain Technology?",
+  "source": "Blockchain Council",
+  "published_utc": "2018-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q4 profit plunges 45% to Rs 1,142 cr",
+  "source": "India.com",
+  "published_utc": "2018-05-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q4 profit plunges 45% to Rs 1,142 cr; NPA surges",
+  "source": "India.com",
+  "published_utc": "2018-05-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI group net plunges 45% as fresh slippages,provisions soar",
+  "source": "India.com",
+  "published_utc": "2018-05-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt nominee director on ICICI board awaits report from probe agencies",
+  "source": "India.com",
+  "published_utc": "2018-05-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank aims expand investment banking, taps talents",
+  "source": "The Economic Times",
+  "published_utc": "2018-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lok Ranjan, government's nominee on ICICI Bank board, transferred to Personnel Ministry",
+  "source": "The Economic Times",
+  "published_utc": "2018-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Serve in my language, customers tell banks",
+  "source": "The Times of India",
+  "published_utc": "2018-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Investigators probe another Deepak Kochhar company, NuPower Technologies | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2018-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Liar, liar! Dhoot denies I-T questioning in ICICI case; gets caught red-handed",
+  "source": "Business Today",
+  "published_utc": "2018-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI loan case: I-T department quizzes Videocon chairman Venugopal Dhoot",
+  "source": "The News Minute",
+  "published_utc": "2018-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Picking cold stocks and converting them to cool ones",
+  "source": "Value Research",
+  "published_utc": "2018-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WhatsApp UPI mass launch in the soup as MeitY raise concerns over data sharing",
+  "source": "Entrackr",
+  "published_utc": "2018-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Infosys sets up blockchain-based trade network in India with 7 banks",
+  "source": "India.com",
+  "published_utc": "2018-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLT directs JP Associates to return 759 acre land to its arm Jaypee Infratech",
+  "source": "India.com",
+  "published_utc": "2018-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank enables instant reloading of travel card",
+  "source": "DNA India",
+  "published_utc": "2018-05-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Airtel Payments Bank appoints ex-ICICI executive A Biswas as MD, CEO",
+  "source": "India.com",
+  "published_utc": "2018-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Airtel Payments Bank ropes in Anubrata Biswas as its chief executive",
+  "source": "ET Telecom",
+  "published_utc": "2018-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Vs ICICI Bank Vs HDFC Bank On This Zero Minimum Balance Account",
+  "source": "NDTV Profit",
+  "published_utc": "2018-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to open post office time deposit scheme",
+  "source": "The Economic Times",
+  "published_utc": "2018-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Airtel Payments Bank appoints Anubrata Biswas as MD & CEO",
+  "source": "The Hindu",
+  "published_utc": "2018-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Airtel Payments Bank appoints Anubrata Biswas as new MD & CEO",
+  "source": "Business Standard",
+  "published_utc": "2018-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Airtel Payments Bank appoints Anubrata Biswas as MD &amp; CEO",
+  "source": "India.com",
+  "published_utc": "2018-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI issues notice to ICICI Bank, Chanda Kochhar in Videocon case",
+  "source": "The Hindu",
+  "published_utc": "2018-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's digital push: sets up innovation lab, enters fintech tie-ups",
+  "source": "Business Standard",
+  "published_utc": "2018-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda posts Rs 31.02 bn loss for Jan-Mar as bad loans surge",
+  "source": "Business Standard",
+  "published_utc": "2018-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Facebook, Microsoft is building tool to spot bias in AI algorithms",
+  "source": "Business Standard",
+  "published_utc": "2018-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Opens Innovation Labs, Innovation Centres To Make Mark In Fintech",
+  "source": "Inc42",
+  "published_utc": "2018-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest Fixed Deposits interest rates: SBI, Post Office, HDFC, ICICI, PNB, Axis Bank compared",
+  "source": "The Financial Express",
+  "published_utc": "2018-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State-owned banks on two-day nationwide strike from 30 May, confirms union; ATMs, salary could be hit, but no reason for panic",
+  "source": "Firstpost",
+  "published_utc": "2018-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank appoints former Bank of Baroda boss as a director",
+  "source": "The Economic Times",
+  "published_utc": "2018-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank orders probe into allegations against Chanda Kochhar",
+  "source": "India.com",
+  "published_utc": "2018-05-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank strike to continue today as services worst-hit in Kerala, West Bengal, Bihar | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2018-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

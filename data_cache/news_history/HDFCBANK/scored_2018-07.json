@@ -1,0 +1,614 @@
+[
+ {
+  "title": "IDBI Bank Is The Favourite Guinea Pig In The Indian Financial Laboratory",
+  "source": "LinkedIn",
+  "published_utc": "2018-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Medium to Long Term Fund-Bonus",
+  "source": "The Economic Times",
+  "published_utc": "2018-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Prime Day 2018 sale in India on July 16 \u2013 Exclusive launches, deals, cashback offers and more",
+  "source": "FoneArena.com",
+  "published_utc": "2018-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Common Service Centres to work as banking correspondents of HDFC bank",
+  "source": "Business Standard",
+  "published_utc": "2018-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to turn 3 lakh CSCs into its banking correspondents",
+  "source": "The Economic Times",
+  "published_utc": "2018-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deepak Parekh spells out succession planning at HDFC group",
+  "source": "Livemint",
+  "published_utc": "2018-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CSC SPV and HDFC Bank sign agreement",
+  "source": "Indiablooms",
+  "published_utc": "2018-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3 lakh CSC operators in rural areas to become banking correspondents",
+  "source": "MediaNama",
+  "published_utc": "2018-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks with their own AMCs minted money",
+  "source": "Value Research",
+  "published_utc": "2018-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mutual Fund Commissions: 8500 Crores in FY-2018 as Incentives.",
+  "source": "Capitalmind",
+  "published_utc": "2018-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fortis CEO salary jumps to Rs.16.80 crore from Rs. 3.91 crore in two years",
+  "source": "People Matters - HR News",
+  "published_utc": "2018-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi govt's MSP hike: Long on objective, short on details",
+  "source": "Livemint",
+  "published_utc": "2018-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises FD rates \u2013 Check the comparison with SBI, ICICI Bank & Others",
+  "source": "The Financial Express",
+  "published_utc": "2018-07-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Eight of 10 most valued cos add Rs 66,626 cr in m-cap",
+  "source": "India.com",
+  "published_utc": "2018-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The curse of stigmatized capitalism",
+  "source": "Livemint",
+  "published_utc": "2018-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "AirAsia India offers flight tickets from \u20b9999 in new sale",
+  "source": "Livemint",
+  "published_utc": "2018-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIP Dr Haathi: \u2018Taarak Mehta Ka Ooltah Chashma\u2019 actor Kavi Kumar Azaad dies of cardiac arrest",
+  "source": "The Financial Express",
+  "published_utc": "2018-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Group's market cap crosses \u20b9 10 trillion, Tata Group at \u20b9 11 trillion",
+  "source": "Livemint",
+  "published_utc": "2018-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC group m-cap crosses Rs 10 trillion, only second after Tatas",
+  "source": "The Week",
+  "published_utc": "2018-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC securities enable MF transactions through Facebook messenger",
+  "source": "India.com",
+  "published_utc": "2018-07-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "#ARM Worldwide appoints Kedar Mehendale to lead West Zone operations",
+  "source": "Exchange4Media",
+  "published_utc": "2018-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi government policies to ensure growth for the next 10 years: Ashok Khanna of HDFC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2018-07-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank anchors at Palava",
+  "source": "Firstpost",
+  "published_utc": "2018-07-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Avoid HDFC Bank For Your Car Loan - Here\u2019s Why",
+  "source": "Gaadiwaadi.com",
+  "published_utc": "2018-07-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These banks offer up to 9% interest rate on recurring deposits. Check details here",
+  "source": "Times Now",
+  "published_utc": "2018-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NTPC Signs Term Loan Of \u20b91500 Crore With HDFC Bank",
+  "source": "Sarkaritel.com",
+  "published_utc": "2018-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NTPC signs Rs 15 bn term loan with HDFC Bank for a period of 15 years",
+  "source": "Business Standard",
+  "published_utc": "2018-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YES Bank shares hit record high",
+  "source": "The Economic Times",
+  "published_utc": "2018-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Over 50 rich buyers of Nirav Modi jewellery face I-T scrutiny",
+  "source": "Rediff",
+  "published_utc": "2018-07-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Market cap of nine of top 10 most valued cos zoom Rs 1.58 lakh cr",
+  "source": "India.com",
+  "published_utc": "2018-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Life Of Indian Banks After Five Decades Of Nationalization",
+  "source": "LinkedIn",
+  "published_utc": "2018-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Prime Day sale starts: Top deals of phones, Echo speakers and all offers you should know",
+  "source": "India Today",
+  "published_utc": "2018-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy S9, S9+, get discounts of up to Rs 16,000 and more: All the details",
+  "source": "The Indian Express",
+  "published_utc": "2018-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Prime Day sale to begin today at 12PM: Everything you should expect",
+  "source": "India Today",
+  "published_utc": "2018-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "List of Best, Safe Banks in India",
+  "source": "Goodreturns",
+  "published_utc": "2018-07-17T04:12:17+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC AMC sets IPO price band at Rs1,095-1,100",
+  "source": "Livemint",
+  "published_utc": "2018-07-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC AMC sets IPO price band at Rs 1,095-1,100; IPO to open on July 25",
+  "source": "The Times of India",
+  "published_utc": "2018-07-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NFC Enabled Contactless Credit Card in India",
+  "source": "GETMONEYRICH",
+  "published_utc": "2018-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI tells Banks to discontinue Aadhaar-based payments through UPI, IMPS",
+  "source": "MediaNama",
+  "published_utc": "2018-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI ask banks to stop Aadhaar-based payments through UPI and IMPS",
+  "source": "Moneylife",
+  "published_utc": "2018-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cop\u2019s widow gets Rs 30 lakh assistance",
+  "source": "The Times of India",
+  "published_utc": "2018-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank posts 18.2% rise in net profit in first quarter | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2018-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank net profit misses estimates on higher provisions",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSBs cost per employee growth 3.5 times more than pvt banks in FY18",
+  "source": "The Times of India",
+  "published_utc": "2018-07-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is Sanjiv Sachar? The man named as Additional Director of HDFC Bank",
+  "source": "Zee Business",
+  "published_utc": "2018-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From 2,000 Rupee Note To New Rs 100 Note: A Look At New Currency Notes",
+  "source": "NDTV Profit",
+  "published_utc": "2018-07-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ideas for Profit: HDFC Bank well poised to leap ahead, buy",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-07-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank directed to pay Rs 35,000 as damages",
+  "source": "The Times of India",
+  "published_utc": "2018-07-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank is making a difference through blood donations and mentorship",
+  "source": "Livemint",
+  "published_utc": "2018-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC AMC IPO \u2013 A Quality Asset",
+  "source": "Investing.com India",
+  "published_utc": "2018-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex scales record high, Nifty holds above 11,100",
+  "source": "HW News English",
+  "published_utc": "2018-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC AMC IPO opens: 10 key things you should know before investing",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Only 3 stocks responsible for over 50% of the rise in Nifty's market cap",
+  "source": "Livemint",
+  "published_utc": "2018-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TCS, Infosys, ICICI Bank, HDFC Bank fail to carry out this big responsibility",
+  "source": "Zee Business",
+  "published_utc": "2018-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wheels are given striking feature - Pagani Zonda HP Barchetta: Here's the real hypercar @ Rs 122 crore",
+  "source": "The Economic Times",
+  "published_utc": "2018-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fake banking apps on Google Play leak stolen credit card data",
+  "source": "WeLiveSecurity",
+  "published_utc": "2018-07-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC AMC IPO Subscribed 83 Times On The Final Day",
+  "source": "NDTV Profit",
+  "published_utc": "2018-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dentsu Webchutney appoints Pravin Sutar as executive creative director",
+  "source": "ET BrandEquity",
+  "published_utc": "2018-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IHH open offer for Fortis to commence on Sept 7",
+  "source": "India.com",
+  "published_utc": "2018-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet India's 'best bank': The Indian Bank",
+  "source": "The Economic Times",
+  "published_utc": "2018-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC AMC fixes final offer price at Rs 1,100 per share, raises Rs 2,800.33 crore via IPO",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches up to $2.26 billion share sales in U.S. and India",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2018-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to raise Rs 15,500 crore, fixes floor price for QIP",
+  "source": "The Economic Times",
+  "published_utc": "2018-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rupee Headed For The Longest Losing Streak In 16 Years",
+  "source": "NDTV Profit",
+  "published_utc": "2018-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IBA offers 6% wage hike to bank staff; unions reject proposal",
+  "source": "The Economic Times",
+  "published_utc": "2018-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fake banking apps of 3 Indian banks used to dupe credit card owners",
+  "source": "IBTimes India",
+  "published_utc": "2018-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Launches Share Sale To Raise Up To Rs 15,500 Crore",
+  "source": "NDTV Profit",
+  "published_utc": "2018-07-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty PSU Bank index extends gains; shares of Bank of Baroda, SBI, PNB jump",
+  "source": "Business Standard",
+  "published_utc": "2018-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

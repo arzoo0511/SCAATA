@@ -1,0 +1,830 @@
+[
+ {
+  "title": "MD and CEO Chanda Kochhar not asked to go on leave, says ICICI Bank",
+  "source": "The News Minute",
+  "published_utc": "2018-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochhar on annual leave, not forced one: ICICI Bank",
+  "source": "India.com",
+  "published_utc": "2018-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, PNB, ICICI Bank raise lending rates",
+  "source": "India.com",
+  "published_utc": "2018-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO Chanda Kochhar asked to be on leave till probe is over",
+  "source": "Livemint",
+  "published_utc": "2018-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Whistle-blower levels fresh allegations of quid pro quo deals against ICICI's Chanda Kochhar",
+  "source": "The Times of India",
+  "published_utc": "2018-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Investors want Chanda Kochhar to step down",
+  "source": "Fortune India",
+  "published_utc": "2018-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon case: Whistleblower levels new allegations in letter to PM Modi",
+  "source": "India.com",
+  "published_utc": "2018-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking sector this week: PSB staff strike impacts cash transactions, ICICI Bank chief on \u201cannual...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank begins hunt for new chairman as MK Sharma\u2019s term nears completion | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2018-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI begins hunt for a new chairman who can pull the bank out of the mess it is in",
+  "source": "The Economic Times",
+  "published_utc": "2018-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Par panel seeks road map on NPA problem, enquires about 'nepotism' in ICICI Bank",
+  "source": "India.com",
+  "published_utc": "2018-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank begins search for new chairman; M D Mallya frontrunner",
+  "source": "Zee Business",
+  "published_utc": "2018-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "[Exclusive]: Godrej & Boyce Head of Corporate Advisory Nilanjan Sinha joins ICICI Bank",
+  "source": "Bar and Bench",
+  "published_utc": "2018-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks raise interest rates ahead of RBI monetary policy decision",
+  "source": "Livemint",
+  "published_utc": "2018-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ahead of WhatsApp UPI, Kotak and ICICI pilot banking services on WhatsApp",
+  "source": "Entrackr",
+  "published_utc": "2018-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Companies in ICICI Bank controversy come under MCA scanner",
+  "source": "The Economic Times",
+  "published_utc": "2018-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prathit Bhobe joins Tata MF as CEO and Managing Director",
+  "source": "Cafemutual",
+  "published_utc": "2018-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank is a good bank, says Goyal",
+  "source": "The Hindu",
+  "published_utc": "2018-06-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is a Third-Party Security Holder a Financial Creditor Under the Insolvency and Bankruptcy Code?",
+  "source": "Cyril Amarchand Mangaldas",
+  "published_utc": "2018-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karur Vysya, Indian Bank join big lenders in hiking rates",
+  "source": "The Times of India",
+  "published_utc": "2018-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "15 people lose money in Coimbatore ATM fraud: What you need to know about skimming",
+  "source": "The News Minute",
+  "published_utc": "2018-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Chanda Kochhar face US regulatory probe",
+  "source": "HW News English",
+  "published_utc": "2018-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jet Airways ICICI Bank Credit Card at 50% off!",
+  "source": "Live From A Lounge",
+  "published_utc": "2018-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Press Release Distribution India",
+  "source": "Business Wire India",
+  "published_utc": "2018-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI CMD's salary is too little compared to HDFC Bank MD's",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MARG ERP Limited Partners With ICICI Bank",
+  "source": "Bisinfotech",
+  "published_utc": "2018-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Eric Baccha bowls out ICICI bank to help Deutsche Bank reach the Plate Group semi-final of Woods T20 Bowled Out Corporate Cricket Cup",
+  "source": "CricketGraph",
+  "published_utc": "2018-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank beats Aditya Birla Financial Services to emerge as the Plate Group champions of Woods T20 Mega Corporate Challenge 2016",
+  "source": "CricketGraph",
+  "published_utc": "2018-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former Supreme Court judge B N Srikrishna to look into Chanda Kochhar allegations",
+  "source": "The Times of India",
+  "published_utc": "2018-06-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar to go on leave till probe gets over",
+  "source": "The Hindu",
+  "published_utc": "2018-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI's Chanda Kochhar To Go On Leave, Sandeep Bakhshi Appointed COO",
+  "source": "NDTV",
+  "published_utc": "2018-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bakhshi is ICICI Bank COO; Kochhar stays, goes on leave",
+  "source": "BusinessLine",
+  "published_utc": "2018-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar on leave till end of probe; ICICI Bank appoints Sandeep Bakhshi as COO",
+  "source": "Forbes India",
+  "published_utc": "2018-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO Chanda Kochhar to be on leave till probe is over, Sandeep Bakhshi named COO",
+  "source": "Business Today",
+  "published_utc": "2018-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank board appoints Sandeep Bakhshi as whole time director, COO",
+  "source": "Business Standard",
+  "published_utc": "2018-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank chief Kochhar to be on leave pending enquiry; Bakhshi appointed COO",
+  "source": "India.com",
+  "published_utc": "2018-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar on leave till probe ends, Sandeep Bakhshi appointed COO",
+  "source": "India Today",
+  "published_utc": "2018-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Change in ICICI top deck? Insurance arm's head Sandeep Bakhshi may be named bank's interim CEO",
+  "source": "The Economic Times",
+  "published_utc": "2018-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank up 4% on reports that board is mulling top management reshuffle",
+  "source": "Business Standard",
+  "published_utc": "2018-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to finally boot out Chanda Kochhar? Sandeep Bakhshi to be named CEO",
+  "source": "IBTimes India",
+  "published_utc": "2018-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar to go on leave until probe ends: ICICI Bank",
+  "source": "The Asian Age",
+  "published_utc": "2018-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dear ICICI Bank board, giving a red card to Chanda Kochhar is not enough",
+  "source": "Livemint",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brokerages tip Bakhshi as next CEO of ICICI Bank",
+  "source": "The Hindu",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar steps aside for conflict probe duration",
+  "source": "The Times of India",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Changes at ICICI Bank: Board sends CEO Chanda Kochhar on leave until probe is over, Sandeep Bakhshi named COO",
+  "source": "The Indian Express",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's New COO Sandeep Bakhshi Started Career At Bank In 1986",
+  "source": "NDTV",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will Chanda Kochhar's 'vacation' become permanent?",
+  "source": "The Times of India",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank names Sandeep Bakhshi as COO: A military aspirant turned banker is being prepped to battle crises",
+  "source": "Firstpost",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NS Kannan: ICICI Prudential Life's new pair of legs for the insurance race",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is Sandeep Bakhshi, the new ICICI Bank COO",
+  "source": "Livemint",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Finally, Chanda Kochhar Did What She Should Have Done Much Earlier",
+  "source": "LinkedIn",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar 'to go on leave', Bakhshi new COO: ICICI Bank",
+  "source": "Moneylife",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is Sandeep Bakhshi?",
+  "source": "The Indian Express",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakhshi to run ICICI Bank while CEO Chanda Kochhar goes on leave amid probe | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2026ICICI board asks Kochhar to remain on leave",
+  "source": "Mumbai Mirror",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Life's board appoints NS Kannan as MD and CEO",
+  "source": "Business Standard",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Akshay\u2019s classy half ton seals the deal for Lupin against ICICI",
+  "source": "CricketGraph",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank appoints Sandeep Bakhshi as COO as Chanda Kochhar goes on leave",
+  "source": "The Tribune",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO Chanda Kochhar goes on leave, Sandeep Bakhshi announced COO",
+  "source": "Behindwoods",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "As Chanda Kochhar goes on leave, Sandeep Bakshi appointed COO; know all about the veteran banker",
+  "source": "The Financial Express",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Did you know these 5 facts about Sandeep Bakhshi?",
+  "source": "Times Now",
+  "published_utc": "2018-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank board to blame for letting Chanda Kochhar hold her position despite controversy, say corporate governance experts",
+  "source": "Firstpost",
+  "published_utc": "2018-06-19T13:46:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In Charts: Tracing ICICI Bank\u2019s performance under Chanda Kochhar",
+  "source": "VCCircle",
+  "published_utc": "2018-06-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's board loves CEO Chanda Kochhar; that love has cost the banking giant dearly",
+  "source": "Firstpost",
+  "published_utc": "2018-06-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will Sandeep Bakhshi do a PruLife at ICICI Bank?",
+  "source": "Livemint",
+  "published_utc": "2018-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Sandeep Bakhshi, the man ICICI pulled out of retirement mode to fix its crisis",
+  "source": "The Economic Times",
+  "published_utc": "2018-06-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank board may have new chairman next week as M K Sharma retires",
+  "source": "Business Standard",
+  "published_utc": "2018-06-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI to see cultural change under Sandeep Bakhshi",
+  "source": "The Times of India",
+  "published_utc": "2018-06-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "N S Kannan: A meticulous executive who likes to take a 360-degree view",
+  "source": "The Economic Times",
+  "published_utc": "2018-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet MD Mallya \u2014 the top contender for ICICI Bank chairman\u2019s post",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO Chanda Kochhar\u2019s Residence Now Under Income-Tax Department\u2019s Scrutiny; Deepak Kochhar Question",
+  "source": "India.com",
+  "published_utc": "2018-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank looks to appoint M.D. Mallya as new chairman",
+  "source": "Livemint",
+  "published_utc": "2018-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "More conflict of interest? Mumbai house of Kochhars has Videocon connection",
+  "source": "The Indian Express",
+  "published_utc": "2018-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi Favours Adjudication Proceedings Against ICICI Bank, Chanda Kochhar",
+  "source": "NDTV",
+  "published_utc": "2018-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt eyes mix of fresh stake sale for IDBI",
+  "source": "The Times of India",
+  "published_utc": "2018-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi favours adjudication proceedings against ICICI Bank, Kochhar",
+  "source": "India.com",
+  "published_utc": "2018-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI recommends adjudication proceedings against ICICI Bank, Chanda Kochhar: Reports",
+  "source": "Scroll.in",
+  "published_utc": "2018-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares still in favour stock, but Mahindra is the best\u200abet, say analysts",
+  "source": "mint",
+  "published_utc": "2018-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Whistleblower complaints against ICICI Bank: The story so far",
+  "source": "Livemint",
+  "published_utc": "2018-06-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank appoints Walker Chandiok & Co as auditors",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-06-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank used term loans, LCs to help loan defaulters",
+  "source": "Livemint",
+  "published_utc": "2018-06-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank appoints Girish Chandra Chaturvedi as non-exec part-time chairman",
+  "source": "The Times of India",
+  "published_utc": "2018-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank appoints former IAS officer G.C. Chaturvedi as non-executive chairman",
+  "source": "The Hindu",
+  "published_utc": "2018-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why ICICI Bank selected Sandeep Bakhshi to fix its crisis",
+  "source": "Rediff",
+  "published_utc": "2018-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank appoints Girish Chandra Chaturvedi as non-executive part-time chairman",
+  "source": "CNBC TV18",
+  "published_utc": "2018-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank appoints former bureaucrat as part-time, non-executive chairman",
+  "source": "VCCircle",
+  "published_utc": "2018-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Girish Chandra Chaturvedi named ICICI Bank's non-exec part-time chairman",
+  "source": "Business Standard",
+  "published_utc": "2018-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI's new chairman Girish Chaturvedi has his task cut out",
+  "source": "Livemint",
+  "published_utc": "2018-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Girish Chandra Chaturvedi, ICICI Bank's new non-executive part-time chairman",
+  "source": "CNBC TV18",
+  "published_utc": "2018-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank appoints ex-IAS G C Chaturvedi as non-executive chairman",
+  "source": "India.com",
+  "published_utc": "2018-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-IAS GC Chaturvedi appointed as ICICI Bank part-time non-executive chairman: Here\u2019s all you need to know",
+  "source": "Times Now",
+  "published_utc": "2018-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "G C Chaturvedi to ensure smooth transition of leadership at the Board: ICICI Bank",
+  "source": "whispersinthecorridors.net",
+  "published_utc": "2018-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

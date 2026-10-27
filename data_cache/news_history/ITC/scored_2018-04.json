@@ -1,0 +1,65 @@
+[
+ {
+  "title": "Delhi HC restrains ITC from bringing out BNatural juice ads till 9April",
+  "source": "Livemint",
+  "published_utc": "2018-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan-Konnagar expected to get Rs900 crore from World Bank, 3 states",
+  "source": "Livemint",
+  "published_utc": "2018-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Macro stability boosts market; Sensex posts 8th straight gain",
+  "source": "India.com",
+  "published_utc": "2018-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Organics and Millets 2018 International Millet Fair Concludes on a High!",
+  "source": "www.brewer-world.com",
+  "published_utc": "2018-04-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GMR, ITC show interest to adopt Taj Mahal, Cement company to adopt Red Fort",
+  "source": "India.com",
+  "published_utc": "2018-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dalmia Bharat Group Adopts Red Fort; Taj Mahal Up Next",
+  "source": "Travel and Leisure Asia",
+  "published_utc": "2018-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NITI Aayog, ITC tie up to strengthen farming systems in 25 aspirational districts",
+  "source": "BusinessLine",
+  "published_utc": "2018-04-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

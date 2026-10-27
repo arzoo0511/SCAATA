@@ -1,0 +1,434 @@
+[
+ {
+  "title": "ICICI Bank gets RBI nod for Sandeep Bakshi's appointment as COO",
+  "source": "Livemint",
+  "published_utc": "2018-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Taking appropriate action to deal with banking mess: RBI on ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2018-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "70 Policies \u2014 Development Finance Institutions, 1948",
+  "source": "orfonline.org",
+  "published_utc": "2018-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest bank FD rates: What SBI, ICICI , HDFC Bank, Axis Bank offer",
+  "source": "Livemint",
+  "published_utc": "2018-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI directors' salary rose 12-15% in FY18, other employees get 10% jump",
+  "source": "Business Standard",
+  "published_utc": "2018-08-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank FD Interest Rates: SBI Vs HDFC Bank Vs Kotak Bank Vs ICICI Bank Vs Others",
+  "source": "The Financial Express",
+  "published_utc": "2018-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank eyes smaller towns to double retail biz to Rs 17 bn in Odisha",
+  "source": "Business Standard",
+  "published_utc": "2018-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex edges higher to record close; financials lead",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2018-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB looks to rebrand itself as pan-India bank",
+  "source": "The Times of India",
+  "published_utc": "2018-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank to disburse Rs 10,000 cr retail loan in Punjab, Haryana",
+  "source": "India.com",
+  "published_utc": "2018-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NEFT Transaction Charges Levied By Five Key Banks Compared",
+  "source": "NDTV Profit",
+  "published_utc": "2018-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Market: Sensex movers, block deals, IPO update & buzzing stocks",
+  "source": "The Economic Times",
+  "published_utc": "2018-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex Touches New High, Crosses 38,000 Mark Today; Nifty at 11,470",
+  "source": "India.com",
+  "published_utc": "2018-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IFCI seeks to sell Clearing Corp. stake for \u20b9130 crore",
+  "source": "Livemint",
+  "published_utc": "2018-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI puts Jet Airways under watch, classifies airline as potential stress loan",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Redwood Investment sells stake worth \u20b91,531 crore in AU Small Finance Bank",
+  "source": "Livemint",
+  "published_utc": "2018-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Independence Day sale 2018: After Flipkart and Amazon, Reliance announces \u2018Digital India sale\u2019 till 15th August \u2013 check deals and discounts",
+  "source": "The Financial Express",
+  "published_utc": "2018-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks trim overseas operations to focus on improvement in domestic business",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI puts 200 stressed bank accounts under scanner",
+  "source": "The Times of India",
+  "published_utc": "2018-08-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI governor Urjit Patel unveils UPI 2.0 version",
+  "source": "The Times of India",
+  "published_utc": "2018-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI\u2019s UPI 2.0 launched with new features; no recurring payments",
+  "source": "MediaNama",
+  "published_utc": "2018-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sarvatra Technologies brings 450th co-operative bank on National Financial Switch",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI launches UPI 2.0 with overdraft facility",
+  "source": "Livemint",
+  "published_utc": "2018-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe partners with IRCTC for payments on the Rail Connect app",
+  "source": "MediaNama",
+  "published_utc": "2018-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A Pie for everyone: Android Pie \u2018Go edition' coming this fall",
+  "source": "Livemint",
+  "published_utc": "2018-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "I got myself the Jet Airways ICICI Sapphiro Credit Card",
+  "source": "Live From A Lounge",
+  "published_utc": "2018-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dozing Doorkeepers?",
+  "source": "Business Today",
+  "published_utc": "2018-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kerala Floods: Help pours in from corporates and the media world",
+  "source": "Exchange4Media",
+  "published_utc": "2018-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A fall from grace",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank announces partnership with Manchester United",
+  "source": "BusinessLine",
+  "published_utc": "2018-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank offers Manchester United Credit card, here is how to pre-book it and its benefits",
+  "source": "The Financial Express",
+  "published_utc": "2018-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar offers to be reappointed on ICICI Securities' board",
+  "source": "The Times of India",
+  "published_utc": "2018-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar offers to be reappointed on board of ICICI Securities",
+  "source": "India.com",
+  "published_utc": "2018-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mrs Chanda Kochhar seeking re-appointment on ICICI Securities Board",
+  "source": "whispersinthecorridors.net",
+  "published_utc": "2018-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Srikrishna panel report on Kochhar expected in 2 months, says ICICI Chairman",
+  "source": "India.com",
+  "published_utc": "2018-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Srikrishna panel report on Chanda Kochhar likely in 2 mths: ICICI Chairman",
+  "source": "Business Standard",
+  "published_utc": "2018-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Watch | ICICI Bank ad for Manchester United credit card cringeworthy, say fans",
+  "source": "The Statesman",
+  "published_utc": "2018-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What insurers and banks are doing for Kerala flood victims",
+  "source": "Livemint",
+  "published_utc": "2018-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian companies now backing a range of foreign sports",
+  "source": "The Times of India",
+  "published_utc": "2018-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google teams with HDFC Bank, ICICI, others for instant loans",
+  "source": "Livemint",
+  "published_utc": "2018-08-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google for India: Digital payment app Tez has now been renamed as Google Pay",
+  "source": "Firstpost",
+  "published_utc": "2018-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google\u2019s digital payment app for India, Tez, is now Google Pay",
+  "source": "Android Authority",
+  "published_utc": "2018-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPA provisions take a toll on Q1 bank results",
+  "source": "Livemint",
+  "published_utc": "2018-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now, get pre-approved loans on Google Pay. Check details",
+  "source": "Times Now",
+  "published_utc": "2018-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Venture-Tata's PE fund Resurgent to buy majority stake in Prayagraj Power",
+  "source": "VCCircle",
+  "published_utc": "2018-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Disclose action taken against loan defaulters over Rs 500 mn: CIC to FinMin",
+  "source": "Business Standard",
+  "published_utc": "2018-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLT admits insolvency petition against Lanco Babandh Power",
+  "source": "The Times of India",
+  "published_utc": "2018-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar gets majority votes to be reappointed on board of ICICI Securities",
+  "source": "India.com",
+  "published_utc": "2018-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

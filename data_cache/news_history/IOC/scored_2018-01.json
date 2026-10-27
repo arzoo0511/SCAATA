@@ -1,0 +1,371 @@
+[
+ {
+  "title": "Saudi, UAE VAT To Adversely Affect Majority Of Indians: Former Diplomat",
+  "source": "NDTV",
+  "published_utc": "2018-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Size of PSF balloons to Rs 3.5bn while fuel prices rise constantly",
+  "source": "The Himalayan Times",
+  "published_utc": "2018-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel price on 3rd January 2018: Check out the rates here city-wise",
+  "source": "Zee News",
+  "published_utc": "2018-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt looks to split GAIL into 2 units, separate marketing ops",
+  "source": "The Times of India",
+  "published_utc": "2018-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Invite MPs properly for public functions: Par panel to IOCL",
+  "source": "India.com",
+  "published_utc": "2018-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flight fare to go up in 2018 by 13 percent due to GST",
+  "source": "The Times of India",
+  "published_utc": "2018-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Data drive: Going back on LPG reforms",
+  "source": "The Financial Express",
+  "published_utc": "2018-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Any job for a sportsperson?",
+  "source": "The Tribune",
+  "published_utc": "2018-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Investors eye Nagarjuna Oil Corporation for insolvency resolution bid",
+  "source": "Business Standard",
+  "published_utc": "2018-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Netanyahu Refloats Plan to Build Artificial Islands Off Israel\u2019s Shores",
+  "source": "CTech",
+  "published_utc": "2018-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC\u2019s LPG import terminal jetty nearing completion",
+  "source": "The New Indian Express",
+  "published_utc": "2018-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG receiving jetty to be ready for use by March",
+  "source": "The Hindu",
+  "published_utc": "2018-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hit by Demonetisation, Indias 2017 Oil Consumption Grew at Its Slowest Since 2013",
+  "source": "TheWire.in",
+  "published_utc": "2018-01-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Refining & Petrochemicals Technology Meet in Bhubaneswar",
+  "source": "India.com",
+  "published_utc": "2018-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stricken oil tanker explodes in East China Sea, creating pollution fears",
+  "source": "People's Daily Online",
+  "published_utc": "2018-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India boat capsize: Three school students die off Mumbai",
+  "source": "BBC",
+  "published_utc": "2018-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG terminal jetty nearing completion",
+  "source": "The New Indian Express",
+  "published_utc": "2018-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC, Phinergy To Develop Ultra Lightweight Batteries For Electric Vehicles",
+  "source": "carandbike",
+  "published_utc": "2018-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp planning Myanmar office as part of sales push",
+  "source": "Frontier Myanmar",
+  "published_utc": "2018-01-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rakesh Jhunjhunwala-backed John Energy to file for Rs300 crore IPO",
+  "source": "Livemint",
+  "published_utc": "2018-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Retd. IOC officers move HC on pension issue",
+  "source": "The Hindu",
+  "published_utc": "2018-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil companies block LPG refill supply to non-KYC consumers in Odisha",
+  "source": "The New Indian Express",
+  "published_utc": "2018-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC-HPCL merger not to be equated with disinvestment: Pradhan",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why the ONGC-HPCL deal is a cozy arrangement",
+  "source": "Livemint",
+  "published_utc": "2018-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL Deal To Be Earnings Accretive For ONGC, Brokerages Says",
+  "source": "NDTV Profit",
+  "published_utc": "2018-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Starting with Bhut Jolokia sauce, food startup ENE is creating a market for products from the Northeast",
+  "source": "YourStory.com",
+  "published_utc": "2018-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL may acquire MRPL in cash, share-swap deal",
+  "source": "Livemint",
+  "published_utc": "2018-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Prices Highest Since 2014: Here's How Fuel Is Priced in India",
+  "source": "The Better India",
+  "published_utc": "2018-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India oil refiner IOC says two died in fire at Panipat site | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2018-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What Makes Indian Oil Corporation Limited (NSE:IOC) A Good Dividend Stock?",
+  "source": "Yahoo Finance",
+  "published_utc": "2018-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil thieves dig 150-foot tunnel to tap pipeline",
+  "source": "The Hindu",
+  "published_utc": "2018-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL\u2019s Kochi refinery becomes the largest public sector refining unit in India",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At Rs 80.39, petrol price in Mumbai highest since 2014",
+  "source": "Local Press Co",
+  "published_utc": "2018-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No Aadhaar, no LPG refill in Chennai as oil firms jump gun on deadline",
+  "source": "The New Indian Express",
+  "published_utc": "2018-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Nigeria to mark 60 years of relations as trade hits $9.4bn in 2017",
+  "source": "Vanguard News",
+  "published_utc": "2018-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HC slams National Commission for Scheduled Tribes",
+  "source": "The Hindu",
+  "published_utc": "2018-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Q3 net profit up two-fold at Rs 7,883 crore",
+  "source": "India.com",
+  "published_utc": "2018-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Scroll.in report on PM\u2019s plan for free gas connections has a false premise: Indian Oil\u2019s rejoinder",
+  "source": "Scroll.in",
+  "published_utc": "2018-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to boost Panipat refinery capacity by two thirds",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2018-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil shock and surprise",
+  "source": "Frontline Magazine",
+  "published_utc": "2018-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC claims 'tech breakthrough' in Octomax unit of Mathura",
+  "source": "India.com",
+  "published_utc": "2018-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

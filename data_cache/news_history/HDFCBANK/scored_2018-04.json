@@ -1,0 +1,560 @@
+[
+ {
+  "title": "HDFC spikes: Mumbai\u2019s tony Pali Hill also uses hostile design to deter workers, hawkers from sitting",
+  "source": "Scroll.in",
+  "published_utc": "2018-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Customers' money safe with us, says PNB",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dairy major Amul's turnover up 8% at Rs29,220 crore in FY18",
+  "source": "Livemint",
+  "published_utc": "2018-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MoU between Indian Army and HDFC Bank",
+  "source": "PIB",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks Charge You Rs 25 For Every Failed Debit Card or ATM Transaction. Is It Justified?",
+  "source": "The Better India",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank launches AI-powered voice bot for Phone Banking",
+  "source": "MediaNama",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Merrill Lynch sells Indiabulls Housing Finance stake worth Rs982 crore",
+  "source": "Livemint",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The best deals and lowest prices for the Samsung Galaxy S9 and S9 Plus in India",
+  "source": "Android Authority",
+  "published_utc": "2018-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jio Payments Bank launched: Here's what you should know",
+  "source": "Business Today",
+  "published_utc": "2018-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jio Payments Bank launched: Here's everything you should know",
+  "source": "NewsBytes",
+  "published_utc": "2018-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI delays bonuses of top private bankers amid reports of frauds",
+  "source": "ThePrint",
+  "published_utc": "2018-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shares of Lemon Tree Hotels zoom 28% in debut trade",
+  "source": "The Financial Express",
+  "published_utc": "2018-04-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A Mis-Step Or Two Cannot Make Chanda Kochhar Or Shikha Sharma Bad CEOs",
+  "source": "Swarajya",
+  "published_utc": "2018-04-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IPL 2018: Chennai Super Kings seek perfect homecoming at Chepauk",
+  "source": "Livemint",
+  "published_utc": "2018-04-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The \u2018real hero\u2019 of Bepannaah lies in its story: Mallika Nayak",
+  "source": "IWMBuzz",
+  "published_utc": "2018-04-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CWG 2018: Mehuli Ghosh's journey from depression to podium",
+  "source": "Livemint",
+  "published_utc": "2018-04-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This court marriage pic of IAS couple Tina Dabi-Athar Amir is going massively viral",
+  "source": "The Financial Express",
+  "published_utc": "2018-04-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former DoPT Secretary Bhanu Pratap Sharma appointed chairman of Bank Board Bureau",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MoU Between Indian Army and Axis Bank",
+  "source": "PIB",
+  "published_utc": "2018-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Indian private banks are owned by foreigners",
+  "source": "The Indian Express",
+  "published_utc": "2018-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Malaysia's IHH Offers To Buy Fortis Healthcare At Rs 166 Per Share, At Higher Price Than Manipal Hospitals",
+  "source": "NDTV Profit",
+  "published_utc": "2018-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi to Kandaghat: An idyllic getaway to the hills",
+  "source": "Livemint",
+  "published_utc": "2018-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Jio raises about Rs3,250 crore from Japanese banks to fund capex",
+  "source": "Livemint",
+  "published_utc": "2018-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pakistan, through the eyes of William Dalrymple",
+  "source": "Livemint",
+  "published_utc": "2018-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What does the future hold for Chanda Kochhar and Shikha Sharma, and the banks they lead",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Top 200 Fund is becoming HDFC Top 100. Should you hold or sell it?",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank replaces SBI to become India's second most valuable bank",
+  "source": "Business Today",
+  "published_utc": "2018-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank Surpasses SBI to Become India's Second Most Valued Bank",
+  "source": "India.com",
+  "published_utc": "2018-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank pips State Bank of India in market capitalisation",
+  "source": "Business Standard",
+  "published_utc": "2018-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank beats SBI to become India's 2nd most valuable lender",
+  "source": "IBTimes India",
+  "published_utc": "2018-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks' NPA woes to continue in Q4; retail loan growth to support financials",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Insider vs Outsider: Battle for private banks' new CEOs",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shrujan Trust: NGO that's been transforming the lives of women in Kutch",
+  "source": "CNBC TV18",
+  "published_utc": "2018-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks are unable to meet the demand for cash, says ATM industry",
+  "source": "Business Standard",
+  "published_utc": "2018-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi seeks bank details, call records of officials in WhatsApp leak",
+  "source": "Firstpost",
+  "published_utc": "2018-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prepaid Recharge Plans: Airtel's Popular Packs Vs Vodafone SuperPlans",
+  "source": "NDTV Profit",
+  "published_utc": "2018-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's banking system requires a stronger watchdog",
+  "source": "Livemint",
+  "published_utc": "2018-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yogi Adityanath most popular CM on Facebook; beats Vasundhara Raje, Rupani",
+  "source": "Business Standard",
+  "published_utc": "2018-04-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank net profit hits record despite bad loan rise",
+  "source": "The Indian Express",
+  "published_utc": "2018-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank profit up 20% to \u20b94,799.3 crore in Q4, to raise up to \u20b950K cr | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2018-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank opens offices in London, Singapore",
+  "source": "The Times of India",
+  "published_utc": "2018-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Q4 results done, what should investors in HDFC Bank focus on?",
+  "source": "Livemint",
+  "published_utc": "2018-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aadhaar enabled transactions through micro ATM touches 13.7 Mn with over 2X growth",
+  "source": "Entrackr",
+  "published_utc": "2018-04-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google CEO Sundar Pichai poised to cash in $380 million award this week",
+  "source": "Livemint",
+  "published_utc": "2018-04-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Milton Friedman and Edmund Phelps changed macroeconomics",
+  "source": "Livemint",
+  "published_utc": "2018-04-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank opens its 100th branch in Bihar",
+  "source": "India.com",
+  "published_utc": "2018-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Triumph Motorcycles India eyes 10% growth",
+  "source": "ET Auto",
+  "published_utc": "2018-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Additional coal secretary Suresh Kumar appointed CIL CMD",
+  "source": "Livemint",
+  "published_utc": "2018-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Prudence Fund becomes HDFC Balanced Advantage Fund. Should you sell it?",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches new version of its humanoid IRA",
+  "source": "Express Computer",
+  "published_utc": "2018-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches IRA 2.0, the advance version of its interactive humanoid",
+  "source": "ET CIO",
+  "published_utc": "2018-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank unveils IRA 2.0",
+  "source": "Banking Frontiers",
+  "published_utc": "2018-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Humanoid robot to help bank clients",
+  "source": "Deccan Herald",
+  "published_utc": "2018-04-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes deposit rates by 1 percent for select tenures",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank: 5 Reasons the stock fits any portfolio",
+  "source": "MarketsMojo",
+  "published_utc": "2018-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Priyanka Chopra learns 'B@&%h Please!' in sign language",
+  "source": "Rediff",
+  "published_utc": "2018-04-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Q4 Net rises 29% at Rs 3,961 cr",
+  "source": "India.com",
+  "published_utc": "2018-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC's to raise up to Rs 85,000 cr through debt securities",
+  "source": "India.com",
+  "published_utc": "2018-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After becoming No. 3 behind HDFC Bank, ICICI Bank, Bandhan Bank to end aggressive expansion",
+  "source": "Zee Business",
+  "published_utc": "2018-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank Q4 results; key things to watch out for",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best performing NPS funds for different asset allocations at the start of FY 2018-19",
+  "source": "The Economic Times",
+  "published_utc": "2018-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Madhya Pradesh police recruitment row: Cops' caste label marked on chest",
+  "source": "Business Standard",
+  "published_utc": "2018-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

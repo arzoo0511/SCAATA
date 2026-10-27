@@ -1,0 +1,119 @@
+[
+ {
+  "title": "Classmate urges students to focus on individual ambitions, not peer pressure",
+  "source": "Adgully.com",
+  "published_utc": "2018-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIT Kharagpur VGSOM Records 100 Per Cent Placement; ITC Ltd, Titan, Amazon, JP Morgan, CRISIL, HSBC Hire",
+  "source": "NDTV",
+  "published_utc": "2018-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Classmate\u2019s \u2018Be Better Than Yourself\u2019 Campaign Promotes Individual Ambitions Among Students",
+  "source": "EventFAQs",
+  "published_utc": "2018-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIT KGP's VGSOM records 100 per cent placement",
+  "source": "India.com",
+  "published_utc": "2018-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nestle India to start selling packaged breakfast cereals",
+  "source": "Livemint",
+  "published_utc": "2018-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's Q4 profit up 9.86% to Rs2,932.71 crore",
+  "source": "Livemint",
+  "published_utc": "2018-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Patanjali sales growth grinds to a halt in FY18",
+  "source": "Livemint",
+  "published_utc": "2018-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex extends losses on foreign fund outflows, rising oil prices",
+  "source": "India.com",
+  "published_utc": "2018-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HUL becomes most valued FMCG firm in m-cap, surpasses ITC",
+  "source": "ETRetail.com",
+  "published_utc": "2018-05-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wealth out of Waste: MCC, ITC join hands to revamp solid waste management",
+  "source": "Star of Mysore",
+  "published_utc": "2018-05-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Markets succumb to late sell-off; metal, energy stocks sink",
+  "source": "India.com",
+  "published_utc": "2018-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to acquire leading floor cleaner brand Nimyle for undisclosed sum",
+  "source": "Business Standard",
+  "published_utc": "2018-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IUCN in collaboration with ITC Ltd. celebrates International Day for Biological Diversity (22nd May)",
+  "source": "International Union for Conservation of Nature",
+  "published_utc": "2018-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

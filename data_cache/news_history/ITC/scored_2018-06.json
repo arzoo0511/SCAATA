@@ -1,0 +1,83 @@
+[
+ {
+  "title": "ITC to use 100% reusable, recyclable or compostable packaging",
+  "source": "Indian Television Dot Com",
+  "published_utc": "2018-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC acquires Nimyle floor cleaner, forays into home care space",
+  "source": "The Economic Times",
+  "published_utc": "2018-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex Rises 84 Pts, Nifty Above 10,800",
+  "source": "ChiniMandi",
+  "published_utc": "2018-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Kohenur Debuts in HITEC City of Hyderabad, India",
+  "source": "Hospitality Net",
+  "published_utc": "2018-06-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "If Taj Mansingh is so popular, why's no one buying it?",
+  "source": "Livemint",
+  "published_utc": "2018-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Inc's most profitable companies",
+  "source": "Business Today",
+  "published_utc": "2018-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Markets stage strong comeback; log 5th weekly gains",
+  "source": "India.com",
+  "published_utc": "2018-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Decoding: The millennial consumer",
+  "source": "Livemint",
+  "published_utc": "2018-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to seek shareholders' nod to extend Y.C. Deveshwar's term by 2 years till 2022",
+  "source": "Livemint",
+  "published_utc": "2018-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

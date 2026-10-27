@@ -1,0 +1,461 @@
+[
+ {
+  "title": "ICICI Bank's accidental heir",
+  "source": "Forbes India",
+  "published_utc": "2018-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "G.C. Chaturvedi to be chairman of ICICI Bank",
+  "source": "Banking Frontiers",
+  "published_utc": "2018-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why ICICI Bank chose Girish Chaturvedi as its chairman",
+  "source": "Rediff",
+  "published_utc": "2018-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI\u2019s Jayesh Thaikandy joins Standard Chartered Bank as Head of Legal",
+  "source": "Bar and Bench",
+  "published_utc": "2018-07-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank aims to grow home loan book to \u20b9 2 trillion by FY20",
+  "source": "Livemint",
+  "published_utc": "2018-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank iMobile App \u00e2\u20ac\u201c Ek App Mein Poora Bank Campaign by Ogilvy Mumbai",
+  "source": "Adgully.com",
+  "published_utc": "2018-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks with their own AMCs minted money",
+  "source": "Value Research",
+  "published_utc": "2018-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Citi India GC Pramod Rao to return to old home but as ICICI Group GC",
+  "source": "Legally India",
+  "published_utc": "2018-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Asus ZenFone 5Z vs Honor 10 vs Nokia 7 Plus: Honor and Nokia should be very nervous",
+  "source": "India Today",
+  "published_utc": "2018-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises FD rates \u2013 Check the comparison with SBI, ICICI Bank & Others",
+  "source": "The Financial Express",
+  "published_utc": "2018-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank first bank in country to tie-up with Australian bank",
+  "source": "The New Indian Express",
+  "published_utc": "2018-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Abu Dhabi co submits Rs 1,210cr bid for Assam Co",
+  "source": "The Times of India",
+  "published_utc": "2018-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brands of Desire announces its new positioning as management consulting firm",
+  "source": "Exchange4Media",
+  "published_utc": "2018-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NFC payments already work almost everywhere in India. Here\u2019s how to use it",
+  "source": "MediaNama",
+  "published_utc": "2018-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "1,000 NPA accounts under scanner in ICICI Bank probe",
+  "source": "Livemint",
+  "published_utc": "2018-07-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kiran\u2019s all-round performance & Ajay\u2019s 4wkts help ICICI qualify for the finals of the Times Cricket Shield Tournament",
+  "source": "CricketGraph",
+  "published_utc": "2018-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These banks offer up to 9% interest rate on recurring deposits. Check details here",
+  "source": "Times Now",
+  "published_utc": "2018-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex, Nifty Update: Stocks Radar: Jindal Steel, HCL Tech, Fortis Healthcare",
+  "source": "NDTV Profit",
+  "published_utc": "2018-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Over 50 rich buyers of Nirav Modi jewellery face I-T scrutiny",
+  "source": "Rediff",
+  "published_utc": "2018-07-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The price you pay for a \u2018no\u00ad cost EMI'",
+  "source": "Livemint",
+  "published_utc": "2018-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "P7 \u2013 What is Chidambaram really worth?",
+  "source": "PGurus",
+  "published_utc": "2018-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yamaha Cygnus Ray ZR 'Street Rally' scooter launched in India at Rs 57,898",
+  "source": "Business Standard",
+  "published_utc": "2018-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 Reasons why Females should Join SBI",
+  "source": "Jagranjosh.com",
+  "published_utc": "2018-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "List of Best, Safe Banks in India",
+  "source": "Goodreturns",
+  "published_utc": "2018-07-17T04:12:17+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC board gives its nod for 51% stake buy in IDBI Bank",
+  "source": "The Times of India",
+  "published_utc": "2018-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank crosses milestone of supporting 17 lakh women beneficiaries; all details here",
+  "source": "Zee Business",
+  "published_utc": "2018-07-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves G C Chaturvedi\u00e2\u20ac\u2122s appointment as Part-time Non-exec Chairman of ICICI Bank",
+  "source": "Whispers in the Corridors",
+  "published_utc": "2018-07-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NFC Enabled Contactless Credit Card in India",
+  "source": "GETMONEYRICH",
+  "published_utc": "2018-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Andhra Pradesh: ACB raids PCB engineer, seizes properties worth crores",
+  "source": "The Times of India",
+  "published_utc": "2018-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive: Bike taxi startup Baxi raises funds, floats delivery app with Patanjali",
+  "source": "Techcircle",
+  "published_utc": "2018-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSBs cost per employee growth 3.5 times more than pvt banks in FY18",
+  "source": "The Times of India",
+  "published_utc": "2018-07-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nokia 3.1 launched in India, plans to take on budget smartphones with attractive offers",
+  "source": "Livemint",
+  "published_utc": "2018-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Avenue Cap to pick up majority stake in Arcil for Rs 1,000 crore",
+  "source": "The Economic Times",
+  "published_utc": "2018-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BlackBerry Key2 with DTEK, physical keyboard launched in India; price, specifications",
+  "source": "Livemint",
+  "published_utc": "2018-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BlackBerry KEY 2 Launched in India at Rs 42,990; Sale to start on July 31 Via Amazon",
+  "source": "LatestLY",
+  "published_utc": "2018-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SFIO Receives Complaints Against ICICI Bank, L&T",
+  "source": "NDTV Profit",
+  "published_utc": "2018-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TCS, Infosys, ICICI Bank, HDFC Bank fail to carry out this big responsibility",
+  "source": "Zee Business",
+  "published_utc": "2018-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US SEC steps up probe into ICICI Bank's accounting practices",
+  "source": "Livemint",
+  "published_utc": "2018-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Reports Loss of Rs 120 Crore For June Quarter Due to Bad Loans",
+  "source": "India.com",
+  "published_utc": "2018-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Q1 Results: ICICI Bank Reports Its First Net Loss Since 2001",
+  "source": "NDTV Profit",
+  "published_utc": "2018-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Reports a Q1 Net Loss at Rs 199.5 Crores",
+  "source": "Goodreturns",
+  "published_utc": "2018-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lanco Infratech, 1 of 12 in RBI\u2019s defaulters list, may be liquidated as Thriveni\u2019s bid rejected again",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC open to acquisition of GSK's Horlicks at right price when up for sale",
+  "source": "Business Standard",
+  "published_utc": "2018-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bad loans strike: In its first ever loss, ICICI Bank erodes Rs 120 crore",
+  "source": "The Times of India",
+  "published_utc": "2018-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Post Payments Bank to start operations with 650 branches in August",
+  "source": "Business Standard",
+  "published_utc": "2018-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches up to $2.26 billion share sales in U.S. and India",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2018-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hackers deposit Rs 1 in Trai chief\u2019s account",
+  "source": "The Times of India",
+  "published_utc": "2018-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hackers deposit Re 1 in Trai chief's account",
+  "source": "The Times of India",
+  "published_utc": "2018-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fake banking apps of 3 Indian banks used to dupe credit card owners",
+  "source": "IBTimes India",
+  "published_utc": "2018-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank: Is the worst over?",
+  "source": "Fortune India",
+  "published_utc": "2018-07-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty PSU Bank index extends gains; shares of Bank of Baroda, SBI, PNB jump",
+  "source": "Business Standard",
+  "published_utc": "2018-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

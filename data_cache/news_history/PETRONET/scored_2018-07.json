@@ -1,0 +1,74 @@
+[
+ {
+  "title": "ONGC board gives nod to explore group restructuring options",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Know the five-litre quantity test - How to save yourself from getting conned at petrol pumps",
+  "source": "The Economic Times",
+  "published_utc": "2018-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GSPC to commission Mundra LNG terminal in Gujarat in 2-3 months",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The India-Russia-US Energy Triangle",
+  "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+  "published_utc": "2018-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG net profit up 34 per cent at Rs 587 crore",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet submits proposal to set up $1 bn LNG terminal in Bangladesh",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex, Nifty Pre-Market: All You Need To Know Going Into Trade On July 27",
+  "source": "NDTV Profit",
+  "published_utc": "2018-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Markets Weekahead: RBI policy meet in focus",
+  "source": "Reuters",
+  "published_utc": "2018-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

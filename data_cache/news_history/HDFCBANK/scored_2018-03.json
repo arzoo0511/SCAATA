@@ -1,0 +1,695 @@
+[
+ {
+  "title": "Google integrates State Bank of India on to payments app Tez",
+  "source": "MediaNama",
+  "published_utc": "2018-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI and PNB raise lending rates. Home, car loans to cost more",
+  "source": "Times Now",
+  "published_utc": "2018-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPI transaction volume/value backs on track again with 13% growth",
+  "source": "Entrackr",
+  "published_utc": "2018-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What is the Raisina Dialogue?",
+  "source": "Livemint",
+  "published_utc": "2018-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Allowing promoters in IBC cases can maximise the recovery value: Bryan Marsal, Co-founder, Alvarez & Marsa",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart\u2019s CEO Kalyan Krishnamurthy invests Rs. 1 Cr in CureFit",
+  "source": "Entrackr",
+  "published_utc": "2018-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, Happay partner to help firms manage T&amp;E expenses",
+  "source": "India.com",
+  "published_utc": "2018-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sunjawan attack mastermind Mufti Waqas killed by Army",
+  "source": "Rediff",
+  "published_utc": "2018-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "When KFC gave a cheeky FCK",
+  "source": "The Financial Express",
+  "published_utc": "2018-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy S9, S9+ launched in India: Cashback offers, Reliance Jio offer, and more",
+  "source": "The Indian Express",
+  "published_utc": "2018-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank stocks tank as PNB turmoil deepens",
+  "source": "India.com",
+  "published_utc": "2018-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Intellect Design rolls out digital credit card mgmt system",
+  "source": "India.com",
+  "published_utc": "2018-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Payments via Whatsapp will eventually converge with industry'",
+  "source": "India.com",
+  "published_utc": "2018-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Venu Srinivasan's daughter Lakshmi weds N G Ranga's great grandson Goginei",
+  "source": "Business Standard",
+  "published_utc": "2018-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pawan Hans to start regional helicopter services from July",
+  "source": "Livemint",
+  "published_utc": "2018-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank raises lending rates: Loans and EMI to get costlier",
+  "source": "IBTimes India",
+  "published_utc": "2018-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC bank appoints arrangers for $2.4 billion share sale | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2018-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diners Club transfer to Avios: a Primer",
+  "source": "Live From A Lounge",
+  "published_utc": "2018-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks to get bankrupt companies sale-ready",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wilmar arm takes control of Renuka Sugars",
+  "source": "BusinessLine",
+  "published_utc": "2018-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Don't shy away from taking decisions in fear of going wrong,' says Sohini Andani of SBI Mutual Fund",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Surekha Yadav: First woman loco driver - How Indian Railways is empowering its female staff & passengers",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 savings bank accounts for women",
+  "source": "IBTimes India",
+  "published_utc": "2018-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Triumph over humiliation - How Ratan Tata brought life to Jaguar Land Rover",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata's 3-point strategy for Jaguar - How Ratan Tata brought life to Jaguar Land Rover",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "For the Indian Left, it is Mayday, Mayday!",
+  "source": "Livemint",
+  "published_utc": "2018-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI orders footwear maker Bata to probe suspected results leak",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2018-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stone India upgrades brake system for Railways",
+  "source": "BusinessLine",
+  "published_utc": "2018-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Power CEO Ravi Sharma resigns",
+  "source": "BusinessLine",
+  "published_utc": "2018-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coca-Cola ropes in Tamanna as brand ambassador",
+  "source": "BusinessLine",
+  "published_utc": "2018-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC to pare 4% stake in mutual fund arm via IPO",
+  "source": "VCCircle",
+  "published_utc": "2018-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Review: Plaza Premium Lounge Delhi Terminal 1 Arrivals",
+  "source": "Live From A Lounge",
+  "published_utc": "2018-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Fixed Maturity Plan - 92 Days - March 2018 (1) Direct - Growth",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches chatbot Eva for customer services",
+  "source": "DNA India",
+  "published_utc": "2018-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Bars People Trading Bitcoin And Other Cryptocurrencies With Its Cards",
+  "source": "Inc42",
+  "published_utc": "2018-03-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU banks surge. Don't rush to buy the shares on a bounce, caution analysts",
+  "source": "Business Standard",
+  "published_utc": "2018-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvind Subramanian in contention to be next chief economist of World Bank",
+  "source": "Business Standard",
+  "published_utc": "2018-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank blocks all its cards to buy/trade cryptocurrencies",
+  "source": "ET CIO",
+  "published_utc": "2018-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank stocks fall up to 2 pc on renewed fraud worries",
+  "source": "India.com",
+  "published_utc": "2018-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank first among peers to tap masala bond route",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy S9, Galaxy S9+ go on sale in India: Price, launch offers, features, etc",
+  "source": "The Indian Express",
+  "published_utc": "2018-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nirmal Jain of IIFL just hit the jackpot to emerge D-Street\u2019s newest billionaire",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former SBI chairman Arundhati Bhattacharya blames frequent leadership changes for PNB-type scams",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank IPO gets an overall subscription of 88% on Day 2",
+  "source": "Livemint",
+  "published_utc": "2018-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cost Of Land Factored Into MSP, Says Prime Minister",
+  "source": "NDTV Profit",
+  "published_utc": "2018-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes, Just Two Things Can Fix Bulk Of Public Sector Banks\u2019 Problems",
+  "source": "LinkedIn",
+  "published_utc": "2018-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Seven reasons why supervision of public sector banks is impossible",
+  "source": "The New Indian Express",
+  "published_utc": "2018-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank sets up dedicated Toll-Free number for Jammu and Kashmir customers",
+  "source": "DNA India",
+  "published_utc": "2018-03-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Shanaz Khan \u2013 She is youngest and 1st MBBS sarpanch in Bharatpur district of Rajasthan",
+  "source": "The Financial Express",
+  "published_utc": "2018-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rahul Shukla moves to HDFC Bank",
+  "source": "Banking Frontiers",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Armed robbers loot \u20b918 lakh outside bank in Ludhiana | Hindustan Times",
+  "source": "Hindustan Times",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bots Will Lead To Leaner Captive Analytics Units, Says Devendra Sharnagat Of Kotak Mahindra",
+  "source": "Analytics India Magazine",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIM Shillong completes 100% placement for PGPM 2017-18 batch; top package at Rs 26 lakh",
+  "source": "Zee Business",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After HDFC, now ICICI Bank pushes peddle on mobile banking",
+  "source": "DNA India",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Punjab: Armed robbers loot Rs 18 lakh outside HDFC bank",
+  "source": "India.com",
+  "published_utc": "2018-03-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Key money lessons for Rahul Dravid",
+  "source": "Livemint",
+  "published_utc": "2018-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UCO Bank revises lending rates based on marginal cost",
+  "source": "DNA India",
+  "published_utc": "2018-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's Aditya Puri named best banking CEO in Asia",
+  "source": "DNA India",
+  "published_utc": "2018-03-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bad loans mount at HDFC Bank, Axis",
+  "source": "DNA India",
+  "published_utc": "2018-03-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank net growth hits a low",
+  "source": "DNA India",
+  "published_utc": "2018-03-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Bank stock dives 8% on loan fraud worries",
+  "source": "The Times of India",
+  "published_utc": "2018-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Axis Bank executives Sidharth Rath, V. Srinivasan have resigned",
+  "source": "Livemint",
+  "published_utc": "2018-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC to charge Rs 150 after 4th withdrawal, deposit a month; public sector banks to follow suit",
+  "source": "DNA India",
+  "published_utc": "2018-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Mumbai branch\u2019s \u2018iron spikes\u2019 sparks Twitter outrage",
+  "source": "The Indian Express",
+  "published_utc": "2018-03-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank stocks in limelight; surge up to 10%",
+  "source": "India.com",
+  "published_utc": "2018-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex up approx 500 pts, Nifty ends above 10,100",
+  "source": "India.com",
+  "published_utc": "2018-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A dubious first: PNB is just 5 days away from getting a defaulter tag",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hiranandani family to invest Rs3,500 crore in oil and gas",
+  "source": "Livemint",
+  "published_utc": "2018-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Outrage In Mumbai, HDFC Bank Removes 'Anti-Homeless' Iron Spikes",
+  "source": "NDTV",
+  "published_utc": "2018-03-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Faces Flak For Installing Iron Spikes Outside Mumbai's Fort Branch, Removes Them After Outrage",
+  "source": "India.com",
+  "published_utc": "2018-03-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai: HDFC removes \u2018anti-homeless\u2019 spikes outside its branch after criticism on social media",
+  "source": "Scroll.in",
+  "published_utc": "2018-03-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank stocks in focus; gain 5.5%",
+  "source": "India.com",
+  "published_utc": "2018-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Anti-Homeless Spikes' Outside Mumbai Bank Spark Outrage",
+  "source": "Comic Sands",
+  "published_utc": "2018-03-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Housing For All: How Low-Cost Affordable Housing Can Transform The Urban Landscape",
+  "source": "Swarajya",
+  "published_utc": "2018-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI hikes interest rates on fixed deposits above two years",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking sector lost Rs 18,170 crores to frauds in Financial Year 2017-18: Report",
+  "source": "India TV News",
+  "published_utc": "2018-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rename KEM Hospital after Anandi Joshi, demands MNS",
+  "source": "The Financial Express",
+  "published_utc": "2018-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

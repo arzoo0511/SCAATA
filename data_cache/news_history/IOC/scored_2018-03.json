@@ -1,0 +1,317 @@
+[
+ {
+  "title": "BSR's share value reaches ceiling price on first day on UpCOM",
+  "source": "Vietnam Investment Review - VIR",
+  "published_utc": "2018-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ironman Abhishek Mishra leads Lucknow City Half Marathon",
+  "source": "The Times of India",
+  "published_utc": "2018-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "City gas project in seven districts in Kerala: Tenders to be issued this month",
+  "source": "Onmanorama",
+  "published_utc": "2018-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp bids for stake in Vietnam's Binh Son oil refinery",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-03-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC ready for EV technology challenge",
+  "source": "Motorindia",
+  "published_utc": "2018-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jet Privilege, IOC tie up for JPMiles benefits on fuel",
+  "source": "India.com",
+  "published_utc": "2018-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp commissions multi-product pipelines in Chennai",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-03-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices rise for the sixth straight day",
+  "source": "Scroll.in",
+  "published_utc": "2018-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIT-M students develop mobile unit that turns plastic waste into fuel oil",
+  "source": "The New Indian Express",
+  "published_utc": "2018-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s first US-sourced natural gas shipment leaves from Cheniere Energy\u2019s Sabine Pass",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gujarat Refinery to invest Rs 24,000 crore on projects till 2022",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cost of Building Amlekhgunj-Raxaul-Motihari Oil Pipeline Soars",
+  "source": "TechLekh",
+  "published_utc": "2018-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSUs make a beeline for top talent at B-schools",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Indian Refiner Eyes $1.5 Billion Savings With Own Plant Tech",
+  "source": "Bloomberg.com",
+  "published_utc": "2018-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil eyes $1.5 billion savings with own plant tech",
+  "source": "Livemint",
+  "published_utc": "2018-03-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation: IOC, Tata Motors to jointly develop hydrogen fuel cell technology",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-03-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Security locking systems installed on oil tankers",
+  "source": "The Kathmandu Post",
+  "published_utc": "2018-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s first home-delivery of Diesel kicked off in Pune by IOC",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil\u2019s 5kg LPG cylinders go on sale",
+  "source": "The Times of India",
+  "published_utc": "2018-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, Bharat Petroleum may buy 26% stake each in GAIL",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation starts home delivery of diesel",
+  "source": "Autocar India",
+  "published_utc": "2018-03-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL launches home delivery of fuel: Now get diesel at your doorstep",
+  "source": "IBTimes India",
+  "published_utc": "2018-03-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil begins doorstep delivery of diesel in India",
+  "source": "Overdrive",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation starts home delivery service of diesel",
+  "source": "Business Today",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation plans to set up bottling plant in Punjab",
+  "source": "DNA India",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation to mull investing $3.5 billion to expand next fiscal",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-03-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pipes arrive en masse for vital oil pipeline",
+  "source": "The Kathmandu Post",
+  "published_utc": "2018-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ahead Of Polls, Loan Recovery In Cooking Gas Scheme Deferred",
+  "source": "NDTV",
+  "published_utc": "2018-03-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The fresh prince of Shell India",
+  "source": "Fortune India",
+  "published_utc": "2018-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "World class tourist facilitation centre at Konark",
+  "source": "The Statesman",
+  "published_utc": "2018-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Highway amenities scheme: Indian Oil, HPCL and BPCL put in bids",
+  "source": "Livemint",
+  "published_utc": "2018-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gadkari\u2019s Highway Village Project Sees Good Response From Bidders, Driving Could Soon Be A Smoother Affair",
+  "source": "Swarajya",
+  "published_utc": "2018-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC wants govt projects to use its bitumen",
+  "source": "The Himalayan Times",
+  "published_utc": "2018-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest Rs1.4 trillion to double refining capacity",
+  "source": "Livemint",
+  "published_utc": "2018-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Meddling' forces Jesuit school exit",
+  "source": "Telegraph India",
+  "published_utc": "2018-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

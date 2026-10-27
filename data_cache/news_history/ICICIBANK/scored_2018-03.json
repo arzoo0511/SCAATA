@@ -1,0 +1,587 @@
+[
+ {
+  "title": "Google integrates State Bank of India on to payments app Tez",
+  "source": "MediaNama",
+  "published_utc": "2018-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI and PNB raise lending rates. Home, car loans to cost more",
+  "source": "Times Now",
+  "published_utc": "2018-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to take over pan India tea auction settlement",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gurgaon: Thieves steal ATM from Islampur, 14th since December | Hindustan Times",
+  "source": "Hindustan Times",
+  "published_utc": "2018-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NERL ties up with Bank of Baroda for pledge finance",
+  "source": "Livemint",
+  "published_utc": "2018-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's Chanda Kochhar, Axis Boss Shikha Sharma Summoned By Anti-Fraud Agency In Bank Fraud Case",
+  "source": "NDTV",
+  "published_utc": "2018-03-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EXCLUSIVE | Here's a list of loans issued by banks to Mehul Choksi's Gitanjali Gems",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank stocks tank as PNB turmoil deepens",
+  "source": "India.com",
+  "published_utc": "2018-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB fraud: CEO Sunil Mehta likely to appear before SFIO tomorrow",
+  "source": "Livemint",
+  "published_utc": "2018-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Punjab National Bank Head Sunil Mehta Appears Before Anti Fraud Agency (SFIO)",
+  "source": "NDTV",
+  "published_utc": "2018-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "9 Topmost Women Bankers in India",
+  "source": "Jagranjosh.com",
+  "published_utc": "2018-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3Es to empower women: Encourage, educate and empower them financially: Chanda Kochhar, MD and CEO, ICICI Bank",
+  "source": "YourStory.com",
+  "published_utc": "2018-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 companies you didn't know had female CEOs and COOs",
+  "source": "Deseret News",
+  "published_utc": "2018-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank raises lending rates: Loans and EMI to get costlier",
+  "source": "IBTimes India",
+  "published_utc": "2018-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 savings bank accounts for women",
+  "source": "IBTimes India",
+  "published_utc": "2018-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New moms on office tours get an extra ticket for the nanny",
+  "source": "The Times of India",
+  "published_utc": "2018-03-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches robotic locker vault",
+  "source": "DNA India",
+  "published_utc": "2018-03-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Rail Neer' to cost more",
+  "source": "BusinessLine",
+  "published_utc": "2018-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Say 'Hello' to Deepika, Ranveer, Shah Rukh",
+  "source": "Rediff",
+  "published_utc": "2018-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank offers instant online overdraft facility for MSMEs",
+  "source": "India.com",
+  "published_utc": "2018-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC to pare 4% stake in mutual fund arm via IPO",
+  "source": "VCCircle",
+  "published_utc": "2018-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI launches instant online overdraft facility for MSMEs",
+  "source": "India.com",
+  "published_utc": "2018-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pe\u00f1a Nieto promulgates the Fintech Law",
+  "source": "FF News",
+  "published_utc": "2018-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank stocks fall up to 2 pc on renewed fraud worries",
+  "source": "India.com",
+  "published_utc": "2018-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shankar Sharma gives away his 100-bagger formula for D-Street",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank first among peers to tap masala bond route",
+  "source": "The Economic Times",
+  "published_utc": "2018-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank IPO gets an overall subscription of 88% on Day 2",
+  "source": "Livemint",
+  "published_utc": "2018-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HT Exclusive: Farmers \u2018Default\u2019 On Rs 11 Crore Taken By Sangli Sugar Factory",
+  "source": "ChiniMandi",
+  "published_utc": "2018-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rbi: Rs 11,300 crore lying unclaimed with 64 banks, shows RBI data",
+  "source": "The Times of India",
+  "published_utc": "2018-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to hike ATM charges from January 1",
+  "source": "DNA India",
+  "published_utc": "2018-03-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy partners with ICICI Bank",
+  "source": "Banking Frontiers",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy ties up with ICICI Bank to offer digital payment solutions to its delivery fleet",
+  "source": "The News Minute",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank raises Rs4,000 crore via bonds",
+  "source": "Livemint",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank reports 12% rise in Q1 profit",
+  "source": "DNA India",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank net rises 12% as bad loans growth slows",
+  "source": "DNA India",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After HDFC, now ICICI Bank pushes peddle on mobile banking",
+  "source": "DNA India",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares up 4%; m-cap surges Rs 6,725.5 crore post Q1",
+  "source": "DNA India",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Retail loans push ICICI Group net up 12%; asset quality worsens",
+  "source": "DNA India",
+  "published_utc": "2018-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How ICICI Bank is using AI to amp up customer centricity",
+  "source": "ET CIO",
+  "published_utc": "2018-03-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How ICICI raised a generation of women bankers",
+  "source": "DNA India",
+  "published_utc": "2018-03-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities IPO to open on March 22; 10 key things you should know before investing",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q1 net slips 22% to Rs 2,516 cr",
+  "source": "DNA India",
+  "published_utc": "2018-03-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rate cut war: HDFC, ICICI Bank reduce home loan rate",
+  "source": "DNA India",
+  "published_utc": "2018-03-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank head Chanda Kochhar and husband on the radar of probe agencies for doubtful loans to debt-ridden Videocon Group?",
+  "source": "PGurus",
+  "published_utc": "2018-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank stocks in limelight; surge up to 10%",
+  "source": "India.com",
+  "published_utc": "2018-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank stocks in focus; gain 5.5%",
+  "source": "India.com",
+  "published_utc": "2018-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Board gives clean chit to Chanda Kochhar; says not the lead banker to Videocon Group",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-03-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI slaps \u20b958.9 cr fine on ICICI Bank",
+  "source": "The Hindu",
+  "published_utc": "2018-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon gets Rs 3250-crore loan from ICICI Bank, bank CEO\u2019s husband gets sweet deal from Venugopal Dhoot",
+  "source": "The Indian Express",
+  "published_utc": "2018-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI, Videocon shareholder had warned PMO of \u2018illicit banking and commercial relationship\u2019 in 2016",
+  "source": "Newslaundry",
+  "published_utc": "2018-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Dhoot\u2019s 64-cr Loan to Deepak Kocchar Opened a Can of Worms",
+  "source": "The Quint",
+  "published_utc": "2018-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI fines ICICI Bank Rs 58.9 crore for treasury violations",
+  "source": "The Times of India",
+  "published_utc": "2018-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is Chanda Kochhar?",
+  "source": "The Indian Express",
+  "published_utc": "2018-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI slaps Rs 59 cr fine on ICICI Bank for violating bond sale norms",
+  "source": "India.com",
+  "published_utc": "2018-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan case: Full faith in Chanda Kochhar, says ICICI board",
+  "source": "The Times of India",
+  "published_utc": "2018-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Regulatory compliance is of utmost importance, says ICICI Bank after RBI imposes Rs 58.9 crore fine",
+  "source": "Scroll.in",
+  "published_utc": "2018-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi looking into ICICI Bank matter",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar was on panel that cleared Videocon loan: ICICI Bank chairman MK Sharma",
+  "source": "The Indian Express",
+  "published_utc": "2018-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deepak Kochhar Faces Preliminary Probe In ICICI Bank-Videocon Loan Matter",
+  "source": "NDTV",
+  "published_utc": "2018-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, investment unit to buy into Arteria Technologies",
+  "source": "Entrepreneur India",
+  "published_utc": "2018-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon Scam: How The Bold and Beautiful Help Each Other",
+  "source": "NewsClick",
+  "published_utc": "2018-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is Deepak Kochhar, the man at the centre of ICICI-Videocon controversy?",
+  "source": "Business Today",
+  "published_utc": "2018-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's CBI probing Videocon, husband of ICICI Bank CEO, in loan case - sources",
+  "source": "Reuters",
+  "published_utc": "2018-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Had to reduce ownership in ICICI Lombard due to regulations: Prem Watsa spells reasons for lowering stake...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI files PE against ICICI Bank CEO Chanda Kochhar\u2019s husband and Videocon's Venugopal Dhoot",
+  "source": "The Times of India",
+  "published_utc": "2018-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,344 @@
+[
+ {
+  "title": "Indian Oil\u2019s new campaign explains motorists benefits of using premium fuel in a humourous way",
+  "source": "Exchange4Media",
+  "published_utc": "2018-07-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Solar power to run world\u2019s highest LPG bottling plant in Leh",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal-India oil pipeline: 13km pipeline laying works completed",
+  "source": "The Kathmandu Post",
+  "published_utc": "2018-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sun Will Run World\u2019s Highest LPG Bottling Plant in Leh, To Save 30000L of Diesel!",
+  "source": "The Better India",
+  "published_utc": "2018-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trafigura promotes Luckock, Gillon to co-heads of oil",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2018-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka's Ceylon Petroleum rows back on fuel price increase",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CCI dismisses complaint against IOCL, BPCL, HPCL",
+  "source": "India.com",
+  "published_utc": "2018-07-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Khaleel\u2019s 7wkts, opener Ravikant Shukla\u2019s 179 and prolific Siddhesh Lad\u2019s ton propel Indian Oil to a win over Central Railway in the Times Cricket Shield 2017",
+  "source": "CricketGraph",
+  "published_utc": "2018-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL plan to supply jet fuel to Mumbai airport using OMC pipelines faces hurdles",
+  "source": "Livemint",
+  "published_utc": "2018-07-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reduce oil prices or expect demand to sink, Indian Oil warns Opec",
+  "source": "Livemint",
+  "published_utc": "2018-07-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The India-Russia-US Energy Triangle",
+  "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+  "published_utc": "2018-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices increase for the seventh time in current month",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US Oil Exports to India Soar Ahead of Iran Sanctions",
+  "source": "Marine News Magazine",
+  "published_utc": "2018-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Industries back in $100 billion club after a decade - The Indian Wire",
+  "source": "The Indian Wire",
+  "published_utc": "2018-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG subsidy jumps 60% as government maintains prices to help consumers",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol rate today in Chennai: Daily update",
+  "source": "The Times of India",
+  "published_utc": "2018-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel price today in Noida: Daily update",
+  "source": "The Times of India",
+  "published_utc": "2018-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After ten days, petrol prices fall around 10 paise across four metros",
+  "source": "Business Standard",
+  "published_utc": "2018-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi government's dilemma: To buy oil from Iran or US?",
+  "source": "The Times of India",
+  "published_utc": "2018-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Motihari-Amlekhgunj pipeline construction halted due to monsoon",
+  "source": "The Himalayan Times",
+  "published_utc": "2018-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil says Rs 4,300 cr Ennore LNG terminal to become operational by October",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-07-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gangster\u2019s petrol pumps come under CBI scanner",
+  "source": "The New Indian Express",
+  "published_utc": "2018-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi govt to achieve 50-million LPG connection target by August 15",
+  "source": "Rediff",
+  "published_utc": "2018-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tito link: BJD demands Pradhan\u2019s head",
+  "source": "The New Indian Express",
+  "published_utc": "2018-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First in TN: Kumbakonam gets Bandicoot, a semi-automatic robot to clean manholes",
+  "source": "The Times of India",
+  "published_utc": "2018-07-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to invest Rs 12,000 cr in Haldia refinery, pipeline infra",
+  "source": "India.com",
+  "published_utc": "2018-07-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Mukesh Ambani, other corporate bigwigs may lose 'a' job",
+  "source": "The Times of India",
+  "published_utc": "2018-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran is now India's 2nd biggest oil supplier ahead of Saudi Arabia, but for how long?",
+  "source": "India Today",
+  "published_utc": "2018-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s crude oil imports from Iran jumped 52 per cent in June",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gurmeet Singh takes over as Director-Marketing at Indian Oil Corporation",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil shuts unit at Haldia plant after small fire: source",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CNG to hydrogen-CNG: Why switch, and how",
+  "source": "The Indian Express",
+  "published_utc": "2018-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC gets nod to drill exploratory wells close to bird sanctuaries",
+  "source": "The Hindu",
+  "published_utc": "2018-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Alarming number of accidents in ONGC and HPCL facilities: Parliamentary panel",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Octane Rating Of Fuels Available In India \u2014 How Do High Octane Fuels Help?",
+  "source": "DriveSpark",
+  "published_utc": "2018-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Public Sector Companies Launch Aggressive Campaigns to Promote Modi Govt Schemes",
+  "source": "thewire.in",
+  "published_utc": "2018-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Robot to clean up temple town in Tamil Nadu",
+  "source": "The Indian Express",
+  "published_utc": "2018-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swachhta Pakhwada Celebrated Successfully Across The Country By The Ministry of Petroleum & Natural Gas",
+  "source": "Khabar India",
+  "published_utc": "2018-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

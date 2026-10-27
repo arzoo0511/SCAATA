@@ -1,0 +1,362 @@
+[
+ {
+  "title": "Oil PSUs freeze petrol, diesel prices ahead of Karnataka polls",
+  "source": "The Times of India",
+  "published_utc": "2018-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Industrial Welding Batch Launched At SDI, Raebareli",
+  "source": "Sarkaritel.com",
+  "published_utc": "2018-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil is on the boil but your petrol bill won't go up, all thanks to Karnataka polls",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nine companies in the race for 55 oil and gas blocks under first OALP auction",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s refining capacity rose 5.8 per cent last fiscal on Jamnagar and Kochi expansion",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bhutan cheaper fuel - Assam residents visit border town",
+  "source": "RushLane",
+  "published_utc": "2018-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Smoke to Ink? Indian Inventors Try Novel Approach to Tame Air Pollution",
+  "source": "VOA - Voice of America English News",
+  "published_utc": "2018-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL begins home-delivery of diesel",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hindustan Petroleum Starts Diesel Fuel Home Delivery Services In Mumbai",
+  "source": "carandbike",
+  "published_utc": "2018-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki Ecstar Lubricants For Four-Wheelers Launched In India",
+  "source": "Gaadiwaadi.com",
+  "published_utc": "2018-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What Trump\u2019s JCPOA withdrawal means for India",
+  "source": "Brookings",
+  "published_utc": "2018-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "40-litre fuel tank can take up to 52: Test",
+  "source": "The Times of India",
+  "published_utc": "2018-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyderabad: 3 illegally draw fuel from tankers, held",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADNOC ships first cargo for Indian strategic oil reserve at Mangalore",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hindustan Petroleum Starts Diesel-Delivery Services In Mumbai",
+  "source": "DriveSpark",
+  "published_utc": "2018-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Rs 3 lakh crore Ratnagiri refinery gets Abu Dhabi push as Adnoc eyes stake after Saudi Aramco",
+  "source": "The Financial Express",
+  "published_utc": "2018-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices rise for the first time since April 24 ahead of Karnataka poll results",
+  "source": "CNBC TV18",
+  "published_utc": "2018-05-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol prices shoot up after Karnataka polls; diesel hits fresh all-time high",
+  "source": "Business Today",
+  "published_utc": "2018-05-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel, kerosene dearer by Rs 2 per litre",
+  "source": "The Himalayan Times",
+  "published_utc": "2018-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 4 a litre hike in petrol, diesel prices in offing",
+  "source": "India.com",
+  "published_utc": "2018-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai i20 with 45 L fuel tank, gets filled with 49 L diesel \u2013 Petrol pump scam or no?",
+  "source": "RushLane",
+  "published_utc": "2018-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai i20 Filled With 49 Litres Of Diesel \u2014 The i20\u2019s Fuel Tank Capacity Is Only 45 Litres",
+  "source": "DriveSpark",
+  "published_utc": "2018-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel touch all time highs as oil companies hike rates",
+  "source": "The Times of India",
+  "published_utc": "2018-05-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol And Diesel Prices Hit Record High - Petrol Price In Mumbai Stands At Rs 84.40 Per Litre",
+  "source": "DriveSpark",
+  "published_utc": "2018-05-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC fourth quarter net profit up 40 per cent at Rs 5,218 crore",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-05-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel prices at all time high - Petition filed in Court to bring Petrol, Diesel under GST",
+  "source": "RushLane",
+  "published_utc": "2018-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices rise for 9th straight day; Govt says working on solution",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-05-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel at record high: With crude oil prices expected to rise over six months, can this govt resolve the fuel crisis?",
+  "source": "Firstpost",
+  "published_utc": "2018-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to double LPG storage at Thimmapur bottling plant",
+  "source": "The Hindu",
+  "published_utc": "2018-05-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel prices rise for 12th straight day",
+  "source": "India.com",
+  "published_utc": "2018-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rise in Petrol Price: P. Chidambaram should not mislead the country",
+  "source": "Star of Mysore",
+  "published_utc": "2018-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Distressed' 5-Foot Snake Found In Noida Residential Building, Rescued",
+  "source": "NDTV",
+  "published_utc": "2018-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Puthuvypeen LPG project: Indian Oil Corporation promises it safe",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price hike - Holistic strategy to find long-term solution to fuel prices: Pradhan",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "M Venkatesh, Appointed As New MD Of MRPL",
+  "source": "Sarkaritel.com",
+  "published_utc": "2018-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel prices cut by just 1 paisa a litre for today, \u2018clerical error\u2019 blamed for earlier announcement",
+  "source": "Scroll.in",
+  "published_utc": "2018-05-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018I feel richer\u2019: 1 paisa cut on petrol, diesel prices fuel jokes on Twitter | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2018-05-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One paisa cut on petrol prices; Netizens say that\u2019s salt on wounds, not relief",
+  "source": "The Indian Express",
+  "published_utc": "2018-05-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC most profitable PSU for 2nd year in a row, beats ONGC again",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-05-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Financially Strong Is Indian Oil Corporation Limited (NSE:IOC)?",
+  "source": "Yahoo Finance",
+  "published_utc": "2018-05-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

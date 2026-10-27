@@ -1,0 +1,74 @@
+[
+ {
+  "title": "RK SINHA TIPPED AS DIRECTOR PERS IN CWC",
+  "source": "IndianMandarins",
+  "published_utc": "2018-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India gets cheapest LNG as Russia's Gazprom begins supplies",
+  "source": "The Times of India",
+  "published_utc": "2018-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia's Gazprom Starts Supplying LNG To India As First Shipment Arrives In Gujarat",
+  "source": "NDTV",
+  "published_utc": "2018-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s natural gas production grows 5.10 per cent in April, gas-based generation rises 19 per cent",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Businessmen, innovators honoured at Global Business Awards",
+  "source": "The Statesman",
+  "published_utc": "2018-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Battle for Ruchi Soya: Adani tops with Rs 6,000-crore bid",
+  "source": "The Financial Express",
+  "published_utc": "2018-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC sells CBM gas from Jharkhand blocks at $5.77-6.12 per MMBTU",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "INTER CADRE TRANSFERS OF THREE IAS OFFICERS CLEARED",
+  "source": "IndianMandarins",
+  "published_utc": "2018-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
