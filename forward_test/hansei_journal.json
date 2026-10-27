@@ -5862,5 +5862,304 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-27",
+    "ran_utc": "2026-10-27T12:35:47.035171+00:00",
+    "equity": 10035.22,
+    "benchmark_equity": 9951.98,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.379,
+        "target_exposure": 0.243,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.93, trusted 26%)",
+          "momentum against (-0.36, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.934,
+          "volatility": -0.027,
+          "momentum": -0.356,
+          "news": -0.143
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.189,
+        "target_exposure": 1.0,
+        "current_exposure": 0.691,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "news supportive (+0.41, trusted 24%)",
+          "trend supportive (+0.35, trusted 26%)"
+        ],
+        "views": {
+          "trend": 0.355,
+          "volatility": -0.118,
+          "momentum": 0.098,
+          "news": 0.408
+        },
+        "value": 1386.9
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.479,
+        "target_exposure": 1.0,
+        "current_exposure": 0.885,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 88%: no strong reason to change",
+          "news supportive (+0.94, trusted 24%)",
+          "trend supportive (+0.59, trusted 26%)"
+        ],
+        "views": {
+          "trend": 0.587,
+          "volatility": -0.0,
+          "momentum": 0.381,
+          "news": 0.941
+        },
+        "value": 1776.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.257,
+        "target_exposure": 0.485,
+        "current_exposure": 0.197,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 20%: no strong reason to change",
+          "trend against (-0.80, trusted 26%)",
+          "momentum against (-0.27, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.801,
+          "volatility": -0.0,
+          "momentum": -0.271,
+          "news": 0.097
+        },
+        "value": 395.25
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.587,
+        "target_exposure": 0.0,
+        "current_exposure": 0.259,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "trend against (-0.84, trusted 26%)",
+          "volatility against (-0.81, trusted 24%)"
+        ],
+        "views": {
+          "trend": -0.844,
+          "volatility": -0.812,
+          "momentum": -0.524,
+          "news": -0.148
+        },
+        "value": 520.0
+      }
+    ],
+    "weights": {
+      "trend": 0.265,
+      "volatility": 0.2403,
+      "momentum": 0.2527,
+      "news": 0.2419
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.143,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": -0.143
+        },
+        "top": [
+          {
+            "title": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next?",
+            "source": "The Economic Times",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-10-27T04:11:29+00:00",
+            "count": 1
+          },
+          {
+            "title": "Anup Bagchi assumes charge at HDFC Bank, faces many challenges",
+            "source": "The New Indian Express",
+            "sentiment": -0.012,
+            "material": 0.6,
+            "published_utc": "2026-10-27T11:31:54+00:00",
+            "count": 32
+          },
+          {
+            "title": "A banking giant, a battered stock: Can HDFC Bank\u2019s new chief turn the tide?",
+            "source": "The Economic Times",
+            "sentiment": 0.0,
+            "material": 0.5,
+            "published_utc": "2026-10-27T09:57:22+00:00",
+            "count": 1
+          },
+          {
+            "title": "Too Big to Fail, Yet Down Over 30%: Where Could HDFC Bank\u2019s Stock Go After Q2 and a Leadership Reset?",
+            "source": "Trade Brains",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-10-27T04:30:37+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.408,
+          "strength": 1.0,
+          "material_count": 7,
+          "view": 0.408
+        },
+        "top": [
+          {
+            "title": "ICICI Bank Publishes Q2 FY2027 Earnings and Media Call Transcripts",
+            "source": "Kalkine Media",
+            "sentiment": 0.56,
+            "material": 0.8,
+            "published_utc": "2026-10-26T13:29:43+00:00",
+            "count": 2
+          },
+          {
+            "title": "Here's why Kotak Neo recommends 'Buy' rating on ICICI Bank; 'Add' Nykaa",
+            "source": "Business Standard",
+            "sentiment": 0.8,
+            "material": 0.7,
+            "published_utc": "2026-10-27T02:25:27+00:00",
+            "count": 1
+          },
+          {
+            "title": "Credit ratings reaffirmed for ICICI Bank (IBN) in October 23 agency releases.",
+            "source": "Stock Titan",
+            "sentiment": 0.8,
+            "material": 0.7,
+            "published_utc": "2026-10-26T10:04:04+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank report higher Q2 profits despite margin pressure",
+            "source": "Upstox",
+            "sentiment": 0.8,
+            "material": 0.7,
+            "published_utc": "2026-10-26T06:52:36+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.941,
+          "strength": 1.0,
+          "material_count": 3,
+          "view": 0.941
+        },
+        "top": [
+          {
+            "title": "Petronet LNG to invest Rs 1,200 crore in 10 compressed biogas plants through JV with Gruner",
+            "source": "BioEnergy Times",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-27T06:26:42+00:00",
+            "count": 3
+          },
+          {
+            "title": "Petronet LNG and Gruner Renewable Energy form JV to develop CBG projects",
+            "source": "Renewable Watch",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-26T06:58:58+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet\u2019s \u20b91,200-crore biogas JV adds domestic gas as LNG import risks mount",
+            "source": "TradingView",
+            "sentiment": 1.0,
+            "material": 0.85,
+            "published_utc": "2026-10-26T06:17:00+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.097,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": 0.097
+        },
+        "top": [
+          {
+            "title": "Indian Oil sets Aug 24 cutoff for AGM voting on \u20b925,800 crore deal",
+            "source": "scanx.trade",
+            "sentiment": 0.5,
+            "material": 0.8,
+            "published_utc": "2026-10-25T12:41:18+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil Corporation schedules Q2 results: target for Indian Oil Corporation stock is INR 160",
+            "source": "ad-hoc-news.de",
+            "sentiment": 0.4,
+            "material": 0.6,
+            "published_utc": "2026-10-24T23:28:11+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil's petrochemical push: Weighing the financial, climate, and energy security risks",
+            "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+            "sentiment": 0.1,
+            "material": 0.5,
+            "published_utc": "2026-10-27T04:32:18+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil (NSE:IOC) In View On Rising Crude Import Bill",
+            "source": "Kalkine India",
+            "sentiment": -0.4,
+            "material": 0.5,
+            "published_utc": "2026-10-26T16:52:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": -0.299,
+          "strength": 0.495,
+          "material_count": 2,
+          "view": -0.148
+        },
+        "top": [
+          {
+            "title": "ITC Q2 Preview: Higher taxes to hit cigarette business? 5 key factors to watch",
+            "source": "Zee Business",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-27T08:13:14+00:00",
+            "count": 1
+          },
+          {
+            "title": "ITC Hotels to Establish Wholly Owned Subsidiary in Dubai for Global Expansion",
+            "source": "Whalesbook",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-10-26T08:08:23+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]

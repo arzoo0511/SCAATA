@@ -1,0 +1,104 @@
+{
+  "symbol": "PETRONET.NS",
+  "date": "2026-10-27",
+  "headlines": [
+    {
+      "title": "Petronet LNG Enters Compressed Biogas Production",
+      "source": "Chemical Industry Digest",
+      "published_utc": "2026-10-27T06:26:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd1FSODVRU3NaY0dhZW1fOVRXTjFtX2dhYnozVHdBWjVpWGUxX0xwTTNENjFDZmVyWUZPeU1DcGRZNXFxNUN1Z1pLTnVCeEhzcVRHOWJ6V2UxUTlzMmRxdWptZzFMTHBRb2UyaGd2QjZsSnhqNjRFd3ZyNDZiSDdmMjN0Vzc2eV9aOWdVUFFUdjNQdw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG to invest Rs 1,200 crore in 10 compressed biogas plants through JV with Gruner",
+      "source": "BioEnergy Times",
+      "published_utc": "2026-10-26T10:14:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEh4ZzJzZWozQnhiUzBFQ0hoWS14NDBnVEtUZV9oNGtLQkhHcVZyQklxcEl2c3VuUU9rLXRQaFU3WkVKc1ZwdE5URkItaEw3OE93QngxQWs3Rjg2bUlwNVpQY0pQNXZ3Z1RRLUtxZzdmSm5xcVhyRVZWS0lOTFZGeS1VNXhXWS1RMG9wWlRYYnNYM0o1czBfcXo1Nkw3WEN5QXp3bUlEYlZ0VEl0S2UwLW5FVkVFSGhBbnc?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Akshay Kumar Singh: The Man Behind Landmark Energy Projects and Petronet LNG\u2019s Growth",
+      "source": "Indian PSU",
+      "published_utc": "2026-10-26T07:25:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VZlZlYkFOM1BjUnBnbF9CM2lnM3pBRjlIVmtmOGhzLWhFVHF3Ri14LWttd1N3SjNPZjhZSmd2bzh0REVEamxzWWlIRThoRlJYbzNvUHBEZG0zRl80STJ3WjB5S1dMRUFQaDN4WDFxMFVETzl4dXRBX3dJcEdRLU0?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG and Gruner Renewable Energy form JV to develop CBG projects",
+      "source": "Renewable Watch",
+      "published_utc": "2026-10-26T06:58:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV01YM25RM256ZlFGcy1OVXc2Zl9tSGkzVUZnN0lRQks0U0R0ek04TXhzVHcxWHhIMEtfdWNRdW9SQjlEbDZ5QWVldWpfQWJaTU5odmlSSjgwdldfNFRwdWxOdHREblJfOFBpTHVqSTZBYmFzejREdXNKZDRSZFI3STcydHhrc2VEX2c0RUtvRHhyeVN3Q0tQODJUMFQ3UndLa1dMNWVIakEwS0dKSkF0Tm53?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet\u2019s \u20b91,200-crore biogas JV adds domestic gas as LNG import risks mount",
+      "source": "TradingView",
+      "published_utc": "2026-10-26T06:17:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYnRtSGJNdUtxUVcza0dIOF9pYzRyNnNnWTMtX2hpYWNvcFp2Xy1URDRkTjNvN2M4eFdGNTFRTzBoWlNqSElDZ1l3QjFMRHhsRWF2dmZGZDVtZTkxSmVkUXgxazBUM1h5ZjNacXRHN0pqZ09OdWYyMU9NZm9lS05jOVJyN1YwblZxcUgtZ3FjdF9yZ2xVWEtyM056dmZQV18tR1pTVUhNcnltUUhLejdOeFQzSFhQMThBNy1WN0xVemxiVXIwTk1fSVhFSU5tUQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet\u2019s bets \u20b91,200 cr on biogas as LNG import risks rise",
+      "source": "BusinessLine",
+      "published_utc": "2026-10-26T05:58:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTlF1NERXOWg5NllMajJzT3dCVlc3VlJpQnNKOGhFR1pHTVY2YkJEd3M4ZDBxNHVZYlN0NnFCcmdrTGFsZ1JuZE5HUHBucUdjVm11ZHgzaU9GTmZBeUJEZnA1QXNRQ3lUbUV0TS1fWkxpMVhHVGphSUVqVzRFemFJazRTM0E1LWIyV25EcTVWM1plX0dqMHFmemt4VTZmVUVTZ2dlNjFOTmpUTUFaMGtXR0l2ajFXczlpODBmdUU2aXBpNzdON29PWm9DcmdZQm56MWNhMEpUWF_SAd8BQVVfeXFMTnVoWjgxc21hd3VtVXRveFptVWkycVYyT001TTNuVWtIenpyZFoxQnZaVElPRWNmVTRIYno0dE1faVlZSm5mcXNQLXgxaTFvUm81b3RmejFWbm9XWG94TEcxRzJIb1hEYnA0Vk5acHMwUE9TLTNlaUhtdXNSSkxVTElvQ2h4OFZUUWtHUnpObW94MlUtemVUVDVqMkFjREUzODlocXotMkFPR01Ea2VQbEN0VThYVWFGaVdZc2lLYlowUXdRTTdacERMVjdnTU1OR1ZNSVZieE8wYVpzZHZ3NA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.85,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Incorporates MC2 Foundation as Wholly-Owned Subsidiary for Energy Sector Innovation",
+      "source": "scanx.trade",
+      "published_utc": "2026-10-25T13:18:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHMzSHZSVGU3QjV2czd2MnBnUElIa0tnbGttaTIzNHZoNXZNQVNtbi13dUE2NmJNbHVsQ3haMjFXUDNSSzUyY0FnX0c1TExRT05GcUk2S3haQVpGd3Z6XzZoOHlaSllySjh3YURLLUhOZnRncC0wTzFpLVVsZjRtWFl0NEkwUTBSV3ZtcERNVmRxcC0xVEFHTDY1TkdwaGQwLV9pc1ZUU2ZlVEtMdXlBcWFITVhxZ3VBQnpPdGxwT1VoZ3RBRm9LRW1HUWFMRnVBb1RUSllteUdOUVV0ajJLSXplRHJiTHEt?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil sets Aug 24 cutoff for AGM voting on \u20b925,800 crore deal",
+      "source": "scanx.trade",
+      "published_utc": "2026-10-25T12:41:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmNmWGNCRGJXN0N6RXBESE5xWkFBaGRjcDQ2ZGhLeTI2OE9lRmhkR1FVRU9EV0p6dVhDNk5HY3hPM1JxeUNrN0VPVHNNVHk3cU9UMDUzeGRfTUEtekVHdzhXek1fblpiblE2SGdKMGNPdDMxLWlvVFZwZm1CT25yR3JfSnZWaC1TQ3RqU2JGUkRHaWhKd191VjRWRjNWU0pNSUNGTndVdkdjS0hFQVE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG, Gruner Renewable Energy to expand compressed biogas production in India; invest Rs 1,200 crore",
+      "source": "Zee Business",
+      "published_utc": "2026-10-24T13:34:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSUxjMVphc2MwbEcyRDl0UVVudC1xak9rWG1UakljZ3pPQkpXbkc0RHlabGM5YjdZb1JYX2pUS3BOeVk0ZmtzVjhqMHVfNlhzOW0xUmZVRTZtbFBfMUdGeWFlMS04bzUtLXdoZzM1S1M1b2RVRmxyWnpBZG43V3dUdEpsdnNCRVZ3eUZxNjBxc3BWZmhKeWFtVTY4RTZzQnh5VUpOTHNmVlJnWGoyYm1LNkQ5QnFwallsSmZSTTZiem02cWdWdG1FMEsxYXN2dTd2VnY0ZzBWcnlxSDl6N0RJ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.941,
+    "strength": 1.0,
+    "material_count": 3,
+    "view": 0.941
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-27T12:35:40.736289+00:00"
+}
