@@ -1,0 +1,414 @@
+{
+  "symbol": "HDFCBANK.NS",
+  "date": "2026-10-28",
+  "headlines": [
+    {
+      "title": "A new CEO takes charge at HDFC Bank (HDB) after Sashidhar Jagdishan completes his tenure.",
+      "source": "Stock Titan",
+      "published_utc": "2026-10-28T10:04:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVnNCdDRINXBLek1lS3pwUVB0TDNZYWUzbnVxaXJEU2FLOV9mODFtaEtCUlhvNGM3U0tfa0tsamhkV1NTa2tKeEVqTk5feDdmcGZGcXpwT25iZjFZS29YNXZQcmlnN2NoLUI3RHNJeExmWkJVaEI4dnRUMkdXeDdxRW1hbmkzMzFaLTBST0UtbzV5UWNtY2pMV19aeGwyNkUzWGlqallqekg3MEl2?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows",
+      "source": "Business Standard",
+      "published_utc": "2026-10-28T07:38:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUlBRN3hYa1RJQVU5ajRWaHVEQ3ZHdnA0bFl0Qzhub3A2U1JvU2lhUW1ZT2RScHlwcHNPekRHaS0xb1hXNUZuU3BfdGQyRTRHWVhaWXh0emdydnozeGliOFFCa2NESkpXTjJjNDJibUI0b1NwOHUzZGhKX1ctbjZnbjlKa0dKWkZQUWJJYzZBeGYxaThRanZTTmRYY1NkZm54ZjVsS01uMDJMOGx2dkJYS016RVJZN3JBbzBya3ZWUk5RT1BPSHVWNFI1R0zSAdIBQVVfeXFMTXVtZ0huaFN6aUEtSm90Q2FMWl9aSDFDaDVRZnZKQlliSkNQNXIza1hfeFRvN1gtYVRFMVhYRkFsRnhPVDF4UGlLb3dmQUp3OF90TkhlUjd6WXFwZHY1eWllMmIxaGhoZXZMODd1TGRNamp4Y0t0V3RkRnZsNnQ0U195Wmp3djl1a1VkZGxmX1ZMOEFNVUNrRmNiX3hTcS1LRGp4bDhiX0YwVWV0cmhBMzNaT0d3NUo5OTM1dXNPcW1qb2VtQms2SUdVX0tUSkVNVzV3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Buy, Sell Or Hold: Jio Platforms, Apollo Hospitals, Kaynes Tech, HDFC Bank, L&T, Tata Technologies | Ask Profit",
+      "source": "NDTV Profit",
+      "published_utc": "2026-10-28T06:16:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWk5vWF9RamNNSnRoXzlTclR1RGgyX0VmQVpGTGpzNUt3M0pHQmZiZTZoaVFKXzcyS3RiZlFTNElUelF5ak4yaGFBNWJaZmpLeThKWmhVV2gwWGFMbTZiWVN6MEo3QkdTM01GUDNrb0lSUG9oN3pxSnpTTkp0aUlKSkpUZkZzSUVjSnhuNl9DazVfQ2tyNjB1VEVReVJCWjFQMFFuS05kUS1QSUlZLUlXRzhQX2xYUjNta3pxY3VYUmw4dFpsNkNuU3l3ZDBsamlRQ3o5VXNqN0FWdnE1WnfSAeYBQVVfeXFMTi1BOS0zbE03b1YxRER2Si1xNk1FQ0NFUV9hT2xIX1hFWkhsaXdRRTZReWZ1T3lCU2t0VHQ1VElsUkFyQ0dtVzlrejIwUUliMGQza0U2Ylk3RkFvYnZ3dzlYTWlUbGNxY0VrbmVDcDBYNHNsRW85V0ZEcDhQM2tYdVNMNFFWaFRzbUMyUVlHY2NIVkdGX1M2dTVReFNHUVBzbjJmZkJtd0FMSVVxd2lwNEQ1UGYzRGVBbnVuUjFfeXVlbDN6T0JPaDJOZkVGNlB4SjB2ckhudHNTa2dPeG1WdlY1NGJmTkE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi Takes Over as HDFC Bank MD & CEO, Succeeding Sashidhar Jagdishan",
+      "source": "Marksmen Daily",
+      "published_utc": "2026-10-28T05:40:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ3FwUFZyQ2EwT2dNM010NTY0N0d6TUpGX2U3eFhrdWh2UUhhcU1fdVotMktuNC1nYnJybzJWT3A5eFpBejhFNzRwNmpaaHRLWjlGd1RyYjBWQWRZUmpBSkNTZjhpNVJMakM4RmE5NGZLM2hZV2lhUFAxNmQ5YkxTWEFJalFoalVhSWVhWXlR?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank\u2019s new CEO set to command record Rs 35.9 crore pay",
+      "source": "https://whispersinthecorridors.net/",
+      "published_utc": "2026-10-28T05:27:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS3QzOUpJWXRENjNyNFgzU2trdXdsbG5BcE9uSV9DY2xySHQzUTctSXk4ZzQxR1UzQVBzdnlEc3J0UXJSVDRoNnhkOXFYc3VJVGNFZFdZaHBDTVd6NXdzQmVnRnZDZ1ZnSEJLR0NIamZPcE5VRWo5Y1NpOVhvN1dIV2pIaDVqV2JtbjB4VkhYRmZEX0QySDVEWWltYVloSG50?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jio IPO listing: Reliance-promoted firm becomes 2nd largest market cap holder in India | Check other 4 in top 5",
+      "source": "Livemint",
+      "published_utc": "2026-10-28T04:54:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQlBQRWZQZHBLS3JDaDRzSDRZUWFiUmcxWjV0RG54T2gzNlozZXdVNnNZLW0yYXJvbzN5YjhreTFCM1BqZDAtRXZKZWdSWHlFNEVSRUs5eU5RVjRCTE8tbXhtTVpkMWFlbzQyUVQ0WkVhLWFub0lnckFzMVFfNTRMYUh4eU1Oa2p1VTdmbDZyVV9JNFN4LS1GNHdZdzU1TXdYTmd2emZSSHNDcUczdzNiTW9wN1dUYW9PUXJSZzA5b2c1MTNydWRfandNd1ExVjVYSldmQzN6TTFrWjdFb0pSZGlTRkNYbUNTWWtBdGxON1hMUkhlYXRWSGtXdDdhNVp3OUVaRUI3MXpXZ9IBjwJBVV95cUxQNzk5d3h3NnBtdzJtWG01UTJRNzRod0NBTTdJaDlfU2RkR2lqWGQ0OERXekdRYks2R1hHUEJwOEh2eF9xWG9BeEc1RTVMMU5OelpMYjRFM1NwalR6Nk5iUmd0ZUYwNnhZaVlza0tjRFQyY3k2VTB2c2VCTmlxQnJxZnNldk1aNmJ5OGhwdUpIYVREakdzb2JZUVpSbVQ1TDRBNk1VTmxUTnU2NEM0U1FaRkN4QTRtMG53WGdrM3k0Q3dBLXdtWUpXWU9XeVFSLTZYNnMzOTEzaUwxVTUwMEl5UGJXeG1rUnVTTThCV1FMTDByTWtLajN1cDBNNlYtcTMxWHBNWkd2cndKUHN0RFVZ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi takes charge as HDFC Bank MD and CEO",
+      "source": "Investment Guru India",
+      "published_utc": "2026-10-28T04:39:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZXk2Tld1R2U3Smp3Y0oyN2lva0dQOEtucDdESG9zaWlGd1Vvd2l1QVRlT2lkMDcta2VQY2o3azU2bHo5MWRhTS1GX2NDTDZlTWVMNHRJcEsyM2hyNFMzbnBzRGpCU3BnS0U2aEJMd2ZLdTlyRk5yN2o5Nm5XZFotOXpyR242ZUd2OFRyQ0tWNkZiVGJnVTlYVHZsQUp2dw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Credit Cards Fly Faster as Banks Gear up for Festivals",
+      "source": "TradingView",
+      "published_utc": "2026-10-28T04:26:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVFCclgxQmZYOXotMzFRT2dCZ0dyZDZCdk9zQXVneE1iMU43ejE2U3dXdnJHZ2ZIMHQ4Y3gxZnNHTUNCQ09FMzVDM0F2UXU5ZE9vUWd4X0pzUXVpSVRLaXZyNTF3YllmS2drWDZDajNxandMUlV4NUtfSWgwYUp3bXFsSFFWSjFwb0h4MzVoTVFhMWdfcDVxZmV1eWF1OVdPLTc1WGNlLXZRUkFCbTRWWQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Limited Stock 12\u2011Month Price Target Cut to $30.31, Implies 42% Upside",
+      "source": "TradingView",
+      "published_utc": "2026-10-28T04:20:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd1F1TFgwZFpxdzRGOGtvdVg2anlrX1c2di1mY1pmaUc4NS1FQnZ1SFZkelR1bUtQM2VXb2h1WEZIMHRaa0pnWDl0YkU5YmlkY1FxZjdnZk1IOXlXVTRjYzR1VTdFZmlzR0ItUHNqMlM2cG5jVmUzRDAwckR1ZjcxaklFSGI4UzJxdlVYdzhQVThyYnhWMmhuckozVThyM25sblRDOHJIR3lWSkpIbVYzdlgzWnI1ZXMxQXFiRngzNDZzVE9tWjZGQkc3SXQwS2g0Q0Zfbg?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Limited Stock 12\u2011Month Price Target Cut to INR 957.95, Implies 41% Upside",
+      "source": "TradingView",
+      "published_utc": "2026-10-28T04:20:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVnNFc3JGNlRQZ1pXTUxwdnBIS3hqd2VrNjMwdDZ6OVhlM0VHZTl2d2RwUjJ6ZTdzYUNpZVBwUzVmS3ltMmQ1RmpYSEkxSU9sQUQwemx0VExsVzJ5LWloM214djZzU1p2dmxPYVFGRWZwOU5UOG5aNUxNNW1wRnMtUHhnX3lRdElFS1ZmcUdKdHBldC1YZ0VIb2lhVnRXR3BkUWY3blotMHRMQlhvZy1PWFBQOHpGeERKUnNhZV9EZGpocVVQUUw4V3FVelpIVlpXQkFFT1I0ZXZDUlU?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Mitessh Thakkar recommends buying Sona BLW; advises selling Ambuja Cement, HDFC Bank",
+      "source": "CNBC TV18",
+      "published_utc": "2026-10-28T03:46:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWZWaDVLTmpaZlpWbkIzTDdvelJzZEtxQ2lJbnRjRVBXRmlWX3ByRTRsTlFIRlpSeVJScTY0V3AxaHlIeDZYYUgxUnRNZHMtT3JmbXNYQmhwbmI1WXFKbU8wQXpkNzdrc0Rya2kxQXl6R3ZFMUJTTVQ3QTFtVF9rNS1UNG8tcTFzNUpXckZ3Y2lGMDlUeE1LQVJBSlN2WTdFTzAteXM0X0lPTTZ6SnVzT2hBMlVqRklkZWdJ0gG7AUFVX3lxTE15ZlZoNUtOalpmWlZuQjNMN296UnNkS3FDaUludGNFUFdGaVZfcHJFNGxOUUhGWlJ5UlJxNjRXcDFoeUh4NlhhSDFSdE1kcy1PcmZtc1hCaHBuYjVZcUptTzBBemQ3N2tzRHJraTFBeXpHdkUxQlNNVDdBMW1UX2s1LVQ0by1xMXM1SldyRndjaUYwOVR4TUtBUkFKU3ZZN0VPMC15czRfSU9NNnpKdXNPaEEyVWpGSWRlZ0k?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi takes charge as MD & CEO of HDFC Bank",
+      "source": "ET Edge Insights",
+      "published_utc": "2026-10-28T03:30:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTU13UGZNcFZnbWw0amhJcUlXOUNVSzBkSUVRSXZVNmgyMnJhamliU1ppUjU3UUpiLU5uUTdPR3MzMkNjUEh4aWI4QVFUTjcyVmNsSHB5TmFtdG9ENDhwNVAzS19YUmo3bHAydUtxVDNVNWh5STZLYkwtNkZtS2ZnOWZyaWJUakRKWGYxVEdveFM?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-27T23:24:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX203dWxrZzRtNEZVQVFkRUVXMVdIblBYdzRjQmw5em14S3g4MVlqQkZreTRzdUtfR2oxdEplVnQ3dW1WSWl3bjNPeG5EWVhwU3dBanNmT2RReDRoRWZnRkdOamNfdTdDMUJaYmFreW0tUEduS1NmRjFUX1dyelVSbXd5bw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Names Anup Bagchi as New MD & CEO, To Take Charge on October 27",
+      "source": "www.nationpathindia.com",
+      "published_utc": "2026-10-27T20:07:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXdNWVlrTEVOVllldXpaS19CMGZkTHhiazFCQ2RfNDdmQWV5SXRrU2JYVUNqQkttQkxNbUdCT2puYnRXN3ktdVlPMUE0c3phb0h4QThMbUFaUEZKMTB6bWgtanpiOEppbWFRWVBnU21TZXpKTW5PbWJUNHAxV0lvN19sZUVINGZZV3phSExB?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank in focus during private-bank Q2 results season",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-27T18:17:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSHgzRlp3bXdyamw0cU9pRWxoeXB3c1M0RThCRlg0dU5oQmJYWXhPS3pEdlhMTXlrRlNiSDd0c3FrcTB0NExzQlB4VENRNk5PSVpfODJlVGI0ZlVPbGFSNEQ2TlFyaXgzLTd4bW10djI2ZGtqeXRGLVVyNWxfS05IeDVCQlNtVDdVcTRIMXBhU1VyVEdmNXplZWM1M0RXdjVHdWg3OTFuVFViRk0yN1lGT1dIZXNoaUtmSGZBQnp3SjR4dXkw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Abhishek Arun Promoted to Vertical Head \u2013 HR at HDFC Bank",
+      "source": "https://hrtoday.in/",
+      "published_utc": "2026-10-27T17:58:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQODdFaXJlei1OQUVMRjkwYlo4Q0FGUlU2bnEtRjRLV05abWh5TmRhdkJ1aVhPbkt4VWUyY2FPb005VHBJa2plWm9CczBTVVRNcUY2RWplcGkwN0VOa3BnODJ6VmM0X2Flcnl6dEwybEVYV09TbWw1SDN2b0p2ZWVsYg?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SBI, HDFC, ICICI To AU SFB: THESE 5 Bank Stocks Can Deliver Strong Returns In Long-Term | Check Target Price",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-27T17:18:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdk1Gd1o4b0hzbzI4OFIyNHI1UWVSNlA1RTM3aUdIZ0daUkFYQlRWS1dodUlBSG9KaGJjTHR3NTdaVERzVTVWZXRQMWF0X3VLYjJZWkR3TDI0QXQ1VjE1YnUtYnFscGM3ZE9iNmxiTTRqalJmWUtHMFF5d19MdlMxMnROTFNyZk9DaG4xMFMyLXZwMFNQeUlXRVk0OUJGNjZQekFIbk1renUzMTJPOXpvZldBZXN5VEcwOTZvY3ZZNnMwTkRIbGFOdllmU1NBQmJlZm45YkVNaw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Share Price Prediction for Tomorrow: 28 Oct 2026",
+      "source": "Univest",
+      "published_utc": "2026-10-27T15:18:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeVl3LXdDSFF3RW43QjdXYzNBWWtxUFNpS3dTYU4tSXI4MV9sN2hDeDQ5YllqNjZXN0VvaWI1cG95YVR0d296TXE3RC1rbU51cS0wV1hYUTJaLWkzVWt4UnJYSEp5WVBGWHBEa3JzZUhhWE1SaHpMTDFTaWE1TlRWVDVxcmw5ZTlweU9hT3FHZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Ashima settles HDFC Bank and BBK cases for net outgo of \u20b913.94 crore",
+      "source": "scanx.trade",
+      "published_utc": "2026-10-27T15:12:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlRRVGNkZkhKY3M1TkNnaWp5TlpyTFZ4VjZ1R1JlbkZpRTBJS2lDdnB5NFd5dzlSemI4cllSX3MtUFR5OXFqZ3c2dWVOTGNoOFMyNHZfSURsT2VpWl9Ba1o5UFdSa3N4LW5DT2JULXJUMnIwMExKSTFacmNpODBnbV9UQzdnLVd1VGxnaElEdkFpdU05SHZMSGpUUW5EczdYRFJKRWY4NXlXNUlnWXFrRmdHMA?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi takes charge as CEO. HDFC Bank stock costs EUR 19.35",
+      "source": "ad-hoc-news.de",
+      "published_utc": "2026-10-27T14:45:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRFBnTjh2NWNVN1pBTXltdURjNG1oTm5XMk1uQVBndV9yR0h2Vi1tNTZJeUlIZHViN0IyYW0ta01HbFFxdzBvRmRCamZ4TEpBaWtlNGU4Q0NTQ1NacG5yX1ZsQzMzdE5pbXlCSnRnVkMybFpkQW92NEZ2TFFEMkhhLV9zU0pnYkNuMXBHOE9xZlM0MnpJTHZIYy1kMkdFVFY3YVZlc2hJSmNmZE1UMjFmMXhDMlZaX0RlaVpSRzJob2dqdnVt?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sashidhar Jagdishan\u2019s Tenure at HDFC Bank: Six Years of Carrying Other People\u2019s Baggage",
+      "source": "Moneylife",
+      "published_utc": "2026-10-27T13:09:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeXU0WkMyRlR3VEpJVGpYSFBkR3p4c1dveTVxQWk3Z2F5dG83VkZkRDlrbjVUM1FEN3NBYXd5b19SanRncnVuUXJJaXd6VnFDRWRmazdRZTZZZDc5Z0tNX0dRYmJGVDI3UUhEcE8yVkx2OGNRWElHMmZBSXVVOXV4aEt3bGpFb1R4N0NWY1YtSEdkbVpieml4c2I0TW0weTM5SEVGemllU1hZZXFWWFcxdXcwMl9DbVlXZi1CZ2ZDLWtpNFMxcXpz?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi assumes charge at HDFC Bank, faces many challenges",
+      "source": "The New Indian Express",
+      "published_utc": "2026-10-27T11:31:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3dkQk1hMjk1cDNkekViSV9pNzlYZUxfSlBHOW5RQ1k2Tkd4SkQtRlFGZXU4MlhncllHZWdoaXYxTWVLWEFJT3Bkald6dXpTbHZodnU3cGVSRWN5MnkzY2tSTm1kUDdRUjAxMTlkZVVnWkVRZW5rSTd1akljc3VabXlCLWNvSGYzX1dldW12Z1EwMzI5RTAzSDhxdmNsa3d1UldDOWVvczB0YlZnZTZZclBOVThEQdIBwwFBVV95cUxOSVJIeFJhVHlwMVhhWlBNcXdLSkVjWHZXMVA4cF96YXhBMFYxLVRQMURaVUJ0Yl9XOThQdVNwU19falR0NEl3aGJneEFzcWRYbVZxQmZVdjM0WlVyRi15eHhaYWJIR2cyZ19KMk5ZWTA2M2Fnend1S1VaajJBbDQ5SDhSb0o5bFVFcm5QS28wQ0JZaDFzdnNkVTkwbWtYOTFlNG1ZVDNvelZlcllCZTlkQnhJWXF4c2pQOXBabkFfeGFGTVU?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Equities End Flat as Elevated Crude, US Fed Decision Weigh",
+      "source": "Rediff",
+      "published_utc": "2026-10-27T11:24:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjBwM09JSVR2cjlndDJZaVd1V0g3Qk1FNTBBNnVfLTIyMDA4Z3Y2dllmRVB6ZjFPdDBMQThIWUtxc1pvN0NHQ2hBUlpEVE90QmV3SW1WdUw4TXFnM0JoQnhqS2h0alROQ05obmQyUFVES2x1b2hkZW5qdGk2VE9NNl9iSHpnOWFkVWFrVDZvd29ULUpfTUFaTktfRVVQcXNzNEhRT2hyYnRIa1oxT0o2cDR0TUxFTFY5MVRGV1k3WF8wWDcwREMtckVsN3DSAc8BQVVfeXFMTmJFclZfZFo0ZGhRVWdhTE1ESVN0NTViWF84ZUp2OG40bGZ4QnY1UXNBNExjLWFpUF9hd2E0a2MwYXZReTBoSWZqNkFjcTBjQlo4T3hwMEVfVGJnRDlwUzIzaWtPa0g2b0lLVnNZVU1BbXJib201dWVURDZhZU9pZ29HNlFwSFB2RUxuTi1tamdqMDNqRHRBdk9sY2pqQjFXUFBYdmZIeFhRVDBfZExEaGZoc0RIRTU5Q2RxOXNfT211YUZ4QzY2bFY0N01Wa2FF?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi takes charge as HDFC Bank CEO and MD",
+      "source": "Exchange4Media",
+      "published_utc": "2026-10-27T10:53:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSTlKZzN1NFZDMVNmMGlJa3BwVVc5b0d0VXNGSVRzMWRQOVh4cXFpc1g2ZGMyYk9Sd1Q4YkdlYVpla3JrSUg2d3lnS0FRTk1QMUtvOHRPYnlsd1VmOE9rMzgyaDlIdnZab0VQSzlhTnZYMEFMOU1pZWRIY0wyR0ZXWUx2enhqc2RfRFNfdXc5ZXY4aHJEZmtSY1lRXzhheFYwcW9mcFlhWWIycjNjYldLRDZR?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi has an unenviable task at the top of HDFC Bank",
+      "source": "The Week",
+      "published_utc": "2026-10-27T10:42:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOS1rcHVXZ3E1NUhJQ1c4N09DaVl3TmgtclBDQVZkUG5UVmhjSnhSTVRxUTZ6bG5QNGxjRnV3MF9GdWE5ZDlBaUVJT3l0YnR5RzdTTm8wdy1fejFiNzdrRGtmajF2SUk2eWJNSXhRZ05lLU5QVUtZWnJLaDNjak5NeVdqV1fSAYoBQVVfeXFMUFhNa3QwWVdSMk04X3VYbjN4Y3pkN3ZQVmFZVW9ydFhhYV9pSnhBNlRGN2RfaUpfc0tucVI5RzlBd3BnNkN1Q3BRMGhPeWZONTU1WGtram41QTZwZFl4TGtXc2ppd0l3U2dBWkd3SHJXTzBDbTRhMFJlX2c5c0NXcEpPTmt3TmFuNC1n?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank falls Tuesday, underperforms market",
+      "source": "MarketWatch",
+      "published_utc": "2026-10-27T10:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWW8zTFliOEFxelpiU1hZZkZjWkFJaU84NUtONmxXdFJBLXJWOW1JNHRNeEl0V1FJeXA0WHA3WEVIZVkydjRBNW5lTkJFMHkwb0U5SlVHVEpfOVJpektEVktvc0I3TzJQZjN4WTRBV0l2aUZzb1RXclNDelFFUWp3dTlaemJRNmQwYm1DTFZwU0l5RWQ4ZGF5TE5ETXBodzN1V1E?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank leadership change: Anup Bagchi takes over from Sashidhar Jagdishan as MD & CEO",
+      "source": "BMI",
+      "published_utc": "2026-10-27T09:10:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdlZldkl6UTBBZ2hRTzIyV1dwMGoxOW1YUTNZTW13YmtIanVyN0RCYVZBYU5sUlNfOXFmM1BhN0dxTDlxYnZ2YU11VTVNdXhkWDdmamtoZmxoUW1nZzNnaThYWW5tSnZvZnJuQWFPYllaQlUwUGhGeHp1dGEzRk5GM2JxYjY2a1ZFMDhGSF82YjZzY3R6NzMyZ1gwamowcjRSZ211NjVrR3c2bHNSUDl6bVVudFpZcTFGdXFBM0ZyT29mejZYUkczd1MwcEgxdU9PMWprZVlkdllpRmpYVG50UzloT2_SAeQBQVVfeXFMTnZWZXZJelEwQWdoUU8yMldXcDBqMTltWFEzWU1td2JrSGp1cjdEQmFWQWFObFJTXzlxZjNQYTdHcUw5cWJ2dmFNdVU1TXV4ZFg3ZmpraGZsaFFtZ2czZ2k4WFlubUp2b2ZybkFhT2JZWkJVMFBoRnh6dXRhM0ZORjNicWI2NmtWRTA4RkhfNmI2c2N0ejczMmdYMGpqMHI0UmdtdTY1a0d3NmxzUlA5em1VbnRaWXExRnVxQTNGck9vZno2WFJHM3dTMHBIMXVPTzFqa2VZZHZZaUZqWFRudFM5aE9v?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "D-Street Bloodbath: Nifty Crashes 500 Pts, Sensex Down 2.2%; HDFC Bank Falls 5%; Why Is Stock Market Falling?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-27T09:03:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbl83MmNpN3o2NEo1US05b2FPNlBrMU5SLUp4NmJEXzZySDhQSU5KTTBTRG5xbVZ0U1RUZVVBZHdEc2czdnc0VjVIMlh2NDRIVnNWSkFzUTZ4OGJQV0pSY1VaWXNkUTlQM2ttOU51R1ZSR0dyTHhYRUZwNzRHR016aU8tRG9iMEYzQlVTNHNuc3U4UFk4RzY0ODNQSXMxU25uUEdrX0ZjdDFYSWw0NExCeEFBQ2pFNnphS0pGWHoxY01QN3lwajNUeTZMSDN5b0pTc0E?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Shares Fall 2.3% After Q2 Results; Jefferies, PL, JM, Emkay See Up To 44% Upside, Better Than FDs?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-27T08:52:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdC16UkxuYXZFWmxJYndGX1plcVBCS2pzSkhnTnRPNG03RDdmQl82TEJBM0Zob3hBMnQyM0pqUE9kLUttR3h1MlREWFB0dWgzOFI2ZThyekgyWEJNaFdHXzMxLXhuVU50SHN2eVhJZWtEbjQyZ0lxRzZtUmZoV0loZVpwSEoxRk9ldUFaZnlYR0FrSjQ3MHI5aTBOZE84V2JzSkRHTHFvRUs1RU5aWEZ3ZTctQzVnMHQxWEdESlU0anhyUU9Fc0hKbnNmT3BrT1FlSDl2RmpyRHRvaUhoR0E?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi Takes Charge as HDFC Bank\u2019s Managing Director and CEO",
+      "source": "Hindusthan Samachar English",
+      "published_utc": "2026-10-27T08:41:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa2tybUdRdnMybnU2NC1YcDFFVTFUY2k3NGE5Q2ZBanJQNklCUndQaHNXOEVxU0YxRzZGY21Ma1kwaTFLTUJzLUt4TWdGbWRYR01seWpXMHFTcjJ4SjQwSE1nVUdHUHB1T0JrUlpMTmhSQkhGR1d5elpHMlZxRE5zLWpfWVpCckJqQnFzOExBeXdRbHc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC vs ICICI vs Yes Bank: Q4 Results Spark Stock-Specific Rally; Which Bank Stock Wins The Race? Target Price",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-27T08:14:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWZLN0xvUld0YmFqY2NJWXM4SU95WGx2bmFadnlmLXRZOURERkxzWGxHaEwzSDRfTE9lNkJFM1lqQ0FzcEdfbFEwbjM0SFpFM18zVUxITG1Mc2pSNmRmTUUxVDJFdC1zY1hvcnh1QVlzb3N1NFB6YWxjdTU3eEgwbVhHb2prQnBvY2NOcWJEZG1zMVJFeEJZMmZIeFpRcDhYNzMwald5bTZSb3UyZDFxNEx5eWZBU1pjRlVjWlBKRDFmOEhUVktZVzJwUmVCaVBLWHRfbVVrM2E5UQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank \u0915\u0940 \u0915\u092e\u093e\u0928 \u0905\u092c Anup Bagchi \u0915\u0947 \u0939\u093e\u0925, \u092c\u0928\u0947 \u0928\u090f MD \u0914\u0930 CEO",
+      "source": "Business Remedies",
+      "published_utc": "2026-10-27T07:48:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTmNVWUVOeF8wSnFNcmFKeFpUSTlnYjA5WnY1bDZnSXV5MWt6eHVDUFB5RUtGQzhKNm5NY2VvZVZSYjZWd3AwOFQ5Sjgxbi1DNFVMVXd5ai0xVERSWGlZSFFZTEJVN0g3RTZ6U2dTbjlnSVdtMmZ1dWF5eWtPeFFycg?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC, ICICI, SBI, Axis or Kotak banks: Which credit card offers the biggest festive discounts?",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-10-27T07:48:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOEhlTzBqUDRNQzFvcmJUWFR4cGhNY1ZrVE4xaWRNUlFlMEx2ZXRhejhwZURwY1E4a0FnWjB0SWJTQV9WVXFPVXJlWDlKYUpTQ2pUVTI1SHVOaEpRVU5WSldJUDIzTGtQZlpqblNsRmxsMHNRWm80NXRYNnlrRXUtdDBXa1FzdDN3VGo5ZkRDRWpvWmhjNDFlbDRJSi1HcGdldnFVeUFEcFhQWG5GN29YOWRSV3hEVFAwc0FOdElVVlNuMXl5SXVHMTBkTmlReU42QUdaR081YnM3dS1tM2hDWnVRNGtOREhQcFJIbnpRV3dGcHlRTFE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bagchi takes charge as HDFC Bank CEO and MD",
+      "source": "cfo.economictimes.indiatimes.com",
+      "published_utc": "2026-10-27T07:42:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOazBSZllKaDJfYW5mb0xFM20yYWJIbVpXLTl4V3Y2QlEtT3FmZF81VnJRYXdHX3VPYk0wYWtZUlBpZlVpRmlKUU53OU9mTUJSNkVpaGdxZ045T1VvYlBueHVieHVYUXZ3NnV4MGhYclZhR0JnTFNuX1pWTW0zYmFqV3l6YTlybk1wVERJNlU2OGxVcmxSVWtBTG85VXVoSGpiaXpvY3BIVFh2dDVKWXBmTUp3RWLSAbQBQVVfeXFMTmswUmZZSmgyX2FuZm9MRTNtMmFiSG1aVy05eFd2NkJRLU9xZmRfNVZyUWF3R191T2JNMGFrWVJQaWZVaUZpSlFOdzlPZk1CUjZFaWhncWdOOU9Vb2JQbnh1Ynh1WFF2dzZ1eDBoWHJWYUdCZ0xTbl9aVk1tM2Jhald5emE5cm5NcFRESTZVNjhsVXJsUlVrQUxvOVV1aEhqYml6b2NwSFRYdnQ1SllwZk1Kd0Vi?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi Takes Charge As HDFC Bank MD and CEO Amidst Business And Governance Challenges",
+      "source": "ETV Bharat",
+      "published_utc": "2026-10-27T07:28:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT2J3emZyeEFjZUY4U0ZMUmJDbDNyaEZqUi1PZHotVlhLY1NpN3A5RUFBbEZyekpUczhUVTcwM2I4VkJJRG1DVllfTTl1a0lxZ2ctVHpRdVRGTTlyQ3BMVld0dTE3dWhYV1V3aUdhMHhzTlNTWEZTM2RZbkRwSmZMTllnWk8wYXA2TnlhRWg3VFQ3X2N1NWhhOHpLeXJFX2JEenFMVEpka23SAagBQVVfeXFMTk9id3pmcnhBY2VGOFNGTFJiQ2wzcmhGalItT2R6LVZYS2NTaTdwOUVBQWxGcnpKVHM4VFU3MDNiOFZCSURtQ1ZZX005dWtJcWdnLVR6UXVURk05ckNwTFZXdHUxN3VoWFdVd2lHYTB4c05TU1hGUzNkWW5EcEpmTE5ZZ1pPMGFwNk55YUVoN1RUN19jdTVoYTh6S3lyRV9iRHpxTFRKZGtt?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "A banking giant, a battered stock: Can HDFC Bank\u2019s new chief turn the tide?",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-27T07:05:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM294S1JPSXJLbjN6UTBfYkx5VEpmOXhMS3hYQmlQN3VtZHdKNWpQUHFzZWh1WWw0NkhsQVdFcTQ0eG81bUZ6aGVkMFloblhUaV9hTVo1T0d6X2tqdTU3QzBKeF85LVdBdDNhQ2UwTzZPTTVjc0h0bnpNd1dOdDlpYUFfZGN5R3Q4RFVzd2YzWHV5bEtwVDJCODFVMU84SGNKNGt5QU01OTJTVjROZnBCT2lwN2t0ZDh3N2xpakkyQ3VwTVQyYnd3YnkzQ1doVHM4ZXFzclNwaVZYd0tsVmR2eNIB2gFBVV95cUxOQWhYNUZYUHNNSXIxS09PTmp2bkFteHE0R3ZyZjk3NXFKUEpqV21qUTlnYnFMTTVVUjZSUmlGX0hkeXM2VzMxSEdCVTNUeklkRjljNGt3VmhhSS1RVDNzOC1RWHcwSlhSNDduODk1N3A4ZV9zZmVuamhxM3dHaEpSYmpUT1lFNlY5bTNudDQxY2poak5BY3RrMUMzOWg5eHdaejNFZjFLbzlJNlh3a2NtUUJ0c1VrMlhObWJhclJqOUtjUXFTX3dNc0RZb2NkV3dnOXM4aGxrUUo5dw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank appoints Anup Bagchi as MD & CEO from October 27; Sashidhar Jagdishan Exits",
+      "source": "Storyboard18",
+      "published_utc": "2026-10-27T06:52:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQUx1OHJHUklQZlJRa1licm5JVGJmcnZ2UzJCLVFoY3BBV0pmRXN2WWlhVUtqbG5fQ3FVQTk3NVBNcUFFTWVVZ2NvdWJrazhFMnFQZjQyVDZaMFg1Q0ZxS2szOXhIcExEck83VzdKS2ViSDNyTzVLdlNvQzVESDBpNlp4Z2RVNjNzbE9iRkZrM3ZkRXVrbmdRNnpZNkRJSHM0RFFRMdIBqgFBVV95cUxPVHZKZF9hYWhoeloyb201UjBwcllneE1BaEU1U2FIUTNWY0J5cG1WMDZPck10QWJHWmRkZlhrNDE1MDZGVWNxc0s5dk13SW8xXzBBMW9uWTh1eGI5SFJuTGxLLWpQVkxDbWpCTlphVjNMeFhSY0V3ZWNkWHVCZEI3SkVicWtQVkc1QnFyQktTMTVKT25vdFlvLThOdjVVT0o3b09qUktxODVlZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi Appointed HDFC Bank MD and CEO from October 27, 2026",
+      "source": "Adda247",
+      "published_utc": "2026-10-27T06:49:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbElVXzdJRUVfaUx5WTVwQjNWVUVCd0dsTnJuNkcwYmJLY0lScjdXaHJDR19KWDFTMTZrc29IbVBTNFlJWVA3SkFnNDVEakpqQXF5UXJkVWNUelVyZkU1ajZRYkw4eXRzWVFpT2VLdVZqVmw5RTJiQnYxQjJObk5LUG5Xd1FaS20zc1hYXzhOY2pQVnBQLXMwQlpBSXNqN0hq?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi takes charge as HDFC Bank MD & CEO amid growth, governance challenges",
+      "source": "Fortune India",
+      "published_utc": "2026-10-27T06:35:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekJ5cjA2aVdBbGVzT1lRdmhSWktXb0xrM2lrSzJWdTNkM3lfN3R3dU4tMWRnVzZqOTBIcGRjYzZaRlJvSnM3NDdGc01nZHluZ3JERjQ5bGszR2ZNUGZUSGRLTDU5YVA5M2tDUFpRbXVCbEthalpoVHdVRVVJU1dmUVExMmVZTWRlNkJnWlQxSlVVVGZGUWRGWUJRYlZrRGhRdTBhTzgxeEkyQjM0U2pOOHhqY19LaWNIQXkzemdWc1QyVHVuWnl30gHUAUFVX3lxTFBMeEx0YXR3RVM3aXVidl9mYzZPV3lBTXJha1VxRU9wRl8xeVc0OVdBWUw2dm9kcmJDQUhWOFp2SnZxdk9lSm9sRGRGUGtpTXZWTllHb0lqYVJKOEFYd05ZNEUxRklTQ3RhRWhxZHNKdGZnTGZMMFdlODg3dXpsYm5YSWM3c2JyZnV2ekdOdV9xV0ZCNUcwakhEbFRuNV81aVY4a2kyRlVXcnhrVG9UV2tQZFpvQ0FTd29uR3ZyekFtVlExNXU4cUVQNko2WTJ1c2JCd2lJ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi takes charge at HDFC Bank to become India's highest-paid bank CEO | Bagchi has over three decades of experience | Inshorts",
+      "source": "Inshorts",
+      "published_utc": "2026-10-27T06:28:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUkZyWURGdlFRbUFJdXZUQ0t2MFlrZDktU1JIZUlEeUxhQmpfS2x1RzdXUC1PTk9FMGZiRU82YWlCamRST2FXQV9XbEdHTWZDT2gzYUd6Vkh4SEtVMWJ5N1hQeGRpalQ0WWdPOF9hUXdsczdnckJZTnlHZVJzcm9VTS1DaWJsYktkRjhRcWxKbThhV0s3T2dOVGxrLXctRU52ek9mVzlDOUlZT250X0I1TnlBX214TGRCc0E4b0NzcUdNd9IBwgFBVV95cUxQUkZyWURGdlFRbUFJdXZUQ0t2MFlrZDktU1JIZUlEeUxhQmpfS2x1RzdXUC1PTk9FMGZiRU82YWlCamRST2FXQV9XbEdHTWZDT2gzYUd6Vkh4SEtVMWJ5N1hQeGRpalQ0WWdPOF9hUXdsczdnckJZTnlHZVJzcm9VTS1DaWJsYktkRjhRcWxKbThhV0s3T2dOVGxrLXctRU52ek9mVzlDOUlZT250X0I1TnlBX214TGRCc0E4b0NzcUdNdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.445,
+    "strength": 1.0,
+    "material_count": 6,
+    "view": -0.445
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-28T10:45:10.920156+00:00"
+}
