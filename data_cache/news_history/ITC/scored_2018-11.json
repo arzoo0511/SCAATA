@@ -1,0 +1,128 @@
+[
+ {
+  "title": "Sensex rises over 200 pts, Nifty above 10,550",
+  "source": "India.com",
+  "published_utc": "2018-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex rallies 246 pts as Samvat 2075 opens on strong footing",
+  "source": "India.com",
+  "published_utc": "2018-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC food park, hotel in Odisha to be operational in 2019",
+  "source": "India.com",
+  "published_utc": "2018-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's luxury hotel in Odisha to be ready by next year",
+  "source": "Sambad English",
+  "published_utc": "2018-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha govt announces extending subsidy to self financed food processing enterprises",
+  "source": "KNN India",
+  "published_utc": "2018-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC launches four variants of Sunfeast Yippee noodles",
+  "source": "Livemint",
+  "published_utc": "2018-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Before Creating Great Ads, We Need to Create Great Products: Hemant Malik, ITC",
+  "source": "Adgully.com",
+  "published_utc": "2018-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sunfeast Yippee brings its new range exclusively to Bigbasket users for a week",
+  "source": "Exchange4Media",
+  "published_utc": "2018-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s instant noodle YiPPee crosses Rs 1,000 crore sales mark",
+  "source": "The Economic Times",
+  "published_utc": "2018-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC launches new range of Yippee noodles including chicken variant",
+  "source": "CatchNews.com",
+  "published_utc": "2018-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s Yippee noodles now Rs.1,000 crore brand",
+  "source": "Zee Business",
+  "published_utc": "2018-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In election season, ruling party BJP is the top advertiser on TV",
+  "source": "Exchange4Media",
+  "published_utc": "2018-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BlackBuck eyes unicorn tag, Rivigo with fresh funding",
+  "source": "Livemint",
+  "published_utc": "2018-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Unilever nears deal to add Horlicks to its mix",
+  "source": "Livemint",
+  "published_utc": "2018-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

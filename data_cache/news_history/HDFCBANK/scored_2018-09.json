@@ -1,0 +1,614 @@
+[
+ {
+  "title": "Banks serving summons to defaulters through WhatsApp, emails",
+  "source": "The Economic Times",
+  "published_utc": "2018-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2 Gurgaon Firms Duped Bank For Rs 120 Crore Loans With Fake Papers: Cops",
+  "source": "NDTV",
+  "published_utc": "2018-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FIR against 2 companies for availing Rs 120 cr loan via fake docus",
+  "source": "India.com",
+  "published_utc": "2018-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two directors of car dealership firm held over Rs 140-crore loans",
+  "source": "The Indian Express",
+  "published_utc": "2018-09-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FIR against 2 companies for availing Rs 120 cr loan via fake docs",
+  "source": "India.com",
+  "published_utc": "2018-09-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UAE bank adds Pakistan to 'remit in 60 seconds' service",
+  "source": "Profit by Pakistan Today",
+  "published_utc": "2018-09-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home | Team-BHP - The Definitive Indian Car Website",
+  "source": "Team-BHP",
+  "published_utc": "2018-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Father-son luxury car dealers suspected of bank fraud, allegedly pose as wedding guests to flee India | Latest News Delhi",
+  "source": "Hindustan Times",
+  "published_utc": "2018-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian-Origin British Citizens Arrested at Delhi Airport for Allegedly Defrauding Indian Banks",
+  "source": "littleindia.com",
+  "published_utc": "2018-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme 2 first sale in India on Flipkart: Price, review",
+  "source": "Livemint",
+  "published_utc": "2018-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's fintech footprints",
+  "source": "Forbes India",
+  "published_utc": "2018-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'HDFC Bank is India's most valued brand for 5th year in a row'",
+  "source": "India.com",
+  "published_utc": "2018-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo V11 Pro launched in India for Rs 25,990 but you can get it for Rs 23,990",
+  "source": "India Today",
+  "published_utc": "2018-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Car of missing HDFC Bank official traced",
+  "source": "India.com",
+  "published_utc": "2018-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amitabh Chaudhry of HDFC Life appointed CEO & MD of Axis Bank",
+  "source": "The Economic Times",
+  "published_utc": "2018-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank appoints Amitabh Chaudhry as MD, CEO",
+  "source": "Livemint",
+  "published_utc": "2018-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is Amitabh Chaudhry? HDFC Life\u2019s CEO all set to replace Axis Bank\u2019s MD and CEO Shikha Sharma",
+  "source": "The Financial Express",
+  "published_utc": "2018-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai: HDFC Bank vice president missing since September 5, his car found with blood stains",
+  "source": "Scroll.in",
+  "published_utc": "2018-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How And Why HDFC Vice President Was Killed In Mumbai",
+  "source": "NDTV",
+  "published_utc": "2018-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ransom call helps police catch killer of HDFC Bank official",
+  "source": "The Hindu",
+  "published_utc": "2018-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Police recover body of HDFC Bank vice-president Siddharth Sanghvi",
+  "source": "The Times of India",
+  "published_utc": "2018-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Regalia Lounge Access Gets Better!",
+  "source": "Live From A Lounge",
+  "published_utc": "2018-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Missing HDFC Bank VP case gets murkier",
+  "source": "The Hindu",
+  "published_utc": "2018-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai HDFC Bank Executive Killed For Money, Say Police",
+  "source": "NDTV",
+  "published_utc": "2018-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Siddharth Sanghvi murder case: What we know so far",
+  "source": "India Today",
+  "published_utc": "2018-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai bank executive killed for money, cops reveal",
+  "source": "The Times of India",
+  "published_utc": "2018-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Robbery was motive behind HDFC banker's murder, says Mumbai Police",
+  "source": "The Times of India",
+  "published_utc": "2018-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Missing HDFC official's body found",
+  "source": "India.com",
+  "published_utc": "2018-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex drops 200 pts on weak global cues; Nifty below 11,550",
+  "source": "India.com",
+  "published_utc": "2018-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Failed robbery attempt led to HDFC bank executive\u2019s murder: Mumbai Cops | Mumbai News",
+  "source": "The Times of India",
+  "published_utc": "2018-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC bank executive\u2019s murder: What happened, how the case unfolded | Mumbai news",
+  "source": "Hindustan Times",
+  "published_utc": "2018-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai bank executive murdered for Rs 30,000",
+  "source": "Rediff",
+  "published_utc": "2018-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ganesh Chaturthi offers on Apple, Samsung, Vivo products: Cashback of up to Rs. 6000 with HDFC Bank cards",
+  "source": "Times Now",
+  "published_utc": "2018-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC VP murder: Suspect planned to sell victim's car, mobile for money",
+  "source": "Mid-Day",
+  "published_utc": "2018-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Robbery can\u2019t be motive for HDFC Bank V-P\u2019s murder\u2019",
+  "source": "The Hindu",
+  "published_utc": "2018-09-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How may HDFC Bank's humanoid bot help you?",
+  "source": "Asian Banking & Finance",
+  "published_utc": "2018-09-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to earn up to 9.1% interest rate on 2-year bank fixed deposit (FD)",
+  "source": "Times Now",
+  "published_utc": "2018-09-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s DIFC branch to target high networth non-resident Indians",
+  "source": "Gulf News",
+  "published_utc": "2018-09-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s HDFC Bank opens representative office in Abu Dhabi",
+  "source": "Gulf News",
+  "published_utc": "2018-09-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to Use HDFC Bank UPI App to Make and Receive Payments?",
+  "source": "Goodreturns",
+  "published_utc": "2018-09-17T06:40:03+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt proposes merger of Bank of Baroda, Dena and Vijaya Bank",
+  "source": "Livemint",
+  "published_utc": "2018-09-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Icra downgrades IL&FS\u2019 NCD, long-term loans",
+  "source": "The Times of India",
+  "published_utc": "2018-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here's how to use Amazon Pay cardless EMI",
+  "source": "Livemint",
+  "published_utc": "2018-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s creating a new giant by merging three banks. Here\u2019s what it may look like",
+  "source": "qz.com",
+  "published_utc": "2018-09-18T23:31:39+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The next bank merger: A dampener already?",
+  "source": "Forbes India",
+  "published_utc": "2018-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "See more downside in YES Bank stock than analysts\u2019 expectations: Hemindra Hazari",
+  "source": "The Economic Times",
+  "published_utc": "2018-09-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank's hunt for Rana Kapoor's successor could run into legal, boardroom battles",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai: HDFC bank puts \u2018anti-homeless\u2019 iron spikes later gets it removed after backlash",
+  "source": "ABP Live English",
+  "published_utc": "2018-09-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ratnagiri refinery: Indian Oil, others set up panel to settle land acquisition issues",
+  "source": "Livemint",
+  "published_utc": "2018-09-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo launches Vivo V11 for Indian market at Rs 22990",
+  "source": "ET Telecom",
+  "published_utc": "2018-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy A7 with triple cameras launched: Price in India starts at Rs 23,990",
+  "source": "The Indian Express",
+  "published_utc": "2018-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This new phone has 3 cameras! Check out the Samsung Galaxy A7",
+  "source": "Zee Business",
+  "published_utc": "2018-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dena Bank board approves merger with Bank of Baroda, Vijaya Bank",
+  "source": "Livemint",
+  "published_utc": "2018-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy A7 (2018) launched today: Check here for specification and price in India",
+  "source": "India TV News",
+  "published_utc": "2018-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Galaxy A7, Samsung's First Triple Camera Smartphone Launches in India at Rs 23,990",
+  "source": "LatestLY",
+  "published_utc": "2018-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Bank, PNB to exit credit data firm Experian",
+  "source": "Livemint",
+  "published_utc": "2018-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CCEA approves new domestic terminal building at Patna airport",
+  "source": "Livemint",
+  "published_utc": "2018-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy A7 with triple camera setup to go on sale tomorrow: Price, offers, specifications",
+  "source": "Livemint",
+  "published_utc": "2018-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo V9 Pro launched in India at \u20b917,990: Price, specifications",
+  "source": "Livemint",
+  "published_utc": "2018-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest bank FD rates: What SBI, HDFC Bank, Axis Bank, Yes Bank and Bank of Baroda offer",
+  "source": "Livemint",
+  "published_utc": "2018-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Towards Counter-Less Ticketing: Lucknow Metro And HDFC Bank Launch Digital Payments For Commuters",
+  "source": "Swarajya",
+  "published_utc": "2018-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DTPC cruise facilitation centre soon",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lenders prefer e-auction route to dispose of defaulters' assets",
+  "source": "Livemint",
+  "published_utc": "2018-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi's Iconic Taj Mansingh Hotel Stays With Tata Group After Auction",
+  "source": "NDTV Profit",
+  "published_utc": "2018-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI account holder? Your bank just hiked loan rates; HDFC Bank and ICICI Bank set to follow",
+  "source": "Zee Business",
+  "published_utc": "2018-09-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sued by Starbucks, SardarBuksh changes name to Sardarji-Bakhsh",
+  "source": "Livemint",
+  "published_utc": "2018-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vijaya Bank board approves merger proposal with Bank of Baroda, Dena Bank",
+  "source": "The Financial Express",
+  "published_utc": "2018-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vijaya Bank gives nod to proposal of merger with Bank of Baroda, Dena Bank",
+  "source": "The Asian Age",
+  "published_utc": "2018-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

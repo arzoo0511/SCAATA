@@ -1,0 +1,731 @@
+[
+ {
+  "title": "Union Cabinet clears merger of Dena Bank and Vijaya Bank with Bank of Baroda",
+  "source": "The Hindu",
+  "published_utc": "2019-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Video | Cabinet Clears Vijaya Bank, Dena Bank, Bank Of Baroda Merger",
+  "source": "NDTV",
+  "published_utc": "2019-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cabinet clears merger of Dena Bank, Vijaya Bank with BoB",
+  "source": "India.com",
+  "published_utc": "2019-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cabinet approves merger of Dena Bank and Vijaya Bank with BoB",
+  "source": "DT Next",
+  "published_utc": "2019-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Artificial Intelligence in banking: Global and Bangladesh perspective",
+  "source": "The Financial Express",
+  "published_utc": "2019-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyderabad: Two ICICI bank employees killed in road mishap",
+  "source": "The Times of India",
+  "published_utc": "2019-01-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cabinet nod for merger of three banks",
+  "source": "Manorama Yearbook",
+  "published_utc": "2019-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda to become larger than ICICI Bank from 1 April",
+  "source": "Livemint",
+  "published_utc": "2019-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best Bank Fixed Deposit (FD) Rates in India \u2013 January 2019",
+  "source": "Myinvestmentideas",
+  "published_utc": "2019-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2018: The year of unexpected resignations",
+  "source": "cfo.economictimes.indiatimes.com",
+  "published_utc": "2019-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Good news customers! Govt hikes 1-year time deposit rates; is it better than HDFC Bank, SBI, ICICI Bank? Find out",
+  "source": "Zee Business",
+  "published_utc": "2019-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest FD interest rates: SBI vs HDFC Bank vs ICICI vs PNB vs Axis Bank",
+  "source": "Livemint",
+  "published_utc": "2019-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Essar Group repays more than 80% of its total debt",
+  "source": "Fortune India",
+  "published_utc": "2019-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hits all-time high on hopes of strong Q3 numbers",
+  "source": "Business Standard",
+  "published_utc": "2019-01-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank vs ICICI Bank: Which bank offers best interest rates for recurring deposits",
+  "source": "Business Today",
+  "published_utc": "2019-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Closing Antwerp Branch In Latest Blow To Industry Financing",
+  "source": "IDEX Online",
+  "published_utc": "2019-01-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Essar Global Fund says repaid all of Essar Group debt",
+  "source": "Livemint",
+  "published_utc": "2019-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Interest rates up: HDFC Bank raises MCLR by 5 bps across tenors",
+  "source": "The Financial Express",
+  "published_utc": "2019-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s ICICI Bank Exits Antwerp",
+  "source": "Rapaport",
+  "published_utc": "2019-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What bank strike today? SBI, ICICI Bank, HDFC Bank, Axis Bank, Yes Bank unaffected",
+  "source": "Zee Business",
+  "published_utc": "2019-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FE Best Banks awards to be presented today",
+  "source": "The Indian Express",
+  "published_utc": "2019-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Away from the public gaze, Sandeep Bakhshi is readying ICICI for a huge leap of faith",
+  "source": "The Economic Times",
+  "published_utc": "2019-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank appoints B Sriram, Rama Bijapurkar as independent directors",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Getting the Amazon ICICI Bank Credit Card!",
+  "source": "Live From A Lounge",
+  "published_utc": "2019-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank appoints B Sriram, Rama Bijapurkar independent directors",
+  "source": "The Economic Times",
+  "published_utc": "2019-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Beat the Curve: ICICI organises National-Level Competition for Law Students",
+  "source": "Bar and Bench",
+  "published_utc": "2019-01-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha: ED freezes bank accounts of Golden Baba",
+  "source": "Sambad English",
+  "published_utc": "2019-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI clears reappointment of Vishakha Mulye as ED of ICICI Bank",
+  "source": "India.com",
+  "published_utc": "2019-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Forex Cards For Hassle-Free Travel",
+  "source": "Media India Group",
+  "published_utc": "2019-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank FD rates ready reckoner: ICICI Bank vs HDFC Bank vs Yes Bank",
+  "source": "Livemint",
+  "published_utc": "2019-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coming soon: ICICI Bank Emeralde Credit Card",
+  "source": "Live From A Lounge",
+  "published_utc": "2019-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-ICICI Bank Boss Chanda Kochhar, Husband Named By CBI In Loan Case",
+  "source": "NDTV",
+  "published_utc": "2019-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan case: CBI files FIR against former ICICI Bank CEO Chanda Kochhar",
+  "source": "The Indian Express",
+  "published_utc": "2019-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI Probe Into ICICI Loan Controversy Could Include Top Current and Former Officials",
+  "source": "TheWire.in",
+  "published_utc": "2019-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Probe ICICI Bank CEO Sandeep Bakhshi, ex-chairman KV Kamath's role in Chanda Kochhar case: CBI",
+  "source": "Business Today",
+  "published_utc": "2019-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI books former ICICI Bank chief Chanda Kochhar for criminal conspiracy",
+  "source": "The Economic Times",
+  "published_utc": "2019-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Alleges Ex-ICICI CEO Got Illegal Benefit for Videocon Loan",
+  "source": "Bloomberg.com",
+  "published_utc": "2019-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan case: Former ICICI boss Chanda Kochhar also named in FIR",
+  "source": "India Today",
+  "published_utc": "2019-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI books Dhoot, Chanda Kochhar and her hurband; conducts raids in Videocon-ICICI Bank Rs 1,730-crore loan case",
+  "source": "INDIA New England News",
+  "published_utc": "2019-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI registers FIR, raids Videocon headquarters in money siphoning case involving ex ICICI Bank head Chanda Kochhar's husband",
+  "source": "OpIndia",
+  "published_utc": "2019-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI registers FIR in ICICI Bank-Videocon loan case",
+  "source": "IBTimes India",
+  "published_utc": "2019-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Case registered against Chanda Kochhar, others for allegedly cheating ICICI Bank",
+  "source": "Oneindia",
+  "published_utc": "2019-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI closes in on Chanda Kochhar, husband in ICICI Bank-Videocon loan case",
+  "source": "Business Standard",
+  "published_utc": "2019-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan case: Former ICICI Bank CEO Chanda Kochhar named in CBI FIR",
+  "source": "The Times of India",
+  "published_utc": "2019-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI loan scam: CBI books Kochhars, Videocon head",
+  "source": "The Hindu",
+  "published_utc": "2019-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bankers unhappy over move to name panel members in probe",
+  "source": "The Times of India",
+  "published_utc": "2019-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochhar, husband booked for taking bribe from Dhoot",
+  "source": "The Times of India",
+  "published_utc": "2019-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI files FIR in Chanda Kochhar probe, raids Videocon offices",
+  "source": "The Times of India",
+  "published_utc": "2019-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar was in CBI crosshairs even before Nirav scam broke",
+  "source": "The Times of India",
+  "published_utc": "2019-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who\u2019s who named by CBI \u2014 and their \u2018role\u2019 in the Chanda Kochhar case",
+  "source": "The Indian Express",
+  "published_utc": "2019-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon Case: CBI Probes Officer In Chanda Kochhar Case After Suspected Leaks: Sources",
+  "source": "NDTV",
+  "published_utc": "2019-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI man on ICICI case shunted over \u2018probe delay, info leaks'",
+  "source": "The Times of India",
+  "published_utc": "2019-01-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank account holder? No more standing in queues! You can order your cheque book in few clicks at this bank",
+  "source": "Zee Business",
+  "published_utc": "2019-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sacks Chanda Kochhar",
+  "source": "The Hindu",
+  "published_utc": "2019-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar Sacked By ICICI For Violating Code, Has To Return Bonuses",
+  "source": "NDTV",
+  "published_utc": "2019-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Analysts Mostly Bullish Despite Probe, Profit Miss",
+  "source": "Bloomberg.com",
+  "published_utc": "2019-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former ICICI CEO Chanda Kochhar violated code of conduct, says Srikrishna panel report",
+  "source": "ThePrint",
+  "published_utc": "2019-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Justice Srikrishna panel indicts Chanda Kochhar, ICICI Bank sacks her",
+  "source": "The Economic Times",
+  "published_utc": "2019-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar violated ICICI Bank code of conduct, probe panel report says",
+  "source": "The Times of India",
+  "published_utc": "2019-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar violated ICICI bank's code of conduct: Probe panel report",
+  "source": "The Times of India",
+  "published_utc": "2019-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan case: Chanda Kochhar says hurt and shocked after ICICI sacks her",
+  "source": "The Indian Express",
+  "published_utc": "2019-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q3 profit down 3% at Rs 1,605 cr",
+  "source": "India.com",
+  "published_utc": "2019-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here's all that finally did Chanda Kochhar in",
+  "source": "The Economic Times",
+  "published_utc": "2019-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank-Videocon Case: Chanda Kochhar Violated Code Of Conduct",
+  "source": "Goodreturns",
+  "published_utc": "2019-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 things to know before you start using Paytm Postpaid service",
+  "source": "Livemint",
+  "published_utc": "2019-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank fires boss: hurt and shocked, credit decisions not unilateral, says Chanda Kochhar",
+  "source": "The Indian Express",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How much money former ICICI Bank CEO Chanda Kochhar have to return",
+  "source": "The Times of India",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank-Chanda Kochhar row: Bonus clawbacks of CEOs unheard of, but provisions exist",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Utterly disappointed, hurt and shocked by ICICI Bank\u2019s decision: Chanda Kochhar",
+  "source": "The News Minute",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The big news: ICICI Bank fires Chanda Kochhar, she says she is \u2018shocked\u2019, and nine other top stories",
+  "source": "Scroll.in",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank board under fire for giving clean chit to Chanda Kochhar",
+  "source": "Business Standard",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar to lose Rs 9.82-crore bonus, Rs 221 crore in stock options",
+  "source": "The Indian Express",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar held guilty in ICICI probe report, will lose her perks",
+  "source": "Business Standard",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stern action against Chanda Kochhar a warning to India Inc, say corporate governance experts",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sacked with retrospective effect, Chanda Kochhar to lose ESOPs",
+  "source": "The Times of India",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank set to remove titles for senior management, says report",
+  "source": "CNBC TV18",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar may have to repay Rs 353 crore to ICICI",
+  "source": "Deccan Herald",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar: The fall of a much-haloed leader",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior management at ICICI Bank to have no titles",
+  "source": "The Economic Times",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar may have to return over Rs 9-cr bonus to ICICI Bank: Sources",
+  "source": "India.com",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-CEO Chanda Kochhar may have to repay bank about Rs 350 crore",
+  "source": "The Economic Times",
+  "published_utc": "2019-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

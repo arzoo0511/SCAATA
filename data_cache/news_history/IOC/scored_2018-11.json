@@ -1,0 +1,308 @@
+[
+ {
+  "title": "Unavailability of Iranian crude would pose and \"extremely tough call\": Indian Oil Corp Chairman",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shares of oil marketing cos soar up to 6.7% on falling crude prices",
+  "source": "India.com",
+  "published_utc": "2018-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Gas plans to invest \u20b98,000 crore in next 5 years: Pranav Adani",
+  "source": "Livemint",
+  "published_utc": "2018-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil companies rope in common service centres for LPG cylinders",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-11-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco to invest $44b in giant India oil refinery",
+  "source": "Gulf News",
+  "published_utc": "2018-11-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Israel Exploring Eastern Mediterranean",
+  "source": "Offshore Engineer Magazine",
+  "published_utc": "2018-11-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC shares tank 5.5% as Q2 profit drops",
+  "source": "India.com",
+  "published_utc": "2018-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hughes India bags Rs 200 crore order from oil marketing firms",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-11-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Gas Lists At Rs 72 Post Demerger With Adani Enterprises",
+  "source": "NDTV Profit",
+  "published_utc": "2018-11-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's oil and gas PSUs' permanent workforce declined by more than 2,000 last financial year",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New norms for setting up petrol pumps: expert panel seeks public comments",
+  "source": "ET Auto",
+  "published_utc": "2018-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 PSUs gave Rs 1.47 bn for Statue of Unity",
+  "source": "Rediff",
+  "published_utc": "2018-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADNOC signs MoU with ISPRL to explore storage of crude oil in Karnataka",
+  "source": "www.wam.ae",
+  "published_utc": "2018-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mohamed bin Zayed receives Abu Dhabi CEO Roundtable attendees",
+  "source": "www.wam.ae",
+  "published_utc": "2018-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why is Iran crude so important for India?",
+  "source": "Rediff",
+  "published_utc": "2018-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Did PSUs Pay Rs 2,500 Crore for Construction of Statue of Unity?",
+  "source": "The Quint",
+  "published_utc": "2018-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SCDRC directs IOCL, distributor to pay Rs 10 lakh to man for causing wife's death in blast",
+  "source": "India.com",
+  "published_utc": "2018-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tawang Deputy Commissioner inks MoU with Indian Oil Corporation (IOC)",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2018-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Children's Day: 48 government school kids fly free; courtesy Airport Authority, Indigo Airlines and Indian Oil",
+  "source": "Times Now",
+  "published_utc": "2018-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC open to tie up with GAIL for Kolkata city gas distribution",
+  "source": "India.com",
+  "published_utc": "2018-11-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paresh Barua\u2019s nephew joins ULFA, say police",
+  "source": "The Indian Express",
+  "published_utc": "2018-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani bags CGD contracts for 22 locations; becomes largest private city gas player",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "News - Fort McCoy ArtiFACT: Healy & Bigelow\u2019s Kickapoo Indian Oil",
+  "source": "DVIDS",
+  "published_utc": "2018-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Gas hits 20% upper circuit on bagging 13 CGD projects",
+  "source": "Business Standard",
+  "published_utc": "2018-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Air pollution: NGT orders inspection around Panipat refinery",
+  "source": "India.com",
+  "published_utc": "2018-11-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU oil companies should share feasibility study for new outlets",
+  "source": "The Statesman",
+  "published_utc": "2018-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks To Watch: Bharti Airtel, Bajaj Finance, HCL Tech, Indian Oil, Strides Pharma",
+  "source": "NDTV Profit",
+  "published_utc": "2018-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil PSUs to allot 65,000 petrol pumps ahead of general elections",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil PSUs to add 4,450 petrol pumps in Gujarat",
+  "source": "The Times of India",
+  "published_utc": "2018-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil PSUs to allot 65,000 petrol pumps: All you need to know if you are planning to apply for petrol pump dealership",
+  "source": "Firstpost",
+  "published_utc": "2018-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to apply for petrol pump dealership: Key things to know as oil PSUs set to open 55,000 new retail outlets",
+  "source": "The Financial Express",
+  "published_utc": "2018-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil sets up fuel station near airport",
+  "source": "Deccan Herald",
+  "published_utc": "2018-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Form JV with IOCL for polymer park soon: Pradhan tells Patnaik",
+  "source": "India.com",
+  "published_utc": "2018-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Semi-Synthetic Engine Oil: TVS TRU4 KRAAFT Features, Price, Pics",
+  "source": "BikeAdvice",
+  "published_utc": "2018-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

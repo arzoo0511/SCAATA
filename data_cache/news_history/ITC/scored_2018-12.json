@@ -1,0 +1,65 @@
+[
+ {
+  "title": "IIT placements begin, Microsoft offers highest salary at 1.5 crore - The Indian Wire",
+  "source": "The Indian Wire",
+  "published_utc": "2018-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC logo, chairman's name used in fake website",
+  "source": "The New Indian Express",
+  "published_utc": "2018-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JioVio, Ethereal Machines win ITC Infotech's start-up contest",
+  "source": "The Hans India",
+  "published_utc": "2018-12-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Looking for mid cap, small cap value stocks & mid cap growth stocks? Here is an easy way out!",
+  "source": "freefincal",
+  "published_utc": "2018-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TVCs informing viewers about new tariff rule make IBF top advertiser",
+  "source": "Exchange4Media",
+  "published_utc": "2018-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sunfeast Wonderz Milk: Ready-to-drink milk-based beverage from ITC",
+  "source": "The New Indian Express",
+  "published_utc": "2018-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC eyes 15% market share in milk business",
+  "source": "BusinessLine",
+  "published_utc": "2018-12-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,263 @@
+[
+ {
+  "title": "Scroll Investigation: The curious case of Russian oil deals that benefited Essar, hurt ONGC",
+  "source": "Scroll.in",
+  "published_utc": "2019-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochi: LPG plant work to begin soon",
+  "source": "Deccan Chronicle",
+  "published_utc": "2019-02-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 8,500 crore investment lined up for ethanol; two-thirds by sugar mills",
+  "source": "Business Standard",
+  "published_utc": "2019-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors shares plunge most in 26 years after record loss",
+  "source": "Livemint",
+  "published_utc": "2019-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kerala set to vroom on CNG",
+  "source": "Deccan Chronicle",
+  "published_utc": "2019-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC, Adani, HPCL biggest bidders for city gas licences",
+  "source": "India.com",
+  "published_utc": "2019-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UAE keen on Indian refining and petchem, storing crude oil",
+  "source": "Livemint",
+  "published_utc": "2019-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Unwritten rule: Deliverymen charge extra for gas cylinders",
+  "source": "The Times of India",
+  "published_utc": "2019-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s PM Narendra Modi presents ADNOC Group CEO with \u201cInternational Lifetime Achievement Award\u201d at Petrotech 2019",
+  "source": "World Oil",
+  "published_utc": "2019-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UAE keen to invest in refining, petrochem projects, store oil in India",
+  "source": "India.com",
+  "published_utc": "2019-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI Arrests Indian Oil General Manager Dibya Jyoti Datta For Allegedly Taking A 2 Lakh Bribe",
+  "source": "NDTV",
+  "published_utc": "2019-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Irani Trophy: Ambidextrous Akshay Karnewar\u2019s proverbial googly",
+  "source": "The Indian Express",
+  "published_utc": "2019-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil's Barauni refinery violated environmental norms: Expert Appraisal Committee",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-02-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil signs first annual deal to buy up to 3 million tonnes of US oil",
+  "source": "Livemint",
+  "published_utc": "2019-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Signs First Annual Deal For Oil With US",
+  "source": "NDTV Profit",
+  "published_utc": "2019-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC signs USD 1.5 bn deal to buy US crude oil",
+  "source": "India.com",
+  "published_utc": "2019-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil signs first annual deal to buy up to 3 mln T U.S. oil",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aadhaar: Indane Leaking UID Numbers of Millions of Customers, finds French Security Researcher",
+  "source": "Moneylife",
+  "published_utc": "2019-02-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UAE\u2019s ENOC, Indian Oil Company ink research, infra agreement",
+  "source": "Construction Week Online",
+  "published_utc": "2019-02-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "There has been no Aadhaar data leak through Indane website: Indian Oil",
+  "source": "The Times of India",
+  "published_utc": "2019-02-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dubai\u2019s ENOC partners with India\u2019s IOC to expand abroad",
+  "source": "Al Arabiya English",
+  "published_utc": "2019-02-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UAE Business: Enoc, IOC partner to expand marine offerings",
+  "source": "GDNOnline",
+  "published_utc": "2019-02-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Offered my services for free but no team was interested: Wasim Jaffer",
+  "source": "The Times of India",
+  "published_utc": "2019-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No environmental norms violated by Barauni refinery: Indian Oil Corporation",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Very strong plan' to ensure defence fuel supplies; 500 trucks move to refill depots",
+  "source": "Deccan Chronicle",
+  "published_utc": "2019-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In 2019, Diesel Up By Rs 4.08 per Ltr and Petrol by Rs 2.82 per Ltr So far",
+  "source": "PSU Watch",
+  "published_utc": "2019-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Subsidised LPG Hiked By Rs 2.08 Per Cylinder; Non-Subsidised Up By 42.50",
+  "source": "NDTV",
+  "published_utc": "2019-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GLM Focus: India faces big hurdles to LNG ambition",
+  "source": "ICIS",
+  "published_utc": "2019-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to move planned refinery",
+  "source": "The Chemical Engineer",
+  "published_utc": "2019-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

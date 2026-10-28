@@ -1,0 +1,83 @@
+[
+ {
+  "title": "GAIL Chairman to get the third term",
+  "source": "People Matters - HR News",
+  "published_utc": "2019-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ennore LNG terminal to help Indian Oil fast-track city gas project",
+  "source": "Livemint",
+  "published_utc": "2019-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Factbox: Existing and proposed LNG terminals in India",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Energy News Monitor | Volume XV; Issue 41",
+  "source": "orfonline.org",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LNG carrier Aseem collides with VLCC at Fujairah",
+  "source": "Offshore Energy",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LNG Carrier Collides with VLCC Off Fujairah, UAE \u2013 AIS Animation",
+  "source": "gCaptain",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tellurian to decide on Louisiana Driftwood LNG project in first-half of 2019",
+  "source": "Reuters",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SCI LNG carrier collides with Navios VLCC off Fujairah",
+  "source": "Splash 24/7",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gains ahead for gas companies as LNG price crack 65% in 6 months",
+  "source": "Business Standard",
+  "published_utc": "2019-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

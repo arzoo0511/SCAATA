@@ -1,0 +1,38 @@
+[
+ {
+  "title": "M Beena assumes charge as Cochin Port Trust chairman",
+  "source": "The New Indian Express",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dr. M. Beena IAS assumes charge as Chairman, Cochin Port Trust",
+  "source": "Maritime Gateway",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil and gas stocks slide up to 12%",
+  "source": "The Financial Express",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Petronet LNG says talks to invest in Qatar have slowed",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

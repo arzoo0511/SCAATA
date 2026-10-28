@@ -1,0 +1,344 @@
+[
+ {
+  "title": "BS VI fuel: Indian Oil says supply has begun in 12 NCR districts, Agra",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG cylinder prices hiked for first time in 3 months",
+  "source": "Deccan Chronicle",
+  "published_utc": "2019-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FAKE ALERT: No, your vehicle won't explode if fuel tank is full in summer",
+  "source": "The Times of India",
+  "published_utc": "2019-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "L&T awarded a Contract for New Strategic Gas Export Pipeline by KOC-Kuwait",
+  "source": "euro petrole",
+  "published_utc": "2019-04-02T13:01:27+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG gas name change: Want to transfer LPG connection to someone else? You must have these documents first",
+  "source": "Zee Business",
+  "published_utc": "2019-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC, BPCL, ONGC plan cash rewards for retired employees",
+  "source": "Times Now",
+  "published_utc": "2019-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 22 Largest National Oil Company Rankings by Total Assets",
+  "source": "Sovereign Wealth Fund Institute | SWFI",
+  "published_utc": "2019-04-05T20:52:38+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Drive to see how safe it is",
+  "source": "Deccan Chronicle",
+  "published_utc": "2019-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NBCC's CMD Anoop Mittal relinquishes post after govt denies extension",
+  "source": "ET Realty",
+  "published_utc": "2019-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jet Airways cuts inflight entertainment on all routes, including long-haul",
+  "source": "The Independent",
+  "published_utc": "2019-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "51 companies yet to appoint women independent directors",
+  "source": "The Times of India",
+  "published_utc": "2019-04-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Patil counts on good work for re-election",
+  "source": "The Hans India",
+  "published_utc": "2019-04-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL stops fuel supply to Jet for a while",
+  "source": "BusinessLine",
+  "published_utc": "2019-04-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "News WFS seizes Jet Airways Mumbai-bound aircraft in Amsterdam",
+  "source": "The Loadstar",
+  "published_utc": "2019-04-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL, BPCL, Indian Oil smart cards: Zero surcharge, points and other benefits",
+  "source": "Zee Business",
+  "published_utc": "2019-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's 2018/19 Iran oil imports up 5 percent despite U.S. sanctions - sources",
+  "source": "Reuters",
+  "published_utc": "2019-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jet Airways cancels long-haul international flights till Friday | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2019-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Not again! LPG price hiked for the second time this year",
+  "source": "Business Today",
+  "published_utc": "2019-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Some impressive fifties & a 6wkt haul by Dhrumil Matkar in the A Div Times Shield \u201819",
+  "source": "CricketGraph",
+  "published_utc": "2019-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's new thrust on oil and gas hunting: Prospects and challenges - Opinion by Kanchan Kumar",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aramco Pursues Stake in Indian Oil Refiner",
+  "source": "WSJ",
+  "published_utc": "2019-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL an easy pick for Saudi Aramco with India\u2019s mega west coast refinery on the back-burner",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian refiners turn to OPEC, Mexico, U.S. to make up Iran oil gap",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2019-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IMAP advises on acquisition deal between major Indian iron ore players",
+  "source": "Consultancy.in",
+  "published_utc": "2019-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DY Patil \u201cA\u201d in the finals of A Div Times Shield as Ruturaj Gaikwad and Vaidik Murkar smash fifties",
+  "source": "CricketGraph",
+  "published_utc": "2019-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now, artificial intelligence to enhance safety in petrol pumps",
+  "source": "The Times of India",
+  "published_utc": "2019-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US to eliminate Iran oil waivers after May 2 expiration",
+  "source": "Luxembourg Times",
+  "published_utc": "2019-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India looking to compensate loss of Iranian oil",
+  "source": "DW.com",
+  "published_utc": "2019-04-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to stop importing oil from Iran; make up lost volumes from alternate sources",
+  "source": "The Times of India",
+  "published_utc": "2019-04-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: Life without Iranian oil",
+  "source": "The Indian Express",
+  "published_utc": "2019-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil vs Reliance Industries",
+  "source": "Comparably",
+  "published_utc": "2019-04-24T13:41:21+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL bottling plant given conditional environmental nod",
+  "source": "The Hindu",
+  "published_utc": "2019-04-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's crude oil production drops 4% in FY19",
+  "source": "ET Auto",
+  "published_utc": "2019-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Risks to Indian oil marketing companies as government seeks more returns'",
+  "source": "The Times of India",
+  "published_utc": "2019-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "El Nino may cause major drop in sardine catch, say scientists",
+  "source": "The Hindu",
+  "published_utc": "2019-04-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL-MRPL merger hits cash hurdle; ONGC rules out share-swap",
+  "source": "ET Auto",
+  "published_utc": "2019-04-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil is first oil and gas PSU to achieve this milestone! What is it?",
+  "source": "PSU Watch",
+  "published_utc": "2019-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corpn invites bids for works at IOC Vijayawada Terminal",
+  "source": "Projects Today",
+  "published_utc": "2019-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

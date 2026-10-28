@@ -1,0 +1,38 @@
+[
+ {
+  "title": "UAE authorities dish out fines to owners involved in dangerous tanker prang",
+  "source": "Splash 24/7",
+  "published_utc": "2019-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gorgon LNG Project",
+  "source": "Offshore Technology",
+  "published_utc": "2019-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three of nine picked for lateral entry as joint secretary already working with government or govt entities",
+  "source": "The Times of India",
+  "published_utc": "2019-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet plans mini LNG terminal in Andaman; seeks city gas licence",
+  "source": "ET Auto",
+  "published_utc": "2019-04-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

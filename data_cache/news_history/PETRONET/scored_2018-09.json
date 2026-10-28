@@ -1,0 +1,38 @@
+[
+ {
+  "title": "Petronet CEO Prabhat Singh gets 12.5% higher commission in FY18",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-09-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Panel to rebuild weavers village",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-09-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here's a trustworthy list of companies for ICAI training",
+  "source": "Legit News",
+  "published_utc": "2018-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ARUN KUMAR APPOINTED DG, RPF",
+  "source": "IndianMandarins",
+  "published_utc": "2018-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

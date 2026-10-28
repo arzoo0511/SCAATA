@@ -1,0 +1,677 @@
+[
+ {
+  "title": "KKR to sell its HDFC stake for $300 million with 15% gain",
+  "source": "The Times of India",
+  "published_utc": "2019-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank offering 10X SmartBuy Reward Points again (33% Cashback!)",
+  "source": "Live From A Lounge",
+  "published_utc": "2019-04-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda is now third largest lender as Dena, Vijaya merger take effect",
+  "source": "Livemint",
+  "published_utc": "2019-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Eight-decade legacy of Dena and Vijaya banks comes to end",
+  "source": "The New Indian Express",
+  "published_utc": "2019-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Of Baroda Officially Third Largest Bank In India After Merger With Dena Bank, Vijaya Bank Takes Effect",
+  "source": "Swarajya",
+  "published_utc": "2019-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dena Bank, Vijaya Bank Merger With Bank Of Baroda: What's Good, What's Bad",
+  "source": "Outlook India",
+  "published_utc": "2019-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda becomes second largest PSU bank after SBI",
+  "source": "The Asian Age",
+  "published_utc": "2019-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dena Bank, Vijaya Bank merges with Bank of Baroda: 10 things to know",
+  "source": "Livemint",
+  "published_utc": "2019-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda: Third-largest bank in India after SBI, HDFC Bank; 5 Key things to know",
+  "source": "Times Now",
+  "published_utc": "2019-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank's new boss is giving it a makeover & investors are happy",
+  "source": "The Economic Times",
+  "published_utc": "2019-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs Axis Bank vs ICICI Bank: Which private bank stock should you buy?",
+  "source": "Zee Business",
+  "published_utc": "2019-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank gets No 1 award in trade finance survey",
+  "source": "Banking Frontiers",
+  "published_utc": "2019-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple slashes iPhone XR price for the first time in India",
+  "source": "The New Indian Express",
+  "published_utc": "2019-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple cuts price of iPhone XR in India; here's how much the phone will cost you now",
+  "source": "Business Today",
+  "published_utc": "2019-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple slashes iPhone XR price in India in partnership with HDFC",
+  "source": "The News Minute",
+  "published_utc": "2019-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone XR gets a limited-period discount of Rs. 17000 in India, up to Rs. 24500 off including HDFC cashback",
+  "source": "FoneArena.com",
+  "published_utc": "2019-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple cuts down iPhone XR price in India for a limited period, now starts at Rs 59,900",
+  "source": "The Mobile Indian",
+  "published_utc": "2019-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deal: Get the iPhone XR at INR 40K with your HDFC Bank Credit Card",
+  "source": "Live From A Lounge",
+  "published_utc": "2019-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 Most Favourite Large Cap Stocks of Mutual Funds",
+  "source": "Invest Yadnya",
+  "published_utc": "2019-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone XR now available for Rs 53,900 in India starting today: Price of all models, offers, where to buy",
+  "source": "India Today",
+  "published_utc": "2019-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now, bring an iPhone XR home at Rs 53,900 as Apple cuts India pricing",
+  "source": "The Financial Express",
+  "published_utc": "2019-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to open PPF account online in HDFC Bank",
+  "source": "Times Now",
+  "published_utc": "2019-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BSE ties up with HDFC Bank to give boost to startups platform",
+  "source": "ANI News",
+  "published_utc": "2019-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BSE signs MoU with HDFC Bank to strengthen BSE Startups platform",
+  "source": "KNN India",
+  "published_utc": "2019-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold loan interest rate: SBI Vs HDFC Vs Andhra Vs Manappuram Vs Muthoot; Best option for you",
+  "source": "The Financial Express",
+  "published_utc": "2019-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank plans to raise up to Rs 50,000 crore through debt",
+  "source": "Elets BFSI",
+  "published_utc": "2019-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank vs ICICI Bank FD rates: Lenders to hike your deposit rates? Going forward, this is what may move your money",
+  "source": "Zee Business",
+  "published_utc": "2019-04-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI home loan interest rate cut by 10 basis points; here's how your EMIs will get cheaper",
+  "source": "Zee Business",
+  "published_utc": "2019-04-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone XR effect? OnePlus 6T to be available at its lowest-ever price",
+  "source": "The Times of India",
+  "published_utc": "2019-04-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank banks on AI to take efficiencies to new level",
+  "source": "Express Computer",
+  "published_utc": "2019-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How HDFC breaks the dismal pattern of Indian banking",
+  "source": "The Economist",
+  "published_utc": "2019-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mutual funds' Zee group exposure hits investors",
+  "source": "The Times of India",
+  "published_utc": "2019-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda vs HDFC Bank",
+  "source": "Comparably",
+  "published_utc": "2019-04-11T21:06:57+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest FD interest rates: SBI vs Bank of Baroda vs ICICI vs HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2019-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Viral message falsely claims all banks to be closed every Saturday starting June 1st by Several users",
+  "source": "Alt News",
+  "published_utc": "2019-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jazeera Airways seeks more seats from India, says 2007 pact needs revision",
+  "source": "Business Standard",
+  "published_utc": "2019-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank Gets CCI Approval To Acquire Gruh Finance",
+  "source": "NDTV Profit",
+  "published_utc": "2019-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank gets CCI approval for Gruh Finance merger",
+  "source": "Livemint",
+  "published_utc": "2019-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Railways To Operate Delhi-Amritsar Shatabdi Service With Linke Hofmann Busch Coaches",
+  "source": "NDTV Profit",
+  "published_utc": "2019-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TikTok removed from Google, Apple stores, ban may not stop downloads",
+  "source": "Livemint",
+  "published_utc": "2019-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Renaissance Global Nine Monthly Results, Nine Monthly Earnings for Renaissance Global",
+  "source": "The Economic Times",
+  "published_utc": "2019-04-18T02:18:30+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A cash-deposit machine that serves customers of all banks",
+  "source": "BusinessLine",
+  "published_utc": "2019-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank vs Kotak Mahindra",
+  "source": "Comparably",
+  "published_utc": "2019-04-20T03:07:30+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank fourth-quarter profit up 22.6 percent to record high",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2019-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best mid-range smartphones you can buy right now",
+  "source": "Livemint",
+  "published_utc": "2019-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s stellar run continued in FY19, but Aditya Puri\u2019s exit may be a concern",
+  "source": "Livemint",
+  "published_utc": "2019-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "To Bank Or Not To Bank On Indiabulls",
+  "source": "LinkedIn",
+  "published_utc": "2019-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why banks are giving up RIA licences, and the chance to give you investment advice",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best mutual funds to invest for my newborn",
+  "source": "The Economic Times",
+  "published_utc": "2019-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme 3 Pro takes on Redmi Note 7 Pro with Snapdragon 710, VOOC 3.0 fast charge: Price in India, specs, sale date",
+  "source": "India Today",
+  "published_utc": "2019-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme 3 Pro launched in India at \u20b913,999: Full pricing, first impressions",
+  "source": "Livemint",
+  "published_utc": "2019-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HOOQ launches first original production \u2018Bhak\u2019",
+  "source": "Livemint",
+  "published_utc": "2019-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm Payments Bank mobile banking market share down to 18% from 26% in Feb",
+  "source": "Entrackr",
+  "published_utc": "2019-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Not enough prop for AU Small Finance Bank\u2019s lofty valuations",
+  "source": "Livemint",
+  "published_utc": "2019-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs Kotak Mahindra",
+  "source": "Comparably",
+  "published_utc": "2019-04-24T17:35:11+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs YES Bank",
+  "source": "Comparably",
+  "published_utc": "2019-04-24T20:54:52+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra vs YES Bank",
+  "source": "Comparably",
+  "published_utc": "2019-04-24T20:55:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank Q4 preview: Net profit may jump up to 26% QoQ, NIM seen improving",
+  "source": "Business Standard",
+  "published_utc": "2019-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 Best Balanced Funds or Hybrid Funds To Invest In",
+  "source": "Goodreturns",
+  "published_utc": "2019-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State Bank of India appoints eight new deputy MDs",
+  "source": "The Times of India",
+  "published_utc": "2019-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Triumph Motorcycles to launch used bike program in India soon",
+  "source": "Livemint",
+  "published_utc": "2019-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank and Max Bupa launch AnyTimeHealth machines to distribute health insurance products",
+  "source": "ANI News",
+  "published_utc": "2019-04-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We are only halfway through a brutal shake-out in HFC, NBFC sector: Saurabh Mukherjea",
+  "source": "The Economic Times",
+  "published_utc": "2019-04-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Savings accounts compared: SBI vs Bank of Baroda vs ICICI vs HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2019-04-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung\u2019s new affordable Galaxy S10e smartphone is available at \u2018lowest-ever\u2019 price",
+  "source": "The Times of India",
+  "published_utc": "2019-04-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI's new \u20b920 currency note coming soon; here's how it looks like",
+  "source": "Livemint",
+  "published_utc": "2019-04-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy S10e, S10 and S10+ now available starting at Rs. 46990 in India after instant cashback and bank offers",
+  "source": "FoneArena.com",
+  "published_utc": "2019-04-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life outperforms peers, SBI Life gives\u200atough fight on valuations",
+  "source": "Livemint",
+  "published_utc": "2019-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nubia Red Magic 3 comes with SD855, 12GB RAM, 90Hz AMOLED display at \u20b933,205",
+  "source": "Livemint",
+  "published_utc": "2019-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ninad Kadam\u2019s all-round show ensures a final win for HDFC Bank in the Pulse Corporate T20 Tournament\u201919",
+  "source": "CricketGraph",
+  "published_utc": "2019-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "99% placements in UBS, Rs 1L/mth internship pay",
+  "source": "The Times of India",
+  "published_utc": "2019-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ola and Flipkart may launch co-branded credit cards soon",
+  "source": "Entrackr",
+  "published_utc": "2019-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "66% of complaints mutually settled: Banking Ombudsman Report",
+  "source": "Livemint",
+  "published_utc": "2019-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "[Funding alert] Cricket commentator Harsha Bhogle invests in Gurugram-based startup Chqbook",
+  "source": "YourStory.com",
+  "published_utc": "2019-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best home loan offers compared: SBI vs HDFC Bank vs ICICI Bank vs Bank of Baroda",
+  "source": "Zee Business",
+  "published_utc": "2019-04-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

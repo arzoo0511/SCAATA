@@ -1,0 +1,56 @@
+[
+ {
+  "title": "IIT Kharagpur Placements 2018 - Check Sector & Branch Wise Placement Statistics",
+  "source": "Shiksha.com",
+  "published_utc": "2019-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 Most Favourite Large Cap Stocks of Mutual Funds",
+  "source": "Invest Yadnya",
+  "published_utc": "2019-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lemon Tree to enter upscale hotel segment",
+  "source": "Livemint",
+  "published_utc": "2019-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TV+OOH Impression in Week 14 = 15.33 billon: BARC India report | Media4Growth",
+  "source": "Media4Growth",
+  "published_utc": "2019-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dry Another Day: ITC Solves Potential Health Crisis In AP, Telangana By Setting Up Reverse Osmosis Water Plants",
+  "source": "Swarajya",
+  "published_utc": "2019-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi orders pause on Leela-Brookfield deal after ITC, LIC complaints",
+  "source": "Livemint",
+  "published_utc": "2019-04-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

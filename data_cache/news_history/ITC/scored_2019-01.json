@@ -1,0 +1,56 @@
+[
+ {
+  "title": "HUL remains as top Advertiser while Trivago leads the Brands chart in Week 52",
+  "source": "MediaNews4U",
+  "published_utc": "2019-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex builds on gains, rises 288 pts; Nifty claims 10,800 mark",
+  "source": "India.com",
+  "published_utc": "2019-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ltd joins hands with BRTC for agarbatti production",
+  "source": "The Economic Times",
+  "published_utc": "2019-01-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sonal Dabral, Reed Collins to head Ogilvy APAC's team",
+  "source": "Livemint",
+  "published_utc": "2019-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC December-quarter profit beats estimate",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2019-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amul launches camel milk in select markets",
+  "source": "India Retailing",
+  "published_utc": "2019-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

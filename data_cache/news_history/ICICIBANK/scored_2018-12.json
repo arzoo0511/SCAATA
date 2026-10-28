@@ -1,0 +1,389 @@
+[
+ {
+  "title": "Fixed deposit (FD) interest rate: SBI vs HDFC Bank vs ICICI Bank vs Axis Bank",
+  "source": "Livemint",
+  "published_utc": "2018-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest Fixed Deposit interest rates in Axis Bank, SBI, HDFC, Yes Bank compared",
+  "source": "Zee Business",
+  "published_utc": "2018-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GST on Free Banking Services to Customers: What Has Been Discussed So Far?",
+  "source": "SAG Infotech Official Tax Blog",
+  "published_utc": "2018-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank hikes fixed deposit interest rate. Check what other top banks are offering",
+  "source": "Times Now",
+  "published_utc": "2018-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Death' of this Cheque! SBI, HDFC, PNB, ICICI, BoB, other bank customers - These to become INVALID",
+  "source": "Zee Business",
+  "published_utc": "2018-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "K V Kamath \u2013 Head of the New Development Bank of BRICS",
+  "source": "TechStory",
+  "published_utc": "2018-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs ICICI vs HDFC: Which bank offers the most attractive fixed deposit rates?",
+  "source": "Business Today",
+  "published_utc": "2018-12-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches revamped iMobile app: Here are some of its top features",
+  "source": "The Financial Express",
+  "published_utc": "2018-12-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank unveils new and improved iMobile app",
+  "source": "Elets BFSI",
+  "published_utc": "2018-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2X JPMiles on Domestic Spends with ICICI Jet Airways Cards!",
+  "source": "Live From A Lounge",
+  "published_utc": "2018-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank reaches out to Richa Chadha after actress slammed bank for 'useless' helpline",
+  "source": "The Economic Times",
+  "published_utc": "2018-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Six of top 10 companies lose Rs 54,916 crore in m-cap",
+  "source": "India.com",
+  "published_utc": "2018-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt stops foreign funding to 156 NGOs for defying order",
+  "source": "The Times of India",
+  "published_utc": "2018-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank offers unlimited free ATM transactions to working women",
+  "source": "Livemint",
+  "published_utc": "2018-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme U1 with 25MP selfie camera to go on Amazon sale at 12pm today",
+  "source": "The Times of India",
+  "published_utc": "2018-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold prices fall for first time in 4 days, silver rates drop",
+  "source": "Livemint",
+  "published_utc": "2018-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This ICICI Bank savings account offers income tax-linked benefits, free bank ATM transactions, other benefits",
+  "source": "Zee Business",
+  "published_utc": "2018-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank unveils savings bank account for working women, offers a slew of benefits",
+  "source": "The Financial Express",
+  "published_utc": "2018-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Max India to sell entire Max Bupa stake to True North",
+  "source": "Livemint",
+  "published_utc": "2018-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Priya Prakash Varrier, Priyanka Chopra, Sapna Choudhary among 2018's most Googled personalities",
+  "source": "Livemint",
+  "published_utc": "2018-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Understanding the Kotak-RBI Battle \u2013 Letter, Spirit, Rules and A Court Petition",
+  "source": "Capitalmind",
+  "published_utc": "2018-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Britannia Industries approves stock split in 1:2 ratio; all you need to know",
+  "source": "The Financial Express",
+  "published_utc": "2018-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Merchant payments startup Benow identifies point-of-sale card transactions as the next big growth driver",
+  "source": "YourStory.com",
+  "published_utc": "2018-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda to shut three overseas branches by June",
+  "source": "Livemint",
+  "published_utc": "2018-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These are the best fixed deposit rates offered by different banks",
+  "source": "CNBC TV18",
+  "published_utc": "2018-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive | ICICI Lombard in talks to buy majority stake in Reliance General",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u092e\u0939\u093f\u0932\u093e\u0913\u0902 \u0915\u0947 \u0932\u093f\u090f ICICI \u092c\u0948\u0902\u0915 \u0915\u093e \u0924\u094b\u0939\u092b\u093e, \u0932\u0949\u0928\u094d\u200d\u091a \u0915\u093f\u092f\u093e \u0916\u093e\u0938 \u0905\u0915\u093e\u0909\u0902\u091f",
+  "source": "Aaj Tak",
+  "published_utc": "2018-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank rolls out upgraded \u00e2\u20ac\u02dcTrade Online\u00e2\u20ac\u2122 platform",
+  "source": "Adgully.com",
+  "published_utc": "2018-12-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank to raise up to \u20b93,000 crore via Basel-III compliant bonds",
+  "source": "Livemint",
+  "published_utc": "2018-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Northeast: Banks\u2019 charges for minimum balance \u2013 here are the rules",
+  "source": "NE NOW",
+  "published_utc": "2018-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi brings Mi Pay to India to take on Google Pay, here's how to use it to pay your utility bills",
+  "source": "India Today",
+  "published_utc": "2018-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Keep your Aadhaar, other docs safe. Shift to DigiLocker app",
+  "source": "Livemint",
+  "published_utc": "2018-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Scheme of amalgamation for merger of Bank of Baroda, Dena and Vijaya Bank likely by month-end",
+  "source": "The New Indian Express",
+  "published_utc": "2018-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Year of reckoning: IDFC First Bank has a retail edge with V Vaidyanathan",
+  "source": "Business Standard",
+  "published_utc": "2018-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "For ICICI Bank, Axis Bank, Yes Bank, it's back to the basics in 2019",
+  "source": "Livemint",
+  "published_utc": "2018-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank organises MSME conclave in Ghaziabad",
+  "source": "Adgully.com",
+  "published_utc": "2018-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Inspection of six companies linked to ICICI Bank controversy at 'advanced stage'",
+  "source": "The Economic Times",
+  "published_utc": "2018-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank raises Rs 11.4 billion via issuing Basel III bonds",
+  "source": "Business Standard",
+  "published_utc": "2018-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mahesh Babu\u2019s bank accounts frozen",
+  "source": "The Hindu",
+  "published_utc": "2018-12-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Telugu actor Mahesh Babu's bank accounts frozen over tax dues",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-12-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Actor Mahesh Babu's bank accounts frozen by GST department over tax dues",
+  "source": "The News Minute",
+  "published_utc": "2018-12-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Spurt in campus placement cheers up Cusat students",
+  "source": "The Times of India",
+  "published_utc": "2018-12-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3 members of a British-Indian family killed in accident during Iceland holiday",
+  "source": "The Times of India",
+  "published_utc": "2018-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

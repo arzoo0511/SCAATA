@@ -1,0 +1,119 @@
+[
+ {
+  "title": "ASCI bans 344 ads including Republic TV, Hero MotoCorp, Blenders Pride, P&G, L'Oreal India, Head & Shoulders, HUL Ponds, Sensodyne, Lenskart, Rasna, Dabur, GoodKnight Patches in October & November 2018",
+  "source": "Moneylife",
+  "published_utc": "2019-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cigarette Prices: ITC Hikes Prices Of Bristol, Flake Excel And Capstan Brands",
+  "source": "NDTV Profit",
+  "published_utc": "2019-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cigarettes get costlier as ITC hikes Bristol, Flake Excel, Capstan prices by up to 15%",
+  "source": "The Financial Express",
+  "published_utc": "2019-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ltd elevates new Corporate HR Head",
+  "source": "People Matters - HR News",
+  "published_utc": "2019-03-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home calling!",
+  "source": "The Asian Age",
+  "published_utc": "2019-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A culture shock awaits Mindtree employees under L&T",
+  "source": "Livemint",
+  "published_utc": "2019-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Industries buys ITC's menswear brand John Players",
+  "source": "Reuters",
+  "published_utc": "2019-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Retail buys ITC's John Players, bolsters readymade garments portfolio",
+  "source": "Business Today",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's deal to sell John Players will improve its non-cigarette business: Analysts",
+  "source": "The Economic Times",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Retail acquires ITC\u2019s John Players to bolster readymade garments portfolio",
+  "source": "Apparel Resources",
+  "published_utc": "2019-03-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet The Indian Tennis Player Accepted By H/S/W",
+  "source": "Poets&Quants",
+  "published_utc": "2019-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Panel to review exemptions to Dettol, Savlon, other antiseptics",
+  "source": "Livemint",
+  "published_utc": "2019-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Reliance Retail acquires ITC's John Players",
+  "source": "Fibre2Fashion",
+  "published_utc": "2019-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,299 @@
+[
+ {
+  "title": "Hima Das joins Indian Oil Corporation in Guwahati as HR officer",
+  "source": "India Today",
+  "published_utc": "2018-10-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ECB norms for oil firms eased",
+  "source": "The Hindu",
+  "published_utc": "2018-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BJD demonstration to protest LPG price hike",
+  "source": "India.com",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to continue Iranian oil imports post US sanctions",
+  "source": "The Indian Express",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks of oil marketing companies plunge to 52 week lows on fuel price cut",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to keep buying Iranian oil despite U.S. sanctions: sources",
+  "source": "Reuters",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil and gas stocks slide up to 12%",
+  "source": "The Financial Express",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HOEC signs contract with govt for Digboi oil block",
+  "source": "The News Mill",
+  "published_utc": "2018-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India will keep buying Iranian crude despite the threat of US sanctions, oil minister says",
+  "source": "CNBC",
+  "published_utc": "2018-10-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018India to continue with Iranian oil imports despite U.S. sanctions\u2019",
+  "source": "Tehran Times",
+  "published_utc": "2018-10-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudis To Boost Oil Supply To India As Iran Sanctions Kick In",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2018-10-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to invest Rs 5,463 cr in city gas network in 7 districts",
+  "source": "India.com",
+  "published_utc": "2018-10-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices rise today. Know how much it will cost you",
+  "source": "India Today",
+  "published_utc": "2018-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel bills urging people to not vote for Narendra Modi in 2019 go viral, dealer in Andhra Pradesh files",
+  "source": "Bangalore Mirror",
+  "published_utc": "2018-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "When \u2018Tipu Sultan\u2019 was approached to ensure release of abducted IOC official",
+  "source": "Greater Kashmir",
+  "published_utc": "2018-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt plans to end anti-competitive, complex cross-holding in oil PSUs",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian insurance companies not covering storage of Iranian oil: IOC official",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2018-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL to complete eastern India's first LPG pipeline commissioning in Nov",
+  "source": "Business Standard",
+  "published_utc": "2018-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India readies oil strategy as US sanctions on Iran near",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Israel, Tehran Keen To Promote \u201cTourism Iran\u201d to Indian Travellers?",
+  "source": "EurAsian Times",
+  "published_utc": "2018-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No decision to sell Trinco Oil Tank Farm: Ranatunga",
+  "source": "Daily Mirror - Sri Lanka",
+  "published_utc": "2018-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "More Than 1200 Trade Apprenticeship At IOCL: Apply Online At Iocl.com",
+  "source": "NDTV",
+  "published_utc": "2018-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Want to work with Indian Oil Corporation Limited? More than 1200 vacancies @ IOCL, apply before this date",
+  "source": "India Today",
+  "published_utc": "2018-10-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Prices Cut For Fourth Straight Day",
+  "source": "carandbike",
+  "published_utc": "2018-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government looks to relax norms for setting up petrol pumps",
+  "source": "The Times of India",
+  "published_utc": "2018-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt looks to relax norms for setting up petrol pumps",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Energy security: Kochi Refinery receives first parcel of \u2018own crude oil\u2019",
+  "source": "The New Indian Express",
+  "published_utc": "2018-10-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BSE gets Sebi's nod to launch Oman crude oil contract",
+  "source": "India.com",
+  "published_utc": "2018-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price down by Rs 1.58 in Delhi after 7 cuts, hiked in other cities",
+  "source": "Business Standard",
+  "published_utc": "2018-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Scam Alert: Thane pump attended caught red-handed while tampering meter reading",
+  "source": "Local Press Co",
+  "published_utc": "2018-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC to install locking system on all tankers",
+  "source": "The Kathmandu Post",
+  "published_utc": "2018-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After years of global success, Reliance Industries faces oil shock at home",
+  "source": "Livemint",
+  "published_utc": "2018-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s BPCL to invest $800m in Mozambique LNG project",
+  "source": "Offshore Technology",
+  "published_utc": "2018-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

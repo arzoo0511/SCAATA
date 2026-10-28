@@ -1,0 +1,344 @@
+[
+ {
+  "title": "ONGC, Vedanta, OIL among 14 firms selected for awarding 23 oil and gas blocks under DSF-II",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The catch is linked to climate!",
+  "source": "The Times of India",
+  "published_utc": "2019-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 9,000 Cr Gas-grid Project For NE, Bengal: Pradhan",
+  "source": "Sarkaritel.com",
+  "published_utc": "2019-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HOEC adds another block to its northeast portfolio",
+  "source": "ANI News",
+  "published_utc": "2019-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HOEC adds yet another block to its Northeast Portfolio",
+  "source": "The News Mill",
+  "published_utc": "2019-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC wrenches back 5 fields govt took away",
+  "source": "The Times of India",
+  "published_utc": "2019-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ennore LNG terminal to help Indian Oil fast-track city gas project",
+  "source": "Livemint",
+  "published_utc": "2019-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ethanol pant: IOC to take 50 acre from Dhuriapar Co-op Mill",
+  "source": "Indian Cooperative",
+  "published_utc": "2019-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC wins back Chinnewala Tibba gas field; contracts signed for 23 oil & gas fields under DSF-II",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil\u2019s Ennore terminal set to fast-track city gas project",
+  "source": "The Financial Express",
+  "published_utc": "2019-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India seeks Saudi investment in strategic oil storage, rescue plan for refinery",
+  "source": "The Asian Age",
+  "published_utc": "2019-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi oil minister Khalid al-Falih says no OPEC+ output policy change until June",
+  "source": "CNBC",
+  "published_utc": "2019-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Centre revamps oil exploration policy | oil & gas | Indian Oil | ONGC | dharmendra pradhan | union cabinet",
+  "source": "Manorama Yearbook",
+  "published_utc": "2019-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India seeks investment from Saudi Arabia for strategic oil reserve",
+  "source": "The New Indian Express",
+  "published_utc": "2019-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s grand experiment in corporate social responsibility is heading for trouble",
+  "source": "The Conversation",
+  "published_utc": "2019-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Norway fund's green shift may unsettle Reliance, ONGC, Indian Oil, Oil India",
+  "source": "Livemint",
+  "published_utc": "2019-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Oil Companies Help Fund Violence in South Sudan",
+  "source": "Council on Foreign Relations (CFR)",
+  "published_utc": "2019-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Alert! LPG cylinder price on delivery as per choice: Now, you have to pay this much",
+  "source": "Zee Business",
+  "published_utc": "2019-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No price hike even as crude surges: how oil-marketing companies take a body blow when India goes to the po",
+  "source": "The Economic Times",
+  "published_utc": "2019-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Factbox: Existing and proposed LNG terminals in India",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CCI Snooker 2019: Mukund Bharadia defeats Brijesh Damani, moves into quarters",
+  "source": "Sportstar",
+  "published_utc": "2019-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC hopes to restart fire-hit CDU at Panipat plant in 2-3 days",
+  "source": "Yahoo News Singapore",
+  "published_utc": "2019-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Markets extend rally for the sixth consecutive day",
+  "source": "The Siasat Daily",
+  "published_utc": "2019-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Safety compromised: Cooking gas cylinders refilled at auto LPG stations",
+  "source": "The Times of India",
+  "published_utc": "2019-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why are Harikrishna, Vidit, Adhiban, Humpy, Harika and 12 more GMs in Mangalore?",
+  "source": "ChessBase India",
+  "published_utc": "2019-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Venezuela\u2019s Future Depends on China and Russia",
+  "source": "Pressenza - International Press Agency",
+  "published_utc": "2019-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Not isolating Cherlapally LPG plants can be risky",
+  "source": "Deccan Chronicle",
+  "published_utc": "2019-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PESB selects Sandeep Kumar Gupta for the post of Director (Finance), Indian Oil Corp. Ltd.",
+  "source": "thenewsmanofindia.com",
+  "published_utc": "2019-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL & BPCL sign agreement with Abu Dhabi for Oil & Gas Exploration",
+  "source": "PSU Watch",
+  "published_utc": "2019-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADNOC awards Indian consortium onshore exploration block in Abu Dhabi\u2019s competitive bid round",
+  "source": "www.wam.ae",
+  "published_utc": "2019-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi to get 131 EV charging stations in 3 months",
+  "source": "pv magazine India",
+  "published_utc": "2019-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Energy News Monitor | Volume XV; Issue 41",
+  "source": "orfonline.org",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Uco Bank gets Rs 14,000 crore windfall from Iran oil payment right",
+  "source": "The Economic Times",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JCB to start new production facility in Gujarat; invests Rs 650 crore",
+  "source": "The Financial Express",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The real champs: Unmindful of their disability, these people have embraced sports",
+  "source": "The Indian Express",
+  "published_utc": "2019-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exxon hires ex-BP crude oil trader in Singapore: sources",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2019-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG bottlers concerned about NOC\u2019s reluctance to meet their demands",
+  "source": "The Himalayan Times",
+  "published_utc": "2019-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Inc\u2019s foreign borrowings fall 9 pc to $2.81 bn in Feb",
+  "source": "OrissaPOST",
+  "published_utc": "2019-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

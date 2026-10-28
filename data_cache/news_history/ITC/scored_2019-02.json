@@ -1,0 +1,56 @@
+[
+ {
+  "title": "ITC launches four variants of Sunfeast Yippee noodles",
+  "source": "HospiBuz",
+  "published_utc": "2019-02-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "West Bengal Global Business Summit: ITC Proposes To Invest Rs 1,700 Crore In West Bengal",
+  "source": "NDTV",
+  "published_utc": "2019-02-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to invest Rs 1700 crore in West Bengal",
+  "source": "The Economic Times",
+  "published_utc": "2019-02-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why you shouldn\u2019t waste money on Bharat 22 ETF",
+  "source": "Livemint",
+  "published_utc": "2019-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC elevates Amitav Mukherji as head of corporate HR",
+  "source": "The Economic Times",
+  "published_utc": "2019-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is ITC a Golden Stock For Investors?",
+  "source": "Investing.com India",
+  "published_utc": "2019-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

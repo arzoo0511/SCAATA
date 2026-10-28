@@ -1,0 +1,308 @@
+[
+ {
+  "title": "Sardine boom and bust fuels steps for conservation",
+  "source": "The Times of India",
+  "published_utc": "2018-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will fall in oil price help stock market investors?",
+  "source": "The Economic Times",
+  "published_utc": "2018-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cooking Gas Gets Cheaper. Here's How Much You Pay For An LPG Cylinder This Month",
+  "source": "NDTV Profit",
+  "published_utc": "2018-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Free Petrol, Anyone? Here's How You Can Get Up To 5 Litres of Petrol For Free By Using BHIM SBI Pay App",
+  "source": "LatestLY",
+  "published_utc": "2018-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why govt should revisit move to limit marketing margins of OMCs",
+  "source": "Livemint",
+  "published_utc": "2018-12-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India inks pact with Iran to pay crude bill in rupee",
+  "source": "The Hindu",
+  "published_utc": "2018-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Blast damaged Indian VLCC docks at Duqm yard for repairs",
+  "source": "PressReader",
+  "published_utc": "2018-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "West Bengal to get 1,024 new petrol pumps",
+  "source": "The Statesman",
+  "published_utc": "2018-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL to buy Iranian oil in Jan after six-month gap: Sources",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-12-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil PSUs planning to open nearly 4,500 petrol pumps across Gujarat",
+  "source": "Business Standard",
+  "published_utc": "2018-12-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hillary Clinton takes Huma as her date Indian wedding of billionaire Clinton Foundation mega-donor",
+  "source": "Daily Mail",
+  "published_utc": "2018-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices cut again today, down \u20b911-Rs 14 a litre in two months",
+  "source": "Livemint",
+  "published_utc": "2018-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC, HP invite applications for retail dealership in JK",
+  "source": "India.com",
+  "published_utc": "2018-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to buy back 3 pc equity shares for Rs 4,435 cr",
+  "source": "India.com",
+  "published_utc": "2018-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil plans to buy back Rs 4,435 cr shares",
+  "source": "DNA India",
+  "published_utc": "2018-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CPCB slaps Rs 1 crore fine on three oil companies for failing to install anti-pollution devices",
+  "source": "India.com",
+  "published_utc": "2018-12-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chandigarh allots two sites to MC to set up petrol pumps",
+  "source": "The Indian Express",
+  "published_utc": "2018-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL's polypropylene unit in Paradip to start production",
+  "source": "ALCHEMPro",
+  "published_utc": "2018-12-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC has enough headroom to absorb buyback, dividend payout: Fitch",
+  "source": "India.com",
+  "published_utc": "2018-12-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mangaluru: Indian Oil Corporation invites applications for retail dealership across Karnataka",
+  "source": "Daijiworld",
+  "published_utc": "2018-12-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How much remuneration did the heads of Indian oil and gas PSUs receive last year?",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Futura Plus",
+  "source": "Autocar India",
+  "published_utc": "2018-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government plans to pay five Iranian banks for oil imports",
+  "source": "The Times of India",
+  "published_utc": "2018-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian government plans to pay five Iran banks for oil imports",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Butola\u2019s death casts shadow of grief over ONGC & Indian Oil",
+  "source": "Garhwal Post",
+  "published_utc": "2018-12-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM to lay foundation of Indian Oil & Gail (India) pipelines",
+  "source": "India.com",
+  "published_utc": "2018-12-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai: Industrial And Bulk Users Can Now Get Fuel Delivered To Doorstep As Indian Oil Launches Mobile Fuel Dispenser",
+  "source": "Swarajya",
+  "published_utc": "2018-12-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, HP and BP's plan to open 80,000 petrol pumps hits land hurdle",
+  "source": "Livemint",
+  "published_utc": "2018-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "An Interview Sharing Experiences of a Noted Indian Architect, Jayaraman Subramanian",
+  "source": "World Architecture Community",
+  "published_utc": "2018-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What 2019 augurs for listed oil companies in India",
+  "source": "Livemint",
+  "published_utc": "2018-12-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India likely to continue purchasing oil from Iran in 2019",
+  "source": "Tehran Times",
+  "published_utc": "2018-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, ONGC, NTPC most profitable PSUs in FY18",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian MTBE capacity to grow at 16.8% CAGR over next 4 years, says GlobalData",
+  "source": "Hydrocarbon Engineering",
+  "published_utc": "2018-12-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Non subsidised LPG cylinder price cut by Rs 120.50",
+  "source": "The Indian Express",
+  "published_utc": "2018-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

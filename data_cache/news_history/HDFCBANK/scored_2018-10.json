@@ -1,0 +1,641 @@
+[
+ {
+  "title": "SBI to Central Bank of India: 10 largest banks in India by market cap",
+  "source": "Business Today",
+  "published_utc": "2018-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Billion Days sale from October 10-14: Top deals, offers on mobiles and smartphones",
+  "source": "The Indian Express",
+  "published_utc": "2018-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy A7 (2018) \u2013 Hands-on [Images]",
+  "source": "MobiGyaan",
+  "published_utc": "2018-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lessons in restructuring from UTI, IDBI and IFCI",
+  "source": "BusinessLine",
+  "published_utc": "2018-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "North Korean hackers linked to Cosmos Bank heist",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches instant vehicle insurance renewal",
+  "source": "India.com",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo launches a new variant of Y81 in India",
+  "source": "MobiGyaan",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Honor announces Flipkart Big Billion Day offers; aims to sell 1 mn units",
+  "source": "Business Standard",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The fall of a star banker: Why Chanda Kochhar quit",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why being a bank CEO is an unbankable job",
+  "source": "The Times of India",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt appoints Rakesh Sharma as IDBI chief",
+  "source": "Livemint",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Motorola One Power sold out instantly in first sale, next sale on October 11",
+  "source": "FoneArena.com",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM cash withdrawal limit per day: SBI, HDFC, PNB, ICICI, BoB or Axis Bank customer? Check these details",
+  "source": "Zee Business",
+  "published_utc": "2018-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank FD Rates: Check out your bank\u2019s latest fixed deposit interest rates effective from October 6",
+  "source": "The Financial Express",
+  "published_utc": "2018-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Six held by Mumbai police for stealing data from job sites, conning applicants",
+  "source": "DNA India",
+  "published_utc": "2018-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Billion, Amazon Great Indian Sale offer big discounts on OnePlus 6, Mi Mix 2, Galaxy S8, ZenFone Max Pro M1 and other phones",
+  "source": "India Today",
+  "published_utc": "2018-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shapoorji Pallonji Real Estate plans land monetization programme",
+  "source": "Livemint",
+  "published_utc": "2018-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Great Indian Festival vs Flipkart Big Billion Days: All smartphone deals we know so far",
+  "source": "Livemint",
+  "published_utc": "2018-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tamil Nadu: Panneerselvam's spat with Dhinakaran stirs fresh political row",
+  "source": "Livemint",
+  "published_utc": "2018-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google Pixel 3 and Pixel 3 XL India price revealed, pre-orders begin October 11",
+  "source": "FoneArena.com",
+  "published_utc": "2018-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Billion Days sale to go live on Oct 9: Here are best festive offers",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Higher LTCG tax for those betting on mergers",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM cash withdrawal limit: How much SBI, HDFC, PNB, ICICI Bank customers can withdraw",
+  "source": "Livemint",
+  "published_utc": "2018-10-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New Hyundai Santro Bookings Open For These 9 Variants",
+  "source": "Gaadiwaadi.com",
+  "published_utc": "2018-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vinay Razdan joins HDFC Bank as CHRO",
+  "source": "HR Katha",
+  "published_utc": "2018-10-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart, Amazon offers: Top deals on Mi A2, Nokia 6.1 Plus, Honor 9N, more mobiles under Rs 15,000",
+  "source": "The Indian Express",
+  "published_utc": "2018-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Billion Days Sale: Top deals on smartphones, gaming consoles and laptops you should know",
+  "source": "IBTimes India",
+  "published_utc": "2018-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Marine Electricals Yearly Results, Financial summary, Marine Electricals Yearly Earnings",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-11T21:54:24+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New branch opening pace has come down: Kotak Mahindra Bank",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda CEO P.S. Jayakumar gets one-year extension",
+  "source": "Livemint",
+  "published_utc": "2018-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM withdrawal limit per day: SBI, HDFC, Axis, ICICI, PNB, BoB, other bank customers, check this",
+  "source": "Zee Business",
+  "published_utc": "2018-10-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lykis Ltd Cash Flow, Financial Statements",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-13T12:34:51+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "7 Top Stocks to Buy and Hold for the Next Decade and Beyond",
+  "source": "Lyn Alden - Investment Strategy",
+  "published_utc": "2018-10-14T15:09:34+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha transport department to introduce e-challans from November 1",
+  "source": "The Times of India",
+  "published_utc": "2018-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How IL&FS built a road to riches, for some",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to open a Senior Citizen Savings Scheme account",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Looking to invest in fixed deposits? Check out the latest FD rates of SBI, HDFC, ICICI, Kotak, Axis and other banks",
+  "source": "The Financial Express",
+  "published_utc": "2018-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KrisFlyer Spontaneous Escapes: 43% discount on SQ Redemptions to USA!",
+  "source": "Live From A Lounge",
+  "published_utc": "2018-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Learning with the Times: What happens to seized assets before the govt can sell them",
+  "source": "The Times of India",
+  "published_utc": "2018-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITO Skywalk inaugurated: Sneak peek into one of Delhi's busiest stretch",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pine Labs Enables Debit Card EMIs From HDFC Bank and Axis Bank in Retail Stores",
+  "source": "PR Newswire",
+  "published_utc": "2018-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone XR now available for pre-order in India from Airtel with Rs. 14999 down payment and Amazon",
+  "source": "FoneArena.com",
+  "published_utc": "2018-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank profit up 21%",
+  "source": "Telegraph India",
+  "published_utc": "2018-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q2 net profit rises 21 pc to Rs 5,005 crore",
+  "source": "India.com",
+  "published_utc": "2018-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Foreign exchange reserves see highest fall of $5.1 billion in 7 years",
+  "source": "Business Standard",
+  "published_utc": "2018-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL to replicate Reliance Jio model for Jio GigaFiber",
+  "source": "Livemint",
+  "published_utc": "2018-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brokerages give HDFC Bank a thumbs-up",
+  "source": "Fortune India",
+  "published_utc": "2018-10-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank shares up 1.5% post Q2 results",
+  "source": "India.com",
+  "published_utc": "2018-10-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex ends in red as late sell-off reverses early gains; down 181 pts",
+  "source": "India.com",
+  "published_utc": "2018-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How fraudsters use psychological tricks to dupe people online",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Issuance of notification for J-K panchayat polls begins Tuesday",
+  "source": "India.com",
+  "published_utc": "2018-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aye Finance: This startup claims to have grown 350% annually, plans pan India expansion",
+  "source": "The Financial Express",
+  "published_utc": "2018-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance, BP to jointly set up 2,000 petrol pumps in India",
+  "source": "Livemint",
+  "published_utc": "2018-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New features - Hyundai Santro makes comeback in India",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New Santro mileage - Hyundai Santro makes comeback in India",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Similarities and differences - Triumph unveils Scrambler 1200 XC and Scrambler 1200 XE",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to buy Axis Bank stake in NSDL for $22 mn",
+  "source": "VCCircle",
+  "published_utc": "2018-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank sells 4.95 pc stake in NSDL to HDFC Bank for Rs 163 cr",
+  "source": "India.com",
+  "published_utc": "2018-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Funding infra: Time to think of ICICI-IDBI 2.0",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "When will FDs double the bonus amount invested this Diwali? Check out from SBI fixed deposits to Post Office deposits",
+  "source": "The Financial Express",
+  "published_utc": "2018-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UIDAI asks banks to use Aadhaar eKYC for DBT users; voluntary offline Aadhaar for other customers",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Eight of top 10 cos suffer Rs 1.35 lakh cr hit in market valuation",
+  "source": "India.com",
+  "published_utc": "2018-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HUL versus ITC: Despite headwinds, stable demand aids growth in Q2",
+  "source": "Business Standard",
+  "published_utc": "2018-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank gets Reserve Bank of India approval to retain Aditya Puri as CEO for two more years",
+  "source": "Firstpost",
+  "published_utc": "2018-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank finds 68 used fake papers for job, one a branch manager",
+  "source": "The Times of India",
+  "published_utc": "2018-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank probe finds 68 employees used fake documents to get jobs",
+  "source": "Business Today",
+  "published_utc": "2018-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri to remain CEO of HDFC Bank for 2 more years",
+  "source": "Rediff",
+  "published_utc": "2018-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI clears re-appointment of Aditya Puri as CEO of HDFC Bank for 2 years",
+  "source": "India.com",
+  "published_utc": "2018-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM cash withdrawal limit: How much SBI, ICICI, PNB, HDFC Bank customers can withdraw",
+  "source": "Livemint",
+  "published_utc": "2018-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to block, unblock your credit card: Things to know",
+  "source": "The Times of India",
+  "published_utc": "2018-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank posts 15.1% second-quarter profit on tax write-back",
+  "source": "Livemint",
+  "published_utc": "2018-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

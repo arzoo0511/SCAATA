@@ -1,0 +1,533 @@
+[
+ {
+  "title": "Canara Bank cuts interest rate on savings bank accounts | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2017-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI annual report: Provision figure confounds analysts",
+  "source": "Business Standard",
+  "published_utc": "2017-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India GDP growth rate slumps to 5.7% in Q1 in challenge for economy",
+  "source": "Livemint",
+  "published_utc": "2017-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assem Dhru quits HDFC Bank after a two-decade long stint",
+  "source": "The Economic Times",
+  "published_utc": "2017-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI includes HDFC Bank in 'too big to fail' list",
+  "source": "The Asian Age",
+  "published_utc": "2017-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Top 200 Equity Fund: Offers high upside with high volatility",
+  "source": "The Economic Times",
+  "published_utc": "2017-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Raghuram Rajan says it's a mistake to treat RBI governor as just another bureaucrat",
+  "source": "Livemint",
+  "published_utc": "2017-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI, HDFC Bank in RBI's too-big-to-fail list: All you need to know about the categorisation",
+  "source": "Firstpost",
+  "published_utc": "2017-09-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank is now 'too big to fail'; what does it mean?",
+  "source": "www.theweek.in",
+  "published_utc": "2017-09-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI says HDFC Bank is \u2018too big to fail\u2019: Here\u2019s what 'too big to fail' means",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-09-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A banker's job will no longer be slow, steady or stable. This is the reason why",
+  "source": "The Economic Times",
+  "published_utc": "2017-09-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "K. Balasubramanian, HDFC Bank's corporate banking head, said to return to Citigroup",
+  "source": "Livemint",
+  "published_utc": "2017-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank loses its corporate head K Balasubramanian to Citi",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s \u2018Eva\u2019 becomes India\u2019s smartest chatbot",
+  "source": "The Indian Express",
+  "published_utc": "2017-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank uses purchase history, social media analytics to offer credit cards to customers",
+  "source": "The Economic Times",
+  "published_utc": "2017-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s EVA becomes India's largest banking Chatbot",
+  "source": "ET CIO",
+  "published_utc": "2017-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking sector this week: Rajan opens up on cash ban; HDFC Bank \"too big to fail\"",
+  "source": "Moneycontrol.com",
+  "published_utc": "2017-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From October, PNB customers will have to shell out Rs 10 per transaction after 5 free ATM withdrawals",
+  "source": "Business Standard",
+  "published_utc": "2017-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Blackstone Group to buy IARC, enter India's distressed assets space",
+  "source": "Livemint",
+  "published_utc": "2017-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank, Bharat Financial enter into merger talks",
+  "source": "The Financial Express",
+  "published_utc": "2017-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What is a domestic systemically important bank",
+  "source": "Livemint",
+  "published_utc": "2017-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In a year's time, Bank of Baroda will show whether Modi's NPA clean-up push is a hit or a flop",
+  "source": "The Economic Times",
+  "published_utc": "2017-09-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndiGo parent InterGlobe Aviation's$616 million share sale on Friday",
+  "source": "Livemint",
+  "published_utc": "2017-09-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank too big to fail: Why this crucial tag stamped on just 3 banks in India; read all about it",
+  "source": "The Financial Express",
+  "published_utc": "2017-09-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Ranked No 1, Jio At 11 In Top 50 Most Valuable Brands List",
+  "source": "Goodreturns",
+  "published_utc": "2017-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank is India's top brand, Reliance Jio joins at no 11: BrandZ Top 50 report",
+  "source": "Livemint",
+  "published_utc": "2017-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These jobs may go missing from banks in the next few years",
+  "source": "The Economic Times",
+  "published_utc": "2017-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDBI Bank sells 2.5% stake in CCIL",
+  "source": "Livemint",
+  "published_utc": "2017-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US FDA makes 3 observations after inspecting Dr Reddy's UK plant",
+  "source": "Livemint",
+  "published_utc": "2017-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Investors richer by Rs 62,156 crore as 9 of top 10 companies grow market cap",
+  "source": "IBTimes India",
+  "published_utc": "2017-09-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google Launches \u2018Tez\u2019\u2013 A Mobile Payment App Promising New Cashless Culture in India",
+  "source": "Bisinfotech",
+  "published_utc": "2017-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google launches Tez, a new digital payment app for India; here\u2019s everything you need to know",
+  "source": "Android Authority",
+  "published_utc": "2017-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First look at Google Tez: audio based p2p payment; 7 Indic languages; VPA issues",
+  "source": "MediaNama",
+  "published_utc": "2017-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google launches Tez mobile payments app in India",
+  "source": "FoneArena.com",
+  "published_utc": "2017-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google Tez payments app goes Live for Android and iOS, here's how it works",
+  "source": "Livemint",
+  "published_utc": "2017-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google launches Tez mobile payments app in India; enables transactions directly from bank accounts",
+  "source": "Zee Business",
+  "published_utc": "2017-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google debuts mobile pay app in India using Audio QR tech",
+  "source": "Marketing Dive",
+  "published_utc": "2017-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google CEO Sundar Pichai Hopeful Of Tez Taking India Closer To Digital Transformation",
+  "source": "NDTV",
+  "published_utc": "2017-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty hits fresh high of 10,178.95, Sensex up 100 points",
+  "source": "The New Indian Express",
+  "published_utc": "2017-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Tez' to take India closer to digital transformation: Pichai",
+  "source": "www.theweek.in",
+  "published_utc": "2017-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TEZ: All you needed to know about it",
+  "source": "Maps of India",
+  "published_utc": "2017-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "More than 40 million people trapped in slavery: global estimate",
+  "source": "Livemint",
+  "published_utc": "2017-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Honor Big Diwali Sale: Honor 10000mAh power bank with fast charging launched, offers on smartphones",
+  "source": "FoneArena.com",
+  "published_utc": "2017-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to use Google Tez App and how is it different from other similar apps",
+  "source": "Gizbot",
+  "published_utc": "2017-09-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI tops trust and popularity charts",
+  "source": "Business Standard",
+  "published_utc": "2017-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank shares more affordable now at under Rs 400; hits lifetime high ex-split",
+  "source": "The Financial Express",
+  "published_utc": "2017-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why IRCTC has refused to use payment gateways of these banks",
+  "source": "Entrackr",
+  "published_utc": "2017-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to transfer your SBI account to another branch online",
+  "source": "The Economic Times",
+  "published_utc": "2017-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How SBI Project Vivek has given SMEs a leg-up in drive to clear loans",
+  "source": "The Financial Express",
+  "published_utc": "2017-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "9 other investment products available in financial markets",
+  "source": "The Economic Times",
+  "published_utc": "2017-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arun Sadhu, political novelist and journalist, dies in Mumbai",
+  "source": "Livemint",
+  "published_utc": "2017-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CarDekho partners with Hero Fincorp for used car loans",
+  "source": "MediaNama",
+  "published_utc": "2017-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cheap drugs pay for Aurobindo Pharma as USFDA approvals surge",
+  "source": "mint",
+  "published_utc": "2017-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NeSL gets registration to store information of bankruptcy cases",
+  "source": "Livemint",
+  "published_utc": "2017-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This value picker made 5,000% in Avanti; doubles wealth every 2 years",
+  "source": "The Economic Times",
+  "published_utc": "2017-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCDEX gets into warehouse e-repository services, launches NERL",
+  "source": "Business Standard",
+  "published_utc": "2017-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Jio, Siddharth Roy Kapur's RKF in digital content deal",
+  "source": "Livemint",
+  "published_utc": "2017-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches its annual sports competition \u2018Josh Unlimited\u2019",
+  "source": "HR Katha",
+  "published_utc": "2017-09-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Instagram trying new features to be more user friendly",
+  "source": "Livemint",
+  "published_utc": "2017-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

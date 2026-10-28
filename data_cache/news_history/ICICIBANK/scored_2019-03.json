@@ -1,0 +1,479 @@
+[
+ {
+  "title": "ICICI-Videocon case: ED raids Chanda Kochhar\u2019s residence, others",
+  "source": "The Indian Express",
+  "published_utc": "2019-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED raids premises of Kochhar, Dhoot in bank loan fraud",
+  "source": "The Asian Age",
+  "published_utc": "2019-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank-Videocon loan case: Chanda Kochhar, Deepak Kochhar appear before ED for questioning",
+  "source": "Business Today",
+  "published_utc": "2019-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon case: Chanda Kochhar, husband appear before Enforcement Directorate in Mumbai",
+  "source": "HW News English",
+  "published_utc": "2019-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon loan case: ED questions Matix owner Nishant Kanodia",
+  "source": "ETV Bharat",
+  "published_utc": "2019-03-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED to question Chanda Kochhar & Nishant Kanodia in money laundering case",
+  "source": "The Times of India",
+  "published_utc": "2019-03-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochhar, Ruia kin quizzed in money laundering case",
+  "source": "The Times of India",
+  "published_utc": "2019-03-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED again questions Chanda Kochhar, Matix Group\u2019s Nishant Kanodia",
+  "source": "The Indian Express",
+  "published_utc": "2019-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank buys 9.9 per cent in NBFC Kisan Finance for Rs 18 crore",
+  "source": "ChiniMandi",
+  "published_utc": "2019-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon case: MCA finds violations by Deepak Kochhar, Venugopal Dhoot",
+  "source": "Livemint",
+  "published_utc": "2019-03-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Sandeep Bakhshi, the man who replaces Chanda Kochhar",
+  "source": "People Matters - HR News",
+  "published_utc": "2019-03-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank's CIO Amit Sethi asked to resign",
+  "source": "People Matters - HR News",
+  "published_utc": "2019-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, others warn customers on using chip debit cards properly, say or else card could be damaged",
+  "source": "India Today",
+  "published_utc": "2019-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit info co, fintech tie up for first-time borrowers",
+  "source": "The Times of India",
+  "published_utc": "2019-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLT admits ICICI Bank's insolvency plea against Punj Lloyd",
+  "source": "Livemint",
+  "published_utc": "2019-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FDs on bulk deposits: Here are interest rates offered by SBI, ICICI and HDFC Bank",
+  "source": "Business Today",
+  "published_utc": "2019-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC, PNB, ICICI, Axis Bank, Post Office Sukanya Samriddhi Yojana account details, benefits for the girl child",
+  "source": "Zee Business",
+  "published_utc": "2019-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI slaps penalties worth Rs 71 crore on 36 banks, including SBI, ICICI, for non-compliance of SWIFT norms",
+  "source": "Business Today",
+  "published_utc": "2019-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Academy\u2019s centre in Gorakhpur will boost youth employability",
+  "source": "The CSR Journal",
+  "published_utc": "2019-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Power unlikely to agree on lower tariffs for Prayagraj Power Generation",
+  "source": "Livemint",
+  "published_utc": "2019-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBL Bank unseats SBI as No.1 in Point of Sales deployed",
+  "source": "DNA India",
+  "published_utc": "2019-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Deposit rates revised: Know the latest FD rates of Axis Bank Vs Yes Bank Vs SBI Vs ICICI Vs HDFC Vs Kotak Bank",
+  "source": "The Financial Express",
+  "published_utc": "2019-03-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HumLab, Vayam, ICICI Bank announce E-ADR Challenge 2019",
+  "source": "Bar and Bench",
+  "published_utc": "2019-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Didn\u2019t know of husband\u2019s business dealings, says Chanda Kochhar to ED",
+  "source": "The Times of India",
+  "published_utc": "2019-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Inter Bank Cricket Tournament by RBI sports club commences on 13 March 2019",
+  "source": "CricketGraph",
+  "published_utc": "2019-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Bank Stake: RBI Should Consider Separating Voting Power From Economic Ownership",
+  "source": "Swarajya",
+  "published_utc": "2019-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Press Releases",
+  "source": "Reserve Bank of India",
+  "published_utc": "2019-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "11 Indian banks join SWIFT gpi",
+  "source": "Banking Frontiers",
+  "published_utc": "2019-03-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI names SBI, ICICI and HDFC as systemically important banks",
+  "source": "Business Standard",
+  "published_utc": "2019-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bomma Engineering College students secure jobs in ICICI Bank",
+  "source": "The Hans India",
+  "published_utc": "2019-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC vs ICICI vs Axis Bank: Fixed deposit interest rates compared for top banks",
+  "source": "Times Now",
+  "published_utc": "2019-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Catching Them Young",
+  "source": "Business Today",
+  "published_utc": "2019-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TATA TOPS INTERBRAND\u2019S BEST INDIAN BRANDS 2019",
+  "source": "IMPACT Magazine",
+  "published_utc": "2019-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi launches Mi Pay mobile payment solution in India",
+  "source": "FoneArena.com",
+  "published_utc": "2019-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi enters the crowded payments space in India with the launch of Mi Pay",
+  "source": "Android Authority",
+  "published_utc": "2019-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How cardless cash withdrawal at ATM works? But first know your transaction limit, fee as well - SBI vs ICICI Bank",
+  "source": "Zee Business",
+  "published_utc": "2019-03-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Mi Pay payment service officially launched in India: Everything you need to know",
+  "source": "Smartprix",
+  "published_utc": "2019-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi launches Mi Pay as a UPI app on Indian Xiaomi smartphones",
+  "source": "MediaNama",
+  "published_utc": "2019-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 Large Cap Stocks with Highest MF Holding",
+  "source": "Invest Yadnya",
+  "published_utc": "2019-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Bank sells 4% stake in Clearing Corp for Rs 118 cr",
+  "source": "The Economic Times",
+  "published_utc": "2019-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karan Sonavale\u2019s efforts go in vain as ICICI lose to Kathiwada by 8 runs",
+  "source": "CricketGraph",
+  "published_utc": "2019-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI slaps Rs 2 crore penalty on Punjab National Bank for violating SWIFT norms",
+  "source": "The Indian Express",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI fines PNB for non-compliance on SWIFT use",
+  "source": "Reuters",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gujarat banking network \u2013 an analysis",
+  "source": "Banking Frontiers",
+  "published_utc": "2019-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DDA Housing Scheme 2019: 5 things to know about flat allotment, application process",
+  "source": "Livemint",
+  "published_utc": "2019-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI launches pre-approved home loan",
+  "source": "The Hindu",
+  "published_utc": "2019-03-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda merger: Govt to infuse \u20b95,042 crore",
+  "source": "Livemint",
+  "published_utc": "2019-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Check out fixed deposit interest rates offered by top banks",
+  "source": "Times Now",
+  "published_utc": "2019-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deutsche Bank vs Standard Chartered",
+  "source": "Comparably",
+  "published_utc": "2019-03-29T00:56:11+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Talwar Thakore promotes Neville Golwalla and Priyanka Kumar to Counsel",
+  "source": "Bar and Bench",
+  "published_utc": "2019-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "150 Gitam Mba students receive placement offers",
+  "source": "The Hans India",
+  "published_utc": "2019-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vijay Chandok appointed as MD and CEO of ICICI Securities",
+  "source": "Business Today",
+  "published_utc": "2019-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vijaya, Dena to become Bank of Baroda from Monday",
+  "source": "Rediff",
+  "published_utc": "2019-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

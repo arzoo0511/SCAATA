@@ -1,0 +1,65 @@
+[
+ {
+  "title": "First Organic Waste Composting Facility for Bihar, India",
+  "source": "Waste Management World",
+  "published_utc": "2018-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Training on Biodiversity Registers and Biodiversity Management Committees in Munger, Bihar",
+  "source": "International Union for Conservation of Nature",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC 2nd quarter net profit up 12%",
+  "source": "Telegraph India",
+  "published_utc": "2018-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nature based agriculture and farmer field school demonstrations in Munger, Bihar",
+  "source": "International Union for Conservation of Nature",
+  "published_utc": "2018-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "F&B Service in a Hotel: Understanding the Market, Trends, Innovation, Quality and Bottomline",
+  "source": "Hotelier India",
+  "published_utc": "2018-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC enters pouched milk, curd segment",
+  "source": "The Hindu",
+  "published_utc": "2018-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels launches the ITC Grand Goa Resort & Spa",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

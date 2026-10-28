@@ -1,0 +1,713 @@
+[
+ {
+  "title": "SBI to Central Bank of India: 10 largest banks in India by market cap",
+  "source": "Business Today",
+  "published_utc": "2018-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RSS-affiliate Swadeshi Jagran Manch welcomes Nachiket Mor's sacking from RBI board",
+  "source": "The New Indian Express",
+  "published_utc": "2018-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government takes charge of IL&FS",
+  "source": "Fortune India",
+  "published_utc": "2018-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank shares slump 20% after RBI action",
+  "source": "Livemint",
+  "published_utc": "2018-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI halves ATM withdrawal limit to Rs 20,000",
+  "source": "English Varthabharati",
+  "published_utc": "2018-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar quits as ICICI Bank CEO: New chief Sandeep Bakhshi has been with lender since 1986",
+  "source": "Firstpost",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar quits ICICI Bank",
+  "source": "The Hindu",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Chanda Kochhar chapter is behind ICICI Bank'",
+  "source": "Rediff",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar quits ICICI Bank, Sandeep Bakhshi to succeed her as MD & CEO",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI's scandal-hit Chanda Kochhar quits as CEO, Sandeep Bakhshi gets top job",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is Sandeep Bakhshi, the new CEO of ICICI Bank?",
+  "source": "India Today",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar quits as CEO of ICICI Bank, Sandeep Bakhshi to take over",
+  "source": "Livemint",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar Steps Down As Managing Director, CEO Of ICICI Bank",
+  "source": "NDTV",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO Chanda Kochhar steps down",
+  "source": "Scroll.in",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar steps down as ICICI Bank CEO: The loan controversy that prompted a probe against her",
+  "source": "The Indian Express",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Sandeep Bakhshi, the new top boss at ICICI Bank",
+  "source": "Business Today",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar era over at ICICI Bank: Why the timing of CEO's 'early retirement' raises more questions",
+  "source": "Firstpost",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar quits ICICI Bank; Sandeep Bakhshi appointed new CEO",
+  "source": "The Times of India",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The rise and fall of Chanda Kochhar",
+  "source": "The Hindu",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The rise and fall of former ICICI Bank chief Chanda Kochhar",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares gain 4%, m-cap rises by Rs 8,051 crore as Chanda Kochhar quits",
+  "source": "The Times of India",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar quits ICICI Bank; Sandeep Bakhshi named MD & CEO",
+  "source": "Bangalore Mirror",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakhshi dons a heavy hat after Chanda Kochhar's exit from ICICI Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar: A chapter ends at ICICI",
+  "source": "Forbes India",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All you need to know about Sandeep Bakhshi, the new MD & CEO of ICICI Bank",
+  "source": "Business Today",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakhshi becomes ICICI Bank MD&CEO for five years",
+  "source": "India.com",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares surge 6% as Chanda Kochhar quits",
+  "source": "India.com",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares gain 4 pc, m-cap rises by Rs 8,051 cr as Kochhar quits",
+  "source": "India.com",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The fall of a star banker: Why Chanda Kochhar quit",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakhshi: Meet the man who replaces Chanda Kochhar as ICICI Bank's new CEO",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar quits ICICI, replaced by Sandeep Bakshi",
+  "source": "India.com",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar salary: This is what ICICI Bank chief was earning",
+  "source": "Zee Business",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakshi to be new CEO-MD of ICICI Bank, all you need to know about Chanda Kochhar's replacement",
+  "source": "DNA India",
+  "published_utc": "2018-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO Chanda Kochhar resigns before probe ends",
+  "source": "The Times of India",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar: The CEO who rose through the ranks at ICICI",
+  "source": "The Indian Express",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why being a bank CEO is an unbankable job",
+  "source": "The Times of India",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's Chanda Kochhar quits, Sandeep Bakhshi appointed as new CEO",
+  "source": "Business Standard",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Sandeep Bakhshi: The new boss of ICICI Bank",
+  "source": "CNBC TV18",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakhshi: Interesting things about the new MD & CEO of ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakhshi will take ICICI Bank to new heights, says former CMD N Vaghul",
+  "source": "CNBC TV18",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Certain benefits to Chanda Kochhar subject to enquiry outcome\u2019",
+  "source": "The Indian Express",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar: The exit of a lone ranger",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM cash withdrawal limit per day: SBI, HDFC, PNB, ICICI, BoB or Axis Bank customer? Check these details",
+  "source": "Zee Business",
+  "published_utc": "2018-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLT orders liquidation of Rathna Stores Pvt. Ltd.",
+  "source": "The Hindu",
+  "published_utc": "2018-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "End of the road for Chanda Kochhar at ICICI Bank",
+  "source": "Fortune India",
+  "published_utc": "2018-10-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM cash withdrawal limit: How much SBI, HDFC, PNB, ICICI Bank customers can withdraw",
+  "source": "Livemint",
+  "published_utc": "2018-10-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BoB, Vijaya Bank, Dena Bank merger plan sent for govt note",
+  "source": "Deccan Chronicle",
+  "published_utc": "2018-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BlackBerry Evolve goes on sale in India for the first time",
+  "source": "The Mobile Indian",
+  "published_utc": "2018-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crime branch lodges FIR against job consultancy for \u2018duping\u2019",
+  "source": "Greater Kashmir",
+  "published_utc": "2018-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lenders seek restriction on Gammon chief\u2019s travel",
+  "source": "The Times of India",
+  "published_utc": "2018-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "18K JPMiles for ICICI Jet Airways Sapphiro Credit Card! Signed up yet?",
+  "source": "Live From A Lounge",
+  "published_utc": "2018-10-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Builder, bank manager booked for cheating homebuyer",
+  "source": "The Times of India",
+  "published_utc": "2018-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HNLU places 62 in \u201818 class of 150: State law dept biggest recruiter, 12 law firms, 4 companies, LLMs",
+  "source": "Legally India",
+  "published_utc": "2018-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "#RecTracker: HNLU 2018 batch records 56 placements, 6 LLMs",
+  "source": "Bar and Bench",
+  "published_utc": "2018-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gammon sells Mumbai land in Dombivali for \u20b9230 crore",
+  "source": "Livemint",
+  "published_utc": "2018-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM withdrawal limit per day: SBI, HDFC, Axis, ICICI, PNB, BoB, other bank customers, check this",
+  "source": "Zee Business",
+  "published_utc": "2018-10-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One-third of Tata Capital's business will originate from Tata group firms, says CEO Sabharwal",
+  "source": "CNBC TV18",
+  "published_utc": "2018-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves Sandeep Bakshi appointment as ICICI Bank MD, CEO",
+  "source": "BusinessLine",
+  "published_utc": "2018-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves appointment of Sandeep Bakshi as ICICI Bank MD, CEO",
+  "source": "The Hindu",
+  "published_utc": "2018-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves 3-year term for Bakhshi as ICICI Bank chief",
+  "source": "India.com",
+  "published_utc": "2018-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CEO: RBI approves three-year term for Sandeep Bakhshi",
+  "source": "The Indian Express",
+  "published_utc": "2018-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank files fraud case against Shrenuj promoter, says report",
+  "source": "CNBC TV18",
+  "published_utc": "2018-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Take the hassle out of switching bank accounts: Savings platforms prove a hit",
+  "source": "This is Money",
+  "published_utc": "2018-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Law firm withdraws clean chit to Kochhar",
+  "source": "The Hindu",
+  "published_utc": "2018-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Law firm Cyril Amarchand Mangaldas withdraws report that gave clean chit to Kochhar",
+  "source": "India.com",
+  "published_utc": "2018-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Says Top Law Firm Withdrew Clean Chit Given to Its ex-CEO Chanda Kochhar",
+  "source": "India.com",
+  "published_utc": "2018-10-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank second-quarter profit halves, but asset quality improves",
+  "source": "Reuters",
+  "published_utc": "2018-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank rolls out a multimedia campaign for its cardholders",
+  "source": "Adgully.com",
+  "published_utc": "2018-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Funding infra: Time to think of ICICI-IDBI 2.0",
+  "source": "The Economic Times",
+  "published_utc": "2018-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces new feature on its iMobile app to boost the security of credit, debit cards",
+  "source": "The Financial Express",
+  "published_utc": "2018-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares jump 8% on improvement in asset quality",
+  "source": "Livemint",
+  "published_utc": "2018-10-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank zooms nearly 11%; m-cap surges by Rs 21,967 cr post Q2 results",
+  "source": "India.com",
+  "published_utc": "2018-10-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares soar over 9% post Q2 results",
+  "source": "India.com",
+  "published_utc": "2018-10-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex rallies over 700 pts; banking shares hog limelight",
+  "source": "India.com",
+  "published_utc": "2018-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex soars 718 pts, banking stocks lead rally",
+  "source": "India.com",
+  "published_utc": "2018-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Pay ICICI Bank Credit Card Launched, Offers 5 Percent Reward Points to Prime Members",
+  "source": "Gadgets 360",
+  "published_utc": "2018-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Teams Up With Amazon To Launch Co-Branded Credit Card",
+  "source": "Crowdfund Insider",
+  "published_utc": "2018-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM cash withdrawal limit: How much SBI, ICICI, PNB, HDFC Bank customers can withdraw",
+  "source": "Livemint",
+  "published_utc": "2018-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches co-branded Amazon Pay Credit Card",
+  "source": "Live From A Lounge",
+  "published_utc": "2018-10-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

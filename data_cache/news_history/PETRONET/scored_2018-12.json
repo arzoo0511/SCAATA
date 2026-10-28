@@ -1,0 +1,47 @@
+[
+ {
+  "title": "LNG as Transport Fuel in India",
+  "source": "Cyril Amarchand Mangaldas",
+  "published_utc": "2018-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How much remuneration did the heads of Indian oil and gas PSUs receive last year?",
+  "source": "ET EnergyWorld",
+  "published_utc": "2018-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CHOPRA IS DIRECTOR, LBSNAA",
+  "source": "IndianMandarins",
+  "published_utc": "2018-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG to invest \u20b92,100 crore at Dahej terminal",
+  "source": "Livemint",
+  "published_utc": "2018-12-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Gujarat Still The Leader In Petro Investments\u2019: Petronet LNG To Invest Rs 2,100 Crores To Expand Dahej Terminal",
+  "source": "Swarajya",
+  "published_utc": "2018-12-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

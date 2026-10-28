@@ -1,0 +1,317 @@
+[
+ {
+  "title": "Chanda Kochhar: The rise and fall of India's celebrated CEO",
+  "source": "BBC",
+  "published_utc": "2019-02-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realty deal at heart of ICICI probe against Chanda Kochhar",
+  "source": "The Economic Times",
+  "published_utc": "2019-02-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New Rider At IDFC First Bank",
+  "source": "Business Today",
+  "published_utc": "2019-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BSNL launches \u20b92,499 FTTH plan with 40GB daily data, 100Mbps speed",
+  "source": "Livemint",
+  "published_utc": "2019-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MG Motor India signs MoUs with 5 leading private banks",
+  "source": "ET Auto",
+  "published_utc": "2019-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "As prices of generics slide, pharma firms shift focus to specialty drugs",
+  "source": "Livemint",
+  "published_utc": "2019-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here's how you can use the new Touch ID, Face ID unlock on WhatsApp for iPhones",
+  "source": "Livemint",
+  "published_utc": "2019-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fractal Analytics\u2019 evolution from small-time data firm to analytics leader",
+  "source": "Techcircle",
+  "published_utc": "2019-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm Postpaid Eligibility, Rules and Other Information",
+  "source": "DQ",
+  "published_utc": "2019-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BARC Staff Club wins quarters while Karan puts an all-round performance in the Times Shield E Div\u201919",
+  "source": "CricketGraph",
+  "published_utc": "2019-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI cuts interest rate on home loans: Is it cheaper than HDFC Bank, ICICI Bank? Calculate your EMIs",
+  "source": "Zee Business",
+  "published_utc": "2019-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital banking in Q3FY19: ICICI, Kotak Mahindra, Union, Canara and Yes Bank",
+  "source": "MediaNama",
+  "published_utc": "2019-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tax saving FD: 5 years SBI, HDFC, ICICI fixed deposit; Is post office NSC an alternative?",
+  "source": "The Financial Express",
+  "published_utc": "2019-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM transactions to SMS alerts: 5 banking services you wish you did not have to pay for!",
+  "source": "Business Today",
+  "published_utc": "2019-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Gully Boy\u2019 ties up with a spate of brands before release",
+  "source": "Livemint",
+  "published_utc": "2019-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank savings account for women: Benefits, eligibility and how to open",
+  "source": "Zee Business",
+  "published_utc": "2019-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI \"The ONE\" Savings Account features and a quick review !",
+  "source": "Jagoinvestor",
+  "published_utc": "2019-02-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "P&A Law Offices Offices adds two Partners \u2013 Nabik Syam and Akshat Hansaria",
+  "source": "Bar and Bench",
+  "published_utc": "2019-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm hypothecates current assets to increase working capital loan limit to Rs 1,400 Cr",
+  "source": "Entrackr",
+  "published_utc": "2019-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dabhol helped railways save Rs 1,000 crore in power costs a year",
+  "source": "The Times of India",
+  "published_utc": "2019-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cognizant to pay $25 million to settle India bribery charges",
+  "source": "Livemint",
+  "published_utc": "2019-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Morgan Stanley picks big four of Indian banking sector for 2019",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-02-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Merger of Vijaya Bank and Dena Bank with BoB to be effective from April 1",
+  "source": "The Economic Times",
+  "published_utc": "2019-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank FD rates compared: HDFC Bank vs ICICI Bank vs Yes Bank",
+  "source": "Livemint",
+  "published_utc": "2019-02-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Looking for highest FD interest rates? Here are banks offering up to 9%",
+  "source": "Business Today",
+  "published_utc": "2019-02-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pulwama impact: Centre swings into action, withdraws security cover to 18 separatists, 155 politicians in Jammu and Kashmir",
+  "source": "The Financial Express",
+  "published_utc": "2019-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI issues lookout circular against former ICICI Bank CEO Chanda Kochhar, two others: Reports",
+  "source": "Scroll.in",
+  "published_utc": "2019-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Renewed US sanctions on Iran revive fortunes of an Indian bank",
+  "source": "The Economic Times",
+  "published_utc": "2019-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Governor meets bankers to ensure better transmission of rate cuts",
+  "source": "KNN India",
+  "published_utc": "2019-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tappy Technologies joins the NFC World Partner Program",
+  "source": "NFCW",
+  "published_utc": "2019-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HAL delivers first three Dhruv helicopters to Indian Army",
+  "source": "Rediff",
+  "published_utc": "2019-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI issues lookout notice against Chanda Kochhar",
+  "source": "The Bridge Chronicle",
+  "published_utc": "2019-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy M10 is available in open sale starting February 25",
+  "source": "The Times of India",
+  "published_utc": "2019-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces super-premium credit card Emeralde",
+  "source": "BusinessLine",
+  "published_utc": "2019-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Emeralde Credit Card: all the details!",
+  "source": "Live From A Lounge",
+  "published_utc": "2019-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

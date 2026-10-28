@@ -1,0 +1,587 @@
+[
+ {
+  "title": "Fixed deposit (FD) interest rate: SBI vs HDFC Bank vs ICICI Bank vs Axis Bank",
+  "source": "Livemint",
+  "published_utc": "2018-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest Fixed Deposit interest rates in Axis Bank, SBI, HDFC, Yes Bank compared",
+  "source": "Zee Business",
+  "published_utc": "2018-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GST on Free Banking Services to Customers: What Has Been Discussed So Far?",
+  "source": "SAG Infotech Official Tax Blog",
+  "published_utc": "2018-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank hikes fixed deposit interest rate. Check what other top banks are offering",
+  "source": "Times Now",
+  "published_utc": "2018-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to revert to old mobile app version by Dec 4, relaunch update soon",
+  "source": "Moneycontrol.com",
+  "published_utc": "2018-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s new MobileBanking app pulled from stores, old one to be restored",
+  "source": "The Indian Express",
+  "published_utc": "2018-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Shopping Days Sale will be held on December 6-8",
+  "source": "The Mobile Indian",
+  "published_utc": "2018-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart is back with another shopping sale, Big Shopping Days kicks off on December 6th",
+  "source": "Scroll.in",
+  "published_utc": "2018-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's new app down for the 7th day: Sachin Bansal complains",
+  "source": "mint",
+  "published_utc": "2018-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank update: Bank restores old m-banking app in Play Store and App Store",
+  "source": "Times Now",
+  "published_utc": "2018-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Restores Old Versions of Its Mobile Banking App for Android and iOS",
+  "source": "Gadgets 360",
+  "published_utc": "2018-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Death' of this Cheque! SBI, HDFC, PNB, ICICI, BoB, other bank customers - These to become INVALID",
+  "source": "Zee Business",
+  "published_utc": "2018-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC's old mobile banking app is now live: Details here",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2018-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC MF settles mutual fund violation case for \u20b93.78 crore",
+  "source": "Livemint",
+  "published_utc": "2018-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to organise 12th edition of blood donation drive",
+  "source": "Indian Television Dot Com",
+  "published_utc": "2018-12-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs ICICI vs HDFC: Which bank offers the most attractive fixed deposit rates?",
+  "source": "Business Today",
+  "published_utc": "2018-12-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hedge Funds Are Betting On HDFC Bank Limited (HDB)",
+  "source": "Yahoo Finance",
+  "published_utc": "2018-12-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Six of top 10 companies lose Rs 54,916 crore in m-cap",
+  "source": "India.com",
+  "published_utc": "2018-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC Bank Loans To Get Costlier As Lenders Increase MCLR",
+  "source": "Goodreturns",
+  "published_utc": "2018-12-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt stops foreign funding to 156 NGOs for defying order",
+  "source": "The Times of India",
+  "published_utc": "2018-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank closely monitoring Kotak Bank development",
+  "source": "The Economic Times",
+  "published_utc": "2018-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Urjit Patel resigns as RBI Governor",
+  "source": "The Economic Times",
+  "published_utc": "2018-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New governor will have to restore the credibility of central bank, says former RBI governor D Subbarao",
+  "source": "CNBC TV18",
+  "published_utc": "2018-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold prices fall for first time in 4 days, silver rates drop",
+  "source": "Livemint",
+  "published_utc": "2018-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rupee weakens past 72 per US dollar: 5 things to know",
+  "source": "Livemint",
+  "published_utc": "2018-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank introduces step-up repayment scheme for auto loans. All you need to know",
+  "source": "Times Now",
+  "published_utc": "2018-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm Cashback Days sale goes live during December 12 \u2013 16",
+  "source": "The Mobile Indian",
+  "published_utc": "2018-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC to raise up to Rs 1,500 cr by issuing bonds",
+  "source": "India.com",
+  "published_utc": "2018-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Priya Prakash Varrier, Priyanka Chopra, Sapna Choudhary among 2018's most Googled personalities",
+  "source": "Livemint",
+  "published_utc": "2018-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ramesh Damani reveals his most successful investment bets",
+  "source": "CNBC TV18",
+  "published_utc": "2018-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Understanding the Kotak-RBI Battle \u2013 Letter, Spirit, Rules and A Court Petition",
+  "source": "Capitalmind",
+  "published_utc": "2018-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MMRDA Terminates Monorail Contract With L&T JV",
+  "source": "NDTV Profit",
+  "published_utc": "2018-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Five of top 10 companies add Rs 42,513 crore in m-cap; SBI shines",
+  "source": "India.com",
+  "published_utc": "2018-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Governors And The IAS: A Long History",
+  "source": "NDTV Profit",
+  "published_utc": "2018-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Treasurer Ashish Parthasarathy: \u2018With inflation staying low, chances of a rate cut have certainly opened up\u2019",
+  "source": "The Indian Express",
+  "published_utc": "2018-12-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Madhavi Divan appointed ASG in Supreme Court",
+  "source": "Legend Officers",
+  "published_utc": "2018-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda to shut three overseas branches by June",
+  "source": "Livemint",
+  "published_utc": "2018-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Quikr on realty expansion spree, acquires Chennai-based India Property Online",
+  "source": "The Times of India",
+  "published_utc": "2018-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How much is Axis Bank's new CEO Amitabh Chaudhry getting paid?",
+  "source": "Business Today",
+  "published_utc": "2018-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government To Amend Law To Enable Aadhaar Usage By Banks, Telecom Firms",
+  "source": "NDTV Profit",
+  "published_utc": "2018-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Foreign banks must hold 51% in fully owned Indian arms",
+  "source": "The Times of India",
+  "published_utc": "2018-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Make Public Sector Companies autonomous, says Vedanta Chairman",
+  "source": "PSU Watch",
+  "published_utc": "2018-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank to raise up to \u20b93,000 crore via Basel-III compliant bonds",
+  "source": "Livemint",
+  "published_utc": "2018-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Northeast: Banks\u2019 charges for minimum balance \u2013 here are the rules",
+  "source": "NE NOW",
+  "published_utc": "2018-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDFC First: Mgmt buyout turns into bank",
+  "source": "The Times of India",
+  "published_utc": "2018-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jawa bikes get rear disc brake and dual channel ABS",
+  "source": "EVO India",
+  "published_utc": "2018-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jawa announces exchange scheme and finance tie-ups",
+  "source": "BikeWale",
+  "published_utc": "2018-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jawa, Forty Two With Rear Disc & Dual Channel ABS Launched",
+  "source": "Gaadiwaadi.com",
+  "published_utc": "2018-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bollywood dances to South Indian beat with slew of remakes",
+  "source": "Livemint",
+  "published_utc": "2018-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Six of top-10 companies lose Rs 89,531 crore in m-cap",
+  "source": "India.com",
+  "published_utc": "2018-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OPPO R17 goes on sale in India: Here are all the pricing and offer details",
+  "source": "MobiGyaan",
+  "published_utc": "2018-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GVK group in talks to refinance up to \u20b91,400 crore debt",
+  "source": "Livemint",
+  "published_utc": "2018-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bogibeel, India's longest rail-road bridge: 10 things to know",
+  "source": "Livemint",
+  "published_utc": "2018-12-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BANK STRIKE: Employees protest for the second time in 10 days",
+  "source": "The New Indian Express",
+  "published_utc": "2018-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 lakh bank workers on nationwide strike today; banking services to be hit",
+  "source": "The Statesman",
+  "published_utc": "2018-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bogibeel Bridge connects Arunachal through new 'strategic railway' line",
+  "source": "Business Standard",
+  "published_utc": "2018-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC group surpasses Tatas in m-cap",
+  "source": "Livemint",
+  "published_utc": "2018-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Custom-fit car loan helps customers fund their dream car | It also offers zero foreclosure charges | Inshorts",
+  "source": "Inshorts",
+  "published_utc": "2018-12-27T09:36:07+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus 6T year-end offer includes instant discount, No-cost EMI, exchange offer and more",
+  "source": "FoneArena.com",
+  "published_utc": "2018-12-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All 11 banks under PCA show lower NPA growth in FY18, reports RBI",
+  "source": "Business Standard",
+  "published_utc": "2018-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Spurt in campus placement cheers up Cusat students",
+  "source": "The Times of India",
+  "published_utc": "2018-12-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank account holder? Alert! You did not replace your Debit card? Here's why you don't need to worry",
+  "source": "Zee Business",
+  "published_utc": "2018-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here are some of the top performing mutual funds of 2018",
+  "source": "The Times of India",
+  "published_utc": "2018-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shikha Sharma retires as Axis Bank MD & CEO, Amitabh Chaudhry to succeed",
+  "source": "Business Standard",
+  "published_utc": "2018-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock markets may remain volatile in first half of 2019: Experts",
+  "source": "Livemint",
+  "published_utc": "2018-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
