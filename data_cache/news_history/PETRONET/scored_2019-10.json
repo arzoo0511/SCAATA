@@ -1,0 +1,47 @@
+[
+ {
+  "title": "CBI REGISTERS FIR AGAINST TWO IAS OFFICERS, RAIDS 11 LOCATIONS",
+  "source": "IndianMandarins",
+  "published_utc": "2019-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks To Watch: Biocon, Fortis Healthcare, GM Breweries, Infosys, Tata Steel, TCS",
+  "source": "NDTV Profit",
+  "published_utc": "2019-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mundra LNG terminal to be commissioned by December",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-10-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Energy Trade With U.S. To Jump 40% To $10 Billion This Year, Says Dharmendra Pradhan",
+  "source": "NDTV Profit",
+  "published_utc": "2019-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex, Nifty Pre-Market Cues: All You Need To Know Going Into Trade On Oct. 30",
+  "source": "NDTV Profit",
+  "published_utc": "2019-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

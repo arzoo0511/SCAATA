@@ -1,0 +1,317 @@
+[
+ {
+  "title": "Indian Oil becomes first oil PSU to cross 1,000-patent milestone",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil pipeline project in final stage",
+  "source": "The Himalayan Times",
+  "published_utc": "2019-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil hikes prices of LPG cylinder May 1 onwards",
+  "source": "NE NOW",
+  "published_utc": "2019-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha: ONGC evacuates nearly 500 employees before cyclone Fani makes landfall",
+  "source": "The Indian Express",
+  "published_utc": "2019-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "China, Turkey, India Silent on Buying Iran\u2019s Oil as US Ban Begins",
+  "source": "VOA - Voice of America English News",
+  "published_utc": "2019-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US sanctions on Iran to affect Turkey, India most | Jareer Elass | AW",
+  "source": "The Arab Weekly",
+  "published_utc": "2019-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG Price Down Around 12% So Far This Year. Here's How Much You Pay Now",
+  "source": "NDTV Profit",
+  "published_utc": "2019-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire at petrol vending machine quickly doused, tragedy averted",
+  "source": "The Hitavada",
+  "published_utc": "2019-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This school in Assam accepts plastic waste as a fee, creating environmental awareness among the local community",
+  "source": "YourStory.com",
+  "published_utc": "2019-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CIC Directs CBI to Share Information on Corruption and Human Rights Violation Cases Under its Scanner",
+  "source": "SabrangIndia",
+  "published_utc": "2019-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US Sanctions, Iran\u2019s Response and worsening Oil Situation",
+  "source": "Vivekananda International Foundation (VIF)",
+  "published_utc": "2019-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "More assistance pour in for cyclone-ravaged Odisha",
+  "source": "The New Indian Express",
+  "published_utc": "2019-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Libya on the boil: Gaddafi\u2019s \u2018old comrade\u2019 can\u2019t bring stability",
+  "source": "orfonline.org",
+  "published_utc": "2019-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia: A Key Pillar of India\u2019s Foreign Policy",
+  "source": "India Foundation",
+  "published_utc": "2019-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dipankar Bhattacharjee: The No. 1 when Gopichand was No. 2",
+  "source": "Indian Sports Home",
+  "published_utc": "2019-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will India look towards Latin America and the Caribbean to balance the Crude oil import?",
+  "source": "The Financial Express",
+  "published_utc": "2019-05-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NGT fines Indian Oil's Panipat refinery for violation of environmental norms",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-05-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC gas pipeline: Order on land acquisition stayed",
+  "source": "DT Next",
+  "published_utc": "2019-05-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From 2014 to 2019: How the Adani Group\u2019s footprint expanded across India",
+  "source": "Scroll.in",
+  "published_utc": "2019-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NSE penalises 250 companies for non-compliance of listing, disclosure norms",
+  "source": "Livemint",
+  "published_utc": "2019-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Know all about OALP bidding round II, III",
+  "source": "PSU Watch",
+  "published_utc": "2019-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco to supply Indian Oil Corp an additional two million barrels of oil per month",
+  "source": "Scroll.in",
+  "published_utc": "2019-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sectors of Indian Economy",
+  "source": "Drishti IAS",
+  "published_utc": "2019-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Emerson Selected by Indian Oil for Key Refinery Modernization Project",
+  "source": "www.controlglobal.com",
+  "published_utc": "2019-05-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance topples Indian Oil to become the biggest Indian company",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-05-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s oil imports jumped 14% in April, Iran shipments down 42%",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UAE\u2019s Enoc Group inks three-year lubricant supply deal with Famco",
+  "source": "Construction Week Online",
+  "published_utc": "2019-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flt Lt Bhawana Kanth is first woman fighter pilot to qualify for combat duty",
+  "source": "The Indian Express",
+  "published_utc": "2019-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jet Airways crisis: India\u2019s aviation fuel consumption drops for the first time in 4 yrs",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IITans tap LSEOR to boost oil output",
+  "source": "Manorama Yearbook",
+  "published_utc": "2019-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and Diesel Prices on the Rise After Polls in India",
+  "source": "NewsClick",
+  "published_utc": "2019-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Work begins on pipelines for IOCL terminal at Vallur",
+  "source": "The Hindu",
+  "published_utc": "2019-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices on the rise; here are the daily rates in major cities",
+  "source": "CNBC TV18",
+  "published_utc": "2019-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors collaborates with IOCL to launch first-of-its-kind \u2018Saarthi Aaram Kendra\u2019 for driver welfare in India",
+  "source": "Tata Motors",
+  "published_utc": "2019-05-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors partners Indian Oil for driver care pit stops on National Highways",
+  "source": "Autocar Professional",
+  "published_utc": "2019-05-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

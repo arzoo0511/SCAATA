@@ -1,0 +1,416 @@
+[
+ {
+  "title": "RBI allows Bank of China to offer regular banking services in India",
+  "source": "The Economic Times",
+  "published_utc": "2019-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Truecaller bug, ICICI Bank UPI Account row: Is your money safe? Here's what expert says",
+  "source": "Zee Business",
+  "published_utc": "2019-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How truecaller linked its customers to UPI without consent",
+  "source": "ET CISO",
+  "published_utc": "2019-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest fixed deposit (FD) rates: SBI vs PNB vs HDFC Bank vs Axis Bank vs ICICI Bank",
+  "source": "Livemint",
+  "published_utc": "2019-08-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Working woman? This ICICI Bank savings account promises several benefits for you",
+  "source": "Zee Business",
+  "published_utc": "2019-08-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UP: Four held for committing bank fraud in Gautam Buddh Nagar",
+  "source": "ANI News",
+  "published_utc": "2019-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sushma Swaraj's last tweet: \u2018I was waiting to see this day in my lifetime\u2019",
+  "source": "Livemint",
+  "published_utc": "2019-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Noida: Brothers create fake firms to dupe banks of Rs 2 crore",
+  "source": "The Times of India",
+  "published_utc": "2019-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After key exits, PayU India fills 5 senior positions to strengthen top-tier team",
+  "source": "Entrackr",
+  "published_utc": "2019-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe and Google Pay rise as Paytm cedes top UPI platform spot: Report",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NEFT & RTGS: Many Banks Defy RBI and Continue to Levy Charges for Money Transfer",
+  "source": "Moneylife",
+  "published_utc": "2019-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Truecaller \u2018bug\u2019 automatically signs up users for UPI, bypassing consent",
+  "source": "MediaNama",
+  "published_utc": "2019-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NDTV\u2019s Prannoy, Radhika Roy stopped from flying abroad, their company says fake case",
+  "source": "The Indian Express",
+  "published_utc": "2019-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EaseMyTrip launches travel offers for Independence day",
+  "source": "ET BrandEquity",
+  "published_utc": "2019-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NDTV\u2019s Founders Prannoy Roy & Radhika Roy detained at Mumbai International Airport today",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2019-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NDTV\u2019s founders prevented from leaving country, LOC issued in June",
+  "source": "Newslaundry",
+  "published_utc": "2019-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NDTV\u2019s founders Prannoy Roy, wife Radhika detained at Mumbai airport",
+  "source": "ET BrandEquity",
+  "published_utc": "2019-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Natco gets six USFDA observations for its Mekaguda plant",
+  "source": "Livemint",
+  "published_utc": "2019-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Redmi 7A available on open sale for a limited time",
+  "source": "The Times of India",
+  "published_utc": "2019-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC CEO Aditya Puri the highest paid banker in India - Know the salaries of other top paid bank CEOs",
+  "source": "Times Now",
+  "published_utc": "2019-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Short Term Flexible Recurring Deposit: Features, advantages, options; All you need to know",
+  "source": "The Financial Express",
+  "published_utc": "2019-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises fixed deposit rates. Check latest FD rates",
+  "source": "mint",
+  "published_utc": "2019-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank focuses on granularity, de-risking for sustainable growth",
+  "source": "The New Indian Express",
+  "published_utc": "2019-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank reviews fixed deposit rates; here are the latest FD rates",
+  "source": "Deccan Chronicle",
+  "published_utc": "2019-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises interest rates on fixed deposits: Full details",
+  "source": "The News Minute",
+  "published_utc": "2019-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank revises fixed deposit rates. Latest FD rates here",
+  "source": "mint",
+  "published_utc": "2019-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank undergoes cultural shift, scraps employee grades and hierarchies",
+  "source": "HR Katha",
+  "published_utc": "2019-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank moves to revamp its office culture, discards cabins, some grades",
+  "source": "Livemint",
+  "published_utc": "2019-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank offices undergo MASSIVE overhaul; no separate cabins for team leads, employees can share dining room of top management",
+  "source": "India TV News",
+  "published_utc": "2019-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These Lucrative Amazon Offers On Vivo Smartphones Will Make You Want To Buy One",
+  "source": "Gizbot",
+  "published_utc": "2019-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI may ask lenders to link loans to repo rate",
+  "source": "Livemint",
+  "published_utc": "2019-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RecTracker: 89 students of NUJS 2019 batch secure placements, law firms offer 15-18 lakh per year",
+  "source": "Bar and Bench",
+  "published_utc": "2019-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI loan fraud: Why the Roys of NDTV were not allowed to leave India",
+  "source": "OpIndia",
+  "published_utc": "2019-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kemrock\u2019s former MD arrested in cheating case",
+  "source": "The Times of India",
+  "published_utc": "2019-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mantri Developers told to refund home buyers",
+  "source": "The Hindu",
+  "published_utc": "2019-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three things to know if you still use cheques",
+  "source": "Livemint",
+  "published_utc": "2019-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TDSAT | IDBI Bank found guilty of violation of S. 43-A IT Act; held, corporate entity dealing with personal sensitive information/data has obligation without any exception",
+  "source": "SCC Online",
+  "published_utc": "2019-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WeWork India's holding company pledges shares to raise Rs 200 Cr debt",
+  "source": "YourStory.com",
+  "published_utc": "2019-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Filing for Insolvency under Section 10 of IBC: Grounds for Rejection",
+  "source": "Bar and Bench",
+  "published_utc": "2019-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In a first, ICICI Bank deploys \u2018robotic arms\u2019 to count currency notes",
+  "source": "The News Minute",
+  "published_utc": "2019-08-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "E-KYC, Digital KYC for opening bank accounts to make process secure: UIDAI",
+  "source": "ETV Bharat",
+  "published_utc": "2019-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Time to buy? 27 stocks in largecap index fall 10-30% from highs",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLAT Allows Appeal Filed By ICICI Against RP Of Ruchi Soya Industries; Dismisses Claim Of Preferential Transactions",
+  "source": "Live Law",
+  "published_utc": "2019-08-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank now uses robotic arms for currency sorting",
+  "source": "Banking Frontiers",
+  "published_utc": "2019-08-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank cuts fixed deposit rates for second time in a month. Latest FD rates",
+  "source": "Livemint",
+  "published_utc": "2019-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Good Discounts On BS6 Cars As Well - Maruti Alto, Wagon R, Swift",
+  "source": "Gaadiwaadi.com",
+  "published_utc": "2019-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

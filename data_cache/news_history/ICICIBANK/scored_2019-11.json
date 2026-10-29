@@ -1,0 +1,443 @@
+[
+ {
+  "title": "Train ticket reservation: IRCTC to reduce charges on bookings",
+  "source": "Livemint",
+  "published_utc": "2019-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coventry BS launch new Poppy savings accounts helping Royal British Legion",
+  "source": "This is Money",
+  "published_utc": "2019-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank surpasses milestone of 2 million FASTag issuance, aims to double it in next 6 months",
+  "source": "Times Now",
+  "published_utc": "2019-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI rejects Sandeep Batra's appointment as ICICI bank Executive Director",
+  "source": "The Hindu",
+  "published_utc": "2019-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI rejects ICICI\u2019s Sandeep Batra appointment",
+  "source": "The Times of India",
+  "published_utc": "2019-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sedgwick acquires Malaysian firm Maphilindo International",
+  "source": "Insurance Business",
+  "published_utc": "2019-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to open 450 new branches across the country in FY20",
+  "source": "The New Indian Express",
+  "published_utc": "2019-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q2 FY20 Result Update",
+  "source": "Invest Yadnya",
+  "published_utc": "2019-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tag: ICICI Bank PAT in Q2 FY20",
+  "source": "Invest Yadnya",
+  "published_utc": "2019-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to link Aadhaar to ICICI bank account",
+  "source": "The Times of India",
+  "published_utc": "2019-11-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank opens 57 branches in Andhra Pradesh, Telangana this fiscal",
+  "source": "The Indian Express",
+  "published_utc": "2019-11-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank opens 44 branches in Karnataka",
+  "source": "BusinessLine",
+  "published_utc": "2019-11-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank expands branch network in Tamil Nadu",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-11-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL, ICICI Bank among 5 brokerage picks that can return 11-17% in 8-12 months",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PIS account for NRI\u2019s \u2013 Invest in Direct Equities in India",
+  "source": "Jagoinvestor",
+  "published_utc": "2019-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Leading banks hold 80% of UPI transaction volume in October",
+  "source": "Entrackr",
+  "published_utc": "2019-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Children's Day 2019: Education loan interest rate of SBI, HDFC, PNB and ICICI Bank compared",
+  "source": "Times Now",
+  "published_utc": "2019-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Union Bank, UCO Bank classify DHFL as NPA",
+  "source": "The Hindu",
+  "published_utc": "2019-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTag mandatory from Dec 1 - All you need to know details",
+  "source": "RushLane",
+  "published_utc": "2019-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Joseph Jimmy leaves CAM to join Trilegal as Partner",
+  "source": "Bar and Bench",
+  "published_utc": "2019-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This Is Why Bank Stocks Surged In Friday's Session",
+  "source": "Goodreturns",
+  "published_utc": "2019-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New Aadhaar card centre alert: This one is in Shimla; know where you can register",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates in November: HDFC Bank, Axis Bank, ICICI Bank, PNB revise rates; SBI keeps unchanged",
+  "source": "CNBC TV18",
+  "published_utc": "2019-11-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Transmission of mutual fund units of HUF when karta changes",
+  "source": "The Economic Times",
+  "published_utc": "2019-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank plans \u20b920,000 cr capital boost via QIP",
+  "source": "Livemint",
+  "published_utc": "2019-11-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Redmi Note 8 sale to go live soon today: Check price, specifications, offers",
+  "source": "Livemint",
+  "published_utc": "2019-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank fixed deposit (FD) rates compared: ICICI Bank vs Axis Bank vs Yes Bank",
+  "source": "Livemint",
+  "published_utc": "2019-11-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochi: How to buy, recharge with Fastag account",
+  "source": "Deccan Chronicle",
+  "published_utc": "2019-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTag mandatory from December 1: How to get it, what it does and more",
+  "source": "The Indian Express",
+  "published_utc": "2019-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTags must from December 1. Here's how to buy, recharge electronic toll tags",
+  "source": "Livemint",
+  "published_utc": "2019-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises fixed deposit interest rates; check out details",
+  "source": "Business Today",
+  "published_utc": "2019-11-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to get FASTag from banks?",
+  "source": "The Times of India",
+  "published_utc": "2019-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Lucrative Are FDs?",
+  "source": "Outlook Money",
+  "published_utc": "2019-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Korean bank saves money on its inauguration event to contribute for Clean India Mission - Swachh Bharat Abhiyan",
+  "source": "Asian Community News",
+  "published_utc": "2019-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi court stays \u2018biopic\u2019 on former ICICI Bank chief Chanda Kochhar",
+  "source": "ThePrint",
+  "published_utc": "2019-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi court stays movie on life of former ICICI Bank CEO Chanda Kochhar",
+  "source": "Livemint",
+  "published_utc": "2019-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Film Made Without Consent': Delhi Court Stays Release Of Biopic On Former ICICI Bank CEO Chanda Kochhar",
+  "source": "Live Law",
+  "published_utc": "2019-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KEB Hana Bank opens Gurugram Branch near New Delhi, the Indian capital",
+  "source": "Korea IT Times",
+  "published_utc": "2019-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTAg: Here\u2019s how to buy, recharge FASTag from ICICI Bank",
+  "source": "Livemint",
+  "published_utc": "2019-11-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches new car loan scheme, \u2018SMART EMI\u2019",
+  "source": "The Statesman",
+  "published_utc": "2019-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Should you go for new auto loan SMART EMI from ICICI Bank?",
+  "source": "Business Today",
+  "published_utc": "2019-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Equity and Debt Fund \u2013 Review",
+  "source": "Groww",
+  "published_utc": "2019-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's new car loan scheme: Smart EMI facility explained",
+  "source": "Livemint",
+  "published_utc": "2019-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cash-strapped Videocon posts Rs 6,760-cr FY19 loss on reduced income",
+  "source": "Business Standard",
+  "published_utc": "2019-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to buy FASTag from ICICI Bank, point of sale, recharge and more details",
+  "source": "Scroll.in",
+  "published_utc": "2019-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank can double share price in 2 years: Morgan Stanley",
+  "source": "The Quint",
+  "published_utc": "2019-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How To Buy and Recharge Fastag from ICICI, HDFC and AXIS bank",
+  "source": "CIOL",
+  "published_utc": "2019-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar moves court against ICICI Bank",
+  "source": "The Hindu",
+  "published_utc": "2019-11-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar takes ICICI Bank to Bombay HC; hearing on December 2",
+  "source": "Business Standard",
+  "published_utc": "2019-11-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

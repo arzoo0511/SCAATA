@@ -1,0 +1,38 @@
+[
+ {
+  "title": "United Bank of India looks to sell more NPA accounts",
+  "source": "The Financial Express",
+  "published_utc": "2019-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tellurian CEO shares vision for its $30B LNG bet in Louisiana, need for more pipelines",
+  "source": "The Advocate",
+  "published_utc": "2019-11-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gujarat rolls out green carpet for India\u2019s gas-based economy",
+  "source": "The Times of India",
+  "published_utc": "2019-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC, GAIL to pay Adani 5% more charge than their own LNG terminal: Pradhan",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-11-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

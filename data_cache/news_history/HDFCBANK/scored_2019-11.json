@@ -1,0 +1,506 @@
+[
+ {
+  "title": "Train ticket reservation: IRCTC to reduce charges on bookings",
+  "source": "Livemint",
+  "published_utc": "2019-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI doesn\u2019t relent, chiefs of private banks need to retire at 70",
+  "source": "The Times of India",
+  "published_utc": "2019-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves merger of 13 District Cooperative Banks with Kerala State Cooperative Bank",
+  "source": "The New Indian Express",
+  "published_utc": "2019-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Performics India makes a unique video for #HDFCBankFestiveTreats campaign",
+  "source": "Adgully.com",
+  "published_utc": "2019-11-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 lesser-known factors that can push up your home loan interest rate and lower credit score",
+  "source": "The Economic Times",
+  "published_utc": "2019-11-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Brand Parivartan in action - Ashima Bhat, Group Head, CSR explains what it is all about",
+  "source": "Zee Business",
+  "published_utc": "2019-11-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sullia: Blood donation, free health check-up camp held at Kannada Peraje school",
+  "source": "Daijiworld",
+  "published_utc": "2019-11-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to shift HQ from where it had started its operations 25 years ago",
+  "source": "Business Standard",
+  "published_utc": "2019-11-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New Aadhar Card Centres in Jaipur, Rajasthan: Know where it is",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What happens to your deposits if a bank fails: HDFC Bank warns customers with this message",
+  "source": "The Financial Express",
+  "published_utc": "2019-11-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Instant Fixed Deposit with interest up to 8.3%: This bank offers FD without Savings Account",
+  "source": "The Financial Express",
+  "published_utc": "2019-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Missed connecting train due to delay in first train? Here's how to claim refund",
+  "source": "Livemint",
+  "published_utc": "2019-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anil Ambani dragged to court for $680 million unpaid loan",
+  "source": "The Economic Times",
+  "published_utc": "2019-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PIS account for NRI\u2019s \u2013 Invest in Direct Equities in India",
+  "source": "Jagoinvestor",
+  "published_utc": "2019-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Alliance Air maiden overseas flight commence operations",
+  "source": "Livemint",
+  "published_utc": "2019-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Leading banks hold 80% of UPI transaction volume in October",
+  "source": "Entrackr",
+  "published_utc": "2019-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "With PhonePe\u2019s Support, Yes Bank Leads UPI Transactions In India",
+  "source": "Inc42",
+  "published_utc": "2019-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to have 200 branches in north-east region, hire 2,000 people",
+  "source": "Livemint",
+  "published_utc": "2019-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank completes 15 years in Assam",
+  "source": "The New Indian Express",
+  "published_utc": "2019-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Children's Day 2019: Education loan interest rate of SBI, HDFC, PNB and ICICI Bank compared",
+  "source": "Times Now",
+  "published_utc": "2019-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTag mandatory from Dec 1 - All you need to know details",
+  "source": "RushLane",
+  "published_utc": "2019-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Mobile Bonanza sale: Best deals on Realme 5, Moto E6S, Samsug Galaxy A50 and more",
+  "source": "Firstpost",
+  "published_utc": "2019-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This Is Why Bank Stocks Surged In Friday's Session",
+  "source": "Goodreturns",
+  "published_utc": "2019-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank surpasses Rs 7 lakh crore market cap, becomes first bank to achieve feat",
+  "source": "Elets BFSI",
+  "published_utc": "2019-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank takes on Amazon, Flipkart in festive sales power tussle",
+  "source": "The Ken",
+  "published_utc": "2019-11-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates in November: HDFC Bank, Axis Bank, ICICI Bank, PNB revise rates; SBI keeps unchanged",
+  "source": "CNBC TV18",
+  "published_utc": "2019-11-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Transmission of mutual fund units of HUF when karta changes",
+  "source": "The Economic Times",
+  "published_utc": "2019-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government Plans Strategic Stake Sales In 28 Companies",
+  "source": "NDTV Profit",
+  "published_utc": "2019-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Redmi Note 8 sale to go live soon today: Check price, specifications, offers",
+  "source": "Livemint",
+  "published_utc": "2019-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CSB Bank\u2019s \u20b9410 crore IPO opens on Friday",
+  "source": "Livemint",
+  "published_utc": "2019-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank plans \u20b920,000 cr capital boost via QIP",
+  "source": "Livemint",
+  "published_utc": "2019-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Credit Card Customer: Your Dues Can Be Settled From Your Account",
+  "source": "Goodreturns",
+  "published_utc": "2019-11-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTags must from December 1. Here's how to buy, recharge electronic toll tags",
+  "source": "Livemint",
+  "published_utc": "2019-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochi: How to buy, recharge with Fastag account",
+  "source": "Deccan Chronicle",
+  "published_utc": "2019-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTag mandatory from December 1: How to get it, what it does and more",
+  "source": "The Indian Express",
+  "published_utc": "2019-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTag mandatory from Dec 1: How to recharge FASTag using Paytm, PhonePe, My Airtel and more",
+  "source": "The Indian Express",
+  "published_utc": "2019-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to open 25 branches in Pune district in 2 years",
+  "source": "Punekar News",
+  "published_utc": "2019-11-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to get FASTag from banks?",
+  "source": "The Times of India",
+  "published_utc": "2019-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy S10e, Note 10 and more get massive price cuts: Check new prices and offer duration",
+  "source": "India Today",
+  "published_utc": "2019-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life launches video life certificate facility for pensioners",
+  "source": "The Economic Times",
+  "published_utc": "2019-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to open 25 branches in Pune",
+  "source": "The Bridge Chronicle",
+  "published_utc": "2019-11-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to buy FASTag, recharge it online and offline from HDFC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2019-11-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to buy FASTag from HDFC Bank",
+  "source": "Scroll.in",
+  "published_utc": "2019-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex rises over 200 pts, Nifty tests 12,100",
+  "source": "DT Next",
+  "published_utc": "2019-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Want to buy FASTag for your vehicle? Know how to recharge online and offline from HDFC bank",
+  "source": "CatchNews.com",
+  "published_utc": "2019-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Alert! Did you get this message? It's a trap, don't fall for it",
+  "source": "Zee Business",
+  "published_utc": "2019-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank sets up panel to identify Aditya Puri's successor",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who will be Aditya Puri's successor? HDFC Bank sets up panel to shortlist candidates",
+  "source": "Business Today",
+  "published_utc": "2019-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank appoints 6-member search panel to find MD Aditya Puri's successor",
+  "source": "Business Standard",
+  "published_utc": "2019-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How To Buy and Recharge Fastag from ICICI, HDFC and AXIS bank",
+  "source": "CIOL",
+  "published_utc": "2019-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank sets-up panel to find successor to managing director Aditya Puri",
+  "source": "The Times of India",
+  "published_utc": "2019-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "List of Top 10 Indian companies by market cap (2019) - The Indian Wire",
+  "source": "The Indian Wire",
+  "published_utc": "2019-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank forms panel to name Aditya Puri\u2019s successor",
+  "source": "The Times of India",
+  "published_utc": "2019-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank makes two key appointments, forms panel to find MD Puri's successor",
+  "source": "ANI News",
+  "published_utc": "2019-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Black Friday Offer: 5000 Bonus Reward Points",
+  "source": "Live From A Lounge",
+  "published_utc": "2019-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC FASTag: Check how to buy the tag, charges & other details",
+  "source": "The Times of India",
+  "published_utc": "2019-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "title": "VC firm Fireside Ventures sees six-fold growth in portfolio firms' revenues",
+  "source": "Livemint",
+  "published_utc": "2019-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC shares haven\u2019t lit up as taxes on cigarettes weigh on investors",
+  "source": "Livemint",
+  "published_utc": "2019-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chief Minister of Punjab Capt Amarinder Singh inaugurates Welcomhotel Amritsar - Member ITC's Hotel Group",
+  "source": "ANI News",
+  "published_utc": "2019-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After-hours with the boss: Bhisham Wadhera",
+  "source": "Livemint",
+  "published_utc": "2019-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,299 @@
+[
+ {
+  "title": "OMCs warn AI of stopping supply at 2 more airports over unpaid fuel bills",
+  "source": "Daily Excelsior",
+  "published_utc": "2019-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OVL, partners buying 49% stake in Vankor cluster oilfields",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-09-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt may sell entire stake in BPCL worth Rs 40,000 cr, IOCL likely suitor",
+  "source": "Business Standard",
+  "published_utc": "2019-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian students are embracing new study areas to be part of global workforce: Deakin VC",
+  "source": "The Times of India",
+  "published_utc": "2019-09-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "60th anniversary of Indian Oil held",
+  "source": "The Sangai Express",
+  "published_utc": "2019-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hockey Unit of Tamil Nadu crash out of All-India MCC-Murugappa tournament",
+  "source": "The New Indian Express",
+  "published_utc": "2019-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oli, Modi to inaugurate oil pipeline on September 10",
+  "source": "The Himalayan Times",
+  "published_utc": "2019-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who Will Buy BPCL? Modi Govt Says Indian Oil, Brokerage Firms Scream Privatisation",
+  "source": "NewsClick",
+  "published_utc": "2019-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assam Oil Division Refinery Commissioned 1000 kW Peak Solar Power Plant in Digboi",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2019-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brookfield, Temasek eye GAIL\u2019s gas pipeline assets; IOC, BPCL also in fray",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Confirms Huge $44-Billion Refinery Will Probably Cost More",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2019-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Narendra Modi inaugurates historic Indo-Nepal petroleum pipeline",
+  "source": "India Today",
+  "published_utc": "2019-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India and Nepal open South Asia\u2019s first cross-border oil pipeline",
+  "source": "Reuters",
+  "published_utc": "2019-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Oli, Modi inaugurate Motihari-Amlekhgunj oil pipeline",
+  "source": "The Himalayan Times",
+  "published_utc": "2019-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Nepal open first cross-border pipeline in South Asia",
+  "source": "The Times of India",
+  "published_utc": "2019-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest Rs 2,282 crore to set-up second R&D centre in Faridabad",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors and Indian Oil partner to launch innovative campaign",
+  "source": "Motorindia",
+  "published_utc": "2019-09-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG agencies likely to play role in piped gas supplies",
+  "source": "The Hindu",
+  "published_utc": "2019-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OMCs, aviation, tyre and paint stocks fell as crude oil surges",
+  "source": "Livemint",
+  "published_utc": "2019-09-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In case of an emergency, how long will India's oil reserve last?",
+  "source": "Livemint",
+  "published_utc": "2019-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil spike fuels fresh growth worries",
+  "source": "Livemint",
+  "published_utc": "2019-09-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL, BPCL, IOC and aviation stocks tumble as global crude oil price surges",
+  "source": "Business Standard",
+  "published_utc": "2019-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kerala jail inmates to run fuel stations in the outer campuses of prisons",
+  "source": "The New Indian Express",
+  "published_utc": "2019-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now piped natural gas supply in Hubballi-Dharwad",
+  "source": "The Hindu",
+  "published_utc": "2019-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC\u2019s Loni terminal to be ready with BS-VI grade fuel by Feb 2020",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-09-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CM inaugurates Central Police Canteen",
+  "source": "The News Himachal",
+  "published_utc": "2019-09-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No more discounts on credit card payment at petrol pumps",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation in talks with Hindalco to source aluminium for EV battery unit",
+  "source": "The Hindu",
+  "published_utc": "2019-09-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, Indian Oil launch co-branded fuel credit card for users from non-metro cities; to be available on RuPay, Visa platforms",
+  "source": "Firstpost",
+  "published_utc": "2019-09-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Modi may stopover in Riyadh to firm up oil deals",
+  "source": "The New Indian Express",
+  "published_utc": "2019-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "COSCO Tanker\u2019s 12,000-Mile Voyage May Come to a Halt Due to Iran Oil Sanctions",
+  "source": "gCaptain",
+  "published_utc": "2019-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel prices rise again after three days of no change",
+  "source": "India Today",
+  "published_utc": "2019-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi plans major investment in India's refining, petrochemical sector",
+  "source": "IBTimes India",
+  "published_utc": "2019-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

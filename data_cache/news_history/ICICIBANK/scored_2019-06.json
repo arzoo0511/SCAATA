@@ -1,0 +1,398 @@
+[
+ {
+  "title": "Latest Fixed Deposit rates: What SBI, HDFC, ICICI Bank and PNB are offering this summer",
+  "source": "Zee Business",
+  "published_utc": "2019-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Court Reserves Order On Plea Of Rajiv Kochhar In ICICI-Videocon Case",
+  "source": "NDTV",
+  "published_utc": "2019-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.9,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI revises norms on banks\u2019 exposure to large borrowers",
+  "source": "Livemint",
+  "published_utc": "2019-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates compared: ICICI Bank vs HDFC Bank vs Yes Bank",
+  "source": "Livemint",
+  "published_utc": "2019-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI proposes to change the ATM transaction charges for other bank ATMs",
+  "source": "Moneylife",
+  "published_utc": "2019-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Redmi Y3 goes on open sale in India via Amazon.in, Mi.com: Price, specifications",
+  "source": "The Indian Express",
+  "published_utc": "2019-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Demystifying Blockchain: Abhijit Singh, Lead \u2013 Strategic Initiatives, Blockchain, ICICI Bank",
+  "source": "Express Computer",
+  "published_utc": "2019-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Case: Delhi Court Orders Withdrawal Of Look Out Notice Against Rajiv Kochhar",
+  "source": "NDTV",
+  "published_utc": "2019-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs ICICI Bank vs BoB vs HDFC Bank: When will your home loan EMIs get cheaper post RBI rate cut?",
+  "source": "Zee Business",
+  "published_utc": "2019-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Court directs withdrawal of look out circular against Chanda Kochhar\u2019s brother-in-law",
+  "source": "The Financial Express",
+  "published_utc": "2019-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank-Videocon PMLA case: ED summons Chanda Kochhar next week",
+  "source": "The Hindu",
+  "published_utc": "2019-06-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In North Karnataka, drought drives the farmer, his beloved cattle apart",
+  "source": "Deccan Chronicle",
+  "published_utc": "2019-06-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar Fails To Appear Before Probe Agency, To Be Summoned Again",
+  "source": "NDTV",
+  "published_utc": "2019-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former ELP partner Deep Roy starts finance + fashionable insolvency boutique law firm Equilex",
+  "source": "Legally India",
+  "published_utc": "2019-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wreckage of An-32 aircraft spotted in Arunachal Pradesh",
+  "source": "Livemint",
+  "published_utc": "2019-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndiGo summer sale: Domestic flight tickets start from Rs 999, international starts at Rs 3,499",
+  "source": "Times Now",
+  "published_utc": "2019-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Over Rs 2.05 lakh cr frauds in 11 years: ICICI Bank, SBI and HDFC among top victims",
+  "source": "The Economic Times",
+  "published_utc": "2019-06-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Desi private biggies lag in paternity leave",
+  "source": "The Times of India",
+  "published_utc": "2019-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How this Indore-based adviser built Rs 300 crore assets",
+  "source": "Morningstar",
+  "published_utc": "2019-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL offers to assume Konkan LNG\u2019s debt in exchange for stake",
+  "source": "Livemint",
+  "published_utc": "2019-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former ELP Partner Deep Roy sets up boutique law firm Equilex",
+  "source": "Bar and Bench",
+  "published_utc": "2019-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tech Mahindra appoints former Axis Bank CEO Shikha Sharma, Haigreve Khaitan as independent directors",
+  "source": "Business Today",
+  "published_utc": "2019-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises fixed deposit (FD) rates. Check out the latest rates here",
+  "source": "Livemint",
+  "published_utc": "2019-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Neeraj Gambhir to join Axis Bank",
+  "source": "Banking Frontiers",
+  "published_utc": "2019-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to open PPF account online in SBI, PNB, ICICI Bank, or HDFC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2019-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI must interrogate crooked Prannoy Roy and his wife and ED must attach their properties",
+  "source": "PGurus",
+  "published_utc": "2019-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Axis Bank revise fixed deposit rates from June 17, 2019",
+  "source": "Times Now",
+  "published_utc": "2019-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, Axis Bank, ICICI Bank revise fixed deposit(FD) rates. Check out the latest rates here",
+  "source": "Livemint",
+  "published_utc": "2019-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Power Rangers",
+  "source": "Business Today",
+  "published_utc": "2019-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank to charge you for cash deposits",
+  "source": "The Times of India",
+  "published_utc": "2019-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Want a loan against credit card? See what SBI vs HDFC Bank vs ICICI Bank are offering",
+  "source": "Zee Business",
+  "published_utc": "2019-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State Bank of India vs Union Bank of India",
+  "source": "Comparably",
+  "published_utc": "2019-06-21T16:34:06+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest FD interest rates: SBI vs ICICI Bank vs Axis Bank vs Kotak Mahindra Bank",
+  "source": "Livemint",
+  "published_utc": "2019-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC cuts stake in Axis Bank to 10.2%",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank targets over 20% growth in retail loans in Kerala",
+  "source": "The Economic Times",
+  "published_utc": "2019-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Regulatory fallout at Paytm Postpaid? Company moves its loan book to Clix Capital",
+  "source": "The News Minute",
+  "published_utc": "2019-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank FD rates compared: HDFC Bank vs ICICI Bank vs Yes Bank",
+  "source": "Livemint",
+  "published_utc": "2019-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best mobile offers on Amazon and Flipkart: Apple iPhone XR, Mi A2, Oppo F11 Pro, and more",
+  "source": "The Indian Express",
+  "published_utc": "2019-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone X available at \u2018crazy discount\u2019 on Flipkart",
+  "source": "The Times of India",
+  "published_utc": "2019-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Local data storage ready, Whatsapp to open payments tap",
+  "source": "The Economic Times",
+  "published_utc": "2019-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Deposit Rates: SBI vs HDFC vs ICICI vs Axis Bank\u2019s latest FD interest rates",
+  "source": "The Financial Express",
+  "published_utc": "2019-06-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest fixed deposit (FD) rates: What SBI, ICICI, Yes, HDFC Bank and PNB offer",
+  "source": "Livemint",
+  "published_utc": "2019-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best credit card offers: ICICI, HDFC, SBI, Axis & Kotak bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda vs State Bank of India",
+  "source": "Comparably",
+  "published_utc": "2019-06-30T11:24:42+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

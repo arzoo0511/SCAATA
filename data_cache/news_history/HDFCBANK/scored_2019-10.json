@@ -1,0 +1,632 @@
+[
+ {
+  "title": "Online banking operations of some private lenders not working, users complain on social media",
+  "source": "Scroll.in",
+  "published_utc": "2019-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian banking system safe, stable, RBI assures depositors second time in a week",
+  "source": "Livemint",
+  "published_utc": "2019-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBL Bank dismisses rumours, says 'continues to remain healthy, profitable'",
+  "source": "Livemint",
+  "published_utc": "2019-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Owner of Ajit Bakery duped of Rs 41.50 lakh in SIM swap fraud",
+  "source": "The Hitavada",
+  "published_utc": "2019-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Behind HDIL downfall lies a failed slum project that became financial drain",
+  "source": "Livemint",
+  "published_utc": "2019-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Turn Rs 1 Lakh into Rs 1.46 Lakh with this scheme where PM Modi has invested Rs 5 lakh",
+  "source": "The Financial Express",
+  "published_utc": "2019-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank reports 19% growth in advances during second quarter",
+  "source": "CNBC TV18",
+  "published_utc": "2019-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest Bank FD rates 2019: SBI to HDFC Bank - Check who gives maximum returns",
+  "source": "Zee Business",
+  "published_utc": "2019-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to use HDFC, Kotak Mahindra bank services on WhatsApp",
+  "source": "HT Tech",
+  "published_utc": "2019-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: Why lucky draw contests are banned in Tamil Nadu",
+  "source": "The News Minute",
+  "published_utc": "2019-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shifting Fortunes Push All PSUs Out of Indias Top Ten Market Cap Club",
+  "source": "TheWire.in",
+  "published_utc": "2019-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 Best Credit Cards in India [With Exceptional Benefits]",
+  "source": "Trade Brains",
+  "published_utc": "2019-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BQuick On Oct. 7: Top 10 Stories In Under 10 Minutes",
+  "source": "NDTV Profit",
+  "published_utc": "2019-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD rates in October: SBI, PNB, Axis Bank and HDFC Bank",
+  "source": "CNBC TV18",
+  "published_utc": "2019-10-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC donates Rs 5 crore to Uttar Pradesh CM Relief Fund",
+  "source": "ANI News",
+  "published_utc": "2019-10-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI new FD rates from today. How they compare with HDFC Bank, PNB, Axis Bank",
+  "source": "Livemint",
+  "published_utc": "2019-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Falling FD rates set to hit 4 crore senior citizens hard",
+  "source": "The Times of India",
+  "published_utc": "2019-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI turns down Indiabulls Housing\u2019s merger with Lakshmi Vilas Bank",
+  "source": "The Economic Times",
+  "published_utc": "2019-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Altico and Mashreq approach RBI against HDFC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2019-10-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mohd Rafi\u2019s son in danger losing family home in Bandra",
+  "source": "Mumbai Mirror",
+  "published_utc": "2019-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, market\u2019s favourite megabank, is surrounded by a lending crisis",
+  "source": "Livemint",
+  "published_utc": "2019-10-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Top 100 Fund \u2013 A Detailed Review",
+  "source": "Groww",
+  "published_utc": "2019-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jayakumar\u2019s term as BoB chief ends",
+  "source": "Banking Frontiers",
+  "published_utc": "2019-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "As PMC Bank depositors protest, ED seizes Rolls Royce, Bentley, luxury yacht from the Wadhawans",
+  "source": "Newslaundry",
+  "published_utc": "2019-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank Sells 6.56% Stake In Fortis Healthcare For Rs 645-Crore",
+  "source": "NDTV Profit",
+  "published_utc": "2019-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jayakumar\u2019s term at Bank of Baroda ends, another extension unlikely",
+  "source": "Livemint",
+  "published_utc": "2019-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Portals seeking views on merger to be rolled out: Indian Bank",
+  "source": "The Economic Times",
+  "published_utc": "2019-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest bank FD rates compared: What SBI, HDFC, PNB, IndusInd, Axis Bank offer",
+  "source": "mint",
+  "published_utc": "2019-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Total number of POS machines grew 30% YoY to 4.25 million in July 2019",
+  "source": "MediaNama",
+  "published_utc": "2019-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank clarifies as image of passbook with deposit insurance stamp goes viral",
+  "source": "The Indian Express",
+  "published_utc": "2019-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank fixed deposit (FD) rates above 8%. Check interest rates of 4 banks here",
+  "source": "Livemint",
+  "published_utc": "2019-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deposit insurance stamp causes concern, HDFC Bank cites RBI rules",
+  "source": "The Times of India",
+  "published_utc": "2019-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is HDFC Bank Responsible For Just Rs. 1 Lakh Worth Of Deposits? A FactCheck | BOOM",
+  "source": "BOOM Fact Check",
+  "published_utc": "2019-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diwali offer: Get a vivo smartphone by paying Rs. 101 up front across offline channels",
+  "source": "FoneArena.com",
+  "published_utc": "2019-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank clarifies after stamping passbooks with \u2018deposit insurance cover\u2019 raised concern",
+  "source": "The Financial Express",
+  "published_utc": "2019-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Customers Attention! Bank clarifies on viral passbook pic with insurance deposit stamp",
+  "source": "India TV News",
+  "published_utc": "2019-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Social media scare prompts HDFC Bank to clarify on deposit insurance programme",
+  "source": "IBTimes India",
+  "published_utc": "2019-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fact-check: HDFC Bank insures Rs 1 lakh deposit per account holder by Social media users",
+  "source": "Alt News",
+  "published_utc": "2019-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Passbook stamp on Rs 1 lakh deposit cover causes worry",
+  "source": "The Times of India",
+  "published_utc": "2019-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank clarifies on 'stamping passbooks' to comply with RBI guidelines",
+  "source": "Livemint",
+  "published_utc": "2019-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "As PMC crisis erodes trust in system, clients of other banks wonder if they should withdraw deposits",
+  "source": "Scroll.in",
+  "published_utc": "2019-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What if Your Bank Goes Bankrupt? You Get Only Rs 1 Lakh?",
+  "source": "India.com",
+  "published_utc": "2019-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank clarifies on viral stamped passbook pic, says only following RBI guidelines",
+  "source": "The News Minute",
+  "published_utc": "2019-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How safe are NRIs\u2019 deposits in Indian banks?",
+  "source": "Gulf News",
+  "published_utc": "2019-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank allays concerns of depositors after \u2018stamped\u2019 passbook image goes viral on social media",
+  "source": "Firstpost",
+  "published_utc": "2019-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches Diwali Campaign in association with kinnect",
+  "source": "MediaNews4U",
+  "published_utc": "2019-10-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shyam Srinivasan on Federal Bank's vision, and more",
+  "source": "Rediff",
+  "published_utc": "2019-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oriental Bank of Commerce Q2 net profit rises 24% to Rs 126 crore",
+  "source": "The Times of India",
+  "published_utc": "2019-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC or other bank\u2019s customer? Not happy with staff\u2019s behaviour or bank? Do this",
+  "source": "The Financial Express",
+  "published_utc": "2019-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank new fixed deposit (FD) rates from today. How they compare with SBI, HDFC Bank, Axis Bank",
+  "source": "Livemint",
+  "published_utc": "2019-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How HDFC Bank capitalised influencer ads for its Diwali campaign",
+  "source": "ET BrandEquity",
+  "published_utc": "2019-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Honda Discounts & Benefits: Low Interest Rate & Other Offers Available On Select Models",
+  "source": "DriveSpark",
+  "published_utc": "2019-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Bank climbs 10% after net profit more than doubles in Q2",
+  "source": "The Economic Times",
+  "published_utc": "2019-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The information on \u2018Deposit Insurance Cover\u2019 released by RBI in 2017 is currently being circulated as the latest information issued by the Bank",
+  "source": "english.factcrescendo.com",
+  "published_utc": "2019-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sells entire stake in GST Network to 13 state governments",
+  "source": "The Economic Times",
+  "published_utc": "2019-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI FD premature withdrawal charges and other details here",
+  "source": "Livemint",
+  "published_utc": "2019-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mukesh Ambani hosts star-studded Diwali bash",
+  "source": "Livemint",
+  "published_utc": "2019-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme X2 6GB RAM, 128GB storage variant launched",
+  "source": "The Times of India",
+  "published_utc": "2019-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Safe Is Your Bank Deposit?",
+  "source": "India Today",
+  "published_utc": "2019-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SSP's signature forged: High court sends notice to cops and bank officials",
+  "source": "The Times of India",
+  "published_utc": "2019-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM catches fire at Nanjangud",
+  "source": "Star of Mysore",
+  "published_utc": "2019-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo to launch Qualcomm powered dual-mode 5G phone soon",
+  "source": "Livemint",
+  "published_utc": "2019-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC acquires 9.89% stake in Bandhan Bank",
+  "source": "Livemint",
+  "published_utc": "2019-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Parivartan honoured at National CSR Awards 2018",
+  "source": "MediaBrief",
+  "published_utc": "2019-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3 Indian-origin CEOs among top 10 best-performing heads: Harvard biz review",
+  "source": "Business Standard",
+  "published_utc": "2019-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dattatray Padsalgikar appointed as Deputy NSA",
+  "source": "Legend Officers",
+  "published_utc": "2019-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pension Regulator Allows Overseas Citizens To Invest In National Pension System (NPS)",
+  "source": "NDTV Profit",
+  "published_utc": "2019-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Do not share your personal details, bank account, UAN over phone, warns EPFO",
+  "source": "The Economic Times",
+  "published_utc": "2019-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MakeMyTrip, HDFC Bank fight over money gone down with Jet",
+  "source": "The Economic Times",
+  "published_utc": "2019-10-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HCL Technologies launches Google Cloud Business Unit",
+  "source": "Livemint",
+  "published_utc": "2019-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

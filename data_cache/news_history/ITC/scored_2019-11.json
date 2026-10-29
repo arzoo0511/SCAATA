@@ -1,0 +1,137 @@
+[
+ {
+  "title": "\u2018Absolute hotelier\u2019: ITC\u2019s Anand shapes India\u2019s future",
+  "source": "HOTELS Magazine",
+  "published_utc": "2019-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Harvard Business School's MBA Class Of 2021",
+  "source": "Poets&Quants",
+  "published_utc": "2019-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Thoroughly a hotelier\u2019: What drives Ritz-Carlton\u2019s Staros",
+  "source": "HOTELS Magazine",
+  "published_utc": "2019-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's innovation engine is on 24x7: B Sumant",
+  "source": "ET BrandEquity",
+  "published_utc": "2019-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC acquires minority stake in FMCG vending machine start-up",
+  "source": "The Economic Times",
+  "published_utc": "2019-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Innovate2Transform: An AI Check For Quality Tobacco Leaves",
+  "source": "IndiaAI",
+  "published_utc": "2019-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "e4m Conclave - South: Experts to discuss brands and new-age consumer experiences",
+  "source": "Exchange4Media",
+  "published_utc": "2019-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC brings Kartik Aaryan and Tara Sutaria to endorse fragrance brand Engage",
+  "source": "Livemint",
+  "published_utc": "2019-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Workers at ITC\u2019s YiPPee! Factory in Malur on Indefinite Strike",
+  "source": "NewsClick",
+  "published_utc": "2019-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s Aashirvaad Sugar Release Control Atta launches #AashirvaadSugarControlChallenge on this World Diabetes Day",
+  "source": "MediaNews4U",
+  "published_utc": "2019-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fireside Ventures secures $60 mn for second fund, to raise $40 mn more",
+  "source": "Livemint",
+  "published_utc": "2019-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "e4m Conclave-South: Be a consumer of the experience you are creating: Anuj Rustagi, ITC",
+  "source": "Exchange4Media",
+  "published_utc": "2019-11-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Equity and Debt Fund \u2013 Review",
+  "source": "Groww",
+  "published_utc": "2019-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "List of Top 10 Indian companies by market cap (2019) - The Indian Wire",
+  "source": "The Indian Wire",
+  "published_utc": "2019-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sunfeast launches Veda Marie Light with goodness of 5 natural ingredients",
+  "source": "Food & Beverage News",
+  "published_utc": "2019-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,299 @@
+[
+ {
+  "title": "IOC net drops 47% in Q1 as refinery margins slump",
+  "source": "DNA India",
+  "published_utc": "2019-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai Kona Electric Prices Dropped By Rs 1.6 Lakh!",
+  "source": "ZigWheels.com",
+  "published_utc": "2019-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Appointment: ONGC, IOC get new directors",
+  "source": "ET Government",
+  "published_utc": "2019-08-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Researchers' meet at CMFRI to study drop in oil sardine catch",
+  "source": "The Week",
+  "published_utc": "2019-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vietnam, China Showdown in South China Sea: Implications for India",
+  "source": "Bharat Shakti",
+  "published_utc": "2019-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Harish Madhav Takes Over As Director Finance On The Board Of Oil India Limited",
+  "source": "Sarkaritel.com",
+  "published_utc": "2019-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive: India raises cost of refinery project with Aramco by 36% - sources",
+  "source": "Reuters",
+  "published_utc": "2019-08-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG price down by Rs 25 per cylinder",
+  "source": "myRepublica",
+  "published_utc": "2019-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian activists oppose oil refinery project citing environmental concerns, as protests flare up",
+  "source": "Global Voices",
+  "published_utc": "2019-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Plan to make biodiesel from used cooking oil",
+  "source": "The New Indian Express",
+  "published_utc": "2019-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aramco, Setting Stage for IPO, Bulks Up on Refining With $15 Billion Deal",
+  "source": "WSJ",
+  "published_utc": "2019-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Several Oil Bosses Make Best CEO List",
+  "source": "Rigzone",
+  "published_utc": "2019-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Tenders for Solar Plants at WRPL Stations in Gujarat and Rajasthan",
+  "source": "Saur Energy",
+  "published_utc": "2019-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Reliance to sell 20% stake in oil business to Aramco",
+  "source": "Mobility Plaza",
+  "published_utc": "2019-08-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco defends its hold on coveted Indian oil market with Reliance tie-up",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Q1 Results: Indian Oil Stands Out In A Gloomy Quarter For Oil Marketers",
+  "source": "NDTV Profit",
+  "published_utc": "2019-08-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former India hockey player V R Raghunath sees tough domestic circuit enabling healthy competition for selection in senior national side",
+  "source": "Firstpost",
+  "published_utc": "2019-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL plans rapid vehicle-battery swap program",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Asia's richest man Mukesh Ambani grooms the heirs to his $50 billion Reliance fortune",
+  "source": "Gulf News",
+  "published_utc": "2019-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lawyers worried about oil spill",
+  "source": "Eye Radio",
+  "published_utc": "2019-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s fuel retailers planning to expand door-step delivery of petrol, diesel",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chittoor to get Indane bottling plant",
+  "source": "The Hindu",
+  "published_utc": "2019-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Prices In Delhi Become Cheaper Than UP As Adityanath Govt Hikes VAT Check Revised Rates Here",
+  "source": "ABP Live English",
+  "published_utc": "2019-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RFID tags mandatory for commercial vehicles entering Delhi from August 24",
+  "source": "The Times of India",
+  "published_utc": "2019-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil ties up with Vellore Cooperative Sugar Mill to start a pump at Ammundi",
+  "source": "The Hindu",
+  "published_utc": "2019-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil companies stop fuel supply to Air India at six airports over payment defaults",
+  "source": "ANI News",
+  "published_utc": "2019-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Air India Is Unable To Refuel At 6 Indian Airports",
+  "source": "Simple Flying",
+  "published_utc": "2019-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pradhan says Rs 1.2 lakh cr investment planned for city gas network expansion",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "STATUS REPORT: Indian Fishmeal and Fishoil Exporters Association All India Fishery Improvement Program on Indian Oil Sardine",
+  "source": "Aquafeed.com",
+  "published_utc": "2019-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Logic of the Rapprochement between India and the Arabian Gulf",
+  "source": "Carnegie Endowment for International Peace",
+  "published_utc": "2019-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government mulling Rs 5,400 crore funding to Northeast gas grid",
+  "source": "ET Government",
+  "published_utc": "2019-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why fuel prices are high despite a decline in crude prices?",
+  "source": "Livemint",
+  "published_utc": "2019-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil aims to produce battery cells",
+  "source": "electrive.com",
+  "published_utc": "2019-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

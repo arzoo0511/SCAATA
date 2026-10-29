@@ -1,0 +1,362 @@
+[
+ {
+  "title": "Pre-delivery checks for IOC cylinders",
+  "source": "Deccan Herald",
+  "published_utc": "2019-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG cylinder price hiked for third month today. Check latest rates",
+  "source": "Livemint",
+  "published_utc": "2019-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Close To Plastics-To-Oil Tech Breakthrough",
+  "source": "NDTV",
+  "published_utc": "2019-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India-Saudi Arabia strategic partnership growing deeper: Who is winning?",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-11-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lady bikers conquer the city roads!",
+  "source": "The Times of India",
+  "published_utc": "2019-11-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC weighs risks from BPCL sale, open to buying it",
+  "source": "The Financial Express",
+  "published_utc": "2019-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Forty years ago, November 8, 1979: Janata candidates",
+  "source": "The Indian Express",
+  "published_utc": "2019-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Forty years ago, November 9, 1979: IOC Strike Off",
+  "source": "The Indian Express",
+  "published_utc": "2019-11-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol prices above Rs 73/litre for 3rd consecutive day in Delhi",
+  "source": "India Today",
+  "published_utc": "2019-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol prices above Rs 73/litre for third consecutive day",
+  "source": "The New Indian Express",
+  "published_utc": "2019-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mohamed bin Zayed attends 4th Abu Dhabi CEO Roundtable",
+  "source": "WAM EN",
+  "published_utc": "2019-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC gets green nod for 2G ethanol plant in Panipat",
+  "source": "The Economic Times",
+  "published_utc": "2019-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Disinvestment: Here are top 10 profit-making and loss-making PSUs",
+  "source": "PSU Watch",
+  "published_utc": "2019-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC\u2019s Panipat refinery introduces special winter-grade diesel for Ladakh",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil's efforts pay dividend in developing hockey in the country \u2014 Deepak Thakur",
+  "source": "Indian Sports Home",
+  "published_utc": "2019-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil defend Beighton Cup Hockey Championship",
+  "source": "Indian Sports Home",
+  "published_utc": "2019-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt considers cutting stake in Indian Oil to below 51%",
+  "source": "Livemint",
+  "published_utc": "2019-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Mulls Cutting Stake in Indian Oil to Below 51%",
+  "source": "Bloomberg.com",
+  "published_utc": "2019-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What is special about Indian Oil\u2019s winter-grade diesel?",
+  "source": "PSU Watch",
+  "published_utc": "2019-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Spectre of Privatisation Now Looms Over IOC, Centre Mulls Reducing Stake to Below 51%",
+  "source": "NewsClick",
+  "published_utc": "2019-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive: Doc shows Indian Oil looking at rationalisation of workforce",
+  "source": "PSU Watch",
+  "published_utc": "2019-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home Minister launches winter-grade diesel suitable for extreme winters of up to -30",
+  "source": "PIB",
+  "published_utc": "2019-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fourth edition of Indian Oil WNC Half Marathon flagged off in Mumbai",
+  "source": "ANI News",
+  "published_utc": "2019-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation launches winter grade diesel for Ladakh region",
+  "source": "CarWale",
+  "published_utc": "2019-11-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: How Government-Owned Indian Oil\u2019s New Diesel Is A Big Relief For Ladakh\u2019s Winter Transport",
+  "source": "Swarajya",
+  "published_utc": "2019-11-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to spend Rs 1,000 crore to double base-oil production from Haldia refinery",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-11-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Planning a Leh-Ladakh tour in winter? Diesel freezing will not be an issue",
+  "source": "Livemint",
+  "published_utc": "2019-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here\u2019s how BPCL, HPCL disinvestment will usher tough times for Indian Oil",
+  "source": "PSU Watch",
+  "published_utc": "2019-11-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Numaligarh Refinery will now be taken over by Indian Oil or OIL",
+  "source": "PSU Watch",
+  "published_utc": "2019-11-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OIL, IOC may get Numaligarh refinery as govt 'wants to keep it' with a PSU",
+  "source": "Business Standard",
+  "published_utc": "2019-11-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC launches campaign on LPG cylinder PDC",
+  "source": "Syllad",
+  "published_utc": "2019-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Privatisation plan may end complex cross-holding in oil PSUs",
+  "source": "Livemint",
+  "published_utc": "2019-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price at 1-year high, diesel remains stable",
+  "source": "India Today",
+  "published_utc": "2019-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC launches Fill and Win scheme",
+  "source": "The Sangai Express",
+  "published_utc": "2019-11-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New fuel retail policy requires licensees to set up minimum 100 petrol pumps",
+  "source": "The New Indian Express",
+  "published_utc": "2019-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aramco, ADNOC to Build Indian Refinery Worth $70 B",
+  "source": "Egypt Oil & Gas",
+  "published_utc": "2019-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The future of $70 billion Maharashtra refinery in limbo",
+  "source": "Livemint",
+  "published_utc": "2019-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aramco-Adnoc refinery in India to cost 2X of estimated price",
+  "source": "internationalfinance.com",
+  "published_utc": "2019-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: What is the Saudi-UAE project in India whose cost has escalated?",
+  "source": "The Indian Express",
+  "published_utc": "2019-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Confidence Petroleum operates 58 bottling plants in 22 States",
+  "source": "www.thehitavada.com",
+  "published_utc": "2019-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

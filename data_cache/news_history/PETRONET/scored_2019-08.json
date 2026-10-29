@@ -1,0 +1,38 @@
+[
+ {
+  "title": "Energy News Monitor | Volume XVI; Issue 10",
+  "source": "orfonline.org",
+  "published_utc": "2019-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt likely to review long-term LNG contract prices: Dharmendra Pradhan",
+  "source": "Livemint",
+  "published_utc": "2019-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL to invest Rs 1,500-1,700 crore in floating LNG terminal in Andhra Pradesh",
+  "source": "The Hans India",
+  "published_utc": "2019-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PRABHASH SHANKAR APPOINTED MEMBER, CBDT",
+  "source": "IndianMandarins",
+  "published_utc": "2019-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

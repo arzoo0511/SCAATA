@@ -1,0 +1,308 @@
+[
+ {
+  "title": "Works on laying pipeline to supply gas to households progressing",
+  "source": "The Hindu",
+  "published_utc": "2019-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG cylinder prices increase for the fourth month. Check latest rates here",
+  "source": "Livemint",
+  "published_utc": "2019-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ExxonMobil looks to set up lubes blending plant in India",
+  "source": "Livemint",
+  "published_utc": "2019-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hindustan Petroleum to set up 22 petrol pumps in Bhutan",
+  "source": "The New Indian Express",
+  "published_utc": "2019-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After CAG expose, government asks oil companies to recover Rs 108 crore from staff",
+  "source": "The Times of India",
+  "published_utc": "2019-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors & IndianOil launch second Saarthi Aaram Kendra at IOCL Narsapura",
+  "source": "Tata Motors",
+  "published_utc": "2019-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explainer / India\u2019s diesel demand slows | oil & gas | petrol | diesel | auto industry",
+  "source": "Manorama Yearbook",
+  "published_utc": "2019-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL apprentice admit card released: Check how to download, exam pattern",
+  "source": "The Indian Express",
+  "published_utc": "2019-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now, Telangana police to give stranded women a free ride home",
+  "source": "The New Indian Express",
+  "published_utc": "2019-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol Price Today Diesel Rate 2019: This Is How Much You Pay For Petrol And Diesel Today",
+  "source": "NDTV Profit",
+  "published_utc": "2019-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL plans to develop chemical facility in Ruwais with Adnoc",
+  "source": "Livemint",
+  "published_utc": "2019-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Honda 2Wheelers partners with Indian Oil to launch new engine oils",
+  "source": "ET Auto",
+  "published_utc": "2019-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL\u2019s Chairman inaugurates \u2018Security Week\u2019",
+  "source": "PSU Watch",
+  "published_utc": "2019-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Complain if cylinder delivery men collect addl charges: IOCL",
+  "source": "The Times of India",
+  "published_utc": "2019-12-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New wave of petrochemicals expansion in Gujarat",
+  "source": "The Times of India",
+  "published_utc": "2019-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Industries topples Indian Oil Corporation to become country's largest company in Fortune India 500 list",
+  "source": "Firstpost",
+  "published_utc": "2019-12-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Media release: Reliance and BP move forward with Indian fuels partnership",
+  "source": "Facebook",
+  "published_utc": "2019-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Price Today: Check Latest Fuel Rates as on December 16",
+  "source": "India.com",
+  "published_utc": "2019-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Industries topples IOC to become largest company on Fortune India 500 list",
+  "source": "Fortune India",
+  "published_utc": "2019-12-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank, Indian Oil launch co-branded credit card for cashless payments",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-12-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fortune India 500 list 2019: Reliance Industries surpasses IOC to rank at no. 1",
+  "source": "AffairsCloud.com",
+  "published_utc": "2019-12-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Disinvestment: Govt planning to hive off Indian Oil transmission business?",
+  "source": "PSU Watch",
+  "published_utc": "2019-12-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil's Gujarat refinery starts dispatch of low sulphur marine fuel",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-12-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance-BP tie-up to give oil PSUs a run for money",
+  "source": "The New Indian Express",
+  "published_utc": "2019-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance-BP petrol pumps to dent PSU market share: Morgan Stanley",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The great debate: What is the future of West Coast refinery project?",
+  "source": "Business Standard",
+  "published_utc": "2019-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UP-based start-up Pepfuels looking at disrupting door-step fuel delivery space in India",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai: Green nod for IOC\u2019s gas supply pipeline project",
+  "source": "The Times of India",
+  "published_utc": "2019-12-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Centre gives green nod for IOC\u2019s gas supply pipeline project",
+  "source": "Construction Week India",
+  "published_utc": "2019-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buying petrol, diesel? Order online and get it delivered to your home",
+  "source": "Livemint",
+  "published_utc": "2019-12-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pepfuels Launched India\u2019s First Start-Up Owned and Operated Browser",
+  "source": "Energetica India Magazine",
+  "published_utc": "2019-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From Jet Airways closure to Air India crisis: How India's aviation sector stalled in 2019",
+  "source": "The New Indian Express",
+  "published_utc": "2019-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Blast in a chemical factory near Indian Oil refinery in Gujarat's Kandla, 3 dead",
+  "source": "India TV News",
+  "published_utc": "2019-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL commissions 119th Aviation Fuel Station at Agatti Island",
+  "source": "PSU Watch",
+  "published_utc": "2019-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

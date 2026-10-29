@@ -1,0 +1,605 @@
+[
+ {
+  "title": "HDFC lowers interest rates by 10 bps on new and existing loans",
+  "source": "The News Minute",
+  "published_utc": "2019-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ClearTax and HDFC Bank partner to offer free, simplified e-filing of Income Tax Returns",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI allows Bank of China to offer regular banking services in India",
+  "source": "ET Auto",
+  "published_utc": "2019-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI sharply cuts interest rates on fixed deposits (FDs). Check latest rates here",
+  "source": "Livemint",
+  "published_utc": "2019-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB plans aggressive recoveries to contain gross NPA below 12%",
+  "source": "The Economic Times",
+  "published_utc": "2019-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI\u2019s new FD rates, free IMPS money transfer effective from today. Details here",
+  "source": "Livemint",
+  "published_utc": "2019-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC bank security guard arrested with illegal firearms in Bajaj Nagar",
+  "source": "Nagpur Today",
+  "published_utc": "2019-08-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fadnavis, Bawankule visit Gadkari\u2019s residence to check his health",
+  "source": "Nagpur Today",
+  "published_utc": "2019-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "If you run short of cash at Kedarnath, then worry not, HDFC Bank just opened an ATM in temple premises",
+  "source": "Zee Business",
+  "published_utc": "2019-08-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest fixed deposit (FD) rates: SBI vs PNB vs HDFC Bank vs Axis Bank vs ICICI Bank",
+  "source": "Livemint",
+  "published_utc": "2019-08-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi\u2019s Redmi K20 Pro review: It has mid-range, premium smartphone buyers in sight",
+  "source": "Livemint",
+  "published_utc": "2019-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises fixed deposit (FD) rates twice in two weeks. Latest rates here",
+  "source": "Livemint",
+  "published_utc": "2019-08-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank opens ATM at Kedarnath Temple",
+  "source": "Banking Frontiers",
+  "published_utc": "2019-08-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi announced its new 20000mAh power bank at Rs 1,499",
+  "source": "The Times of India",
+  "published_utc": "2019-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pine Labs now enables EMI on credit, debit cards across 85,000 merchants",
+  "source": "Deccan Chronicle",
+  "published_utc": "2019-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI wants your home, car loans to get cheaper, but your bank is a hurdle",
+  "source": "Business Today",
+  "published_utc": "2019-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Before bank merger, expect 15-20% book growth as an HFC: Gagan Banga, Indiabulls Housing",
+  "source": "The Economic Times",
+  "published_utc": "2019-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme X to go on sale today via Flipkart: Price, specs and more",
+  "source": "The Times of India",
+  "published_utc": "2019-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sushma Swaraj's last tweet: \u2018I was waiting to see this day in my lifetime\u2019",
+  "source": "Livemint",
+  "published_utc": "2019-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "People in Madhya Pradesh district struggle to get Aadhaar cards",
+  "source": "The New Indian Express",
+  "published_utc": "2019-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Of India, Federal Bank revise fixed deposit (FD) rates. Check the latest rates here",
+  "source": "Livemint",
+  "published_utc": "2019-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CAIT launches initiative to accelerate use of digital payments among merchants",
+  "source": "The Asian Age",
+  "published_utc": "2019-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITAT rules: Capital gain exemption available even if housing loan is used for new house",
+  "source": "The Times of India",
+  "published_utc": "2019-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe and Google Pay rise as Paytm cedes top UPI platform spot: Report",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Truecaller \u2018bug\u2019 automatically signs up users for UPI, bypassing consent",
+  "source": "MediaNama",
+  "published_utc": "2019-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi tightens disclosure norms on encumbered shares",
+  "source": "Livemint",
+  "published_utc": "2019-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bihar flood: India Inc joins hands; L&T, HDFC donate Rs 14 cr to CM's relief fund",
+  "source": "The Economic Times",
+  "published_utc": "2019-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court Begins Hearing Pleas Against RBI Banning Cryptocurrency",
+  "source": "NDTV Profit",
+  "published_utc": "2019-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Natco gets six USFDA observations for its Mekaguda plant",
+  "source": "Livemint",
+  "published_utc": "2019-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank MD Aditya Puri highest paid bank CEO; Axis Bank CEO Amitabh Chaudhry at second position",
+  "source": "Firstpost",
+  "published_utc": "2019-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri remains top-paid bank CEO",
+  "source": "The Economic Times",
+  "published_utc": "2019-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank increases FD interest rates for select maturities. Latest rates here",
+  "source": "Livemint",
+  "published_utc": "2019-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC CEO Aditya Puri the highest paid banker in India - Know the salaries of other top paid bank CEOs",
+  "source": "Times Now",
+  "published_utc": "2019-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Short Term Flexible Recurring Deposit: Features, advantages, options; All you need to know",
+  "source": "The Financial Express",
+  "published_utc": "2019-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises fixed deposit rates. Check latest FD rates",
+  "source": "mint",
+  "published_utc": "2019-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "200 families in Noida housing society served eviction order as builder defaults on loan",
+  "source": "The Times of India",
+  "published_utc": "2019-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s MD Aditya Puri remains top-paid banker in India",
+  "source": "People Matters - HR News",
+  "published_utc": "2019-08-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The economy will only look up from here on: Rahul Shukla, HDFC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2019-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These Lucrative Amazon Offers On Vivo Smartphones Will Make You Want To Buy One",
+  "source": "Gizbot",
+  "published_utc": "2019-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme 3i to go on flash sale today via Flipkart",
+  "source": "The Times of India",
+  "published_utc": "2019-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI may ask lenders to link loans to repo rate",
+  "source": "Livemint",
+  "published_utc": "2019-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digitizing Banking",
+  "source": "Kashmir Life",
+  "published_utc": "2019-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Bank of India plans to raise up to Rs 3,000 crore",
+  "source": "The Financial Express",
+  "published_utc": "2019-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to offer 2 million credit/debit cards to millennials",
+  "source": "Livemint",
+  "published_utc": "2019-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank appoints Srinivasan Vaidyanathan as CFO",
+  "source": "Business Today",
+  "published_utc": "2019-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kia SELTOS-HDFC Bank Car Loan Offer: EMI at Rs 1,234/lakh onwards - Drive home this SUV",
+  "source": "Zee Business",
+  "published_utc": "2019-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Mi A3 comes for Rs 12,999 but you can get it for Rs 11,999 in first few weeks",
+  "source": "India Today",
+  "published_utc": "2019-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank takes the digital route to promote its Millennia range of cards",
+  "source": "ET BrandEquity",
+  "published_utc": "2019-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC appoints Srinivasan Vaidyanathan as CFO",
+  "source": "Elets BFSI",
+  "published_utc": "2019-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 2.4 Lakh Crore Debt Being Resolved Under RBI\u2019s New Stressed Asset Framework, Says Credit Suisse",
+  "source": "NDTV Profit",
+  "published_utc": "2019-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, MasterCard launch Millennia range of cards for millennials",
+  "source": "The News Minute",
+  "published_utc": "2019-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Filing for Insolvency under Section 10 of IBC: Grounds for Rejection",
+  "source": "Bar and Bench",
+  "published_utc": "2019-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra co-op bank scam: FIR filed against Ajit Pawar, others",
+  "source": "Business Standard",
+  "published_utc": "2019-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gap in pay of private and public bank chiefs widens",
+  "source": "Livemint",
+  "published_utc": "2019-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Switching to repo-linked home loans? Here's what you should know",
+  "source": "The Economic Times",
+  "published_utc": "2019-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kinnect wins social media marketing mandate for HDFC Bank",
+  "source": "ET BrandEquity",
+  "published_utc": "2019-08-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At Vodafone Idea, revenue market share and cash are depleting fast",
+  "source": "Livemint",
+  "published_utc": "2019-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Time to buy? 27 stocks in largecap index fall 10-30% from highs",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MDFA Nadkarni Cup: Hekmat rescues customs a point with injury time goal",
+  "source": "Football Counter",
+  "published_utc": "2019-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At 38, Hekmat still pulling the strings for Mumbai Customs",
+  "source": "The Times of India",
+  "published_utc": "2019-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Varnished 100 rupee currency notes to be introduced soon",
+  "source": "Livemint",
+  "published_utc": "2019-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank cuts fixed deposit rates for second time in a month. Latest FD rates",
+  "source": "Livemint",
+  "published_utc": "2019-08-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank slashes fixed deposit rates for 2nd time in August",
+  "source": "Business Today",
+  "published_utc": "2019-08-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NextGen PSBs: Which bank merged with whom and what's the impact",
+  "source": "The Economic Times",
+  "published_utc": "2019-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mukesh Ambani calls Amit Shah 'Iron Man of India'",
+  "source": "Livemint",
+  "published_utc": "2019-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Mi A3 goes on open sale in India",
+  "source": "FoneArena.com",
+  "published_utc": "2019-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to use Google Pay: From set-up to linking bank account; a step-by-step guide",
+  "source": "Times Now",
+  "published_utc": "2019-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

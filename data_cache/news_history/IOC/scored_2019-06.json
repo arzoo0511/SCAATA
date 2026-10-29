@@ -1,0 +1,335 @@
+[
+ {
+  "title": "Oil companies raise subsidized cooking gas prices by Rs 1.23 per cylinder",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC topples Indian Oil to regain most profitable PSU tag",
+  "source": "Livemint",
+  "published_utc": "2019-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Punjab jail inmates to run petrol pumps",
+  "source": "The New Indian Express",
+  "published_utc": "2019-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, BPCL, HPCL to lay world\u2019s longest LPG pipeline worth Rs 10,000 crore",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Freeing petrol pump licensing to help grow competition in fuel retailing: ICRA",
+  "source": "ET Auto",
+  "published_utc": "2019-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Prices Steady After Six Days Of Reduction",
+  "source": "NDTV Profit",
+  "published_utc": "2019-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCDRC asks IOCL, dealer to pay Rs 12 lakh to kin of woman killed in cylinder explosion",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 Inspiring Civil Servants Who Sacrificed Their Lives in Service of The Country",
+  "source": "The Better India",
+  "published_utc": "2019-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Blue Cross animal rescue efforts get a shot in the arm",
+  "source": "The Times of India",
+  "published_utc": "2019-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel trade with India via pipeline soon",
+  "source": "The Himalayan Times",
+  "published_utc": "2019-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pipe-laying under cross-border fuel delivery project nears completion",
+  "source": "The Kathmandu Post",
+  "published_utc": "2019-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fish production heads south, thanks to El Nino effect, strikes",
+  "source": "The Times of India",
+  "published_utc": "2019-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chakr Innovation raises $2.7 million to cut India\u2019s air pollution",
+  "source": "ImpactAlpha",
+  "published_utc": "2019-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil issues tender for short-term lease of LNG storage tank",
+  "source": "Deccan Chronicle",
+  "published_utc": "2019-06-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How yoga guru Ramdev-backed Patanjali Ayurved stumbled in the rush for growth",
+  "source": "VCCircle",
+  "published_utc": "2019-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This ICC Cricket World Cup, meet 5 Indian brands which tapped into the cricket craze to transform their business",
+  "source": "YourStory.com",
+  "published_utc": "2019-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "60 prisoners to operate HP bunk in Rajamahendravaram",
+  "source": "The Hans India",
+  "published_utc": "2019-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest over Rs 1.3k crore in Kolkata in two yrs",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HOAX: Filling petrol tank to maximum limit in summers could cause explosion by Social media",
+  "source": "Alt News",
+  "published_utc": "2019-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price down 6 paise across metros",
+  "source": "The Statesman",
+  "published_utc": "2019-06-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Centre constituted committee headed by Kirit Parikh, an economist, to review LPG marketing",
+  "source": "AffairsCloud",
+  "published_utc": "2019-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fact Check: Fake warning getting viral in the name of Indian Oil",
+  "source": "Vishvas News Fact Check Hindi",
+  "published_utc": "2019-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest Rs 700 crore in setting up 2G ethanol plant at Panipat refinery",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-06-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest Rs 1300 crore into green initiatives in West Bengal",
+  "source": "The New Indian Express",
+  "published_utc": "2019-06-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Raigad, India site picked for Saudi Aramco, Adnoc\u2019s $44bn oil refinery",
+  "source": "Construction Week Online",
+  "published_utc": "2019-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amid Gulf tensions, Navy to send officers onboard Indian oil tankers",
+  "source": "The Times of India",
+  "published_utc": "2019-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chetan Baboor: A versatile player on and off the arena",
+  "source": "Indian Sports Home",
+  "published_utc": "2019-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire safety drive carried out at Indian Oil terminal",
+  "source": "The Times of India",
+  "published_utc": "2019-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil directed to pay \u20b940K compensation to man",
+  "source": "The Hindu",
+  "published_utc": "2019-06-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI begins probe into corruption at LPG bottling plant",
+  "source": "The New Indian Express",
+  "published_utc": "2019-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Popular fish, Sardine is now 'anti-hero' in Kerala",
+  "source": "Deccan Herald",
+  "published_utc": "2019-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gasoline could start flowing through the new pipeline next month, say officials",
+  "source": "The Kathmandu Post",
+  "published_utc": "2019-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fans Make Fun Of Virat Kohli, Hardik Pandya, MS Dhoni As Players Shared First Look In India's New Away Jersey",
+  "source": "India.com",
+  "published_utc": "2019-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bournvita boxes? Indian Oil workers? Twitter reacts to India\u2019s one-off orange jersey at World Cup",
+  "source": "Scroll.in",
+  "published_utc": "2019-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Memes welcome Team India's orange and blue away jersey",
+  "source": "The Week",
+  "published_utc": "2019-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Does Team India's new jersey look like a petrol pump wala uniform? Twitterati amused",
+  "source": "Oneindia",
+  "published_utc": "2019-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol pump workers express disappointment at people mocking Team India's orange jersey likening it to pump attendant uniform",
+  "source": "OpIndia",
+  "published_utc": "2019-06-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

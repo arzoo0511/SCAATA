@@ -1,0 +1,623 @@
+[
+ {
+  "title": "Karvy crisis deepens as Sebi pegs misuse at \u20b92,800 crore",
+  "source": "Livemint",
+  "published_utc": "2019-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank netbanking services, mobile app suffer outage",
+  "source": "The Indian Express",
+  "published_utc": "2019-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018There\u2019s no Cause For Undue Concern,\u2019 HDFC Bank Assures Customers Over Technical Glitch",
+  "source": "India.com",
+  "published_utc": "2019-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Walmart, HDFC unveil co-branded credit card for 'Best Price' members",
+  "source": "Business Standard",
+  "published_utc": "2019-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First impressions of the HDFC Infinia Credit Card",
+  "source": "Live From A Lounge",
+  "published_utc": "2019-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart\u2019s Big Shopping Days: Offers on Apple iPhone 11, Samsung Galaxy S9 Plus, Realme XT, Redmi K20 and",
+  "source": "The Times of India",
+  "published_utc": "2019-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "78% depositors of PMC Bank can withdraw entire deposits: Government",
+  "source": "The Economic Times",
+  "published_utc": "2019-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How To Buy And Recharge FASTag From HDFC Bank?",
+  "source": "Goodreturns",
+  "published_utc": "2019-12-03T06:28:53+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank netbanking services, mobile app down for second day in a row",
+  "source": "The Indian Express",
+  "published_utc": "2019-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s digital platform crippled for second day",
+  "source": "Fortune India",
+  "published_utc": "2019-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Payday outage hits HDFC Bank\u2019s app, internet banking",
+  "source": "The Times of India",
+  "published_utc": "2019-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Millions face issues as HDFC NetBanking down",
+  "source": "Deccan Herald",
+  "published_utc": "2019-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Net Banking and Mobile Apps Down",
+  "source": "Nagpur Today",
+  "published_utc": "2019-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Net Banking Down: Technical Glitch Hits Website, Mobile App For 2nd Day",
+  "source": "India.com",
+  "published_utc": "2019-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC netbanking server goes down. Bank reveals reason",
+  "source": "Behindwoods",
+  "published_utc": "2019-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's net banking, mobile app down for 2nd day; Twitter abuzz",
+  "source": "Oneindia",
+  "published_utc": "2019-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pay Day-Pay Day! HDFC Bank Online Services Down",
+  "source": "IBTimes India",
+  "published_utc": "2019-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC bank's net services down for the second day",
+  "source": "Galatta.com",
+  "published_utc": "2019-12-03T23:20:38+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank netbanking, app down for 3rd day today. Here are alternatives to pay your credit card bill",
+  "source": "Livemint",
+  "published_utc": "2019-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Signature, thumb, body impression now valid to open accounts at HDFC Bank",
+  "source": "Newz Hook",
+  "published_utc": "2019-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s Net banking, mobile app still down. Here's how to make credit card payments",
+  "source": "The Economic Times",
+  "published_utc": "2019-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank gives you an opportunity to make money; be your own boss and prosper",
+  "source": "Zee Business",
+  "published_utc": "2019-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Online banking restored: HDFC Bank",
+  "source": "The Times of India",
+  "published_utc": "2019-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank - Great Fail Redux?",
+  "source": "Moneylife",
+  "published_utc": "2019-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI investigating reasons for HDFC Bank\u2019s digital banking breakdown",
+  "source": "The News Minute",
+  "published_utc": "2019-12-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior citizen bank fixed deposit (FD) rates at 9.5%. Check interest rates here",
+  "source": "Livemint",
+  "published_utc": "2019-12-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL, HDFC Bank among 10 stocks that dominate Jefferies' long-only thematic equity portfolio",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-12-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Grapevine: RIL in talks with banks for Alok Industries; Temasek may invest in Licious",
+  "source": "VCCircle",
+  "published_utc": "2019-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Defy The Night with vivo V17 \u2013 Capture #ClearAsReal low-light shots",
+  "source": "vivo Newsroom India",
+  "published_utc": "2019-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former Infosys CFO Ranganath Mavinakere to head Murthy's family office \u2014 Catamaran Ventures",
+  "source": "Firstpost",
+  "published_utc": "2019-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo V17 with 6.44-inch screen and 32MP front camera launched at Rs 22,990",
+  "source": "The Times of India",
+  "published_utc": "2019-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo V17 launched in India at Rs 22,990; sports hole-punch display, 48 MP camera",
+  "source": "Firstpost",
+  "published_utc": "2019-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bennett University announces 100% merit-based scholarships for admissions to MBA 2020-22 program",
+  "source": "The Times of India",
+  "published_utc": "2019-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates of SBI, HDFC Bank, Axis Bank, ICICI Bank and PNB compared",
+  "source": "CNBC TV18",
+  "published_utc": "2019-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Expert Views: India's November retail inflation accelerates to 5.54%",
+  "source": "Reuters",
+  "published_utc": "2019-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTags must for all cars from December 15. Here's how you can buy, recharge",
+  "source": "The Economic Times",
+  "published_utc": "2019-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How To Get Fastag? All You Need To Know",
+  "source": "Car Blog India",
+  "published_utc": "2019-12-12T10:11:21+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTag compulsory from tomorrow: How to buy FASTags from SBI, HDFC Bank, ICICI Bank",
+  "source": "Livemint",
+  "published_utc": "2019-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks offering 9% interest on fixed deposits. Check FD rates here",
+  "source": "Livemint",
+  "published_utc": "2019-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTag to be mandatory from Dec 15",
+  "source": "KNN India",
+  "published_utc": "2019-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Unable to pay home loan EMIs? Here is what you can do",
+  "source": "The Economic Times",
+  "published_utc": "2019-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Being in opposition is good thing for Congress: Dinesh Gundu Rao",
+  "source": "Livemint",
+  "published_utc": "2019-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KSOM N.S.S Wing organizes a Mega Blood Donation Camp",
+  "source": "KIIT",
+  "published_utc": "2019-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NEFT transfer available 24x7 from today. Check new timings, limit and charges",
+  "source": "Livemint",
+  "published_utc": "2019-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to close SBI fixed deposit (FD) online",
+  "source": "Livemint",
+  "published_utc": "2019-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank Credit Card points can now be transferred to Club Vistara",
+  "source": "Live From A Lounge",
+  "published_utc": "2019-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe leads in functionality, user experience among payment apps in India: Report",
+  "source": "The News Minute",
+  "published_utc": "2019-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex, Nifty Recoup Losses; Sensex Claws Back Above 41,600",
+  "source": "NDTV Profit",
+  "published_utc": "2019-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Fab Phones Fest: Deals on OnePlus 7T, iPhone 11, Galaxy M-series and more",
+  "source": "The Indian Express",
+  "published_utc": "2019-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank becomes third Indian company to cross $100 bn M-cap",
+  "source": "GK Today",
+  "published_utc": "2019-12-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2020 preview: Top 5 things to watch out for in the banking sector",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Where Have All The Indian Women Bankers Gone?",
+  "source": "LinkedIn",
+  "published_utc": "2019-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No place for NRC in Andhra Pradesh, says Jagan Mohan Reddy",
+  "source": "Livemint",
+  "published_utc": "2019-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In some states, BJP is single largest party yet not in government",
+  "source": "Livemint",
+  "published_utc": "2019-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit risk funds of 3 mutual fund houses stand tall amid defaults, downgrades",
+  "source": "The Economic Times",
+  "published_utc": "2019-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo launches Y11 smartphone with 5000mAh battery at Rs 8,990",
+  "source": "The Times of India",
+  "published_utc": "2019-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ahead of elections, AAP releases Delhi government\u2019s report card",
+  "source": "Livemint",
+  "published_utc": "2019-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Income tax department gives you more time to reply to income tax notice",
+  "source": "mint",
+  "published_utc": "2019-12-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra Cabinet approves farm loan waiver, meal scheme for poor",
+  "source": "Business Standard",
+  "published_utc": "2019-12-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "vivo launches Y11 smartphone at affordable price of Rs 8,990",
+  "source": "The Asian Age",
+  "published_utc": "2019-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "National Payment Corporation of India Launches Vajra, the Blockchain-Based Platform",
+  "source": "Blockchain Council",
+  "published_utc": "2019-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus New Year sale is now live: OnePlus 7T starts at Rs 34,999, 7 Pro at Rs 39,999 and more",
+  "source": "Firstpost",
+  "published_utc": "2019-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tirupur knitwear exports units bank on compliance to win global markets",
+  "source": "Business Standard",
+  "published_utc": "2019-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Allahabad Bank climbs 11% on Rs 2,153 crore capital infusion",
+  "source": "The Economic Times",
+  "published_utc": "2019-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung to launch \u2018clamshell\u2019 foldable phone in February",
+  "source": "Livemint",
+  "published_utc": "2019-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Debit Card Holders Attention! SBI, PNB, HDFC, ICICI Bank to block these ATM cards from 1st January 2020",
+  "source": "India TV News",
+  "published_utc": "2019-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank fixed deposit (FD) rates of 9%, 9.5% (senior citizens). Check rates here",
+  "source": "Livemint",
+  "published_utc": "2019-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Install mAadhaar app in your phone and never carry a physical Aadhaar card",
+  "source": "The Economic Times",
+  "published_utc": "2019-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol became costlier by over \u20b96 in 2019, diesel by \u20b95. Check today's prices",
+  "source": "Livemint",
+  "published_utc": "2019-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,371 @@
+[
+ {
+  "title": "LPG lorry owners to begin indefinite stir in Tamil Nadu from today",
+  "source": "The New Indian Express",
+  "published_utc": "2019-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Retired HC judge to mediate, LPG tanker strike called off",
+  "source": "DT Next",
+  "published_utc": "2019-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Those who mock, let them': Indian Oil petrol pump workers proud of Team India wearing jersey similar to their uniform",
+  "source": "DNA India",
+  "published_utc": "2019-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol Pump Employees Thank Team India For Wearing Jerseys That Match Their Uniform At The WC",
+  "source": "MensXP",
+  "published_utc": "2019-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to augment storage of LPG plants",
+  "source": "The New Indian Express",
+  "published_utc": "2019-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hindustan Oil Exploration to acquire Hardy Exploration and Production",
+  "source": "ANI News",
+  "published_utc": "2019-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil lines up projects totalling Rs 8,520 cr in TN",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-07-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC, IOCL to launch CCUS project in India for enhanced oil recovery",
+  "source": "NS Energy",
+  "published_utc": "2019-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Prefers Private Parties Over Cooperative; Himachal Transporters To Protest",
+  "source": "NewsClick",
+  "published_utc": "2019-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The enigmatic sardine: Why the Malayali\u2019s favourite fish is in troubled waters",
+  "source": "The Hindu",
+  "published_utc": "2019-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Strike By Indian Oil Truck Drivers Likely To Hit Indane Cooking Gas Supply",
+  "source": "News from Nadia",
+  "published_utc": "2019-07-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai unveils India\u2019s first electric SUV at \u20b925.30 lakh",
+  "source": "Livemint",
+  "published_utc": "2019-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil organises an event to educate slum dwellers about water scarcity",
+  "source": "India CSR",
+  "published_utc": "2019-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai, all charged up, looks to drive in affordable electric vehicles to India",
+  "source": "Livemint",
+  "published_utc": "2019-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indane LPG Cylinder Truck Drivers Of Kalyani Plant Called Off Strike",
+  "source": "News from Nadia",
+  "published_utc": "2019-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Aramco-backed Ratnagiri refinery may be shifted to Raigad",
+  "source": "Livemint",
+  "published_utc": "2019-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Over 50% drop in oil sardine catch from Indian coasts in 2018",
+  "source": "The Indian Express",
+  "published_utc": "2019-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reduction of government stake in oil companies a credit negative: Moody\u2019s",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-07-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Japanese VLCC contract win highlights India\u2019s weak tanker fleet",
+  "source": "Splash 24/7",
+  "published_utc": "2019-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel supply issue with IOCL has been resolved: Air India",
+  "source": "ANI News",
+  "published_utc": "2019-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assam Athlete Hima Das Makes an Appeal for Her Flood-Hit State",
+  "source": "The Quint",
+  "published_utc": "2019-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Traffic diversion in Hinjewadi IT park starts from today",
+  "source": "The Times of India",
+  "published_utc": "2019-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assam floods: Hima Das donates half of her salary, appeals wealthy Indians to contribute",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Motihari-Amlekhgunj oil pipeline to start commercial operation next month",
+  "source": "The Indian Express",
+  "published_utc": "2019-07-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Namrata Purohit Let Off Some Steam At Kaya Kalp \u2013 The Royal Spa At ITC Grand Central, Mumbai",
+  "source": "Travel and Leisure Asia",
+  "published_utc": "2019-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal-India cross-border petroleum pipeline, the first one in South Asia, inches to launch",
+  "source": "The Kathmandu Post",
+  "published_utc": "2019-07-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil pipeline will be a boon for economy, but could make it further dependent on India, experts say",
+  "source": "The Kathmandu Post",
+  "published_utc": "2019-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How an Oil Theft Investigation Laid the Groundwork for the Koch Playbook",
+  "source": "Politico",
+  "published_utc": "2019-07-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Industries is top-ranked Indian company on Fortune Global 500",
+  "source": "Fortune India",
+  "published_utc": "2019-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL becomes top-ranked Indian company in Fortune Global 500 list",
+  "source": "Livemint",
+  "published_utc": "2019-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Palaniswami flags off \u2018Kona\u2019, India\u2019s 1st electric SUV",
+  "source": "DT Next",
+  "published_utc": "2019-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Instructed committee to increase private participation in LPG business: Pradhan",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai working with IOCL to provide fast charging for Kona EV",
+  "source": "ET Auto",
+  "published_utc": "2019-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Old habits die hard: Saudi Arabia struggles to end oil addiction",
+  "source": "The Express Tribune",
+  "published_utc": "2019-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC/BPCL-GAIL M&A deal on govt\u2019s agenda this fiscal",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Veteran Indian businessman Lachu Bhatia dies in Abu Dhabi",
+  "source": "Gulf News",
+  "published_utc": "2019-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 Indian CEOs among world's most-influential chief executives",
+  "source": "Rediff",
+  "published_utc": "2019-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Industries' refinery complexity index rises 66 per cent to 21.1",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL's B C Tripathi denied third extension as CMD",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest \u20b925,083 crore this fiscal",
+  "source": "Livemint",
+  "published_utc": "2019-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC, Adani to invest Rs 9,600 cr in city gas projects",
+  "source": "ET EnergyWorld",
+  "published_utc": "2019-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

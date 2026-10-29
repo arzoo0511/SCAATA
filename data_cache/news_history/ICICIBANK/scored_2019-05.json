@@ -1,0 +1,443 @@
+[
+ {
+  "title": "ICICI Bank Introduces Instant, Paperless Loan Approval For 2 & 4 wheelers",
+  "source": "Motoroids",
+  "published_utc": "2019-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shaktikanta Das seen as safe no matter who wins 2019 general elections",
+  "source": "The Economic Times",
+  "published_utc": "2019-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NSE case: Sebi partially relaxes order against OPG Securities, 3 directors",
+  "source": "Livemint",
+  "published_utc": "2019-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From Baahubali to DC characters- Choose looks of your ICICI Bank debit cards|Here is how",
+  "source": "Zee Business",
+  "published_utc": "2019-05-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Card raises \u20b9700 crore from banks, including parent bank to fund growth",
+  "source": "Livemint",
+  "published_utc": "2019-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank misses forecasts with quarterly profit fall",
+  "source": "Reuters",
+  "published_utc": "2019-05-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BookMyShow, Coca-Cola Arena sign 5-year deal",
+  "source": "mint",
+  "published_utc": "2019-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Adani Ports Donate 35 Crores For Cyclone Fani Relief Efforts",
+  "source": "NDTV",
+  "published_utc": "2019-05-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Shares Fall Nearly 4 Percent After Q4 Results",
+  "source": "ChiniMandi",
+  "published_utc": "2019-05-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank CFO interview: \u2018We\u2019ve written off around Rs 7,000 crore of loans in Q4\u2019",
+  "source": "The Financial Express",
+  "published_utc": "2019-05-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock market tip: Experts expect ICICI Bank share price to rise 28 pct in 12 months",
+  "source": "Zee Business",
+  "published_utc": "2019-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank vs IDBI Bank",
+  "source": "Comparably",
+  "published_utc": "2019-05-07T16:59:44+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI Bank to Axis Bank, these are the top 10 banks in India",
+  "source": "Zee Business",
+  "published_utc": "2019-05-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Get up to 9.88% annualised interest from this bank fixed deposit. Check details",
+  "source": "Times Now",
+  "published_utc": "2019-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Syndicate Bank reports Rs 128-crore net profit in March quarter",
+  "source": "Business Standard",
+  "published_utc": "2019-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank MakeMyTrip credit cards: Hotel vouchers, complimentary lounge access and other benefits",
+  "source": "Times Now",
+  "published_utc": "2019-05-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank New Champions of Inter Bank Cricket Tournament\u201919",
+  "source": "CricketGraph",
+  "published_utc": "2019-05-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank unveils multicurrency travel card with travel insurance up to Rs 10 lakh, flight benefits of Rs 20,000; here is how to get",
+  "source": "Zee Business",
+  "published_utc": "2019-05-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital transactions: Paytm leads payment banks in volumes game",
+  "source": "The Financial Express",
+  "published_utc": "2019-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar, husband appear before ED again in Videocon case",
+  "source": "The Economic Times",
+  "published_utc": "2019-05-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank vs ICICI Bank: Home loan rates compared - Check who offers you best EMIs",
+  "source": "Zee Business",
+  "published_utc": "2019-05-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon loan case: Enforcement Directorate grills Chanda Kochhar, her husband for 8 hours",
+  "source": "DNA India",
+  "published_utc": "2019-05-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar\u2019s brother-in-law moves court seeking cancellation of look out circular",
+  "source": "The Hindu",
+  "published_utc": "2019-05-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Enforcement Directorate attaches Tayal group\u2019s mall in Rs 524 crore bank scam",
+  "source": "The Times of India",
+  "published_utc": "2019-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon loan case: Chanda Kochhar, husband appear before ED again",
+  "source": "DNA India",
+  "published_utc": "2019-05-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar's Brother-In-Law Allowed To Visit US By Delhi Court",
+  "source": "NDTV",
+  "published_utc": "2019-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private banks rollout mobile ATM vans in Odisha capital",
+  "source": "Sambad English",
+  "published_utc": "2019-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nalsar final 2019 recruitments: 100% jobs for 52 looking, AZB goes on Hyderabad spree",
+  "source": "Legally India",
+  "published_utc": "2019-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda vs ICICI Bank",
+  "source": "Comparably",
+  "published_utc": "2019-05-18T06:53:10+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank junks ranks, scraps executive symbols",
+  "source": "The Times of India",
+  "published_utc": "2019-05-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB likely to take control of OBC, Andhra Bank and Allahabad Bank: Report",
+  "source": "Livemint",
+  "published_utc": "2019-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Party Cruisers\u2019 Vivaah awarded for \u2018Trendsetters wedding design and decor execution\u2019 by Wedding Sutra",
+  "source": "Bold Outline",
+  "published_utc": "2019-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank vs HDFC Bank",
+  "source": "Comparably",
+  "published_utc": "2019-05-24T08:32:34+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank vs Standard Chartered",
+  "source": "Comparably",
+  "published_utc": "2019-05-24T11:47:55+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UK Court Orders Vijay Mallya To Pay $135 Million to Diageo",
+  "source": "TheWire.in",
+  "published_utc": "2019-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UAE\u2019s Noor Bank to offer instant money transfers to India",
+  "source": "Arabian Business",
+  "published_utc": "2019-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HSBC Singapore names head of financial institutions group for SE Asia, a new role in Asean push",
+  "source": "The Straits Times",
+  "published_utc": "2019-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Want to invest in SIPs? From ICICI Bank to BPCL - These 21 stocks are multibaggers",
+  "source": "Zee Business",
+  "published_utc": "2019-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Overseas Bank bets big on \u2018bank on wheels\u2019",
+  "source": "The Financial Express",
+  "published_utc": "2019-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kanwar Vivek takes over as CEO of Yes Mutual Fund",
+  "source": "Cafemutual",
+  "published_utc": "2019-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The insider versus outsider at 12 Tuglak Lane",
+  "source": "Business Standard",
+  "published_utc": "2019-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs IDBI Bank",
+  "source": "Comparably",
+  "published_utc": "2019-05-29T07:33:35+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank vs Indusind Bank",
+  "source": "Comparably",
+  "published_utc": "2019-05-29T08:49:34+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs Indusind Bank",
+  "source": "Comparably",
+  "published_utc": "2019-05-29T09:00:27+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indusind Bank vs Kotak Mahindra",
+  "source": "Comparably",
+  "published_utc": "2019-05-29T11:17:14+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBL Bank vs YES Bank",
+  "source": "Comparably",
+  "published_utc": "2019-05-29T17:16:58+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank vs ICICI Bank",
+  "source": "Comparably",
+  "published_utc": "2019-05-29T18:14:54+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indusind Bank vs RBL Bank",
+  "source": "Comparably",
+  "published_utc": "2019-05-29T19:06:06+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLT orders initiation of insolvency process against Chennai-based Marg Ltd",
+  "source": "Business Standard",
+  "published_utc": "2019-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

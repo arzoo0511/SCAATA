@@ -1,0 +1,578 @@
+[
+ {
+  "title": "Top 1000 distributors manage 41% of total industry assets",
+  "source": "Morningstar",
+  "published_utc": "2019-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank ties up with Manipal Global Academy to launch Future Bankers program",
+  "source": "The News Minute",
+  "published_utc": "2019-07-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 30 mutual fund distributors manage 25% of industry AUM",
+  "source": "The Economic Times",
+  "published_utc": "2019-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Industrialist B K Birla, grandfather of Kumar Mangalam Birla, passes away",
+  "source": "The Financial Express",
+  "published_utc": "2019-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC 10X SmartBuy offering 33% Cashback extended for July 2019",
+  "source": "Live From A Lounge",
+  "published_utc": "2019-07-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra vs State Bank of India",
+  "source": "Comparably",
+  "published_utc": "2019-07-04T08:26:36+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Finance Minister Nirmala Sitharaman has no leeway to offer any big surprises in Budget 2019, says economists",
+  "source": "Firstpost",
+  "published_utc": "2019-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest FD rates compared: SBI vs ICICI Bank vs PNB vs HDFC vs Bandhan Bank",
+  "source": "Livemint",
+  "published_utc": "2019-07-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Finally, RBI Shares Inspection Reports of SBI, ICICI Bank, Axis Bank and HDFC Bank under RTI",
+  "source": "Moneylife",
+  "published_utc": "2019-07-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IAS Jitendra Yadav to join Haryana cadre on inter-cadre deputation",
+  "source": "Legend Officers",
+  "published_utc": "2019-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YES Bank makes two senior management appointments; stock rises 5.5%",
+  "source": "Business Standard",
+  "published_utc": "2019-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive: RBI\u2019s Risk Assessment Reports on Axis Bank: Missing the Forest for the Trees",
+  "source": "Moneylife",
+  "published_utc": "2019-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amicus Capital invests Rs 43 cr in Punjab-based Capital Small Finance Bank",
+  "source": "Business Standard",
+  "published_utc": "2019-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Getting an e-PAN card will soon take less than 10 minutes. 5 things to know",
+  "source": "Livemint",
+  "published_utc": "2019-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mindtree investors get cold feet as promoters check out, L&T checks in",
+  "source": "Livemint",
+  "published_utc": "2019-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks Committed Repeated Violations, Says RBI Inspection Reports",
+  "source": "NewsClick",
+  "published_utc": "2019-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy Nokia 9 PureView in India now. Free BH-705 & Rs 5000 Gift card. Price & Availability details inside",
+  "source": "Nokiapoweruser",
+  "published_utc": "2019-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nokia 9 PureView with five cameras launched in India as OnePlus 7 Pro rival",
+  "source": "The Financial Express",
+  "published_utc": "2019-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "When HDFC Bank refused loan to Vijay Mallya",
+  "source": "Livemint",
+  "published_utc": "2019-07-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This is the reason why HDFC Bank's Aditya Puri refused loans to Vijay Mallya and Nirav Modi",
+  "source": "CNBC TV18",
+  "published_utc": "2019-07-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank picks banks for $1.3 billion share sale",
+  "source": "The Economic Times",
+  "published_utc": "2019-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "My successor must take charge in 15 days: HDFC Bank chief Aditya Puri",
+  "source": "The Times of India",
+  "published_utc": "2019-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank recurring deposit (RD) rates 2019: HDFC Bank vs ICICI Bank",
+  "source": "Times Now",
+  "published_utc": "2019-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank and CSC launch MoneyBack Credit Card for Village Level Entrepreneurs",
+  "source": "The News Minute",
+  "published_utc": "2019-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YES Bank rises over 11%, calls PE infusion report speculative",
+  "source": "The Economic Times",
+  "published_utc": "2019-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank revises fixed deposit (FD) rates. Check out the latest rates here",
+  "source": "Livemint",
+  "published_utc": "2019-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MyMoneyMantra raises \u20b9104 crore from Vaalon Cap",
+  "source": "Livemint",
+  "published_utc": "2019-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "[YS Exclusive] How Aditya Puri primed HDFC Bank to fight disruption and ride the digital wave",
+  "source": "YourStory.com",
+  "published_utc": "2019-07-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Should We Celebrate Fifty Years Of BANK NATIONALISATION?",
+  "source": "LinkedIn",
+  "published_utc": "2019-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri of HDFC Bank answers 15 rapid-fire questions on life, leadership, success, startups, and more",
+  "source": "YourStory.com",
+  "published_utc": "2019-07-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank revises fixed deposit (FD) rates. Check out the latest rates here",
+  "source": "Livemint",
+  "published_utc": "2019-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank founder Rana Kapoor's wealth shrinks by $1 billion as lender tumbles",
+  "source": "The Times of India",
+  "published_utc": "2019-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Most-expensive Nokia phone now available at offline stores: All the offers you need to know",
+  "source": "The Times of India",
+  "published_utc": "2019-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Group keeps top spot in brand valuation survey; Here are Top 50 firms in India",
+  "source": "IBTimes India",
+  "published_utc": "2019-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "50 Years Of Bank Nationalisation: The Banks That Were",
+  "source": "NDTV Profit",
+  "published_utc": "2019-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex drops over 200 points; Nifty below 11,550",
+  "source": "The Times of India",
+  "published_utc": "2019-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDFC First Bank revises fixed deposit (FD) rates. Check out the latest rates here",
+  "source": "Livemint",
+  "published_utc": "2019-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Half a century of bank nationalisation: Indira Gandhi\u2019s historic blunder or India\u2019s biggest bank reform?",
+  "source": "Firstpost",
+  "published_utc": "2019-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here's a 'new way' to get Rs 17,000 discount on Apple iPhone XR",
+  "source": "The Times of India",
+  "published_utc": "2019-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Q1FY20 result: HDFC Bank sees massive growth in credit cards, home and personal loans; EMIs get cheaper",
+  "source": "Zee Business",
+  "published_utc": "2019-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest fixed deposit (FD) rates: What SBI, Axis, ICICI, Kotak Mahindra and IDFC First Bank offer",
+  "source": "Livemint",
+  "published_utc": "2019-07-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ideas for Profit | HDFC Bank Q1 loan growth moderates, but well poised in a tough environment",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-07-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises fixed deposit (FD) rates. Check out the latest rates here",
+  "source": "Livemint",
+  "published_utc": "2019-07-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank joins rivals in warning of challenges ahead",
+  "source": "Livemint",
+  "published_utc": "2019-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks collect Rs 10,000 crore in minimum balance penalty; PSU banks earn this much",
+  "source": "The Financial Express",
+  "published_utc": "2019-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Some Enfield dealers not to get HDFC Bank funding",
+  "source": "The Hindu",
+  "published_utc": "2019-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Syndicate Bank narrows losses in Q1; asset quality remains stable",
+  "source": "Business Standard",
+  "published_utc": "2019-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "I feel the doom is over, we can only move up: Aditya Puri, MD, HDFC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2019-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Eicher Motors slips to 52-week low of Rs 16,389 on speculative reports",
+  "source": "Business Standard",
+  "published_utc": "2019-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Redmi 7A to go on sale today via Flipkart: Price and more",
+  "source": "The Times of India",
+  "published_utc": "2019-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Five facts about Priti Patel, Britain's new interior minister",
+  "source": "Livemint",
+  "published_utc": "2019-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold prices slip but silver rates see sharp fall",
+  "source": "mint",
+  "published_utc": "2019-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q1 FY2019-20 Results Update",
+  "source": "Invest Yadnya",
+  "published_utc": "2019-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, BoB, Kotak Bank revise FD rates. Check latest rates here",
+  "source": "Times Now",
+  "published_utc": "2019-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed deposit (FD) rates compared: What SBI, HDFC Bank, BoB, Bandhan Bank, Bajaj Finance offer",
+  "source": "Livemint",
+  "published_utc": "2019-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HOUSE OF TROUBLE?",
+  "source": "PressReader",
+  "published_utc": "2019-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Opinion | Talaq jeopardy",
+  "source": "Livemint",
+  "published_utc": "2019-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Maharashtra posts \u20b981-cr net",
+  "source": "BusinessLine",
+  "published_utc": "2019-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SMBC hires Rakesh Garg as chief business officer",
+  "source": "The Economic Times",
+  "published_utc": "2019-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Keep your bank account adequately funded to avoid penalties",
+  "source": "Moneycontrol.com",
+  "published_utc": "2019-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme 3i to go on sale today at 12pm via Flipkart",
+  "source": "The Times of India",
+  "published_utc": "2019-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to download Form 26AS: Here are two ways",
+  "source": "The Economic Times",
+  "published_utc": "2019-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme X with 16-megapixel pop-up selfie camera goes on sale today: Price, Specifications",
+  "source": "India.com",
+  "published_utc": "2019-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This Truecaller bug put its users in a 'dangerous' position",
+  "source": "The Times of India",
+  "published_utc": "2019-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
