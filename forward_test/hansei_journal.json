@@ -6460,5 +6460,296 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-10-29",
+    "ran_utc": "2026-10-29T11:02:25.061495+00:00",
+    "equity": 10001.3,
+    "benchmark_equity": 9925.89,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.369,
+        "target_exposure": 0.262,
+        "current_exposure": 0.0,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 0%: no strong reason to change",
+          "trend against (-0.92, trusted 27%)",
+          "momentum against (-0.41, trusted 26%)"
+        ],
+        "views": {
+          "trend": -0.922,
+          "volatility": -0.0,
+          "momentum": -0.413,
+          "news": -0.047
+        },
+        "value": 0.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.249,
+        "target_exposure": 1.0,
+        "current_exposure": 0.693,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "news supportive (+0.55, trusted 23%)",
+          "trend supportive (+0.35, trusted 27%)"
+        ],
+        "views": {
+          "trend": 0.35,
+          "volatility": -0.0,
+          "momentum": 0.108,
+          "news": 0.547
+        },
+        "value": 1386.6
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.328,
+        "target_exposure": 1.0,
+        "current_exposure": 0.867,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 87%: no strong reason to change",
+          "news supportive (+0.60, trusted 23%)",
+          "trend supportive (+0.35, trusted 27%)"
+        ],
+        "views": {
+          "trend": 0.352,
+          "volatility": -0.0,
+          "momentum": 0.355,
+          "news": 0.604
+        },
+        "value": 1734.9
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.351,
+        "target_exposure": 0.298,
+        "current_exposure": 0.196,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 20%: no strong reason to change",
+          "trend against (-0.83, trusted 27%)",
+          "momentum against (-0.46, trusted 26%)"
+        ],
+        "views": {
+          "trend": -0.831,
+          "volatility": -0.0,
+          "momentum": -0.461,
+          "news": -0.022
+        },
+        "value": 391.23
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.554,
+        "target_exposure": 0.0,
+        "current_exposure": 0.265,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "trend against (-0.76, trusted 27%)",
+          "volatility against (-0.82, trusted 24%)"
+        ],
+        "views": {
+          "trend": -0.757,
+          "volatility": -0.824,
+          "momentum": -0.605,
+          "news": 0.018
+        },
+        "value": 530.0
+      }
+    ],
+    "weights": {
+      "trend": 0.2707,
+      "volatility": 0.2363,
+      "momentum": 0.2624,
+      "news": 0.2306
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.047,
+          "strength": 1.0,
+          "material_count": 8,
+          "view": -0.047
+        },
+        "top": [
+          {
+            "title": "Anup Bagchi Takes Charge as New HDFC Bank CEO & MD",
+            "source": "TradeFlock",
+            "sentiment": -0.014,
+            "material": 0.9,
+            "published_utc": "2026-10-29T05:47:04+00:00",
+            "count": 14
+          },
+          {
+            "title": "HDFC Bank Shares Fall 2.3% After Q2 Results; Jefferies, PL, JM, Emkay See Up To 44% Upside, Better Than FDs?",
+            "source": "Goodreturns",
+            "sentiment": -0.5,
+            "material": 0.8,
+            "published_utc": "2026-10-27T08:52:47+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Limited Stock 12\u2011Month Price Target Cut to $30.31, Implies 42% Upside",
+            "source": "TradingView",
+            "sentiment": -0.6,
+            "material": 0.7,
+            "published_utc": "2026-10-28T04:20:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank appoints Puneet Sharma as CFO and Jigar Shah as General Counsel",
+            "source": "scanx.trade",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-10-28T03:57:29+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.576,
+          "strength": 0.951,
+          "material_count": 4,
+          "view": 0.547
+        },
+        "top": [
+          {
+            "title": "Bank Stocks Q2 FY27: 25% profit jump likely as FCNR(B) inflows surge; why ICICI, SBI, Kotak and AU Bank are Motilal Oswal's top picks",
+            "source": "The Economic Times",
+            "sentiment": 0.8,
+            "material": 0.9,
+            "published_utc": "2026-10-28T04:29:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "600% Dividend Dhamaka: ICICI Bank Fixes Record Date For Payout | Are You Eligible?",
+            "source": "Goodreturns",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-10-27T18:22:05+00:00",
+            "count": 1
+          },
+          {
+            "title": "RBI Increases Liquidity Support to Banks as Tight Conditions Push Up Short-Term Borrowing Costs: ICICI Bank",
+            "source": "KNN India",
+            "sentiment": 0.5,
+            "material": 0.8,
+            "published_utc": "2026-10-27T11:10:17+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank (NSE:ICICIBANK) Allots 10,63,398 Shares Under ESOP Scheme-2000",
+            "source": "Kalkine India",
+            "sentiment": 0.5,
+            "material": 0.6,
+            "published_utc": "2026-10-27T17:42:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.604,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": 0.604
+        },
+        "top": [
+          {
+            "title": "Petronet LNG Names Sanjay Kumar as Next MD and CEO",
+            "source": "Elets eGov",
+            "sentiment": 0.2,
+            "material": 0.8,
+            "published_utc": "2026-10-28T04:00:54+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG, Gruner Bet Rs 1,200 Cr on Biogas Expansion",
+            "source": "TradingView",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-29T06:01:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG Enters Compressed Biogas Production",
+            "source": "Chemical Industry Digest",
+            "sentiment": 0.8,
+            "material": 0.7,
+            "published_utc": "2026-10-27T06:26:42+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG launches a propane tender for its Dahej petrochemical site",
+            "source": "energynews.pro",
+            "sentiment": 0.5,
+            "material": 0.6,
+            "published_utc": "2026-10-29T03:32:14+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": -0.022,
+          "strength": 1.0,
+          "material_count": 3,
+          "view": -0.022
+        },
+        "top": [
+          {
+            "title": "Indian Oil officer murder: Indian Oil field officer stabbed to death while sealing petrol pump in Maharashtra`s Hingoli",
+            "source": "Mid-Day",
+            "sentiment": -0.6,
+            "material": 0.7,
+            "published_utc": "2026-10-26T13:14:11+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil officers launch series of protests from Oct 23 to demand justice for Mahesh Shelke, officer safety",
+            "source": "PSU Watch",
+            "sentiment": -0.5,
+            "material": 0.6,
+            "published_utc": "2026-10-26T15:07:38+00:00",
+            "count": 1
+          },
+          {
+            "title": "Odisha: Unrest at Indian Oil refinery as workers stage protest over wage revision, dues",
+            "source": "The New Indian Express",
+            "sentiment": -0.4,
+            "material": 0.5,
+            "published_utc": "2026-10-28T03:38:17+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.057,
+          "strength": 0.309,
+          "material_count": 1,
+          "view": 0.018
+        },
+        "top": [
+          {
+            "title": "ITC Q2 Preview: Higher taxes to hit cigarette business? 5 key factors to watch",
+            "source": "Zee Business",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-10-27T08:13:14+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]

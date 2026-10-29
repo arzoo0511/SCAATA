@@ -1,0 +1,414 @@
+{
+  "symbol": "ICICIBANK.NS",
+  "date": "2026-10-29",
+  "headlines": [
+    {
+      "title": "Bank Strike Postponed: Are SBI, HDFC, ICICI, Other Banks Open? Will September Salary Get Credit On Sept-30?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-29T10:08:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa2NWRDBLamVwbTFnWHd6STJqWEIyX3JqMnp6ZDVJa2VheVJwZlg4V2hhNXFSVm5iYzhua29Ub3lHeDE5YVFFbEQ5aS1GLU9VZHFubkFDY1cydFoxZ2dyWFNFclpMNUdyc0VvYUFyMThYZXVRbnBha1AwNnJQQ2JBVU9qQnFWNXA3V3JuRWEtVzNmQU1LRUcwcDRGdWx0dWxJUmFnSnlET2k0WV8wdHJ6eEstaU4zV2Nya29jWnBUODVkYmtHZE1PM0hDekJRMlYyd2xJWkVZV0V2a2c?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank vs ICICI Bank: Rivalry between India's biggest private banking stocks heats up; one offers up to 68% upside - Which should you buy?",
+      "source": "ET Now",
+      "published_utc": "2026-10-29T07:43:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQb3lNM1VzcG81SU11NFFxU19GSVBYYWNvU21TWWtaeXVCTDU2QUNiVTYtOERQdEZ5c254MVExZk1fa2p4VUNvcHhienBBYnF3OURFTHJJYThaY005TTlONjItQmdHZ2xRU19KSGNaNGh1SzVJY1lVYnJwTmJQZ3BRXzg2NWZlajBDME1zOGcxQkJiRllwT0Z0b2ZvZjVvdGNmZG93dnJndDI4dm16ZW4xTGR4MEFtRThSbkF6a25RTmQ1NTAxMWEyYkRVbHNFakVpQlZhUDlwX2l4bVNjemw3cTI1dXRGTTRiekZKSE54NjdtcWpmUnlYTU5tNTNXM1IxQ2tOaTktSXNHMDdiTXVOMW5fWHY?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Airtel, ICICI Bank, L&T, Titan, Dee Development among brokerage's top Diwali 2026 picks",
+      "source": "Business Today",
+      "published_utc": "2026-10-29T07:13:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMTVQdG5WaFFkQmVTWVdlaDFXVFJ3RUJOTmpkNWZacmU2TkZGb0hEUXBCeXN1V1ZKTGtkWEQzVm1WRFBzeUpvRTVMOFNXaTJqS2dsSXJIcTVMdlZna2F5dDhweUM2VEpPWmpYaVJtOS0ycWFWMWJWQkZhblRubi02TnhJYk5YTWVvcUVjR25FWnItaUxHOGo1M1JYdjhUVEd3WmZBNnF0c3B1Nm1aV2VxTndKUHhDRXY5QUVjdng2MUE3ZHVmSTIwS3dER1VHcjVqaGJrckduTzFNMFRhb3FZbmxTZm90Yzdn0gHoAUFVX3lxTFAxNVB0blZoUWRCZVNZV2VoMVdUUndFQk5OamQ1ZlpyZTZORkZvSERRcEJ5c3VXVkpMa2RYRDNWbVZEUHN5Sm9FNUw4U1dpMmpLZ2xJckhxNUx2VmdrYXl0OHB5QzZUSk9aalhpUm05LTJxYVYxYlZCRmFuVG5uLTZOeEliTlhNZW9xRWNHbkVaci1pTEc4ajUzUlh2OFRUR3daZkE2cXRzcHU2bVpXZXFOd0pQeENFdjlBRWN2eDYxQTdkdWZJMjBLd0RHVUdyNWpoYmtyR25PMU0wVGFvcVlubFNmb3RjN2c?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Axis Bank sees highest growth in active debit cards; HDFC Bank leads credit card market",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "published_utc": "2026-10-29T06:53:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLVRCNW5Ib3BVM2RGUkVRM0F6OFNCbnlEQWVqNkN3Z0N3SHkteW8xREVUb29hR25IWkVETmNLN2pRV1A0TENTb1dUQmplem9hNDFtVUZyZU9leHdURi1XSXhvWHBzbWNhbkxsN3BmMHY2OUJKaEpzMTgxWngtNThpSWVSQTViY1pFQmtaQmtiUmxZa0JWUGNpVFhzNUNNWndSXzV0elZiTjVpQnBXalZYa01sWjEwTFdwcDVCakVhLUgyR3BwVE4tUTNfQnczUW1yNjkzSGN4elpUSFFQOGNkcdIB5gFBVV95cUxOWVlHUEpNNzRCSkttbzd6YnBrRUd6XzZpZWNCZjBjNktJMzQ4LUdWRjFTWV96enZOOThycVFhVnlkcHd4bzdvclZNakJ5TVllUTAzSWlwb2tUQllyeTJrLXV4Z3R0LWhSd3JkTnA2WmV4bkJsVVBKcGJrMWhzVXRPMXpmZTdYOHQ4N3RMSGxDSzA4aHBqU0tudlVENllrQmgwcDZJMVhXQkl0TXRnRFdpd0xuVWtsOWRzc3VmTE1oa1pucnpTQ1doN1cyY0FQSGRFMTZ3d25McXh6bGxROENGM2paRHFVUQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Banks and NBFCs step up festive push with card discounts, EMI offers and loan concessions",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "published_utc": "2026-10-29T03:56:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbUVYOC1sQXVwUmg0VEtmQ2ZBX1BUM1JkLV9nSUt3SFNHZ0ZGbHBIdExvNGcxQTBfY2owd1YxWWlJMjJwd3lXbllPZWM5dU1hMmNoSWsyc1g4Wnl1cUQ4WmJnU0Y5MlpHb0t6X1l2NWFkU3RQSUFVRG9nbDUyaFY1WkozaGdaNk5MdXdiVFRVSnY0czZxeGtjX0JMeEZEbzVHNE1WUkEzRUtpTUNRYXlnQk1ITUx0VlhHRFhuRWpRVHdGWXpqcjkyVmd1elZySUxZeWNnZDZxOFlsUFVMWUJCZG9jNzhtakJkMG1UdU9WWTlEMm5lVUp6YVY5b3lYdGpGYm9aYzVocUJObzJSY0hMLTNvdG95ek55VmN2Wm1FeWh5Q01H?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Karwa Chauth 2026: Are banks open today? Check if SBI, HDFC, ICICI Bank and others are closed in your city on October 29",
+      "source": "Livemint",
+      "published_utc": "2026-10-29T02:46:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeWx2bThMbHZZR2RmY0VWUlZKdVVLTnk5VU41S1VzNVQtcW9pYVhGc1JzNlVtOGRfd1lYMDJXQnRWOFljdFg0RGJiZXNkenAxZTNMZVRHMzQwSHhlZmhpSUNCYm5iZDlEeThNMV85NndQMXRMUHJvWkZuN3NsVlhOM2VjLWVWNEVKN3RzZUlyVDFDNjdpYzlhbkstRDkxVTlnSHlNdUg4SVlsdzdZQ0VMbnRKU3NUbEJPRHl2N1JtRE1FTmFEdzdJQVNwdVVIRFhlSWtDSkpWTmtqVUpnRHpVeGFQSTdmaFpBdjFGNG84SlpDSGM2c0VnU0FNQdIBgAJBVV95cUxNMWN2MWNic3owNG9FWDJKRFltcW54clRnM216SVUzZDZZRFVhdlJSR0o3dWotTzdGY0tmOFd3NGNpald0bkN1SUhXRU5Jczl3MzNUQzViVGxXQzBjUElrZGltSndKd2V2M1RfOENwM0hhb3FCa3FISVE1MWxIMUdWeVNsNDlHcS1NR1VLcUpDajlVemMzN1dWV2ViYTNKendHUkpqcEpYeWV4Yjd4VC1aSzdrOXoyTVZNd2szRkh6MmNHdndRcHBEaUZCUk12S0RVOV85MmpTWGdhemxhUDRNelFKN0NsTk0xV0dkQU1YWlk4Z3pFX08xcGZfSlVWeVJr?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday Today, October 29, 2026: SBI, HDFC, ICICI, Other Banks Closed For Karwa Chauth; City-Wise List",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-29T01:22:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb0k2RnlZOTBmRGdjckJMdWZuWWJSS3ZiTXZKRGg3LUZwNXZSSW84RXRiMUxHMjY3VTkwNVA0OWNpUGY0ejNnMEhFVjJFNXBpZ2JjXzZoeWhiOXJnV3Bwek1OTEJ0Z1VNTFVFYnVNNmZKVEpNVFpoRng4aHh1T0E5Vzl1V003QkFsY2tiWVVIZVBHUlZac1JyeHI3aXh2VDZzUml3Tm9MSmVTMFB4X19GQmVYMnBEQmV2U21rQzVMTkJwaFc1WFIwOGJNSGdkNDNzclBRUkdiNy1iTnVCM3c?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jio Platforms enters India's top 2! Here are the 5 most valuable companies after its listing",
+      "source": "Business Today",
+      "published_utc": "2026-10-29T00:45:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPemhOZ01ULUI5LUk5WF9GazVNaHFaZmVSSS1RS2hDd1NsWVRzUU5DNnducWFIR19DS05MbG5jb1FuOE1ocG15YzBoQXJtYUE1M3J0dWR5TjNuWmpPeEN6cG5rMnN0YzZQNlRTVTExcDBFcmE1SFlyc3M4WExEQWh2NUZkeTNJbE9VOTFOZVdvRVc2OGwzbW5XYjR3RmxxT05Ma0k2X3dLZVJXZ24wYUFTMWJlNFhXMlJCMFZ4aUM2a3dHb21zdVFBTEJETHZPWW1INUJKYUE0OWlpNkNQU2NvbzZxcDY2RkUybEHSAeoBQVVfeXFMT3poTmdNVC1COS1JOVhfRms1TWhxWmZlUkktUUtoQ3dTbFlUc1FOQzZ3bnFhSEdfQ0tOTGxuY29RbjhNaHBteWMwaEFybWFBNTNydHVkeU4zblpqT3hDenBuazJzdGM2UDZUU1UxMXAwRXJhNUhZcnNzOFhMREFodjVGZHkzSWxPVTkxTmVXb0VXNjhsM21uV2I0d0ZscU9OTGtJNl93S2VSV2duMGFBUzFiZTRYVzJSQjBWeGlDNmt3R29tc3VRQUxCREx2T1ltSDVCSmFBNDlpaTZDUFNjb282cXA2NkZFMmxB?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Nifty Prediction for Tomorrow: 29 Oct Levels, 54,000 Base",
+      "source": "Univest",
+      "published_utc": "2026-10-28T22:25:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43cWEydVV4VmkxYUFfY0VkS3V6YnZLNXdFbVExaHowUDZkSldENG9CSUJHcDBBR2tJVnZtdkVwa0hEVGdzWER6YlY4UjV3SDFyODQxV3RaUjU5T0ZyYkRKcTVPQVNzRlpCWGsyb3J3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Biometrics For UPI TXNs Enabled On iMobile",
+      "source": "https://www.fintechbiznews.com/",
+      "published_utc": "2026-10-28T20:11:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdFlTMnlmbzlpNnRrd3pKM1cwTWFfV2xTcDUydERnVEpwek5CNEdSSjZvaVR6eHFCekdFZDlkc1lOTGJWMXBQRVVvR3BPeDVJeXVsa2gyU3ZJaHo5R2Y0aTZCbjVNam8wS2wtVlA1UmZNVFNWTkUyUWRETEMtN0swTTRCd2FWb0R4bTdfSHVvNXQySENXR19sczNpWnNjdWs?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Share Price Prediction for Tomorrow: 29 Oct 2026",
+      "source": "Univest",
+      "published_utc": "2026-10-28T19:17:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONlk1d25FZkhZamhiZHBQejcwNk55Z0VIbXFZTXd6Rm1RN0QxT0RuRkppRDV6MElrdTgtc2xiQVFKcm1YWG9ZVG9WZXdMdnBuLTRhaTBENFQ4QTVTZUE4NmwxdGxpaDNQWXI4R3V5WWZmRjhtMzBLckFuZ2ItQ0lGWVJoeGxRd1ZKTUd2QUlON0M?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "What Makes ICICI Bank (IBN) a New Strong Buy Stock",
+      "source": "Yahoo Finance",
+      "published_utc": "2026-10-28T15:00:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkdsbjRVOXNsUFY4cDZMVHFxWEhMalY1SkozdHBZN1hJa1luRnNwbXhYVk9qRVhUbm9mY2ZMX2tVUndzV1J3ZWZZQ0c1SHRhWTNOR1JSMnVuOS1BNEdzS24zMlJtaFM1Mm5IT1hkcnlOdEl5TDVrZlEwWVNsRjFWZG9rYjJnTEl2ZGpTU0NibThCdlVMcW1V?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Karwa Chauth 2026: Are banks closed on October 29? Check SBI, HDFC, ICICI and PNB holiday status",
+      "source": "Zee Business",
+      "published_utc": "2026-10-28T13:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2EzamlCX3ZkWDNiLTNmcHdhRmpENWRzRDY5b0lXeVBoWTdPc1dBZV9YSnhxVFU4X3h1M0x1QzJLdmlTS2NkbFZYdGwwMTR3TnZJa21WWWpMRThWMEpMZFF0WVg1SF9CSTBBN3B4cFJLRTZFeWdLWHA3OEdUTERxSDJBMWdLYzlrYUp6cmRsS1RQWjV0TWNabG1iaFlxNWhUam0zUkJuby1PVmFHVGJXeHlhdGRucTFCYlFHc0JCeGY3d1R6NUxzZDY5bEtfRnhrUmF3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday October 29: Will SBI, ICICI, Axis, HDFC banks remain closed for Karwa Chauth? Check city-wise de",
+      "source": "India.com",
+      "published_utc": "2026-10-28T12:30:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdXJKMS04M0djcWdTNEVpSjJITDBjN3VjQTl0emR1SWRJNU45NnJkUmQyNFlsNlRBdHNhOGRGblBZMEJ1elFEZERhaE9lQlFUS0VmQml4RFNfVXM3MTRHUnMzRzZfMVE4aHdja3BTcWFiU3VQYnJrVjR0Rl9lNzJmd0c4VzRtVFN6RngwdGc0aVdyV21NdWQ0RkJ3RXJ6cHVScGh5ZmxSUU1EUm9mSmlwTGNTWXVPVjBJb040WFBhX3AtT2g3dTRzLWxtVkx6d09DWXV2dHVkSHRrODJNem5haExHRWtqZ9IB6wFBVV95cUxORnZnTzNPQW1lY2VCa3FfRVJkNkctNzBIWGM5cjhnUHVKeXpzZXFoRS1ia0plNlAzcUVKSzFZZXNTZHd0a1owQnlpWXZsY1ZnYm5wbkhtaUdJY1psNk01Rkpiend3M0dHdjV5VUlOMmxHVExkTzdzaWxpeFRjMWhKa3V6NWMtRU9KYldGRjFEVTd5LWt0Y1dVNHFNY1VzZndJUDQwV2ZsUWlZV2kxSWpHZ0pFdEhLWmNySmtENlRRZTd2SFNmaUlNeDlTcGhFWjZPOVdLaXFqeENYeFg5c3Q2alB3Y3hDWnJtM29B?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Vivo X300 FE available with over Rs 13,000 discount on this platform, check deal details",
+      "source": "Digit",
+      "published_utc": "2026-10-28T11:16:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXU4UTVicUJnOHpBSmhOaGZyckNVMTY3RzI4eF94N3pxYS1aY2kwUC1TNlI3VVhDT01fdjkxN2N2SkxDN0dPbGp4Q3dRaG1CcFUyRzlVbmZRcGI2NHNCMzlTSGJ4b1dHN0ZNTDB1LVBlaHpxZkVNdXp1UTI3Q2Nhb2xjN2xyQlUteTRFUUdmdVpXUE5fVmphUWhESUhmR042aEY2aTRnaDFlcmN1bnJyZzUwOUdhR244aGdVaVhJczJONzczVk1OeXdoMHlhYUU5V2fSAdIBQVVfeXFMUGF1OFE1YnFCZzh6QUpoTmhmcnJDVTE2N0cyOHhfeDd6cWEtWmNpMFAtUzZSN1VYQ09NX3Y5MTdjdkpMQzdHT2xqeEN3UWhtQnBVMkc5VW5mUXBiNjRzQjM5U0hieG9XRzdGTUwwdS1QZWh6cWZFTXV6dVEyN0NjYW9sYzdsckJVLXk0RVFHZnVaV1BOX1ZqYVFoRElIZkdONmhGNmk0Z2gxZXJjdW5ycmc1MDlHYUduOGhnVWlYSXMyTjc3M1ZNTnl3aDB5YWFFOVdn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Karnataka High Court: Digital arrest claim can\u2019t exempt \u2018victims\u2019 from repaying bank loan",
+      "source": "The Indian Express",
+      "published_utc": "2026-10-28T10:43:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjVUS01TVHBGWDBGaWplNnY0YUhBbnFEUnRNa3hsYTVWZGs0M0hQUVVtbE5XM0UxMkRCcmtvSUJ3WjFwVEFuYTdnY0lybGwzdnJMQUZtTmlQdG02SDU0eFZ2bktCc3hQOThEYjB1VkJDRVVpZUstVXc2bHAyMkdmOFVPaUxrVy11aTV1UGx2RUVvTEN2SGJCTjhDaGNzal8wVWU4MGRtVlRyZWdDWm9rb3JKUE9rNGxlNV8tVmdBQkxHU2_SAcoBQVVfeXFMTWt5eWFuall2emExeHhtUC1yQUpKTjVEbzZSU2VCUHR5MDVwOTdub1JtQnpBVXNoeXhNTnNfaC1EM21HTjRHVG5xdHVrNlk0anlUbDhyTlNyRVhJVXIxcVdVODlBQ0VnMWxZeElETWYwMEh2QVVmUjZud1lhclFtZ2JkOFBuYzJHQmphYVkwanZ1MktGMGxiU0hjYndQdy1HWXlRVXdDWXNnYU5tc0lBRy1hd3JXODVZdExrdlRHZEpycFNJZWp0OUJ4QQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank falls Wednesday, underperforms competitors",
+      "source": "MarketWatch",
+      "published_utc": "2026-10-28T10:32:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOajd0X2lqYmQwSm5mSzR3dURlSDdJSlgzbElaQmFxdEIwbTFTLWlaOUxXS19wX3YzbzZrYnQxckI2ZmtqSG9wMkN2eVV2NWFtdUEwUFA2czU2U0J5Nl9jYzNxYzQtU0hwRE1zLWhNY3ByXzVLM1FqNGc1QnRQNTVZeElOR1lmRUdIbUVwUUdBSlgxVTdaMS1aWGlZOGNiRzBqZmpyRERiazdweGJwcEhNUHdNSFRzZ3pHVWJZQ1FVNmFEUlVZakI3TWt3?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday tomorrow, October 29: Are banks closed for Karwa Chauth? Check city-wise details",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-28T10:08:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa1R1ZnU0ZmhOTmtRVkFZQ2FGb2Z2R3oxblZJTjlQekhtTG9kNHVWZEJEX2hSbXN0dmdOaDhMRldhU2pRN3JUNVkxUHFfMm1IY1ZOdDJBQVo0Z3Q0RTR0U3VQVjVoRHM0Y2cyWW9kUHUtOWV4Zm01a05yd0hhanJhOHFUYjhBRmlkeC1PUVl5WFI5dGpOek0tLTBqQXJ2b1FjZFBHYmhxbXJobzVFWUpXcElMS293OXJKSkJ3U3NPU2JQbXFRT2FfcU96VTQ3ajNoV1loRFJKZWJSdU9EV244MlVYVzZOcVlDT3RLb0s2Q1pfNlVVUmVNZtIB-AFBVV95cUxOa1R1ZnU0ZmhOTmtRVkFZQ2FGb2Z2R3oxblZJTjlQekhtTG9kNHVWZEJEX2hSbXN0dmdOaDhMRldhU2pRN3JUNVkxUHFfMm1IY1ZOdDJBQVo0Z3Q0RTR0U3VQVjVoRHM0Y2cyWW9kUHUtOWV4Zm01a05yd0hhanJhOHFUYjhBRmlkeC1PUVl5WFI5dGpOek0tLTBqQXJ2b1FjZFBHYmhxbXJobzVFWUpXcElMS293OXJKSkJ3U3NPU2JQbXFRT2FfcU96VTQ3ajNoV1loRFJKZWJSdU9EV244MlVYVzZOcVlDT3RLb0s2Q1pfNlVVUmVNZg?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Amazon Pay ICICI vs Cashback SBI Card: Which Gives More Cashback on \u20b92 Lakh Spending?",
+      "source": "Trade Brains",
+      "published_utc": "2026-10-28T08:08:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeUk1bFhDaUZjUWdnSi1fUDBPTDlya19VV2UyY2VfWUZkN2tPRnh2QkdyXzZzX0JhT0ZvUTlxVzZZaWloSm5fYW4zV1RsUVJrVUxjT21CVWNheFBHUUQ2WTI2UG1qVkR0MkRIVExDMUN0QUFWVzNZUXlMWm42b2hZUFpnaG5CSUxzQUhzUVVleExHU3B4VUVjNktYWjdHTjlMX2lDS3VBVFRtUno2TDREM25felVyeklTblFSQg?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank\u2019s new CEO set to command record Rs 35.9 crore pay",
+      "source": "https://whispersinthecorridors.net/",
+      "published_utc": "2026-10-28T05:27:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS3QzOUpJWXRENjNyNFgzU2trdXdsbG5BcE9uSV9DY2xySHQzUTctSXk4ZzQxR1UzQVBzdnlEc3J0UXJSVDRoNnhkOXFYc3VJVGNFZFdZaHBDTVd6NXdzQmVnRnZDZ1ZnSEJLR0NIamZPcE5VRWo5Y1NpOVhvN1dIV2pIaDVqV2JtbjB4VkhYRmZEX0QySDVEWWltYVloSG50?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jio IPO listing: Reliance-promoted firm becomes 2nd largest market cap holder in India | Check other 4 in top 5",
+      "source": "Livemint",
+      "published_utc": "2026-10-28T04:54:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQlBQRWZQZHBLS3JDaDRzSDRZUWFiUmcxWjV0RG54T2gzNlozZXdVNnNZLW0yYXJvbzN5YjhreTFCM1BqZDAtRXZKZWdSWHlFNEVSRUs5eU5RVjRCTE8tbXhtTVpkMWFlbzQyUVQ0WkVhLWFub0lnckFzMVFfNTRMYUh4eU1Oa2p1VTdmbDZyVV9JNFN4LS1GNHdZdzU1TXdYTmd2emZSSHNDcUczdzNiTW9wN1dUYW9PUXJSZzA5b2c1MTNydWRfandNd1ExVjVYSldmQzN6TTFrWjdFb0pSZGlTRkNYbUNTWWtBdGxON1hMUkhlYXRWSGtXdDdhNVp3OUVaRUI3MXpXZ9IBjwJBVV95cUxQNzk5d3h3NnBtdzJtWG01UTJRNzRod0NBTTdJaDlfU2RkR2lqWGQ0OERXekdRYks2R1hHUEJwOEh2eF9xWG9BeEc1RTVMMU5OelpMYjRFM1NwalR6Nk5iUmd0ZUYwNnhZaVlza0tjRFQyY3k2VTB2c2VCTmlxQnJxZnNldk1aNmJ5OGhwdUpIYVREakdzb2JZUVpSbVQ1TDRBNk1VTmxUTnU2NEM0U1FaRkN4QTRtMG53WGdrM3k0Q3dBLXdtWUpXWU9XeVFSLTZYNnMzOTEzaUwxVTUwMEl5UGJXeG1rUnVTTThCV1FMTDByTWtLajN1cDBNNlYtcTMxWHBNWkd2cndKUHN0RFVZ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Stocks Q2 FY27: 25% profit jump likely as FCNR(B) inflows surge; why ICICI, SBI, Kotak and AU Bank are Motilal Oswal's top picks",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-28T04:29:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWEZpVExXVWRETVdlbmpxbDYyQTEwRUw2WHJacDNyUmRRZG81X0ZBSFFXUTB3STdhUExHN1pIX3NacldSakZDaFZSSTNxNXYzSzJWcTd4c2hKRWYyU3hld3J0Y2JJclRnR210eGJGdTV2dXZOLUpVZXY0M1R5NGcyTzN6SzNIYUJFRWxiOGI3d2puRDg4SnNGSUxBeFVBQ0ZVYndhc2xvR2NzcVdVSkxiSHFkYWRja2Z5dmhoNEU3RS15VHI2ZmtOWUQ3dUFNaUtRZk41ZFc2R2NnVS1XMG81TXFSYjVOSFE0WThPM095aXdmYzNpc0NaZ3FLZ3BNQjB3NGY5Z1hMS2F4UnNLRENvU082Zkk4NUloQWNtRk1ld2d5cXV1THo0?oc=5",
+      "relevant": true,
+      "sentiment": 0.8,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Banking sector stocks today, October 28: Punjab & Sind Bank falls 2.19%, J&K Bank down 1.79%, ICICI Bank declines 1.57%",
+      "source": "Business Upturn",
+      "published_utc": "2026-10-28T04:25:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd3lFbGJFZlUzelRGUUQxS3hRei1YTVQ0eW9kaENVcDJLbF9wMFZMQlNValFZc3N0VWZINlE4cHVScjFjbGVONGVvU2ZuUkc2NDRzZmgzcWQzNl9BbHlhZDZuTHFFUVBEc2xnV3dLX0dCRERCM3FZTmVncWZsaWVhb21wbFRMRmFGT3ZhV0xuTGNtOTFLNUVPM2J4aXRRQzZtZ2lSdHBjMTltSE80Wk0xUHhSenl3Y2Z2MzNIV2tIYTZSNDg2Uld5LW1wLW8wTmpFbzlzaHRxbDhfVE5ObHFIdVVXZmk0aFVYVjZvLWVRdjM?oc=5",
+      "relevant": true,
+      "sentiment": -0.3,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi takes charge as MD & CEO of HDFC Bank",
+      "source": "ET Edge Insights",
+      "published_utc": "2026-10-28T03:30:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTU13UGZNcFZnbWw0amhJcUlXOUNVSzBkSUVRSXZVNmgyMnJhamliU1ppUjU3UUpiLU5uUTdPR3MzMkNjUEh4aWI4QVFUTjcyVmNsSHB5TmFtdG9ENDhwNVAzS19YUmo3bHAydUtxVDNVNWh5STZLYkwtNkZtS2ZnOWZyaWJUakRKWGYxVEdveFM?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Zee Business. . #StockInsights IT \u0907\u0902\u0921\u0947\u0915\u094d\u0938 \u0915\u093e \u092c\u094d\u0930\u0947\u0915\u0906\u0909\u091f \u0915\u0928\u094d\u092b\u0930\u094d\u092e? Biocon \u092e\u0947\u0902 \u0916\u0930\u0940\u0926\u093e\u0930\u0940 \u0915\u093e \u092e\u094c\u0915\u093e \u092f\u093e \u0907\u0902\u0924\u091c\u093e\u0930? ICICI Bank \u0915\u093e \u092c\u094d\u0930\u0947\u0915\u0906\u0909\u091f \u092b\u0947\u0932, \u0915\u094d\u092f\u093e \u0915\u0930\u0947\u0902? HDFC Bank \u092e\u0947\u0902 \u0926\u092c\u093e\u0935 \u0915\u094d\u092f\u094b\u0902? \u091c\u093e\u0928\u093f\u090f \u0905\u0928\u093f\u0932 \u0938\u093f\u0902\u0918\u0935\u0940 \u0938\u0947 #NiftyIT #ITStocks",
+      "source": "Facebook",
+      "published_utc": "2026-10-28T03:28:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wVBVV95cUxNbnNnRF9lTEJtUkVDTGFrNXJOOXJ4ZTB5QmtSbHRibFNpNUVuajVyOVh0MWZ3cGREOUpKbFVQMzdkMWt0MXBSS1pKSGxPRTN4dkN6WjVoUERjZksyX3RJTXZBQzU0TGQzdWNKeks2MkMtcWpmSXJ4TDdieElBbFQwbFZwTS11NDRxWG53M2ctMnYyRU9mZHhkbDVReFZUVC1pMUdIMjZrQ3liT3E5Z2Z2YjgzaXpXQXpuM29GUmY3a3RraUdua1d2WWJuYnliYWdMRW4xc2JsVWppMy1iSDlCZkp5MmVFVUdvcG1yWWxDMjRHR2tjX1NHRE55MV9jODEtczVzdGhpLWd0UkxiUEo5MnRWVzNfa3cwNGRjMVU0b1JEQ2h1XzFWbnFGdEZqMnBob1dCbmVxLTNpNUxwdzcwS3dNZVJFbVFkT2RwbXN5cldDS1JQQlcxTE9OZzVTRjRZdTNHRUlCYm5yRmJ1c3JIelZtTFBwbGhtZzc3LUNtbUVlZnZ6WlFPaV8wd3diejVseXV1M0JVcjM3a0pYc2FUb2ZCVE1lM2FMUU5EV1JPNjh1NDh6YVlSc3VhSzdTVzVWLWpRR2hxam1ZM0p4MUxaRFJYQmphRkN2MVBkSFc4YWRTbHlmbjZBUW1xSkdtTGpwdFkzc0NRV2ZIdmVuQUxLaDdkbUNSdmRXZ2REV2ZWNWlCNGV4ZDljOUhTSXdaZ0hYWi1INm1PbGtXLU5wUnMxZEctb2ZUbUtUTHpWMW9ENGtWTTVzb2hvMkRKa2pWQUlucXh5RGxDdXpNZDJ3em56eEtBMG1BdkdHUDNKTDREMG5JSW4tbl9FbC1mUnNzMTVHMXlQX2tMelVPVzlUNHVoLThFSklOTkNsZUtYZkxoQUhrSzJyS3h0ejlXUHJpMmpyTXNqNWdHMmc2X2NPbGZhRThOdGQ5YnV4dlg5RFM5dGJpUDdBTDIw?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Credit card additions hit second-highest monthly level in 2026 as banks gear up for festive season",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-27T18:59:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUGd6VF9mYjhJekRrRmgtU1p2cVNkOTVoTmhTSmdlLU9jMlc0X18yVDFkSnNSbXlDc1JaMmlLcmMtcGpRWlB6aFlhc3pma0xLR01CR0hVNVFRWHhYMHk3a3JvVjFhejRXZk5PUk1EWjdHVVFiN2p2UmMxVnJEc3p1X3NPd2J1VDAzMkp1bFpQcmJnMjIwNFQ2ZkNsdmtISzNzUEZoY2ZPZlB0YnU0VnBVWkNadlcwbmMwa0V1LUxiZXNQZTI2bzRSQlZCMXc5LXZ6MGRxSVlpRS1CaWpCZVpNR2pQTnBPNm1PdU5ZbUxYYWdFWFM0MC0zTVExZERjRXY1MWFhMDM0azdoU1AwQWhsc0pwONIBmAJBVV95cUxNWmxaa1ZGeUVHVjJUUjFJVXV0eHFwWWthNHJHZGF4Q2MyWVFRbkZhanA3WkEwc3l0NGhkQUpyUTEyOE54RWhGZXhxblNUR2VSZnRZTW5nd2ZrMmxhY0lsd1BlUDB4NWsybHc2N1Y1OUgxWFRYTEdoN3ZFTExtVy10LTNPWE51OEl2cVV2ZHJCLXZOTTI2VWtrREswcVRWZTJObVFUd1hKNDNFYjVkRThaWU1lc1UzREdtTkl1OEx3NE5ielNZU3VlOHJGeXJfU0xtMkdMNERmLXNidHZTbE81aGFyUVJBOTZOVURuNWpSSFM3dGtmcG80VTdJUkJvWExuLWdoMjYtc05rSDJRRkRxWnluR1JOaVNP?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "600% Dividend Dhamaka: ICICI Bank Fixes Record Date For Payout | Are You Eligible?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-27T18:22:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ25FTGFwRWpWa2lyRmpDNjItck5zVW9NSWxQUV9SV2dVUER4YldsNklHa2JkVmo2TlBUVzBlWFliVGNBbnFOakdBY0J6eW1CSkJLdHNCUlRKYnZrOE1UQWhJdFBpQTVadnh0SzRVdldvb2YwWDNaOGNsUm9qRGVpUjVBWHNxNk5tUXB0M3Q4Mk1PbmZyd3ZXY2RFLW9jdUViYkRqbXEwT2VZYU5qaHVoTE0xa3JlU0t6RVluZ25lTQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank (NSE:ICICIBANK) Allots 10,63,398 Shares Under ESOP Scheme-2000",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-27T17:42:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdm9tbFU5alpqeF83UV9JdkYzV2JVXzFkR3lTRGt2X21DbkFfcWhlTVlRMWZScXhWMWE2XzJibEU3T3ZMQmhaLUhwTUphZU0yMktzNGpPMm9FdmwyZjVCTFNFTFFCZUdjOFRDYzBkdVRJeFVtZVZtT054OWJBblJDTHpySm81aFY4WkdLQjhCVWNQektPSEJfSmZkblJCM3NQeGo4ZnRsRjNJaXlhQU1DOElmMUZ3VzB1bWc?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SBI, HDFC, ICICI To AU SFB: THESE 5 Bank Stocks Can Deliver Strong Returns In Long-Term | Check Target Price",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-27T17:18:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdk1Gd1o4b0hzbzI4OFIyNHI1UWVSNlA1RTM3aUdIZ0daUkFYQlRWS1dodUlBSG9KaGJjTHR3NTdaVERzVTVWZXRQMWF0X3VLYjJZWkR3TDI0QXQ1VjE1YnUtYnFscGM3ZE9iNmxiTTRqalJmWUtHMFF5d19MdlMxMnROTFNyZk9DaG4xMFMyLXZwMFNQeUlXRVk0OUJGNjZQekFIbk1renUzMTJPOXpvZldBZXN5VEcwOTZvY3ZZNnMwTkRIbGFOdllmU1NBQmJlZm45YkVNaw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Share Price Prediction for Tomorrow: 28 Oct 2026",
+      "source": "Univest",
+      "published_utc": "2026-10-27T14:52:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzd6bEpaWEhIRnJFVWEwbHVxc2g1Q3JGU1FSVmpXQXdBWWRuWEtkX3RycnRKSEdUZUN1WHdxMFc1REJhN0hFM29rUmhIUE9JOWI0a0tyQ1JGOUlXdlR0U2JzSVpsZW16NHMyV3hVY1BCN2tIcHJpU0ZTMVptN290bE5DWUc5ZUdVVGZuQ08zUlc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Fortune India Banking & NBFCs Summit 2026: IDFC FIRST Bank's next leg of growth easier, says Vaidyanathan; eyes \u20b910 lakh crore loan book",
+      "source": "Fortune India",
+      "published_utc": "2026-10-27T14:25:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQaFhFdFZkMldudTFyNWNUeE5ueEJuNlhsbXlNbWFoTXFfRHRlMzdYZW4tS1VEM1ZTYmVqaWZQQXZJa2JKX0ZaSWxGUDEwSlFSNFU3T3g3TFlnX3RmRi1Na3NDSVhOcHJxdGJSNVJCajFfcGpPN1BUcDRXRDJSaV9Oc1VydDZoRmhpNUMxckRZOGxLcjZxM29xOGxmZmJPbWthVElQSDFRcmNPUTZtUTRxclFDQzI3WlA5Z2gxUm5LMncxeXdyVVZTZFhkaHZabTFZZlV6WXZtVzFHUzlxbmFQYTQxWTRHTHU5Wk1ja2ZaTW9sRnpJbjJGanVsbk1kM0hrYUR4bW9FcWJGbE3SAZgCQVVfeXFMTzUtQlJqRkNENlN4bVJFalBsQktFQW5NdVNEZ3VTTDZWNklRMUpiblYwZ2NPdm9xaFBuOVpHNURaOUpUcUZqRjQwdFlmcnItNHlaWENrTjJCV3JLX3pLWWE1UldaYjJ1UjByb0QtT2tUdG5UVEc5MkQzWFJPNWplckQwb1FvUXdZZ19nREE5ckVheEphMkdUeUFfYUJqalQ4Sk5EQ3E1WlhzRWVQOVFCU2xIZmdiTmc5V2gxNXhhc2QzWktScXRLTllBMlZ4R2xkcS1GR1FJUWJUS1NtUmh4WGpKMHBadFAzRk4xWGtJZjU1R3V1V0Jpb0ZfaXVvdThVOFlZanBLX3dnbWlPZDMzamFLVC1SWmwwQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Delhi gang drains Rs 3.93 crore from man's account through 149 transactions, 7 arrested",
+      "source": "India Today",
+      "published_utc": "2026-10-27T12:17:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbXNiS19Tazl5U1VDWGNuSzZReUtKSGQ4TEJHaDAyRkl2RTBtNHIxcElWTkJ1RXZWRmVTTHR3SG03bVRQdm9zLVJVZE5QT2FUVzV2MS0yWFRHdDJZd0tJOXZsVldiSkpDaEdWbzVRTmVjc09tMnJnS2JnV1RvUjlSWkRoZkRxUzJSSlFibVQ4TFlWd2dLWXFLbUFYV0VCS1NJRzJXNTRub2dWR3pSejhRY1pPcTZHdE0zdHJ5VXlLMWxQbWJCQTc3cWsxWdIBywFBVV95cUxPbXNiS19Tazl5U1VDWGNuSzZReUtKSGQ4TEJHaDAyRkl2RTBtNHIxcElWTkJ1RXZWRmVTTHR3SG03bVRQdm9zLVJVZE5QT2FUVzV2MS0yWFRHdDJZd0tJOXZsVldiSkpDaEdWbzVRTmVjc09tMnJnS2JnV1RvUjlSWkRoZkRxUzJSSlFibVQ4TFlWd2dLWXFLbUFYV0VCS1NJRzJXNTRub2dWR3pSejhRY1pPcTZHdE0zdHJ5VXlLMWxQbWJCQTc3cWsxWQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi assumes charge at HDFC Bank, faces many challenges",
+      "source": "The New Indian Express",
+      "published_utc": "2026-10-27T11:31:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3dkQk1hMjk1cDNkekViSV9pNzlYZUxfSlBHOW5RQ1k2Tkd4SkQtRlFGZXU4MlhncllHZWdoaXYxTWVLWEFJT3Bkald6dXpTbHZodnU3cGVSRWN5MnkzY2tSTm1kUDdRUjAxMTlkZVVnWkVRZW5rSTd1akljc3VabXlCLWNvSGYzX1dldW12Z1EwMzI5RTAzSDhxdmNsa3d1UldDOWVvczB0YlZnZTZZclBOVThEQdIBwwFBVV95cUxOSVJIeFJhVHlwMVhhWlBNcXdLSkVjWHZXMVA4cF96YXhBMFYxLVRQMURaVUJ0Yl9XOThQdVNwU19falR0NEl3aGJneEFzcWRYbVZxQmZVdjM0WlVyRi15eHhaYWJIR2cyZ19KMk5ZWTA2M2Fnend1S1VaajJBbDQ5SDhSb0o5bFVFcm5QS28wQ0JZaDFzdnNkVTkwbWtYOTFlNG1ZVDNvelZlcllCZTlkQnhJWXF4c2pQOXBabkFfeGFGTVU?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Equities End Flat as Elevated Crude, US Fed Decision Weigh",
+      "source": "Rediff",
+      "published_utc": "2026-10-27T11:24:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjBwM09JSVR2cjlndDJZaVd1V0g3Qk1FNTBBNnVfLTIyMDA4Z3Y2dllmRVB6ZjFPdDBMQThIWUtxc1pvN0NHQ2hBUlpEVE90QmV3SW1WdUw4TXFnM0JoQnhqS2h0alROQ05obmQyUFVES2x1b2hkZW5qdGk2VE9NNl9iSHpnOWFkVWFrVDZvd29ULUpfTUFaTktfRVVQcXNzNEhRT2hyYnRIa1oxT0o2cDR0TUxFTFY5MVRGV1k3WF8wWDcwREMtckVsN3DSAc8BQVVfeXFMTmJFclZfZFo0ZGhRVWdhTE1ESVN0NTViWF84ZUp2OG40bGZ4QnY1UXNBNExjLWFpUF9hd2E0a2MwYXZReTBoSWZqNkFjcTBjQlo4T3hwMEVfVGJnRDlwUzIzaWtPa0g2b0lLVnNZVU1BbXJib201dWVURDZhZU9pZ29HNlFwSFB2RUxuTi1tamdqMDNqRHRBdk9sY2pqQjFXUFBYdmZIeFhRVDBfZExEaGZoc0RIRTU5Q2RxOXNfT211YUZ4QzY2bFY0N01Wa2FF?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI Increases Liquidity Support to Banks as Tight Conditions Push Up Short-Term Borrowing Costs: ICICI Bank",
+      "source": "KNN India",
+      "published_utc": "2026-10-27T11:10:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeGp0UE9IQkRTcmZGUUE4R3piTWtmOFhCbGNmdXNYN29jc09uMGdydWd0MkctTk5Cb1RfZGw2TkUxRXRqYTl6U1B2Y2JVczQ0cFhSXzRidy1UVE5XTThHc1BUZGIyMXRWTkdxM2JRZ1R6dU5Ub2laMGZscGJfdGl0QUxvYUxQaDVGQ2xFdzhRNEVTMGxzNTFPXy03RHRTeTFxa0VVWFVfNUNFaTBIQkNlZlVQYmZ2WTBmbW5hTy1BSUxMRzR5ZzlaRkVkR1AwdzczaVF5WGg2aVR4T1Zwemk5Y0NRWHlsNE1sWXc?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi takes charge as HDFC Bank CEO and MD",
+      "source": "Exchange4Media",
+      "published_utc": "2026-10-27T10:53:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSTlKZzN1NFZDMVNmMGlJa3BwVVc5b0d0VXNGSVRzMWRQOVh4cXFpc1g2ZGMyYk9Sd1Q4YkdlYVpla3JrSUg2d3lnS0FRTk1QMUtvOHRPYnlsd1VmOE9rMzgyaDlIdnZab0VQSzlhTnZYMEFMOU1pZWRIY0wyR0ZXWUx2enhqc2RfRFNfdXc5ZXY4aHJEZmtSY1lRXzhheFYwcW9mcFlhWWIycjNjYldLRDZR?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi has an unenviable task at the top of HDFC Bank",
+      "source": "The Week",
+      "published_utc": "2026-10-27T10:42:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOS1rcHVXZ3E1NUhJQ1c4N09DaVl3TmgtclBDQVZkUG5UVmhjSnhSTVRxUTZ6bG5QNGxjRnV3MF9GdWE5ZDlBaUVJT3l0YnR5RzdTTm8wdy1fejFiNzdrRGtmajF2SUk2eWJNSXhRZ05lLU5QVUtZWnJLaDNjak5NeVdqV1fSAYoBQVVfeXFMUFhNa3QwWVdSMk04X3VYbjN4Y3pkN3ZQVmFZVW9ydFhhYV9pSnhBNlRGN2RfaUpfc0tucVI5RzlBd3BnNkN1Q3BRMGhPeWZONTU1WGtram41QTZwZFl4TGtXc2ppd0l3U2dBWkd3SHJXTzBDbTRhMFJlX2c5c0NXcEpPTmt3TmFuNC1n?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank falls Tuesday, outperforms competitors",
+      "source": "MarketWatch",
+      "published_utc": "2026-10-27T10:32:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1RsZmtQdS12VUhkX1dfTWRtSUNRc2ppSmhwd1N5Z3Y3NVViMUZMZGxfZ1ZpWXhKSmNTd3NmTXczZVRxX3VPQVlXS09KYjhDZV8zbk1rYi01ZVpHVXBQaTdMRjR6Qkl2VDJjdkZVVHRleGVLZzh0d0tuN2U5M2xDUnFLLTk3SXg2bW5QU1N3emEyelRCci1wYzJpRmlnczc4T0pvM0NzTQ?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank leadership change: Anup Bagchi takes over from Sashidhar Jagdishan as MD & CEO",
+      "source": "BMI",
+      "published_utc": "2026-10-27T09:10:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdlZldkl6UTBBZ2hRTzIyV1dwMGoxOW1YUTNZTW13YmtIanVyN0RCYVZBYU5sUlNfOXFmM1BhN0dxTDlxYnZ2YU11VTVNdXhkWDdmamtoZmxoUW1nZzNnaThYWW5tSnZvZnJuQWFPYllaQlUwUGhGeHp1dGEzRk5GM2JxYjY2a1ZFMDhGSF82YjZzY3R6NzMyZ1gwamowcjRSZ211NjVrR3c2bHNSUDl6bVVudFpZcTFGdXFBM0ZyT29mejZYUkczd1MwcEgxdU9PMWprZVlkdllpRmpYVG50UzloT2_SAeQBQVVfeXFMTnZWZXZJelEwQWdoUU8yMldXcDBqMTltWFEzWU1td2JrSGp1cjdEQmFWQWFObFJTXzlxZjNQYTdHcUw5cWJ2dmFNdVU1TXV4ZFg3ZmpraGZsaFFtZ2czZ2k4WFlubUp2b2ZybkFhT2JZWkJVMFBoRnh6dXRhM0ZORjNicWI2NmtWRTA4RkhfNmI2c2N0ejczMmdYMGpqMHI0UmdtdTY1a0d3NmxzUlA5em1VbnRaWXExRnVxQTNGck9vZno2WFJHM3dTMHBIMXVPTzFqa2VZZHZZaUZqWFRudFM5aE9v?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "PSU vs private banks: The real story behind the Q2 divergence",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-27T08:54:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOcml4X3FadzlaQVdXYnJnY1VpSHc3S1l4VGF5dnRjdWc2dm1xR0JXbGdIX0tEcWp6NEhadXlVT1JkRWdVZExMc19QaDZtZFFrTFVYQW1jQjROMmNVcTRwZjdrOEh6dkpGcWdLcnE2SFhTclotUEVnWTM5RUw3WnlBZmpqRFl6YXQzaXA2d0lXVElTeXV1YVRKVlp6UjU0NG9xTi1uVzJRd0ptZ3VLdlFucDNsbUVLODJCaWRFU3V3dVN6V3JOZUhHc0cxS051ZlhETEFJVlpOOTRycUg1cDJuVmtkVDJjaDZrLWFuczc5TnBpaUE0S1pXMWJlYlhDdm55RUdwSW5xZl9EZ0FhdUk3all1d3hZRkF2X283TGFpOUF4NUU0TGU2Sk93TFpNTlFFR1FVdGQyY0gzU2JUS1BYVTRWSExGWExpOVZ5MlNPd2VoX1VB0gHaAkFVX3lxTFBLMzd2aGl2RzY4b3IyLXJYeDJ5T0FYcTFlSzZtVExXS3paaHVURHFmdzQ2UjRHUzVSZHNfcmdhZi1yemNqZmpQTENYc21LYkwxRGc1OVo3WE94bnVNN3MwQUgtOFNkejQtaDFmSFo5RENEVjBHdFlLdHNZLVhoT2YxazY5SEJDNTB1WE9lX2UxNVVSUUpTRnpMU0MwSkhpMF9JcU96dlNkYnNGOS16Zml4ejlOZnJWUXptSkt4OXphaEYtSmJYTVNFZEhaWlk4cFd2ZzVvM0Rzc0lpQWhLX3lrT1gyNnhRVFhTNmN2MUgzLU85ZENzczNyUUlKbzdHVDcyX1g4X1hSVWM0WUVQZjNJbkRacncxZzUwWDR1d1B4ZzNJSTV1ZFBXampSeGdGcTAybkxWaWdfb1FPWktJQUpVd3FzQkVNT1FCMTNCZXZybFNKSWY4RDlZbmc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.576,
+    "strength": 0.951,
+    "material_count": 4,
+    "view": 0.547
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-10-29T11:02:18.437450+00:00"
+}

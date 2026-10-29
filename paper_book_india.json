@@ -9,7 +9,7 @@
     "ITC.NS"
   ],
   "sleeve": 2000.0,
-  "cash": 5957.824070092023,
+  "cash": 5958.573806291609,
   "positions": {
     "ICICIBANK.NS": {
       "qty": 1,
@@ -32,9 +32,9 @@
     {
       "symbol": "ICICIBANK.NS",
       "action": "TARGET",
-      "target_value": 1990.85,
-      "reason": "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target; news supportive (+0.44, trusted 24%); trend supportive (+0.28, trusted 27%)",
-      "queued_on": "2026-10-28"
+      "target_value": 2000.26,
+      "reason": "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target; news supportive (+0.55, trusted 23%); trend supportive (+0.35, trusted 27%)",
+      "queued_on": "2026-10-29"
     }
   ],
   "trades": [
@@ -260,10 +260,17 @@
       "benchmark_equity": 9839.99,
       "cash": 5957.82,
       "holdings": 4
+    },
+    {
+      "date": "2026-10-29",
+      "equity": 10001.3,
+      "benchmark_equity": 9925.89,
+      "cash": 5958.57,
+      "holdings": 4
     }
   ],
   "benchmark": {
-    "cash": 81.29087589334465,
+    "cash": 81.30110558654073,
     "positions": {
       "HDFCBANK.NS": {
         "qty": 2,
@@ -289,7 +296,7 @@
     "started": true,
     "started_on": "2026-09-24"
   },
-  "cash_accrued_through": "2026-10-28",
-  "last_session": "2026-10-28",
-  "last_run_utc": "2026-10-28T10:45:23.205152+00:00"
+  "cash_accrued_through": "2026-10-29",
+  "last_session": "2026-10-29",
+  "last_run_utc": "2026-10-29T11:02:25.061495+00:00"
 }

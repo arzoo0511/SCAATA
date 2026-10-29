@@ -1,0 +1,414 @@
+{
+  "symbol": "IOC.NS",
+  "date": "2026-10-29",
+  "headlines": [
+    {
+      "title": "SealTech International's Raju Mishra Awarded Honorary Doctorate in Oil & Gas Engineering by Dunster Business School",
+      "source": "SMEStreet",
+      "published_utc": "2026-10-29T07:20:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeVhkcThkSUxjN2VEeU5MZFdLUmRoNWlYY1g3dDRDZFlDb2E5eGdWR3NwdnRPUmRxbnMzX3VVU3JRUWd3Yktlcll1QjdFSHlpbjNOM212TTNMdUlNNXRYdGphSHNCc3cwc3duWHRwN1JiNW5LcFFEM2JpLTROWVhiT0lrVUdsZE1pbjk5TXh4OVZxbWVaOUNJQ3IyRTQzREk1NEV3MGlPWkI3dFJmVnhuRUt5bU01dXJlTnpfUUg5Ty1HekgyYm0teFN1b3lyakYxQ1NqOWJZUDBoZlphRUdlVjJhZWRLOTl4NEk4bkJGRlAwU2NS0gH0AUFVX3lxTFB5WGRxOGRJTGM3ZUR5TkxkV0tSZGg1aVhjWDd0NENkWUNvYTl4Z1ZHc3B2dE9SZHFuczNfdVVTclFRZ3diS2VyWXVCN0VIeWluM04zbXZNM0x1SU01dFh0amFIc0JzdzBzd25YdHA3UmI1bktwUUQzYmktNE5ZWGJPSWtVR2xkTWluOTlNeHg5VnFtZVo5Q0lDcjJFNDNESTU0RXcwaU9aQjd0UmZWeG5FS3ltTTV1cmVOel9RSDlPLUd6SDJibS14U3VveXJqRjFDU2o5YllQMGhmWmFFR2VWMmFlZEs5OXg0SThuQkZGUDBTY1I?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Gas Cylinder New Rules: What Happens If You Miss August 16 e-KYC Deadline For Indane Gas, HP Gas, Bharat Gas?",
+      "source": "Goodreturns",
+      "published_utc": "2026-10-28T15:25:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYzd4VW9QOXZxczJQQmZMQUg4T0ZFdWpOOFFFZ202bEMxUVZiSjFUY2dMTmd0QkFrSmNrUWpHbTltazl4LUtSM0c3V0Y5TTU2b2RSbDE4ZElzZ3I4MC1fSlFINUFTZXhVRWp0V0hrOVh2VURuck9Ranh6eVRiN3h1bGhncnFMT3ZoOVk0SGZtdnlyZ29pTERYWHJNczhxM2VzWGVUZEtFZVVpMlVHLXdkTktXTVQxVjBQTlNpd0pLZW90d2N6c1E4NGxGeVFhR1lqenM0alUxc2hHVWFNWEZqY2ZGZUZMU1VFbEVhZWR3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Hindustan Petroleum Corp Share Price - Live NSE: HINDPETRO Stock Price & Chart",
+      "source": "Upstox",
+      "published_utc": "2026-10-28T14:40:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBycFVJWlFyNk9sdVl0eENRNmg3aE5KRG9fMW0xWnp1YUplc3hScndnSC0zWUJXdjR5SUlqbkdnOFRmU1RkbE1UYnhLNnFrWnpwX2FUUWtyV3Q2Qk0zcDZ0VnhWVmNoYmhJbHBxZGU2X3U?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian Oil Corporation Limited (IOC.NS) stock price, news, quote and history",
+      "source": "Yahoo Finance Singapore",
+      "published_utc": "2026-10-28T11:45:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96NGNHRU9YQXRlcnQtWGh6OUVrWlNySUx3Y3FIeGRzWDE5Z281Qm5tQi1sZHFUVUJMWmE5NmR4N0M4NkN2ZmU0SW12eXR6bFVnQ3hrNg?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "India needs to build up shipping capacity to cash in on cheap crude, IOC chairman says",
+      "source": "ET Infra",
+      "published_utc": "2026-10-28T10:53:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNHM1NkRTZ1pQNUprZEdlb09BTmloN3VmZDVKdkRyQ0xQSVdrci1HNml6TnI1NERWMzR5dTFKM3Q5WTJNa3RfWDE3Y1BUNGhNSVlYTHgwNUJlQ293NllkN1A4cENwMXVxYVBDVkJuYWRKVElpN0o5TDFjRXNwZXJKZkUxT3VVc2hsUC1pcHZ1Nkh0eEFMNGs5S1dLMEZWdnFPOVNlR0hsUkFPUWV1SWF2RnU4dzVhRWVfWEdGdG10WGJUQmdIZmRIWC10ajB5TzFhR0xNOERaWklSLXU3aTZTSVQ4UGdYUTBwMERjVHM1cTl4cTZBN19BZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "India to Establish National Hydrocarbon Technology Hub to Boost Oil & Gas R&D",
+      "source": "Lokmat Times",
+      "published_utc": "2026-10-28T09:38:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWhBQWZ1dXNCSXJPV1JldU9RcElBYTFTLTVMV011YU10WVFKS3RQenR2MG1tTnQ3enI1LTBZUVRFWGlDRmM1RXJSdXNOeEVkMmxET05VUVp3VTBsYzR3MV90TkVhZERPN1h1M0tYemJiSExNYXIzd0x6ZTJQYU9paW9OSzdWalZUZi11MWRINXphN0dQNVAtbHRfTWhsWGpzQmtpR1g0VGR2ZFBYaC1XUUN3bjBLRE1FREFRd2ln0gHDAUFVX3lxTE1VZERFczMzWThfMkdFb3ZzbmxqQ2VJcElUQl9hYzBQY3NJMDQ2ck1jZWtOblFyUWJMQjFBUTNZWjktbDJ5YkxSb1JNRnNIU253UEhMVVpiTjJzZEVkYVNxR2tEVVVwbEVjS19DUDl1UEJSQ1Rxemx0U1Nfd2JkYnZnak1KeFd4RDBka0J2MzZiTVZBSmc0bmIwdFZxNlN1U1BKZ2xUTzJIbGdTOENTV2FYQnc1MW9yb213dE5SdGI0WlNNSQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian gasoline demand to peak by 2035 as EVs, ethanol blending gain ground: IOC chairman",
+      "source": "Business Today",
+      "published_utc": "2026-10-28T09:35:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVHFkdk1PN0ZaQ3BCVE5RdkhkaEV6em1qYjV1UjFUUlluZWhkQVdBSVd5emtOZ3g5NTFwWG9YWnJibEl3U1FxUV9EZGhpQ0tISDVSVzhvRWNLMGE4MldnZ0RtMUFaUWhBNHVQbWVwYVZOVk80SV9OSUFYX1llMThZdnFIakdiY0UxanMzeGJOcTNJdEhXbV9sb1RQc0t1M3RlRGVuRmpfVXk0TDZ1ZFZQRUxTaFY4ZGpENU40VFVWaXp6RWxuYnFMbXNOUHFNZE5xTGFraVhNM08yRVRnbmpnTXBDZUNydFNEbjRpdllR0gHzAUFVX3lxTE80bFhYT1hFbDRJMVJWSWRMUTkwUGdPeFBmOE1FbzNiRnl6dEdUekVxRGdFMExfVE9pdXh1WVJ6d2Q5UlZabVF2aFUzdGN0eTh3RWhiZGJvWUJfVlltcmEwanV5OFNocEZ4YUhCS2NrR3RvWTJJX1p0enFJMHJ3NFdZeHZnS3RLMEI4MHNrSHNta3NiZXFGU25Sang4cGltcnY4Y1BtQXlTQnMzdEZBYnQ0RF93cW1wb3NUVGVaWllHTXJjSDlabWpWY2VVTnRHcERqUkRvRnJ4S3BZRjNuUnl0STBJNGVlZzU5M0lJZXhqeFlPWQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Why the world is chasing Indian diesel more than AI chips",
+      "source": "The Financial Express",
+      "published_utc": "2026-10-28T08:57:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVItVk9neWpnamRnR0VQSS0tMVpIYkpzQzJZUDZTTTZ5RjJaWFZCYm9aSUNoTDhUYmdlZ0ktc3hzMWlNa2J6cTdoUjNCTC1YMnYxdGZnVGl4aDNKaG13RUo3RUNqWEFoaDBMdFhQN1R4M284WGZENjdScEV4ekR5Z3FuUVZZdUV2aF9mWnR3YmlnRTE3UHM1ejBJRWhiMmMzbTdtUGkxcGM3TWs0aTl30gG2AUFVX3lxTE1zY3lWRV8yX2F3UTJOd3Q1WVhVZjVZZmYxajV4NWNIcHNCdnNRQ19GMmNpSTRJelFrYXREUzNCVXdJTzBKeFpZWGRNa2c3UnBmd2xmQnVaUV9CV2Y5d2hNMDl5N3FYVm02TWstbC1RakdtcjlvSWxxTndpUUhpVEdxWE4xeWNKYXVsbGdhbUM5OV9HcmtFcXQweF9aeTJ6R2Z5eHdjQjZiYkJTMmF5N0tXclRyMVRB?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian Oil Corporation - TCS, Vedanta among 10 companies offering dividend yield of up to 7%. Do you own any?",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-28T07:29:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSG5JNW9zc0poZkhxYmZuZHpxVHhnbE5oX0NUM1NtWUd4WnY1RXdtc0JjLXZ2M2RPZjVlWThDcHZ1MmxrMUQzc0RaNXlqV2lZeEgtazJSdjJwVHM3bm4zMy0wV0FwSkdyaEFSRjR4MW5YcDMzcm5hUzJ2UmZ4eUVzR3lDLXJMcG41Nk5fZ3JrN1k4RXVxNGxJNnJFc1ZsNkN1bGZmRzN3X0tpVS1KZFJfSDhVSzFTMHE0MU5zMTUwMV9Jck54VW9nSFZiVnd4a1QxWHZaeXA5NW9wcmk0S3V5dHNqZllnYnlfeGc0OTgtLTczbjFiM203Mlc1d2Z5dE1EeWh4Ul9n?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "BPCL, Indian Oil, HPCL: Oil-sensitive stocks fall as crude oil prices jump 2% to $116/barrel; Nifty Oil & Gas down 2.2%",
+      "source": "Upstox",
+      "published_utc": "2026-10-28T07:18:41+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMFVKSEc3cWZZS3Y2NGZDdC1leEJUWDQzZTd3cnRoVlBLQ3ZFQ2hBckJ4VFVxYkN5M2k1VjhzbDZZTm9pZkZEVEFaTmprbWhJenltZzNEY3RPc09pMHIzNFR5d0Z0YzdmeGZ5VGdKNmZ0QkJnZk81VV9vVGxJYUdsOEJ4RmkzZGNkbjZISVZFX3p5ek9LNnhRTUZkLThmNllrcmV5bDdGRE82WmY3aGR5SHBmd1BfUk9qWW5qSmVvcGQwSUM3cWZkX0x3RzlOanRRWnl2ZWdpc29xT29CeEpiV2xubFZMdlNSV0pFajhla2pJbkpEN0wtVndCVTVQT1lHa0Yw?oc=5",
+      "relevant": true,
+      "sentiment": -0.3,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian gasoline demand to peak by 2035, says top refiner Indian Oil",
+      "source": "BusinessLine",
+      "published_utc": "2026-10-28T07:11:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTlVvU2U4R3ZPbFJFd0g3YnlJMUtFbUxRZ19sUUhSNzJhSlNxRXV3bUhnOWFKSjhldjkzYmJQbHBWbDNfZGNuUnRkb253cVN3bllSbXlGVjZ4eTR1V1V3WXNKNFpuN3RoX3JmSWFNaGw0dFhyS213ZFJZb2ptMzNMRl93bXN2ckxGSDQxMGFtWGFaUmpLcFpfclBfcVYyc250Q0w3bFBfS0w0aU5lZ3FaVVRuclAyN3VWSk9lNEdsYm9TRnJIR25VUnZJSklxRXdWdUk3N1h1YUlGMnfSAeIBQVVfeXFMT3ZnM3dMdkhCb3JhYTVYY2wxTk9hYzNXZl9xYUg3OV82d1VJTm92RmpLMzNoc2NlZndrYVFJVTdhR2E0YkpocmxGalVPMFFrVklBTS1YRzNtaUFlODIzQ3J4SmpaSjBXUFRlN0h4ZWR3ek5ELW5McVBaNDk5TThhd2RScy1VREZ0QnhaX3RnX1lCNVpqejhDUEl4by0zbHhuaDZZWGkyMTByQ3FMOHZ2dHpVaDFUZUg5N3llTmM2UkxrOHhFZFE0ZkVVMkEyaTNReTd1N09OdVEzZWJxdDhlRFlGUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "IOC Contemplates Domestic Tanker Fleet as High Freight Costs Erode Crude Oil Discounts",
+      "source": "Indian PSU",
+      "published_utc": "2026-10-28T05:18:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nQXVrellCVDRBaGh5ajVZTXAzVDJJU2hfUHVrcmFTbzJORkhWVHJ0MlNRMzJPVVp0NUphWmRhUUVKeTlJeXdrTEZHbjR2WXFwRFNwdV81NUJzNlA3UDM0QV9FNVotclpfVXdyaGY5aw?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian Oil Pipelines HQ Observes Vigilance Week, Promotes Integrity",
+      "source": "Pratidin Time",
+      "published_utc": "2026-10-28T04:28:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTlI3eXVsMzEwSHNmdGswRWhWa3NaM2hhOC1ZaERoMFhIX0dRNnROVTd1OFd4bkJJaUlvQUVfSmVPZDlQTHZ3MmpWQnAxeEFpczEwN3RaYm41NDg4MmdBNUNrNGhFOFRIWHdzR1lhYUhBSUpmR001UV93SjhuOW9Yc1BlbmZKcXJrVXJITjFDNnk1WEJyR1dsNC1ZYzBtMk9Rb0RTUXNRU1JiYnJ2VkxFZVFtbVQyaHltVGVKaFN3b1ZRY1EtQjJrRDdnbENCUy1tTFZ1alRYX1ltQdIB2gFBVV95cUxNTlI3eXVsMzEwSHNmdGswRWhWa3NaM2hhOC1ZaERoMFhIX0dRNnROVTd1OFd4bkJJaUlvQUVfSmVPZDlQTHZ3MmpWQnAxeEFpczEwN3RaYm41NDg4MmdBNUNrNGhFOFRIWHdzR1lhYUhBSUpmR001UV93SjhuOW9Yc1BlbmZKcXJrVXJITjFDNnk1WEJyR1dsNC1ZYzBtMk9Rb0RTUXNRU1JiYnJ2VkxFZVFtbVQyaHltVGVKaFN3b1ZRY1EtQjJrRDdnbENCUy1tTFZ1alRYX1ltQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Odisha: Unrest at Indian Oil refinery as workers stage protest over wage revision, dues",
+      "source": "The New Indian Express",
+      "published_utc": "2026-10-28T03:38:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOVBxYk5BM0hCOFF3UXFzY1hMVy1MOHRUbklwWHllZmNzT0tYMWw1Y0wxOEhpVG9vSExDX25uamtSMHY3Nm1DUkdZTjJwcHpZQ0N0cmVmRGd3bk5GVWJ1emJkZWw3WnBtcXFSbFpYbVpURzRvTnNITmN6bzBUZ2VsYWpMdThyR0hRSUxPTVNqYnIybFdpZXFKdnBuRF9LQ2lSa2lnT21rZW1FdnMxS2I2bGhhRDQxdXViVDV0U3dQZDJqc3BKczJoQ011VE1aSTVFbzlpRVRjTkZ5UU450gHqAUFVX3lxTE44ZmVlSHJhM2o2TDNXUG1HUWlhRHhOZEp4OXdZSGRIc0E4d1ZHUHlaYXQtQ0NuZzhnUk1GT2ZkcHFzMzc2NlZ6LWc2THpDQ2VhLUJoQUtrVVFmMDE0akhIV29RRE5iTjd5VUxrN09aTjhyOFpwQl9UdWs2Y09PM3FRSkdqaTZkUkZISEJoUllPNi0yb282TXM1VlktYUU4NmVvblRpNkZ6RlRWR21NU0lCSUlhZkFiX3BfZVhYMDR3bGZJSDhKMjFyZFRuVE5NSVdxcHJuYXdRRVllNHBTMXVMUGN5NV96ZTFoUQ?oc=5",
+      "relevant": true,
+      "sentiment": -0.4,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "IOC Chairman Calls for India to Expand Shipping Fleet for Oil",
+      "source": "illustrated Daily News",
+      "published_utc": "2026-10-28T00:43:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEpoODd4LUNDc3pmTFV4dGwtZXhYbUZUbTkxUmI2MG5TRXRNQVVWNUFaNUlrekdwSmJ3YmQtZndscktmdkNuWGJCblV2RFd3TlhWZVdlYUMyV01lc25CNWJTaHhqVTRiZ3FOMjZMdzVVOEg2Wk1yMzl0Z3ZjMy1zbmhfbExNLVd2a3B1akw0bVU2dnBBTjk2SnNwaHBKai04dkFVaGkxNlV5cWdMZExOM3V4ZW7SAboBQVVfeXFMTW14dkdpdm94cEZWSm5VZWVhWkNteGl0cFhDMjE4OXVlVmpuRUdCTVU4RnoxX3pROGRzcDhCNk44cTZpUlRXamZSTWU3bUwtUUltN3JnOTVGMmRjT0FoMGptUGRIVVRjQ242QkV3TjhhRHdpUV9sQWdiMzJROXREWEJXaTNFaFNRamVlRHJfUDVnUGh1N3Z3anBJRVVrLUcwTl9LRHU1b2p0RVNyell3X1JPR1VZdDFmN0tR?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Lack of crude tankers undermines India's discounted oil advantage, exec says",
+      "source": "Baird Maritime",
+      "published_utc": "2026-10-27T18:48:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDV3QWJ3bG9qVkt3c0NaNVBYN1ZORTVrTGFKV3RULUp2Yzh4NGJGaTh1WHZxQlJjaHB0d2JrcmZlX2NrSDNCanFoVkV2RlZoMGtJQ1NvUFd0WjZINVdzMGFmWm5aS1dqTmNEX2JSdGxaQWw1MTJtWGg3WnRZM2xIeXRyTGY1eXE3RnVpM01NQXhqVWxFUllwMWh4MXhSVVkzTzQtZzJPbWhIUmdhdm44SUNnQnV2T2N2XzZKdzlYbGVTeXBNRjZrSm9SY9IBywFBVV95cUxPeDV3QWJ3bG9qVkt3c0NaNVBYN1ZORTVrTGFKV3RULUp2Yzh4NGJGaTh1WHZxQlJjaHB0d2JrcmZlX2NrSDNCanFoVkV2RlZoMGtJQ1NvUFd0WjZINVdzMGFmWm5aS1dqTmNEX2JSdGxaQWw1MTJtWGg3WnRZM2xIeXRyTGY1eXE3RnVpM01NQXhqVWxFUllwMWh4MXhSVVkzTzQtZzJPbWhIUmdhdm44SUNnQnV2T2N2XzZKdzlYbGVTeXBNRjZrSm9SYw?oc=5",
+      "relevant": true,
+      "sentiment": -0.3,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian Oil Corporation in focus as global oil prices ease during the results season (NSE:IOC)",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-27T18:11:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYUxnTDRkSHJKUjA0WEpkbjZjQ25ZZ1RJa2pUQzFvSjhUOW9Rb3BtZHV2REtITjFNYWVUOEJ1ZVBINGN1WUpjcHQyV0JUNGJISWRaSDlmM0NGWVVnYnhLVEhwa1o3SUU1NVRHR2Q3WFhrd2V2WWVJTEVpNzF3ZVRJQlpkaktvUnFvTTVRQy1uckg4V0tseEhPMXFvakw4dUxwakhoNlFyUFdlYm82OUhyU3JKUTJQUkIySU5NdzlsaGEyckdEcW1YbUs0cw?oc=5",
+      "relevant": true,
+      "sentiment": 0.1,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "India to Add 15 Mtpa of Diesel Production Capacity",
+      "source": "Egypt Oil & Gas",
+      "published_utc": "2026-10-27T17:09:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbVUxRjNxXzl4R1RnVC1Sc0xsU2RPeFlkeXc3VktXSGc3aHlteUZXcnd0czUxeVBGMi1paG5qdFVKWm1kSDhER0VuNEZkbHdUbkF4T0FXT1BnSlFFd19TRnFLdjdRUG9nSU1GNHhycUtBT0VFMGxDWVlabDdYakx5c1BfQ3JPNDRf?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian Oil's petrochemical expansion faces margin, energy security risks: IEEFA",
+      "source": "ET EnergyWorld",
+      "published_utc": "2026-10-27T14:30:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYXprWGZjY1R3LTBjMm5rb0dBSjR6eTI4SWl1NjFGdHhYc3FCNW1xODNZd0RzWExKRDR3VUh0bEVaNmtYV0Y5RzRTbF9HX0tadHU2VUFZU0ppM2lGdnBPQUZrdDE0Z1E2NEQ5TDB3UUdYbmxzWl9PUFRWMnZ2d0FRMWItcEhxNVBlTXhCQTRDbk5sdXFLcHdEYlZVeFFNUFRYeUhtb1FCTXB5ZW1malhJekdjcU9na19RYVNhRzI2MFI3OFVOVmlTaTZCc3ZPWlNCVGNZWktYUXBOaGhkNGxLQtIB5gFBVV95cUxPOHRHREFueUZuWThVWGk5Y1l6YkxDRVBxS0ZhZjdhY3Fra0hWQlA5V3BuRU5Ga21uaEdCZWtlNGlIY0NaYVJUNG5WUmh2ZnV0U2Vjd056VDdBQi1wTFRYN3B0WUFtTTFacDh1dExJN2pOTjRIeU5ocXRjMGpkelN3VzcwS3hfemNFcUp6cmFBZDZVT2IyTHZSTG1VMWItQ096clNpeGZaZjVhck5LdDFKdnlrZ3ZlaXRQckpKOE5ERVhOeXFvSnNtUTRrTlZLbGI3Z0F2ZDFPSVlIWFJ6a0djT1FoWnFJdw?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "'India Under No Pressure To Stop Buying Russian Oil': Minister Hardeep Puri",
+      "source": "NDTV",
+      "published_utc": "2026-10-27T12:24:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVE1hZFFwY1JVTXBlMFpWNE9JMU5ncGF3V3gybmdhMGVCREVkRTdQYXQ1MVJwVnJiSmdyT1FtaXdaRjNkeFBUem5LMHR1TXkwczJSQkppZy1wNnVFNlNQQXdONUwxX1RjeWF4UTNVeHZZTHBCbEdLRklYbjhMaURGYlhuZHlPeXcwcF9xRTdNbUR1SEZZbmt0d1lSMGtZTXp6OWpXN3RaZlNMT1QzcUliRHBFZFVOSlVIaFdR0gHDAUFVX3lxTE5CSThiS05kQ0JXV3BBUDloLUJxcTBXRzFaSU4zMEJ0QkpsWjMyNmE2YzhvWlJsV01YdlZvNUp3QUNhMGowb1p5Q1ZPbGdieUV0NG1RVnV6WjNkRVI1YzV1Wk5zbFJOWDJfZHl3LU43Y1VHaDR3WENkc0ZWbGZOWTlzSkpCT2hDLTNRaHlHa21DeHV3MU1UYjNiYUtiRVJxUEFnM0NCZUFWc1ZPSFM2VWhBeXlKVWl4MU5BSW5XRllRU0RQVQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "India Denies US Pressure to Reduce Russian Oil Imports",
+      "source": "NewzTodays",
+      "published_utc": "2026-10-27T11:48:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHY4cmxaT0dKRE9sSy1GRTRMQWJHY0VlY2FOR0loMEdmWDBZR2VfUGpvRFFNMGh0T1VKVEVrX21HWTdKZlhlYWxDU1V5UUtFd2t2bFFTZjUtakI0VEs5Q28ydDVQdzNhQUxsbGk5WXJ3dzV4d2R3dWJsY3FWYmhrcldRczE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "PNGRB and GAIL Launch First National Sustainability Conference for India\u2019s Oil and Gas Sector",
+      "source": "Indian Masterminds",
+      "published_utc": "2026-10-27T11:02:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0ZHVW1XTnhiRXVjNjQtZHNTQVB6WVNLOE5LMFRMUFpBV19KTmFPWW1nTnZKNTZvTXB1VERRV1N0a05BNUdxUUNNWXpWWVlsUkhBNF9MLUM0Y2tHVWc2cVFJM2labkRXVXZrazBpZGxCQUJrdzhvWmZUN0gteWQ3TlRiWUxhVW8zNk51UEtOMGltUnpiYW9qc0dweC1JOFBDRUFfTE1R?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "India Says US Has Not Pressured It to Cut Russian Oil Imports",
+      "source": "Egypt Oil & Gas",
+      "published_utc": "2026-10-27T10:44:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZzZoNlBPRW1jSHFQT0x3di02UjktUk9LcEtRaTJwMDUza3NIOThwb3hFNU9FWHZVMGtnMDdQeDdwWnRqOFdkNGZ4NW13ZlV6SWtGdDQ2ZENYc1VjWFJINFRjekg0LTZ6MlJBdUF3X2NSNC1WdFFmai1GRGU5M2t2UFhhaWVaRXIwQ3VySGtodVZLZXU1bTQw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "India seeks bigger share of diesel exports on refining capacity boom",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-27T10:19:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUljOFhSMl8zRzFmVS1QUHZKMU5iYTdGYXQzT0FEYldsNVVkR0l2Y3JWd0JWM1VyRlFVOXBuYlpuOGwzd0hjMDJLRF8wamhMUnc5TXB3VlFuSndmN1BDVGRoWVpmdl9tUzQ1aVJhSlRKMGh1Ump6NXRxaGxueG9YNzhoblNXMXREQU1tRmVEU2Vtc1ZfQ1YtREQ4OUppSmkzSEdtbFpYOGNqTkFWMWFsRWhTamFfcHl4NW5FbjZiWkRfX1JWQm1DUVh6TGx3STFUb0xuOUJwX2tVZ1hCVFFFSVpkdEnSAeQBQVVfeXFMUDlJYzhYUjJfM0cxZlUtUFB2SjFOYmE3RmF0M09BRGJXbDVVZEdJdmNyVndCVjNVckZRVTlwbmJabjhsM3dIYzAyS0RfMGpoTFJ3OU1wd1ZRbkp3ZjdQQ1RkaFlaZnZfbVM0NWlSYUpUSjBodVJqejV0cWhsbnhvWDc4aG5TVzF0REFNbUZlRFNlbXNWX0NWLUREODlKaUppM0hHbWxaWDhjak5BVjFhbEVoU2phX3B5eDVuRW42YlpEX19SVkJtQ1FYekxsd0kxVG9MbjlCcF9rVWdYQlRRRUlaZHRJ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "India\u2019s Oil Buyers Hurt by $123 Crude and Rupee Weakness",
+      "source": "NewzTodays",
+      "published_utc": "2026-10-27T08:49:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVndWMEd3Sk0wYkFXLXc0UEpMMVA3a1dVVV9JazFaVlhuWE8tdUtFUkRpZjlkZzVQVDNsVjZWamt4M1kxNmxfekpzTWNkeW5QYlpTTVprTDBHVVR3V3dRWVlZeUFDMEJMRTN4WWlaV3FnM25tSFpTT2U2b1BILXVmNUdpYmE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian Oil buys 3 million barrels of Iraqi Basrah crude via tender, trade sources say",
+      "source": "Oil & Gas Middle East",
+      "published_utc": "2026-10-27T07:36:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRbkJYandwLTFWWi16LVV0c29Yd3lRUHQ5c3BFYTNhQjBIb3NVc2NzOUk5X0RPUVVMXzJDOXROaVZCMUk3S3Qtd1NmVUNjcXFHd1IzQkRRN3RiM1ZPb1pESkhvdHROUUluYmhyN25tQ0hiUWc1bk1XdTFB?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "India's Oil Buyers Squeezed by $123 Crude and Weak Rupee",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "published_utc": "2026-10-27T07:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZjhZX01vMFpBakxXZXNxYUREdXRkTmRNZC1qaVQ3NENPenQ5bGtQUmZmS2lVeUlRQUFka1FFZEdhSkkwTndIaFVXV0ZwT0s4bmdjWHNDdTBROWRUaFRxanU3QVI5aEYxdUk1b1BQdm1HTHA4dl82YzhQclNMaDZnYlF3NnlRb0l3dTFHTkxPWjc4dVl2bFlVMWMtcklNVVAwcjFqMFVKN3gtN2w3MG44UGRkannSAbQBQVVfeXFMT2Y4WV9NbzBaQWpMV2VzcWFERHV0ZE5kTWQtamlUNzRDT3p0OWxrUFJmZktpVXlJUUFBZGtRRWRHYUpJME53SGhVV1dGcE9LOG5nY1hzQ3UwUTlkVGhUcWp1N0FSOWhGMXVJNW9QUHZtR0xwOHZfNmM4UHJTTGg2Z2JRdzZ5UW9Jd3UxR05MT1o3OHVZdmxZVTFjLXJJTVVQMHIxajBVSjd4LTdsNzBuOFBkZGp5?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "No pressure from US to cut Russian oil imports, Indian oil minister says",
+      "source": "Columbus Ledger-Enquirer",
+      "published_utc": "2026-10-27T07:05:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkgzZUsxd1RNNFh5amFTSXpVZkprRkQ5NmRSSk9iSDZlRHA4eXc4WGh3dm15SVVKVlZxalBYVWI4RUNOandRUFB0VEF1YlpvZU9PTjJxaGZFM1NZSkJoN1FSdWFaT00yTm5NV2lNcVFYVi14SzlJS1B4YzdJX1NJRjFPcw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "India Faces No US Pressure to Cut Russian Oil Imports, Minister Says",
+      "source": "PUKmedia \u06cc\u06d5\u06a9\u06ce\u062a\u06cc\u06cc \u0646\u06cc\u0634\u062a\u0645\u0627\u0646\u06cc\u06cc \u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646",
+      "published_utc": "2026-10-27T06:56:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9laFBsb083YVFLMEszQTkxTHhrX2s1MlhsVVFCMXRRQVpjX0N3U1c1NUFiTlczNFZSWEJJYXMtYTFoUjZOVkZCcnpCNWVfdzNfMlNz?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Top dividend yield stocks: Vedanta, Coal India, Indian Oil, BPCL among brokerage's list of companies",
+      "source": "IndiaIPO",
+      "published_utc": "2026-10-27T06:39:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRGYtV0E0b0hsZHAyUlEzTHl0VVJmb1FJYlJPUFRJemhUS2doa1FXaWt1dUs0Q2RXb1JaTDRMQ2lfQ1lQUTF4X1J4NVFDdGpsT2x6TFNyUE9BVTc3NTF0clBTbFZGOVZLd21Xd3VHUGhvenFIZUdESG13bl9FZUtrT1JmNm5COHE3RVNmNzk1R3p3V3BkVkNac09KaUo1ZXV2S1h5XzJXempZRFBXaXUzVmJwN211SDJrMW5pSmx4Ml9iZVdNeTIzeThiaw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Oil Marketing, Crude Producer and City Gas Stocks",
+      "source": "Univest",
+      "published_utc": "2026-10-27T06:33:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNelFST1BiNUlxczBoRG9TcDZuM24zN1lkZGJwVXpMaVlDWlZIaWRFNlhtLTdQcjg1ZHZUMktUWHJrUTRkcXVDM0tyNHYtZVp6bWxrRzdsUjltR1VZM3ZmMXIxaXNkaHBZckQyOXk1bFNqZU1JS3gtMS10bUFxbnpONmlIQVpaVURBNnRFdnByRG0zNk9KR19hSDVDYWJBSHh3NTNmc2xpbWtOTVRQeG9pUWk5UlgzZklQR0FEYVRoVEZLVmxqaGx6V1d0OWlzbXhFVmd4MmdhY3FYR0dYQWc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "India says Washington has not pressured it to cut Russian oil, as refiners weigh costs",
+      "source": "Business Upturn",
+      "published_utc": "2026-10-27T05:53:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNanpVNjFIMWZDSkhnRlhVMkZucWZ4cTRFZ2s1M0FDM0wtU3Y3MEhaS1B2R0R2TjY2cUI2OTA5S2JkYktJWG1oaHhGUU03TVJBZGNTdWpLZHRJSThya2JQbmYtNVBEdjFaZ1VNV2NSMXJoWG1pWGJmbDU0Z29pR1FZN0t1UFAtMXZOQnAxWXl3MGhGdXhqQzVoSVcwQ0Q5NmEzLWtQYlFNaHJ3aG9zTExMYmw4dVhMZzJWRzdveUxfcU8xdw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Crude back at 2012 levels, rupee lifts OMC costs by 86%",
+      "source": "The Financial Express",
+      "published_utc": "2026-10-27T05:16:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlowOEUzMTVkVkFGcjN3Q0ItdWN1bEJJTkI3M2VaTFl1LWQ3bFRaZ0N1YVZSMFNFeHRjZXVtYzNCZWM5Y2dERFdHZm5NdXJjX0hEWU9CQ3BMVDVnMWoydWtDNXRDS2FUTWlkUEpKUUhPYmN5V0F2WHVNVUhYeW51RjAwcEk4OWt6Ykl6eWdEM1J6MG56YmItU3VPSVJCS3ZzQkU0ajhRSDg2NjlTa1HSAbQBQVVfeXFMT1J5UTJYR0QtdWExUFZRcGlYcEgweGFJRW04T05SanRrUGZDaDg3Sk9sTlRsbWZSSnV0SjRYQVR1UVJaLS1WQWhHd2dfSlRpeEp5TGRxREE5T1VnSTBPR1A3TktHZVZNUHd3dllUd3cxVi1WMGk5bTNFX3YzV3VSTmp1MW02SVBzMHBVT0Jsa0tCVFNBTFR3N2lNV3lYOGhjTEFSLUhMNERqc21IcmJMb1Q2cUxi?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian Oil's petrochemical push: Weighing the financial, climate, and energy security risks",
+      "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "published_utc": "2026-10-27T04:32:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTA3RnlScVVPVWY2dkFRc0ZORVZRUkd0T0txWG16V0ozdlgzUnZjRnhpVXRBdVdrdDlJMlhqV1hZT0ZPM1FiSjVwbTRwWGtkel9hWThvM1Z1cnZzcW9uNXRUTW5EUTQtNEpCbHV2cENlVFBuc3o1WUdkR3g1Q3ItSDNwX05ETlQ4S0JzV0I0ZWtjN0lkRlRNR1h3UDBxdS1qZmxBX1NNWS00dlBLZUpYbg?oc=5",
+      "relevant": true,
+      "sentiment": -0.1,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "The grease hunters of Bengaluru want Leftover fryer oil to fuel India\u2019s Jets",
+      "source": "The Economic Times",
+      "published_utc": "2026-10-27T02:37:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLVJ4WHNjS0hyQzRSemtBcERfdlBuNFZUNnhLVU1iOUxmd1Bfd0V2QjR3bVY5TXJzQnNNajhRS2NsZDJhM0lHT0JJZl8zdHM0d1lGQ215R2R3TUxFb1d4OUJEUVRJcmVycURxbmVqMWNRNUFxMTZ5REhPb1Zpc2VFVk5RRnJxTHRjVE9Uak1KZm1rTTRRc3ZTVmtBbjNHUWdrbHBDOHhGODRCbXcyM2tiRU5LVWctblo0QkRQYzc1aGdqTzB4aGdRZXg0a1JtZEo4X3hfVVpJMFJLazFnWDVUY0ZVOVRzandWd05BRDc1Uk1GSUNf0gH6AUFVX3lxTFBYOWFpTF9yUWs4ODNobVZkeExnYWQ3YTRrY1lEN2JGTWRqQVZzU0Fzc283ZHI1Rlh0dmVBOVBnNlpsR09fM1VocE95UFhMRWlWM05raVVqNWpfNWoxb3hucGFOamE4WndFaFpzVjRFR2VlSjZTOHZLd2dfOTczNGxuRm9Ua0MyY1hITmdad25sVi1oSjlCbUM4RmxyeFdWNFFiX3NrTUpmdjhZc0xWb0hrOVRGOEpGZnk2TVhiWUJneGVkYzRPd1VZU1BkbG54TjJOb21ZTXh5bnc2Z1BiWlZYTHA4U2l1bmtsV0RGaTBmYTEtVzg4MjFWMFE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian Oil In View As Crude Import Bill Jumps 46% To $90.6 Billion (NSE:IOC)",
+      "source": "Kalkine India",
+      "published_utc": "2026-10-26T16:52:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMTBkeG5JSEZ6bUVWbTR4UWxaaEpHQ1U3azFMbzlsZERTSjR2ek5TeEtmNVF4NVVCNV9TdXRYTXNwNGZaaFQtVDdhbENrNVdocVJKZ1V0YVNqYzVVcUdoVFQ4UFN0c3NDWGdtclQyZUpjMjFHYVJWNG1WTkQ0M2RyTkZiTDdCckllNDNsNG52RWFyZ2plTnMyeDhaeVpMaEc5cTdvdFdUajRtN04wY1NEZA?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian Oil officers launch series of protests from Oct 23 to demand justice for Mahesh Shelke, officer safety",
+      "source": "PSU Watch",
+      "published_utc": "2026-10-26T15:07:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMzV0MEFieWdIQmYzeE1qVWlNYk1QOGxoaGk4MEhQazZURkZLRDBRQU9mVmVTM2VlckNEejJ2Qm9sRGFoNDVGNjRfdzE5dURlRm95ZlVlOGVMUDBnVzlOVEk2TmJJWkg4cjVMWjdMemZMLVVIVGZHQ2o0a0lFblpMQ0dFNDdLZjlpclZQZGVIaElpLVptd3BKcGdYcU1GTE1RM0lrSXB1TFYwbTVkU25nbzFiQVdGdUpvOWFWOVBpRWdqdktpZWxxcjRKT1RFMG5HRUgwbE5oLWbSAeYBQVVfeXFMTVBfaG9Qd0hhd1lGeU1rLWVGNlpTOFdpMWk5alFZTE9nSTRtYzI2VEJNMVh0TDNRaE43eWRtWHBzMkp0UE1RcVhCNUJOdExwQ2xhV2xVZk9STnNhU3BLakltV1dwUEdwX1JjZ1lFMlh0V0R6RHJpMkJwRFpBemJiZVdDenFfOWdLZlF6VmZobVEwU2NXRXZwdmxhYU1vT2RPWmF6c0NUUy1OYXhOaGZaNEkwSFFzd1ZEV1VuMVN0VmNxX3l3S18yVGVGOTVoQzZkWmYteXF6Rmp2cVVkNE05TTJDakRqSlE?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian Oil observes Vigilance Awareness Week 2026",
+      "source": "PSU Watch",
+      "published_utc": "2026-10-26T14:02:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRFVkOEdXcVFxSVZSZ01XMU5nWlcwNWdialhCdHlIYWk2MVlBLW56UGN3eUw2bkNNV0I4VE9qZ1M4b2U3b29Gem5VV0hHaU9FbVdkMkV4VmJtdHNzdWQtZWlFNU1mdlBkWHlnR0dZd0pncUs1aC1JX3hMTkUxaUdDOWxVZXAzWHR2b0x4Q25R0gGbAUFVX3lxTE90TTQyU21xTnpSMmpUZXlYbXBUbzItb0tVSEJmLU5GcERqMnowZGFKZ3BuZ1lZMjNzUnV4WlE4Ri1oV0tWNlozemRqQm1XY2V2X2NHQlJwLW9vcFhEYlo1XzhtRnBNOHM5TkJhRWdFVVc3WW52UW9CbV9GZ09ka0VMZFhQdHZMS2tQQnp5QlFIQVBjN1dYMGFWc0Fv?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Russian oil has become too expensive for India",
+      "source": "EADaily",
+      "published_utc": "2026-10-26T13:27:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSXh0djMyNVhzSTRCMmxoQWkwQXAtZ0Rmak5NaWRwTmNDS2dEN0dUc2RPaWtlWktpOVhLOFpXVkFtX2pDLUJuNVBzQ19aRS1ncVFLOU54VFhjQ2NqMUE3dktYZWhrRzR2cGRDRUNuYWkxWHk4VE1kLXFSWGZ1cEt5Z0wyN2doT1B3dU1SRWZ1LVphSTjSAZcBQVVfeXFMUFdyUjh2RURqNUEzNW45ZVhTMG5fWEZHUkZ3TFBqUWw5MThKcEJQckhLa003V0c4cm9xX2lCb3ZpT2plcEJyaGFxRVFSZm5hS2NUc3FqZE5aR1NWWEdsN2gtSGswVUg5RnFYWEQ0WGYtNnVJRXhuWl9tdkpDdEQxZHp3ejUxQ3NPY0VqaEFOVkZlb19OSWd3QQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-20b"
+    },
+    {
+      "title": "Indian Oil officer murder: Indian Oil field officer stabbed to death while sealing petrol pump in Maharashtra`s Hingoli",
+      "source": "Mid-Day",
+      "published_utc": "2026-10-26T13:14:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWDllOXJRM2VyLTA5c3gxcmpCOW1YVlR4OVhKZnhwa2FlRXhKaUx4Vkp6c2wxZjlKWUk2WURVbHVDYWV3TVRqVTZobnFyYXlLQXRHNFFaeldGMDMwWkxWejRYbi1sM3dLenU1MWVibWZZeHZmVm9DMGFNZXNhcF8wVW43SVVnZm5CV2hwQmNKWjR6M3N2dzdzYl9QeUdRUnNmSlNmbV9kdkNpeGZXUjFScGR2Z3d2a2stSk81Rm9NRGhJNF92YXBfdDZFZUk1WWIzVHJjQXU5bUdfREl3dmd0MGRvZ3ZKd05GTTB0X3NGSkpWMEE?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-20b"
+    }
+  ],
+  "signal": {
+    "score": -0.022,
+    "strength": 1.0,
+    "material_count": 3,
+    "view": -0.022
+  },
+  "scorer": "openai/gpt-oss-20b",
+  "fetched_utc": "2026-10-29T11:02:23.157135+00:00"
+}

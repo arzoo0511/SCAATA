@@ -1,77 +1,77 @@
 {
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "performance": {
-    "sessions": 23,
+    "sessions": 24,
     "first": "2026-09-24",
-    "last": "2026-10-28",
-    "hansei_return": -0.004572999999999938,
-    "hold_return": -0.016001000000000043,
-    "gap": 0.011428000000000105,
+    "last": "2026-10-29",
+    "hansei_return": 0.00012999999999996348,
+    "hold_return": -0.007411000000000056,
+    "gap": 0.00754100000000002,
     "hansei_max_drawdown": -0.014406887476195673,
     "hold_max_drawdown": -0.026440999999999937,
-    "sessions_ahead": 20,
-    "gap_from_exposure": 0.011930331393807836,
-    "gap_from_selection": -0.0005023313938077312,
-    "average_invested": 0.4078390876836918,
-    "daily_gap_volatility": 0.005625429688377701,
-    "hansei_volatility": 0.08315995497066361,
-    "hold_volatility": 0.16147173329753217,
-    "volatility_ratio": 0.5150124623820742
+    "sessions_ahead": 21,
+    "gap_from_exposure": 0.006907622244187395,
+    "gap_from_selection": 0.0006333777558126252,
+    "average_invested": 0.4076883111694265,
+    "daily_gap_volatility": 0.005575361409521807,
+    "hansei_volatility": 0.08283981492800631,
+    "hold_volatility": 0.1607597561743376,
+    "volatility_ratio": 0.5153019443384189
   },
   "advisors": {
     "5_sessions": {
       "trend": {
-        "judged": 87,
-        "hit_rate": 0.5747126436781609,
-        "correlation": 0.19752962654293443
+        "judged": 92,
+        "hit_rate": 0.5652173913043478,
+        "correlation": 0.18090515952662564
       },
       "volatility": {
-        "judged": 32,
-        "hit_rate": 0.59375,
-        "correlation": 0.07654112888582332
+        "judged": 35,
+        "hit_rate": 0.6,
+        "correlation": 0.043592388674443934
       },
       "momentum": {
-        "judged": 89,
-        "hit_rate": 0.5730337078651685,
-        "correlation": 0.24035921600577
+        "judged": 94,
+        "hit_rate": 0.574468085106383,
+        "correlation": 0.22770698752914836
       },
       "news": {
-        "judged": 71,
-        "hit_rate": 0.4788732394366197,
-        "correlation": -0.12399601715442983
+        "judged": 75,
+        "hit_rate": 0.49333333333333335,
+        "correlation": -0.10255215255921096
       }
     },
     "20_sessions": {
       "trend": {
-        "judged": 15,
-        "hit_rate": 0.7333333333333333,
-        "correlation": 0.6478802644078605
+        "judged": 20,
+        "hit_rate": 0.75,
+        "correlation": 0.5816025551401667
       },
       "volatility": {
         "judged": 4,
         "hit_rate": 1.0,
-        "correlation": 0.22439232061489472
+        "correlation": 0.23962769709100523
       },
       "momentum": {
-        "judged": 15,
-        "hit_rate": 0.7333333333333333,
-        "correlation": 0.8168489822699553
+        "judged": 20,
+        "hit_rate": 0.75,
+        "correlation": 0.7643331020090284
       },
       "news": {
-        "judged": 11,
-        "hit_rate": 0.5454545454545454,
-        "correlation": 0.0680706259366488
+        "judged": 14,
+        "hit_rate": 0.5714285714285714,
+        "correlation": 0.05409052723651766
       }
     }
   },
   "trust": {
-    "trend": 0.272,
+    "trend": 0.2707,
     "volatility": 0.2363,
-    "momentum": 0.2556,
-    "news": 0.2361
+    "momentum": 0.2624,
+    "news": 0.2306
   },
   "health": {
-    "last_session": "2026-10-28",
+    "last_session": "2026-10-29",
     "weekdays_without_a_session": [
       "2026-10-02",
       "2026-10-20"
@@ -133,15 +133,19 @@
       {
         "queued_on": "2026-10-27",
         "symbol": "ICICIBANK.NS"
+      },
+      {
+        "queued_on": "2026-10-28",
+        "symbol": "ICICIBANK.NS"
       }
     ]
   },
   "significance": {
     "backtest_cagr_edge": 0.006642662683372658,
-    "daily_gap_volatility": 0.005625429688377701,
-    "sessions_needed": 177610,
-    "years_needed": 716.2,
-    "sessions_so_far": 23
+    "daily_gap_volatility": 0.005575361409521807,
+    "sessions_needed": 174463,
+    "years_needed": 703.5,
+    "sessions_so_far": 24
   },
   "backtest_reference": {
     "Full period": {
