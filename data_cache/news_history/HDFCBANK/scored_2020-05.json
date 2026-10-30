@@ -1,0 +1,614 @@
+[
+ {
+  "title": "KLAY Schools elevates AK Srikanth to the role of CEO",
+  "source": "People Matters - HR News",
+  "published_utc": "2020-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'One nation, one ration card' scheme: 5 more states join the initiative",
+  "source": "Livemint",
+  "published_utc": "2020-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Unemployment in Tamil Nadu increased 43.5 pct points, rose to 49.8% in Apr 2020: CMIE Survey",
+  "source": "Livemint",
+  "published_utc": "2020-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Railways cancels all passenger trains till May 17",
+  "source": "Livemint",
+  "published_utc": "2020-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, AR Rahman & Prasoon Joshi present #HumHaarNahiMaanenge song of hope",
+  "source": "Exchange4Media",
+  "published_utc": "2020-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "[COVID-19] Delhi HC allows HDFC Bank to deduct instalment amount demanded during 90-day moratorium from Indiabulls' existing FDR",
+  "source": "Bar and Bench",
+  "published_utc": "2020-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Over 1,100 customers to lose out in CKP Co-operative Bank's liquidation",
+  "source": "Livemint",
+  "published_utc": "2020-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FINAL PLACEMENT REPORT-BATCH 2018 2020 OF UBS,PU",
+  "source": "Cityairnews",
+  "published_utc": "2020-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex dives 2,002 points on PMI\u2019s historic low, global cues",
+  "source": "The Times of India",
+  "published_utc": "2020-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EPF withdrawal: How to check, change bank account details in your EPF account",
+  "source": "The Economic Times",
+  "published_utc": "2020-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank NRI Deposit Account Interest Rates | Business News",
+  "source": "The Times of India",
+  "published_utc": "2020-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two senior executives quit Axis Bank for Piramal NBFC",
+  "source": "The Economic Times",
+  "published_utc": "2020-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex rebounds after 2-day losing streak, ends 232 points higher",
+  "source": "Telegraph India",
+  "published_utc": "2020-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy Z Flip, Galaxy S20 series discount offers announced for Mother\u2019s Day",
+  "source": "The Indian Express",
+  "published_utc": "2020-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Mi 10 launched in India with 108MP camera, price starts at Rs 49,999",
+  "source": "The Mobile Indian",
+  "published_utc": "2020-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank To Donate Rs. 500 To PM CARES Every Time You Share AR Rahman's 'Hum Haar Nahi Maanenge' On Social Media",
+  "source": "MovieTalkies",
+  "published_utc": "2020-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank plans to expand its network of mobile ATMs",
+  "source": "KalingaTV",
+  "published_utc": "2020-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC vs ICICI vs Axis Bank: Where to get cheapest home loan? Rates compared",
+  "source": "The Financial Express",
+  "published_utc": "2020-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's arm, HDB Financial Services, sacks several staff during lockdown",
+  "source": "Livemint",
+  "published_utc": "2020-05-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NBFC arm of HDFC Bank, HDB Financial Services sacks staff without notice",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone SE 2020 will be available in India at an effective price of Rs. 38900 with HDFC cashback offer",
+  "source": "FoneArena.com",
+  "published_utc": "2020-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coronavirus impact: Standard Chartered Bank customers can now make all service requests digitally",
+  "source": "The Economic Times",
+  "published_utc": "2020-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI special FD scheme for senior citizens from tomorrow: Interest rate, details",
+  "source": "Livemint",
+  "published_utc": "2020-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple\u2019s newly launched iPhone SE (2020) already selling with Rs 3,600 discount; details inside",
+  "source": "The Financial Express",
+  "published_utc": "2020-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "150 asked to resign at HDB Financial Services, based on performance review",
+  "source": "HR Katha",
+  "published_utc": "2020-05-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "You can now buy new iPhone SE for just Rs 38,900; here's how",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo V19 with punch-hole screen, dual selfie cameras launched: Price, specs",
+  "source": "Business Standard",
+  "published_utc": "2020-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki appoints Maheshwar Sahu as independent director",
+  "source": "ET Auto",
+  "published_utc": "2020-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone SE 2020 sale in India starts May 20 on Flipkart: Price, bank offer, and more",
+  "source": "India Today",
+  "published_utc": "2020-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone SE (2020) can be purchased before OnePlus 8; sale begins on May 20",
+  "source": "The Indian Express",
+  "published_utc": "2020-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India equities continue to trade at 30% premium over other EM peers",
+  "source": "The Financial Express",
+  "published_utc": "2020-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zubair Iqbal is JK Bank\u2019s New Managing Director",
+  "source": "Kashmir Life",
+  "published_utc": "2020-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RK Chibber Appointed Chairman, Zubair Iqbal As MD J&K Bank",
+  "source": "The INS News",
+  "published_utc": "2020-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm Payments Bank to deliver cash at home for senior citizens in Delhi, NCR",
+  "source": "Livemint",
+  "published_utc": "2020-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How 7 Hrithik stocks have hijacked Nifty away from Salman\u2019s six-pack",
+  "source": "The Economic Times",
+  "published_utc": "2020-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zubair Iqbal appointed as MD of J&K Bank, Chibber to continue as chairman",
+  "source": "AffairsCloud",
+  "published_utc": "2020-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBL Bank expects dip in new credit cards, spends in FY21",
+  "source": "The Economic Times",
+  "published_utc": "2020-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Liquor price to go up in Jammu and Kashmir after excise duty hike",
+  "source": "Livemint",
+  "published_utc": "2020-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Mi 10 now available for sale in India",
+  "source": "The Mobile Indian",
+  "published_utc": "2020-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Bank of India loans for women Interest Rate: How to apply, Charges & calculator | Business News",
+  "source": "The Times of India",
+  "published_utc": "2020-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Bank of India current account: How to apply, Charges & Transaction limit | Business News",
+  "source": "The Times of India",
+  "published_utc": "2020-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Bank of India Internet Banking: Registration, Charges, Application form | Business News",
+  "source": "The Times of India",
+  "published_utc": "2020-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI directs HDFC to reduce stake in HDFC Ergo, HDFC Life to 50% or below",
+  "source": "Livemint",
+  "published_utc": "2020-05-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Bank of India Debit Cards: How to apply, Charges & Transaction limit | Business News",
+  "source": "The Times of India",
+  "published_utc": "2020-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "20 most profitable firms in India generate 70% of country's profits: Report",
+  "source": "Livemint",
+  "published_utc": "2020-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Online KYC is here: No need to visit a branch to open a bank account",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nokia 5.1 Plus gets Android 10 in India",
+  "source": "The Times of India",
+  "published_utc": "2020-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank special FD scheme for senior citizens: Interest rate and other details",
+  "source": "Livemint",
+  "published_utc": "2020-05-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone SE 2020 to go on sale in India today: Offers and other details",
+  "source": "Livemint",
+  "published_utc": "2020-05-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IRDAI permits Union Bank to continue with IndiaFirst stake",
+  "source": "The Economic Times",
+  "published_utc": "2020-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI extends EMI moratorium for another three months on term loans. Here's what it means for borrowers",
+  "source": "The Economic Times",
+  "published_utc": "2020-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Online Spend Offer: Bonus Reward Points for Credit Card Holders",
+  "source": "Live From A Lounge",
+  "published_utc": "2020-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC, and ICICI Bank announce special FD schemes for senior citizens; check out interest rates, other key features",
+  "source": "Business Today",
+  "published_utc": "2020-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Trustee alleges Yes Bank sold AT1 bonds as \u2018Super FDs\u2019",
+  "source": "The Economic Times",
+  "published_utc": "2020-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Bank cuts savings rate to 3.5% for up to Rs 1 lakh balance",
+  "source": "The Financial Express",
+  "published_utc": "2020-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 Point Comparison of Major Private Banks in India",
+  "source": "Invest Yadnya",
+  "published_utc": "2020-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life pins hopes on Wise to thrive in a post-covid world",
+  "source": "Livemint",
+  "published_utc": "2020-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo Days on Flipkart starts today, offers discount on Vivo Z1x, Vivo V19, Vivo S1 and other phones",
+  "source": "The Times of India",
+  "published_utc": "2020-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC 10x SmartBuy Offer to undergo major restructuring in June 2020",
+  "source": "Live From A Lounge",
+  "published_utc": "2020-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wow! Maruti Suzuki Alto, Baleno, Swift, Dzire and other cars now available at an EMI of just Rs 899",
+  "source": "Zee Business",
+  "published_utc": "2020-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet multi-millionaire Kotakites: 5 executives worth Rs 100 crore each in Kotak Bank",
+  "source": "Business Today",
+  "published_utc": "2020-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki Ties Up With HDFC Bank To Offer New Finance Schemes",
+  "source": "CarDekho",
+  "published_utc": "2020-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Limited",
+  "source": "The Times of India",
+  "published_utc": "2020-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki, HDFC Bank's flexible car EMI options come at a cost",
+  "source": "Livemint",
+  "published_utc": "2020-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC NET Banking: HDFC Internet Banking Online & how to apply | Business News",
+  "source": "The Times of India",
+  "published_utc": "2020-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI bank account address change or update",
+  "source": "The Times of India",
+  "published_utc": "2020-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki Announces Warranty Period And Free Service Extension",
+  "source": "Motoroids",
+  "published_utc": "2020-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GDP data indicates India came wounded to coronavirus battle",
+  "source": "Livemint",
+  "published_utc": "2020-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

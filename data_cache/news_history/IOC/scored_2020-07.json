@@ -1,0 +1,353 @@
+[
+ {
+  "title": "S M Vaidya takes over as Chairman of Indian Oil Corporation",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shrikant Madhav Vaidya takes over as Chairman of Indian Oil on July 1",
+  "source": "PSU Watch",
+  "published_utc": "2020-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shrikant Madhav Vaidya takes over as chairman of Indian Oil Corporation Limited",
+  "source": "India Whispers",
+  "published_utc": "2020-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation, NTPC and SDMC inks MoU for waste-to-energy plant in Delhi",
+  "source": "Construction Week India",
+  "published_utc": "2020-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: How winter diesel will help Indian Army in Ladakh?",
+  "source": "The Indian Express",
+  "published_utc": "2020-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Winter diesel to power Indian Army\u2019s vehicles in Ladakh soon",
+  "source": "The Financial Express",
+  "published_utc": "2020-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance plans to up aviation fuel stations by 50%",
+  "source": "Deccan Chronicle",
+  "published_utc": "2020-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First Nations losing oil revenue amid fall in consumption, drilling",
+  "source": "CBC",
+  "published_utc": "2020-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ujjwala beneficiaries can get free domestic cooking gas cylinder till September",
+  "source": "Livemint",
+  "published_utc": "2020-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cold weather survival - Indian Army readies itself for a new \u2018Cold war",
+  "source": "The Economic Times",
+  "published_utc": "2020-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel Remains More Expensive Than Petrol In Delhi; Fuel Rates Unchanged For 10 Days",
+  "source": "NDTV Profit",
+  "published_utc": "2020-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Is One of the Last Big Markets for Fossil Fuels \u2013 and It Is Cashing In",
+  "source": "The Wire Science",
+  "published_utc": "2020-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Barauni Oil Refinery Expansion, Begusarai, Bihar, India",
+  "source": "NS Energy",
+  "published_utc": "2020-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel price today: Check out latest fuel rates in Delhi, Mumbai, other big cities",
+  "source": "Business Today",
+  "published_utc": "2020-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How fuel prices have risen under Modi regime",
+  "source": "Rediff",
+  "published_utc": "2020-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why did Iran eject India from port, oil field deals?",
+  "source": "Rediff",
+  "published_utc": "2020-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Global oil giants show interest in BPCL as bidding deadline nears",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to create its first overseas oil stockpile in US",
+  "source": "The Times of India",
+  "published_utc": "2020-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL's Paradip refinery to be shut for 22 days for maintenance work",
+  "source": "Livemint",
+  "published_utc": "2020-07-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Paradip Refinery to remain shut for 22 days for maintenance work",
+  "source": "PSU Watch",
+  "published_utc": "2020-07-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After rail, India set to lose Iran gas project",
+  "source": "Dawn",
+  "published_utc": "2020-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil's 300,000 bpd east coast refinery to be shut for 3 weeks",
+  "source": "Business Standard",
+  "published_utc": "2020-07-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US may open its strategic petroleum reserve to store Indian oil",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fitch affirms Indian Oil Corporation at BBB-minus with negative outlook",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kenya buys Essar\u2019s KPRL stake for $1.7m",
+  "source": "The EastAfrican",
+  "published_utc": "2020-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Modi govt not building planned strategic oil reserves, asks Moily",
+  "source": "The Times of India",
+  "published_utc": "2020-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NGT directs Indian Oil\u2019s Panipat refinery to pay \u20b925 crore",
+  "source": "The Hindu",
+  "published_utc": "2020-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NGT slaps Rs 25 crore penalty on IOC for violation of green norms by Panipat refinery",
+  "source": "The Indian Express",
+  "published_utc": "2020-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel Remains More Expensive Than Petrol In Delhi, Gap Widens",
+  "source": "NDTV Profit",
+  "published_utc": "2020-07-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL offers VRS to employees ahead of privatisation",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-07-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Total and Indian Oil Form Joint Company in India to Offer High-Quality Bitumen Derivatives",
+  "source": "TotalEnergies.com",
+  "published_utc": "2020-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil CSR is Making India Future-Ready",
+  "source": "The CSR Journal",
+  "published_utc": "2020-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil refiners cut runs as fuel demand dips, margins fade",
+  "source": "ET Auto",
+  "published_utc": "2020-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trilegal, SAM act on Total-Indian Oil Corporation Joint Venture for bitumen production and marketing",
+  "source": "Bar and Bench",
+  "published_utc": "2020-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Manholes to be cleaned by robots in Guwahati",
+  "source": "Livemint",
+  "published_utc": "2020-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assam: Manholes in Guwahati to Be Cleaned by Robots Named 'Bandicoot'",
+  "source": "LatestLY",
+  "published_utc": "2020-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Prices Remain Unchanged On Thursday",
+  "source": "NDTV Profit",
+  "published_utc": "2020-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC capacity utilization drops to 75% in Jul amid fresh restrictions",
+  "source": "Livemint",
+  "published_utc": "2020-07-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Board okays Rs 13,805-crore petrochemical complex at Paradip",
+  "source": "PSU Watch",
+  "published_utc": "2020-07-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

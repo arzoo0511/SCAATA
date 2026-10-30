@@ -1,0 +1,497 @@
+[
+ {
+  "title": "SBI tops UPI transactions with over a billion in four months",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank commits Rs 4 crore for Amphan-hit West Bengal",
+  "source": "The Statesman",
+  "published_utc": "2020-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Cuts Interest Rate on Deposits of Savings Account",
+  "source": "Equitypandit",
+  "published_utc": "2020-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI savings account deposit rates cut by 5 bps, ICICI Bank by 25 bps",
+  "source": "Zee Business",
+  "published_utc": "2020-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank share price down 2.47% at closing today",
+  "source": "Livemint",
+  "published_utc": "2020-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI, HDFC Bank among others revise working hours; here is a list of new bank timings applicable across India during lockdown",
+  "source": "Firstpost",
+  "published_utc": "2020-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s chatbot iPal can take care of your banking needs",
+  "source": "Digit",
+  "published_utc": "2020-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, HDFC Bank and other banks change working hours: New timings",
+  "source": "Newsheads",
+  "published_utc": "2020-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDBI Bank now among India's five most valuable private banks",
+  "source": "Livemint",
+  "published_utc": "2020-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Share Market Update: Sensex ends 83 points higher, Nifty at 10,167; Axis Bank, IndusInd Bank, BPCL, IOC top performers",
+  "source": "Business Today",
+  "published_utc": "2020-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Venture, Apollo Global to end joint venture AION Capital",
+  "source": "VCCircle",
+  "published_utc": "2020-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apollo Global, ICICI Venture to end India joint venture AION Capital",
+  "source": "Livemint",
+  "published_utc": "2020-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank trims employee notice period to 30 days: Report",
+  "source": "Elets BFSI",
+  "published_utc": "2020-06-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank reduces employee notice period from 90 days to 30 days",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-06-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iQOO3 smartphone is now available in Volcano Orange variant",
+  "source": "The Times of India",
+  "published_utc": "2020-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Forbes Survey: Saraswat Bank beats HDFC, SBI to emerge ahead",
+  "source": "Indian Cooperative",
+  "published_utc": "2020-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Salary account holders in ICICI Bank to get instant overdraft facility",
+  "source": "The News Minute",
+  "published_utc": "2020-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches overdraft facility for salary account customers: Here's how to use it",
+  "source": "The Economic Times",
+  "published_utc": "2020-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches digital OD facility for its salary account holders",
+  "source": "The Times of India",
+  "published_utc": "2020-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank salary account customers to get instant overdraft facility",
+  "source": "Livemint",
+  "published_utc": "2020-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Analytics startup Spocto helps Godrej and ICICI Bank enhance customer experience",
+  "source": "YourStory.com",
+  "published_utc": "2020-06-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Have a salary account in ICICI Bank? Private lender has this good news for you; check details",
+  "source": "Zee Business",
+  "published_utc": "2020-06-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Home Finance Launches SARAL, Affordable Housing Loan Scheme",
+  "source": "AffairsCloud",
+  "published_utc": "2020-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sells 3.96% stake in ICICI Lombard",
+  "source": "The Statesman",
+  "published_utc": "2020-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank offers instant education loan of up to \u20b91 crore: Key things to know before applying",
+  "source": "Livemint",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Sells Rs 2,250 Crore Stake (3.96%) In ICICI Lombard",
+  "source": "LawStreet Journal",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai Signs MoU with ICICI Bank to Offer Online Car Finance to Customers Through \u2018Click to Buy\u2019",
+  "source": "Odisha Diary",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches instant approval for education loans of upto Rs 1 crore",
+  "source": "The News Minute",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sells 1.5% stake in ICICI Prudential for Rs 840 crores",
+  "source": "LawStreet Journal",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sells 3.96% stake in its insurance wing - The Indian Wire",
+  "source": "The Indian Wire",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank divests stake in ICICI Prudential for Rs 2,250 crore",
+  "source": "The Statesman",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sells 1.5% stake in ICICI Prudential for Rs 840 crore",
+  "source": "The News Minute",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sells \u20b9840 crore shares of ICICI Pru Life",
+  "source": "Livemint",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fitch downgrades outlook for SBI, 8 other banks following India\u2019s sovereign rating",
+  "source": "Livemint",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai Ties Up With ICICI Bank To Offer New Finance Options",
+  "source": "CarDekho",
+  "published_utc": "2020-06-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI Case Against Videocon's Venugopal Dhoot For \"Wrongful\" Loss To Banks",
+  "source": "NDTV",
+  "published_utc": "2020-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI books Videocon Chairman for causing losses to banks in Mozambique assets",
+  "source": "Livemint",
+  "published_utc": "2020-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches video KYC; open savings accounts and apply for loan via video interaction",
+  "source": "The Times of India",
+  "published_utc": "2020-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to use ICICI Bank's video KYC for savings account, personal loan and credit card",
+  "source": "The Economic Times",
+  "published_utc": "2020-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches \u2018Video KYC\u2019 for savings account, personal loan, credit card",
+  "source": "Livemint",
+  "published_utc": "2020-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This ICICI Bank facility can help open savings account, avail personal loan without moving out from home; here is how",
+  "source": "Zee Business",
+  "published_utc": "2020-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe launches UPI handle in partnership with ICICI Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe Partners With ICICI Bank On UPI Multi-Bank",
+  "source": "BW Disrupt",
+  "published_utc": "2020-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank is now the second official UPI partner of PhonePe after Yes Bank",
+  "source": "Livemint",
+  "published_utc": "2020-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, SBI, ICICI to PNB: Top 10 banks with lowest home loan interest rates this week compared",
+  "source": "The Financial Express",
+  "published_utc": "2020-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe Partnered with ICICI Bank on UPI multi-bank model",
+  "source": "AffairsCloud",
+  "published_utc": "2020-06-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy launches digital wallet \u2018Swiggy Money\u2019 in partnership with ICICI Bank",
+  "source": "YourStory.com",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy launches its wallet \u2018Swiggy Money\u2019 with ICICI Bank",
+  "source": "Entrackr",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy introduces digital wallet in partnership with ICICI Bank",
+  "source": "Livemint",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy in Partnership with ICICI Bank Launches an Industry- First Instant Digital Wallet, \u2018Swiggy Money\u2019",
+  "source": "AffairsCloud",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy unveils digital wallet \u2018Swiggy Money\u2019, in partnership with ICICI Bank",
+  "source": "The News Minute",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy Money digital wallet powered by ICICI Bank launched",
+  "source": "FoneArena.com",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy launches payment platform, ties up with ICICI Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy launches digital wallet Swiggy Money: All you need to know",
+  "source": "India Today",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Last date for submission of Form 15G, 15H \u2013 Here is how you can submit it online",
+  "source": "The Financial Express",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

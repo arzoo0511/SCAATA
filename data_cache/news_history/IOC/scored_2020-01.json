@@ -1,0 +1,317 @@
+[
+ {
+  "title": "Protest at IOC plant disrupts LPG supply",
+  "source": "Telegraph India",
+  "published_utc": "2020-01-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fish meal and fish oil industries pose threat to the fishing sector in India",
+  "source": "Mongabay India",
+  "published_utc": "2020-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices hiked across all major cities",
+  "source": "The New Indian Express",
+  "published_utc": "2020-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "January 8 strike gets bigger as 19 trade unions at IOC serve notice",
+  "source": "PSU Watch",
+  "published_utc": "2020-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No Re payment woes for Iran exports: Uco bank",
+  "source": "The Times of India",
+  "published_utc": "2020-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This startup brings fuel to your doorstep using IoT-enabled mobile dispensers",
+  "source": "YourStory.com",
+  "published_utc": "2020-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mother & 21-month-old son found dead in Jaipur's posh apartment: No signs of forced entry; killers demanded...",
+  "source": "Bhaskar English",
+  "published_utc": "2020-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tamil Nadu: Book LPG refill, get it the same day",
+  "source": "The Times of India",
+  "published_utc": "2020-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Husband, friend arrested for twin murders in Jaipur",
+  "source": "The Times of India",
+  "published_utc": "2020-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jaipur double murder: IOCL Manager killed wife, son; killer caught on camera carrying toddler | Watch",
+  "source": "India TV News",
+  "published_utc": "2020-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to spend Rs 22,000 crore for expansion of Gujarat refinery",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India is establishing a new model of affirmative action, says Shri Dharmendra Pradhan at National Vendor Development Program for SC/ST Entrepreneurs",
+  "source": "PIB",
+  "published_utc": "2020-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil: Sportstar Aces Best Corporate/ PSU for Promotion of Sports",
+  "source": "Sportstar",
+  "published_utc": "2020-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches special NATO class diesel for Indian Navy",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC launches special NATO class diesel for Indian Navy in New Delhi",
+  "source": "AffairsCloud.com",
+  "published_utc": "2020-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel Upgradation for Indian Navy",
+  "source": "GK Today",
+  "published_utc": "2020-01-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to decide on bidding for BPCL after govt lays out rules: Chairman",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, Cummins Technologies India to Collaborate for Diesel Exhaust Fluid Bulk Dispensing",
+  "source": "Energetica India Magazine",
+  "published_utc": "2020-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochi: Soon, genome sequencing of Indian oil sardine",
+  "source": "The Times of India",
+  "published_utc": "2020-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Clearblue: For BS6 engines with SCR",
+  "source": "Team-BHP",
+  "published_utc": "2020-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil signs agreement with Cummins Technologies for bulk dispensing of Diesel Exhaust Fluid (DEF) for BSVI vehicles",
+  "source": "Overdrive",
+  "published_utc": "2020-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL outperforms industry in petrol, diesel sales from its 1,400-odd outlets",
+  "source": "Livemint",
+  "published_utc": "2020-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Be prepared to tackle emergency situations, factory managements told",
+  "source": "The Hindu",
+  "published_utc": "2020-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How To Open a Petrol Pump in India? Process to Get Fuel Station Dealership",
+  "source": "Goodreturns",
+  "published_utc": "2020-01-20T10:23:29+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Talcher Fertilizers To Revive Urea Production In September 2023 - PT Pulse",
+  "source": "Projects Today",
+  "published_utc": "2020-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Energy News Monitor | Volume XVI; Issue 32",
+  "source": "orfonline.org",
+  "published_utc": "2020-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Share Market Update: Sensex ends 271 points higher, Nifty at 12,179; YES Bank, Indian Oil, L&T top gainers",
+  "source": "Business Today",
+  "published_utc": "2020-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Gas to invest Rs 9,000 cr on distribution networks over next 10 yrs",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices see big cut on Saturday",
+  "source": "thesamikhsya.com",
+  "published_utc": "2020-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OIL May Hold 74% In BPCL's NRL, Assam 26%",
+  "source": "Sarkaritel.com",
+  "published_utc": "2020-01-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Budget 2020: Oil & Gas industry demands tax clarity, oil cess relief",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OIL to acquire NRL today",
+  "source": "Pratidin Time",
+  "published_utc": "2020-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil ranked among world\u2019s top 500 strongest & most valuable brands",
+  "source": "PSU Watch",
+  "published_utc": "2020-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil set to replace 80% storage terminals with BS VI fuel by January 31",
+  "source": "Autocar Professional",
+  "published_utc": "2020-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal, India to study feasibility of liquefied natural gas pipeline project",
+  "source": "The Himalayan Times",
+  "published_utc": "2020-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

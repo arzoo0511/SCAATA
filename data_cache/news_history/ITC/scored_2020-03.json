@@ -1,0 +1,74 @@
+[
+ {
+  "title": "ITC vs VST Industries & Godfrey Phillips | Stock Comparison",
+  "source": "Invest Yadnya",
+  "published_utc": "2020-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Travel Services Market in India 2020-2024 | Rise in International Tourist Footfall to Boost Growth | Technavio",
+  "source": "Business Wire",
+  "published_utc": "2020-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Vivel appoints Kriti Sanon as new brand ambassador",
+  "source": "Livemint",
+  "published_utc": "2020-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Retail to acquire Tamil Nadu-based department store chain",
+  "source": "VCCircle",
+  "published_utc": "2020-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha plans to ease forest, wildlife restrictions to boost tourism; experts call it dangerous",
+  "source": "ET HospitalityWorld",
+  "published_utc": "2020-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A Unique April 4 Event For Indian MBA Applicants",
+  "source": "Poets&Quants",
+  "published_utc": "2020-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to make Savlon sanitisers at its perfume factory in Himachal",
+  "source": "Livemint",
+  "published_utc": "2020-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's perfume manufacturing facility commences production of Savlon sanitisers",
+  "source": "afaqs!",
+  "published_utc": "2020-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

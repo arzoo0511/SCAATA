@@ -1,0 +1,524 @@
+[
+ {
+  "title": "CFO salary on the rise in Tata Group, ICICI Bank, RIL and many others.",
+  "source": "cfo.economictimes.indiatimes.com",
+  "published_utc": "2020-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OPPO Reno 3 Pro with 6.4-inch FHD+ AMOLED display, 44MP dual punch-hole camera, 64MP quad rear cameras launched in India starting at Rs. 29990",
+  "source": "FoneArena.com",
+  "published_utc": "2020-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Business Banking In An Instant",
+  "source": "Business Today",
+  "published_utc": "2020-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here are 10 key reasons to invest in SBI Card IPO",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What is card skimming, why ICICI Bank debit card and credit card holders must be alert about ATM card skimming",
+  "source": "Zee Business",
+  "published_utc": "2020-03-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay High Court Court Dismisses Chanda Kochhar Challenge To Sacking As ICICI Bank CEO",
+  "source": "NDTV",
+  "published_utc": "2020-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "AU Small Finance Bank stock top choice in FY20, overtakes PNB, BoB in m-cap",
+  "source": "Business Standard",
+  "published_utc": "2020-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank: Unique distinction of a platinum rated green data centre",
+  "source": "Express Computer",
+  "published_utc": "2020-03-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bom HC | ICICI Bank Ltd. -- Petition challenging Chanda Kochhar's termination order not maintainable; A Writ would not lie to enforce purely private law rights",
+  "source": "SCC Online",
+  "published_utc": "2020-03-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank moratorium hits fintech startups, to hamper UPI transactions volume",
+  "source": "Entrackr",
+  "published_utc": "2020-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe resumes services after being impacted by Yes Bank moratorium",
+  "source": "MediaNama",
+  "published_utc": "2020-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPI users get locked out as Yes Bank goes offline",
+  "source": "Livemint",
+  "published_utc": "2020-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank crisis: UPI\u2019s use dives 40%, PhonePe lines go dead",
+  "source": "The Times of India",
+  "published_utc": "2020-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Market bleeds on global sell-off, Yes Bank crisis",
+  "source": "RightNow",
+  "published_utc": "2020-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe switches to ICICI for UPI, @ybl handles to continue working | Google Pay has four partner banks | Inshorts",
+  "source": "Inshorts",
+  "published_utc": "2020-03-07T14:01:34+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How PhonePe restored its UPI after Yes Bank blow",
+  "source": "Rediff",
+  "published_utc": "2020-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How ICICI Bank swiftly absorbed Yes Bank transactions after outages at PhonePe, BharatPe",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-03-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank ATM: Using your debit card or credit card? Do this for sure or you will fall prey to card cloning, skimming scams",
+  "source": "Zee Business",
+  "published_utc": "2020-03-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe services restored with ICICI Bank as new partner",
+  "source": "MediaNama",
+  "published_utc": "2020-03-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe: Why Plan B Is Crucial in FinTech and for You",
+  "source": "Moneylife",
+  "published_utc": "2020-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cardless Cash Withdrawal: Want to withdraw cash without a debit card? Here is how to do it",
+  "source": "The Financial Express",
+  "published_utc": "2020-03-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to invest \u20b91,000 crore in Yes Bank",
+  "source": "Livemint",
+  "published_utc": "2020-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to invest Rs 1,000 crore in Yes Bank",
+  "source": "The Times of India",
+  "published_utc": "2020-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, ICICI, Kotak Mahindra and Axis Bank join SBI, to invest in Yes Bank",
+  "source": "The News Minute",
+  "published_utc": "2020-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Over 1 million users migrate to ICICI Bank\u2019s UPI handles",
+  "source": "Livemint",
+  "published_utc": "2020-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After ICICI, HDFC Bank may invest Rs 1,000 crore in Yes Bank",
+  "source": "CNBC TV18",
+  "published_utc": "2020-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YES Bank's Reconstruction Scheme: The story so far",
+  "source": "Business Standard",
+  "published_utc": "2020-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank crisis raises risk perception of SBI, ICICI Bank",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, LIC may hold 55.56% stake in Yes Bank",
+  "source": "mint",
+  "published_utc": "2020-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank revival plan unveiled: Top private banks step in, ban lifts in 3 days",
+  "source": "The Indian Express",
+  "published_utc": "2020-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Four private lenders commit Rs 3,100 crore to Yes Bank",
+  "source": "The Times of India",
+  "published_utc": "2020-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank to get a lifeline as govt approves SBI\u2019s rescue plan",
+  "source": "Livemint",
+  "published_utc": "2020-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank \u2018reconstruction\u2019: Moratorium to be lifted by March 18",
+  "source": "The Financial Express",
+  "published_utc": "2020-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches \u2018ICICIStack\u2019. All you need to know",
+  "source": "Livemint",
+  "published_utc": "2020-03-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank gets 7.97% stake in Yes Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-03-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches \u2018ICICIStack\u2019, a digital banking platform",
+  "source": "Express Computer",
+  "published_utc": "2020-03-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Yes Bank's ATMs are full of cash, deposits safe': administrator Prashant Kumar",
+  "source": "Forbes India",
+  "published_utc": "2020-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs SBI vs Axis Bank vs ICICI Bank vs PNB: Average Monthly Balance, charges compared",
+  "source": "The Financial Express",
+  "published_utc": "2020-03-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank launches digital banking platform \u2018ICICIStack'",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank gets 7.97% stake in YES Bank with Rs 1,000-cr capital infusion",
+  "source": "Business Standard",
+  "published_utc": "2020-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches full-stack digital banking platform amid Covid-19 crisis",
+  "source": "Techcircle",
+  "published_utc": "2020-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Systemic Contagion Risk Tracker | TED-Spread, CDOR-OIS, HY OAS All Continue to Move Higher",
+  "source": "Hedgeye",
+  "published_utc": "2020-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI cuts fixed deposit (FD) rates. How they compare with HDFC Bank, ICICI Bank, Axis Bank",
+  "source": "mint",
+  "published_utc": "2020-03-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI, HDFC Bank change working hours, push customers to go digital amid coronavirus outbreak",
+  "source": "The Economic Times",
+  "published_utc": "2020-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In biggest market crash ever, Sensex collapses about 4,000 points in a day",
+  "source": "Livemint",
+  "published_utc": "2020-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Want cash but cannot go to bank ATM? Get money at home even in times of coronavirus; how SBI, HDFC Bank, others can help",
+  "source": "Zee Business",
+  "published_utc": "2020-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks cut branch timings amid total lockdown. Check details here",
+  "source": "Livemint",
+  "published_utc": "2020-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Syndicate Bank, Indian Bank announce safety measures amid coronavirus lockdown",
+  "source": "Livemint",
+  "published_utc": "2020-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches WhatsApp banking services during COVID-19",
+  "source": "Retail Banker International",
+  "published_utc": "2020-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches banking services on WhatsApp: Here\u2019s what customers can and cannot do",
+  "source": "The Times of India",
+  "published_utc": "2020-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank WhatsApp banking: Here's all you need to know about private lender's free service launched today",
+  "source": "Firstpost",
+  "published_utc": "2020-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches banking services on WhatsApp",
+  "source": "IBG News",
+  "published_utc": "2020-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI launches WhatsApp Banking services",
+  "source": "FoneArena.com",
+  "published_utc": "2020-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank WhatsApp banking services launched today! Here is full list of services account holders can avail",
+  "source": "Zee Business",
+  "published_utc": "2020-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches WhatsApp banking for customers staying home during lockdown: How to register, available services",
+  "source": "DNA India",
+  "published_utc": "2020-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Introduces WhatsApp Banking Services",
+  "source": "OdishaBytes",
+  "published_utc": "2020-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI launches WhatsApp banking. All you need to know",
+  "source": "Livemint",
+  "published_utc": "2020-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches WhatsApp banking service: Here're all you need to know about the services",
+  "source": "Times Now",
+  "published_utc": "2020-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

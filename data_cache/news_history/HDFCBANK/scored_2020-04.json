@@ -1,0 +1,470 @@
+[
+ {
+  "title": "Banks to roll out EMI waiver options soon",
+  "source": "The Times of India",
+  "published_utc": "2020-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank offers EMI, loan deferment option to customers",
+  "source": "The Asian Age",
+  "published_utc": "2020-04-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 public sector banks to merge into 4 today; all you need to know",
+  "source": "Business Today",
+  "published_utc": "2020-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank loan EMI moratorium: How it works and the charges",
+  "source": "The Economic Times",
+  "published_utc": "2020-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive: Sachin Bansal leads Rs 3,007 Cr round in Navi Technologies",
+  "source": "Entrackr",
+  "published_utc": "2020-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Big coronavirus relief! Good news - HDFC Bank ATM card holders alert!",
+  "source": "Zee Business",
+  "published_utc": "2020-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "11AQD Fund Price and Chart \u2014 BSE:11AQD",
+  "source": "TradingView",
+  "published_utc": "2020-04-04T10:35:22+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank bucks trend, reports 7.41 pc rise in deposits in March quarter",
+  "source": "Bangalore Mirror",
+  "published_utc": "2020-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank's deposits grow by 12% in Jan-March quarter despite Yes Bank hangover",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to maximise your Groceries spend while sitting home?",
+  "source": "Live From A Lounge",
+  "published_utc": "2020-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will you benefit by opting for EMI moratorium? Here's how much it will cost you",
+  "source": "The Economic Times",
+  "published_utc": "2020-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How To Recharge Jio, Vodafone or Airtel Number With an ATM Card",
+  "source": "The Quint",
+  "published_utc": "2020-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank slashes interest rates on loans upto 35 bps",
+  "source": "Livemint",
+  "published_utc": "2020-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WhatsApp banking: HDFC Bank starts 24/7 service; From account, credit card, to FD, check out step by step guide on how to use it",
+  "source": "Zee Business",
+  "published_utc": "2020-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vodafone Idea prepaid numbers can now be recharged at ATMs",
+  "source": "The Mobile Indian",
+  "published_utc": "2020-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why you should stop or pause your SIP if you can\u2019t service it",
+  "source": "Livemint",
+  "published_utc": "2020-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After ICICI, HDFC Bank launches 24/7 Whatsapp facility amid coronavirus lockdown",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank & HDFC Bank lead the pack in digitization: Report",
+  "source": "The Economic Times",
+  "published_utc": "2020-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank account holder? Big convenience for you in Mumbai and Noida; more areas to be covered soon",
+  "source": "Zee Business",
+  "published_utc": "2020-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coronavirus Impact: HDFC Bank deploys mobile ATM across India",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank cuts lending rate by 0.20%",
+  "source": "ET Realty",
+  "published_utc": "2020-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fraudsters exploiting 3-month loan moratorium; everybody needs to be cautious: HDFC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2020-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Savings bank accounts compared: SBI vs ICICI Bank vs Axis Bank vs HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2020-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "China's central bank raises HDFC stake to over 1%",
+  "source": "Livemint",
+  "published_utc": "2020-04-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What To Make Of China Bank\u2019s Stake In HDFC",
+  "source": "NDTV",
+  "published_utc": "2020-04-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank deploys mobile ATM in city",
+  "source": "DT Next",
+  "published_utc": "2020-04-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gaja Capital, former HDFC Bank honcho back Sachin Bansal; value Navi Tech at $558 mn",
+  "source": "VCCircle",
+  "published_utc": "2020-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "China's Central Bank Buys 1% Stake in Indian HDFC Bank's Holding Company",
+  "source": "Finance Magnates",
+  "published_utc": "2020-04-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches Safety Grid campaign to reiterate social distancing",
+  "source": "afaqs!",
+  "published_utc": "2020-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's MD CEO shortlist for Puri's successor has 1 external, 2 internal names",
+  "source": "CNBC TV18",
+  "published_utc": "2020-04-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's sovereign rating limits HDFC Bank's upgrade: S&P Ratings",
+  "source": "The New Indian Express",
+  "published_utc": "2020-04-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches mobile ATMs in Pune",
+  "source": "The Times of India",
+  "published_utc": "2020-04-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank shortlists three candidates to replace Aditya Puri",
+  "source": "Livemint",
+  "published_utc": "2020-04-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank shortlists three names to replace Aditya Puri as CEO",
+  "source": "The Economic Times",
+  "published_utc": "2020-04-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Want to avail EMI moratorium? From SBI to HDFC Bank, here\u2019s what your bank, HFC is offering",
+  "source": "The Financial Express",
+  "published_utc": "2020-04-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s Margins to Lure Investors as Indian Rivals Struggle",
+  "source": "Bloomberg.com",
+  "published_utc": "2020-04-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet the top three contenders, next in line for the HDFC Bank CEO throne",
+  "source": "IBTimes India",
+  "published_utc": "2020-04-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's assets to show minimal signs of Covid stress",
+  "source": "The Economic Times",
+  "published_utc": "2020-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3 in shortlist for HDFC Bank CEO",
+  "source": "Banking Frontiers",
+  "published_utc": "2020-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q4 FY20 \u2013 Key Updates",
+  "source": "Invest Yadnya",
+  "published_utc": "2020-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank CSR and Sustainability Impacting 5 Crore Lives in India",
+  "source": "The CSR Journal",
+  "published_utc": "2020-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s Next CEO: Know The Contenders",
+  "source": "NDTV Profit",
+  "published_utc": "2020-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank introduces mobile ATMs in Kolkata",
+  "source": "Deccan Herald",
+  "published_utc": "2020-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Official has clarified that this message is wrongly attributed to the Bank\u2019s MD Aditya Puri",
+  "source": "FACTLY",
+  "published_utc": "2020-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking declared as public utility service for six months till 21 October; employees will not be able to go on strikes",
+  "source": "Firstpost",
+  "published_utc": "2020-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Should you take loans linked to benchmarks other than repo rate? Which banks offer these?",
+  "source": "The Economic Times",
+  "published_utc": "2020-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NITI Aayog's building sealed after employee tests positive for COVID-19",
+  "source": "Livemint",
+  "published_utc": "2020-04-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri's retirement plan: Ready for second innings",
+  "source": "Business Today",
+  "published_utc": "2020-04-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Doorstep banking facility: List of banks that offer this service",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank Q4 results: Lender's asset quality worrying for investors still",
+  "source": "Business Standard",
+  "published_utc": "2020-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trending stocks: Punjab National Bank shares rise over 2%",
+  "source": "The Economic Times",
+  "published_utc": "2020-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Europe Travel Insurance | with COVID-19 Coverage",
+  "source": "HDFC ERGO General Insurance",
+  "published_utc": "2020-04-29T10:23:22+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

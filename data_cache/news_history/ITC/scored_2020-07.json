@@ -1,0 +1,101 @@
+[
+ {
+  "title": "Parle,\u200a Amul, Ghadi in top brands list",
+  "source": "mint",
+  "published_utc": "2020-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Soap makers ride hygiene focus",
+  "source": "Livemint",
+  "published_utc": "2020-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Sensex on course for sixth consecutive week of gains | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2020-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC acquires Sunrise Foods for Rs 2,150 crore",
+  "source": "The Indian Express",
+  "published_utc": "2020-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC acquires Sunrise Foods for \u20b92,150 crore",
+  "source": "The Hindu",
+  "published_utc": "2020-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Value Lens: How ITC priced Sunrise Foods and what it could mean for other spice makers",
+  "source": "VCCircle",
+  "published_utc": "2020-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC acquires 100% of the equity share capital of Sunrise Foods",
+  "source": "OdishaPlus",
+  "published_utc": "2020-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC spices up product mix with Sunrise",
+  "source": "Telegraph India",
+  "published_utc": "2020-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC completes acquisition of Sunrise in \u20b92,150-Cr all-cash deal - The Indian Wire",
+  "source": "The Indian Wire",
+  "published_utc": "2020-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Acquires Sunrise Foods for Rs. 2,150 crores in an all-cash deal",
+  "source": "LawStreet Journal",
+  "published_utc": "2020-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Procam International launches \u2018Sunfeast India Run As One'",
+  "source": "Exchange4Media",
+  "published_utc": "2020-07-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

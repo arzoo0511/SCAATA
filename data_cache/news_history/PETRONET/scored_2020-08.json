@@ -1,0 +1,83 @@
+[
+ {
+  "title": "India steps on gas as coal use for power generation slows",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochi-Koottanad-Bangalore-Mangalore Pipeline Project",
+  "source": "NS Energy",
+  "published_utc": "2020-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CISF: Four officers appointed to ADG, IG & DIG post",
+  "source": "IndianMandarins",
+  "published_utc": "2020-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG profit down on lower volumes",
+  "source": "Offshore Energy",
+  "published_utc": "2020-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG net profit slips 7% in Q1",
+  "source": "CNBC TV18",
+  "published_utc": "2020-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet CEO gets 27% salary raise in FY20; Search launched for new chief",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 6 Natural Gas Distribution Companies in the Indian Stock Market",
+  "source": "Invest Yadnya",
+  "published_utc": "2020-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's natural gas demand rebounds, reaches near pre-Covid level",
+  "source": "The Economic Times",
+  "published_utc": "2020-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HONOURING HONEST TAXPAYER FACELESS SEAMLESS AND ANXIETIES AMONG THE EXECUTORS",
+  "source": "IndianMandarins",
+  "published_utc": "2020-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

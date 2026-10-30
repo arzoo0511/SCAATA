@@ -1,0 +1,560 @@
+[
+ {
+  "title": "Gold prices hit record highs, jump \u20b92,500 per 10 gram in 5 days",
+  "source": "Livemint",
+  "published_utc": "2020-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At Rs 6 lakh crore, banks\u2019 fresh FDs in Q1 double from last year",
+  "source": "The Times of India",
+  "published_utc": "2020-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We intend to use open architecture to build scale: SBM Bank's Sidharth Rath",
+  "source": "Business Standard",
+  "published_utc": "2020-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED seizes properties worth Rs 7 crore of top Chennai jeweller for alleged money laundering",
+  "source": "The New Indian Express",
+  "published_utc": "2020-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Restructuring Scheme Announced: Key Details",
+  "source": "CAclubindia",
+  "published_utc": "2020-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI only central bank to set up quarantine facility for continued services: Guv Das",
+  "source": "Livemint",
+  "published_utc": "2020-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED attaches Rs 7crore worth properties of Chennai jewellery store",
+  "source": "The Times of India",
+  "published_utc": "2020-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to open SBI Public Provident Fund (PPF) account online explained in 10 points",
+  "source": "Livemint",
+  "published_utc": "2020-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Positive Pay mechanism for all cheques above Rs 50,000: RBI proposes this safety measure",
+  "source": "The Financial Express",
+  "published_utc": "2020-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm appoints Bhavesh Gupta as SVP & CEO of its lending business",
+  "source": "Express Computer",
+  "published_utc": "2020-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here are savings bank accounts that offer up to 7% interest",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Issuer will be able to send cheque\u2019s pic",
+  "source": "The Times of India",
+  "published_utc": "2020-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold loan interest rates 2022: Top gold loan rates and comparison",
+  "source": "The Economic Times",
+  "published_utc": "2020-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Fixed Deposit Rates: Compare Returns Provided By Top Banks Here",
+  "source": "NDTV Profit",
+  "published_utc": "2020-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest bank FD rates: SBI vs ICICI Bank vs HDFC Bank vs Bank of India",
+  "source": "Livemint",
+  "published_utc": "2020-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank takes possession of Mantri Developers\u2019 Bengaluru office",
+  "source": "Livemint",
+  "published_utc": "2020-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank takes possession of Mantri corporate office",
+  "source": "The Times of India",
+  "published_utc": "2020-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI Launched Omni-Channel Loyalty Platform, \u2018nth Rewards\u2019",
+  "source": "AffairsCloud",
+  "published_utc": "2020-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "World\u2019s Most Favored Bank Stock Misses India Market Rebound",
+  "source": "Bloomberg.com",
+  "published_utc": "2020-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Review KV Kamath\u2019s appointment as head of loan rejig panel: Bank Employees Assoc to RBI",
+  "source": "The News Minute",
+  "published_utc": "2020-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Insurer ICICI Lombard in\u200a talks\u200a to\u200a buy\u200a Bharti \u200aAXA | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2020-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union objects to Kamath on debt recast committee",
+  "source": "Livemint",
+  "published_utc": "2020-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's Rs 15,000 crore QIP gets thumbs up from investors",
+  "source": "Times Now",
+  "published_utc": "2020-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chinese Hawala racket: Accused assumed Indian identity; operated over 40 bank accounts, reveals I-T probe",
+  "source": "Business Today",
+  "published_utc": "2020-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Co-branded cards don\u2019t work for everyone",
+  "source": "Livemint",
+  "published_utc": "2020-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private banks that offer up to 7% interest on one-year fixed deposits",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karnataka: ED files complaint against former ICICI bank cluster manager",
+  "source": "The Times of India",
+  "published_utc": "2020-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here's how ICICI Bank customers can download Form 16A, interest certificate",
+  "source": "Times Now",
+  "published_utc": "2020-08-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Singapore government picks up 11% of ICICI Bank's Rs 15,000 crore QIP",
+  "source": "The Times of India",
+  "published_utc": "2020-08-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities enables Indian customers to invest in US capital markets",
+  "source": "The Indian Express",
+  "published_utc": "2020-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Direct Customers Can Now Invest in US Markets",
+  "source": "Equitypandit",
+  "published_utc": "2020-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Direct customers can now invest in US securities, ETFs",
+  "source": "Livemint",
+  "published_utc": "2020-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All about cardless withdrawal of cash from ATMs",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock Markets Today: BSE Sensex, NSE Nifty open firm; NTPC, ITC, ICICI Bank among gainers",
+  "source": "Zee Business",
+  "published_utc": "2020-08-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "People's Bank of China invests in ICICI Bank through QIP",
+  "source": "CNBC TV18",
+  "published_utc": "2020-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chinese central bank invests in ICICI Bank amid anti-China sentiment",
+  "source": "The News Minute",
+  "published_utc": "2020-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "People's Bank of China buys into ICICI Bank amid 'Boycott China' movement",
+  "source": "Business Today",
+  "published_utc": "2020-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PBOC\u2019s investment in ICICI Bank surprises many",
+  "source": "OrissaPOST",
+  "published_utc": "2020-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "People's Bank of China picks up stake in ICICI Bank via QIP issue",
+  "source": "The Times of India",
+  "published_utc": "2020-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank offers up to 7% interest rate on fixed deposits. Latest FD rates here",
+  "source": "Livemint",
+  "published_utc": "2020-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chinese central bank investment in ICICI Bank raises eyebrows",
+  "source": "The Hans India",
+  "published_utc": "2020-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "People-'s Bank of China invests Rs 15 crore in ICICI Bank amid India-China tension",
+  "source": "Deccan Chronicle",
+  "published_utc": "2020-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank QIP raises \u2018record\u2019 US$2bn",
+  "source": "Law.asia",
+  "published_utc": "2020-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank ups stake in GIFT City\u2019s India International Exchange",
+  "source": "VCCircle",
+  "published_utc": "2020-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank raises stake in India International Exchange to 9.9 pc",
+  "source": "ANI News",
+  "published_utc": "2020-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank extends assistance to Chhattisgarh amidst the pandemic",
+  "source": "India Education Diary",
+  "published_utc": "2020-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HSBC India Becomes 1st Foreign Bank in India to launch a 'Green Deposit Programme' for Corporate Clients to Finance Green Initiatives",
+  "source": "AffairsCloud",
+  "published_utc": "2020-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard, Bharti AXA to merge general insurance businesses",
+  "source": "Livemint",
+  "published_utc": "2020-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard & Bharti AXA Signed Definitive Agreements to Merge their Insurance Businesses",
+  "source": "AffairsCloud",
+  "published_utc": "2020-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard to acquire Bharti AXA General Insurance",
+  "source": "VCCircle",
+  "published_utc": "2020-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard to buy Bharti AXA General Insurance",
+  "source": "India TV News",
+  "published_utc": "2020-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ICICI Bank uses space images for farm loans to cut costs",
+  "source": "Reuters",
+  "published_utc": "2020-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Becomes the 1st Bank in India Uses Satellite Data to Assess Credit Worthiness of Farmers",
+  "source": "AffairsCloud.com",
+  "published_utc": "2020-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces use of satellite data to assess farm loans",
+  "source": "The Economic Times",
+  "published_utc": "2020-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How ICICI Bank account holders can withdraw cash at ATMs without debit cards",
+  "source": "Livemint",
+  "published_utc": "2020-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank turns to satellite imagery for assessing creditworthiness of farmers",
+  "source": "Geospatial World",
+  "published_utc": "2020-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shivaami Cloud Services and ICICI Bank collaborate to launch Cloud business coupled with transaction banking API solutions for Indian SMEs",
+  "source": "ANI News",
+  "published_utc": "2020-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to sell up to 2 pc stake in ICICI Securities",
+  "source": "The Statesman",
+  "published_utc": "2020-08-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sells 6.44 mn ICICI Securities shares in open market transaction",
+  "source": "Livemint",
+  "published_utc": "2020-08-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BREAKING NEWS ABOUT BANDHAN BANK\u26ab YES BANK\u26ab HDFC BANK \u26ab ICICI BANK\u26ab AXIS BANK\u26ab IDFC FIRST BANK\u26ab SBI",
+  "source": "YouTube",
+  "published_utc": "2020-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All about bank charges on UPI transactions",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Sensex crashed over 800 points today",
+  "source": "Livemint",
+  "published_utc": "2020-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

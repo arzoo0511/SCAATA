@@ -1,0 +1,542 @@
+[
+ {
+  "title": "HDFC Bank extends loan EMI moratorium: Here's all you need to know",
+  "source": "The Economic Times",
+  "published_utc": "2020-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI tops UPI transactions with over a billion in four months",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These Schemes By LIC, SBI Can Help Seniors Get A Monthly Income",
+  "source": "The Better India",
+  "published_utc": "2020-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Use fixed deposit overdraft facility wisely to meet your short-term needs",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bajaj Auto ties up with HDFC Bank, to offer financial schemes",
+  "source": "The Times of India",
+  "published_utc": "2020-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bajaj Auto And HDFC Bank Partner To Offer Special Finance Options For Two-Wheeler",
+  "source": "carandbike",
+  "published_utc": "2020-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Loan Moratorium 2.0 rule: Will you get refund if EMI already deducted?",
+  "source": "The Financial Express",
+  "published_utc": "2020-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI, HDFC Bank among others revise working hours; here is a list of new bank timings applicable across India during lockdown",
+  "source": "Firstpost",
+  "published_utc": "2020-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches Summer Treats to meet post lockdown needs",
+  "source": "Exchange4Media",
+  "published_utc": "2020-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank nets 2.5 lakh new customers through instant account opening in lockdown",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, HDFC Bank and other banks change working hours: New timings",
+  "source": "Newsheads",
+  "published_utc": "2020-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDBI Bank now among India's five most valuable private banks",
+  "source": "Livemint",
+  "published_utc": "2020-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Risks of becoming a loan guarantor and what to do in case of loan repayment default",
+  "source": "The Economic Times",
+  "published_utc": "2020-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Share Market Update: Sensex ends 83 points higher, Nifty at 10,167; Axis Bank, IndusInd Bank, BPCL, IOC top performers",
+  "source": "Business Today",
+  "published_utc": "2020-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shriram Transport jumps 6% after T. Rowe Price hikes stake in company",
+  "source": "Livemint",
+  "published_utc": "2020-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex up 83 points, closes at 34,371; Nifty rises +0.25% - 08 Jun 2020",
+  "source": "Livemint",
+  "published_utc": "2020-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDBI Bank becomes fifth most valuable private bank, shares surge by 100%%",
+  "source": "Elets BFSI",
+  "published_utc": "2020-06-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Madhu Kapur, family withdraw case against Yes Bank",
+  "source": "The Economic Times",
+  "published_utc": "2020-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Honda Partners With Kotak Mahindra & HDFC To Offer Easy Finance Schemes For Its Range Of Cars",
+  "source": "DriveSpark",
+  "published_utc": "2020-06-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shambhu S Kumaran appointed next Ambassador of India to Philippines",
+  "source": "Legend Officers",
+  "published_utc": "2020-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Deposits giving lower returns than Savings Accounts? Here\u2019s what you should do",
+  "source": "The Financial Express",
+  "published_utc": "2020-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to offer \u2018Summer Treats\u2019 in rural India via 1 lakh VLEs",
+  "source": "Good Morning Kashmir",
+  "published_utc": "2020-06-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Forbes Survey: Saraswat Bank beats HDFC, SBI to emerge ahead",
+  "source": "Indian Cooperative",
+  "published_utc": "2020-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank boss Aditya Puri's record as India's longest-serving bank CEO likely to be unbroken",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves re-appointment of Kaizad Bharucha as ED, says HDFC Bank - The Indian Wire",
+  "source": "The Indian Wire",
+  "published_utc": "2020-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank retail banking head Pralay Mondal quits citing 'personal compulsions'",
+  "source": "India TV News",
+  "published_utc": "2020-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WhatsApp on way to become India\u2019s digital banking channel",
+  "source": "Express Computer",
+  "published_utc": "2020-06-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank ED Pralay Mondal quits, may lead another lender",
+  "source": "VCCircle",
+  "published_utc": "2020-06-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank becomes a \u2018Great Place to Work\u2019",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank plans to raise \u20b98,000 crore through rights issue",
+  "source": "Livemint",
+  "published_utc": "2020-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mrs Palka Sahni appointed as new Resident Commissioner, Bihar Bhawan",
+  "source": "Legend Officers",
+  "published_utc": "2020-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai Motor India partners with HDFC Bank to offer online car loans on Click to Buy",
+  "source": "India Today",
+  "published_utc": "2020-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank \u2018Great Place to Work\u2019",
+  "source": "Banking Frontiers",
+  "published_utc": "2020-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai Joins Hands With HDFC Bank For Easy Car Buying Solutions",
+  "source": "Gaadiwaadi.com",
+  "published_utc": "2020-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fairfax-controlled CSB Bank appoints Pralay Mondal as retail banking head",
+  "source": "VCCircle",
+  "published_utc": "2020-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai Motors: Hyundai partners with HDFC Bank to provide online financing solutions",
+  "source": "The Times of India",
+  "published_utc": "2020-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai Motor India partners with HDFC Bank for vehicle finance",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi govt issues order fixing cost of COVID-19 isolation beds at private hospitals",
+  "source": "Livemint",
+  "published_utc": "2020-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank customers can now take instant education loans against their FDs. Here's how",
+  "source": "The Economic Times",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Saving Days sale from Jun 23 to 27: Top Deals on smartphones, tablets, accessories, and more",
+  "source": "FoneArena.com",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can non-Chinese mobile brands rise to the occasion?",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai Ties Up With ICICI Bank To Offer New Finance Options",
+  "source": "CarDekho",
+  "published_utc": "2020-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Securities' users face glitch in executing transactions",
+  "source": "mint",
+  "published_utc": "2020-06-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Deposit: Worried about falling interest rates? You can still get up to 9% return on FDs \u2013 Check details",
+  "source": "The Financial Express",
+  "published_utc": "2020-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Infinia/Diners Club Black to restructure redemption rules in July 2020",
+  "source": "Live From A Lounge",
+  "published_utc": "2020-06-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 BFSI Companies In India",
+  "source": "Inventiva",
+  "published_utc": "2020-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Deposit rates | Check out which banks are offering higher return on FDs",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former IAS P Ramesh Kumar appointed the new Chief Information Commissioner of Andhra Pradesh",
+  "source": "Legend Officers",
+  "published_utc": "2020-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Annual pay in FY20: HDFC Bank MD Aditya Puri\u2019s Rs 18.9 crore vs SBI Chairman Rajnish Kumar\u2019s Rs 31...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri took home Rs 180 crore in FY20",
+  "source": "The Times of India",
+  "published_utc": "2020-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google Pay Says Transactions Are Secure, Redressal Mechanism Applicable | BOOM",
+  "source": "BOOM Fact Check",
+  "published_utc": "2020-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2018 Photos Of Rats Destroying Notes In An ATM Revived | BOOM",
+  "source": "BOOM Fact Check",
+  "published_utc": "2020-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's outgoing CEO Aditya Puri took home Rs 180 crore in FY20",
+  "source": "Times Now",
+  "published_utc": "2020-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Markets back to winning ways as IT stocks spurt",
+  "source": "Rediff",
+  "published_utc": "2020-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, SBI, ICICI to PNB: Top 10 banks with lowest home loan interest rates this week compared",
+  "source": "The Financial Express",
+  "published_utc": "2020-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank may sell perpetual bonds up to Rs 50,000 crore",
+  "source": "The Economic Times",
+  "published_utc": "2020-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Should you buy RBI Floating Rate Savings Bonds (2020)?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's Aditya Puri to wind up with shares worth Rs 800 cr",
+  "source": "Business Today",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches \u2018e-Kisaan Dhan\u2019 App for farmers in rural India",
+  "source": "MediaBrief",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches 'e-Kisaan Dhan\u2019 app for farmers",
+  "source": "Livemint",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

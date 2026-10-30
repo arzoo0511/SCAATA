@@ -1,0 +1,308 @@
+[
+ {
+  "title": "India switches to world's cleanest petrol, diesel with no increase in prices",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC slashes petrol, diesel prices by Rs 10 per liter",
+  "source": "myRepublica",
+  "published_utc": "2020-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol to now cost Rs 96 per liter in Kathmandu",
+  "source": "The Kathmandu Post",
+  "published_utc": "2020-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC slashes gasoline prices by Rs 10",
+  "source": "myRepublica",
+  "published_utc": "2020-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India experiments with alternate fuels in its drive towards green mobility",
+  "source": "Autocar Professional",
+  "published_utc": "2020-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wait 15 Days For Next LPG Cylinder Booking; No Shortage, Says IOC",
+  "source": "Goodreturns",
+  "published_utc": "2020-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices cut by Rs 10/litre",
+  "source": "The Himalayan Times",
+  "published_utc": "2020-04-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL (AOD) Digboi Refinery donates two ambulances to Digboi Civil Hospital - 5 Apr, 2020",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2020-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Twin city Police Commissioner Sudhanshu Sarangi urges IOCL, HPCL to maintain supply of LPG cylinders",
+  "source": "OrissaPOST",
+  "published_utc": "2020-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "L&T Hydrocarbon Engineering bags project from Indian Oil Corporation",
+  "source": "BusinessLine",
+  "published_utc": "2020-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC lets contract for Barauni refinery capacity expansion project",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2020-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "L&T wins 'large' contract from Indian Oil for capacity expansion at Barauni Refinery",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL invites applications for Assistant Officers in Finance Function; apply at iocl.com before 6 May",
+  "source": "Firstpost",
+  "published_utc": "2020-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Tenders For O&M Of 55 KWp On-Grid Roof Solar Project at Trichy",
+  "source": "SolarQuarter",
+  "published_utc": "2020-04-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil IOCL recruitment 2020: Apply for engineers posts through GATE score, pay scale above Rs 15 lakh",
+  "source": "The Indian Express",
+  "published_utc": "2020-04-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil steps up initiatives to augment LPG supply",
+  "source": "ET Auto",
+  "published_utc": "2020-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One worker injured in fire at Valero's Meraux refinery",
+  "source": "ET Auto",
+  "published_utc": "2020-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "L&T Hydrocarbon Engineering wins a contract from IOCL",
+  "source": "Manufacturing Today India",
+  "published_utc": "2020-04-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Tenders for AMC of 600 kW Rooftop Solar System in Mathura",
+  "source": "Saur Energy",
+  "published_utc": "2020-04-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC to Extend Armada Sterling FPSO Contract",
+  "source": "Offshore Engineer Magazine",
+  "published_utc": "2020-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lockdown cuts India's fuel demand 50% in first half of April",
+  "source": "Reuters",
+  "published_utc": "2020-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India records lowest crude oil production in at least 18 years",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "It's exams' time for some of India's top shuttlers",
+  "source": "Deccan Chronicle",
+  "published_utc": "2020-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ABB Power Grids wins INR 165 crore order from Indian Oil Corporation",
+  "source": "Hitachi Energy",
+  "published_utc": "2020-04-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ABB wins $21.5m order to deliver GIS substation for IOCL\u2019s Barauni refinery",
+  "source": "NS Energy",
+  "published_utc": "2020-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The COVID-19 impact on the oil industry",
+  "source": "Invest India",
+  "published_utc": "2020-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ABB Power Grids wins order for IOC\u2019s Barauni refinery",
+  "source": "T&D India",
+  "published_utc": "2020-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC, BPCL resume work on select projects, gear up to ramp up operations post-lockdown",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India running out of space to store oil. Petrol pumps almost full",
+  "source": "Livemint",
+  "published_utc": "2020-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brent crude follows WTI, falls below 2001 level",
+  "source": "Livemint",
+  "published_utc": "2020-04-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil production falls 5.5%, and remains nearly 14% below target",
+  "source": "Offshore Technology",
+  "published_utc": "2020-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "26.04.20 Gotabaya faces test on balancing foreign powers\u2019 access to Trincomalee",
+  "source": "TamilNet",
+  "published_utc": "2020-04-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What Mini Mathur learned during the lockdown",
+  "source": "Rediff",
+  "published_utc": "2020-04-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SM Vaidya appointed as the new Chairman, Indian Oil",
+  "source": "PSU Watch",
+  "published_utc": "2020-04-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

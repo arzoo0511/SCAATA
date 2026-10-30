@@ -1,0 +1,425 @@
+[
+ {
+  "title": "Swiggy launches its own digital wallet with ICICI Bank",
+  "source": "Express Computer",
+  "published_utc": "2020-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy launches own payment platform in collaboration with ICICI Bank - The Indian Wire",
+  "source": "The Indian Wire",
+  "published_utc": "2020-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches instant loan facility against mutual funds",
+  "source": "Livemint",
+  "published_utc": "2020-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy\u2019s digital wallet, Swiggy Money, can be used to pay for food orders placed on the app",
+  "source": "MediaNama",
+  "published_utc": "2020-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock Market Today: Sensex, Nifty trade tepid on mixed global cues; Bharti Airtel, Ashok Leyland shares gain",
+  "source": "Zee Business",
+  "published_utc": "2020-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive | Ex-ICICI Bank executive Murali Ramakrishnan likely to be named as CEO of South Indian Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces video KYC facility",
+  "source": "Banking Frontiers",
+  "published_utc": "2020-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank Launched a Facility, \u2018Insta Loans against Mutual Funds\u2019, in Partnership with Computer Age Management Services",
+  "source": "AffairsCloud.com",
+  "published_utc": "2020-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank to raise Rs15,000 crore via share sale",
+  "source": "Livemint",
+  "published_utc": "2020-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank PO Application Form 2020 \u2013 Apply Online Here",
+  "source": "Careers360",
+  "published_utc": "2020-07-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank refutes allegations of termination threats to employees",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-07-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank employees complain being asked to join base location or face action",
+  "source": "India TV News",
+  "published_utc": "2020-07-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to reward 80k employees with up to 8% pay hike for work done during Covid-19",
+  "source": "The Times of India",
+  "published_utc": "2020-07-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank crosses 1 million users on WhatsApp platform",
+  "source": "Livemint",
+  "published_utc": "2020-07-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki partners with Axis Bank for easy financing",
+  "source": "The Times of India",
+  "published_utc": "2020-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to raise \u20b915,000 crore via share sale",
+  "source": "Livemint",
+  "published_utc": "2020-07-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s ICICI Bank to Raise $2 Billion",
+  "source": "Bloomberg.com",
+  "published_utc": "2020-07-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI rolls out 8% salary hike for its 80,000 frontline employees",
+  "source": "HR Katha",
+  "published_utc": "2020-07-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB looking to raise up to \u20b97,000 crore via share sale",
+  "source": "Livemint",
+  "published_utc": "2020-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here are 10 banks offering the best rates on one-year fixed deposits",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 private banks stare at NPAs doubling to 5% in FY21",
+  "source": "Livemint",
+  "published_utc": "2020-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private banks lead in MeitY Digital Payments scorecard for FY20",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nabil Bank establishes \u2018Nabil Digi Bank\u2019",
+  "source": "Khabarhub",
+  "published_utc": "2020-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Do you know how much your bank charges and penalises you? Read on",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-07-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank FPO opens for subscription on Wednesday, key things to know before buying",
+  "source": "Livemint",
+  "published_utc": "2020-07-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In pushing own group\u2019s mutual funds, are banks shortchanging customers?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-07-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior citizens special fixed deposit (FD) scheme: SBI, ICICI, HDFC Bank's latest rates here",
+  "source": "Livemint",
+  "published_utc": "2020-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI plans to save \u20b91,000 crore by using work from anywhere policy",
+  "source": "Livemint",
+  "published_utc": "2020-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's Aditya Puri highest paid banker for FY20 with Rs 18.92 cr in remuneration",
+  "source": "The Times of India",
+  "published_utc": "2020-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's Aditya Puri highest paid banker for FY20 with \u20b918.92 cr in remuneration",
+  "source": "Livemint",
+  "published_utc": "2020-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rate revised by ICICI Bank! Compare latest rates with SBI, HDFC Bank \u2013 July 2020",
+  "source": "The Financial Express",
+  "published_utc": "2020-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs PNB vs ICICI Bank vs HDFC Bank: Home loan interest rates, processing fees compared",
+  "source": "Times Now",
+  "published_utc": "2020-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In-house trailblazer, giant, ex-Amarchand senior SH Bhojani passes away post-Covid complications",
+  "source": "Legally India",
+  "published_utc": "2020-07-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former Cyril Amarchand Mangaldas Equity Partner SH Bhojani passes away",
+  "source": "Bar and Bench",
+  "published_utc": "2020-07-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Recurring payments via UPI: Here's how you can now set autopay feature",
+  "source": "Livemint",
+  "published_utc": "2020-07-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Whatsapp to enter the lending and micro-finance sector in India",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank FPO: Check your allotment status here",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard and PhonePe launched Hospital Daily cash benefit",
+  "source": "AffairsCloud",
+  "published_utc": "2020-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here are fixed deposits that pay up to 8% interest to senior citizens",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-07-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank reports 36% rise in net profit",
+  "source": "Telegraph India",
+  "published_utc": "2020-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Video KYC: All about the new customer on-boarding process of banks",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank gets too cautious amid pandemic",
+  "source": "Livemint",
+  "published_utc": "2020-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Covid-19 impact: Google employees told they can work from home till mid-2021 in India, globally",
+  "source": "Livemint",
+  "published_utc": "2020-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakhshi, MD and CEO of ICICI Bank is India\u2019s 2nd highest paid banker and this is his salary",
+  "source": "GQ India",
+  "published_utc": "2020-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior citizens special fixed deposit (FD) latest rates: SBI vs Bank of Baroda vs ICICI vs HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2020-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank reveals Q1 results",
+  "source": "Passionate In Marketing",
+  "published_utc": "2020-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo Reno 4 Pro with 6.5-inch FHD+ display 65W SuperVOOC 2.0 launched in India: Price, specs and more",
+  "source": "The Times of India",
+  "published_utc": "2020-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,335 @@
+[
+ {
+  "title": "Oil and Gas Budget 2020: Oil PSUs capex increases 4 per cent to Rs 98,522 crore",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-02-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil firms prepare for potential investments from Aramco, Adnoc",
+  "source": "Livemint",
+  "published_utc": "2020-02-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC approves capacity expansion at Barauni refinery",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2020-02-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Thuglak editor Gurumurthy hails Modi government \u200bfor ending RIL's 20 year PTA monopoly",
+  "source": "The New Indian Express",
+  "published_utc": "2020-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Price of petrol, diesel down, LPG up",
+  "source": "The Himalayan Times",
+  "published_utc": "2020-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indane LPG customers urged to opt for digital payment for refill",
+  "source": "The Times of India",
+  "published_utc": "2020-02-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL signs first Term contract for importing Russian crude oil to India, in the presence of Minister of Petroleum and Natural Gas & Steel, Shri Dharmendra Pradhan and Mr. Igor Sechin, CEO, Rosneft",
+  "source": "PIB",
+  "published_utc": "2020-02-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia's Rosneft says India firms agree deal to join Vostok Oil project",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hindustan Petroleum all set to release its Q3 results today",
+  "source": "The Times of India",
+  "published_utc": "2020-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt Wants IndianOil to Consider Buying Back 3 per cent of Its Shares",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russian oil shipments to India will avoid Strait of Hormuz",
+  "source": "The Hindu",
+  "published_utc": "2020-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sanjay Varma set to be Director (Refineries) of MRPL",
+  "source": "PSU Watch",
+  "published_utc": "2020-02-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Mathura refinery starts 100% BS-VI fuels production",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fluor awarded management consultancy contract by BPCL",
+  "source": "Consultancy.in",
+  "published_utc": "2020-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Public Enterprises Survey: BSNL, MTNL Air India top loss-making PSUs in 2018-19",
+  "source": "PSU Watch",
+  "published_utc": "2020-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BSNL, Air India, MTNL highest loss-making PSUs in FY19; ONGC most profitable: Survey",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Non-subsidised LPG cylinder prices hiked sharply; here\u2019s how much it will cost now",
+  "source": "The Indian Express",
+  "published_utc": "2020-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Non-subsidised LPG cylinder rates hiked sharply across metros",
+  "source": "The Times of India",
+  "published_utc": "2020-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adnoc to invest upto Dh1.5 bn to set up 60 new gas stations in Dubai",
+  "source": "internationalfinance.com",
+  "published_utc": "2020-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jolly Rovers take home big prize in TNCA ceremony",
+  "source": "The New Indian Express",
+  "published_utc": "2020-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Calcutta HC asks RBI to mull 'appropriate steps' against Bank of Baroda",
+  "source": "Livemint",
+  "published_utc": "2020-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil comes on board as lead sponsor of KIUG",
+  "source": "ET BrandEquity",
+  "published_utc": "2020-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Calcutta HC asks RBI to take appropriate action against Bank of Baroda",
+  "source": "Business Standard",
+  "published_utc": "2020-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian experts conduct survey for second oil pipeline in Jhapa",
+  "source": "The Kathmandu Post",
+  "published_utc": "2020-02-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to switch to world's cleanest petrol, diesel from April 1",
+  "source": "Livemint",
+  "published_utc": "2020-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Recent rise in LPG prices",
+  "source": "PRSIndia",
+  "published_utc": "2020-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil firms ready for BS-VI roll out: IOCL chairman Sanjiv Singh",
+  "source": "The New Indian Express",
+  "published_utc": "2020-02-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CLEANER FUELS",
+  "source": "The Hitavada",
+  "published_utc": "2020-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil (IOCL) Announces Jobs For 10th, 10+2 Pass, Graduates",
+  "source": "NDTV",
+  "published_utc": "2020-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil expected to ink gas transportation agreement with ExxonMobil & Chart Industries during Trump visit",
+  "source": "Livemint",
+  "published_utc": "2020-02-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ExxonMobil, Indian Oil and Chart Energy join hands for virtual pipelines",
+  "source": "Business Standard",
+  "published_utc": "2020-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Limited (IOCL) Recruitment 2020: Apply for 500 vacancies @iocl.com",
+  "source": "India Today",
+  "published_utc": "2020-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda moves Supreme Court against Calcutta HC order on bank guarantee",
+  "source": "Livemint",
+  "published_utc": "2020-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tamil Nadu: Now, ask for weight check, leak tests during LPG refill",
+  "source": "The Times of India",
+  "published_utc": "2020-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3-year oil spillage sacks Delta State community",
+  "source": "AIT LIVE",
+  "published_utc": "2020-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC invests Rs 3,000cr to upgrade Haldia refinery for BS-VI",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC investment of 6,700-crore in Bengal to be finished by 2021-22",
+  "source": "ET Auto",
+  "published_utc": "2020-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

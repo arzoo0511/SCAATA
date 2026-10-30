@@ -1,0 +1,335 @@
+[
+ {
+  "title": "BPCL to have BS6 fuel at nozzle level by March 1, 2020",
+  "source": "Autocar India",
+  "published_utc": "2020-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil\u00a0to field-test\u00a0aluminium-air battery with\u00a0two Indian OEMs",
+  "source": "Autocar Professional",
+  "published_utc": "2020-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Libya\u2019s Sirte Oil Wins US$ 5 Million Arbitration Against Punj Lloyd",
+  "source": "Libya Herald",
+  "published_utc": "2020-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hardik Pandya's impressive all-round display propels Reliance 1 to semi-finals of DY Patil T20 Cup",
+  "source": "Firstpost",
+  "published_utc": "2020-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation's gas pipelines to be part of proposed GAIL arm",
+  "source": "Business Standard",
+  "published_utc": "2020-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018All IOC petrol pumps in Gujarat to start providing BS-VI grade petrol-diesel soon\u2019",
+  "source": "The Indian Express",
+  "published_utc": "2020-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to set up biogas plant in closed Rakhra sugar mill in Patiala",
+  "source": "The Tribune",
+  "published_utc": "2020-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL working on BS VI fuel",
+  "source": "The Sangai Express",
+  "published_utc": "2020-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Blistering 158 & duck in a day's work for all-rounder Hardik Pandya",
+  "source": "The Times of India",
+  "published_utc": "2020-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DY Patil T20 Tournament Final: Reliance 1 lose against Indian Oil",
+  "source": "Mumbai Live",
+  "published_utc": "2020-03-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Global crude oil war brings good tidings for India as prices hit $45 per barrel",
+  "source": "Livemint",
+  "published_utc": "2020-03-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices get big cut on Holi",
+  "source": "The Economic Times",
+  "published_utc": "2020-03-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC launches work on terminal in Malkapur",
+  "source": "The Hindu",
+  "published_utc": "2020-03-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Are Fuel Prices Not Falling Much, Despite A Crude Oil Tumble?",
+  "source": "The Quint",
+  "published_utc": "2020-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gujarat University bodies, ABVP seek action against NSUI for \u2018threatening professors\u2019",
+  "source": "The Indian Express",
+  "published_utc": "2020-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal Oil Corporation boosts gas imports to meet demand surge",
+  "source": "The Kathmandu Post",
+  "published_utc": "2020-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepali fuel suppliers refuse to move tankers citing IOC personnel overcharged them",
+  "source": "OnlineKhabar English News",
+  "published_utc": "2020-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Razorpay hires Tushar Tarun as new GC from Ingenico/EBS",
+  "source": "Legally India",
+  "published_utc": "2020-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Days after the biggest global price fall, Nepal Oil Corporation slashes fuel prices",
+  "source": "The Kathmandu Post",
+  "published_utc": "2020-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil's 27,500 fuel stations ready with BS VI fuel at nozzle level",
+  "source": "Autocar Professional",
+  "published_utc": "2020-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Started in a living room, this solar energy company now boasts of over a 300MW project portfolio",
+  "source": "YourStory.com",
+  "published_utc": "2020-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bangladesh failing to cash in on cheap oil price due to lack of storage",
+  "source": "The Business Standard",
+  "published_utc": "2020-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How low can oil go? One forecast sees $5 a barrel",
+  "source": "The Times of India",
+  "published_utc": "2020-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Covid-19: Indian Oil initiates rare protocol to keep fuel supplies running",
+  "source": "ET Auto",
+  "published_utc": "2020-03-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil initiates rare protocol to keep fuel supplies running amid Coronavirus spread",
+  "source": "The Economic Times",
+  "published_utc": "2020-03-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coronavirus impact: Pune petrol pumps to operate from 8 am to 4 pm",
+  "source": "ET Auto",
+  "published_utc": "2020-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Becomes First Company In India To Start Selling BS-VI Compliant Fuel Across All Its 28,000 Outlets",
+  "source": "Swarajya",
+  "published_utc": "2020-03-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State-run refiners reduce oil processing runs as demand tumbles after lockdowns; auto fuel, ATF to witness double-digit fall in March",
+  "source": "Firstpost",
+  "published_utc": "2020-03-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil customers can now use Paytm to pay for LPG cylinders and at petrol pumps",
+  "source": "The Times of India",
+  "published_utc": "2020-03-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC cuts refinery run-rate by one-fourth as fuel demand evaporates",
+  "source": "ET Auto",
+  "published_utc": "2020-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil To Increase LPG Cooking Gas Production",
+  "source": "Sarkaritel.com",
+  "published_utc": "2020-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coronavirus: Indian Oil regulates crude throughput in refineries by 25-30 per cent in the wake of lockdown",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to ramp up Kandla LPG import terminal's capacity",
+  "source": "The Times of India",
+  "published_utc": "2020-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil shares down 2.12% in early trade",
+  "source": "The Economic Times",
+  "published_utc": "2020-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No need to panic, adequate LPG cylinders available: Indian Oil",
+  "source": "The Economic Times",
+  "published_utc": "2020-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Covid-19 lockdown: No fuel crisis, enough stocks to last through April, says Indian Oil Corporation",
+  "source": "Scroll.in",
+  "published_utc": "2020-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL invokes force majeure on Iraqi oil: Report",
+  "source": "Livemint",
+  "published_utc": "2020-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

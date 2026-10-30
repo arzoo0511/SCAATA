@@ -1,0 +1,47 @@
+[
+ {
+  "title": "Photos: Winners of the Hotelier India Awards 2019",
+  "source": "Hotelier India",
+  "published_utc": "2020-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Biocon appoints MB Chinappa as CFO of Biocon Biologics; to be part of company's executive leadership team",
+  "source": "Firstpost",
+  "published_utc": "2020-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Biocon Biologics appoints M.B. Chinappa as CFO",
+  "source": "ET HealthWorld",
+  "published_utc": "2020-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tobacco Market in India Market to Develop New Growth Story: Emerging Segments is the Key",
+  "source": "openPR.com",
+  "published_utc": "2020-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ltd.'s Aashirvaad Atta with Multigrains releases its new campaign \u2018Happy Tummy for a Happy You\u2019",
+  "source": "MediaNews4U",
+  "published_utc": "2020-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,497 @@
+[
+ {
+  "title": "ICICI Bank, Axis Bank to shut operations in Sri Lanka",
+  "source": "Livemint",
+  "published_utc": "2020-01-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI introduces Vajra with an aim to ease payments using Blockchain Technology",
+  "source": "MobiGyaan",
+  "published_utc": "2020-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Bank to sell bad loans worth over \u20b91,200 crore ahead of merger",
+  "source": "Livemint",
+  "published_utc": "2020-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why CMD role separation remains a work in progress despite deadline nearing",
+  "source": "Business Standard",
+  "published_utc": "2020-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo S1 Pro launched in India, priced at Rs 19,990",
+  "source": "The Indian Express",
+  "published_utc": "2020-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo S1 Pro with 48MP quad-camera setup launched in India: Price, specs and more",
+  "source": "The Times of India",
+  "published_utc": "2020-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo S1 Pro launched at Rs 19,990: Offers from Jio, ICICI bank and more",
+  "source": "The Times of India",
+  "published_utc": "2020-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo S1 Pro with diamond-shaped quad rear camera setup launched in India: Check price, features",
+  "source": "Business Today",
+  "published_utc": "2020-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha CID-Crime Branch police workshop on bank fraud",
+  "source": "India Whispers",
+  "published_utc": "2020-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-ICICI Bank CEO Chanda Kochhar's Home Seized By Enforcement Directorate",
+  "source": "NDTV",
+  "published_utc": "2020-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED attaches assets worth Rs 78 crore of former ICICI Bank CEO Chanda Kochhar, her husband",
+  "source": "ANI News",
+  "published_utc": "2020-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former ICICI Bank CEO Chanda Kochhar\u2019s Mumbai house attached by ED for alleged violation of bank norms | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2020-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED attaches Rs 78 crore worth assets of Chanda Kochhar, others",
+  "source": "The Times of India",
+  "published_utc": "2020-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gaurs raises Rs 450 crore from ICICI Bank for Gaur City Mall in Greater Noida West",
+  "source": "India TV News",
+  "published_utc": "2020-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Money laundering\u2019 case: ED attaches assets worth Rs 78 crore belonging to Chanda Kochhar, others",
+  "source": "The Indian Express",
+  "published_utc": "2020-01-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Online dispute resolution is beginning to find takers in India",
+  "source": "The Economic Times",
+  "published_utc": "2020-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Properties worth Rs 78 crore of Chanda Kochhar, family attached",
+  "source": "The Times of India",
+  "published_utc": "2020-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai flat among Kochhars' assets worth Rs 78 crore attached",
+  "source": "The Times of India",
+  "published_utc": "2020-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank seeks recovery of amounts from Chanda Kochhar",
+  "source": "The Times of India",
+  "published_utc": "2020-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates: SBI, Axis Bank cut rates; HDFC Bank, PNB, ICICI keep steady",
+  "source": "CNBC TV18",
+  "published_utc": "2020-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now ICICI Bank files suit against Chanda Kochhar seeking recovery of funds",
+  "source": "India Today",
+  "published_utc": "2020-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank files monetary suit in Bombay HC seeking recovery of bonuses from Chanda Kochhar",
+  "source": "Bar and Bench",
+  "published_utc": "2020-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank slaps Rs 12 cr recovery suit on Chanda Kochhar",
+  "source": "The Economic Times",
+  "published_utc": "2020-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Yes Bank, ICICI Bank launches mega API portal for enterprise clients",
+  "source": "Techcircle",
+  "published_utc": "2020-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank moves Bombay HC to recover bonuses from former MD Chanda Kochhar",
+  "source": "The News Minute",
+  "published_utc": "2020-01-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now pay twice if you enter a toll plaza without a valid or functional FASTag",
+  "source": "The Economic Times",
+  "published_utc": "2020-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces OTP-based login service for net banking",
+  "source": "Business Today",
+  "published_utc": "2020-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces OTP-based log-in for net banking",
+  "source": "Livemint",
+  "published_utc": "2020-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "K.V. Kamath is front-runner for next Finance Minister",
+  "source": "Star of Mysore",
+  "published_utc": "2020-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank will now allow you to login to internet banking without password",
+  "source": "The Times of India",
+  "published_utc": "2020-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank unveils India\u2019s largest API banking portal called \u2018ICICI Bank API Banking portal\u2019 with nearly 250 APIs",
+  "source": "AffairsCloud.com",
+  "published_utc": "2020-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED attaches Rs 10-cr assets in Surat hawala scam case",
+  "source": "The Times of India",
+  "published_utc": "2020-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s Customers Need Not Remember Their Internet Banking Password",
+  "source": "Outlook Money",
+  "published_utc": "2020-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Check fixed deposit interest rates of SBI, PNB, HDFC Bank and ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2020-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Give Your Home a Makeover with Samsung Republic Day Offers, Get up to 15% Cashback",
+  "source": "Samsung Global Newsroom",
+  "published_utc": "2020-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IMI New Delhi Placement Report 2020: 91% students already placed",
+  "source": "Shiksha.com",
+  "published_utc": "2020-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces cardless cash withdrawal facility through ATMs",
+  "source": "The Times of India",
+  "published_utc": "2020-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Icici Bank lets customers withdraw cash with their mobile phones",
+  "source": "NFCW",
+  "published_utc": "2020-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces new way of ATM cash withdrawal",
+  "source": "Livemint",
+  "published_utc": "2020-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank debit card: Withdrawal from bank ATM possible without card; here is how",
+  "source": "Zee Business",
+  "published_utc": "2020-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches \u2018Cardless Cash Withdrawal\u2019 facility from ATMs, here\u2019s how it works",
+  "source": "The News Minute",
+  "published_utc": "2020-01-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs ICICI Bank vs HDFC Bank vs Axis Bank vs Yes Bank: Which bank FD is beneficial for you?",
+  "source": "Zee Business",
+  "published_utc": "2020-01-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What shares should you invest in if you had Rs 5 lakh?",
+  "source": "Rediff",
+  "published_utc": "2020-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Thapar Group\u2019s BILT in bankruptcy court",
+  "source": "The Economic Times",
+  "published_utc": "2020-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy S10 Lite launched in India at \u20b939,999, pre-booking starts today",
+  "source": "Livemint",
+  "published_utc": "2020-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q3 results: Profit surges 158%, lowers provisions",
+  "source": "The Statesman",
+  "published_utc": "2020-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How SBI, ICICI Bank account holders can withdraw cash at ATMs without debit cards",
+  "source": "Livemint",
+  "published_utc": "2020-01-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "K.V. Kamath in Mysuru",
+  "source": "Star of Mysore",
+  "published_utc": "2020-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dharmendra Rai launches his book 'The thin mind map book'",
+  "source": "Forbes India",
+  "published_utc": "2020-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches \u2018iBox\u2019, a self-service delivery facility for customers",
+  "source": "Express Computer",
+  "published_utc": "2020-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches iBox facility, here\u2019s what it means for customers",
+  "source": "The Times of India",
+  "published_utc": "2020-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s new facility: Get debit, credit card, cheque book anytime, any day",
+  "source": "Livemint",
+  "published_utc": "2020-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Introduces \u2018iBox' For Self-Service Delivery Of Debit, Credit Cards, Cheques",
+  "source": "Goodreturns",
+  "published_utc": "2020-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Stock Analysis | Why Stock price is increasing?",
+  "source": "Invest Yadnya",
+  "published_utc": "2020-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s iBox facility: Get debit, credit card, cheque book anytime",
+  "source": "Times Now",
+  "published_utc": "2020-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

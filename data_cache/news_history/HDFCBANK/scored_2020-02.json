@@ -1,0 +1,542 @@
+[
+ {
+  "title": "Nation-wide strike impacts banking services at PSU banks",
+  "source": "The Economic Times",
+  "published_utc": "2020-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Diners Club halves 10X partner list",
+  "source": "Live From A Lounge",
+  "published_utc": "2020-02-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai local: After two fully AC trains, suburban services to go with mixed coaches",
+  "source": "Livemint",
+  "published_utc": "2020-02-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB seeks IRDAI forbearance for paring stake in Canara HSBC OBC Life",
+  "source": "The Economic Times",
+  "published_utc": "2020-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra Co-op Bank pitches for branch merger of PMC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2020-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Students\u2019 Speak: Know complete interview process and placement stats for IMI Bhubaneswar 2019-20",
+  "source": "Shiksha.com",
+  "published_utc": "2020-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assam : Sameer Kumar Khare gets proforma promotion to CS grade",
+  "source": "Legend Officers",
+  "published_utc": "2020-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RTO can't levy 'one-time' tax on used vehicles: Gujarat high court",
+  "source": "The Times of India",
+  "published_utc": "2020-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Sons Chairman N Chandrasekaran: Remove tags to get more women in workforce",
+  "source": "Livemint",
+  "published_utc": "2020-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Apple Days 2020 sale: Flat \u20b97,000 discount on iPhone 11, iPhone 11 Pro",
+  "source": "Livemint",
+  "published_utc": "2020-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kunal Kamra announces international tour dates, 'which flight are you taking?' ask tweeple",
+  "source": "Livemint",
+  "published_utc": "2020-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "To boost credit, liquidity mechanism is modified",
+  "source": "Livemint",
+  "published_utc": "2020-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Finance Ministry Working On Financial Resolution And Deposit Insurance Bill, Says Sitharaman",
+  "source": "NDTV Profit",
+  "published_utc": "2020-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PFRDA doubles minimum net worth for pension fund managers to \u20b950 cr",
+  "source": "Livemint",
+  "published_utc": "2020-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Akal Takht mulling ban on mobile phones inside Golden Temple",
+  "source": "Livemint",
+  "published_utc": "2020-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC ERGO Health unveils quirky 'Bad News, Good News' campaign with Nawazuddin Siddiqui",
+  "source": "Exchange4Media",
+  "published_utc": "2020-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gang engaged in financial fraud busted by Cyberabad police",
+  "source": "ANI News",
+  "published_utc": "2020-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank appoints Anjani Rathor as chief digital officer: Report",
+  "source": "MediaNama",
+  "published_utc": "2020-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank appoints Anjani Rathor as Chief Digital Officer",
+  "source": "ET CIO",
+  "published_utc": "2020-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deposits are another pain point for capital-hungry Yes Bank",
+  "source": "mint",
+  "published_utc": "2020-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Android 10 users with HDFC MobileBanking app cannot access UPI",
+  "source": "The Indian Express",
+  "published_utc": "2020-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google's Gboard gets new emoji mashup stickers, compatible with WhatsApp, others",
+  "source": "mint",
+  "published_utc": "2020-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Agriculture Loan Market 2020-2027 is anticipated to propagate",
+  "source": "openPR.com",
+  "published_utc": "2020-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC Housing Finance refers 14 stuck projects for last-mile funding through AIF",
+  "source": "Livemint",
+  "published_utc": "2020-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Apple Days offers: Discounts on iPhone 11 series, Apple Watch 4 and more",
+  "source": "The Indian Express",
+  "published_utc": "2020-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai to Ahmedabad Tejas Express will have longer stoppage at select station",
+  "source": "Livemint",
+  "published_utc": "2020-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Accountant forges signature of actor Balakrishna's wife, detained",
+  "source": "NewsMeter",
+  "published_utc": "2020-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nandamuri Balakrishna's Wife Signature Forged",
+  "source": "Tupaki English",
+  "published_utc": "2020-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bajaj Finance replaces SBI as one of top-10 most-valued companies on BSE",
+  "source": "Business Today",
+  "published_utc": "2020-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks Q3FY20 roundup: Lower loan growth and elevated provisions to continue",
+  "source": "CNBC TV18",
+  "published_utc": "2020-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank completes 25 years of operations",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SAP Concur, HDFC Bank and Mastercard Partner to Make Business Travel Simpler",
+  "source": "Express Computer",
+  "published_utc": "2020-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Accountant allegedly forges sign of Balakrishna\u2019s wife, held by Hyderabad police",
+  "source": "The News Minute",
+  "published_utc": "2020-02-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's richest CEO: Avenue Supermarts' Ignatius Navil Noronha has net worth of Rs 3,128cr",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-02-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "There is no slowdown in credit card spends, says HDFC Bank\u2019s Parag Rao",
+  "source": "Livemint",
+  "published_utc": "2020-02-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HSBC India profit crosses $1 bn in 2019, third-most profitable in Asia",
+  "source": "Business Standard",
+  "published_utc": "2020-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar's plea against sacking has no legal ground: ICICI Bank to HC",
+  "source": "Business Standard",
+  "published_utc": "2020-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Market Wrap, Feb 20: Sensex down 153 pts, Nifty below 12,100",
+  "source": "Business Standard",
+  "published_utc": "2020-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Max Life\u2019s dream comes true, gets Axis Bank an insurance exposure",
+  "source": "Livemint",
+  "published_utc": "2020-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After ADITYA PURI, who?",
+  "source": "LinkedIn",
+  "published_utc": "2020-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Relief for Bandhan Bank promoters?",
+  "source": "The Times of India",
+  "published_utc": "2020-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo A31 likely to launch next week in India, may cost Rs 13,500",
+  "source": "India Today",
+  "published_utc": "2020-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank fixed deposit (FD) interest rates at 9%. Latest rates here",
+  "source": "Livemint",
+  "published_utc": "2020-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank ties up with MeeSeva",
+  "source": "The Hans India",
+  "published_utc": "2020-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TransUnion CIBIL appoints HDFC Bank veteran as MD and CEO",
+  "source": "VCCircle",
+  "published_utc": "2020-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank aims to be go-to bank for start-ups",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank gives SmartUp grants to 20 social sector startups",
+  "source": "YourStory.com",
+  "published_utc": "2020-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rajesh Kumar appointed as TransUnion CIBIL CEO",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Uses Advanced Analytics For 10 Second Loan Approvals: Smita Bhagat, Country Head",
+  "source": "analyticsindiamag.com",
+  "published_utc": "2020-02-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri of HDFC Bank: Not necessary successor will be internal",
+  "source": "CNBC TV18",
+  "published_utc": "2020-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda start-up initiative launched to connect with 2,000 companies",
+  "source": "The New Indian Express",
+  "published_utc": "2020-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndiGo launches co-branded credit card Ka-Ching with HDFC Bank, MasterCard",
+  "source": "Livemint",
+  "published_utc": "2020-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri squelches speculation over differences with Deepak Parekh",
+  "source": "The Economic Times",
+  "published_utc": "2020-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri denies rumours of differences with Deepak Parekh over successor",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Cards IPO: SBI Subsidiaries Valued At Nearly Two-Thirds Of Bank\u2019s Market Cap",
+  "source": "NDTV Profit",
+  "published_utc": "2020-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Cards IPO: Here's how SBI credit cards compare with other banks' products",
+  "source": "CNBC TV18",
+  "published_utc": "2020-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MSSC Security Guard Recruitment 2020: Apply online for 7000 posts",
+  "source": "The Times of India",
+  "published_utc": "2020-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndiGo, HDFC credit card: points, features, how to apply",
+  "source": "Cond\u00e9 Nast Traveller India",
+  "published_utc": "2020-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IBLA 2020: Mukesh Ambani wins iconic Business Leader of the Decade award; Arun Jaitley conferred with Hall of Fame award",
+  "source": "Firstpost",
+  "published_utc": "2020-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Business Leaders Awards 2020: Winners",
+  "source": "News18",
+  "published_utc": "2020-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

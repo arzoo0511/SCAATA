@@ -1,0 +1,704 @@
+[
+ {
+  "title": "HDFC Bank Launches \u2018e-Kisaan Dhan\u2019 App for Farmers",
+  "source": "AffairsCloud",
+  "published_utc": "2020-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life Ins asked to pay Rs 55K to customer for not reimbursing claim",
+  "source": "NewsMeter",
+  "published_utc": "2020-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock Market Today: Sensex, Nifty trade tepid on mixed global cues; Bharti Airtel, Ashok Leyland shares gain",
+  "source": "Zee Business",
+  "published_utc": "2020-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deal: IndiGo offering 100% cashback as 6E Rewards to co-brand card holders",
+  "source": "Live From A Lounge",
+  "published_utc": "2020-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI ATM withdrawal charges effective from July 1",
+  "source": "The Economic Times",
+  "published_utc": "2020-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank to raise Rs15,000 crore via share sale",
+  "source": "Livemint",
+  "published_utc": "2020-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank introduces instant auto loan ZipDrive in 1,000 cities",
+  "source": "ET Auto",
+  "published_utc": "2020-07-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC questioning RBI on moratorium unfortunate: HDFC chairman Deepak Parekh",
+  "source": "Business Standard",
+  "published_utc": "2020-07-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State of play: India's banks in 2020",
+  "source": "www.thebanker.com",
+  "published_utc": "2020-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to Offer \u2018ZipDrive\u2019, an Online Instant Auto Loans to its Customers",
+  "source": "AffairsCloud.com",
+  "published_utc": "2020-07-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life Shares Soar Above 7.5% On Inclusion In Nifty 50 Index",
+  "source": "NDTV Profit",
+  "published_utc": "2020-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 banks that offer the best interest rates on savings accounts",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three private banks show Q1 is less of a washout, HDFC Bank shines",
+  "source": "Livemint",
+  "published_utc": "2020-07-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At Sub-7%, Have HOME LOAN Rates Reached Rock Bottom?",
+  "source": "LinkedIn",
+  "published_utc": "2020-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyundai India's online car buying platform received over 15 lakh visitors since March",
+  "source": "ET Auto",
+  "published_utc": "2020-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pandemic helped kirana stores embrace technology: EY survey",
+  "source": "Livemint",
+  "published_utc": "2020-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why is SBI's market cap so low compared to HDFC Bank?",
+  "source": "Business Today",
+  "published_utc": "2020-07-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI To Invest $150 Mn For MSME-Centric B2B Ecommerce Platform",
+  "source": "Inc42",
+  "published_utc": "2020-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty50 index weightage: Only 3 in top 10 stocks saw uptick in June quarter",
+  "source": "CNBC TV18",
+  "published_utc": "2020-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki partners with Axis Bank for finance solutions",
+  "source": "ET Auto",
+  "published_utc": "2020-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki partners with Axis Bank for easy financing",
+  "source": "The Times of India",
+  "published_utc": "2020-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank records 4% loan growth till June 30",
+  "source": "The Financial Express",
+  "published_utc": "2020-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI likely to invest $150 Mn in B2B e-commerce platform for MSMEs",
+  "source": "SME Futures",
+  "published_utc": "2020-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can\u2019t maintain minimum balance? Know why it\u2019s better to close the bank account",
+  "source": "Livemint",
+  "published_utc": "2020-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loan interest rates fall below 7%: From SBI to HDFC, check out where you can get the best deal",
+  "source": "The Financial Express",
+  "published_utc": "2020-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Writ Petition Maintainable Against Private Bank For Enforcement Of RBI Circular On Loan Moratorium :...",
+  "source": "Live Law",
+  "published_utc": "2020-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold price crosses 50K: To deal with cash crunch, should you monetise idle gold?",
+  "source": "The Economic Times",
+  "published_utc": "2020-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here are 10 banks offering the best rates on one-year fixed deposits",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "China\u2019s PBoC sells HDFC stake",
+  "source": "Livemint",
+  "published_utc": "2020-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private banks lead in MeitY Digital Payments scorecard for FY20",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loans gets cheaper as Union Bank cuts MCLR by 20 bps, effective from tomorrow",
+  "source": "India TV News",
+  "published_utc": "2020-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank to Raise up to Rs 8,000 Crore in FY21",
+  "source": "Equitypandit",
+  "published_utc": "2020-07-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank probes lending practices at vehicle unit",
+  "source": "The Times of India",
+  "published_utc": "2020-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "El Sherbini and Gohar battle for No 1 spot as Qatar Classic begins | Gulf Times",
+  "source": "Gulf Times",
+  "published_utc": "2020-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three Loss-Making Banks Back To Black But No Three Cheers Yet...",
+  "source": "LinkedIn",
+  "published_utc": "2020-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank probed \u2018improper lending, conflict of interest\u2019 in its vehicle loans unit",
+  "source": "ThePrint",
+  "published_utc": "2020-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank probes auto loan practices",
+  "source": "The Times of India",
+  "published_utc": "2020-07-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vehicle unit under probe: No question of loan book being affected, says lender",
+  "source": "CNBC TV18",
+  "published_utc": "2020-07-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank FPO opens for subscription on Wednesday, key things to know before buying",
+  "source": "Livemint",
+  "published_utc": "2020-07-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Munish Mittal quits HDFC Bank in a surprise exit",
+  "source": "ET CIO",
+  "published_utc": "2020-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exits signal big revamp at HDFC Bank | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2020-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Senior citizens special fixed deposit (FD) scheme: SBI, ICICI, HDFC Bank's latest rates here",
+  "source": "Livemint",
+  "published_utc": "2020-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "RBI directs HDFC Bank to return \u20b9210 crore to Mashreq Bank in Altico Capital case",
+  "source": "Livemint",
+  "published_utc": "2020-07-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Driven by an increase in interest income, HDFC Bank net profit up by nearly 20%",
+  "source": "The New Indian Express",
+  "published_utc": "2020-07-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank's Aditya Puri highest paid banker for FY20 with Rs 18.92 cr in remuneration",
+  "source": "The Times of India",
+  "published_utc": "2020-07-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "My \u2018successor\u2019 has been in HDFC for 25 yrs: Puri",
+  "source": "The Times of India",
+  "published_utc": "2020-07-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank's Aditya Puri highest paid banker for FY20 with \u20b918.92 cr in remuneration",
+  "source": "Livemint",
+  "published_utc": "2020-07-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Here are highlights from HDFC Bank's 26th AGM",
+  "source": "CNBC TV18",
+  "published_utc": "2020-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank CEO Aditya Puri is India\u2019s highest paid banker this is his salary",
+  "source": "GQ India",
+  "published_utc": "2020-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC appoints record 19 merchant banks to raise capital: Report",
+  "source": "The Statesman",
+  "published_utc": "2020-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank may have bundled GPS devices with vehicle loans",
+  "source": "Livemint",
+  "published_utc": "2020-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Meet Aditya Puri, India's highest paid banker CEO. Here's his annual salary",
+  "source": "India TV News",
+  "published_utc": "2020-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "FD interest rate revised by ICICI Bank! Compare latest rates with SBI, HDFC Bank \u2013 July 2020",
+  "source": "The Financial Express",
+  "published_utc": "2020-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "SBI vs PNB vs ICICI Bank vs HDFC Bank: Home loan interest rates, processing fees compared",
+  "source": "Times Now",
+  "published_utc": "2020-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank sacks six officials following internal probe: Five questions answered",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank fires 6 employees over 'improper lending' related to car loans",
+  "source": "Business Today",
+  "published_utc": "2020-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Car loan probe: HDFC Bank terminates half a dozen employees for violating the code of conduct",
+  "source": "The Economic Times",
+  "published_utc": "2020-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank likely tied GPS with car loan",
+  "source": "The Hindu",
+  "published_utc": "2020-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank may have clubbed GPS device with car loan",
+  "source": "The Times of India",
+  "published_utc": "2020-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "India Watchdog Seeks Car Loan Probe Details From HDFC Bank",
+  "source": "Bloomberg.com",
+  "published_utc": "2020-07-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "RBI seeks internal car loan investigation details from HDFC bank",
+  "source": "ET Auto",
+  "published_utc": "2020-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Aditya Puri sells 7.42 million shares worth Rs 842.9 crore in HDFC Bank",
+  "source": "Business Standard",
+  "published_utc": "2020-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Aditya Puri sells 74.2 lakh lakh shares worth Rs 843 crore in HDFC Bank",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2020-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Aditya Puri sells 74 lakh HDFC Bank shares",
+  "source": "CNBC TV18",
+  "published_utc": "2020-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank MD Aditya Puri sold 74.2 lakh shares of bank, to retire in October",
+  "source": "IBTimes India",
+  "published_utc": "2020-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Aditya Puri sells HDFC Bank shares worth \u20b9842 cr, holding down to 0.01%",
+  "source": "The Hindu",
+  "published_utc": "2020-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Aditya Puri sells HDFC Bank shares worth Rs 843 crore",
+  "source": "The Times of India",
+  "published_utc": "2020-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank named \u2018India\u2019s Best Bank\u2019 at Euromoney Awards 2020",
+  "source": "MediaBrief",
+  "published_utc": "2020-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank stock tanks: Aditya Puri under fire - The Indian Wire",
+  "source": "The Indian Wire",
+  "published_utc": "2020-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Aditya Puri sells 7.42 million shares in HDFC Bank for Rs 843 cr",
+  "source": "Business Standard",
+  "published_utc": "2020-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank declines over 3 per cent as Aditya Puri sells shares",
+  "source": "India TV News",
+  "published_utc": "2020-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "A shoddy succession plan at HDFC Bank",
+  "source": "The Morning Context",
+  "published_utc": "2020-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "How to download Form-16A, interest certificate for HDFC bank",
+  "source": "The Economic Times",
+  "published_utc": "2020-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Senior citizens special fixed deposit (FD) latest rates: SBI vs Bank of Baroda vs ICICI vs HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2020-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "How HDFC Bank's myApps is enabling Digital connect with God, Housing Societies and Urban Local Bodies",
+  "source": "YourStory.com",
+  "published_utc": "2020-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "HDFC Bank has been an outlier under Aditya Puri. Here\u2019s why his successor will have a tougher task.",
+  "source": "The Economic Times",
+  "published_utc": "2020-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "How a true professional changed the script of Assam Co-op Apex Bank!",
+  "source": "Indian Cooperative",
+  "published_utc": "2020-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-20b"
+ },
+ {
+  "title": "Oppo Reno 4 Pro with 6.5-inch FHD+ display 65W SuperVOOC 2.0 launched in India: Price, specs and more",
+  "source": "The Times of India",
+  "published_utc": "2020-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-20b"
+ }
+]

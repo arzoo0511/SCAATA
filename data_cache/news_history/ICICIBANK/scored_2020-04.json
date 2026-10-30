@@ -1,0 +1,371 @@
+[
+ {
+  "title": "ICICI Bank starts WhatsApp banking",
+  "source": "Banking Frontiers",
+  "published_utc": "2020-04-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks to roll out EMI waiver options soon",
+  "source": "The Times of India",
+  "published_utc": "2020-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank joins WhatsApp, customers can manage account on WhatsApp chat: Here is how",
+  "source": "India Today",
+  "published_utc": "2020-04-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank loan EMI moratorium: How it works and the charges",
+  "source": "The Economic Times",
+  "published_utc": "2020-04-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank-backed fintech startup Fingpay raises Series A cash from IvyCap Ventures",
+  "source": "VCCircle",
+  "published_utc": "2020-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Moody's places IndusInd Bank's issuer ratings on review for downgrade",
+  "source": "Livemint",
+  "published_utc": "2020-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI\u2019s WhatsApp banking is setting new service standards in retail banking",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank donates 16000 masks, 1000 gloves to CISF personnel deployed at metro stations in Delhi",
+  "source": "ANI News",
+  "published_utc": "2020-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to maximise your Groceries spend while sitting home?",
+  "source": "Live From A Lounge",
+  "published_utc": "2020-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How To Recharge Jio, Vodafone or Airtel Number With an ATM Card",
+  "source": "The Quint",
+  "published_utc": "2020-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank slashes interest rates on loans upto 35 bps",
+  "source": "Livemint",
+  "published_utc": "2020-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank receives govt approval to collect donations for PM CARES Fund",
+  "source": "mint",
+  "published_utc": "2020-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vodafone Idea prepaid numbers can now be recharged at ATMs",
+  "source": "The Mobile Indian",
+  "published_utc": "2020-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why you should stop or pause your SIP if you can\u2019t service it",
+  "source": "Livemint",
+  "published_utc": "2020-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank & HDFC Bank lead the pack in digitization: Report",
+  "source": "The Economic Times",
+  "published_utc": "2020-04-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank deploys mobile ATM vans in Delhi NCR and Chennai",
+  "source": "Cityairnews",
+  "published_utc": "2020-04-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI to deploy mobile ATM vans in Noida, other districts in UP",
+  "source": "The Economic Times",
+  "published_utc": "2020-04-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Savings bank accounts compared: SBI vs ICICI Bank vs Axis Bank vs HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2020-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lock into FDs of select banks now",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Savings Account Interest Rate Cut by 25 Basis Points, To Fetch 2.75% Returns Per Annum",
+  "source": "LatestLY",
+  "published_utc": "2020-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank deploys two mobile ATM vans in Mumbai; to offer these services till lockdown is on",
+  "source": "Firstpost",
+  "published_utc": "2020-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank deploys mobile ATM vans in Mumbai",
+  "source": "ATM Marketplace",
+  "published_utc": "2020-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior citizens can avail doorstep banking facility during coronavirus lockdown",
+  "source": "Business Today",
+  "published_utc": "2020-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Share Market Update: Sensex ends 986 points higher, Nifty at 9,291; Eicher Motors, ICICI Bank top gainers",
+  "source": "Business Today",
+  "published_utc": "2020-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking system provides services seamlessly during COVID-19 crisis",
+  "source": "The Financial Express",
+  "published_utc": "2020-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank has $100 million exposure to troubled Singapore oil trader that hid losses",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches voice banking facility for these customers, here\u2019s what it means",
+  "source": "The Times of India",
+  "published_utc": "2020-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank account holders, credit card owners alert! New feature is here for your convenience - How it works",
+  "source": "Zee Business",
+  "published_utc": "2020-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches voice banking",
+  "source": "Banking Frontiers",
+  "published_utc": "2020-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank confirms exposure to Singapore firm Hin Leong, says taking appropriate steps",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI now holds 48.21% in Yes Bank; HDFC, ICICI Bank 7.97% each",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to deploy mobile ATMs in Tamil Nadu amid coronavirus lockdown",
+  "source": "Deccan Herald",
+  "published_utc": "2020-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI PO Cut Off 2020 - Check Result and Selection Procedure",
+  "source": "Careers360",
+  "published_utc": "2020-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking declared as public utility service for six months till 21 October; employees will not be able to go on strikes",
+  "source": "Firstpost",
+  "published_utc": "2020-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI online banking: Check out these 6 tips from India's largest bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-04-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "COVID-19 lockdown: ICICI bank deploys mobile ATM vans in Ahmedabad city",
+  "source": "The Statesman",
+  "published_utc": "2020-04-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Doorstep banking facility: List of banks that offer this service",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank Q4 results: Lender's asset quality worrying for investors still",
+  "source": "Business Standard",
+  "published_utc": "2020-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI's 1-year FD is offering lower interest rate than some banks' savings accounts",
+  "source": "The Economic Times",
+  "published_utc": "2020-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zoho Announced Swadeshi Sankalp To Help Indian Education and Government Sectors",
+  "source": "SMEStreet",
+  "published_utc": "2020-04-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI BANK DEPLOYS MOBILE ATM IN AHMEDABAD",
+  "source": "Cityairnews",
+  "published_utc": "2020-04-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

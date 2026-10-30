@@ -1,0 +1,74 @@
+[
+ {
+  "title": "Top news of the week February 3-8",
+  "source": "Offshore Energy",
+  "published_utc": "2020-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt to push LNG for inter-city long bus travels",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government Must Get Down To Selling BPCL Investments Before Privatising It",
+  "source": "Swarajya",
+  "published_utc": "2020-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil expected to ink gas transportation agreement with ExxonMobil & Chart Industries during Trump visit",
+  "source": "Livemint",
+  "published_utc": "2020-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL to invest Rs 1.05 lakh cr to create infra for gas-based economy",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL to invest Rs 1.05 lakh cr over next five years to create infrastructure for gas-based economy",
+  "source": "Firstpost",
+  "published_utc": "2020-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Petronet explores buying LNG under 10-year contract",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-02-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's first commercial LNG bus launched in Kochi",
+  "source": "The New Indian Express",
+  "published_utc": "2020-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

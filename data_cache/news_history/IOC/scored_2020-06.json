@@ -1,0 +1,425 @@
+[
+ {
+  "title": "Former Union Minister P Namgyal passes away",
+  "source": "Reach Ladakh Bulletin",
+  "published_utc": "2020-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coronavirus impact: Top Indian firms likely to lose $25 billion of brand value, says Brand Finance report",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "John Cusack claims he was attacked by police for documenting George Floyd protests",
+  "source": "The Indian Express",
+  "published_utc": "2020-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG price in Delhi hiked: Here is how much Indane Gas cylinder will cost you now",
+  "source": "Zee Business",
+  "published_utc": "2020-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SK Barua, Managing Director of Numaligarh Refinery",
+  "source": "The CEO Magazine",
+  "published_utc": "2020-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Crude Oil Prices Impact Indian Market & Economy?",
+  "source": "Trade Brains",
+  "published_utc": "2020-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Signals of selection in the mitogenome provide insights into adaptation mechanisms in heterogeneous habitats in a widely distributed pelagic fish",
+  "source": "Nature",
+  "published_utc": "2020-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Determinable Contracts Under the Specific Relief Act, 1963 \u2013 Part II",
+  "source": "Cyril Amarchand Mangaldas",
+  "published_utc": "2020-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "C P Kukreja Architects win Indian Oil Corporation Limited, Punjab Headquarter Design",
+  "source": "World Architecture Community",
+  "published_utc": "2020-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU Petrol pump dealership April-May-2019 \u2013 How to apply?",
+  "source": "Myinvestmentideas",
+  "published_utc": "2020-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CP Kukreja Architects wins the proposal to design state headquarters for Indian Oil Corporation Limited in Punjab",
+  "source": "Architect and Interiors India",
+  "published_utc": "2020-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Reopens Apprentice Recruitment Notified In March, Adds New Trades",
+  "source": "NDTV",
+  "published_utc": "2020-06-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Big Oil Is Investing In India",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2020-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel Sales Likely To Be Revived By Unlock 1.0: Indian Oil Corporation",
+  "source": "carandbike",
+  "published_utc": "2020-06-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Seeks Up To 24 Million Barrels Of U.S. Crude For Oct 2020-March 2021 Delivery: Report",
+  "source": "carandbike",
+  "published_utc": "2020-06-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assam: OIL-owned well catches fire on 14th day of natural gas leak",
+  "source": "The Indian Express",
+  "published_utc": "2020-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel price hiked for 5th day today. Check latest rates in top cities",
+  "source": "Livemint",
+  "published_utc": "2020-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A unique online exhibition event successfully conducted by IOC and ChessBase India",
+  "source": "ChessBase India",
+  "published_utc": "2020-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assam fire: MB Lal Committee recommendations not implemented for a decade",
+  "source": "Down To Earth",
+  "published_utc": "2020-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Just Curbed Tyre Imports: Here\u2019s How IOC, Reliance, Rubber Growers And Tyre Makers Will Benefit",
+  "source": "Swarajya",
+  "published_utc": "2020-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Baghjan fire: IOWU wants pvt contractors out",
+  "source": "The Indian Express",
+  "published_utc": "2020-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: Why India is trying to boost its oil refining capacity",
+  "source": "The Indian Express",
+  "published_utc": "2020-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We will buy 50 lakh tonne of coal for Angul plant in the current financial year: VR Sharma, MD, JSPL",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ras Al Khaimah's licensing round sees interest from Indian investors",
+  "source": "www.thenationalnews.com",
+  "published_utc": "2020-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel price hits record high after rates hiked for 14th day in a row; petrol up 51 paise",
+  "source": "The Times of India",
+  "published_utc": "2020-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel hits record high, petrol up 51 paise as fuel price hike continues",
+  "source": "The Statesman",
+  "published_utc": "2020-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Big increase in jet fuel price adds to the woes of airlines",
+  "source": "Livemint",
+  "published_utc": "2020-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Tenders For AMC Of 5 MW Solar Panels In Rajasthan",
+  "source": "SolarQuarter",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda vs IOCL: Supreme Court dismisses plea against Calcutta HC order asking RBI to consider revoking Bank's licence",
+  "source": "Bar and Bench",
+  "published_utc": "2020-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil proposes gas pipeline through eco-sensitive zone in TN and Puducherry",
+  "source": "The New Indian Express",
+  "published_utc": "2020-06-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dharmendra Pradhan & Tamil Nadu CM inaugurate compressed bio-gas plant and CBG stations",
+  "source": "PSU Watch",
+  "published_utc": "2020-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian refiners crude processing in May recovers, up 7.3 per cent from April",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-06-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SUN Mobility partners with Indian Oil Corporation Limited to launch battery-swapping station",
+  "source": "ET Auto",
+  "published_utc": "2020-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha To Lead In Polymer Research With IOCL\u2019s New Product Application Center",
+  "source": "My City Links",
+  "published_utc": "2020-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Add IOC, target price Rs 98: ICICI Securities",
+  "source": "The Economic Times",
+  "published_utc": "2020-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel prices increase for 20th day, petrol crosses Rs 80 a litre mark in Delhi | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2020-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sun Mobility partners Indian Oil for battery swapping station in Chandigarh",
+  "source": "Autocar Professional",
+  "published_utc": "2020-06-28T04:01:49+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil battery-swapping station for electric vehicles (EVs): How it Works",
+  "source": "Livemint",
+  "published_utc": "2020-06-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First Nations worry they'll lose out on cash to clean up old oil and gas wells in Western Canada",
+  "source": "CBC",
+  "published_utc": "2020-06-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches Battery Swapping Facility For Electric Vehicles",
+  "source": "Motoroids",
+  "published_utc": "2020-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 Oil And Gas Companies In India",
+  "source": "Inventiva",
+  "published_utc": "2020-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation unit sets up joint venture company for LPG business in Bangladesh",
+  "source": "Deccan Herald",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Foundation stone laid for Indian Oil\u2019s R&D campus in Faridabad",
+  "source": "Manufacturing Today India",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SUN Mobility Partners With Indian Oil Corporation To Launch Battery-Swapping Station",
+  "source": "Gaadiwaadi.com",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sardine catch in Kerala lowest in the past 20 years",
+  "source": "The News Minute",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Middle East subsidiary inks JV pact for LPG business in Bangladesh",
+  "source": "PSU Watch",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kerala\u2019s landings down by 15%; sharp decline in oil sardine and Indian mackerel",
+  "source": "The Times of India",
+  "published_utc": "2020-06-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

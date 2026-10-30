@@ -1,0 +1,470 @@
+[
+ {
+  "title": "10 most-valued domestic firms add Rs 3.10 trn to m-cap; TCS biggest gainer",
+  "source": "Business Standard",
+  "published_utc": "2020-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches chatbot iPal, voice assistants",
+  "source": "Banking Frontiers",
+  "published_utc": "2020-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Over 1,100 customers to lose out in CKP Co-operative Bank's liquidation",
+  "source": "Livemint",
+  "published_utc": "2020-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kusal Roy to head retail banking at StanChart-India",
+  "source": "Banking Frontiers",
+  "published_utc": "2020-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Redmi Note 9 Pro to go on sale today at 12pm",
+  "source": "The Times of India",
+  "published_utc": "2020-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex dives 2,002 points on PMI\u2019s historic low, global cues",
+  "source": "The Times of India",
+  "published_utc": "2020-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex rebounds after 2-day losing streak, ends 232 points higher",
+  "source": "Telegraph India",
+  "published_utc": "2020-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Subvention scheme a ticking time bomb: Mumbai real estate set to get taste of crisis like Noida",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank appoints Neeraj Dhawan as chief risk officer",
+  "source": "AffairsCloud",
+  "published_utc": "2020-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q4 results today, key things to watch out for",
+  "source": "The Times of India",
+  "published_utc": "2020-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q4 net up 26% at \u20b91,221 cr but misses estimates on virus provisions",
+  "source": "Livemint",
+  "published_utc": "2020-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC vs ICICI vs Axis Bank: Where to get cheapest home loan? Rates compared",
+  "source": "The Financial Express",
+  "published_utc": "2020-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to shift HQ from Vadodara to Mumbai",
+  "source": "Mumbai Mirror",
+  "published_utc": "2020-05-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coronavirus impact: Standard Chartered Bank customers can now make all service requests digitally",
+  "source": "The Economic Times",
+  "published_utc": "2020-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Large snake climbs into ATM outside bank in India",
+  "source": "upi",
+  "published_utc": "2020-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI special FD scheme for senior citizens from tomorrow: Interest rate, details",
+  "source": "Livemint",
+  "published_utc": "2020-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Asset Classification \u2013 Be-hold",
+  "source": "Cyril Amarchand Mangaldas",
+  "published_utc": "2020-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brokerages share mixed views on Kotak Mahindra Bank after Q4; CLSA, ICICI Direct retain buy call",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Campus placements of 2020 passing-out batch of MBA students hits an all-time high at Chandigarh University",
+  "source": "ANI News",
+  "published_utc": "2020-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Agriculture Loan: Read Benefits, Eligibility, Documents Required to Avail KCC Facility; Direct Link to Apply",
+  "source": "Krishi Jagran",
+  "published_utc": "2020-05-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Redmi Note 9 Pro goes on sale today: Everything you need to know",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Redmi Note 9 Pro to go on sale from May 5 in India",
+  "source": "Digit",
+  "published_utc": "2020-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Interim monitoring committee for Jaypee resolution constituted: IRP to NCLAT",
+  "source": "ET Realty",
+  "published_utc": "2020-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chandigarh University MBA campus placement 2020 witnesses 40% hike",
+  "source": "Shiksha.com",
+  "published_utc": "2020-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo V19 goes on sale in India: Get 10% cashback with these cards",
+  "source": "The Times of India",
+  "published_utc": "2020-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Liquor price to go up in Jammu and Kashmir after excise duty hike",
+  "source": "Livemint",
+  "published_utc": "2020-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Online KYC is here: No need to visit a branch to open a bank account",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Redmi Note 9 Pro to go on sale today: Price and offers",
+  "source": "The Times of India",
+  "published_utc": "2020-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Ireland plans to roll out mobile banking app this month",
+  "source": "Retail Banker International",
+  "published_utc": "2020-05-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to update KYC in your EPF account",
+  "source": "The Economic Times",
+  "published_utc": "2020-05-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank launches special FD scheme for senior citizens",
+  "source": "The News Minute",
+  "published_utc": "2020-05-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Announces Eid Celebration Offers on Consumer Durables; Get Exciting Deals, Cashback Up to 15% and EMIs as Low as INR 990",
+  "source": "Samsung Global Newsroom",
+  "published_utc": "2020-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Different Countries Dealt With The Global Financial Crisis?",
+  "source": "Outlook Money",
+  "published_utc": "2020-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How will RBI's extended moratorium on all loans help home loan borrowers?",
+  "source": "IBTimes India",
+  "published_utc": "2020-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI introduced \u2018ICICI Bank Golden Years FD\u2019 a special FD with interest rate of 6.55% pa for senior citizens",
+  "source": "AffairsCloud",
+  "published_utc": "2020-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC, and ICICI Bank announce special FD schemes for senior citizens; check out interest rates, other key features",
+  "source": "Business Today",
+  "published_utc": "2020-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Don\u2019t fall for special senior citizen FDs of banks. Consider these options",
+  "source": "Moneylife",
+  "published_utc": "2020-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Congress leader Sanjay Jha tests positive for COVID-19",
+  "source": "Rediff",
+  "published_utc": "2020-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki partners with ICICI Bank to provide retail financing schemes to customers",
+  "source": "AffairsCloud",
+  "published_utc": "2020-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Bank cuts savings rate to 3.5% for up to Rs 1 lakh balance",
+  "source": "The Financial Express",
+  "published_utc": "2020-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "D-Street Buzz: Bank Nifty outshines, surges 6% led by Axis Bank; ICICI Bank, Bandhan Bank jumps 6%",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki Partners With ICICI Bank To Offer 3 New Finance Schemes",
+  "source": "CarDekho",
+  "published_utc": "2020-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's GDP growth to slow down to 1.5% in Q4, says ICICI Bank report",
+  "source": "Business Today",
+  "published_utc": "2020-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 Point Comparison of Major Private Banks in India",
+  "source": "Invest Yadnya",
+  "published_utc": "2020-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JPMorgan\u2019s Kalpana Morparia set to retire, Leo Puri to take over",
+  "source": "Livemint",
+  "published_utc": "2020-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki Introduces Finance Scheme Offers For New Car Buyers: Repayments With Flexible EMIs",
+  "source": "DriveSpark",
+  "published_utc": "2020-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kalpana Morparia to retire from JPM",
+  "source": "The Times of India",
+  "published_utc": "2020-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JP Morgan hires former UTI Mutual Fund CEO Leo Puri as South Asia head",
+  "source": "VCCircle",
+  "published_utc": "2020-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet multi-millionaire Kotakites: 5 executives worth Rs 100 crore each in Kotak Bank",
+  "source": "Business Today",
+  "published_utc": "2020-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HC eye on Hindpiri",
+  "source": "Telegraph India",
+  "published_utc": "2020-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank extends loan EMI moratorium period: Here are the terms, conditions, charges",
+  "source": "The Economic Times",
+  "published_utc": "2020-05-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank raises \u20b97,442 crore via QIP",
+  "source": "Livemint",
+  "published_utc": "2020-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

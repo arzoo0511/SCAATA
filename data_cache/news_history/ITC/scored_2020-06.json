@@ -1,0 +1,110 @@
+[
+ {
+  "title": "ITC Ltd. launches '5 STAR Kitchen ITC Chef's Special'",
+  "source": "The Hans India",
+  "published_utc": "2020-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Modi to address India inc shortly, to share his vision on 'Getting Growth Back'",
+  "source": "Livemint",
+  "published_utc": "2020-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "International Travel House launches 'Safe Car Promise'",
+  "source": "The Times of India",
+  "published_utc": "2020-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC, Emami identify emerging consumer trends amid 'new normal'",
+  "source": "ET Retail",
+  "published_utc": "2020-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Snacks vanished in lockdown but India's biscuit market was happily munching",
+  "source": "Business Standard",
+  "published_utc": "2020-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC spearheads #ProudlyIndian campaign on social media",
+  "source": "Exchange4Media",
+  "published_utc": "2020-06-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A91 Partners invests in spices maker Pushp",
+  "source": "VCCircle",
+  "published_utc": "2020-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's Sunfeast Dark Fantasy & Frozen Bottle launch exclusive chocolatey menu",
+  "source": "Exchange4Media",
+  "published_utc": "2020-06-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Online sales doubles for top consumer brands in India due to Covid-19",
+  "source": "The Economic Times",
+  "published_utc": "2020-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 FMCG Companies In India",
+  "source": "Inventiva",
+  "published_utc": "2020-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Soha Ali Khan announced Ms. Shrivalli Ghosh from St. Michael School, Siliguri the national champion of Classmate Spell Bee Season 12",
+  "source": "India Education Diary",
+  "published_utc": "2020-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nickelodeon India to Air 'Classmate Spellbee' Season 12 Finals",
+  "source": "NickALive!",
+  "published_utc": "2020-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

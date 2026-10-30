@@ -1,0 +1,101 @@
+[
+ {
+  "title": "ITC Foods, Domino\u2019s partner to deliver groceries",
+  "source": "Livemint",
+  "published_utc": "2020-04-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u00e2\u20ac\u2122s Foods Division provides relief with Box of Hope and Box of Happiness",
+  "source": "Adgully.com",
+  "published_utc": "2020-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Domino\u2019s Pizza and ITC Foods partner to deliver essential items and help Indians stay at home",
+  "source": "MediaNews4U",
+  "published_utc": "2020-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Domino\u2019s Is Now Delivering Essentials In Partnership With ITC Foods",
+  "source": "Inc42",
+  "published_utc": "2020-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "People First initiative by ITC Hotels focus on work force",
+  "source": "ET HospitalityWorld",
+  "published_utc": "2020-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Jelimals launches 'Do the 5' song to spread awareness on COVID-19 amongst children",
+  "source": "Exchange4Media",
+  "published_utc": "2020-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 12 FMCG companies sign up with govt\u2019s Suraksha Stores",
+  "source": "Livemint",
+  "published_utc": "2020-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Jelimals, Chhota Bheem spread Covid-19 awareness to kids",
+  "source": "ET BrandEquity",
+  "published_utc": "2020-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\"ITC's People First initiative is dedicated to the incredible work force,\u201d says COO, Anil Chadha",
+  "source": "HR Katha",
+  "published_utc": "2020-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Our brand will give owners a bigger competitive edge post lockdown: Arindam Kunar",
+  "source": "ET HospitalityWorld",
+  "published_utc": "2020-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ltd. Salutes Mothers with #StayStrongMoms Campaign",
+  "source": "MediaNews4U",
+  "published_utc": "2020-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

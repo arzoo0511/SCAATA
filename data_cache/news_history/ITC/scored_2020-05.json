@@ -1,0 +1,155 @@
+[
+ {
+  "title": "ITC ltd ramps up production to meet demand for sanitisers",
+  "source": "ETRetail.com",
+  "published_utc": "2020-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt Planning To Sell Entire Stake In ITC, Axis Bank: Report",
+  "source": "Goodreturns",
+  "published_utc": "2020-05-06T05:30:09+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC hotels will soon have hospital-standard hygiene protocol",
+  "source": "Cond\u00e9 Nast Traveller India",
+  "published_utc": "2020-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018FM measures for agriculture will open new chapter\u2019",
+  "source": "The Hindu",
+  "published_utc": "2020-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Powers of the Income Tax Appellate Tribunal to grant stay and the amendment by the Finance Act, 2020 \u2013 is it directory or unconstitutional?",
+  "source": "SCC Online",
+  "published_utc": "2020-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Made in India: 10 timeless brands from West Bengal",
+  "source": "Cond\u00e9 Nast Traveller India",
+  "published_utc": "2020-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to acquire spice-maker Sunrise Foods",
+  "source": "Livemint",
+  "published_utc": "2020-05-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to buy spice maker Sunrise in big-ticket deal",
+  "source": "VCCircle",
+  "published_utc": "2020-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to acquire spice manufacturer Sunrise Foods; to augment product portfolio, boost FMCG revenue by 7%",
+  "source": "Firstpost",
+  "published_utc": "2020-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We\u2019re evaluating new food trends that gained momentum during lockdown: ITC\u2019s Hemant Malik",
+  "source": "BusinessLine",
+  "published_utc": "2020-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to acquire spice manufacturer Sunrise Foods Pvt Ltd",
+  "source": "Daijiworld",
+  "published_utc": "2020-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to buy spice maker Sunrise Foods",
+  "source": "The Hans India",
+  "published_utc": "2020-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC ties up with Amway to expand distribution network of its immunity-boosting products",
+  "source": "The New Indian Express",
+  "published_utc": "2020-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC partners with Amway India to sell new immunity beverage",
+  "source": "ET Retail",
+  "published_utc": "2020-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC vs HUL \u2013 Which One is Better? Valuation Angle",
+  "source": "Invest Yadnya",
+  "published_utc": "2020-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC partners with Amway to distribute new fruit beverage under B Natural brand",
+  "source": "Livemint",
+  "published_utc": "2020-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Covid-19: ITC launches vegetable, fruit cleaning product Nimwash",
+  "source": "Livemint",
+  "published_utc": "2020-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
