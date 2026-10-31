@@ -1,0 +1,101 @@
+[
+ {
+  "title": "Infosys, Accenture to cover COVID-19 vaccination costs for Indian workers",
+  "source": "Reuters",
+  "published_utc": "2021-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A Decade long endeavour to delight consumers with unparalleled experiences continues for Sunfeast Dark Fantasy",
+  "source": "NewsMeter",
+  "published_utc": "2021-03-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha government clears eight investment proposals worth Rs 1,214 crore",
+  "source": "The New Indian Express",
+  "published_utc": "2021-03-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Should you include sustainable funds?",
+  "source": "Livemint",
+  "published_utc": "2021-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Social media chatter drives campaigns, customer engagement for ITC",
+  "source": "Livemint",
+  "published_utc": "2021-03-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BACKSTORY: 1996 - A tumultuous year in the history of ITC",
+  "source": "CNBC TV18",
+  "published_utc": "2021-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi launches JalShakti, B'luru mandates rainwater harvesting",
+  "source": "Construction World",
+  "published_utc": "2021-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "World Water Day: Rain-water harvesting and usage to be mandatory for buildings in Bengaluru",
+  "source": "IBTimes India",
+  "published_utc": "2021-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wary of losing business, GSFC writes to DGTR",
+  "source": "Ahmedabad Mirror",
+  "published_utc": "2021-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chocolate makers have sweet-loving Indians in their sights",
+  "source": "chinadailyhk",
+  "published_utc": "2021-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Windsor Bengaluru becomes first hotel in the world to achieve LEED Zero Carbon Certification",
+  "source": "The Economic Times",
+  "published_utc": "2021-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,155 @@
+[
+ {
+  "title": "Akshay Kumar Singh assumes charge as MD & CEO of Petronet LNG Ltd",
+  "source": "PSU Watch",
+  "published_utc": "2021-02-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SN Tiwari gets additional charge as Director (Personnel & IR) of Coal India",
+  "source": "PSU Watch",
+  "published_utc": "2021-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Driftwood LNG Export Project, Louisiana",
+  "source": "Offshore Technology",
+  "published_utc": "2021-02-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MV Rajasekhar assumes additional charge as CMD of BEML",
+  "source": "PSU Watch",
+  "published_utc": "2021-02-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IRCTC RAJNI HASIJA IS ACTING CMD",
+  "source": "IndianMandarins",
+  "published_utc": "2021-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IRS (C&CE) turns into IRS (C&IT), Cadre restructuring soon",
+  "source": "IndianMandarins",
+  "published_utc": "2021-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Petronet forming LNG bunkering unit",
+  "source": "LNG Prime",
+  "published_utc": "2021-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG To Expand Dahej LNG Terminals Capacity - PT Pulse",
+  "source": "Projects Today",
+  "published_utc": "2021-02-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Petronet to expand Dahej LNG terminal\u2019s capacity to 22.5mtpa",
+  "source": "Construction Week India",
+  "published_utc": "2021-02-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GOVT TAKES OVER DELHI GYMKHANA CLUB APPOINTS AN ADMINISTRATOR",
+  "source": "IndianMandarins",
+  "published_utc": "2021-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SPG ALOK SHARMA ELEVATED AS ADG",
+  "source": "IndianMandarins",
+  "published_utc": "2021-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In chat with Anil Singhvi, Vikas Sethi says stock markets on the verge of bounce back, recommends 2 stocks",
+  "source": "Zee Business",
+  "published_utc": "2021-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FORMER SIRSA MP ASHOK TANWAR TO LAUNCH A POLITICAL PLATFORM",
+  "source": "IndianMandarins",
+  "published_utc": "2021-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "INTER CADRE DEPUTATION YATHISH CHANDRA GOES TO KARNATAKA",
+  "source": "IndianMandarins",
+  "published_utc": "2021-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI IPS OFFICERS DULAR GETS ANOTHER EXTENSION",
+  "source": "IndianMandarins",
+  "published_utc": "2021-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MORTH GH GUPTA APPOINTED DEPUTY SECRETARY",
+  "source": "IndianMandarins",
+  "published_utc": "2021-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Qatargas delivers first Q-Flex LNG cargo to India\u2019s Ennore terminal",
+  "source": "LNG Prime",
+  "published_utc": "2021-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

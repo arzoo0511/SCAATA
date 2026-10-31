@@ -1,0 +1,560 @@
+[
+ {
+  "title": "Bank Fixed Deposit: Check latest interest rates for general customers, senior citizens",
+  "source": "DNA India",
+  "published_utc": "2021-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pre-earnings business update: Bajaj Finance\u2019s loan growth crawls, HDFC Bank's defying slowdown",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank fixed deposit: These 3 banks are offering up to 7.5% interest on FDs | Check latest rates",
+  "source": "India TV News",
+  "published_utc": "2021-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior Citizens Savings Scheme - HDFC Bank vs ICICI Bank: Get higher returns under Special FD plan! Check details",
+  "source": "Zee Business",
+  "published_utc": "2021-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital transformation in banking: author Tamal Bandyopadhyay on writing the book \u2018HDFC Bank 2.0\u2019",
+  "source": "YourStory.com",
+  "published_utc": "2021-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Credit Cards Upgrade: Bank offering LifeTime Free upgrades to Infinia/Diners Club Black Credit Cards",
+  "source": "Live From A Lounge",
+  "published_utc": "2021-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI sets up of College of Supervision",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2021-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former HDFC Bank MD Aditya Puri joins Strides Group",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-01-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former HDFC CEO Aditya Puri joins pharma company Strides Group as adivor",
+  "source": "mint",
+  "published_utc": "2021-01-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri joins Strides Group as Advisor and Stelis Biopharma as Director",
+  "source": "Healthcare Radius",
+  "published_utc": "2021-01-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Power takes over power distribution in western, southern Odisha",
+  "source": "Business Standard",
+  "published_utc": "2021-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to Compensate Account Holder if a Customer loses Money due to Online Fraud: NCDRC [Read Order]",
+  "source": "Taxscan",
+  "published_utc": "2021-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI books Hyderabad-based Coastal Projects in over Rs 4,736 crore bank fraud",
+  "source": "The Times of India",
+  "published_utc": "2021-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stars spending big on posh homes",
+  "source": "PressReader",
+  "published_utc": "2021-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From start-up to world-beater: HDFC Bank\u2019s steady rise",
+  "source": "McKinsey & Company",
+  "published_utc": "2021-01-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo Y51A launched in India: Check price and specifications",
+  "source": "The Indian Express",
+  "published_utc": "2021-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u200bPenalty - Inactive PPF account? Follow this process to reactivate it",
+  "source": "The Economic Times",
+  "published_utc": "2021-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Senior Citizen Saving Scheme: Earn higher return than normal FD on your money here",
+  "source": "Zee Business",
+  "published_utc": "2021-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In Pics! Know Vivo Y51A price in India on launch | Full specs here",
+  "source": "Zee Business",
+  "published_utc": "2021-01-11T13:12:35+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian shares close at record high on Reliance, HDFC boost",
+  "source": "Business Recorder",
+  "published_utc": "2021-01-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Advisory clients cannot be charged broking fees: Sebi tells HDFC Securities",
+  "source": "Livemint",
+  "published_utc": "2021-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank episode shows that digital banking is not easy",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2021-01-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Special FDs or high interest savings account: What's better for senior citizen?",
+  "source": "Livemint",
+  "published_utc": "2021-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank penalises senior executive for inadvertently selling shares | Tata was appointed Chief Credit Officer in Dec | Inshorts",
+  "source": "Inshorts",
+  "published_utc": "2021-01-17T06:00:30+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest bank FD rates: What SBI, ICICI, HDFC Bank, Axis Bank, PNB offer",
+  "source": "Livemint",
+  "published_utc": "2021-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC, ICICI, Axis Bank stack up in digital banking",
+  "source": "Business Today",
+  "published_utc": "2021-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors partners with India\u2019s leading banks and NBFCs to offer the best financial assistance for its commercial vehicle customers \u2013 Tata Motors",
+  "source": "Tata Motors",
+  "published_utc": "2021-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors ties up with banks, NBFCs for commercial customers",
+  "source": "Telangana Today",
+  "published_utc": "2021-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank: An ear to the ground",
+  "source": "Fortune India",
+  "published_utc": "2021-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Plea in Delhi High Court against Lakshmi Vilas Bank-DBS merger says shareholders shortchanged",
+  "source": "The Economic Times",
+  "published_utc": "2021-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki Smart Finance online financing platform extended to Arena customers",
+  "source": "Overdrive",
+  "published_utc": "2021-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "You can grab the Poco X3 for Rs 14,999 today; Here\u2019s how",
+  "source": "The Indian Express",
+  "published_utc": "2021-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank signals IT issues may not be fixed by March",
+  "source": "The Times of India",
+  "published_utc": "2021-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-HDFC CEO Aditya Puri backs corporates in banking, says no harm in trying",
+  "source": "Business Standard",
+  "published_utc": "2021-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI Bank, HDFC Bank remain systemically important banks: RBI",
+  "source": "Livemint",
+  "published_utc": "2021-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: Technical issues that ail the largest private bank of the country",
+  "source": "CNBC TV18",
+  "published_utc": "2021-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank gives outage control plan to RBI; remedial measures may take nearly 3 months to implement",
+  "source": "Times Now",
+  "published_utc": "2021-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Too big to fail\u2019 list: SBI, ICICI Bank, HDFC Bank remain",
+  "source": "The Indian Express",
+  "published_utc": "2021-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI Bank, HDFC Bank remains in the 2020 list of D-SIBs",
+  "source": "AffairsCloud",
+  "published_utc": "2021-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI imposes Rs 1 cr penalty on HDFC Bank for wrongly invoking pledge of securities",
+  "source": "The News Minute",
+  "published_utc": "2021-01-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank submits plan of action to RBI, hopes to fix outage issue in 3 months",
+  "source": "The Economic Times",
+  "published_utc": "2021-01-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank, RBL Bank and Yes Bank offer 6.5% interest one-year fixed deposits",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks offer lifetime free cards to replace Jet Airways American Express co-brand cards",
+  "source": "Live From A Lounge",
+  "published_utc": "2021-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock & awe: M-cap at $5 trillion in 2023?",
+  "source": "The Times of India",
+  "published_utc": "2021-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank penalised for violations",
+  "source": "The New Indian Express",
+  "published_utc": "2021-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pune: Bank employee held for \u2018stealing gold ornaments worth Rs 40 lakh\u2019",
+  "source": "The Indian Express",
+  "published_utc": "2021-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How a Rs 10,000 investment in these stocks grew over the decades",
+  "source": "The Times of India",
+  "published_utc": "2021-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank branch in Chennai illegally demands Aadhaar details, biometric details to update info",
+  "source": "The New Indian Express",
+  "published_utc": "2021-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra shares drop after bad loans catch investors by surprise",
+  "source": "Livemint",
+  "published_utc": "2021-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 12 Mini with Rs 12,000 discount or iPhone 11: Old is gold in this case",
+  "source": "India Today",
+  "published_utc": "2021-01-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shubhdarshini Tripathi appointed as next Ambassador of India to Kazakhstan",
+  "source": "Legend Officers",
+  "published_utc": "2021-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jio, HDFC Bank named in world's 'Top 25 Strongest Brands' list; Tata India's most valuable brand",
+  "source": "YourStory.com",
+  "published_utc": "2021-01-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Competition Commission dismisses complaint against ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2021-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank\u2019s\u200abad loan issues drag on, but it eyes\u200abetter days in FY22",
+  "source": "Livemint",
+  "published_utc": "2021-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank joins hands with CSC to launch EMI collection service",
+  "source": "NE NOW",
+  "published_utc": "2021-01-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Partners with CSC to Launch EMI Collection Service for CSC-HDFC Bank\u2019s Business Correspondents",
+  "source": "AffairsCloud",
+  "published_utc": "2021-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Companies on CSR Spent: Reliance Industries at No 1; TCS, HDFC Bank, Infosys, ITC among top 10",
+  "source": "The CSR Universe",
+  "published_utc": "2021-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Bank of India Q3 net up 41% QoQ at \u20b9727 crore",
+  "source": "BusinessLine",
+  "published_utc": "2021-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's Q3 net profit increases 17% to Rs 5,498 crore",
+  "source": "Business Standard",
+  "published_utc": "2021-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 12 mini available at an effective price of Rs 55,490: Here\u2019s how",
+  "source": "The Indian Express",
+  "published_utc": "2021-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exchange offer at Voltas Beko Brand Shop",
+  "source": "RightNow",
+  "published_utc": "2021-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to become rich? Here are FD interest rates in HDFC Bank",
+  "source": "Zee Business",
+  "published_utc": "2021-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

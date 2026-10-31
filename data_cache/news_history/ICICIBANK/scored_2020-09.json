@@ -1,0 +1,515 @@
+[
+ {
+  "title": "ICICI Bank, Axis Bank remove UPI transaction charges from websites but these banks have not",
+  "source": "The Economic Times",
+  "published_utc": "2020-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ramakrishnan is MD of South Indian Bank",
+  "source": "The Hindu",
+  "published_utc": "2020-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Murali Ramakrishnan new South Indian Bank CEO; first chief from a private bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank reduces the MCLR by 5 bps across tenors",
+  "source": "Passionate In Marketing",
+  "published_utc": "2020-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Comparison of Top 10 Private Banks",
+  "source": "Invest Yadnya",
+  "published_utc": "2020-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coronavirus | Banks allowed to operate on Saturdays in West Bengal",
+  "source": "The Hindu",
+  "published_utc": "2020-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest Bank FD rates: SBI vs HDFC Bank vs PNB vs Kotak Mahindra Bank",
+  "source": "Livemint",
+  "published_utc": "2020-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED arrests former ICICI Bank CEO Chanda Kochhar's husband on money laundering charges",
+  "source": "The Times of India",
+  "published_utc": "2020-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deepak Kochhar, husband of former ICICI bank chief Chanda Kochhar, is arrested in connection with Videocon",
+  "source": "The Economic Times",
+  "published_utc": "2020-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Approves New CEO MD for South Indian Bank",
+  "source": "LawStreet Journal",
+  "published_utc": "2020-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon case: Chanda Kochhar's husband Deepak arrested by ED",
+  "source": "India Today",
+  "published_utc": "2020-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED questions Deepak Kochhar over \u2018new evidence\u2019 of money trail in 6 ICICI loans to Videocon",
+  "source": "ThePrint",
+  "published_utc": "2020-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "-India court remands former ICICI Bank CEO's husband in police custody",
+  "source": "Reuters",
+  "published_utc": "2020-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deepak Kochhar arrested: 10 reasons why ex-ICICI Bank chief Chanda Kochhar's husband is behind bars",
+  "source": "Business Today",
+  "published_utc": "2020-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brokerages initiate buy coverage on these 22 stocks with an upside of 14-45%",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks move towards advisory for HNIs, distribution for retail",
+  "source": "Livemint",
+  "published_utc": "2020-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is Deepak Kochhar: All you need to know",
+  "source": "The Times of India",
+  "published_utc": "2020-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Kochhars defrauded ICICI Bank, according to the ED",
+  "source": "The Economic Times",
+  "published_utc": "2020-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces \u2018iStartup2.0\u2019, the country\u2019s most comprehensive programme for start-ups",
+  "source": "Express Computer",
+  "published_utc": "2020-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Charges for Cash Repayment of EMI: Old Charges Disguised as New",
+  "source": "Moneylife",
+  "published_utc": "2020-09-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus 8, OnePlus Nord, OnePlus TV Q1 Pro go on sale with fresh offers, up to Rs 8,000 discount available",
+  "source": "India Today",
+  "published_utc": "2020-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches iStartup 2.0 to aid Startups with its Current Account facility",
+  "source": "CIOL",
+  "published_utc": "2020-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank Chairman Sunil Mehta assures speedy recovery, thanks RBI, SBI, HDFC Bank, ICICI Bank for lending support",
+  "source": "Zee Business",
+  "published_utc": "2020-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Launched 'iStartup 2.0', The Country's Most Comprehensive Program For The Startup Needs",
+  "source": "Indian Startup News",
+  "published_utc": "2020-09-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches iStartup2.0: Service offering for start-ups",
+  "source": "Passionate In Marketing",
+  "published_utc": "2020-09-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar's Husband Tests Covid +ve, Probe Officials Self-Quarantine",
+  "source": "NDTV",
+  "published_utc": "2020-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Outlook for the Week (Sept 04,2020 \u2013 Sept 18,2020)",
+  "source": "Equitypandit",
+  "published_utc": "2020-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard inks bancassurance tie up with Yes Bank for selling insurance products",
+  "source": "AffairsCloud.com",
+  "published_utc": "2020-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus Nord Now Available With Rs. 1,000 Instant Discount for ICICI Bank Customers",
+  "source": "Gadgets 360",
+  "published_utc": "2020-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How and when the force majeure clause can protect financial contracts",
+  "source": "The Economic Times",
+  "published_utc": "2020-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "COVID 19 has forced unprecedented digital adoption amongst the masses: Krishna Jha, Nine Triangles",
+  "source": "MediaNews4U",
+  "published_utc": "2020-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Poco M2 with 6GB RAM to go on its first sale today via Flipkart",
+  "source": "The Times of India",
+  "published_utc": "2020-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "As interest rates head south, it may be time to shift your savings bank account",
+  "source": "Livemint",
+  "published_utc": "2020-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New Bandhan Bank vertical part of five-year strategy",
+  "source": "Telegraph India",
+  "published_utc": "2020-09-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, Titan launch India's first contactless payment watch. Here is how to use it",
+  "source": "Livemint",
+  "published_utc": "2020-09-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities Ltd: Cyclical or Secular Growth?",
+  "source": "Moneylife",
+  "published_utc": "2020-09-18T06:23:15+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Telangana: CBI books infrastructure company in Rs 108 crore loan fraud case",
+  "source": "The Times of India",
+  "published_utc": "2020-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Vs HDFC Vs ICICI Vs Axis Bank: Top 10 banks currently offering personal loans starting at 8.9%",
+  "source": "The Financial Express",
+  "published_utc": "2020-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Noida: STF arrests 4 for bank fraud of Rs 1.5 crore",
+  "source": "The Times of India",
+  "published_utc": "2020-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo F17 with Snapdragon 662 processor goes on sale: Price and offers",
+  "source": "The Times of India",
+  "published_utc": "2020-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OPPO F17 with Quad-cameras and VOOC 4 Fast Charging goes on sale today",
+  "source": "Smartprix",
+  "published_utc": "2020-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xbox Series X, Series S pre-order begins in India: Details here",
+  "source": "The Indian Express",
+  "published_utc": "2020-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why top-performing Morgan Stanley fund is betting on some Indian banking stocks",
+  "source": "Livemint",
+  "published_utc": "2020-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock market news: ICICI Bank shares fall over 2%",
+  "source": "The Economic Times",
+  "published_utc": "2020-09-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI warns customers of fake emails that look real: Here's what to do",
+  "source": "Livemint",
+  "published_utc": "2020-09-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here are 3-year bank fixed deposits that offer up to 7.65% for senior citizens",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FinCEN Files: US Banks Red-Flagged 44 Indian Banks for Suspicious Transactions Between 2011 and 2017",
+  "source": "NewsClick",
+  "published_utc": "2020-09-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mutual Fund vs FD: Don't worry! As SBI, HDFC Bank, ICICI Bank, others decrease deposit rates, this debt fund will help you earn up to 8 pct returns",
+  "source": "Zee Business",
+  "published_utc": "2020-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "44 Indian banks reported to watchdog for large suspicious transactions",
+  "source": "Dawn",
+  "published_utc": "2020-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank loan restructuring: Eligibility, documents required, charges, how to apply",
+  "source": "The Economic Times",
+  "published_utc": "2020-09-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Great Indian Festival sale and Flipkart Big Billion Days sale teased to be coming soon",
+  "source": "The Times of India",
+  "published_utc": "2020-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Billion Days sale begins soon; here are the deals revealed",
+  "source": "The Indian Express",
+  "published_utc": "2020-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank strengthens leadership team, ropes in ex-Bajaj Capital CEO as digital head",
+  "source": "The Economic Times",
+  "published_utc": "2020-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank announces special benefits on home, auto loans",
+  "source": "Livemint",
+  "published_utc": "2020-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme Narzo 20A to go on its first sale today via Flipkart",
+  "source": "The Times of India",
+  "published_utc": "2020-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Festive Bonanza LAUNCHED! Discounts, cashbacks, EMIs, loan offers and more - These TOP DEALS are up for grabs",
+  "source": "Zee Business",
+  "published_utc": "2020-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card, Debit card holders alert! New RBI rules to change your experience from October 1, 2020; some benefits ended - full details inside",
+  "source": "Zee Business",
+  "published_utc": "2020-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

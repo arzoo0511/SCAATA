@@ -1,0 +1,479 @@
+[
+ {
+  "title": "Indian Oil to invest Rs 1,268 crore for CNC unit at Paradip Refinery",
+  "source": "PSU Watch",
+  "published_utc": "2020-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Evolution of the oil sector in India",
+  "source": "Autocar Professional",
+  "published_utc": "2020-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to invest Rs 1,268 crore for setting up coker unit at Paradip refinery",
+  "source": "OrissaPOST",
+  "published_utc": "2020-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil To Invest Rs 1268 Crore In Needle Coker Unit At Paradip Refinery In Odisha",
+  "source": "OdishaBytes",
+  "published_utc": "2020-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil tanker on fire near Sri Lanka",
+  "source": "DW.com",
+  "published_utc": "2020-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL vs HPCL vs IOCL \u2013 Analysis of Oil Marketing Companies in India",
+  "source": "Invest Yadnya",
+  "published_utc": "2020-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "-Blaze breaks out again on oil tanker off Sri Lanka, cargo area intact",
+  "source": "Reuters",
+  "published_utc": "2020-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "VLCC Carrying 2 Million Barrels of Oil in Trouble Off Sri Lanka",
+  "source": "gCaptain",
+  "published_utc": "2020-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil looks to solarise its fuel retail outlets, invites EoI for vendor empanelment",
+  "source": "PSU Watch",
+  "published_utc": "2020-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hundred days on, Assam\u2019s Baghjan gas well continues to burn",
+  "source": "The Indian Express",
+  "published_utc": "2020-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ACC approves appointment of Dr Reji Mathai as Director of ARAI, Pune",
+  "source": "PSU Watch",
+  "published_utc": "2020-09-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil tanker on fire near Lankan coast chartered by IOC (Ld)",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian, Lankan navies continue battle with burning tanker off Sri Lanka",
+  "source": "The Hindu",
+  "published_utc": "2020-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Blazing tanker sparks fears of a new Indian Ocean disaster",
+  "source": "Al Jazeera",
+  "published_utc": "2020-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "News Content Hub - New Diamond VLCC fire causes fatality",
+  "source": "Riviera Maritime Media",
+  "published_utc": "2020-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tanker with 2 million barrels of oil catches fire off Sri Lanka",
+  "source": "South China Morning Post",
+  "published_utc": "2020-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Major disaster averted as fire onboard oil tanker off Sri Lanka is brought under control",
+  "source": "The Indian Express",
+  "published_utc": "2020-09-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire aboard oil tanker off Sri Lanka contained with India\u2019s help, one Filipino sailor dead",
+  "source": "Scroll.in",
+  "published_utc": "2020-09-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire on tanker off Sri Lanka under control, ship towed away",
+  "source": "Inquirer.net",
+  "published_utc": "2020-09-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In pics: Fire on MT New Diamond under control, Rescue ops by Indian Navy",
+  "source": "Business Standard",
+  "published_utc": "2020-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil tanker fire doused; Coast Guard monitoring to prevent reignition",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Burning questions as fire onboard MT New Diamond simmers down",
+  "source": "The Sunday Times, Sri Lanka",
+  "published_utc": "2020-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Six arrested for stealing aviation oil from IOCL pipelines in Delhi-NCR",
+  "source": "India Today",
+  "published_utc": "2020-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches Mega Festive Dhamaka across northeast",
+  "source": "India Today NE",
+  "published_utc": "2020-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICG continues efforts to reduce fire onboard oil tanker MT New Diamond",
+  "source": "ANI News",
+  "published_utc": "2020-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dornier aircraft launched from Chennai for fire fighting aboard MT New Diamond off Sri Lanka coast",
+  "source": "ANI News",
+  "published_utc": "2020-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New fire extinguished on oil tanker off Sri Lanka\u2019s coast",
+  "source": "Al Jazeera",
+  "published_utc": "2020-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire-stricken oil tanker off Sri Lanka leaves kilometre-long oil slick",
+  "source": "Deccan Chronicle",
+  "published_utc": "2020-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel leaks from stricken oil tanker off Sri Lanka",
+  "source": "Seychelles News Agency",
+  "published_utc": "2020-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Tenders for 2.75 MW Solar Plant in Trichy",
+  "source": "Saur Energy",
+  "published_utc": "2020-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka Working to Stop Fuel Leak from Fire-hit Oil Tanker",
+  "source": "Marine News Magazine",
+  "published_utc": "2020-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bihar: PM to open LPG bottling plants in East Champaran & Banka on Sunday",
+  "source": "The Times of India",
+  "published_utc": "2020-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Eight ships from Indian Navy, Coast Guard avert environmental disaster; douse fire on oil vessel",
+  "source": "The Economic Times",
+  "published_utc": "2020-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka navy says fuel leak on fire-stricken tanker plugged",
+  "source": "Al Jazeera",
+  "published_utc": "2020-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UK: Indian-origin man guilty of partner\u2019s murder in Leicester, to be sentenced this week",
+  "source": "Gulf News",
+  "published_utc": "2020-09-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three new key projects in petroleum sector launched in Bihar | petrol | Indian Oil | LPG | bihar | hpcl",
+  "source": "Manorama Yearbook",
+  "published_utc": "2020-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Salvors Repair Ruptured Tank on Fire-Hit New Diamond Off Sri Lanka",
+  "source": "gCaptain",
+  "published_utc": "2020-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Salvagers mend ruptures in fire-hit oil tanker off Sri Lanka",
+  "source": "Reuters",
+  "published_utc": "2020-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Nayara Energy sees diesel recovery to pre-COVID-19 level by end-2021",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Prices Slashed By 15-24 Paise On Tuesday",
+  "source": "NDTV Profit",
+  "published_utc": "2020-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka Seeks at Least $1.9 Million in Damages from New Diamond Owner",
+  "source": "gCaptain",
+  "published_utc": "2020-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka names captain of oil tanker a suspect in fire",
+  "source": "The Seattle Times",
+  "published_utc": "2020-09-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India: Anil Dhasmana appointed new chief of NTRO",
+  "source": "Gulf News",
+  "published_utc": "2020-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL to invest \u20b917,000 crore in Gujarat refinery for petchem, lube integration",
+  "source": "Livemint",
+  "published_utc": "2020-09-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India filled reserves with cheap crude after COVID crash, saved \u20b95K crore",
+  "source": "The Federal",
+  "published_utc": "2020-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU Oil Giant Indian Oil To Expand Into The Textile Sector As It Seeks To Diversify Operations",
+  "source": "Swarajya",
+  "published_utc": "2020-09-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to invest Rs 17,825 crore in Gujarat refinery expansion, petchem project",
+  "source": "The New Indian Express",
+  "published_utc": "2020-09-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Natural Gas: IOC plans 'energy pumps' for future with assortment of fuel options",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-09-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL to invest Rs 17,825 crore in Gujarat refinery for petrochemical, lube integration projects",
+  "source": "The Hans India",
+  "published_utc": "2020-09-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp seeks petrol after BPCL's post-hiatus purchase",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-09-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ONGC Awards 10-Year Charter for Armada Sterling FPSO",
+  "source": "Offshore Engineer Magazine",
+  "published_utc": "2020-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shri Dharmendra Pradhan says that Atmanirbhar Bharat\u2019 will drive our efforts in evolving a comprehensive energy security architecture in the country;",
+  "source": "PIB",
+  "published_utc": "2020-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Captain of fire-stricken ship barred from leaving Sri Lanka",
+  "source": "SunStar Publishing Inc.",
+  "published_utc": "2020-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

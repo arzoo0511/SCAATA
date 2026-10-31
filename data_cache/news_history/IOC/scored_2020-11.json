@@ -1,0 +1,299 @@
+[
+ {
+  "title": "Explained: Here\u2019s why inventory gains are helping oil companies",
+  "source": "The Indian Express",
+  "published_utc": "2020-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IISc, IOCL to develop hydrogen generation technology",
+  "source": "Bangalore Mirror",
+  "published_utc": "2020-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG cylinder new rules: Need to share OTP for home delivery",
+  "source": "Livemint",
+  "published_utc": "2020-11-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maire Tecnimont Group\u2019s NextChem and Indian Oil Corporation sign In...",
+  "source": "Maire",
+  "published_utc": "2020-11-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to book LPG cylinder via Indane Gas booking number: Check details here",
+  "source": "India Today",
+  "published_utc": "2020-11-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC inaugurates first petrol pump at Stara, Zanskar",
+  "source": "Reach Ladakh Bulletin",
+  "published_utc": "2020-11-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Akshay Kumar Singh is new CMD of Petronet LNG Ltd",
+  "source": "PSU Watch",
+  "published_utc": "2020-11-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG\u2019s ex-MD & CEO Prabhat Singh joins RIL-BP\u2019s IGS without \u2018cooling off\u2019",
+  "source": "PSU Watch",
+  "published_utc": "2020-11-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vigilance Awareness Week concludes at IOCL, AOD",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2020-11-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Snam Enters Indian Market; Tiesup with Adani, Greenko, IOCL for Hydrogen, Gas, Green Mobility",
+  "source": "Energetica India Magazine",
+  "published_utc": "2020-11-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Refill bookings just a missed call away for Indane customers",
+  "source": "The Hindu",
+  "published_utc": "2020-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil commissions aviation fuel station at Darbhanga",
+  "source": "PSU Watch",
+  "published_utc": "2020-11-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former Petronet CEO Prabhat Singh joins Reliance firm",
+  "source": "The Times of India",
+  "published_utc": "2020-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 Week Saga of Burnt-Out Tanker New Diamond Ends in UAE",
+  "source": "The Maritime Executive",
+  "published_utc": "2020-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chabahar Project",
+  "source": "Drishti IAS",
+  "published_utc": "2020-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC commissions 120th aviation fuel station at Darbhanga",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-11-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Artson to supply storage tanks to Indian Oil worth Rs. 109.89 crore",
+  "source": "Indian Chemical News",
+  "published_utc": "2020-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u201cIOC given Trincomalee oil tanks without any formal agreement\u201d",
+  "source": "Lanka Sara",
+  "published_utc": "2020-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's diesel sales dip in first half of November -data",
+  "source": "Reuters",
+  "published_utc": "2020-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Insurance policy for gas cylinder blast \u2013 Check coverage, process to file claim, other details",
+  "source": "The Financial Express",
+  "published_utc": "2020-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government signs MoUs for 900 compressed biogas plants",
+  "source": "Autocar Professional",
+  "published_utc": "2020-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil find, just 47km from Kolkata, holds commercial potential",
+  "source": "The Times of India",
+  "published_utc": "2020-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices rise for third straight day",
+  "source": "The Siasat Daily",
+  "published_utc": "2020-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to set up solar-powered EV charging stations",
+  "source": "Construction World",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol Diesel Rates See Fourth Consecutive Hike",
+  "source": "NDTV Profit",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IMPORTANT! Indane LPG gas cylinder users alert - IVRS number changed, check new one for refill booking",
+  "source": "Zee Business",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New oil terminal worth Rs 900 crore at Vallur will supply fuel products to Chennai, adjoining districts",
+  "source": "The New Indian Express",
+  "published_utc": "2020-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches world-class BS-VI diesel engine oils for trucks",
+  "source": "PSU Watch",
+  "published_utc": "2020-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil keeps rising after eight-month high on demand optimism",
+  "source": "News24",
+  "published_utc": "2020-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to build new oil terminal in Chennai",
+  "source": "Construction World",
+  "published_utc": "2020-11-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities: Oil & Gas Sector Trend - Oil Rise Prompts Price Hikes To Keep Marketing Margins High",
+  "source": "NDTV Profit",
+  "published_utc": "2020-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price crosses Rs 82-mark, diesel above Rs 72 a litre",
+  "source": "The Indian Express",
+  "published_utc": "2020-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol prices inch towards the Rs 90 mark in Mumbai",
+  "source": "Autocar India",
+  "published_utc": "2020-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

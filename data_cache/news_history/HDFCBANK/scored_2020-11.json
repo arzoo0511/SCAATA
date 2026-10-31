@@ -1,0 +1,569 @@
+[
+ {
+  "title": "Carlyle appoints top Indian banker Puri as senior adviser",
+  "source": "Reuters",
+  "published_utc": "2020-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former HDFC Bank MD Aditya Puri joins Carlyle",
+  "source": "The Hindu",
+  "published_utc": "2020-11-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former HDFC Bank chief Aditya Puri joins Carlyle group as Senior Advisor",
+  "source": "The News Minute",
+  "published_utc": "2020-11-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former HDFC Bank CEO Aditya Puri to join private equity firm Carlyle as senior advisor",
+  "source": "Firstpost",
+  "published_utc": "2020-11-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After 26 yrs as HDFC Bank boss, Aditya Puri joins Carlyle as senior advisor",
+  "source": "Business Standard",
+  "published_utc": "2020-11-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former HDFC Bank CEO Aditya Puri joins Carlyle as senior adviser",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-11-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Analysts see an upside of 25-28% in ICICI Bank stock",
+  "source": "Livemint",
+  "published_utc": "2020-11-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC ERGO General Insurance Implemented AI Enabled Tool, IDEAS to Automate Motor Claim Settlements",
+  "source": "AffairsCloud",
+  "published_utc": "2020-11-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Visa in partnership with DigitSecure and HDFC Bank deployed World\u2019s 1st live PCI certified Tap to Phone card Acceptance solution",
+  "source": "AffairsCloud",
+  "published_utc": "2020-11-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hires Crisil's Lakshminarayanan as CTO",
+  "source": "The Times of India",
+  "published_utc": "2020-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank ropes in Ramesh Lakshminarayanan as CIO",
+  "source": "People Matters - HR News",
+  "published_utc": "2020-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ramesh Lakshminarayanan is CIO at HDFC Bank",
+  "source": "Banking Frontiers",
+  "published_utc": "2020-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank appoints Ramesh Lakshminarayanan as CIO",
+  "source": "Express Computer",
+  "published_utc": "2020-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank appoints Ramesh Lakshminarayanan as its new CIO",
+  "source": "The Economic Times",
+  "published_utc": "2020-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ramesh Lakshminarayanan appointed CIO at HDFC Bank",
+  "source": "www.cio.com",
+  "published_utc": "2020-11-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Users can now send money through WhatsApp in India's massive digital payments market",
+  "source": "CNBC",
+  "published_utc": "2020-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WhatsApp Pay now live in India: Link these 5 bank accounts to use service",
+  "source": "Livemint",
+  "published_utc": "2020-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI Gives Approval to \u2018WhatsApp Pay\u2019 to start UPI in India; UPI closes 30% of TPAPs transaction volume",
+  "source": "AffairsCloud",
+  "published_utc": "2020-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's millennial branches to host entertainment shows as part of new offering",
+  "source": "Zee Business",
+  "published_utc": "2020-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI diversifies shareholding with 131 new partners",
+  "source": "MediaNama",
+  "published_utc": "2020-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI lifts restrictions on Equitas Small Finance Bank after IPO",
+  "source": "VCCircle",
+  "published_utc": "2020-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 things you should know about WhatsApp's new payment service",
+  "source": "CNBC TV18",
+  "published_utc": "2020-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Air India Express gets new CEO",
+  "source": "Livemint",
+  "published_utc": "2020-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches SmartHub Merchant Solutions",
+  "source": "Banking Frontiers",
+  "published_utc": "2020-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank aims to grow merchant payments base to 20 million in 3 years",
+  "source": "MediaNama",
+  "published_utc": "2020-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank in Partnership with Visa Launches \u2018SmartHub Merchant Solutions 3.0\u2019, India\u2019s 1st Comprehensive Banking and Payment Solution for Merchants",
+  "source": "AffairsCloud",
+  "published_utc": "2020-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank eyeing tenfold growth in merchant base to 20 million in three years",
+  "source": "The Economic Times",
+  "published_utc": "2020-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After FM pitch for promoting RuPay, Visa says competition offers innovation, choice to customers",
+  "source": "The New Indian Express",
+  "published_utc": "2020-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Do you own any of these 28 stocks that helped Nifty scale Rs 100 lakh crore in market-cap?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "U16 Error In Google Pay: What Is U16 Error And How To Fix In Google Pay",
+  "source": "Gizbot",
+  "published_utc": "2020-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy S20+ BTS Edition gets Rs. 10000 price cut in India; now available at Rs. 77999",
+  "source": "FoneArena.com",
+  "published_utc": "2020-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why you should not apply to multiple lenders for loan at the same time",
+  "source": "The Economic Times",
+  "published_utc": "2020-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy S20+ BTS Edition Price Slashed in India by Rs 10,000; Check New Price Here",
+  "source": "LatestLY",
+  "published_utc": "2020-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Visa deploys Tap to Phone solution in India",
+  "source": "Banking Frontiers",
+  "published_utc": "2020-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches \u201cMoohBandRakho\u201d campaign for creating awareness on cyber frauds",
+  "source": "Express Computer",
+  "published_utc": "2020-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Expansion in net interest margins of banks",
+  "source": "Passionate In Marketing",
+  "published_utc": "2020-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank will call from This phone number in case of suspicious transaction \u2013 Take a note",
+  "source": "Zee News",
+  "published_utc": "2020-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches \u2018Mooh Band Rakho\u2019 campaign to Increase Awareness on Cyber Frauds",
+  "source": "AffairsCloud",
+  "published_utc": "2020-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karnataka Bank Launches CASA Mobilisation Campaign",
+  "source": "AffairsCloud",
+  "published_utc": "2020-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest bank FD rates: What SBI, HDFC Bank, Axis Bank, Canara Bank offer",
+  "source": "Livemint",
+  "published_utc": "2020-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Get the IndiGo HDFC Bank Ka-Ching Credit Cards Lifetime Free",
+  "source": "Live From A Lounge",
+  "published_utc": "2020-11-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Digital Payments Suffer 2-day Outage, RBI Seeks Explanation about Frequent Disruptions",
+  "source": "Moneylife",
+  "published_utc": "2020-11-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches \"Mooh Band Rakho\" campaign to fight cyber frauds",
+  "source": "SugerMint",
+  "published_utc": "2020-11-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC bank services restored after hours of an outage affecting UPI and card payments",
+  "source": "India Today",
+  "published_utc": "2020-11-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Faces Technical Glitches Owing To Outage At Data Centre",
+  "source": "NDTV Profit",
+  "published_utc": "2020-11-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Is Down, Debit Card, UPI Transactions, and Even ATMs Not Working, Customers Say",
+  "source": "Gadgets 360",
+  "published_utc": "2020-11-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'RBI seeks details from HDFC Bank following outage at data centre'",
+  "source": "The Times of India",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Power issues over the weekend leave HDFC Bank customers in the dark",
+  "source": "MediaNama",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC eyes 40-60% rise in disbursement in H2 of FY-21 on quick economic recovery",
+  "source": "ET Auto",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, Axis Bank top 2 UPI remitter banks in October: NPCI",
+  "source": "Techcircle",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: Your Bank Deposits Are Insured Up To Rs 5 Lakh | BOOM",
+  "source": "BOOM Fact Check",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three Messages From The Lakshmi Vilas Bank Deal",
+  "source": "LinkedIn",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LVB-DBS merger may set precedent",
+  "source": "Livemint",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Stock Analysis|Retail Loan Book Analysis and Guidance",
+  "source": "Invest Yadnya",
+  "published_utc": "2020-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In just 5 years, private banks have narrowed public sector\u2019s huge lead in loans & deposits",
+  "source": "ThePrint",
+  "published_utc": "2020-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB customers complain TDS deduction on every cash withdrawal",
+  "source": "The Economic Times",
+  "published_utc": "2020-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life, HDFC Ergo Launched Combi Health Insurance Policy \u201cClick 2 Protect Corona Kavach\u201d",
+  "source": "AffairsCloud.com",
+  "published_utc": "2020-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI advises Lakshmi Vilas Bank to fully write down tier-2 bonds before DBS merger",
+  "source": "Livemint",
+  "published_utc": "2020-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI raises \u20b981.64 crore equity capital from 19 new shareholders",
+  "source": "MediaNama",
+  "published_utc": "2020-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Retail Loan Market to Witness Huge Growth by 2026 | State Bank of India, ICICI Bank, HDFC Bank, Axis Bank",
+  "source": "openPR.com",
+  "published_utc": "2020-11-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDBI Bank and Canara Bank offer the best rates on savings accounts among public sector banks",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These banks are offering up to 7% on bank FDs. Are they worth the risk?",
+  "source": "Livemint",
+  "published_utc": "2020-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Farmers can Take Loans up to Rs. 5 lakhs through Union Bank Green Card; Check Method to Apply & Other Details",
+  "source": "Krishi Jagran",
+  "published_utc": "2020-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,326 @@
+[
+ {
+  "title": "\u20186,000 Trucks, Underground Fuel Dumps, Diesel That Remains Unfrozen\u2019: How Indian Army Is Preparing For Winters In Ladakh",
+  "source": "Swarajya",
+  "published_utc": "2020-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "H Shankar is new Director-Technical, CPCL",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Right-Wing Think Tank Accused of Demonizing Sikh-Canadians Also Works to Send Canadian Oil to India",
+  "source": "PressProgress",
+  "published_utc": "2020-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi: IOCL reduced retail selling price of diesel by Rs 2.93, petrol by Rs 0.97 per litre during Sept",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-10-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Coast Guard ships with pollution response gears, escort MT New Diamond under tow to Fujairah",
+  "source": "ANI News",
+  "published_utc": "2020-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil commissions 50 KW on-grid rooftop solar power plant at its NR Office",
+  "source": "PSU Watch",
+  "published_utc": "2020-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "9 Injured In Major Fire At Indian Oil Petrol Pump In Odisha",
+  "source": "NDTV",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC halts pipe laying works after farmers protest near Tiruchy",
+  "source": "The New Indian Express",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bhubaneswar: 8 injured in fire at petrol pump",
+  "source": "The Indian Express",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha: Explosion at fuel pump shakes Bhubaneswar, 9 hurt",
+  "source": "The Times of India",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Breaking! Fire breaks out at Raj Bhavan Indian Oil fuel outlet, massive explosion rocks area",
+  "source": "OrissaPOST",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "9 injured in Bhubaneswar petrol pump fire",
+  "source": "India TV News",
+  "published_utc": "2020-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This Petrol Pump In Bangalore Is Giving Away Free Biryani & Gifts For Filling Petrol",
+  "source": "Curly Tales",
+  "published_utc": "2020-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel, the king of fuels in India, is making way for petrol",
+  "source": "Al Jazeera",
+  "published_utc": "2020-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Asia\u2019s Longest Pipeline May Cause Environmental Disaster, Triggers Protests in Odisha",
+  "source": "NewsClick",
+  "published_utc": "2020-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Soft oil prices shoot up OMC margins even in depressed market",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-10-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diesel RSP in Delhi down Rs 2.93 per litre in Sept: Indian Oil",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-10-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trial run of H-CNG powered city buses to begin in Delhi Oct 20",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt hopeful BPCL strategic sale to sail through without further extensions",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "You will need OTP for home delivery of LPG from November 1: Everything to know",
+  "source": "Zee Business",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: What is HCNG and what are its benefits?",
+  "source": "The Times of India",
+  "published_utc": "2020-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India set to lose Farzad-B gas field in Iran: Sources",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Was Indian ONGC Expelled From The Iranian Farzad-B Gas Field Long Before The New Media Reports?",
+  "source": "EurAsian Times",
+  "published_utc": "2020-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil\u2019s home car service and repair facility launched",
+  "source": "Autocar India",
+  "published_utc": "2020-10-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive: Indian Oil Ventures Into At-Home Car Servicing; Ties Up With Home-Mechanic",
+  "source": "carandbike",
+  "published_utc": "2020-10-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Ventures Into Doorstep Vehicle Service: Here Are All Details",
+  "source": "DriveSpark",
+  "published_utc": "2020-10-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM to Interact with CEO\u2019s of leading Global Oil & Gas Companies AND Inaugurate India Energy Forum",
+  "source": "PM India",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil board to consider issuing bonds and debentures for raising up to \u20b920,000 crore",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Partners With Home Mechanic to Provide Doorstep Car Service Facility",
+  "source": "News18",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Applying for Industrial Training at Indian Oil as a Chartered Accountant Intern and Getting Selected",
+  "source": "The Finance Story",
+  "published_utc": "2020-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil collaborates with Home-Mechanic to launch \u2018Home-Mechanic IND\u2019 service",
+  "source": "CarWale",
+  "published_utc": "2020-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches common Indane refill booking number across India",
+  "source": "PSU Watch",
+  "published_utc": "2020-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IBM, Indian Oil Corporation collaborate for digital services",
+  "source": "ET CIO",
+  "published_utc": "2020-10-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil's LPG business goes live on 'Project ePIC' platform for 12,400 distributors",
+  "source": "ANI News",
+  "published_utc": "2020-10-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New IVRS for Indane customers from November 1",
+  "source": "The Hindu",
+  "published_utc": "2020-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Goodyear enters automotive lubricants segment",
+  "source": "Manufacturing Today India",
+  "published_utc": "2020-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

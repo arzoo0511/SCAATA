@@ -1,0 +1,119 @@
+[
+ {
+  "title": "Akshay Kumar Singh is new CMD of Petronet LNG Ltd",
+  "source": "PSU Watch",
+  "published_utc": "2020-11-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG\u2019s ex-MD & CEO Prabhat Singh joins RIL-BP\u2019s IGS without \u2018cooling off\u2019",
+  "source": "PSU Watch",
+  "published_utc": "2020-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former Petronet CEO Prabhat Singh joins Reliance firm",
+  "source": "The Times of India",
+  "published_utc": "2020-11-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "S Sakthimani is new Director (Finance) of FACT Limited",
+  "source": "PSU Watch",
+  "published_utc": "2020-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Do masks with antiviral coating offer more protection?",
+  "source": "The Economic Times",
+  "published_utc": "2020-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hindustan Petroleum to invest \u20b910,000 cr on gas value chain",
+  "source": "Livemint",
+  "published_utc": "2020-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "REC SANJAY MALHOTRA ASSUMES CHARGE AS CMD",
+  "source": "IndianMandarins",
+  "published_utc": "2020-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India aims to reduce diesel use with $1.35-bln LNG retail push",
+  "source": "Reuters",
+  "published_utc": "2020-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs. 2 lakh crore to be invested for setting up 5000 Compressed bio-gas in the country, says Petroleum Minister at MoU signing event for setting up 900 CBG plants;",
+  "source": "PIB",
+  "published_utc": "2020-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government signs MoUs for 900 compressed biogas plants",
+  "source": "Autocar Professional",
+  "published_utc": "2020-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CIVIL AVIATION CHAKRABORTY APPOINTED AS DIRECTOR",
+  "source": "IndianMandarins",
+  "published_utc": "2020-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MoPNG Signed MoUs for 900 CBG plants worth Rs 30,000cr with 8 Oil & Gas Companies & Technology Providers under SATAT Initiative",
+  "source": "AffairsCloud.com",
+  "published_utc": "2020-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBIC PN PANDEY EMPANELLED FOR PROMOTION AS COMMISSIONER",
+  "source": "IndianMandarins",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

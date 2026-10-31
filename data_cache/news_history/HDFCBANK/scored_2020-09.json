@@ -1,0 +1,587 @@
+[
+ {
+  "title": "ICICI Bank, Axis Bank remove UPI transaction charges from websites but these banks have not",
+  "source": "The Economic Times",
+  "published_utc": "2020-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Comparison of Top 10 Private Banks",
+  "source": "Invest Yadnya",
+  "published_utc": "2020-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank reduces the MCLR by 5 bps across tenors",
+  "source": "Passionate In Marketing",
+  "published_utc": "2020-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private and foreign banks that offer up to 7% on one-year fixed deposits",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank adopts single team approach to drive innovations",
+  "source": "ETHRWorld.com",
+  "published_utc": "2020-09-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest Bank FD rates: SBI vs HDFC Bank vs PNB vs Kotak Mahindra Bank",
+  "source": "Livemint",
+  "published_utc": "2020-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sexual harassment cases see a marginal decline in India\u2019s largest companies",
+  "source": "Livemint",
+  "published_utc": "2020-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Dawood's man' calls up Maharashtra CM's house, security beefed up",
+  "source": "Livemint",
+  "published_utc": "2020-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vice President suggests milk in mid-day meal scheme",
+  "source": "Rediff",
+  "published_utc": "2020-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vodafone Idea launches unified brand 'VI'",
+  "source": "Livemint",
+  "published_utc": "2020-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Insurance: Go for video-based KYC to buy your policy",
+  "source": "The Financial Express",
+  "published_utc": "2020-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks move towards advisory for HNIs, distribution for retail",
+  "source": "Livemint",
+  "published_utc": "2020-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of India launched \u201cSignature Visa Debit Card\u201d for High Net Worth Individuals",
+  "source": "AffairsCloud",
+  "published_utc": "2020-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "8 Best Zero Balance Savings Account In India",
+  "source": "Goodreturns",
+  "published_utc": "2020-09-09T06:55:54+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ready Reckoner : NIFTY 50 Stocks Q1 FY21 Results",
+  "source": "Invest Yadnya",
+  "published_utc": "2020-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Check out India\u2019s highest-paid corporate executives",
+  "source": "VCCircle",
+  "published_utc": "2020-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Big fund transfers may need bank visits",
+  "source": "Livemint",
+  "published_utc": "2020-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "You may still have to visit your bank branch for making high-value transactions",
+  "source": "Livemint",
+  "published_utc": "2020-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank looks to increase number of banking correspondents to 25,000 by March",
+  "source": "The Times of India",
+  "published_utc": "2020-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "With a $200 billion m-cap, RIL now 44th biggest firm globally; more valuable than TCS & HDFC Bank...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Smooth change of guard likely at SBI",
+  "source": "Forbes India",
+  "published_utc": "2020-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank Chairman Sunil Mehta assures speedy recovery, thanks RBI, SBI, HDFC Bank, ICICI Bank for lending support",
+  "source": "Zee Business",
+  "published_utc": "2020-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC eyes HDFC model for housing loan business at IDBI",
+  "source": "The Times of India",
+  "published_utc": "2020-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri conferred Lifetime Achievement Award by Euromoney Awards of Excellence 2020",
+  "source": "ANI News",
+  "published_utc": "2020-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Volvo Car India joins hands with HDFC Bank to introduce Volvo Car Financial Services",
+  "source": "India Today",
+  "published_utc": "2020-09-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Volvo Car Financial Services Collaborates with HDFC Bank",
+  "source": "Thrust Zone",
+  "published_utc": "2020-09-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Volvo Car India partners with HDFC Bank to launch Volvo Car Financial Services",
+  "source": "Livemint",
+  "published_utc": "2020-09-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US law firm files class action suit against HDFC Bank for misleading claims",
+  "source": "The Times of India",
+  "published_utc": "2020-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches video KYC facility: All you need to know",
+  "source": "mint",
+  "published_utc": "2020-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches video KYC facility for savings, salary accounts and personal loans",
+  "source": "The Indian Express",
+  "published_utc": "2020-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches Video KYC facility",
+  "source": "ET CIO",
+  "published_utc": "2020-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC launches video KYC facility for account opening and personal loans",
+  "source": "The News Minute",
+  "published_utc": "2020-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Volvo Car Financial Services launched in India",
+  "source": "CarWale",
+  "published_utc": "2020-09-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches video KYC",
+  "source": "The Times of India",
+  "published_utc": "2020-09-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two US-Based Law Firms File Class Action Suits Against HDFC Bank",
+  "source": "TheWire.in",
+  "published_utc": "2020-09-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank faces two lawsuits in US for allegedly misleading investors",
+  "source": "The News Minute",
+  "published_utc": "2020-09-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank faces lawsuit in US",
+  "source": "Livemint",
+  "published_utc": "2020-09-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CAMS IPO opens on Monday: 10 things to know",
+  "source": "Livemint",
+  "published_utc": "2020-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Vs HDFC Vs ICICI Vs Axis Bank: Top 10 banks currently offering personal loans starting at 8.9%",
+  "source": "The Financial Express",
+  "published_utc": "2020-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Retail brand value soars",
+  "source": "Livemint",
+  "published_utc": "2020-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Most Valuable Brand! This survey values HDFC Bank at $20.3 billion",
+  "source": "Zee Business",
+  "published_utc": "2020-09-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All about the loan restructuring schemes of SBI and HDFC Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-09-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank loan restructuring: Who can avail the scheme, documents required, impact on credit report",
+  "source": "The Economic Times",
+  "published_utc": "2020-09-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life joins hands with Yes Bank to sell insurance policies",
+  "source": "Livemint",
+  "published_utc": "2020-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI offers up to 2 years repayment relief for home & retail loans",
+  "source": "The Times of India",
+  "published_utc": "2020-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why top-performing Morgan Stanley fund is betting on some Indian banking stocks",
+  "source": "Livemint",
+  "published_utc": "2020-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple Store online goes live in India: From trade-in programme, bank offer, delivery details and more",
+  "source": "Times Now",
+  "published_utc": "2020-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India: HDFC Line of Credit for Affordable Housing - Projects - AIIB",
+  "source": "Asian Infrastructure Investment Bank (AIIB)",
+  "published_utc": "2020-09-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Corporates should create hybrid solutions based on common grounds to amplify CSR impact, says Ashima Bhat, CSR Head, HDFC Bank",
+  "source": "The CSR Universe",
+  "published_utc": "2020-09-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI warns customers of fake emails that look real: Here's what to do",
+  "source": "Livemint",
+  "published_utc": "2020-09-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FinCEN Files: US Banks Red-Flagged 44 Indian Banks for Suspicious Transactions Between 2011 and 2017",
+  "source": "NewsClick",
+  "published_utc": "2020-09-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here are 3-year bank fixed deposits that offer up to 7.65% for senior citizens",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mutual Fund vs FD: Don't worry! As SBI, HDFC Bank, ICICI Bank, others decrease deposit rates, this debt fund will help you earn up to 8 pct returns",
+  "source": "Zee Business",
+  "published_utc": "2020-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank aims 10-fold growth in merchant segment in 3 years to 20 million",
+  "source": "The Economic Times",
+  "published_utc": "2020-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "44 Indian banks reported to watchdog for large suspicious transactions",
+  "source": "Dawn",
+  "published_utc": "2020-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank faces lawsuit by US firms",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-09-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Launched India\u2019s 1st Warehouse Commodity Finance App",
+  "source": "AffairsCloud",
+  "published_utc": "2020-09-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Great Indian Festival sale and Flipkart Big Billion Days sale teased to be coming soon",
+  "source": "The Times of India",
+  "published_utc": "2020-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UTI AMC IPO opens tomorrow: Key things to know before you invest",
+  "source": "Livemint",
+  "published_utc": "2020-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Great Indian sale begins soon; some deals and offers revealed",
+  "source": "The Indian Express",
+  "published_utc": "2020-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Billion Days sale begins soon; here are the deals revealed",
+  "source": "The Indian Express",
+  "published_utc": "2020-09-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC\u2019s Puri: India\u2019s big picture banker",
+  "source": "Euromoney",
+  "published_utc": "2020-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Launches \"Festive Treats\" Offer On All Banking Products",
+  "source": "Goodreturns",
+  "published_utc": "2020-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC launches new offers on Apple products",
+  "source": "Livemint",
+  "published_utc": "2020-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card, Debit card holders alert! New RBI rules to change your experience from October 1, 2020; some benefits ended - full details inside",
+  "source": "Zee Business",
+  "published_utc": "2020-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,443 @@
+[
+ {
+  "title": "Apple Watch Series 6, Series SE go on sale in India: Prices and discount offers",
+  "source": "The Times of India",
+  "published_utc": "2020-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Small saving plans beat bank FD rate",
+  "source": "Livemint",
+  "published_utc": "2020-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI appoints former EY partner Charanjit Attra as its new CFO",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Special benefits on home and auto loans announced by ICICI Bank",
+  "source": "Passionate In Marketing",
+  "published_utc": "2020-10-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank offers debit card for customers availing loan against securities: Key benefits",
+  "source": "Livemint",
+  "published_utc": "2020-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After HDFC & ICICI banks, Axis to now give salary hikes while others cut jobs and pay",
+  "source": "ThePrint",
+  "published_utc": "2020-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank to give 4-12 per cent salary hike to employees: Sources",
+  "source": "OrissaPOST",
+  "published_utc": "2020-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is it time to allocate more to ICICI, Axis & Kotak?",
+  "source": "The Economic Times",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank to give 4 to 12% salary hike",
+  "source": "HR Katha",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Singapore banks take on trade finance fraud with blockchain registry",
+  "source": "Global Trade Review",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank Joins India\u2019s Top Private Lenders to Hikes on Pay",
+  "source": "Equitypandit",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks To Watch: Bandhan Bank, GM Breweries, Hero MotoCorp, ICICI Pru, Lakshmi Vilas Bank, RBL Bank, TCS, Wipro",
+  "source": "NDTV Profit",
+  "published_utc": "2020-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks that offer best interest rates on savings accounts",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here are private banks that offer up to 7% on one-year fixed deposits",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mastercard Partners with Signzy for Global Rollout of Video KYC",
+  "source": "AffairsCloud",
+  "published_utc": "2020-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo V20 with 6.44-inch FHD+ AMOLED display, Android 11, 44MP auto focus front camera launched in India starting at Rs. 24990",
+  "source": "FoneArena.com",
+  "published_utc": "2020-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deepak Kochhar Withdraws Plea In Delhi High Court To Quash FIR In Money Laundering Case",
+  "source": "NDTV Profit",
+  "published_utc": "2020-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Magicbricks to offer home loan services, ties up with SBI, HDFC and 11 other lenders",
+  "source": "Livemint",
+  "published_utc": "2020-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank announces new services available on WhatsApp",
+  "source": "IBS Intelligence",
+  "published_utc": "2020-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here are 10 banks offering the cheapest education loans",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank faces 'technical issue', online transactions fail",
+  "source": "The Times of India",
+  "published_utc": "2020-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "On Amazon sales day, Amazon-ICICI card fails, ICICI OTP not coming and website is down",
+  "source": "India Today",
+  "published_utc": "2020-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Is Down, Making Debit Card and UPI Transactions Fail for Many of Its Customers in India",
+  "source": "Gadgets 360",
+  "published_utc": "2020-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Kings of Capital \u2013 Part III: Aditya Puri",
+  "source": "marcellus.in",
+  "published_utc": "2020-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha-based NBFC faces \u20b9251-crore fraud",
+  "source": "Livemint",
+  "published_utc": "2020-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loan festive offer: Check out the latest offers from SBI, HDFC and other banks",
+  "source": "The Financial Express",
+  "published_utc": "2020-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "[Update] ICICI Bank's UPI transaction now working, some users still report of outage",
+  "source": "Times Now",
+  "published_utc": "2020-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches services on WhatsApp",
+  "source": "Passionate In Marketing",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 Life Insurance Companies in India (2020)",
+  "source": "Trade Brains",
+  "published_utc": "2020-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon festival sale to continue, ICICI card users to get 10 percent instant discount from Oct 24",
+  "source": "India Today",
+  "published_utc": "2020-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo A33 price in India revealed ahead of official launch",
+  "source": "The Mobile Indian",
+  "published_utc": "2020-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI home loans are now cheaper",
+  "source": "Livemint",
+  "published_utc": "2020-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IMPS limit raised: How to choose the best mode to transfer money between NEFT, IMPS & RTGS",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here are public sector banks that offer the best interest rates on savings accounts",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loan rates touch historic lows; here's what is on offer",
+  "source": "CNBC TV18",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shuts down operations in Sri Lanka",
+  "source": "The Times of India",
+  "published_utc": "2020-10-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon, Flipkart begin second festive sale round after 7-day fiesta",
+  "source": "OrissaPOST",
+  "published_utc": "2020-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'You are an inspiration': ICICI Bank pays tribute to outgoing HDFC Bank MD, CEO Aditya Puri",
+  "source": "Business Today",
+  "published_utc": "2020-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank thanks HDFC Bank's Aditya Puri for being an 'inspiration'",
+  "source": "The Times of India",
+  "published_utc": "2020-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SVC Co-operative Bank in Partnership with NPCI Launches Rewards Programme",
+  "source": "AffairsCloud",
+  "published_utc": "2020-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri hands over charge, Jagdishan takes over as HDFC Bank MD & CEO",
+  "source": "The Times of India",
+  "published_utc": "2020-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Pay ICICI Bank credit card is fastest to cross 1 million milestone",
+  "source": "About Amazon India",
+  "published_utc": "2020-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Startup Sages | Nagaraj Mylandla, the man powering the digital push of Indian banks",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How India\u2019s biggest bank merger would stack up in numbers",
+  "source": "Livemint",
+  "published_utc": "2020-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakhshi completes 2 years as MD & CEO; gives ICICI Bank a work culture transformation",
+  "source": "HR Katha",
+  "published_utc": "2020-10-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank PO Programme 2020 - Check Dates, Structure, Fees, Selection Process",
+  "source": "Careers360",
+  "published_utc": "2020-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here's how you can save upto \u20b943,000 on Honda H'Ness CB350 this festive season",
+  "source": "HT Auto",
+  "published_utc": "2020-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q2 net profit soars six-fold to \u20b94,251 cr; asset quality improves",
+  "source": "Livemint",
+  "published_utc": "2020-10-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q2 net profit rises over 6-folds to Rs 4,251 crore",
+  "source": "The New Indian Express",
+  "published_utc": "2020-10-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

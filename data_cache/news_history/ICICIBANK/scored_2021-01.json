@@ -1,0 +1,452 @@
+[
+ {
+  "title": "Bandhan Bank and IDFC First Bank offer the best rates on savings accounts",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's net banking goes down for some users",
+  "source": "CNBC TV18",
+  "published_utc": "2021-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's net banking down for some users",
+  "source": "Livemint",
+  "published_utc": "2021-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi-Ghaziabad-Meerut RRTS corridor to have modern and indigenous ballastless track",
+  "source": "Livemint",
+  "published_utc": "2021-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi launches Qualcomm Snapdragon 750 SoC powered Mi 10i 5G: Price, specs",
+  "source": "Business Standard",
+  "published_utc": "2021-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Mi 10i with 108MP quad camera, Snapdragon 750G launched in India",
+  "source": "Smartprix",
+  "published_utc": "2021-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mo\u00ebt Hennessy appoints Ipsita Das as managing director in India",
+  "source": "Livemint",
+  "published_utc": "2021-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior Citizens Savings Scheme - HDFC Bank vs ICICI Bank: Get higher returns under Special FD plan! Check details",
+  "source": "Zee Business",
+  "published_utc": "2021-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank fixed deposit: These 3 banks are offering up to 7.5% interest on FDs | Check latest rates",
+  "source": "India TV News",
+  "published_utc": "2021-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PhonePe in Association with ICICI Prudential Life Insurance Launches Term Life Insurance Plans on its Platform",
+  "source": "AffairsCloud",
+  "published_utc": "2021-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The versatility of NLP: Case studies that show diverse applications",
+  "source": "IndiaAI",
+  "published_utc": "2021-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Railways revokes cancellation of Chennai-Madurai Tejas Express, to continue from 10 January",
+  "source": "Livemint",
+  "published_utc": "2021-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Senior Citizen Saving Scheme: Earn higher return than normal FD on your money here",
+  "source": "Zee Business",
+  "published_utc": "2021-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "11 Indian companies in top-500 globally by value, country ranked 10th: Report",
+  "source": "The Times of India",
+  "published_utc": "2021-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank, Punjab National Bank offer the lowest interest rates on home loans",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Police ensure recovery of Rs 27.82 lakh of two cyber crime victims",
+  "source": "The Hitavada",
+  "published_utc": "2021-01-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital bank account sparks off a disruption",
+  "source": "Livemint",
+  "published_utc": "2021-01-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki partners 12 financiers to offer online loan for Arena customers",
+  "source": "Autocar Professional",
+  "published_utc": "2021-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDFC First Bank may disrupt cards business with 9% interest",
+  "source": "The Times of India",
+  "published_utc": "2021-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Special FDs or high interest savings account: What's better for senior citizen?",
+  "source": "Livemint",
+  "published_utc": "2021-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank credit card, debit card holders delight! Get discount up to 50% on essential and luxury items | check details",
+  "source": "Zee Business",
+  "published_utc": "2021-01-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adjudicating Officer orders ICICI Bank to reimburse customer for loss of money due to 3D Pin feature",
+  "source": "Bar and Bench",
+  "published_utc": "2021-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest bank FD rates: What SBI, ICICI, HDFC Bank, Axis Bank, PNB offer",
+  "source": "Livemint",
+  "published_utc": "2021-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC, ICICI, Axis Bank stack up in digital banking",
+  "source": "Business Today",
+  "published_utc": "2021-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors ties up with banks, NBFCs for commercial customers",
+  "source": "Telangana Today",
+  "published_utc": "2021-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fake vehicle loan frauds duped four banks: Surat cops",
+  "source": "The Times of India",
+  "published_utc": "2021-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI Bank, HDFC Bank remain systemically important banks: RBI",
+  "source": "Livemint",
+  "published_utc": "2021-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Want to buy FASTag online? Check 5 quick ways to get one from ICICI Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Too big to fail\u2019 list: SBI, ICICI Bank, HDFC Bank remain",
+  "source": "The Indian Express",
+  "published_utc": "2021-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches \u2018InstaFX\u2019 mobile app: Key features, other details explained",
+  "source": "Livemint",
+  "published_utc": "2021-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI Bank, HDFC Bank remains in the 2020 list of D-SIBs",
+  "source": "AffairsCloud",
+  "published_utc": "2021-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "25 MBA Students of Shoolini Univ Placed with ICICI Bank",
+  "source": "Shoolini University",
+  "published_utc": "2021-01-21T04:41:28+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PPBL Partners with Suryoday SFB to Launch FD Service & Becomes India's 1st Payment Bank to Launch the Multi Partner FD Service",
+  "source": "AffairsCloud",
+  "published_utc": "2021-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to identify a fake message from bank?",
+  "source": "Livemint",
+  "published_utc": "2021-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What are D-SIBs?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Digital unveils offers on smartphones, laptops, smart TVs: Details here",
+  "source": "Livemint",
+  "published_utc": "2021-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank and ICICI Bank\u2019s UPI platforms lead transaction volume chart in Dec",
+  "source": "Entrackr",
+  "published_utc": "2021-01-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Digital to start Digital India Sale from today",
+  "source": "RightNow",
+  "published_utc": "2021-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank, RBL Bank and Yes Bank offer 6.5% interest one-year fixed deposits",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities Q3 PAT up 95% to Rs 267 crore",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "7 things you need to know about NPS",
+  "source": "ICICI Direct",
+  "published_utc": "2021-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Competition Commission dismisses complaint against ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2021-01-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nippon India Nifty 50 Value 20 Index Fund NFO \u2013 19% annualized returns since inception \u2013 Should you invest?",
+  "source": "Myinvestmentideas",
+  "published_utc": "2021-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank\u2019s\u200abad loan issues drag on, but it eyes\u200abetter days in FY22",
+  "source": "Livemint",
+  "published_utc": "2021-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bitcoin part 2: Should you invest in this cryptocurrency?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank settles whistleblower case with Sebi; pays Rs 28 lakh",
+  "source": "The Economic Times",
+  "published_utc": "2021-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q3: Is the worst over for lender on bad loans front?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's Q3 net profit increases 17% to Rs 5,498 crore",
+  "source": "Business Standard",
+  "published_utc": "2021-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 Simple Steps To Avail ICICI Bank FASTag From Google Pay",
+  "source": "Goodreturns",
+  "published_utc": "2021-01-30T08:05:01+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CCI Approves Acquisition of GIL\u2019s Indo Gulf Fertilisers by Indorama India Private Limited",
+  "source": "AffairsCloud.com",
+  "published_utc": "2021-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

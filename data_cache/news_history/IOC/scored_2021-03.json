@@ -1,0 +1,326 @@
+[
+ {
+  "title": "Indian Oil (IOC) to Spend USD 4.46 Billion on Expansion of the Panipat Refinery Capacity",
+  "source": "ChemAnalyst",
+  "published_utc": "2021-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to expand Panipat refinery with capex of Rs 32,946 crore",
+  "source": "Manufacturing Today India",
+  "published_utc": "2021-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s biggest oil retailers are now focusing on rural revival",
+  "source": "ET Auto",
+  "published_utc": "2021-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches 100 Octane Fuel In Hyderabad",
+  "source": "carandbike",
+  "published_utc": "2021-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC greenlights plan to expand Panipat refinery",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2021-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil awards consultancy for Panipat Refinery expansion project to EIL",
+  "source": "PSU Watch",
+  "published_utc": "2021-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices in your city today",
+  "source": "The Indian Express",
+  "published_utc": "2021-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Monetization of Oil pipelines to start: Indian Oil, GAIL and HPCL to raise Rs. 17kcr - The Indian Wire",
+  "source": "The Indian Wire",
+  "published_utc": "2021-03-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s record-high petrol and diesel prices threaten road to recovery",
+  "source": "mint",
+  "published_utc": "2021-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Attack on Saudi Aramco's facility pushes Brent over $70 a barrel",
+  "source": "mint",
+  "published_utc": "2021-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices in your city today, check here",
+  "source": "The Indian Express",
+  "published_utc": "2021-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MoU signed for Paradeep Plastic Park between IOCL and IDCO;",
+  "source": "PIB",
+  "published_utc": "2021-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil & IDCO jointly to set up Paradip Plastic Park in Odisha",
+  "source": "PSU Watch",
+  "published_utc": "2021-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India cuts back on cooking fuel subsidies, sparking pollution fears",
+  "source": "South China Morning Post",
+  "published_utc": "2021-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shares of oil marketing cos plunge, BPCL down 5%",
+  "source": "Telangana Today",
+  "published_utc": "2021-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Signs MoU with IDCO to develop Odisha\u2019s Paradeep Plastic Park",
+  "source": "AffairsCloud",
+  "published_utc": "2021-03-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Feasibility study for extending oil pipeline to Chitwan completed",
+  "source": "The Kathmandu Post",
+  "published_utc": "2021-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices steady for 16th straight day: Here\u2019s what you pay in your city",
+  "source": "The Indian Express",
+  "published_utc": "2021-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL declares \u20b93 second interim dividend",
+  "source": "BusinessLine",
+  "published_utc": "2021-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI and IOCL ink $100 million first SOFR linked deal in the ECB market",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EXCLUSIVE Indian state refiners prepare to cut May Saudi oil imports -sources",
+  "source": "Reuters",
+  "published_utc": "2021-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EXCLUSIVE India readies Saudi oil import cut as stand-off escalates - sources",
+  "source": "Reuters",
+  "published_utc": "2021-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil plans to sell hydrogen facilities",
+  "source": "The New Indian Express",
+  "published_utc": "2021-03-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil-Phinergy JV partners Maruti Suzuki and Ashok Leyland for aluminium-air battery pilot",
+  "source": "Autocar Professional",
+  "published_utc": "2021-03-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Eyeing US crude, India plans to buy less oil from Middle East",
+  "source": "Al Jazeera",
+  "published_utc": "2021-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India oil firms go slow on plans to build second generation ethanol plants",
+  "source": "Livemint",
+  "published_utc": "2021-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kolkata gets its first CNG pumps",
+  "source": "ET Auto",
+  "published_utc": "2021-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL-Mittal Energy first Indian company to buy Guyanese crude Liza",
+  "source": "Livemint",
+  "published_utc": "2021-03-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation, Dorf Ketal Chemicals India tie up",
+  "source": "Manufacturing Today India",
+  "published_utc": "2021-03-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil inks pact with Dorf Ketal Chemicals",
+  "source": "ET EnergyWorld",
+  "published_utc": "2021-03-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hill International set to begin work on $280m zero-carbon R&D campus for Indian Oil",
+  "source": "Global Construction Review",
+  "published_utc": "2021-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil gushes out of crane-hit tanker",
+  "source": "Ahmedabad Mirror",
+  "published_utc": "2021-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation (IOCL) PESTLE Analysis - Detailed PESTEL Factors",
+  "source": "MBA Skool",
+  "published_utc": "2021-03-29T23:56:25+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BHEL makes entry into downstream oil & gas sector",
+  "source": "T&D India",
+  "published_utc": "2021-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HMEL became the first Indian buyer of Guyanese oil",
+  "source": "AffairsCloud",
+  "published_utc": "2021-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BHEL to set up Sulphur Recovery Unit at Paradip Refinery",
+  "source": "PSU Watch",
+  "published_utc": "2021-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

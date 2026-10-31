@@ -1,0 +1,452 @@
+[
+ {
+  "title": "Indian Oil Corporation launches country's first 100 Octane petrol",
+  "source": "The New Indian Express",
+  "published_utc": "2020-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches new premium grade petrol",
+  "source": "BusinessLine",
+  "published_utc": "2020-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches India\u2019s first 100 octane petrol",
+  "source": "Autocar India",
+  "published_utc": "2020-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dharmendra Pradhan launches Indian Oil\u2019s \u2018XP100\u2019, click to know what it is",
+  "source": "PSU Watch",
+  "published_utc": "2020-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CNG stations at petrol pumps not to be opened for third party access",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This Indian Oil petrol will cost you Rs 160 per litre",
+  "source": "PSU Watch",
+  "published_utc": "2020-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp Launches India's First 100 Octane Petrol For High-end Bikes & Cars",
+  "source": "Sarkaritel.com",
+  "published_utc": "2020-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches XP100 100 Octane Petrol In India",
+  "source": "ZigWheels.com",
+  "published_utc": "2020-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exxon Mobil in talks to buy stake in Indian oil, gas fields: Oil Min Pradhan",
+  "source": "CNBC TV18",
+  "published_utc": "2020-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches 100 Octane Petrol In India Called XP100",
+  "source": "CarDekho",
+  "published_utc": "2020-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches XP100 Fuel: India\u2019s First 100 Octane Petrol",
+  "source": "DriveSpark",
+  "published_utc": "2020-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "100 Octane Petrol Launched In India At Rs 160 Per Liter By Indian Oil",
+  "source": "RushLane",
+  "published_utc": "2020-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Foreign oil companies are eying retail business in India",
+  "source": "Thepost24",
+  "published_utc": "2020-12-03T01:17:54+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches country\u2019s first 100 octane petrol",
+  "source": "CarWale",
+  "published_utc": "2020-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches XP100 100 Octane Petrol in India, Priced at INR 160 Per Litre",
+  "source": "Motoroids",
+  "published_utc": "2020-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OMCs re-think expansion in natural gas retailing",
+  "source": "Livemint",
+  "published_utc": "2020-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chittoor to get LPG bottling plant by 2022",
+  "source": "The New Indian Express",
+  "published_utc": "2020-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG Gas Booking: How to book Indane Gas Cylinder from WhatsApp",
+  "source": "India Today",
+  "published_utc": "2020-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL Tops 2020 Fortune 500 Ranking List of Indian Companies",
+  "source": "AffairsCloud",
+  "published_utc": "2020-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Indian Companies are Making a Mark in The Global Arena?",
+  "source": "IBEF",
+  "published_utc": "2020-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Brings XP100 Octane Petrol, To Cost INR 160/Liter - The Indian Wire",
+  "source": "The Indian Wire",
+  "published_utc": "2020-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reji Mathai takes over as ARAI Director",
+  "source": "ET Auto",
+  "published_utc": "2020-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price up 28 paise, diesel 29 paise a litre; rates touch 2-yr high",
+  "source": "The Indian Express",
+  "published_utc": "2020-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "AP to receive Rs 1,689 cr from Indian Oil Corporation",
+  "source": "Construction World",
+  "published_utc": "2020-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "101 PSUs give Rs 155 crore from their staff salaries to PM fund",
+  "source": "The Indian Express",
+  "published_utc": "2020-12-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Invites Applications For Filling Vacancies In Haldia Refinery",
+  "source": "NDTV",
+  "published_utc": "2020-12-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arkfin Group's Prashant Karulkar felicitates 7 firms as 'Champion of Champions' in Indian Industry during ABCI Awards",
+  "source": "Business Standard",
+  "published_utc": "2020-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka\u2019s high opportunity cost of unutilised China Bay oil tanks",
+  "source": "Daily FT",
+  "published_utc": "2020-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Industries tops Fortune India 500 list for second year in a row",
+  "source": "Exchange4Media",
+  "published_utc": "2020-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG Cylinder Rates: Cooking gas price raised by Rs 50; Know how much it will cost in Delhi, Mumbai, Kolkata",
+  "source": "India TV News",
+  "published_utc": "2020-12-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches XP100 Performance 100 Octane Fuel \u2013 What Is Engine Knock?",
+  "source": "Car Blog India",
+  "published_utc": "2020-12-10T06:36:50+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Capacity utilisation at Indian Oil refineries reach 100% in November",
+  "source": "The Economic Times",
+  "published_utc": "2020-12-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches 5 kg LPG cylinder \u2018Chhotu\u2019 in New Delhi",
+  "source": "PSU Watch",
+  "published_utc": "2020-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Domestic cooking gas prices raised, a cylinder in Delhi to cost \u20b950 more",
+  "source": "Livemint",
+  "published_utc": "2020-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IBM, Indian Oil Corporation collaborate for digital services",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-12-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Strategic Interests in Central Asia and Afghanistan Go Through Iran",
+  "source": "New Lines Institute",
+  "published_utc": "2020-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG gas cylinder price in December: Know rates you have to pay now for your cooking fuel after hike",
+  "source": "Zee Business",
+  "published_utc": "2020-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pradhan dedicates Bengal\u2019s first oil and gas reserve to nation",
+  "source": "The Indian Express",
+  "published_utc": "2020-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dharmendra Pradhan dedicates West Bengal's first oil and gas reserve to nation",
+  "source": "Livemint",
+  "published_utc": "2020-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maire Tecnimont strengthens its petrochemical business in India wit...",
+  "source": "MAIRE Group",
+  "published_utc": "2020-12-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "E-push: Bengaluru to get 100 electric vehicle battery swapping stations",
+  "source": "The Indian Express",
+  "published_utc": "2020-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil awards $255 million contract to Tecnimont Private Ltd",
+  "source": "ET EnergyWorld",
+  "published_utc": "2020-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC Operationalises India's Eighth Oil Producing Basin At Asokenagar-1 Well In Bengal Basin",
+  "source": "Swarajya",
+  "published_utc": "2020-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel sale coming back to pre-COVID level: Indian Oil Corporation official",
+  "source": "The New Indian Express",
+  "published_utc": "2020-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal Oil Corporation finalises alignment for laying Jhapa-Siliguri petroleum pipeline",
+  "source": "myRepublica",
+  "published_utc": "2020-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG Cylinder prices to be revised every week from 2021? All you want to know",
+  "source": "Zee News",
+  "published_utc": "2020-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anant Kumar Singh joins as CVO, Indian Oil Corporation",
+  "source": "Whispers in the Corridors",
+  "published_utc": "2020-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment:\u2009Application begins for engineer, technical attendant posts | Hindustan Times",
+  "source": "Hindustan Times",
+  "published_utc": "2020-12-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches first-ever XP100 100 octane petrol in India",
+  "source": "India Today",
+  "published_utc": "2020-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches India\u2019s 1st Remote Monitoring System of Gas Turbines",
+  "source": "AffairsCloud",
+  "published_utc": "2020-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

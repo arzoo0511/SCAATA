@@ -1,0 +1,83 @@
+[
+ {
+  "title": "Distribution of ITC's revenue FY 2020, by brands",
+  "source": "Statista",
+  "published_utc": "2020-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty500 Multicap 50:25:25 Index Review",
+  "source": "freefincal",
+  "published_utc": "2020-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can a generic expression be granted registration and/or protection as a trade mark under trade mark laws? IPAB explains if \"N 95\" is capable of being registered or protected as a trade mark",
+  "source": "SCC Online",
+  "published_utc": "2020-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC stock gets some light finally, but ESG concerns still loom large",
+  "source": "Livemint",
+  "published_utc": "2020-12-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dividend stocks better for risk-averse investors; 8 shares that offer over 10% yield",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Britannia moves court against ITC, alleges trademark infringement",
+  "source": "The News Minute",
+  "published_utc": "2020-12-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Classmate launches origami notebooks to encourage creativity in children",
+  "source": "Exchange4Media",
+  "published_utc": "2020-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPES: Experience Quality Learning in a Conducive Environment",
+  "source": "Higher Education Digest",
+  "published_utc": "2020-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Growth Opportunities For The Food Processing Industry In India",
+  "source": "IBEF",
+  "published_utc": "2020-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

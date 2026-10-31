@@ -1,0 +1,461 @@
+[
+ {
+  "title": "ICICI Bank to charge fees for depositing money in ATMs during holidays, non-business hours",
+  "source": "Deccan Herald",
+  "published_utc": "2020-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to levy fee of Rs 50 for cash deposits by customers in cash recyclers during non-business hours...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cash deposits at ATMs: Banks to levy charges for transactions. Know rules",
+  "source": "Livemint",
+  "published_utc": "2020-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Analysts see an upside of 25-28% in ICICI Bank stock",
+  "source": "Livemint",
+  "published_utc": "2020-11-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank wants investors to look beyond covid-19",
+  "source": "Livemint",
+  "published_utc": "2020-11-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Standard Chartered Bank appoints new CFO",
+  "source": "OnlineKhabar English News",
+  "published_utc": "2020-11-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks introduce new policies for cash deposit transactions",
+  "source": "SabrangIndia",
+  "published_utc": "2020-11-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks begin charging fees on deposits and withdrawals: See details",
+  "source": "The News Minute",
+  "published_utc": "2020-11-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These Banks To Levy Fee On Deposits At Cash Deposit Machine: Here Are The Rules And Charges",
+  "source": "Goodreturns",
+  "published_utc": "2020-11-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon-ICICI case: ED chargesheets Chanda Kochhar, others, with \u20185 trunks\u2019 of supporting documents",
+  "source": "The Indian Express",
+  "published_utc": "2020-11-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank targets youngsters with ICICI Bank Mine",
+  "source": "The Times of India",
+  "published_utc": "2020-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches \u2018Mine\u2019, a banking stack for millennials",
+  "source": "IBS Intelligence",
+  "published_utc": "2020-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's millennial branches to host entertainment shows as part of new offering",
+  "source": "The Economic Times",
+  "published_utc": "2020-11-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WhatsApp Pay now live in India: Link these 5 bank accounts to use service",
+  "source": "Livemint",
+  "published_utc": "2020-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches \u2018Mine\u2019 for millennials customers",
+  "source": "Times Now",
+  "published_utc": "2020-11-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank refund blunder leaves its borrowers in daze",
+  "source": "Livemint",
+  "published_utc": "2020-11-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI diversifies shareholding with 131 new partners",
+  "source": "MediaNama",
+  "published_utc": "2020-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo V20 SE\u2019s Aquamarine Green colour variant now available for sale",
+  "source": "The Times of India",
+  "published_utc": "2020-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s retail mortgage book crosses Rs 2 lakh crore",
+  "source": "The Indian Express",
+  "published_utc": "2020-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank first pvt lender to surpass Rs 2 trn in mortgage loan portfolio",
+  "source": "Business Standard",
+  "published_utc": "2020-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hopes to digitally source 75% of new home loans",
+  "source": "Livemint",
+  "published_utc": "2020-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The cheapest home loans: Kotak Mahindra, Union Bank offer the lowest rates",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "U16 Error In Google Pay: What Is U16 Error And How To Fix In Google Pay",
+  "source": "Gizbot",
+  "published_utc": "2020-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBL Bank raises \u20b91,566 crore capital from Baring, ICICI Prudential",
+  "source": "Livemint",
+  "published_utc": "2020-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PMLA\u2009adjudicating authority dismisses attachment of assets of Kochhars | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2020-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assets of Deepak and Chanda Kochhar attached by ED not proceeds of crime: PMLA adjudicating authority",
+  "source": "The Indian Express",
+  "published_utc": "2020-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Expansion in net interest margins of banks",
+  "source": "Passionate In Marketing",
+  "published_utc": "2020-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Headmen sponsored Stay at Home\u2019s protest successful but PWD Jowai North Division\u2019s legacy wind up",
+  "source": "Syllad",
+  "published_utc": "2020-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank ex-CEO Chanda Kochhar spills the beans, says not sanctioned any of Videocon loans independently",
+  "source": "Times Now",
+  "published_utc": "2020-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank invests in fraud detection-based fintech AdvaRisk",
+  "source": "VCCircle",
+  "published_utc": "2020-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces \u2018Cardless EMI\u2019 facility. Are you eligible? Check here",
+  "source": "Livemint",
+  "published_utc": "2020-11-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces \u2018Cardless EMI\u2019using PAN, mobile number: Here's how it works",
+  "source": "The Economic Times",
+  "published_utc": "2020-11-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Introduces Cardless EMI Facility For Shopping: How To Check Eligibility?",
+  "source": "Goodreturns",
+  "published_utc": "2020-11-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches cardless EMI facility in collaboration with Pine Labs",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-11-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest bank FD rates: What SBI, HDFC Bank, Axis Bank, Canara Bank offer",
+  "source": "Livemint",
+  "published_utc": "2020-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED assures SC of no coercive action against former ICICI Bank CEO Chanda Kochhar in PMLA case",
+  "source": "The Times of India",
+  "published_utc": "2020-11-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Unique mode of digital payment! ICICI Bank launches Cardless EMI - Check your eligibility and benefits to avail",
+  "source": "Zee Business",
+  "published_utc": "2020-11-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Visa, ICICI Bank partner to accelerate innovation in fintech ecosystem",
+  "source": "Techcircle",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, Axis Bank top 2 UPI remitter banks in October: NPCI",
+  "source": "Techcircle",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LVB-DBS merger may set precedent",
+  "source": "Livemint",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo V20 Pro tipped to launch in the first week of December: Price, Specs, and Pre-booking Offers",
+  "source": "Smartprix",
+  "published_utc": "2020-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mambu will power DigiBank ASIA's new digital bank UNO",
+  "source": "Retail Banker International",
+  "published_utc": "2020-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RXIL's First Trade Credit Insurance Transaction in Sandbox with Tata AIG, ICICI Bank and YES Bank",
+  "source": "Business Standard",
+  "published_utc": "2020-11-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credgenics raises Rs 27 crore in pre series A round led by Accel Partners",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All about convenience charges: How you can stop paying your bank extra",
+  "source": "Lifestyle Asia Hong Kong",
+  "published_utc": "2020-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI raises \u20b981.64 crore equity capital from 19 new shareholders",
+  "source": "MediaNama",
+  "published_utc": "2020-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI advises Lakshmi Vilas Bank to fully write down tier-2 bonds before DBS merger",
+  "source": "Livemint",
+  "published_utc": "2020-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Retail Loan Market to Witness Huge Growth by 2026 | State Bank of India, ICICI Bank, HDFC Bank, Axis Bank",
+  "source": "openPR.com",
+  "published_utc": "2020-11-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard gets in-principle approval from IRDAI approval to acquire Bharti AXA General Insurance",
+  "source": "Livemint",
+  "published_utc": "2020-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm, PhonePe, Amazon Pay, others now NPCI shareholders; may get more say in UPI future",
+  "source": "The Indian Express",
+  "published_utc": "2020-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These banks are offering up to 7% on bank FDs. Are they worth the risk?",
+  "source": "Livemint",
+  "published_utc": "2020-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

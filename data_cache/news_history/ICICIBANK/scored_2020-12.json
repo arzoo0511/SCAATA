@@ -1,0 +1,587 @@
+[
+ {
+  "title": "SC rejects Chanda Kochhar's appeal against termination as ICICI Bank's CEO & MD",
+  "source": "The Times of India",
+  "published_utc": "2020-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Supreme Court Dismisses Chanda Kochhar's Challenge Against ICICI Bank Terminating Her Services",
+  "source": "Live Law",
+  "published_utc": "2020-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC rejects Chanda Kochhars appeal against Bombay HC order upholding ICICIs decision to sack her",
+  "source": "LawStreet Journal",
+  "published_utc": "2020-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "D-Street Buzz: Bank Nifty underperforms dragged by Kotak Bank, HDFC Bank; PNB, Bandhan Bank shed 2%",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WhatsApp Pay: How to enable, send and receive money",
+  "source": "mint",
+  "published_utc": "2020-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Sets Up Presence In Nepal",
+  "source": "Sarkaritel.com",
+  "published_utc": "2020-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank opens representative office in Nepal",
+  "source": "ETV Bharat",
+  "published_utc": "2020-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI prohibits HDFC Bank from issuing new credit cards",
+  "source": "Telegraph India",
+  "published_utc": "2020-12-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches \u2018iMobile Pay\u2019: How to use and key features explained",
+  "source": "Livemint",
+  "published_utc": "2020-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches 'iMobile Pay': Country's first app that provides payments and banking services for all",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Launched \"iMobile Pay\" App",
+  "source": "AffairsCloud",
+  "published_utc": "2020-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI launches iMobile Pay; app offers services for customers of any bank",
+  "source": "IBS Intelligence",
+  "published_utc": "2020-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank enters \u2018FinTech\u2019 space, launches \u2018iMobile Pay\u2019 app",
+  "source": "Telangana Today",
+  "published_utc": "2020-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Launches iMobile Pay, Offers Payments, Banking Services For All",
+  "source": "NDTV Profit",
+  "published_utc": "2020-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank bets on digital edge, but operational strength key for growth",
+  "source": "Livemint",
+  "published_utc": "2020-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to change or reset UPI PIN on WhatsApp: Step-by-step guide",
+  "source": "India Today",
+  "published_utc": "2020-12-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank iMobile Pay: India\u2019s 1st app for all - UPI, bill payment, recharge, loan, credit card and more | Key features, how to download",
+  "source": "Zee Business",
+  "published_utc": "2020-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank case: Chanda Kochhar threatened Dhoot, asked him to invest in husband's firm, says ED",
+  "source": "Business Today",
+  "published_utc": "2020-12-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to be designated bank for all financial transactions under National Health Mission in West Beng",
+  "source": "The Economic Times",
+  "published_utc": "2020-12-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces iMobile Pay app",
+  "source": "Passionate In Marketing",
+  "published_utc": "2020-12-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBL Bank & ICICI Prudential Life Insurance Enters into a Bancassurance Partnership to Offer Life Insurance Products",
+  "source": "AffairsCloud.com",
+  "published_utc": "2020-12-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank and IDFC First Bank offer up to 7% on savings accounts",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI set to open access to all on \u2018Yono\u2019",
+  "source": "Passionate In Marketing",
+  "published_utc": "2020-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai FASTag ready with three major tollways under electronic collection system: NPCI",
+  "source": "The New Indian Express",
+  "published_utc": "2020-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New Honda Hornet 2.0 offered with cashback up to Rs 5,000",
+  "source": "BikeWale",
+  "published_utc": "2020-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What is KV Kamath Committee?",
+  "source": "GK Today",
+  "published_utc": "2020-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai gets NETC FASTag ready",
+  "source": "Construction Week India",
+  "published_utc": "2020-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained - What Is WhatsApp Pay, How To Send Money: All You Need To Know | BOOM",
+  "source": "BOOM Fact Check",
+  "published_utc": "2020-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DICV partners with 18 banks, NBFCs to offer financing options to customers",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WhatsApp Payments is live with SBI, HDFC, Axis Bank",
+  "source": "Livemint",
+  "published_utc": "2020-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BSE Ebix Launches Beta Version of Term Insurance for ICICI Prudential on its On-Demand Hi-Tech Platform",
+  "source": "AffairsCloud.com",
+  "published_utc": "2020-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo A15s with 6.5-inch HD+ screen, 4100mAh battery launched: Price, specs and more",
+  "source": "The Times of India",
+  "published_utc": "2020-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo A15s with MediaTek Helio P35 launched in India at \u20b911,490",
+  "source": "Smartprix",
+  "published_utc": "2020-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amid falling interest rates, these lenders are offering over 7% on savings account",
+  "source": "Times Now",
+  "published_utc": "2020-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WhatsApp digital payments to sell health insurance in India",
+  "source": "ET Government",
+  "published_utc": "2020-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixing the banking mess",
+  "source": "India Today",
+  "published_utc": "2020-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can a CoC member be asked to contribute towards CIRP cost?",
+  "source": "Insolvency Tracker",
+  "published_utc": "2020-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shifting bank account is cumbersome",
+  "source": "Livemint",
+  "published_utc": "2020-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIFL Home, ICICI Bank join hands for affordable housing, MSME loans",
+  "source": "The Economic Times",
+  "published_utc": "2020-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIFL Home, ICICI Bank Joined Hands for Affordable Housing, MSME loans",
+  "source": "AffairsCloud",
+  "published_utc": "2020-12-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches \u2018Infinite India\u2019: All you need to know",
+  "source": "Livemint",
+  "published_utc": "2020-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank offers online platform for MNCs",
+  "source": "The Hindu",
+  "published_utc": "2020-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank unveils online platform for foreign businesses in India",
+  "source": "The Indian Express",
+  "published_utc": "2020-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank seeks to gain market share in MNC banking",
+  "source": "The Economic Times",
+  "published_utc": "2020-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches MNC services platform",
+  "source": "The Times of India",
+  "published_utc": "2020-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves appointment of Sandeep Batra as ED, ICICI Bank",
+  "source": "BusinessLine",
+  "published_utc": "2020-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches 'Infinite India' platform for foreign firms; all you need to know",
+  "source": "Business Today",
+  "published_utc": "2020-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Becomes 1st bank in India to Launch \u2018Infinite India\u2019, an Online Platform for Foreign Companies; Industry-first initiative",
+  "source": "AffairsCloud",
+  "published_utc": "2020-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI okays Sandeep Batra's appointment as Executive Director of ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2020-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank appoints Sandeep Batra as executive director for 3 years",
+  "source": "Business Today",
+  "published_utc": "2020-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank top among 100 BFSI firms; Google Pay No.1 in UPI payments",
+  "source": "Business Today",
+  "published_utc": "2020-12-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, ICICI Bank, SBI ranked high position in the Top 10 banks list 2020",
+  "source": "Passionate In Marketing",
+  "published_utc": "2020-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior citizens special FD scheme latest rates: SBI vs BoB vs ICICI vs HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2020-12-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches 'Infinite India' for foreign firms to set up operations in country",
+  "source": "Saudi Gazette",
+  "published_utc": "2020-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank rolls out platform for foreign firms setting up shop in India",
+  "source": "Frontier Enterprise",
+  "published_utc": "2020-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank buys 9.09% stake in Myclassboard Educational for \u20b94.5 cr",
+  "source": "Livemint",
+  "published_utc": "2020-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Becomes 1st Bank to Collaborate with Google Pay to Issue FASTag",
+  "source": "AffairsCloud",
+  "published_utc": "2020-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to pick up minority stake in ed-tech firm Myclassboard",
+  "source": "VCCircle",
+  "published_utc": "2020-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI collaborates with Google Pay for easy issuance of FASTag through UPI",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MyClassboard raises Rs 45 crore from ICICI Bank",
+  "source": "Telangana Today",
+  "published_utc": "2020-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google Pay will now offer FASTag in partnership with ICICI Bank: Here\u2019s how it works",
+  "source": "The Indian Express",
+  "published_utc": "2020-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank joins hands with Google Pay for issuing FASTag",
+  "source": "Siliconindia",
+  "published_utc": "2020-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "AU Small Finance Bank Partners with ICICI Prudential Life Insurance to Offer Need & Goal-Based Life Insurance Solutions",
+  "source": "AffairsCloud",
+  "published_utc": "2020-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MyClassboard raises Rs 4.5 crores funding from ICICI Bank",
+  "source": "ANI News",
+  "published_utc": "2020-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank and Google Pay join hands to offer FASTag through app",
+  "source": "Passionate In Marketing",
+  "published_utc": "2020-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

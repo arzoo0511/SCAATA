@@ -1,0 +1,830 @@
+[
+ {
+  "title": "CAMS Shares Debuted at Premium of 23% Over Issue Price",
+  "source": "Equitypandit",
+  "published_utc": "2020-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks are going all out with offers to revive credit growth during festive season",
+  "source": "The Economic Times",
+  "published_utc": "2020-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CAMS makes stock markets debut at 23% premium over issue price",
+  "source": "Livemint",
+  "published_utc": "2020-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple Watch Series 6, Series SE go on sale in India: Prices and discount offers",
+  "source": "The Times of India",
+  "published_utc": "2020-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Techno Electric Target Share Price, Techno Electric Share Price Forecast",
+  "source": "The Economic Times",
+  "published_utc": "2020-10-02T14:22:18+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Small saving plans beat bank FD rate",
+  "source": "Livemint",
+  "published_utc": "2020-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEEDAP to organise recruitment drive for unemployed youth in Visakhapatnam",
+  "source": "Yo Vizag",
+  "published_utc": "2020-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's Ravi Santhanam in Forbes list of world's most influential CMOs",
+  "source": "The Economic Times",
+  "published_utc": "2020-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Your jobs, increments, bonuses are secure: Puri to HDFC Bank employees",
+  "source": "Business Standard",
+  "published_utc": "2020-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After HDFC & ICICI banks, Axis to now give salary hikes while others cut jobs and pay",
+  "source": "ThePrint",
+  "published_utc": "2020-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why there has been an 8% increase in sexual harassment complaints at Nifty50 firms",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank offers loan for care at Apollo",
+  "source": "The Hindu",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank and Apollo Hospital come together for providing quality healthcare",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank to give 4 to 12% salary hike",
+  "source": "HR Katha",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, Apollo Hospitals partner for healthcare solution",
+  "source": "ET HealthWorld",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to give instant loans up to Rs 40 lakh for customers' medical bills at Apollo Hospitals",
+  "source": "Zee Business",
+  "published_utc": "2020-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Looking to buy a house this festive season? Here are the cheapest home loans",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank ties up with Apollo Hospitals, to finance treatment up to Rs 40 lakh",
+  "source": "The Times of India",
+  "published_utc": "2020-10-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Look at loan recast as deferring your payment at a steep cost",
+  "source": "Livemint",
+  "published_utc": "2020-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank takes \u2018Festive Treats 2.0\u2019 to rural India via 1.2 lakh VLEs",
+  "source": "Livemint",
+  "published_utc": "2020-10-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank takes festive offers to rural India to pump up credit growth",
+  "source": "The Economic Times",
+  "published_utc": "2020-10-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Haryana Police hikes accidental insurance death cover for pensioners to Rs 30 lakh",
+  "source": "The Indian Express",
+  "published_utc": "2020-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "British Airways Executive Club no longer a transfer partner for HDFC Bank Diners Club Cards?",
+  "source": "Live From A Lounge",
+  "published_utc": "2020-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best Amazon Great Indian Festival Sale deals: Top 10 phone deals that deserve attention",
+  "source": "India Today",
+  "published_utc": "2020-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Magicbricks to offer home loan services, ties up with SBI, HDFC and 11 other lenders",
+  "source": "Livemint",
+  "published_utc": "2020-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Great Indian Festival, Flipkarts Big Billion Day Sale: A Look At The Top 10 Deals From Premium To Budget Mobiles",
+  "source": "ABP Live English",
+  "published_utc": "2020-10-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung India Launches Biggest Ever Festive Campaign #RewardYourself",
+  "source": "Samsung Global Newsroom",
+  "published_utc": "2020-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus flagship 8T 5G launched in India with quad camera, up to 12GB RAM",
+  "source": "The News Minute",
+  "published_utc": "2020-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank cuts fixed deposit rates. Check latest FD interest rates here",
+  "source": "Livemint",
+  "published_utc": "2020-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank slashes FD interest rate: Check latest deposit rates here",
+  "source": "Times Now",
+  "published_utc": "2020-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Kings of Capital \u2013 Part III: Aditya Puri",
+  "source": "marcellus.in",
+  "published_utc": "2020-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The changing face of HDFC life & the Insurance industry",
+  "source": "Finshots",
+  "published_utc": "2020-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loan festive offer: Check out the latest offers from SBI, HDFC and other banks",
+  "source": "The Financial Express",
+  "published_utc": "2020-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors joins hands with HDFC Bank for novel car financing schemes",
+  "source": "ET Auto",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank partners with Amazon for GREAT INDIAN FESTIVAL Sale",
+  "source": "ANI News",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors Partnered with HDFC Bank for Financing of Passenger Vehicles",
+  "source": "AffairsCloud",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors passenger vehicles business partners with HDFC Bank",
+  "source": "Auto Components India",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Sashidhar Jagdishan, new CEO of HDFC Bank who will take charge this month",
+  "source": "Livemint",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus offers instant discount on smartphones, Smart TV",
+  "source": "ET Telecom",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Profit Pundit",
+  "source": "India Today",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Direct Create plans to launch awareness campaign to promote handicrafts",
+  "source": "Business Standard",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank board appoints Sashidhar Jagdishan as its MD & CEO; will take charge this month",
+  "source": "Times Now",
+  "published_utc": "2020-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Profit Tops Estimate as Loans Jump, Bad Debt Falls",
+  "source": "Bloomberg.com",
+  "published_utc": "2020-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest Bank FD rates: SBI vs HDFC Bank vs PNB vs Canara Bank vs Bank of Baroda",
+  "source": "Livemint",
+  "published_utc": "2020-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dolat Capital: HDFC Bank Posts A Good Quarter; Envisage Limited Pain Ahead",
+  "source": "NDTV Profit",
+  "published_utc": "2020-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Motilal Oswal: HDFC Bank\u2019s Business Trends Undergoing Swift Normalisation",
+  "source": "NDTV Profit",
+  "published_utc": "2020-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors Ties Up With HDFC Bank To Offer Financing Options",
+  "source": "CarDekho",
+  "published_utc": "2020-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri says Deepak Parekh gave him a free hand to build HDFC Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri reveals why he sold HDFC Bank shares before retirement",
+  "source": "The Economic Times",
+  "published_utc": "2020-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From SBI to HDFC Bank and Axis, banks roll out festive offers on home and car loans",
+  "source": "The News Minute",
+  "published_utc": "2020-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why HDFC Bank\u2019s investors need to look beyond the Aditya Puri factor",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank develops app for Mata Vaishno Devi Temple",
+  "source": "Banking Frontiers",
+  "published_utc": "2020-10-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At Indian banks, new leaders face new challenges",
+  "source": "Forbes India",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai Police ink 3-year pact with HDFC Bank, to transfer salary accounts of all personnel from Axis",
+  "source": "The Indian Express",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amruta Fadnavis, Priyanka Chaturvedi in Twitter spat over Mumbai Police bank accounts transfer",
+  "source": "ThePrint",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Inside HDFC Bank\u2019s old-new playbook",
+  "source": "Livemint",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai cops to deposit salary with HDFC Bank account",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Time to say goodbye! Huge wall hanging of Aditya Puri at HDFC Bank HQ in Mumbai",
+  "source": "Business Today",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to handle salary accounts of Mumbai cops",
+  "source": "Livemint",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai cops sign MoU with HDFC now for salaries",
+  "source": "The Times of India",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai Police shifts salary accounts of 40,000 cops from Axis Bank to HDFC Bank",
+  "source": "CNBC TV18",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Twitter war between Priyanka Chaturvedi, Amruta Fadnavis after Mumbai Police accounts shifted from Axis Bank",
+  "source": "India Today",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Priyanka Chaturvedi, Amruta Fadnavis lock horns on Twitter over Mumbai Police\u2019s Axis Bank accounts | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai Police transfers 50k salary accounts from Axis to HDFC; Ex-CM's wife responds sharply",
+  "source": "IBTimes India",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "As Mumbai Police start shifting 40k accounts to HDFC, Amruta Fadnavis says \u2018Axis bank is not my family bank\u2019",
+  "source": "Times Now",
+  "published_utc": "2020-10-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Thank you, Mr Aditya Puri, for 25 glorious years': HDFC Bank decorates HQ as it bids farewell MD and CEO",
+  "source": "CNBC TV18",
+  "published_utc": "2020-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Thank you for 25 glorious years: HDFC Bank bids adieu to MD and CEO Aditya Puri",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Festival of Electronics\u2019 sale is back at Reliance Digital",
+  "source": "RightNow",
+  "published_utc": "2020-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Thank you, Aditya Puri, for 25 glorious years': HDFC pays grand tribute to outgoing boss",
+  "source": "IBTimes India",
+  "published_utc": "2020-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Aditya Puri built HDFC bank from scratch over a 25-year journey",
+  "source": "Business Standard",
+  "published_utc": "2020-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank thanks HDFC Bank's Aditya Puri for being an 'inspiration'",
+  "source": "The Times of India",
+  "published_utc": "2020-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'You are an inspiration': ICICI Bank pays tribute to outgoing HDFC Bank MD, CEO Aditya Puri",
+  "source": "Business Today",
+  "published_utc": "2020-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri retires as MD of HDFC Bank, Sashidhar Jagdishan takes over",
+  "source": "Livemint",
+  "published_utc": "2020-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sashidhar Jagdishan to take charge as MD & CEO of HDFC Bank from Tuesday",
+  "source": "The Economic Times",
+  "published_utc": "2020-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Free Photo: HDFC Bank MD and CEO Sashidhar Jagdishan",
+  "source": "Prokerala",
+  "published_utc": "2020-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri retires, Sashidhar Jagdishan takes over as HDFC Bank MD-CEO",
+  "source": "The Indian Express",
+  "published_utc": "2020-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From listing to Rs 7 lakh crore m-cap, 5 HDFC Bank milestones on Aditya Puri's watch",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This is how Aditya Puri built HDFC Bank over a 25-year journey",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2020-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC Bank and Bank of Baroda working on bank-led NUE: Report",
+  "source": "MediaNama",
+  "published_utc": "2020-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches \ufffdDiwali Festive Treats\ufffd campaign",
+  "source": "Mangalore Today",
+  "published_utc": "2020-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The King and I: What I learned from Aditya Puri",
+  "source": "Forbes India",
+  "published_utc": "2020-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Where does NPS invest your money: Top five stock holdings of pension funds",
+  "source": "Livemint",
+  "published_utc": "2020-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri retires; Sashidhar Jagdishan takes over as HDFC Bank MD and CEO",
+  "source": "DNA India",
+  "published_utc": "2020-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shri Shashidhar Jagdishan took charges as new MD and CEO of HDFC Bank",
+  "source": "PSU Connect",
+  "published_utc": "2020-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sashidhar Jagdishan takes charge of HDFC Bank",
+  "source": "Telegraph India",
+  "published_utc": "2020-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "4 Ways To Get HDFC Bank Debit Card Re-issued Or Replaced In Case You Lose It",
+  "source": "Goodreturns",
+  "published_utc": "2020-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Startup Sages | Nagaraj Mylandla, the man powering the digital push of Indian banks",
+  "source": "Moneycontrol.com",
+  "published_utc": "2020-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Motilal Oswal maintains Buy rating on HDFC Bank, with revised target price of Rs 1500",
+  "source": "Zee Business",
+  "published_utc": "2020-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Street applauds Kotak Mahindra Bank Q2 with good reason",
+  "source": "Times Now",
+  "published_utc": "2020-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is the world\u2019s best banker?",
+  "source": "The Economist",
+  "published_utc": "2020-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sashidhar Jagdishan assumes office at HDFC Bank",
+  "source": "Banking Frontiers",
+  "published_utc": "2020-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aditya Puri, the banker who transformed HDFC Bank, retires",
+  "source": "Adgully.com",
+  "published_utc": "2020-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

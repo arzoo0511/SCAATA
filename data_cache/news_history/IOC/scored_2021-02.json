@@ -1,0 +1,398 @@
+[
+ {
+  "title": "Akshay Kumar Singh assumes charge as MD & CEO of Petronet LNG Ltd",
+  "source": "PSU Watch",
+  "published_utc": "2021-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil may form subsidiary for retail assets to unlock value",
+  "source": "Livemint",
+  "published_utc": "2021-02-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to monetise pipeline assets, says many investors interested",
+  "source": "Business Standard",
+  "published_utc": "2021-02-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CPCL to set up Rs 29,000 cr refinery in TN",
+  "source": "Construction World",
+  "published_utc": "2021-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil sees strong Q3, but refining margins are weak",
+  "source": "Livemint",
+  "published_utc": "2021-02-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ONGC Extends Drilling Contract for Vantage Explorer Drillship",
+  "source": "Offshore Engineer Magazine",
+  "published_utc": "2021-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches super-premium XP100 Octane in Visakhapatnam, first in AP",
+  "source": "The Times of India",
+  "published_utc": "2021-02-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches premium-grade fuel XP100 for supercars, bikes in Mangaluru",
+  "source": "Daijiworld",
+  "published_utc": "2021-02-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Pipeline Admit Card 2021 Out @ plis.indianoilpipelines.in: Non Executive Exam on 14 Feb",
+  "source": "Jagranjosh.com",
+  "published_utc": "2021-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB inks deal with Indian Oil to provide up to Rs 2 cr loan to dealers",
+  "source": "Business Standard",
+  "published_utc": "2021-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CPCL commissions new unit at Manali refinery",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2021-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB signs MoU with Indian Oil for e-dealer financing",
+  "source": "Livemint",
+  "published_utc": "2021-02-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB, IOCL sign 1st of its Kind MoU for providing up to INR 2 Crore Loan to Dealers",
+  "source": "AffairsCloud",
+  "published_utc": "2021-02-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price soars above Rs 90 per litre in major south Indian cities",
+  "source": "The News Minute",
+  "published_utc": "2021-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC seeks land in Budgam for fuel depot",
+  "source": "Brighter Kashmir",
+  "published_utc": "2021-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG Cylinder Rates: Cooking gas price hiked by Rs 50. Check revised rate",
+  "source": "India TV News",
+  "published_utc": "2021-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Premium petrol prices breach Rs 100/ltr mark in Rajasthan, Madhya Pradesh",
+  "source": "ET Auto",
+  "published_utc": "2021-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices at fresh record highs: Here are fuel prices in your city today",
+  "source": "The Indian Express",
+  "published_utc": "2021-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 largest public companies in India\u2019s public sector",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2021-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATF price hike may dampen recovery for Indian airlines",
+  "source": "Livemint",
+  "published_utc": "2021-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka To Re-Acquire 99 Oil Tanks Leased To Indian Oil: Minister",
+  "source": "NDTV",
+  "published_utc": "2021-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Indian Oil \u2013 Adani Gas Private Limited (IOAGPL)\u2019 is a joint venture incorporated in 2013",
+  "source": "FACTLY",
+  "published_utc": "2021-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No, Indian Oil Corporation Has Not Been Sold To Adani Group | BOOM",
+  "source": "BOOM Fact Check",
+  "published_utc": "2021-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The image showing \u2018Indian Oil sold to Adani Gas\u2019 is fake",
+  "source": "PSU Watch",
+  "published_utc": "2021-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil selects American firm Dastur for India\u2019s largest industrial carbon capture and utilization project",
+  "source": "pv magazine India",
+  "published_utc": "2021-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, Eastern Region Invites Applications For Apprenticeship",
+  "source": "NDTV",
+  "published_utc": "2021-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No, Indian Oil Corporation Has Not Been Sold off To Adani Group",
+  "source": "The Quint",
+  "published_utc": "2021-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Congress leaders falsely claim Indian Oil Corporation sold to Adani Group under BJP govt",
+  "source": "Alt News",
+  "published_utc": "2021-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Rajasthan, petrol hits Rs 100/litre mark in MP: Here\u2019s are auto fuel prices in your city today",
+  "source": "The Indian Express",
+  "published_utc": "2021-02-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s largest industrial carbon capture and utilization project",
+  "source": "pv magazine Global",
+  "published_utc": "2021-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fact check: No, IOC has not been sold to Adani Gas",
+  "source": "NewsMeter",
+  "published_utc": "2021-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "K Sailendra appointed ED, Indian Oil Southern Region",
+  "source": "The New Indian Express",
+  "published_utc": "2021-02-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trinco oil tank farm: Agreement between Sri Lanka and India remains intact \u2013 Indian HC",
+  "source": "Island.lk",
+  "published_utc": "2021-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sailendra takes over as Executive Director of Indian Oil",
+  "source": "The Hans India",
+  "published_utc": "2021-02-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil mulls training fuel, LPG truck drivers on simulators",
+  "source": "The Hindu",
+  "published_utc": "2021-02-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC dedicates new unit at Bongaigaon refinery",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2021-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Uncertainties on Trincomalee Oil Tank Farm and India-Sri Lanka Cooperation",
+  "source": "Vivekananda International Foundation (VIF)",
+  "published_utc": "2021-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL extends Two Public Utility Services at its Retail Outlet in Tinsukia",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2021-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation to set up ethanol plants, EV battery manufacturing unit",
+  "source": "Projects Today",
+  "published_utc": "2021-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to set up mega biorefineries in Telangana, Andhra Pradesh",
+  "source": "The Times of India",
+  "published_utc": "2021-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One QR Code for all apps: Now, scan code from Google Pay, Paytm, PhonePe, Bhim UPI and more at all IOC petrol pumps for hassle free transaction",
+  "source": "Zee Business",
+  "published_utc": "2021-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Board okays Rs 33,000-cr Panipat Refinery expansion; project to be completed by Sep \u201924",
+  "source": "PSU Watch",
+  "published_utc": "2021-02-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil To Build Two Mega Bio-Refineries In Telangana And Andhra To Extract Ethanol From Agri-Residue",
+  "source": "Swarajya",
+  "published_utc": "2021-02-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil To Invest $4.46 Billion To Increase Panipat Refinery's Capacity To 5 Lakh Barrels Per Day By September 2024",
+  "source": "Swarajya",
+  "published_utc": "2021-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
