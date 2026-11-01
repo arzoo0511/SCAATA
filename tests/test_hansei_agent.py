@@ -172,6 +172,31 @@ def paths(tmp_path):
             "journal_path": tmp_path / "journal.json"}
 
 
+def test_relative_strength_compares_a_stock_with_the_market():
+    flat, rising = _series(np.full(300, 100.0)), _series(np.linspace(100, 160, 300))
+    assert advisors.relative_strength_view(rising, flat) > 0.5       # leading a flat market
+    assert advisors.relative_strength_view(flat, rising) < -0.5      # lagging a rising one
+    assert advisors.relative_strength_view(rising.iloc[:100], flat) == 0.0   # too little history
+
+
+def test_shadow_advisor_is_recorded_but_changes_no_decision(tmp_path):
+    prices = _prices(300)
+    market = pd.Series(np.linspace(100, 90, 300), index=pd.bdate_range("2025-01-01", periods=300))
+    with_market, without = ({k: tmp_path / name / f"{k}.json" for k in ("book", "memory", "journal")}
+                            for name in ("a", "b"))
+    for p in (*with_market.values(), *without.values()):
+        p.parent.mkdir(exist_ok=True)
+    kw = lambda p: {"book_path": p["book"], "memory_path": p["memory"], "journal_path": p["journal"]}
+    a = run_day(date(2026, 1, 1), prices=prices, news_fn=_quiet_news, market=market, **kw(with_market))
+    b = run_day(date(2026, 1, 1), prices=prices, news_fn=_quiet_news, **kw(without))
+
+    assert [(d["action"], d["target_exposure"]) for d in a["decisions"]] == \
+           [(d["action"], d["target_exposure"]) for d in b["decisions"]]
+    assert all("relstr" in d["shadow"] and "relstr" not in d["views"] for d in a["decisions"])
+    assert all(d["shadow"] == {} for d in b["decisions"])
+    assert a["weights"] == b["weights"] and set(a["weights"]) == set(advisors.ADVISORS)
+
+
 def test_first_run_queues_buys_for_the_next_open_and_trades_nothing_today(paths):
     result = run_day(date(2026, 1, 1), prices=_prices(300), news_fn=_quiet_news, **paths)
 

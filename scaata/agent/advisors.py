@@ -18,6 +18,8 @@ import numpy as np
 import pandas as pd
 
 ADVISORS = ("trend", "volatility", "momentum", "news")
+# Logged and scored every day but never weighed or traded on, until live data says they earn it.
+SHADOW = ("relstr",)
 
 
 def trend_view(closes: pd.Series) -> float:
@@ -42,6 +44,17 @@ def momentum_view(closes: pd.Series, lookback: int = 126, skip: int = 21) -> flo
         return 0.0
     move = closes.iloc[-1 - skip] / closes.iloc[-1 - lookback] - 1
     return float(np.tanh(move / 0.15))
+
+
+def relative_strength_view(closes: pd.Series, market: pd.Series, lookback: int = 126, skip: int = 21) -> float:
+    """Shadow advisor: the stock's 6-1 momentum minus the market's. `market` is
+    aligned to the stock's own sessions, carrying the last close over gaps."""
+    if len(closes) <= lookback:
+        return 0.0
+    market = market.reindex(market.index.union(closes.index)).ffill().reindex(closes.index)
+    own = closes.iloc[-1 - skip] / closes.iloc[-1 - lookback] - 1
+    broad = market.iloc[-1 - skip] / market.iloc[-1 - lookback] - 1
+    return float(np.tanh((own - broad) / 0.15)) if np.isfinite(broad) else 0.0
 
 
 def views(closes: pd.Series, news_signal: dict | None = None) -> dict[str, float]:

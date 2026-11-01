@@ -65,6 +65,19 @@ def _fetch_prices(today: date) -> pd.DataFrame:
                             use_cache=False)
 
 
+def _fetch_market(today: date) -> pd.Series | None:
+    """The Nifty 50's closes, for the shadow advisor. It must never stop the run."""
+    try:
+        import yfinance as yf
+
+        close = yf.download("^NSEI", start=HISTORY_START, end=(today + timedelta(days=1)).isoformat(),
+                            progress=False, auto_adjust=True)["Close"].squeeze().dropna()
+        return close if len(close) else None
+    except Exception as e:
+        print(f"Nifty unavailable ({type(e).__name__}); shadow advisor skipped")
+        return None
+
+
 def _sessions_since_trade(book: dict, symbol: str, sessions: pd.DatetimeIndex) -> int | None:
     dates = [t["date"] for t in book["trades"] if t["symbol"] == symbol]
     if not dates:
@@ -100,9 +113,12 @@ def _news_known_by(news: dict, symbol: str, cutoff: datetime, now: datetime) -> 
 
 def run_day(today: date | None = None, prices: pd.DataFrame | None = None, news_fn=gather,
             book_path: Path | None = None, memory_path: Path | None = None,
-            journal_path: Path | None = None, now: datetime | None = None) -> dict:
+            journal_path: Path | None = None, now: datetime | None = None,
+            market: pd.Series | None = None) -> dict:
     now = now or datetime.now(timezone.utc)
     today = today or now.astimezone(IST).date()
+    if market is None and prices is None:
+        market = _fetch_market(today)
     raw = prices if prices is not None else _fetch_prices(today)
     raw = raw[raw["Volume"] > 0]   # Yahoo sometimes adds a flat, zero-volume bar on an NSE holiday
     closes = raw.reset_index().pivot_table(index="Date", columns="Ticker", values="Close").dropna(how="all")
@@ -127,7 +143,7 @@ def run_day(today: date | None = None, prices: pd.DataFrame | None = None, news_
         missed = [t for t in closes.index if book["last_session"] < t.date().isoformat() < session_day.isoformat()]
         for t in missed:
             run_day(today, prices=raw.loc[raw.index <= t], news_fn=news_fn, book_path=book_path,
-                    memory_path=memory_path, journal_path=journal_path, now=now)
+                    memory_path=memory_path, journal_path=journal_path, now=now, market=market)
             caught_up.append(t.date().isoformat())
         if missed:
             book = load_book(book_path)
@@ -158,7 +174,10 @@ def run_day(today: date | None = None, prices: pd.DataFrame | None = None, news_
             print(f"{symbol}: news unavailable ({type(e).__name__}); deciding without it")
             news = {"signal": {"view": 0.0, "score": 0.0, "strength": 0.0, "material_count": 0}, "headlines": []}
         view = advisors.views(history, news["signal"])
-        mem.remember(memory, session_day, symbol, view, float(history.iloc[-1]))
+        # shadow views are recorded for scoring but kept out of `view`, which the brain weighs
+        shadow = ({"relstr": round(advisors.relative_strength_view(history, market.loc[:session]), 3)}
+                  if market is not None else {})
+        mem.remember(memory, session_day, symbol, {**view, **shadow}, float(history.iloc[-1]))
 
         position = book["positions"].get(symbol, {"qty": 0})
         value = position["qty"] * today_closes.get(symbol, 0.0)
@@ -171,7 +190,7 @@ def run_day(today: date | None = None, prices: pd.DataFrame | None = None, news_
 
         top = [s for s in stories(news["headlines"], symbol) if s["material"] >= 0.5][:4]
         news_digest[symbol] = {"signal": news["signal"], "top": top}
-        decisions.append({**decision.as_dict(), "views": view, "value": round(value, 2)})
+        decisions.append({**decision.as_dict(), "views": view, "shadow": shadow, "value": round(value, 2)})
 
     book["last_session"] = session_day.isoformat()
     book["last_run_utc"] = datetime.now(timezone.utc).isoformat()

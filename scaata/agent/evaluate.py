@@ -26,7 +26,7 @@ from pathlib import Path
 
 import numpy as np
 
-from scaata.agent.advisors import ADVISORS
+from scaata.agent.advisors import ADVISORS, SHADOW
 from scaata.config import ROOT_DIR
 from scaata.live.paper_book import liquid_yield
 
@@ -102,11 +102,13 @@ def advisor_scorecard(memory: dict, horizons=HORIZONS) -> dict:
         by_symbol.setdefault(obs["symbol"], []).append(obs)
     card = {}
     for horizon in horizons:
-        pairs = {a: [] for a in ADVISORS}
+        pairs = {a: [] for a in (*ADVISORS, *SHADOW)}
         for series in by_symbol.values():
             for i, obs in enumerate(series[:-horizon] if horizon < len(series) else []):
                 forward = series[i + horizon]["close"] / obs["close"] - 1
-                for a in ADVISORS:
+                for a in pairs:
+                    if a in SHADOW and a not in obs["views"]:   # days before the shadow advisor existed
+                        continue
                     pairs[a].append((obs["views"].get(a, 0.0), forward))
         card[f"{horizon}_sessions"] = {}
         for a, xs in pairs.items():
