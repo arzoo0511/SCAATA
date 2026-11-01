@@ -1,0 +1,578 @@
+[
+ {
+  "title": "New rules to shield honest bank staff",
+  "source": "Deccan Chronicle",
+  "published_utc": "2021-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank appointed as RBI\u2019s Agency Bank to conduct govt business",
+  "source": "CNBC TV18",
+  "published_utc": "2021-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will not invest in IPOs at current valuations: Rakesh Jhunjhunwala",
+  "source": "CNBC TV18",
+  "published_utc": "2021-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt approves interest rate on EPF for FY21 at 8.5%",
+  "source": "Adda247",
+  "published_utc": "2021-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Second purchase window for Ola S1, Ola S2 electric scooters postponed, to be available by mid-December",
+  "source": "KalingaTV",
+  "published_utc": "2021-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diwali 2021: Here's what top banks are offering this festive season",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2021-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 12 at a never before price of Rs 42,900 this Diwali, but there's a catch",
+  "source": "India Today",
+  "published_utc": "2021-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Bank of the UAE establishes Cyber Security Operations Centre",
+  "source": "Gulf News",
+  "published_utc": "2021-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone 12 Pro gets massive price cut on Reliance Digital and Amazon",
+  "source": "The Times of India",
+  "published_utc": "2021-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here\u2019s how you can get Apple iPhone 13 at Rs 10,000 discount",
+  "source": "The Times of India",
+  "published_utc": "2021-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "World\u2019s Safest Banks 2021 Biggest Emerging Market Banks",
+  "source": "Global Finance Magazine",
+  "published_utc": "2021-11-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Diwali, the ideal time to begin your investment journey",
+  "source": "Passionate In Marketing",
+  "published_utc": "2021-11-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Centre declares Srinagar airport as \u2018major airport\u2019",
+  "source": "Livemint",
+  "published_utc": "2021-11-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Alert! HDFC Bank warns customers of cyber fraud; Here\u2019s how to avoid loss of money",
+  "source": "Zee News",
+  "published_utc": "2021-11-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Limited (HDFCBANK.BO) Recent Insider Transactions",
+  "source": "Yahoo! Finance Canada",
+  "published_utc": "2021-11-07T23:36:45+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Curious Case Of Ex State Bank Boss Pratip Chaudhuri\u2019s Arrest",
+  "source": "LinkedIn",
+  "published_utc": "2021-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MHA Joint Secretary C G Rajini Kaanthan gets two years extension",
+  "source": "Legend Officers",
+  "published_utc": "2021-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India cenbank lifts ban on Diners Club issuing new cards after six months",
+  "source": "Reuters",
+  "published_utc": "2021-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank and the big problem with small loans",
+  "source": "mint",
+  "published_utc": "2021-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Many countries within India",
+  "source": "Finshots",
+  "published_utc": "2021-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can you convert single post office savings account to a joint account?",
+  "source": "The Economic Times",
+  "published_utc": "2021-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI lifts ban on new biz for Diners Club",
+  "source": "The Times of India",
+  "published_utc": "2021-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India-Nepal bus service resumes after over a year",
+  "source": "Livemint",
+  "published_utc": "2021-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DLF to add 6 retail hubs to portfolio",
+  "source": "Livemint",
+  "published_utc": "2021-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple\u2019s first computer hand-built by Steve Jobs and Wozniak sells for $400,000",
+  "source": "Livemint",
+  "published_utc": "2021-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank signs MoU with Manipal Business Solutions for corporate business correspondent relationship",
+  "source": "MediaBrief",
+  "published_utc": "2021-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trade financing platform Vayana Network raises Rs 283 cr in funding round",
+  "source": "Business Standard",
+  "published_utc": "2021-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reminder: Singapore Airlines KrisFlyer offering up to 15% bonus on Credit Card points transfers (Plus Easy Star Alliance Gold!)",
+  "source": "Live From A Lounge",
+  "published_utc": "2021-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Krafton unveils PUBG: New State globally. Check details",
+  "source": "Livemint",
+  "published_utc": "2021-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank integrates with e-National Agriculture Market (e-NAM) to reach over 1.71 Cr farmers",
+  "source": "Agriculture Post",
+  "published_utc": "2021-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Modi launches two consumer-centric RBI initiatives",
+  "source": "The Economic Times",
+  "published_utc": "2021-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI credit card to charge a fee of Rs 99 + tax on all EMI purchases from Dec 1",
+  "source": "The Economic Times",
+  "published_utc": "2021-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex SBI Boss Rajnish Kumar Rushes Where Most PSU Bankes Fear To Tread",
+  "source": "LinkedIn",
+  "published_utc": "2021-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches 2nd edition of \u2018Mooh Band Rakho\u2019 campaign",
+  "source": "MediaBrief",
+  "published_utc": "2021-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TCS opens office doors on 25/25 hybrid model basis",
+  "source": "People Matters - HR News",
+  "published_utc": "2021-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iliyas Penbelli joins Avigna Capital as COO",
+  "source": "ETHRWorld.com",
+  "published_utc": "2021-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How SBI pensioners can submit life certificate using video call facility",
+  "source": "Livemint",
+  "published_utc": "2021-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018I am pained beyond words\u2019: PM Modi condoles historian Babasaheb Purandare's death",
+  "source": "Livemint",
+  "published_utc": "2021-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u00e2\u20ac\u2122s campaign to raise awareness on fraud prevention",
+  "source": "Adgully.com",
+  "published_utc": "2021-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Setback to HDFC Bank: Delhi High Court refuses to issue Form \u2018F\u2019 on Inter-State Stock Transfers due to default in paying Central Sales Tax [Read Order]",
+  "source": "Taxscan",
+  "published_utc": "2021-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ladakh to provide 20,000 acres of land to set up 10 GW of green energy projects",
+  "source": "Livemint",
+  "published_utc": "2021-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Haryana : Sachin Gupta gets addl. charge of Administrator, Ambala Municipal Council",
+  "source": "Legend Officers",
+  "published_utc": "2021-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nirmala Sitharaman To Hold 2-Day Meet With Heads Of Banks And FIs Today",
+  "source": "Pratidin Time",
+  "published_utc": "2021-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches micro-credit facility for PM SVANidhi scheme",
+  "source": "mint",
+  "published_utc": "2021-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This woman entrepreneur left her bank job to start an ecommerce brand and now employs 100 people",
+  "source": "YourStory.com",
+  "published_utc": "2021-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BT500: Bajaj Finance, SBI in top ten by market value",
+  "source": "Business Today",
+  "published_utc": "2021-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This offer can get you Apple iPhone 13 for less than Rs 60,000: All details",
+  "source": "The Times of India",
+  "published_utc": "2021-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Covid vaccination, RT-PCR report: Check Kartarpur corridor's latest guidelines",
+  "source": "Livemint",
+  "published_utc": "2021-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital lending: RBI working group recommends separate legislation to prevent illegal activities",
+  "source": "The Economic Times",
+  "published_utc": "2021-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt nominates Pankaj Jain as Nominee Director on Board of NBFID",
+  "source": "Legend Officers",
+  "published_utc": "2021-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to find your UAN",
+  "source": "The Economic Times",
+  "published_utc": "2021-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ms. Anshika Arora appointed as Deputy Secretary, NITI Aayog",
+  "source": "Legend Officers",
+  "published_utc": "2021-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex tanks over 650 points, Nifty tests 17,250; RIL drops 2%",
+  "source": "The Economic Times",
+  "published_utc": "2021-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IAF Abhinandan Varthaman receives Vir Chakra today for shooting down Pakistan's F-16 fighter plane",
+  "source": "Livemint",
+  "published_utc": "2021-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Equitas Small Finance Bank partners with HDFC Bank to launch credit cards",
+  "source": "Business Standard",
+  "published_utc": "2021-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Equitas Small Finance Bank ties up with HDFC Bank to offer co-branded credit cards",
+  "source": "The Economic Times",
+  "published_utc": "2021-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB: Punjab National Bank Is Going To Make Huge Change from December 1",
+  "source": "Krishi Jagran",
+  "published_utc": "2021-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "48% of companies aim to bring women back to the workforce: Report",
+  "source": "Livemint",
+  "published_utc": "2021-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank latest fixed deposit (FD) rates: SBI vs Axis Bank vs HDFC Bank vs ICICI Bank",
+  "source": "Livemint",
+  "published_utc": "2021-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha man returns Rs 8 lakh wrongly credited to his account",
+  "source": "The New Indian Express",
+  "published_utc": "2021-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple AirPods Pro available at Rs 4,000 discount on Croma, additional cashback up to Rs 2,500",
+  "source": "Zee Business",
+  "published_utc": "2021-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BNPL is helping new borrowers build credit score, get credit access: Expert",
+  "source": "The Economic Times",
+  "published_utc": "2021-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC to up stake in Kotak Mahindra Bank to nearly 10%",
+  "source": "The Economic Times",
+  "published_utc": "2021-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All-women workforce to assemble Piaggio\u2019s Ape Electrik",
+  "source": "Livemint",
+  "published_utc": "2021-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,299 @@
+[
+ {
+  "title": "Indian Oil Corp. buys its first Guyanese oil: Source",
+  "source": "ET Auto",
+  "published_utc": "2021-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Glencore appoints Paarth Vaish to head its Indian oil gas business",
+  "source": "Reuters",
+  "published_utc": "2021-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC To Invest Rs 4,500 Crore For India\u2019s First Styrene Monomer Project In Haryana, Will Save Rs 3,650 Crore Forex Every Year",
+  "source": "Swarajya",
+  "published_utc": "2021-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's top refiner purchases its first Guyanese oil",
+  "source": "WIC News",
+  "published_utc": "2021-07-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Ltd. (IOC) Share Price Today, Quote, Latest Discussions, Interactive Chart and News",
+  "source": "Stocktwits",
+  "published_utc": "2021-07-05T04:04:18+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Approves Styrene Project",
+  "source": "CHEManager",
+  "published_utc": "2021-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil awards $170m EPCC contract to Maire Tecnimont",
+  "source": "Offshore Technology",
+  "published_utc": "2021-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maire Tecnimont Group expands its footprint in India with an USD 17...",
+  "source": "MAIRE Group",
+  "published_utc": "2021-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chandigarh administration: Rs 11 crore rent not paid, 23 petrol pumps may vanish",
+  "source": "The Times of India",
+  "published_utc": "2021-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol touches record highs on July 5, nears Rs 100/litre in Delhi, Kolkata; diesel unchanged",
+  "source": "The Indian Express",
+  "published_utc": "2021-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation awards contract for Barauni polypropylene plant",
+  "source": "ProjectsMonitor",
+  "published_utc": "2021-07-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC lets contract for new unit at Barauni refinery",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2021-07-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Explores Aluminium-Ion Battery As Demand For Lithium Spikes",
+  "source": "Saur Energy",
+  "published_utc": "2021-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Q1 PAT seen up 76.2% YoY to Rs 3,366.5 cr: Prabhudas Lilladher",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-07-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Despite surging prices, govt says no to tax cut on auto fuel",
+  "source": "Livemint",
+  "published_utc": "2021-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol touches record high on July 12, breaches Rs 107/litre in Mumbai; diesel slips",
+  "source": "The Indian Express",
+  "published_utc": "2021-07-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Trade Prospects with Turkmenistan, Uzbekistan, and Azerbaijan",
+  "source": "India Briefing",
+  "published_utc": "2021-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indane Composite Cylinders: This New Smart LPG Cylinder Allows You To Check Gas Level | Check Price And Other",
+  "source": "India.com",
+  "published_utc": "2021-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Getting LPG Cylinder Without Address Proof: Indane's Chhotu Cylinder Is Loaded With Benefits",
+  "source": "Goodreturns",
+  "published_utc": "2021-07-17T12:23:05+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now pay for fuel through ICICI Bank FASTag at Indian Oil fuel stations",
+  "source": "PSU Watch",
+  "published_utc": "2021-07-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTag to help refuel at 3,000 IndianOil retail outlets",
+  "source": "Livemint",
+  "published_utc": "2021-07-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices in your city today, check here",
+  "source": "The Indian Express",
+  "published_utc": "2021-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices unchanged for third day; here are fuel rates in your city today",
+  "source": "The Indian Express",
+  "published_utc": "2021-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to build India\u2019s first green hydrogen plant at Mathura refinery",
+  "source": "ProjectsMonitor",
+  "published_utc": "2021-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to build India's first green hydrogen plant at Mathura refinery",
+  "source": "ET Government",
+  "published_utc": "2021-07-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to develop green hydrogen plant at Mathura refinery",
+  "source": "Construction World",
+  "published_utc": "2021-07-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil conducts a tree plantation drive at its terminal in Vizag",
+  "source": "Yo Vizag",
+  "published_utc": "2021-07-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Mathura Refinery, Mathura, Uttar Pradesh, India",
+  "source": "NS Energy",
+  "published_utc": "2021-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Allahabad HC issues Bailable Warrant Against Indian Oil Corporation Official Over Non Compliance Of Its Order",
+  "source": "BW Legal World",
+  "published_utc": "2021-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Petronas Pvt Ltd to venture into gas transportation, fuel retailing biz: SM Vaidya",
+  "source": "PSU Watch",
+  "published_utc": "2021-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Govt allowed 100% FDI in oil PSUs with \u2018in-principle\u2019 nod for Strategic Divestment",
+  "source": "AffairsCloud",
+  "published_utc": "2021-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation posts three-fold jump in Q1 profit on refining margins, inventory gains",
+  "source": "Telegraph India",
+  "published_utc": "2021-07-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three ethanol plants, two hotel projects get govt nod",
+  "source": "The New Indian Express",
+  "published_utc": "2021-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

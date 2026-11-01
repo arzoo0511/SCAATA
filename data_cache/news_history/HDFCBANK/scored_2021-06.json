@@ -1,0 +1,641 @@
+[
+ {
+  "title": "Aditya Puri investing alongside Carlyle in PNB Housing Finance",
+  "source": "Livemint",
+  "published_utc": "2021-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian investors upbeat after central bank clarifies that crypto trading isn't banned in the country",
+  "source": "Gulf News",
+  "published_utc": "2021-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank deploys mobile ATMs across 50 cities in India",
+  "source": "India TV News",
+  "published_utc": "2021-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank deploys mobile ATMs across 50 cities in India amid Covid-19",
+  "source": "Business Standard",
+  "published_utc": "2021-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bajaj Finance surpasses Kotak Mahindra Bank in terms of mcap",
+  "source": "Livemint",
+  "published_utc": "2021-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Suryoday Small Finance Bank and Yes Bank offer the best rates on 3-year FDs for senior citizens",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After RBI\u2019s Clarification On Crypto Transactions, HDFC Bank Asks Users To Ignore Previous Warning",
+  "source": "Inc42",
+  "published_utc": "2021-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Commits To Becoming Carbon Neutral By 2031-32",
+  "source": "Cityairnews",
+  "published_utc": "2021-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to give loans for EVs, solar rooftops as part of strategy for carbon neutrality",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC ERGO, VISA partners to Provide Specialized Insurance Policies for Business Card Holders",
+  "source": "AffairsCloud",
+  "published_utc": "2021-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crypto India: HDFC Withdraws its Early Warning Against Crypto Transactions",
+  "source": "CoinGape",
+  "published_utc": "2021-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank withdraws its communication on cryptocurrency caution post RBI clarification",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now a bank holiday won\u2019t stop your loan EMI, SIP debits, salary credits: So track account balance",
+  "source": "The Economic Times",
+  "published_utc": "2021-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking Shares Slip Around 1% After RBI Maintained Status Quo On Interest Rates",
+  "source": "NDTV Profit",
+  "published_utc": "2021-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus Nord CE 5G India Price, Key Specifications Leaked Ahead Of Launch",
+  "source": "Mashable India",
+  "published_utc": "2021-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank offers credit upto 75% of project cost to investors of KIADB",
+  "source": "BusinessLine",
+  "published_utc": "2021-06-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KIADB inks MoU with HDFC Bank to Offer Banking Solutions to Investors",
+  "source": "AffairsCloud.com",
+  "published_utc": "2021-06-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CCTV Video Shows Money Heist-Style Robbery in HDFC Bank Branch in Bihar | Watch",
+  "source": "India.com",
+  "published_utc": "2021-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Armed men loot Rs 1.19 crore from HDFC branch in Bihar in broad daylight",
+  "source": "India Today",
+  "published_utc": "2021-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus Nord CE 5G India price, launch offer leaked ahead of official launch",
+  "source": "The Times of India",
+  "published_utc": "2021-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DBS Tops the Forbes World\u2019s Best Banks 2021 List in India",
+  "source": "AffairsCloud",
+  "published_utc": "2021-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo Y73 launched in India at Rs 20,990; Check bank OFFERS, availability, specs and more",
+  "source": "Zee Business",
+  "published_utc": "2021-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "By women, for women: HDFC Bank\u2019s SmartUp Unnati initiative to guide women-led startups on road to success",
+  "source": "YourStory.com",
+  "published_utc": "2021-06-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Strategies to beat the hike in ATM withdrawal charges",
+  "source": "Livemint",
+  "published_utc": "2021-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus Nord CE 5G pre-orders start: All the offers you can get",
+  "source": "The Times of India",
+  "published_utc": "2021-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Check which bank offers lowest interest rates on used cars loans",
+  "source": "Livemint",
+  "published_utc": "2021-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "List of World's Best Banks In India 2021: DBS Tops, Followed By CBS, ICICI Bank, HDFC Bank",
+  "source": "Goodreturns",
+  "published_utc": "2021-06-13T04:48:45+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank sees SME biz growing fastest in 3-5 years",
+  "source": "Livemint",
+  "published_utc": "2021-06-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Not HDFC Bank or ICICI or SBI. This is India's top-ranked bank as per Forbes",
+  "source": "Livemint",
+  "published_utc": "2021-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Retail inflation at 6.3%. Real returns from FD could be negative",
+  "source": "Livemint",
+  "published_utc": "2021-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank App Suffers Hour Long Outage; Issue Now Resolved",
+  "source": "Moneylife",
+  "published_utc": "2021-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Mobile Banking Faces Glitches; Stock Rallies on Dividend News",
+  "source": "Goodreturns",
+  "published_utc": "2021-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Not ICICI Bank or HDFC Bank, this lender is the best in India, as per Forbes",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2021-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank is too big to fail . Its app, fragile",
+  "source": "The Economic Times",
+  "published_utc": "2021-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank app suffers hour-long outage due to unspecified issues",
+  "source": "The Economic Times",
+  "published_utc": "2021-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Mobile Banking app facing issues, customers asked to use NetBanking",
+  "source": "India Today",
+  "published_utc": "2021-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC app resumes working after afternoon hiccup",
+  "source": "Techcircle",
+  "published_utc": "2021-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Mobile Banking App Down Again, Customers Should Use Netbanking for Now",
+  "source": "Gadgets 360",
+  "published_utc": "2021-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to refund GPS device charges to customers",
+  "source": "Livemint",
+  "published_utc": "2021-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to refund GPS device commission to auto loan customers",
+  "source": "BusinessLine",
+  "published_utc": "2021-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to refund GPS device charge to clients",
+  "source": "The Economic Times",
+  "published_utc": "2021-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank says no clarity yet on lifting of RBI embargo, in touch with central bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Auto loans mis-selling: HDFC Bank to refund GPS commissions",
+  "source": "The Times of India",
+  "published_utc": "2021-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank tackling tech glitches, awaits RBI cues on easing of curbs",
+  "source": "The Economic Times",
+  "published_utc": "2021-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to move to new digital bank IT platform",
+  "source": "The Times of India",
+  "published_utc": "2021-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to pay back GPS device commission to borrowers",
+  "source": "The New Indian Express",
+  "published_utc": "2021-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Credit Cards Shopping Offer: 2X points through September 2021",
+  "source": "Live From A Lounge",
+  "published_utc": "2021-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank robbers\u2019 gang busted in Bihar, two women among 8 arrested",
+  "source": "The Times of India",
+  "published_utc": "2021-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Outlook for the Week (June 21,2021 \u2013 June 25,2021)",
+  "source": "Equitypandit",
+  "published_utc": "2021-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank declares dividend of \u20b96.50 for FY21",
+  "source": "mint",
+  "published_utc": "2021-06-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to buy stake worth over Rs 1,906 crore in group's general insurer from parent HDFC",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-06-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "15 Indian banks join hands to set up blockchain infrastructure",
+  "source": "Banking Frontiers",
+  "published_utc": "2021-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI : Whole-time Member S K Mohanty gets two years extension",
+  "source": "Legend Officers",
+  "published_utc": "2021-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to hire 500 workers to curb online outages",
+  "source": "Livemint",
+  "published_utc": "2021-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sashidhar Jagdishan earned annual salary of Rs 4.8 crore in FY21, shows HDFC Bank annual report",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-06-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Have redoubled efforts to fix tech loopholes: HDFC Bank CEO",
+  "source": "The Economic Times",
+  "published_utc": "2021-06-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, IDBI Bank, Vodafone Idea, Jaypee Infratech, Apollo Hospitals stocks in focus",
+  "source": "The Financial Express",
+  "published_utc": "2021-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Redoubled efforts to fix issue': HDFC Bank CEO apologises for tech outages",
+  "source": "Business Today",
+  "published_utc": "2021-06-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will pay Rs 10 crore fine, refund GPS device commission to loan customers: HDFC bank CEO",
+  "source": "CNBC TV18",
+  "published_utc": "2021-06-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank strengthen IT infrastructure; starts Digital Factory",
+  "source": "Passionate In Marketing",
+  "published_utc": "2021-06-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Next-gen Vivo V21e smartphone launched in India; Check price, specs, availability here",
+  "source": "HT Tech",
+  "published_utc": "2021-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now IDFC First Bank halts banking services to crypto industry",
+  "source": "Livemint",
+  "published_utc": "2021-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We are determined to strengthen process controls, says HDFC Bank chief Jagdishan",
+  "source": "Livemint",
+  "published_utc": "2021-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Daylight robbery in Guwahati, robbers loot Rs 35 lakh",
+  "source": "India Today NE",
+  "published_utc": "2021-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "19 Private Banks in India (RBI approved) \u2013 List of Private Sector Banks in India",
+  "source": "SugerMint",
+  "published_utc": "2021-06-25T20:23:09+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In Covid year, banks see record profit of Rs 1 lakh crore",
+  "source": "The Times of India",
+  "published_utc": "2021-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Six of top 10 firms add over Rs 1.11 lakh crore in m-cap; TCS, Infosys top gainers",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mi 11 Lite on Sale Today Starting 12 pm on Amazon & Mi.com",
+  "source": "The Quint",
+  "published_utc": "2021-06-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank approves 26.51 lakh shares under ESOP scheme",
+  "source": "Livemint",
+  "published_utc": "2021-06-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior citizens special FD scheme of SBI, HDFC Bank, BoB extended. Details here",
+  "source": "Livemint",
+  "published_utc": "2021-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s 10 largest companies by sales and net profit",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2021-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

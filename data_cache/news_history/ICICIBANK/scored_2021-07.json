@@ -1,0 +1,605 @@
+[
+ {
+  "title": "ICICI Bank enables first paperless bill discounting",
+  "source": "Banking Frontiers",
+  "published_utc": "2021-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Extends EMI-Based Affordability to E-Commerce Shopping",
+  "source": "The Fintech Times",
+  "published_utc": "2021-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Doctors' Day: ICICI Bank launches a comprehensive banking solution for doctors",
+  "source": "Livemint",
+  "published_utc": "2021-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How HDFC Bank's litany of crises has spelt opportunity for ICICI Bank",
+  "source": "Forbes India",
+  "published_utc": "2021-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jefferies' Chris Wood launches India equity portfolio; financials, real estate, energy stocks see highest...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-07-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to revise these charges from August 1: Check details",
+  "source": "Livemint",
+  "published_utc": "2021-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Remedies against harassment by Recovery Agents",
+  "source": "Legal Service India",
+  "published_utc": "2021-07-04T21:30:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Ltd. (ICICIBANK) Share Price Today, Quote, Latest Discussions, Interactive Chart and News",
+  "source": "Stocktwits",
+  "published_utc": "2021-07-05T04:07:50+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank To Revise These Service Charges For Domestic Savings Account Holders, Check Details",
+  "source": "Goodreturns",
+  "published_utc": "2021-07-05T05:36:59+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to revise these charges from August 1",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Alert: ICICI Bank to revise these charges from August 1",
+  "source": "Times Now",
+  "published_utc": "2021-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to Revise Banking Service Charges From 1st August",
+  "source": "Moneylife",
+  "published_utc": "2021-07-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Pay ICICI Bank credit card on-boards over two million customers",
+  "source": "IBS Intelligence",
+  "published_utc": "2021-07-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 7 Women In Finance In India: Famous Finance Personalities In India",
+  "source": "Hercircle",
+  "published_utc": "2021-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anand Verma joins TLT in London",
+  "source": "Law.asia",
+  "published_utc": "2021-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Pay ICICI Bank credit card crosses 2 million",
+  "source": "Banking Frontiers",
+  "published_utc": "2021-07-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PIL in Bombay High Court alleges Truecaller collects private data, app refutes",
+  "source": "India Today",
+  "published_utc": "2021-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now Get Your Maruti Suzuki Car Finance Online",
+  "source": "Mobility Outlook",
+  "published_utc": "2021-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank announces first transaction on SOFR reference rate",
+  "source": "Livemint",
+  "published_utc": "2021-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank fixed deposit (FD) rates compared: SBI vs HDFC Bank vs ICICI vs Axis Bank",
+  "source": "Livemint",
+  "published_utc": "2021-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New ICICI Bank ATM cash withdrawal, chequebook charges from next month. Details here",
+  "source": "Livemint",
+  "published_utc": "2021-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki Now Offers Online Smart Finance Service For Their Customers",
+  "source": "Motoroids",
+  "published_utc": "2021-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State of play: India\u2019s banks in 2021",
+  "source": "www.thebanker.com",
+  "published_utc": "2021-07-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank vs ICICI Bank vs BoB: Which special FD scheme will yield more",
+  "source": "Livemint",
+  "published_utc": "2021-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDBI Bank and Canara Bank offer higher rates on savings accounts than public sector peers",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s loss is ICICI Bank\u2019s gain? HOW? RBI restrictions on issuance of new credit cards helping rivals of the largest private bank; Know FULL DETAILS",
+  "source": "Zee Business",
+  "published_utc": "2021-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BUSY Accounting Software tied-up with ICICI Bank for Banking Solutions",
+  "source": "AffairsCloud.com",
+  "published_utc": "2021-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BUSY Accounting Software Integrates With ICICI Bank For Banking Solutions Within The Software",
+  "source": "BW Disrupt",
+  "published_utc": "2021-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI-Mastercard Latest: These Banks Are Most Impacted",
+  "source": "India.com",
+  "published_utc": "2021-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI books a private company for over \u20b91,000 crore defalcation",
+  "source": "IndianMandarins",
+  "published_utc": "2021-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI internet banking services to remain unavailable during this time period today. See Details",
+  "source": "Livemint",
+  "published_utc": "2021-07-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now Pay For Fuel Through ICICI Bank FASTag At IndianOil Fuel Stations",
+  "source": "Sarkaritel.com",
+  "published_utc": "2021-07-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rising shares of Indian Bank in last weak quarter",
+  "source": "Passionate In Marketing",
+  "published_utc": "2021-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Saving Days sale to start from July 25: Deals on iPhone 12, Poco X3 Pro, and other mobile offers",
+  "source": "India Today",
+  "published_utc": "2021-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTag to help refuel at 3,000 IndianOil retail outlets",
+  "source": "Livemint",
+  "published_utc": "2021-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches co-branded credit card with HPCL",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2021-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, HPCL Launched Co-Branded Credit Card - \u2018ICICI Bank HPCL Super Saver Credit Card\u2019",
+  "source": "AffairsCloud",
+  "published_utc": "2021-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank HPCL super saver credit card: Benefits and features explained",
+  "source": "Livemint",
+  "published_utc": "2021-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank HPCL Super Saver Credit Card LAUNCHED! Know fuel, electricity, mobile, Big Bazaar, D Mart and other benefits",
+  "source": "Zee Business",
+  "published_utc": "2021-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM cash withdrawal, debit card, credit card charges to increase soon",
+  "source": "Livemint",
+  "published_utc": "2021-07-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dev Anand's 'Paying Guest' inspired ICICI Bank's new ads on a product for house owners and tenants",
+  "source": "afaqs!",
+  "published_utc": "2021-07-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank Q1 net profit rises, asset quality worsens",
+  "source": "Livemint",
+  "published_utc": "2021-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's Aditya Puri highest paid banker, ICICI Bank's Sandeep Bakshi forgoes salary amid pandemic",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's Puri highest paid, ICICI Bank Bakshi forgoes salary in Covid yr",
+  "source": "Business Standard",
+  "published_utc": "2021-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's Quarterly Results Sends Stock to 52-Week High",
+  "source": "Equitymaster",
+  "published_utc": "2021-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI hurry to minimise impact of Mastercard ban",
+  "source": "The Week",
+  "published_utc": "2021-07-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, Axis Bank, ICICI Bank, others buy stakes in fintech firm IBBIC",
+  "source": "The Times of India",
+  "published_utc": "2021-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The 5 highest paid private sector bankers in India",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2021-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Salary, EMI payments, ATM charges: Rules which are changing from August 1 | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2021-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Have an iPhone? Apple AirPod Pro deal with Rs 8000 discount on Flipkart is for you",
+  "source": "India Today",
+  "published_utc": "2021-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank ATM cash withdrawal, chequebook charges revised",
+  "source": "Telangana Today",
+  "published_utc": "2021-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mutual funds lapped up these stocks",
+  "source": "Morningstar",
+  "published_utc": "2021-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank service charges to change from next week: 10 things to know",
+  "source": "Livemint",
+  "published_utc": "2021-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kia India partners with ICICI, Yes bank; introduces new financing options",
+  "source": "The Times of India",
+  "published_utc": "2021-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank ATM Withdrawal, Transaction Charges Set to Increase from Next Month",
+  "source": "News18",
+  "published_utc": "2021-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kia India partners with ICICI Bank & Yes Bank, introduces new finance schemes for car buyers",
+  "source": "India Today",
+  "published_utc": "2021-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Virar: Lady manager killed, cashier injured as two men barge into ICICI bank to loot cash and gold, one a",
+  "source": "The Times of India",
+  "published_utc": "2021-07-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dy manager at Mumbai bank killed by \u2018debt-ridden\u2019 ex-staffer in robbery bid",
+  "source": "The Indian Express",
+  "published_utc": "2021-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank theft, murder: Ex-manager stole \u20b93.38 crore to clear dues | Mumbai news",
+  "source": "Hindustan Times",
+  "published_utc": "2021-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra Woman Banker Stabbed To Death By Former Manager Of Branch",
+  "source": "NDTV",
+  "published_utc": "2021-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra: Bank robbers kill manager, injure cashier as both women raise alarm",
+  "source": "The Times of India",
+  "published_utc": "2021-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakhshi: ICICI Bank to invest in technology to enhance customer offerings",
+  "source": "DNA India",
+  "published_utc": "2021-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former Manager barges in Virar ICICI bank to loot cash, kills one; arrested",
+  "source": "ABP Live English",
+  "published_utc": "2021-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank manager killed, cashier injured at Virar branch; police arrest former staff",
+  "source": "CNBC TV18",
+  "published_utc": "2021-07-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai: How injured braveheart foiled bank heist",
+  "source": "The Times of India",
+  "published_utc": "2021-07-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Murder Case: Ex-Axis Manager swindled own bank of Rs 26.84L",
+  "source": "ummid.com",
+  "published_utc": "2021-07-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank rating \u2013 Buy: A mixed first quarter for the company",
+  "source": "The Financial Express",
+  "published_utc": "2021-07-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "title": "Fuel rates hiked again; petrol price nears Rs 101 in Mumbai",
+  "source": "The Indian Express",
+  "published_utc": "2021-06-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SATAT scheme: Oil, gas PSUs sign cooperation pact to develop CBG marketing network",
+  "source": "PSU Watch",
+  "published_utc": "2021-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: Why are oil prices rising, and how it will impact India?",
+  "source": "The Indian Express",
+  "published_utc": "2021-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price at almost \u20b9101 in Mumbai, as fuel price hike resumes after 2 days",
+  "source": "HT Auto",
+  "published_utc": "2021-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil signs MoU with Gujarat govt for setting up various projects",
+  "source": "PSU Watch",
+  "published_utc": "2021-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel prices at fresh record highs; Petrol nears Rs 100/litre in Hyderabad and Bengaluru",
+  "source": "The Indian Express",
+  "published_utc": "2021-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil petrol pump.",
+  "source": "Prokerala",
+  "published_utc": "2021-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil to invest Rs 24,000 crore in six projects, Gujarat Refinery to get country\u2019s first hydrogen dispensing station",
+  "source": "The Indian Express",
+  "published_utc": "2021-06-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation to Invest INR 24, 000 Crore in Gujarat Refinery",
+  "source": "AffairsCloud",
+  "published_utc": "2021-06-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to set up six petrochem units in Vadodara",
+  "source": "Construction Week India",
+  "published_utc": "2021-06-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil refiners shut for work before likely demand pickup",
+  "source": "The Economic Times",
+  "published_utc": "2021-06-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "McDermott wins two EPCC refinery contracts from Indian Oil",
+  "source": "Indian Chemical News",
+  "published_utc": "2021-06-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Customers of Indian Oil Corporation Limited can get their LPG cylinders on the same day they book them",
+  "source": "The Hindu",
+  "published_utc": "2021-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation (IOC) - Losing sleep over low FD rates? These 8 stocks come with a dividend yield of up to 10%",
+  "source": "The Economic Times",
+  "published_utc": "2021-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices at all-time high after fresh hike today; check latest rates here",
+  "source": "CNBC TV18",
+  "published_utc": "2021-06-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka ship disaster: Is there an oil spill? What\u2019s happening now?",
+  "source": "The Indian Express",
+  "published_utc": "2021-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nigeria eyes $70m profit from crude supply to Indonesia",
+  "source": "The Guardian Nigeria News",
+  "published_utc": "2021-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel prices at fresh record high; Petrol breaches Rs 100/litre mark in Bengaluru",
+  "source": "The Indian Express",
+  "published_utc": "2021-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Haldia Refinery, Purba Medinipur,West Bengal, India",
+  "source": "NS Energy",
+  "published_utc": "2021-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tanker carrying 7,000 kg domestic gas seized",
+  "source": "RightNow",
+  "published_utc": "2021-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Middle East's share of India's oil imports hits 25-month low",
+  "source": "The Times of India",
+  "published_utc": "2021-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Frying pan to fire: Why did edible oil prices in India go up so quickly?",
+  "source": "Scroll.in",
+  "published_utc": "2021-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance to Finalize Tie-Up With Oil Giant Aramco This Year",
+  "source": "Bloomberg.com",
+  "published_utc": "2021-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Gujarat Refinery, Koyali, Vadodara, Gujarat, India",
+  "source": "NS Energy",
+  "published_utc": "2021-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Indian Oil Explorer Sees Profit Rebound After Write Back",
+  "source": "Bloomberg.com",
+  "published_utc": "2021-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC Limited: India's Energy Giant & Financial Performance",
+  "source": "marketfeed",
+  "published_utc": "2021-06-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel prices hit fresh record high; Petrol nears Rs 100/litre in Chennai",
+  "source": "The Indian Express",
+  "published_utc": "2021-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Losses in financial stocks drag Indian shares lower",
+  "source": "Reuters",
+  "published_utc": "2021-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Soaring petrol, diesel prices pose threat to Indian recovery and inflation",
+  "source": "The Times of India",
+  "published_utc": "2021-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors bags order of 15 hydrogen-based fuel cell buses from Indian Oil!",
+  "source": "Autopunditz",
+  "published_utc": "2021-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,335 @@
+[
+ {
+  "title": "Indian Oil rolls out 95 octane petrol",
+  "source": "Autocar India",
+  "published_utc": "2021-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OPEC\u2019s share of Indian oil imports plunges to 2 decade low - trade",
+  "source": "Reuters",
+  "published_utc": "2021-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices in your city today, check here",
+  "source": "The Indian Express",
+  "published_utc": "2021-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pradhan flags off 1st supply of UCO-based biodiesel from Indian Oil\u2019s Tikrikalan Terminal",
+  "source": "PSU Watch",
+  "published_utc": "2021-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil renews \u2018Karma Yogi Swasthya Bima Yojana\u2019; know here what it is",
+  "source": "PSU Watch",
+  "published_utc": "2021-05-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices up for third consecutive day: Here\u2019s what you pay in your city",
+  "source": "The Indian Express",
+  "published_utc": "2021-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC renews medical insurance for petrol pump attendants, LPG delivery boys",
+  "source": "The Economic Times",
+  "published_utc": "2021-05-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Paradip Refinery, Paradip, Jagatsinghpur, Odisha, India",
+  "source": "NS Energy",
+  "published_utc": "2021-05-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jindal Bags 3-Year Jack-Up Rig Charter with ONGC",
+  "source": "Offshore Engineer Magazine",
+  "published_utc": "2021-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil for oxygen: Covid-hit India welcomes Saudi medical aid, boosts oil imports",
+  "source": "Reuters",
+  "published_utc": "2021-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Covid-hit India welcomes Gulf medical aid, boosts oil imports from Saudi Aramco",
+  "source": "Al Arabiya English",
+  "published_utc": "2021-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil refiners cut output, imports as pandemic hits demand",
+  "source": "Reuters",
+  "published_utc": "2021-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India May Become Guyana's Most Important Oil Client",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2021-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Top Refiner Shops for Oil Again After Month-Long Hiatus",
+  "source": "Bloomberg.com",
+  "published_utc": "2021-05-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil makes a big push for hydrogen fuel cell EVs",
+  "source": "Autocar India",
+  "published_utc": "2021-05-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GoAir files for IPO, looks to raise up to \u20b93,600 crore",
+  "source": "Livemint",
+  "published_utc": "2021-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel price today: Fuel rates remain steady on May 15; Check rates in your city",
+  "source": "India Today",
+  "published_utc": "2021-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India loses ONGC-discovered Farzad-B gas field in Iran",
+  "source": "The Times of India",
+  "published_utc": "2021-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New trend shows Indian oil companies moving to a new fuel value revision mechanism",
+  "source": "IBTimes India",
+  "published_utc": "2021-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil-Phinergy JV to soon set up an aluminium-air battery plant",
+  "source": "Autocar India",
+  "published_utc": "2021-05-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil\u2019s Arvind Kumar set to be next MD of Chennai Petroleum Corporation",
+  "source": "PSU Watch",
+  "published_utc": "2021-05-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvind Kumar selected as MD, Chennai Petroleum Corporation Limited",
+  "source": "Legend Officers",
+  "published_utc": "2021-05-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian, European refiners get ready to buy Iranian oil",
+  "source": "Reuters",
+  "published_utc": "2021-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former MD of NRL Ranjit Dutta Passed Away of COVID Complications",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2021-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC Reports Highest Ever Annual Profit",
+  "source": "Equitymaster",
+  "published_utc": "2021-05-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Q4FY21 consolidated net profit jumps to Rs, 9026.49 Cr",
+  "source": "Indian Chemical News",
+  "published_utc": "2021-05-21T04:37:02+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil begins first-ever factory-fill supply of XP100 to FIAT India",
+  "source": "PSU Watch",
+  "published_utc": "2021-05-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cricket Grounds | Indian Oil Cup",
+  "source": "Cricinfo",
+  "published_utc": "2021-05-23T14:09:25+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices today remains stable in Hyderabad, Delhi, Chennai, Mumbai on 24 May 2021",
+  "source": "The Hans India",
+  "published_utc": "2021-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "140 Tonnes Of O2 Sourced From Singapore By IOC To Reach TN Today",
+  "source": "Sarkaritel.com",
+  "published_utc": "2021-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price above Rs 95 in all major south cities",
+  "source": "The News Minute",
+  "published_utc": "2021-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price crosses \u20b9100 mark in Mumbai as fuel prices hiked again today. Check rates in your city",
+  "source": "Livemint",
+  "published_utc": "2021-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Opinion: Cairn\u2019s attempts to seize Indian assets abroad are a display of unbridled corporate avarice",
+  "source": "Scroll.in",
+  "published_utc": "2021-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Solidarity with close friend\u2019: Saudi Arabia sends more oxygen aid to India",
+  "source": "The Express Tribune",
+  "published_utc": "2021-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sanallah: We are eager to engage with global oil investment companies to grow Libya's oil sector",
+  "source": "Libyan Express",
+  "published_utc": "2021-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel prices at new record highs; Petrol breaches Rs 94/litre for the first time in Delhi",
+  "source": "The Indian Express",
+  "published_utc": "2021-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OMCs pay 73% higher excise duty even as crude oil prices decline",
+  "source": "Business Standard",
+  "published_utc": "2021-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

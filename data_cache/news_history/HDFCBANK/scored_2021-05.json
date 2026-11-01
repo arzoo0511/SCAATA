@@ -1,0 +1,623 @@
+[
+ {
+  "title": "HDFC Bank unveils \u2018Project Future \u2013 Ready\u2019 for next growth phase",
+  "source": "Express Computer",
+  "published_utc": "2021-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank announces top management rejig under new CEO Sashidhar Jagdishan",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Additional Resonsbilities For Ravi Santhanam At HDFC Bank",
+  "source": "Adgully.com",
+  "published_utc": "2021-05-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "T Rabi Sankar appointed as the 4th Deputy Governor of RBI",
+  "source": "AffairsCloud.com",
+  "published_utc": "2021-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hike logs out of gaming platform WinZO in $12 mn deal",
+  "source": "Livemint",
+  "published_utc": "2021-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tech & small towns: StanChart's India game plan?",
+  "source": "Forbes India",
+  "published_utc": "2021-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI\u2019s Pehla Kadam & Pehli Udaan Account; A Beneficial Savings Account for Your Child",
+  "source": "Krishi Jagran",
+  "published_utc": "2021-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wipro to invest \u00a316 million to set up innovation centre in London",
+  "source": "Livemint",
+  "published_utc": "2021-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Savings Days sale begins: Know offers, deals and more",
+  "source": "India TV News",
+  "published_utc": "2021-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Malian woman gives birth to nine babies, two more than doctors detected",
+  "source": "Livemint",
+  "published_utc": "2021-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDB Financial Services IPO from HDFC Bank: Review, Listing Date, Grey Market Price & Allotment",
+  "source": "investor academy",
+  "published_utc": "2021-05-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest Nifty 50 Stocks & their weights",
+  "source": "Invest Yadnya",
+  "published_utc": "2021-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo V21 goes on sale in India: Check offers, prices, and specs",
+  "source": "HT Tech",
+  "published_utc": "2021-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "50-bed pvt COVID-19 hospital with oxygen plants opens in Greater Noida",
+  "source": "Livemint",
+  "published_utc": "2021-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Merger Always On Union Bank\u2019s Plate!",
+  "source": "LinkedIn",
+  "published_utc": "2021-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, CSC launch chatbot Eva for village level entrepreneurs",
+  "source": "MediaBrief",
+  "published_utc": "2021-05-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank and RBL Bank offer the best interest rates on 1-year fixed deposits",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Citibank Is Selling Its Consumer Business In India. Why?",
+  "source": "LinkedIn",
+  "published_utc": "2021-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Veteran HDFC executive Mathew Joseph to remain CRO for two more years",
+  "source": "Tech Observer Magazine",
+  "published_utc": "2021-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Invesco India Ultra Short to Short Term Fund Regular-Bonus",
+  "source": "The Economic Times",
+  "published_utc": "2021-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Federal Bank enters into tie-up with UAE\u2019s Mashreq Bank",
+  "source": "The Financial Express",
+  "published_utc": "2021-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Compare Indian Banks: A Quick Fundamental Analysis [2023]",
+  "source": "GETMONEYRICH",
+  "published_utc": "2021-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bihar : Senior IAS officer Pratyay Amrit promoted to ACS grade",
+  "source": "Legend Officers",
+  "published_utc": "2021-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sachin Sanduja joins ZipLoan as Head of Sales & Marketing",
+  "source": "ETHRWorld.com",
+  "published_utc": "2021-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s Eva to man CSCs\u2019 portal",
+  "source": "Banking Frontiers",
+  "published_utc": "2021-05-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank to sell property of Magnum Solution for recovery of Rs 345 cr",
+  "source": "Business Standard",
+  "published_utc": "2021-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt appoints Vandita Kaul as nominee director on board of Bank of India",
+  "source": "The Economic Times",
+  "published_utc": "2021-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Akshaya Tritiya 2021: Here are the Jewellery offers from various stores",
+  "source": "The Hans India",
+  "published_utc": "2021-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Post Office Vs Bank Deposits: Why Post Office Is Better Choice?",
+  "source": "Goodreturns",
+  "published_utc": "2021-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB raises \u20b91,800 cr via QIP; offers shares at 33.75 per unit",
+  "source": "Livemint",
+  "published_utc": "2021-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Inside HDFC Bank\u2019s digital stumble",
+  "source": "Livemint",
+  "published_utc": "2021-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex surges 848 points, Nifty settles at 14,923 led by banks, financial stocks",
+  "source": "The Indian Express",
+  "published_utc": "2021-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arvind Kumar selected as MD, Chennai Petroleum Corporation Limited",
+  "source": "Legend Officers",
+  "published_utc": "2021-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shyam Jagannathan appointed as Development Commissioner, SEEPZ, SEZ Mumbai",
+  "source": "Legend Officers",
+  "published_utc": "2021-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jyothy Labs Q4 is muted; near-term outlook isn\u2019t bright either",
+  "source": "Livemint",
+  "published_utc": "2021-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior citizens special fixed deposit: What SBI, HDFC Bank, ICICI Bank and Bank of Baroda offer",
+  "source": "Livemint",
+  "published_utc": "2021-05-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Markets Retreat for the Second Day on Fed Policy Worries",
+  "source": "Outlook Money",
+  "published_utc": "2021-05-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Announces Special Offers on Galaxy Tablets as part of its \u2018Back to School\u2019 Campaign",
+  "source": "Samsung Global Newsroom",
+  "published_utc": "2021-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bandhan Bank and Ujjivan Small Finance Bank offer up to 7% on savings accounts",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Outlook for the Week (May 24,2021 \u2013 May 28,2021)",
+  "source": "Equitypandit",
+  "published_utc": "2021-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nine of top-10 firms add \u20b92.41 lakh cr in m-cap; HDFC Bank, RIL top gainers",
+  "source": "Livemint",
+  "published_utc": "2021-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM withdrawal to minimum balance: Bank service charges you should know",
+  "source": "Livemint",
+  "published_utc": "2021-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DGP Punjab led Punjab Police pays rich tributes to Martyr ASI Bhagwan Singh on his Bhog Ceremony",
+  "source": "Cityairnews",
+  "published_utc": "2021-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank fixed deposits with free insurance cover: There's devil in the fine print",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pending dues: Employer, staff reach settlement",
+  "source": "The Times of India",
+  "published_utc": "2021-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai: Redeveloper neither builds nor gives up Haji Ali project",
+  "source": "The Times of India",
+  "published_utc": "2021-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "West Bengal : Sweta Agarwal posted as Additional DC, Purba Medinipur",
+  "source": "Legend Officers",
+  "published_utc": "2021-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI hopes for an encore as FY21 ends on a high note",
+  "source": "Livemint",
+  "published_utc": "2021-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tamil Nadu: In lockdown, Madurai Corp launches mobile vegetable vending vehicle",
+  "source": "Livemint",
+  "published_utc": "2021-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Second wave: HDFC Bank concerned over retail asset quality in near-term",
+  "source": "The Economic Times",
+  "published_utc": "2021-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From SBI To Axis Bank: Know All About Different Service Charges Of Leading Banks",
+  "source": "Goodreturns",
+  "published_utc": "2021-05-25T11:49:07+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank deploys Mobile ATM in Bengaluru amid Covid-19 cases",
+  "source": "Livemint",
+  "published_utc": "2021-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC bank deploys Mobile ATM in Bengaluru",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to set up medical infrastructure for Covid relief",
+  "source": "Ahmedabad Mirror",
+  "published_utc": "2021-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI imposes \u20b910 crore penalty on HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2021-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank penalty: What is RBI's message to India's largest private lender?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reserve Bank of India imposes Rs 10 crore penalty on HDFC Bank",
+  "source": "The Indian Express",
+  "published_utc": "2021-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank fined Rs 10 crore by RBI in car loan case",
+  "source": "The Times of India",
+  "published_utc": "2021-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI slaps \u20b910 crore fine on HDFC Bank post car loan probe",
+  "source": "Livemint",
+  "published_utc": "2021-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to set up Covid infrastructure facilities including oxygen plants",
+  "source": "The Economic Times",
+  "published_utc": "2021-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rally lures HDFC Bank to do 'whatever it takes' to make more equity deals",
+  "source": "Business Standard",
+  "published_utc": "2021-05-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank shares trade flat after RBI imposes Rs 10 crore penalty",
+  "source": "ThePrint",
+  "published_utc": "2021-05-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank share price falls after RBI imposes monetary penalty",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-05-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank and SBI Cards warn customers about crypto-currency trades",
+  "source": "MediaNama",
+  "published_utc": "2021-05-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Big Relief For Crypto? RBI Asks Banks To Not Block Transactions Based On Invalid Circular",
+  "source": "Inc42",
+  "published_utc": "2021-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises fixed deposit rates. Check latest FD rates here",
+  "source": "Livemint",
+  "published_utc": "2021-05-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed deposit rates: Here are FD interest rates offered by SBI, HDFC Bank, ICICI, Kotak Mahindra Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI clarifies on 2018 circular after banks warn customers about crypto transactions",
+  "source": "The News Minute",
+  "published_utc": "2021-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB Housing to raise Rs 4,000 crore from Carlyle Group INC",
+  "source": "PSU Watch",
+  "published_utc": "2021-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

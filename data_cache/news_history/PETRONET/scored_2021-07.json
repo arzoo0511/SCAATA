@@ -1,0 +1,92 @@
+[
+ {
+  "title": "OFB Pride As It Rolls Out T90 First Overhaul Tank And T72 Second Overhaul Tank At HVF Avadi",
+  "source": "Indian PSU",
+  "published_utc": "2021-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NTPC INVITES EOI FOR FLY ASH",
+  "source": "IndianMandarins",
+  "published_utc": "2021-07-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WEST BENGAL 29 YOUNG IAS OFFICERS RESHUFFLED",
+  "source": "IndianMandarins",
+  "published_utc": "2021-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Concrete\u2019 steps taken for India\u2019s first GBS offshore LNG terminal",
+  "source": "Riviera Maritime Media",
+  "published_utc": "2021-07-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CIIL PROF C MOHAN APPOINTED AS DIRECTOR",
+  "source": "IndianMandarins",
+  "published_utc": "2021-07-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Inter-Cadre transfer: Jyoti Sharma goes to MP",
+  "source": "IndianMandarins",
+  "published_utc": "2021-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CNG truck overturns near Paravoor, driver hurt",
+  "source": "The New Indian Express",
+  "published_utc": "2021-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL Privatisation: IOC, GAIL may buy shares if open offer for Petronet, IGL gets triggered",
+  "source": "Zee Business",
+  "published_utc": "2021-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt may involve other PSUs in PLL, IGL open offer",
+  "source": "ET Auto",
+  "published_utc": "2021-07-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "REC MOVES TO A NEW GREEN OFFICE ON ITS 52ND FOUNDATION DAY",
+  "source": "IndianMandarins",
+  "published_utc": "2021-07-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

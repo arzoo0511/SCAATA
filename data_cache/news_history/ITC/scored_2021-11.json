@@ -1,0 +1,173 @@
+[
+ {
+  "title": "Odisha CM Naveen Patnaik inaugurates Welcomhotel Bhubaneswar",
+  "source": "Hotelier India",
+  "published_utc": "2021-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sunfeast Dark Fantasy's unique way of saying \u201cyour day is done\u201d without saying your day is done",
+  "source": "Passionate In Marketing",
+  "published_utc": "2021-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Opens A Swanky Property In Bhubaneswar Taking Inspiration From Local Culture",
+  "source": "Curly Tales",
+  "published_utc": "2021-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels opens doors to Welcomhotel Bhubaneswar",
+  "source": "ET TravelWorld",
+  "published_utc": "2021-11-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karma Hospitality launches Treehouse MARS Valley View in Shimla",
+  "source": "ET TravelWorld",
+  "published_utc": "2021-11-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After \u2018Mementos Udaipur, ITC Hotels signs second Memento property in Rajasthan",
+  "source": "Hotelier India",
+  "published_utc": "2021-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels announces its second Mementos property in Rajasthan",
+  "source": "ET HospitalityWorld",
+  "published_utc": "2021-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The McDonald\u2019s Happy Meal has received a health upgrade",
+  "source": "afaqs!",
+  "published_utc": "2021-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "McDonald\u2019s teams up with ITC for beverages for its Happy Meal",
+  "source": "Livemint",
+  "published_utc": "2021-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Eye on IPO, ITC likely to spin off its IT services arm",
+  "source": "Livemint",
+  "published_utc": "2021-11-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "McDonald\u2019s Happy Meal gets a refresh with ITC\u2019s B Natural Mixed Fruit and cup of hot corn",
+  "source": "Hotelier India",
+  "published_utc": "2021-11-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coffee brand Sleepy Owl bags $6.5 million in series A funding",
+  "source": "Livemint",
+  "published_utc": "2021-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels signs third hotel under its Mementos management arm",
+  "source": "Livemint",
+  "published_utc": "2021-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "McDonald\u2019s celebrates 25 years in India with #25ActsofHappy campaign",
+  "source": "Exchange4Media",
+  "published_utc": "2021-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EBC releases Intellectual Property by Elizabeth Verkey and Jithin Saji Isaac | Get your copy soon!",
+  "source": "SCC Online",
+  "published_utc": "2021-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Sapphire Penthouse Collection: The pinnacle of luxurious living in South Asia",
+  "source": "Daily FT",
+  "published_utc": "2021-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC backs D2C brand Mother Sparsh; picks up 16% stake",
+  "source": "VCCircle",
+  "published_utc": "2021-11-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prices of soaps and detergents increased as input cost rise",
+  "source": "www.lokmattimes.com",
+  "published_utc": "2021-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITCs Acquisition of D2C brand Mother Sparsh and entry into the breakfast category",
+  "source": "Invest Yadnya",
+  "published_utc": "2021-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

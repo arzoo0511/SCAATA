@@ -1,0 +1,641 @@
+[
+ {
+  "title": "HDFC Bank, HDFC Securities invest $1 million in Borderless Softtech",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2021-10-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A Makeover for HDFC Bank",
+  "source": "Business Today",
+  "published_utc": "2021-10-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI's auto-debit guidelines: Standing instruction rules hit smaller payments on day 1",
+  "source": "The Times of India",
+  "published_utc": "2021-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon reveals Great Indian Festival deals on iPhone 11, OnePlus Nord, OnePlus 9, Redmi devices. Check details",
+  "source": "Livemint",
+  "published_utc": "2021-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Great Indian Festival 2021 Sale: How to get the best deals, bank offers, discounts and more",
+  "source": "The Times of India",
+  "published_utc": "2021-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone 11 selling at lowest price ever. How to get it for as low as \u20b926,599",
+  "source": "Livemint",
+  "published_utc": "2021-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 12 down to its lowest price ever at Rs 48,999 on Flipkart",
+  "source": "India Today",
+  "published_utc": "2021-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prime members to get extra benefits while buying these new phones in Amazon sale",
+  "source": "The Times of India",
+  "published_utc": "2021-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus Diwali offers: Bumper deals on Oneplus 9, Nord series phones, and Smart TVs",
+  "source": "KalingaTV",
+  "published_utc": "2021-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Great Indian Festival Sale 2021: Samsung Galaxy S20 FE 5G Price Drops to Rs 36,999",
+  "source": "LatestLY",
+  "published_utc": "2021-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Great Indian Festival 2021 Sale: HDFC Bank Resets Discounts on Debit, Credit Cards",
+  "source": "Gadgets 360",
+  "published_utc": "2021-10-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loan interest rates fall: should you refinance?",
+  "source": "Fortune India",
+  "published_utc": "2021-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank posts strong loan growth in September quarter",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Great Indian Festival: iPhone 11 at Rs 33,999 is a deal you can grab, here is how it works",
+  "source": "India Today",
+  "published_utc": "2021-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI to recruit 2056 Probationary Officers (PO): Check eligibility and other details here",
+  "source": "Livemint",
+  "published_utc": "2021-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank eyes strategic investor in NBFC arm, sees $9-bn valuation",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Galaxia: Another Metal Card on the anvil to beat the Infinia?",
+  "source": "Live From A Lounge",
+  "published_utc": "2021-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI\u2019s New Auto-Debit Rules Effective from October 1",
+  "source": "Groww",
+  "published_utc": "2021-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will RBI really raise reverse repo rate as the market is expecting?",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How pensioners living abroad can submit annual life certificate",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q2 Net Profit seen up 15.8% YoY to Rs. 8,698.7 cr: Prabhudas Lilladher",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ramkrishna Forgings signs MoU with US based co to develop EV powertrain components",
+  "source": "Livemint",
+  "published_utc": "2021-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Banks Offering Loans for Poultry Farming, Checkout All Details Here",
+  "source": "Krishi Jagran",
+  "published_utc": "2021-10-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI maintains status quo on rates: What should borrowers of home loan, auto loan and personal loan do now?",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Uttarakhand: HDFC Bank launches 24 gold loan desks",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki might be planning Tata Punch rival SUV based on Baleno. What to expect",
+  "source": "Livemint",
+  "published_utc": "2021-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank PRIVATISATION Is Far More Difficult Than CONSOLIDATION",
+  "source": "LinkedIn",
+  "published_utc": "2021-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Guidelines for 10% additional credit under ECLGS issued but MSMEs allege reluctance by Banks",
+  "source": "KNN India",
+  "published_utc": "2021-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Festive shopping: Should you use credit cards or buy now pay later schemes?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank inks lease renewal for head office building in Mumbai\u2019s Worli",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q2 Net Profit seen up 18.3% YoY to Rs. 8,888.2 cr: Motilal Oswal",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-10-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank inks lease renewal for head office building in Worli",
+  "source": "Projects Today",
+  "published_utc": "2021-10-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to setup UPI autopay for your recurring payments",
+  "source": "Livemint",
+  "published_utc": "2021-10-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Five banks may bid for Citi's India consumer businesses",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Five banks may bid for Citi\u2019s India retail business",
+  "source": "Passionate In Marketing",
+  "published_utc": "2021-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Profit Tops Estimates on Post-Covid Wave Loan Growth",
+  "source": "Bloomberg.com",
+  "published_utc": "2021-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How To Enable Online Transactions On Your HDFC Credit Or Debit Card?",
+  "source": "Goodreturns",
+  "published_utc": "2021-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Infinia Credit Card Metal Edition now live",
+  "source": "Live From A Lounge",
+  "published_utc": "2021-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank and HDFC Bank are the top picks of fund managers",
+  "source": "Morningstar",
+  "published_utc": "2021-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u20b91 lakh to \u20b91.7 crore: This multibagger stock gave 16950% return in 22 years",
+  "source": "Livemint",
+  "published_utc": "2021-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank rolls out two films to highlight that users can do so much more with their Credit Cards",
+  "source": "Adgully.com",
+  "published_utc": "2021-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank suspends employees held for attempts of unauthorised withdrawal from high-value NRI account",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "12 Arrested Including 3 HDFC Employees For Trying To Withdraw Money From NRI Account",
+  "source": "India.com",
+  "published_utc": "2021-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No amount was withdrawn from high-value account: DCP Cyber Cell",
+  "source": "ANI News",
+  "published_utc": "2021-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to merge multiple PPF accounts",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All you need to know about Tata's first micro SUV, Punch",
+  "source": "Livemint",
+  "published_utc": "2021-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ranjan Revandkar joins HDB Financial Services as CISO",
+  "source": "ET CIO",
+  "published_utc": "2021-10-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank Launches Dil Se Open Celebrations",
+  "source": "BW Marketing World",
+  "published_utc": "2021-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Moody\u2019s upgrades banking system outlook to \u2018stable\u2019",
+  "source": "The Financial Express",
+  "published_utc": "2021-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to Buy, 43 Crypto-Linked Names Poised to Surge in Value: BofA",
+  "source": "Business Insider",
+  "published_utc": "2021-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Should I exit HDFC Balanced Advantage Fund?",
+  "source": "Livemint",
+  "published_utc": "2021-10-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ICICI Bank jumps to record high on robust second-quarter profit",
+  "source": "Reuters",
+  "published_utc": "2021-10-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CCI approves HDFC Bank's acquisition of 4.99 pc stake in HDFC ERGO General Insurance Co",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 things to know about buy now, pay later schemes",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy ICICI Bank, target price Rs 885: HDFC Securities",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dormant Bank Accounts: Risks & How to Protect Your Money",
+  "source": "CAclubindia",
+  "published_utc": "2021-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anurag Mittal quits IDFC MF for UTI Mutual Fund",
+  "source": "Livemint",
+  "published_utc": "2021-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mergers & Acquisitions (M&A) | CCI gives approval for acquisition of shareholding in HDFC Ergo General Insurance Co. Ltd. by HDFC Bank Ltd.",
+  "source": "SCC Online",
+  "published_utc": "2021-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Lead Bank Kargil organizes Credit Outreach Programme under Azadi Ka Amrit Mahotsav",
+  "source": "Administration of Union Territory of Ladakh",
+  "published_utc": "2021-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Post Payment Bank, HDFC To Offer Home Loan To Over 4.5 Crore. Top Details Here",
+  "source": "India.com",
+  "published_utc": "2021-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak is back in the lending game, and investors are excited",
+  "source": "Livemint",
+  "published_utc": "2021-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hines to invest \u20b9650 crore to develop Bengaluru office project",
+  "source": "Livemint",
+  "published_utc": "2021-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI arrests six persons in connection with Rs 6,000 crore remittance scam in Bank of Baroda: Officials",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI Prudential and HDFC best performing mutual funds in one year\u2014Check returns",
+  "source": "Zee Business",
+  "published_utc": "2021-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samar Kagalwalla joins Onsurity as Head of Marketing",
+  "source": "BMI",
+  "published_utc": "2021-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The stock SIPs lure of Zerodha, ICICI Direct and HDFC Securities: Should retail investors take the bait?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI eases current account rules for bank exposures less than Rs 5 crore",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rajinikanth undergoes heart surgery in Chennai, likely to be discharged soon",
+  "source": "Livemint",
+  "published_utc": "2021-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stand-off between Fairfax-promoted CSB Bank and employees over wage revision to escalate",
+  "source": "The New Indian Express",
+  "published_utc": "2021-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi Metro wins 'Metro Rail with the Best Passenger Services' award",
+  "source": "Livemint",
+  "published_utc": "2021-10-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mcap of nine of top-10 most valued firms tumbles by over Rs 2.48 lakh crore",
+  "source": "The Financial Express",
+  "published_utc": "2021-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

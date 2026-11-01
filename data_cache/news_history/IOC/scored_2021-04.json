@@ -1,0 +1,344 @@
+[
+ {
+  "title": "India's March petrol sales up 27.4% y/y; diesel up 28.6% y/y",
+  "source": "ET Auto",
+  "published_utc": "2021-04-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Power play: India wields oil 'weapon' to cut dependence on Saudi",
+  "source": "Reuters",
+  "published_utc": "2021-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG cylinder prices April 1, 2021: LPG gas rates become cheaper, check out how much you need to pay for a cylinder",
+  "source": "Zee News",
+  "published_utc": "2021-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG cylinder price cut this month. Know how much you pay for cooking gas",
+  "source": "Livemint",
+  "published_utc": "2021-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ExxonMobil PESTLE Analysis - Detailed PESTEL Factors",
+  "source": "MBA Skool",
+  "published_utc": "2021-04-04T13:42:58+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "M Anna Durai takes charge as head of IOC's Gujarat office",
+  "source": "BusinessLine",
+  "published_utc": "2021-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Impact of taxes on fuel prices",
+  "source": "The Express Tribune",
+  "published_utc": "2021-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "An electric vehicle battery that doesn\u2019t need electricity for charging",
+  "source": "The Times of India",
+  "published_utc": "2021-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What Caused The Saudi-India Oil Rift",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2021-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Technip Energies to upgrade Barauni Refinery in India",
+  "source": "Hydrocarbon Processing",
+  "published_utc": "2021-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New Mangalore Port Trust inks pact with IOCL for bunkering facility",
+  "source": "ProjectsMonitor",
+  "published_utc": "2021-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Confidence Petroleum to set up Rs 200 cr CNG cylinder making unit",
+  "source": "The Hitavada",
+  "published_utc": "2021-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can co-branded fuel cards help to beat rising fuel prices?",
+  "source": "Livemint",
+  "published_utc": "2021-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chandigarh: More than 19,000 people sign up for piped gas",
+  "source": "The Indian Express",
+  "published_utc": "2021-04-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cheated at petrol pump? Here\u2019s how to get your money back",
+  "source": "The Times of India",
+  "published_utc": "2021-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Accenture helps to digitally transform BPCL\u2019s sales and distribution network using AI and Machine Learning.",
+  "source": "Accenture",
+  "published_utc": "2021-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC enforcing advanced tracking system to check leakage during distribution of petroleum products",
+  "source": "myRepublica",
+  "published_utc": "2021-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Patna: Major fire breaks out in Lok Nayak Jai Prakash Bhawan, destroys IOCL state office",
+  "source": "The Times of India",
+  "published_utc": "2021-04-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Patna: Major fire at Lok Nayak Bhawan guts IOCL regional office",
+  "source": "The Times of India",
+  "published_utc": "2021-04-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Was eight years old when I met Sachin Sir, reveals Shaw",
+  "source": "KalingaTV",
+  "published_utc": "2021-04-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel price today 17 April 2021: Fuel cost steady for 2nd day; check rates in Mumbai, Delhi, UP, Pune",
+  "source": "The Financial Express",
+  "published_utc": "2021-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bharat Petroleum to supply 100MT medical grade oxygen to hospitals",
+  "source": "PSU Watch",
+  "published_utc": "2021-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The man at the center of India\u2019s shift to oligarchy",
+  "source": "Asia Times",
+  "published_utc": "2021-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian company \u2018set to buy\u2019 Guyana\u2019s oil",
+  "source": "Guyana Chronicle",
+  "published_utc": "2021-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ONGC says 3 employees kidnapped from eastern Indian oil rig",
+  "source": "Reuters",
+  "published_utc": "2021-04-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's crude oil output drops 5%, gas production falls 8%: Govt data",
+  "source": "Business Standard",
+  "published_utc": "2021-04-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian refiners' March crude throughput edges up on rising demand",
+  "source": "Reuters",
+  "published_utc": "2021-04-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil and gas production dives in FY21",
+  "source": "The New Indian Express",
+  "published_utc": "2021-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil puts back Gujarat refinery expansion for two years",
+  "source": "The Global Energy Association",
+  "published_utc": "2021-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil refineries operating at 95% capacity, say sources",
+  "source": "The Financial Express",
+  "published_utc": "2021-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corpn to open 15 retail stores in Coimbatore",
+  "source": "Construction Week India",
+  "published_utc": "2021-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC lets contract for Paradip refinery\u2019s PX plant",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2021-04-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches fiber Indane LPG cylinder for customers, Know about the features",
+  "source": "Maps of India",
+  "published_utc": "2021-04-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maire Tecnimont Group expands its petrochemical business in India w...",
+  "source": "MAIRE Group",
+  "published_utc": "2021-04-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maire Tecnimont bags $450 mn contract for para-xylene project from Indian Oil",
+  "source": "Indian Chemical News",
+  "published_utc": "2021-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Government: Indian Oil diverting its LNG tankers for transportation of liquid medical oxygen to states",
+  "source": "ET EnergyWorld",
+  "published_utc": "2021-04-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Panipat Refinery Expansion, Panipat, Haryana, India",
+  "source": "NS Energy",
+  "published_utc": "2021-04-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India wants to buy Guyana\u2019s oil",
+  "source": "Demerara Waves Online News- Guyana",
+  "published_utc": "2021-04-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

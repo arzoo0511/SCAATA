@@ -1,0 +1,650 @@
+[
+ {
+  "title": "ICICI Bank ATM withdrawal, cash transaction charges to cost more from today",
+  "source": "Livemint",
+  "published_utc": "2021-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Man arrested for Virar bank robbery bid defrauded ex-employer of Rs 27 lakh",
+  "source": "The Times of India",
+  "published_utc": "2021-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Day after his arrest for murder, Axis Bank files police complaint against manager",
+  "source": "The Indian Express",
+  "published_utc": "2021-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Rajasthan insider trading case: SAT dismisses appeals against Sebi order",
+  "source": "The New Indian Express",
+  "published_utc": "2021-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Saving Days teased to start soon, will offer 10% discount on these bank cards",
+  "source": "The Times of India",
+  "published_utc": "2021-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karnataka Muslim arranges Hindu foster daughter's marriage",
+  "source": "ummid.com",
+  "published_utc": "2021-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How new ATM cash withdrawal rule will affect you? Details here",
+  "source": "Livemint",
+  "published_utc": "2021-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra: Bank robber thrashed by passers-by, his clothes ripped",
+  "source": "The Times of India",
+  "published_utc": "2021-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Great Freedom Festival and Flipkart Big Saving Days sale on August 5",
+  "source": "The Indian Express",
+  "published_utc": "2021-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Org Chart: The People With Power At IPO-Bound Fino Payments Bank",
+  "source": "Inc42",
+  "published_utc": "2021-08-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zomato incorporates payments subsidiary Zomato Payments",
+  "source": "Entrackr",
+  "published_utc": "2021-08-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's former CEO Aditya Puri joins pharma company's board as chairperson",
+  "source": "Livemint",
+  "published_utc": "2021-08-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Money emergency? How 2nd holder can break bank FD without 1st holder sign",
+  "source": "The Economic Times",
+  "published_utc": "2021-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Great Freedom Festival or Flipkart 2021 sale? Find best deals here",
+  "source": "CNBC TV18",
+  "published_utc": "2021-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI offers interest rate discount on gold loan. How to avail via YONO SBI",
+  "source": "Livemint",
+  "published_utc": "2021-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank robbery: Accused sent to judicial custody; was in debt, say Maharashtra cops | Mumbai news",
+  "source": "Hindustan Times",
+  "published_utc": "2021-08-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Know all about e-RUPI, the new digital payment instrument",
+  "source": "PIB",
+  "published_utc": "2021-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDBI Bank sale: 7 firms in race for transaction advisor",
+  "source": "Livemint",
+  "published_utc": "2021-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The strange case of Videocon\u2019s insolvency",
+  "source": "Frontline Magazine",
+  "published_utc": "2021-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PV Sindhu Sends Notices To 15 Popular Brands - PV Sindhu",
+  "source": "Gulte",
+  "published_utc": "2021-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 12 mini drops to Rs 58,999 at Flipkart, discount of over Rs 10,000",
+  "source": "India Today",
+  "published_utc": "2021-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to E-Verify ITR Through a Demat Account",
+  "source": "ICICI Direct",
+  "published_utc": "2021-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Do You Check Your Income Tax Refund Status?",
+  "source": "ICICI Direct",
+  "published_utc": "2021-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cashify appoints Rajkummar Rao as first brand ambassador",
+  "source": "Livemint",
+  "published_utc": "2021-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How homemakers kept Karnataka's 'kasuti' embroidery alive",
+  "source": "Livemint",
+  "published_utc": "2021-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank signs 2-year deal for 800 co-working seats in Mumbai: Report",
+  "source": "CNBC TV18",
+  "published_utc": "2021-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Much Money Can You Withdraw From ATM In One Go? Know Withdrawal Limits For SBI, ICICI, HDFC & PNB",
+  "source": "ABP Live English",
+  "published_utc": "2021-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SLMA launched to help secondary loan market",
+  "source": "Livemint",
+  "published_utc": "2021-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Vs ICICI Vs HDFC Vs Axis Vs PNB: Know All About Cash Withdrawal Limits",
+  "source": "Goodreturns",
+  "published_utc": "2021-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex jumps over 200 points to hit 55,000-mark for first time; Nifty above 16,400",
+  "source": "The Times of India",
+  "published_utc": "2021-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How senior citizens can withdraw money from SCSS, PPF etc. via authorized person",
+  "source": "The Economic Times",
+  "published_utc": "2021-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior citizens special FD scheme: Know latest FD interest rates of SBI, HDFC, ICICI Bank and others",
+  "source": "Times Now",
+  "published_utc": "2021-08-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What e-commerce co-branded credit cards offer",
+  "source": "BusinessLine",
+  "published_utc": "2021-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Justice Rohinton Nariman\u2019s contribution to IBC jurisprudence in India",
+  "source": "Bar and Bench",
+  "published_utc": "2021-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In a first, ICICI, StanChart and HSBC enter \u2018swaption\u2019 deals",
+  "source": "The Economic Times",
+  "published_utc": "2021-08-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India cenbank allows HDFC Bank to issue new credit cards -source",
+  "source": "Reuters",
+  "published_utc": "2021-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Partially Lifts Technology Ban on HDFC Bank, Allows It to Issue New Credit Cards",
+  "source": "India.com",
+  "published_utc": "2021-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "vivo X60 gets a price cut in India, now starts at Rs. 34990",
+  "source": "FoneArena.com",
+  "published_utc": "2021-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo X60 gets Rs 3,000 price cut; here's how buyers can get Rs 5,000 additional discount",
+  "source": "The Times of India",
+  "published_utc": "2021-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank gets to sign up credit card users as RBI relents",
+  "source": "mint",
+  "published_utc": "2021-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank gained more than 1.3 million credit cards since December",
+  "source": "Business Standard",
+  "published_utc": "2021-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank theft, murder: Accused stabbed me 17 times, says survivor | Mumbai news",
+  "source": "Hindustan Times",
+  "published_utc": "2021-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "C Parthasarathi, Karvy Stock Broking Head, Arrested For Fraud, Securities Norms Violation",
+  "source": "NDTV",
+  "published_utc": "2021-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Driver with ATM Cash Flees in Berhampur City (!) |",
+  "source": "Odisha Barta",
+  "published_utc": "2021-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Expect a big-bang comeback as HDFC Bank's card curbs go",
+  "source": "Livemint",
+  "published_utc": "2021-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Shivalik, Prime Co-op Bank readies to convert to Small Fin Bank",
+  "source": "Indian Cooperative",
+  "published_utc": "2021-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karvy demat scam: Here\u2019s how the scam played out",
+  "source": "The Times of India",
+  "published_utc": "2021-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lalit Kumar Chandel appointed as Govt Nominee Director of Bank of Maharashtra",
+  "source": "PSU Watch",
+  "published_utc": "2021-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU banks post higher profitability on better margins, treasury gains in Q1",
+  "source": "Livemint",
+  "published_utc": "2021-08-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "K.V. Kamath: Financial powerhouse",
+  "source": "India Today",
+  "published_utc": "2021-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs PNB vs ICICI Bank vs HDFC Bank: Cash withdrawal limit you should know",
+  "source": "Livemint",
+  "published_utc": "2021-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ola S1 electric scooter: EMIs, delivery dates, variants explained",
+  "source": "Livemint",
+  "published_utc": "2021-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What if your bank locker remains inoperative for a long period of time",
+  "source": "Livemint",
+  "published_utc": "2021-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Germany launches Blocked Account for Indian students: Key benefits",
+  "source": "Livemint",
+  "published_utc": "2021-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves re-appointment of Sandeep Bakhshi as ICICI Bank CEO",
+  "source": "Livemint",
+  "published_utc": "2021-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank gets RBI nod to re-appoint Sandeep Bakhshi as MD & CEO for 2 years",
+  "source": "CNBC TV18",
+  "published_utc": "2021-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Demat Account: How to Check Demat Account Number",
+  "source": "ICICI Direct",
+  "published_utc": "2021-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakhshi reappointed as ICICI Bank CEO, MD till October 2023",
+  "source": "Business Today",
+  "published_utc": "2021-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Germany to launch Blocked Accounts for Indian Students",
+  "source": "Passionate In Marketing",
+  "published_utc": "2021-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RapiPay appoints Nipun Jain as chief executive officer",
+  "source": "The Economic Times",
+  "published_utc": "2021-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nipun Jain takes charge as CEO at RapiPay",
+  "source": "ETHRWorld.com",
+  "published_utc": "2021-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Your high value cheque may be rejected sans net, mobile banking or branch visit",
+  "source": "The Economic Times",
+  "published_utc": "2021-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RapiPay Fintech appoints Nipun Jain as CEO",
+  "source": "Livemint",
+  "published_utc": "2021-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves re-appointment of Sandeep Bakhshi as MD and CEO of ICICI Bank",
+  "source": "BusinessLine",
+  "published_utc": "2021-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank files cheating case against Karvy Stock Broking",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Get the Amazon Pay ICICI credit card an instant digital card with unlimited rewards",
+  "source": "About Amazon India",
+  "published_utc": "2021-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rakesh Jhunjhunwala picks stake in Canara Bank; how Big Bull's latest buy fares among peers",
+  "source": "CNBC TV18",
+  "published_utc": "2021-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI puts new payment network plan on hold",
+  "source": "Livemint",
+  "published_utc": "2021-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CSB Bank appoints Rajesh Choudhary as Chief Information & Technology Officer",
+  "source": "ET CIO",
+  "published_utc": "2021-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "7 stocks with highest FII shareholding",
+  "source": "mint",
+  "published_utc": "2021-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDBI Bank to divest entire 19% stake in ARCIL",
+  "source": "Livemint",
+  "published_utc": "2021-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 1.18 crore missing from frozen accounts, Kolkata bank manager arrested in instant loan app case",
+  "source": "The Indian Express",
+  "published_utc": "2021-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

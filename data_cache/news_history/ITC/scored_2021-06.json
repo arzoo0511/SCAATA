@@ -1,0 +1,137 @@
+[
+ {
+  "title": "ITC Q4 consolidated net profit falls 3%, declares final dividend of Rs 5.75",
+  "source": "Business Standard",
+  "published_utc": "2021-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ITC slides as second wave curbs likely to hit cigarette business",
+  "source": "Reuters",
+  "published_utc": "2021-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ltd.\u00e2\u20ac\u2122s Aashirvaad Svasti urges consumers to #RaiseAGlassOfMilk",
+  "source": "Adgully.com",
+  "published_utc": "2021-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Infotech adopts three-pronged approach to deal with pandemic",
+  "source": "The Economic Times",
+  "published_utc": "2021-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dettol to roll our campaign replacing logo with images of covid warriors",
+  "source": "mint",
+  "published_utc": "2021-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Parle Products enters wheat flour market",
+  "source": "Livemint",
+  "published_utc": "2021-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s biggest biscuit producer forays into packaged wheat flour to answer home baking demand",
+  "source": "BakeryAndSnacks.com",
+  "published_utc": "2021-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels Launch Welcomhotel Tavleen Chail, its second property in Himachal",
+  "source": "The Times of India",
+  "published_utc": "2021-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels launches Welcomhotel Tavleen Chail in Himachal Pradesh",
+  "source": "Livemint",
+  "published_utc": "2021-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BARC Week 22: Reckitt India leads the Top brand list",
+  "source": "MediaNews4U",
+  "published_utc": "2021-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital marketing firm Gozoop Group acquires Stratton Communications",
+  "source": "Livemint",
+  "published_utc": "2021-06-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC rolls out potato biscuits to compete with popular Bangladeshi brand",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s Sunfeast takes on popular Bangladeshi potato biscuit brand",
+  "source": "Livemint",
+  "published_utc": "2021-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC introduces thin potato biscuits, Sunfeast All-Rounder",
+  "source": "MediaNews4U",
+  "published_utc": "2021-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pran\u2019s Potata new internet sensation in India",
+  "source": "Daily Observer",
+  "published_utc": "2021-06-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

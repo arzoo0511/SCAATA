@@ -1,0 +1,326 @@
+[
+ {
+  "title": "Fuel on Fire: Petrol, diesel prices touch all-time high amid volatility in oil market",
+  "source": "India TV News",
+  "published_utc": "2021-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pune: IndianOil launches composite LPG cylinders that help to check gas levels",
+  "source": "The Indian Express",
+  "published_utc": "2021-10-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shringla visits Trincomalee oil tank farm, key India-Sri Lanka economic partnership link",
+  "source": "The Hindu",
+  "published_utc": "2021-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil is Hiring for 533 Posts, Salary up to Rs 1 Lakh",
+  "source": "News18",
+  "published_utc": "2021-10-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tihar Jail inmates to be provided sports training under new initiative",
+  "source": "ETV Bharat",
+  "published_utc": "2021-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation floats tender for setting up Grassroot Lube Complex",
+  "source": "ProjectsMonitor",
+  "published_utc": "2021-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Want to buy LPG cylinder? Don't have any address proof? Still, you can get Indane gas cylinder - here is how",
+  "source": "Zee Business",
+  "published_utc": "2021-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to set up Rs 3,200-crore R&D centre in Haryana",
+  "source": "The New Indian Express",
+  "published_utc": "2021-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel prices hiked again; Diesel nears Rs 97 a litre in 3 districts of Nagaland",
+  "source": "MorungExpress",
+  "published_utc": "2021-10-07T15:55:11+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Inspiring\u2019: Daughter of petrol pump assistant makes it to IIT, earns praise online",
+  "source": "The Indian Express",
+  "published_utc": "2021-10-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian billionaire Ambani\u2019s Reliance buys REC Solar for $771 mln",
+  "source": "Al Arabiya English",
+  "published_utc": "2021-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil defers maintenance shutdown of units at Haldia - sources",
+  "source": "Reuters",
+  "published_utc": "2021-10-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Congress alleges oil PSUs doing business with declared economic offenders",
+  "source": "The Hindu",
+  "published_utc": "2021-10-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel prices today: Fuel prices rise Delhi, Mumbai and other states; check latest city-wise rates here",
+  "source": "India Today",
+  "published_utc": "2021-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India To Target One Million Tonnes Green Hydrogen Production Per Annum By 2030",
+  "source": "Swarajya",
+  "published_utc": "2021-10-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil\u2019s 100 Octane Petrol \u2018XP 100\u2019 Records Highest Sale in Greater Noida",
+  "source": "Energetica India Magazine",
+  "published_utc": "2021-10-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Larsen & Toubro Construction bags 'significant' orders for various businesses",
+  "source": "The New Indian Express",
+  "published_utc": "2021-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sukla Mistry is going to be Indian Oil\u2019s (IOC) first woman Director (Refineries)",
+  "source": "PSU Watch",
+  "published_utc": "2021-10-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Prices Hiked For 3rd Straight Day: Diesel Crosses Rs 102-Mark In Mumbai",
+  "source": "NDTV Profit",
+  "published_utc": "2021-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India has right to 30% stake in Iranian gas field even after contract to local firm",
+  "source": "The Economic Times",
+  "published_utc": "2021-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices in your city today, check here",
+  "source": "The Indian Express",
+  "published_utc": "2021-10-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Asset monetisation: Govt to monetise IOC\u2019s 2 product pipelines, 1 LPG pipeline by FY23, say sources",
+  "source": "PSU Watch",
+  "published_utc": "2021-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices unchanged for second straight day; check fuel rates in your city today",
+  "source": "The Indian Express",
+  "published_utc": "2021-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka changes Trinco port rules to attract Indian investors",
+  "source": "ET Infra",
+  "published_utc": "2021-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Recent rise in LPG prices",
+  "source": "PRSIndia",
+  "published_utc": "2021-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment through GATE 2022, Salary Rs. 50000/- per month Check Now!",
+  "source": "Adda247",
+  "published_utc": "2021-10-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices hiked again. Check latest rates in Delhi, Mumbai, Chennai, Kolkata",
+  "source": "Livemint",
+  "published_utc": "2021-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nagapattinam@30: Hopes for industrial revival",
+  "source": "The New Indian Express",
+  "published_utc": "2021-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Numaligarh Refinery Limited inks pipeline \u2018Right to Use\u2019 sharing agreement with Indradhanush Gas Grid Limited",
+  "source": "PIB",
+  "published_utc": "2021-10-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petroleum minister defends taxes on fuel, says it\u2019s used for country\u2019s welfare",
+  "source": "Autocar India",
+  "published_utc": "2021-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "V Satish Kumar takes over as Director (Marketing), Indian Oil Corporation",
+  "source": "ET EnergyWorld",
+  "published_utc": "2021-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "V Satish Kumar takes over as Director (Marketing) of Indian Oil",
+  "source": "PSU Watch",
+  "published_utc": "2021-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC\u2019s Biratnagar depot to add 1.4 million liters of diesel storage",
+  "source": "myRepublica",
+  "published_utc": "2021-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "V Satish Kumar Takes Over As Director (Marketing), Indian Oil Corporation Limited",
+  "source": "Indian PSU",
+  "published_utc": "2021-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil records second quarter net profit of Rs 6,360 crore",
+  "source": "ET EnergyWorld",
+  "published_utc": "2021-10-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 sportspersons from PSUs recommended for National Sports awards",
+  "source": "myKhel",
+  "published_utc": "2021-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

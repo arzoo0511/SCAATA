@@ -1,0 +1,389 @@
+[
+ {
+  "title": "Indian Oil to set up India\u2019s first mega-scale Maleic Anhydride Plant at Panipat",
+  "source": "BusinessLine",
+  "published_utc": "2021-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices hiked again, hit fresh highs; check fuel rates in your city today",
+  "source": "The Indian Express",
+  "published_utc": "2021-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to set up India's first mega-scale Maleic Anhydride Plant at Panipat",
+  "source": "ET Auto",
+  "published_utc": "2021-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to install EV charging facilities at 10,000 fuel stations",
+  "source": "PSU Watch",
+  "published_utc": "2021-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches XtraGreen Diesel \u2013 Cleaner And More Greener!",
+  "source": "Thrust Zone",
+  "published_utc": "2021-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil introduces cleaner, more efficient diesel",
+  "source": "Autocar India",
+  "published_utc": "2021-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel Prices Today: Fuel prices kept unchanged after seven days of hike",
+  "source": "India TV News",
+  "published_utc": "2021-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What would large-scale cultivation of oil palm mean for India?",
+  "source": "Dialogue Earth",
+  "published_utc": "2021-11-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, BPCL to set up 17,000 EV charging points at their fuel stations",
+  "source": "Autocar India",
+  "published_utc": "2021-11-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, BPCL to set up 17,000 EV charging stations across India",
+  "source": "Autocar Professional",
+  "published_utc": "2021-11-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches cleaner XtraGreen diesel",
+  "source": "Team-BHP",
+  "published_utc": "2021-11-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to set up 10,000 EV charging stations in three years",
+  "source": "Overdrive",
+  "published_utc": "2021-11-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Launches Cleaner, Fuel Efficient XtraGreen Diesel",
+  "source": "carandbike",
+  "published_utc": "2021-11-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Industries Ltd Partly Paidup (RELIANCEP1) Share Price",
+  "source": "Business Today",
+  "published_utc": "2021-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The demand dilemma hindering ONGC, Indian Oil\u2019s clean energy transition",
+  "source": "The Ken",
+  "published_utc": "2021-11-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp, NTPC in pact for renewable energy business",
+  "source": "The Economic Times",
+  "published_utc": "2021-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol pump owners suffer loss due to tax cut, seek help from govt",
+  "source": "The Indian Express",
+  "published_utc": "2021-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NTPC, Indian Oil Sign MoU For Renewable Energy Cooperation",
+  "source": "SolarQuarter",
+  "published_utc": "2021-11-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Designing and Deploying an Asset Integrity Management System for an Indian Oil & Gas Company",
+  "source": "Wipro",
+  "published_utc": "2021-11-12T10:22:19+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil and NTPC ink deal to collaborate on green energy",
+  "source": "Livemint",
+  "published_utc": "2021-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What's convincing Indian middle-class to shift to electric scooters?",
+  "source": "Livemint",
+  "published_utc": "2021-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil gets \u2018Rashtriya Khel Protsahan Puruskar\u2019 for encouraging sports",
+  "source": "PSU Watch",
+  "published_utc": "2021-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC, BPCL & HPCL ready for EV era with 22000 charging stations",
+  "source": "Fortune India",
+  "published_utc": "2021-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL and NTPC tied up to collaborate in Renewable Energy",
+  "source": "Adda247",
+  "published_utc": "2021-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trafigura looks to exit Indian oil refining JV Nayara Energy",
+  "source": "Offshore Technology",
+  "published_utc": "2021-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices cut in Rajasthan, steady across other places, check fuel rates here",
+  "source": "The Indian Express",
+  "published_utc": "2021-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BWF gives Prakash Padukone lifetime achievement award",
+  "source": "The Times of India",
+  "published_utc": "2021-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices in your city today, check here",
+  "source": "The Indian Express",
+  "published_utc": "2021-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chandigarh\u2019s Yuvraj Singh Sandhu wins maiden PGTI title",
+  "source": "The Indian Express",
+  "published_utc": "2021-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil emerge champions in Nehru Cup hockey tournament",
+  "source": "Telangana Today",
+  "published_utc": "2021-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil announces the appointment of 6 Independent Directors on its Board",
+  "source": "PSU Watch",
+  "published_utc": "2021-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MIC Electronics partners with IOCL",
+  "source": "Construction Week India",
+  "published_utc": "2021-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TN plans three large petrochem projects",
+  "source": "The New Indian Express",
+  "published_utc": "2021-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation's Mathura Refinery gets green nod for expansion project",
+  "source": "The New Indian Express",
+  "published_utc": "2021-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel prices today: Fuel rates remain unchanged on November 27| Check latest rates here",
+  "source": "India Today",
+  "published_utc": "2021-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil promotes e-fuel vouchers as perfect wedding gifts. Internet reacts",
+  "source": "India Today",
+  "published_utc": "2021-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil ad says fuel voucher \"perfect gift\" for weddings. How Twitter reacted",
+  "source": "Moneycontrol.com",
+  "published_utc": "2021-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "With Ethanol Blended Petrol Programme, India Saved Foreign Exchange Outgo Worth Around Rs 9,580 Crore In Last One Year",
+  "source": "Swarajya",
+  "published_utc": "2021-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Bio-Jet Fuel Technology Receives Formal Military Certification",
+  "source": "PIB",
+  "published_utc": "2021-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Introduces New Scheme to Gift 'Fuel Vouchers' to Loved Ones, Twitter Reacts",
+  "source": "News18",
+  "published_utc": "2021-11-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ujjwala scheme implementation spiked in election years: RTI",
+  "source": "The Indian Express",
+  "published_utc": "2021-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ethanol blending in petrol helped India save Rs 9,580 crore last one year",
+  "source": "ET EnergyWorld",
+  "published_utc": "2021-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Osage in Historic Newspapers: Envy, Ridicule and Racism",
+  "source": "Library of Congress (.gov)",
+  "published_utc": "2021-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

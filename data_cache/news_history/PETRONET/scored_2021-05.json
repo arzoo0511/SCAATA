@@ -1,0 +1,92 @@
+[
+ {
+  "title": "Oil and Gas shares gain",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2021-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "K\u2019taka RERA: Ex-IPS Chandra & Neelamani named as Chairman & Member",
+  "source": "IndianMandarins",
+  "published_utc": "2021-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saudi Arabia's Covid Aid Comes At A Cost For India",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2021-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PS TO PIYUSH GOYAL PREMATURELY REPATRIATED",
+  "source": "IndianMandarins",
+  "published_utc": "2021-05-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Total inks 5-year LNG supply deal with India\u2019s ArcelorMittal Nippon Steel",
+  "source": "LNG Prime",
+  "published_utc": "2021-05-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL may sell some stake in IGL, Petronet to shed promoter status",
+  "source": "Business Standard",
+  "published_utc": "2021-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Privatisation-Bound BPCL Not In Favour Of Giving Up Promoter Status In PLL And IGL, Seeks Open Offer Exemption: Report",
+  "source": "Swarajya",
+  "published_utc": "2021-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MRPL employs more than 70% from Karnataka, clarifies oil PSU",
+  "source": "PSU Watch",
+  "published_utc": "2021-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lux Industries Ltd continues the growth streak with 49% rise in sales for Q4",
+  "source": "The Statesman",
+  "published_utc": "2021-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL privatization likely to be completed by March 2022",
+  "source": "Livemint",
+  "published_utc": "2021-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
