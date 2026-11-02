@@ -1,7 +1,7 @@
 <p align="center"><img src="docs/logo/hansei_wordmark.png" alt="HANSEI" width="420"></p>
 
 # HANSEI (反省)
-
+https://hansei.streamlit.app/
 **An AI agent that manages the stocks you already own: it reads the news and the charts, trades only when it has a reason to, and is judged on one thing — beating what you'd have made by just holding.**
 
 *Hansei* is Japanese for reflecting on your own mistakes in order to improve. The agent keeps score of which of its advisors were right and trusts them accordingly.
