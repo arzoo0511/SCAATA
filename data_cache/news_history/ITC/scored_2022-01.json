@@ -1,0 +1,47 @@
+[
+ {
+  "title": "One of India\u2019s Largest Conglomerates to Enter Plant-Based Meat Market",
+  "source": "vegconomist.com",
+  "published_utc": "2022-01-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CESTAT | \u201dobiter dictum\u201d not legally binding as precedent; jurisdictional commissioner cautioned for filing frivolous applications",
+  "source": "SCC Online",
+  "published_utc": "2022-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Silver Jewelry Brand GIVA Teams Up With Shoppers Stop to Augment its Offline Presence",
+  "source": "Indian Retailer",
+  "published_utc": "2022-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GSK Consumer Healthcare-HUL merger in spotlight as GSK rejects Unilever bid",
+  "source": "Livemint",
+  "published_utc": "2022-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These 7 Companies have been part of the BSE Sensex since 1986...",
+  "source": "Equitymaster",
+  "published_utc": "2022-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

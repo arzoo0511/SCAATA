@@ -1,0 +1,119 @@
+[
+ {
+  "title": "Indian cigarette maker ITC's quarterly profit rises 12.7% y/y",
+  "source": "Reuters",
+  "published_utc": "2022-02-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s cigarette biz lights up in Q3 with strong volumes",
+  "source": "Livemint",
+  "published_utc": "2022-02-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Most popular Flexi and Multi Cap Funds of 2021",
+  "source": "Morningstar",
+  "published_utc": "2022-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels strengthens Southern India footprint with the launch of Welcomhotel Guntur",
+  "source": "Hotelier India",
+  "published_utc": "2022-02-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ltd\u2019s Fabelle becomes India\u2019s first luxury chocolate brand to make Metaverse debut",
+  "source": "Hotelier India",
+  "published_utc": "2022-02-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anushka Sharma, Virat Kohli invest in plant-based meat products firm Blue Tribe",
+  "source": "Livemint",
+  "published_utc": "2022-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Abhijeet weds Sansriti: India's First Metaverse Wedding",
+  "source": "Rediff",
+  "published_utc": "2022-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC holdings: From RIL, L&T to govt secs",
+  "source": "The Indian Express",
+  "published_utc": "2022-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC\u2019s $128 Billion Stock Portfolio Can Withstand Rising Rates",
+  "source": "Bloomberg.com",
+  "published_utc": "2022-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Metaverse: Welcome to the dawn of virtual-world hopping",
+  "source": "ET Edge Insights",
+  "published_utc": "2022-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FMCG giant ITC Ltd calls for media review",
+  "source": "Exchange4Media",
+  "published_utc": "2022-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy ITC Ltd For Target Rs.341 - Centrum Broking",
+  "source": "Investment Guru India",
+  "published_utc": "2022-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BARC Week 7: HUL continues to lead the Top Advertisers Category",
+  "source": "MediaNews4U",
+  "published_utc": "2022-02-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

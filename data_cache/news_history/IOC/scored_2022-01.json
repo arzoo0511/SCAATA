@@ -1,0 +1,371 @@
+[
+ {
+  "title": "Sri Lanka, Indian Oil Corp unit to sign oil tank restoration deal",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-01-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil reduces commercial cylinders rate",
+  "source": "India Today NE",
+  "published_utc": "2022-01-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Developing Trincomalee oil tank farm: What the deal means for India, Lanka",
+  "source": "The Indian Express",
+  "published_utc": "2022-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka softens stands, to jointly develop strategic Trincomalee Oil Tank Complex with India",
+  "source": "OrissaPOST",
+  "published_utc": "2022-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lankan Cabinet nods Joint Development of Trincomalee Oil Tank Farm with India",
+  "source": "The Financial Express",
+  "published_utc": "2022-01-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil lets contract for Barauni refinery expansion",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2022-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka signs deal to lease oil tanks to Indian Oil amid financial crisis",
+  "source": "Reuters",
+  "published_utc": "2022-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka, India ink deal to jointly redevelop strategic Trincomalee Oil Tank Complex",
+  "source": "Livemint",
+  "published_utc": "2022-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka enters strategic oil deal with India",
+  "source": "Seychelles News Agency",
+  "published_utc": "2022-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India inks deal with Sri Lanka to develop Trincomalee oil tank farm",
+  "source": "The Hindu",
+  "published_utc": "2022-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India-Sri Lanka Overcome Barriers, Sign Free Agreement on Oil Tanks",
+  "source": "The Citizen - Independent Journalism | Indian News | The Citizen",
+  "published_utc": "2022-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka, India Inks Deal to Redevelop Strategic Trincomalee Oil Tank Complex",
+  "source": "AffairsCloud",
+  "published_utc": "2022-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka Signs Deal With India To Develop Trincomalee Oil Farm",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2022-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka looking at USD 500 million fuel credit line from India",
+  "source": "ET Auto",
+  "published_utc": "2022-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka\u2019s Indo-phobia and Gammanpila\u2019s U-turn - A closer look at the Trinco oil deal",
+  "source": "Tamil Guardian",
+  "published_utc": "2022-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, Diesel prices today: Fuel rates static on January 10| Check rates here",
+  "source": "India Today",
+  "published_utc": "2022-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC introduces safe and lightweight LPG cylinders in Kerala",
+  "source": "Mathrubhumi English",
+  "published_utc": "2022-01-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vedanta Puts $12 Billion Price Tag on Indian Oil Refiner",
+  "source": "Bloomberg.com",
+  "published_utc": "2022-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest $944 mln on gas sales network in nine new areas",
+  "source": "Reuters",
+  "published_utc": "2022-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest Rs 7,000 crore in city gas distribution projects",
+  "source": "OrissaPOST",
+  "published_utc": "2022-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil India exits US shale venture, sells 20 pc stake for $25 million",
+  "source": "The Times of India",
+  "published_utc": "2022-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New oil tank company offers storage facilities for Singapore and West Asia",
+  "source": "The Sunday Times, Sri Lanka",
+  "published_utc": "2022-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil India exits US shale business",
+  "source": "Natural Gas World",
+  "published_utc": "2022-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 Oil and Gas Companies in India",
+  "source": "Construction World",
+  "published_utc": "2022-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC pilots tatkal cylinder delivery services in Hyd",
+  "source": "The Times of India",
+  "published_utc": "2022-01-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp buys close to 5% stake in Indian Gas Exchange",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IEX divests 4.93% equity stake in arm IGX to Indian Oil",
+  "source": "Livemint",
+  "published_utc": "2022-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OPEC's share of Indian oil imports falls to lowest in at least 15 yrs",
+  "source": "Reuters",
+  "published_utc": "2022-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "More districts in Tamil Nadu to get city gas distribution networks soon",
+  "source": "The Hindu",
+  "published_utc": "2022-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now get LPG cylinder within 2 hours, Hyderabad selected for pilot project",
+  "source": "The Siasat Daily",
+  "published_utc": "2022-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2022: Notification released for 570 Apprenticeship posts for Western Region, apply on iocl.com",
+  "source": "Times Now",
+  "published_utc": "2022-01-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation\u2019s XP100 fuel bags New Product of the Year award in the first Asian Oil and Gas Awards",
+  "source": "Asian Power",
+  "published_utc": "2022-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL to spend Rs 10,000 cr on developing 6 GAs secured under 11th CGD bid round",
+  "source": "PSU Watch",
+  "published_utc": "2022-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharatna oil PSU Bharat Petroleum to invest Rs 10,000 cr in setting up new city gas distribution networks",
+  "source": "ET Government",
+  "published_utc": "2022-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bring natural gas under GST to realise PM's vision of gas-based economy: Industry",
+  "source": "ET Auto",
+  "published_utc": "2022-01-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL to invest Rs 10K cr in GCDs",
+  "source": "Construction Week India",
+  "published_utc": "2022-01-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Total wins licences to build gas sales network in 14 Indian cities",
+  "source": "ET Auto",
+  "published_utc": "2022-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can Guyana help ease India\u2019s oil supply woes?",
+  "source": "Stabroek News",
+  "published_utc": "2022-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil industry: Rise of domestic players",
+  "source": "MillenniumPost",
+  "published_utc": "2022-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL launches 10kg LPG cylinder",
+  "source": "The Sangai Express",
+  "published_utc": "2022-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Total Gas Ltd to invest Rs 20,000 cr in setting up city gas infra",
+  "source": "Business Standard",
+  "published_utc": "2022-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,686 @@
+[
+ {
+  "title": "HDFC Bank to set up 2000 branches a year",
+  "source": "Telegraph India",
+  "published_utc": "2022-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is HDFC\u2019s merger with its subsidiary a bailout plan?",
+  "source": "The Morning Context",
+  "published_utc": "2022-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, Kotak push investment platforms. Should you choose HDFC Money or Kotak Cherry?",
+  "source": "Livemint",
+  "published_utc": "2022-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LXME appoints Jasmin B Gupta as Co-Founder and CEO",
+  "source": "ETHRWorld.com",
+  "published_utc": "2022-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bhasin Ke Hasin Share: Why Sanjiv Bhasin is bullish on Wipro and HDFC Bank?",
+  "source": "Zee Business",
+  "published_utc": "2022-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TATA, Infosys, SBI, Reliance and HDFC are among the top ten most valuable Indian brands in 2022",
+  "source": "Frontier India",
+  "published_utc": "2022-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank adds 26 gold loan desks to its Maharashtra network",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank leases 2.5 lakh sq ft office space in Mindspace REIT\u2019s business park",
+  "source": "The Economic Times",
+  "published_utc": "2022-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reserve Bank of India penalises Punjab & Sind Bank over non-compliance",
+  "source": "Business Standard",
+  "published_utc": "2022-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Leases Office Space in Mindspace REIT Business Park",
+  "source": "Realty Plus Magazine",
+  "published_utc": "2022-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Chairman earned Rs34.42 lakh last fiscal, significantly lower than the salaries of most CEOs of private ba",
+  "source": "CNBC TV18",
+  "published_utc": "2022-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI had questions about home loan agreement between HDFC and HDFC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2022-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank raises MCLR rates by 35 bps across tenors; details here",
+  "source": "Business Today",
+  "published_utc": "2022-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Parivartan launches national ad campaign on ESG",
+  "source": "Adgully.com",
+  "published_utc": "2022-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deepak Parekh to shareholders: Time right for HDFC to find new home. Full text here",
+  "source": "Livemint",
+  "published_utc": "2022-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Daily Roundup|India records 3,714 fresh COVID cases; Adani Group to set up hyper-scale data centre",
+  "source": "Knocksense",
+  "published_utc": "2022-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s Mantra: Listen, Adapt, Grow",
+  "source": "Fortune India",
+  "published_utc": "2022-06-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet India\u2019s top SIP distributors",
+  "source": "Cafemutual",
+  "published_utc": "2022-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank hikes MCLR by 5 bps: How does it compare with other leading banks?",
+  "source": "Livemint",
+  "published_utc": "2022-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI hikes limit on auto-debits from debit, credit cards sans OTP to Rs 15,000",
+  "source": "The Economic Times",
+  "published_utc": "2022-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chris Wood rejigs India equity exposure; replaces HDFC with HDFC Bank",
+  "source": "Business Standard",
+  "published_utc": "2022-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HC to CBI: Defreeze accounts of Satyam Raju\u00e2\u20ac\u2122s mother",
+  "source": "Deccan Chronicle",
+  "published_utc": "2022-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC hikes home loan interest rates by 90 bps in one month: How much your EMI will increase",
+  "source": "The Economic Times",
+  "published_utc": "2022-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone 13 price drops on Amazon and Flipkart. Check the offers here",
+  "source": "Livemint",
+  "published_utc": "2022-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank shares an important alert regarding PAN card update: Check what\u2019s that",
+  "source": "Livemint",
+  "published_utc": "2022-06-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank alerts customers against PAN card frauds: Details here",
+  "source": "Zee News",
+  "published_utc": "2022-06-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s highest-paid bankers: How SBI boss Khara\u2019s salary compares with HDFC\u2019s Mistry and others",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-06-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why HDFC AMC Share Price is Falling",
+  "source": "Equitymaster",
+  "published_utc": "2022-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI imposes monetary penalty on Urban Co-operative Bank, Budaun",
+  "source": "The Economic Times",
+  "published_utc": "2022-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hybrid Funds which protected the most downside",
+  "source": "Morningstar India",
+  "published_utc": "2022-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Issues Warning For Customers: DON'T Click on Unknown Links... Deets Inside",
+  "source": "India.com",
+  "published_utc": "2022-06-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Online shopping, travel, dining: Best credit cards for millennials",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shiprocket to acquire majority stake in Pickrr for $200 mn: Joint statement",
+  "source": "Business Standard",
+  "published_utc": "2022-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC in final stage of selling 4 large, stressed accounts before the merger",
+  "source": "Business Standard",
+  "published_utc": "2022-06-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes FD interest rates twice in a week. Check rates here",
+  "source": "Livemint",
+  "published_utc": "2022-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Four Indian Companies Join Apple, Google & Amazon as World\u2019s Top 100 Brands",
+  "source": "AffairsCloud.com",
+  "published_utc": "2022-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises recurring deposit interest rates: Check latest RD rates",
+  "source": "The Economic Times",
+  "published_utc": "2022-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes FD interest rates for the second time this week",
+  "source": "The Economic Times",
+  "published_utc": "2022-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Burgundy Private Hurun India 500-SR: RIL becomes India\u2019s most valuable company followed by TCS & HDFC Bank",
+  "source": "AffairsCloud",
+  "published_utc": "2022-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung introduces 24-month EMI offers for flagship smartphones",
+  "source": "The Times of India",
+  "published_utc": "2022-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank hikes interest rates on fixed deposits of 1 to 5 years: Check details",
+  "source": "Livemint",
+  "published_utc": "2022-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India needs another 10 Bajaj Finances, 10 HDFC Banks to realise its potential, says Sanjiv Bajaj",
+  "source": "The Economic Times",
+  "published_utc": "2022-06-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top paid CEOs FY22: Gap between salary of SBI chairman, Yes Bank chief massive. Check others",
+  "source": "Livemint",
+  "published_utc": "2022-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt declares ICICI, HDFC, NPCI's IT resources as critical information infra",
+  "source": "The Times of India",
+  "published_utc": "2022-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung announces 24-month No Cost EMI plans for S22-series, Z-series flagships",
+  "source": "The Indian Express",
+  "published_utc": "2022-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: What is \u2018critical information infrastructure\u2019, who protects it?",
+  "source": "The Indian Express",
+  "published_utc": "2022-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs ICICI Bank vs SBI: Check new FD interest rates here",
+  "source": "Fortune India",
+  "published_utc": "2022-06-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Burglars loot \u20b91 crore from bank in Jammu and Kashmir's Kathua",
+  "source": "The Hindu",
+  "published_utc": "2022-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC vs ICICI vs IndusInd vs RBL Vs Kotak vs Yes Bank: Check RD Rates",
+  "source": "Livemint",
+  "published_utc": "2022-06-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Limitation on sweep in accounts - What is sweep in FD facility: 4 things to know",
+  "source": "The Economic Times",
+  "published_utc": "2022-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking bullish billionaire Ishara expands footprint",
+  "source": "Daily FT",
+  "published_utc": "2022-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to add 1,500-2,000 branches every year for 5 years",
+  "source": "The Times of India",
+  "published_utc": "2022-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to open up to 2,000 branches in FY23, roll out new features every three weeks, says MD Sashidhar...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to double network in 3-5 yrs, to open up to 2,000 branches per year | Company Business News",
+  "source": "Livemint",
+  "published_utc": "2022-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to open 1,500-2,000 branches every year, says CEO Sashidhar Jagdishan",
+  "source": "The Economic Times",
+  "published_utc": "2022-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kathua Bank Heist: Police Solves Rs 1.65 Crore Bank Robbery Case",
+  "source": "Kashmir Observer",
+  "published_utc": "2022-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Are you a big spender using a credit card? Well, here are the best cards with milestone benefits",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to split payments, core",
+  "source": "The Indian Express",
+  "published_utc": "2022-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s HDFC Bank unveils plan to double branch network",
+  "source": "Retail Banker International",
+  "published_utc": "2022-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank reports healthy balance sheet, showed resilience, says CEO",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to move out payments from core banking to cut downtime",
+  "source": "Fortune India",
+  "published_utc": "2022-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to open 1,500-2,000 branches every year till 2027",
+  "source": "Fortune India",
+  "published_utc": "2022-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, ICICI Bank involved in Indian blockchain trade finance pilot",
+  "source": "Ledger Insights",
+  "published_utc": "2022-06-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI gears up to fight merged HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2022-06-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Remittances from Russia get no love from banks",
+  "source": "The Times of India",
+  "published_utc": "2022-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank ups MCLR by 15-25 bps",
+  "source": "The Financial Express",
+  "published_utc": "2022-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI versus HDFC Bank: How will the battle of titans in Indian banking shape up?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-06-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What Is in a Name? How the Tamasha of Frivolous Loan Sanctions Leads to Nautanki of Recovery",
+  "source": "Moneylife",
+  "published_utc": "2022-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI taps top banks including HDFC, ICICI, SBI for blockchain-based trade financing project",
+  "source": "The Economic Times",
+  "published_utc": "2022-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed deposit rates: These banks hiked FD interest rates recently. Details here",
+  "source": "Livemint",
+  "published_utc": "2022-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda approves capital raising up to \u20b95,000 cr in FY23",
+  "source": "Livemint",
+  "published_utc": "2022-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy POCO F4 5G from HDFC or SBI card to avail these offers and discounts",
+  "source": "India TV News",
+  "published_utc": "2022-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank-backed Lentra acquires AI startup TheDataTeam for undisclosed sum",
+  "source": "Business Standard",
+  "published_utc": "2022-06-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC Bank, ICICI Bank acquire 9.54% stake each in Perfios Account Aggregation Services",
+  "source": "The Economic Times",
+  "published_utc": "2022-06-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card spends touch all-time high",
+  "source": "Livemint",
+  "published_utc": "2022-06-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pvt banks lead in the banking network growth",
+  "source": "mint",
+  "published_utc": "2022-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "title": "ITC Ltd. awards media & digital duties to IPG Mediabrands",
+  "source": "Exchange4Media",
+  "published_utc": "2022-06-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Egypt takes Indian wheat consignment Turkey rejected",
+  "source": "Livemint",
+  "published_utc": "2022-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "T.A.C Appoints Rahul Kaushik As VP E-Commerce",
+  "source": "Entrepreneur India",
+  "published_utc": "2022-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BARC Wk 21: Colgate Palmolive India enters the top 10 list and claims No. 4 spot in Top Advertisers Category",
+  "source": "MediaNews4U",
+  "published_utc": "2022-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "World Environment Day: \u2018Responsible Luxury\u2019 at the heart of the ITC One Colombo development",
+  "source": "Adaderana Biz English",
+  "published_utc": "2022-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC scales up its 360-degree interventions for a greener earth",
+  "source": "India Water Portal",
+  "published_utc": "2022-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC announces Sustainability 2.0 agenda",
+  "source": "Retail4growth",
+  "published_utc": "2022-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Great Indian wheat export mystery: Turkey didn\u2019t reject for quality, Israel bought it, ITC says",
+  "source": "ThePrint",
+  "published_utc": "2022-06-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC One Colombo development achieves key milestones towards 2023 completion",
+  "source": "Daily FT",
+  "published_utc": "2022-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s Puri gets 5.35% salary hike",
+  "source": "Livemint",
+  "published_utc": "2022-06-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC, Sun Pharma: 5 defensive stocks that may gain up to 25%. You own any?",
+  "source": "Business Standard",
+  "published_utc": "2022-06-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

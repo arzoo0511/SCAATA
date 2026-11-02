@@ -1,0 +1,92 @@
+[
+ {
+  "title": "UP GOVERNMENT SUSPENDS IAS NIDHI KESARWANI ON GRAFT CHARGES",
+  "source": "IndianMandarins",
+  "published_utc": "2022-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IRMS: Railway Board constitutes a nine-member committee to design a curriculum for probationers",
+  "source": "IndianMandarins",
+  "published_utc": "2022-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PESB names Rajan Kanwar for National Fertilizers\u2019 Director (Technical) post",
+  "source": "PSU Watch",
+  "published_utc": "2022-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UCO Bank announces financial results for the quarter, posts impressive profit",
+  "source": "The Statesman",
+  "published_utc": "2022-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MAJOR JOINT SECRETARY LEVEL RESHUFFLE INCLUDES 23 OFFICERS",
+  "source": "IndianMandarins",
+  "published_utc": "2022-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG reports 14% year-on-year rise in PAT at Rs 3,352 crore in FY 2021-22",
+  "source": "The Indian Express",
+  "published_utc": "2022-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PETRONET LNG LTD Option Chain: Live NIFTY/NSE Option Chain Price Chart",
+  "source": "ICICI Direct",
+  "published_utc": "2022-05-18T05:55:16+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SAIL Celebrates Fifty Years Of Incorporation With A Special Logo",
+  "source": "Indian PSU",
+  "published_utc": "2022-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "L&T Construction Awarded Another Contract For Chennai Metro Rail Project",
+  "source": "Indian PSU",
+  "published_utc": "2022-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DELHI A MAJOR RESHUFFLE OF IAS AND DANICS OFFICERS",
+  "source": "IndianMandarins",
+  "published_utc": "2022-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

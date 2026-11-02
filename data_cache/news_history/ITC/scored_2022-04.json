@@ -1,0 +1,137 @@
+[
+ {
+  "title": "BARC Week 12: Sprite takes a leap from 5th spot to 2nd spot in the Top Brands Category",
+  "source": "MediaNews4U",
+  "published_utc": "2022-04-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BARC Week 13: Glow & Lovely takes a steep leap from 10th spot to 4th spot in top brands category",
+  "source": "MediaNews4U",
+  "published_utc": "2022-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From Adani, Ambani to Ramdev and Dabur, top Hindu owned companies sell Halal Certified products",
+  "source": "Muslim Mirror",
+  "published_utc": "2022-04-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC sees exit of 1.5 lakh small investors in Q4 of FY22",
+  "source": "BusinessLine",
+  "published_utc": "2022-04-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Smokers light up sales of cigarette firms in March quarter",
+  "source": "The Economic Times",
+  "published_utc": "2022-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crypto taxation in the Finance Act, 2022: The Indian conundrum",
+  "source": "Lexology",
+  "published_utc": "2022-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rajarhat address for ITC green building, Uluberia to get group\u2019s 20th facility",
+  "source": "Telegraph India",
+  "published_utc": "2022-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC set to acquire 10% D2C mother and baby brand Mylo",
+  "source": "Livemint",
+  "published_utc": "2022-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to acquire 10 per cent stake in Blupin Technologies",
+  "source": "ANI News",
+  "published_utc": "2022-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC plans to broaden dairy products portfolio, tap Bengal's \u2018low' milk availability",
+  "source": "ET Retail",
+  "published_utc": "2022-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock analysis: Will ITC continue to outperform in 2022?",
+  "source": "Livemint",
+  "published_utc": "2022-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Retail to start artisan-only store format 'Swadesh'",
+  "source": "Business Standard",
+  "published_utc": "2022-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC resorts to partial price hikes on its dairy products in a move to limit pain on buyers",
+  "source": "ThePrint",
+  "published_utc": "2022-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BREAKAWAY : Space 1999",
+  "source": "YouTube",
+  "published_utc": "2022-04-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIM Udaipur awards MBA Degree to 392 students at its 10th Annual Convocation",
+  "source": "India Education Diary",
+  "published_utc": "2022-04-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

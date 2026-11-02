@@ -1,0 +1,101 @@
+[
+ {
+  "title": "ExxonMobil eyes more long-term gas supply deals with India",
+  "source": "ET Auto",
+  "published_utc": "2022-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "R.K. Jha Is New ED And Head Of Barauni Refineries Of IOCL",
+  "source": "Indian PSU",
+  "published_utc": "2022-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 things to know before the market opens today",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG outlines $5.3 bn investment plan as it prepares for Indian and overseas expansion",
+  "source": "Upstream Online",
+  "published_utc": "2022-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet to invest Rs 40K cr over next four to five years",
+  "source": "MillenniumPost",
+  "published_utc": "2022-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet Lng To Infuse Rs 40000 - PT Pulse",
+  "source": "Projects Today",
+  "published_utc": "2022-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL To Connect Srinagar To Gas Grid; Mumbai To Nagpur Line By May 2023",
+  "source": "Goodreturns",
+  "published_utc": "2022-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SIDBI Joins Hands With Government Of Bihar For Development Of MSME Ecosystem In State",
+  "source": "Indian PSU",
+  "published_utc": "2022-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 6 Midcap Stocks with High Dividend Yields",
+  "source": "Equitymaster",
+  "published_utc": "2022-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC ruling, Min\u2019s assurance & unmoved DoPT: Over 1500 CSS officers assembled at North Block seeking justice",
+  "source": "IndianMandarins",
+  "published_utc": "2022-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's oil import bill to top $100 bn in current fiscal",
+  "source": "ET Auto",
+  "published_utc": "2022-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

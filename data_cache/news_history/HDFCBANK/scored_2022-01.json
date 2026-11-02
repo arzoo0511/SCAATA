@@ -1,0 +1,569 @@
+[
+ {
+  "title": "ATM cash withdrawal rules to change from 1 January 2022: Free withdrawal limit, new charges here",
+  "source": "Livemint",
+  "published_utc": "2022-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New ATM Cash Withdrawal Rules To Change From Today: 5 Things Customers Must Know",
+  "source": "India.com",
+  "published_utc": "2022-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A muddled start for HDFC Bank\u2019s Sashidhar Jagdishan",
+  "source": "The Morning Context",
+  "published_utc": "2022-01-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Inks MoU To Launch \u201cMera Agra\u201d App",
+  "source": "Global Brands Magazine",
+  "published_utc": "2022-01-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank rolling out credit card limit enhancements on most cards. Check your account",
+  "source": "Live From A Lounge",
+  "published_utc": "2022-01-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "No easy money: Less than 1% active traders beat bank FDs",
+  "source": "The Economic Times",
+  "published_utc": "2022-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs PNB vs HDFC Bank vs Kotak Mahindra Bank: Charges for doorstep banking",
+  "source": "The Economic Times",
+  "published_utc": "2022-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank deposits up 14%, loans 16% in 2021",
+  "source": "The Times of India",
+  "published_utc": "2022-01-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank facilitates payment of customs duty online",
+  "source": "Livemint",
+  "published_utc": "2022-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lending revival: Banks report double-digit growth in loan advances in Q3",
+  "source": "Economic Times BFSI",
+  "published_utc": "2022-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs ICICI Bank: Which Bank Stock is Better?",
+  "source": "Equitymaster",
+  "published_utc": "2022-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What ails HDFC Bank?",
+  "source": "Finshots",
+  "published_utc": "2022-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises fee for InstaAlert service. Details here",
+  "source": "Livemint",
+  "published_utc": "2022-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises charges for Insta Alerts service; check out details",
+  "source": "Business Today",
+  "published_utc": "2022-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises fee on one of its most used services with effect from Jan 1",
+  "source": "The Economic Times",
+  "published_utc": "2022-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank starts online customs duty payment facility for customers",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank FD alert! Interest rates on non-withdrawable Fixed Deposit revised \u2013Check out this chart",
+  "source": "Zee News",
+  "published_utc": "2022-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Outlook for the Week (Jan 10,2022 \u2013 Jan 14,2022)",
+  "source": "Equitypandit",
+  "published_utc": "2022-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy S21 FE 5G now launched in India: Read on to know more",
+  "source": "Smartprix",
+  "published_utc": "2022-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The INSIDER STORY Of RBL Bank",
+  "source": "LinkedIn",
+  "published_utc": "2022-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Federal Bank to divest its stake in Fedfina",
+  "source": "The Economic Times",
+  "published_utc": "2022-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Doorstep Banking Services: Here\u2019s What SBI, HDFC Bank, PNB Charge Customers",
+  "source": "ABP Live English",
+  "published_utc": "2022-01-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank adjudged Best Private Bank in India at the Global Private Banking Awards 2021",
+  "source": "Business Standard",
+  "published_utc": "2022-01-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra, HDFC Bank logged m-cap declines in 4th quarter; ICICI Bank among top gainers in Asia Pacific: S&P Research",
+  "source": "Zee Business",
+  "published_utc": "2022-01-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card late fee: What HDFC Bank, SBI Card, ICICI Bank and Axis Bank charge",
+  "source": "Livemint",
+  "published_utc": "2022-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Late payment fees for missing credit card payment of ICICI, HDFC, SBI, Axis, Amex, Citibank",
+  "source": "The Economic Times",
+  "published_utc": "2022-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 50 crore global credit card scam busted in Hyderabad",
+  "source": "The News Minute",
+  "published_utc": "2022-01-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank credit grows 9.16%, deposits up 10.28%",
+  "source": "The Economic Times",
+  "published_utc": "2022-01-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank net profit rises 18% to Rs 10,342 crore in Q3",
+  "source": "The Times of India",
+  "published_utc": "2022-01-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes FD interest rates by 5-10 bps for these tenures: Check details",
+  "source": "The Economic Times",
+  "published_utc": "2022-01-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q3 net profit rises by 18 percent",
+  "source": "Nepalnews.com",
+  "published_utc": "2022-01-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BNP Paribas seeks new offshore center as bank drives down costs",
+  "source": "Livemint",
+  "published_utc": "2022-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI hikes fixed deposit (FD) rates. How they compare with HDFC Bank, Kotak Mahindra Bank",
+  "source": "mint",
+  "published_utc": "2022-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Monday's top brokerage calls: HCL Tech, HDFC Bank and L&T",
+  "source": "CNBC TV18",
+  "published_utc": "2022-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Net Profit jumps 18% YoY to Rs. 10,342 Cr. | Is HDFC Bank the Consistent Compounder Stock?",
+  "source": "Invest Yadnya",
+  "published_utc": "2022-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank disappoints on margins, fee income growth -analysts",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is it time for higher interest on bank FDs soon?",
+  "source": "Fortune India",
+  "published_utc": "2022-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank best performer in banking",
+  "source": "OrissaPOST",
+  "published_utc": "2022-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Post Payments Bank customer base crosses 5-crore mark",
+  "source": "The Economic Times",
+  "published_utc": "2022-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Just Dial's consolidated net profit declines by 61.2% in Oct-Dec",
+  "source": "Business Standard",
+  "published_utc": "2022-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank reported its Q3 earnings",
+  "source": "TechStory",
+  "published_utc": "2022-01-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank revises FD interest rates on select tenors: Check latest fixed deposit rates",
+  "source": "The Economic Times",
+  "published_utc": "2022-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs Kotak Mahindra Bank: Which Stock is Better?",
+  "source": "Equitymaster",
+  "published_utc": "2022-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's HDFC Capital raises $1.8 billion from ADIA, others for low-cost housing",
+  "source": "Reuters",
+  "published_utc": "2022-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Capital raises nearly $1.8 bn fund for affordable housing financing",
+  "source": "Business Standard",
+  "published_utc": "2022-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ICICI Bank shares rise as earnings beat expectations",
+  "source": "Reuters",
+  "published_utc": "2022-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After HDFC and Axis, ICICI Bank hikes fixed deposit interest rates: Check latest FD rates",
+  "source": "Zee News",
+  "published_utc": "2022-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI hikes short-term FD interest rate: Check details here",
+  "source": "The Economic Times",
+  "published_utc": "2022-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyderabad: ED arrests Karvy chairman and managing director in fraud case, seeks custody",
+  "source": "The Times of India",
+  "published_utc": "2022-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018UNITY Intact, Centrum is The PROMOTER of The Bank\u2019: Jaspal Bindra",
+  "source": "LinkedIn",
+  "published_utc": "2022-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YES BANK appoints Lavesh Sardana as Country Head for its Retail Assets and Debt Management Operations",
+  "source": "ETHRWorld.com",
+  "published_utc": "2022-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED arrests Karvy stock broking CMD Parthasarathy, CFO Hari in swindling of more than Rs.2874 crores of investors",
+  "source": "PGurus",
+  "published_utc": "2022-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karvy Group Chairman and CFO arrested by ED in alleged Rs 2000 cr scam",
+  "source": "The News Minute",
+  "published_utc": "2022-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata group lone Indian brand in top 100: Brand Finance Global 500 report",
+  "source": "Business Standard",
+  "published_utc": "2022-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DCB Bank Introduces Innovative Schemes For Farmers and Small Traders",
+  "source": "Krishi Jagran",
+  "published_utc": "2022-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BofA (BAC) Names 105 Managing Directors in Corporate, Investment-Banking Unit",
+  "source": "Bloomberg.com",
+  "published_utc": "2022-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tatas pick SBI, two other banks to finance Air India's old debt",
+  "source": "The Economic Times",
+  "published_utc": "2022-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Post Payments Bank cuts interest rates on savings accounts",
+  "source": "CNBC TV18",
+  "published_utc": "2022-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How equity mutual funds fared in the market fall that started in October last year",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy IDFC First Bank, target price Rs 65: ICICI Direct",
+  "source": "The Economic Times",
+  "published_utc": "2022-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Udupi: HDFC Bank's new branch inaugurated at Hebri",
+  "source": "Daijiworld",
+  "published_utc": "2022-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Additional Solicitor General R.S. Suri passes away, CJI condoles",
+  "source": "DARPAN Magazine",
+  "published_utc": "2022-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Business Advisory Committee meeting to be held in Rajya Sabha tomorrow",
+  "source": "Livemint",
+  "published_utc": "2022-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

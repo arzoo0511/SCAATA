@@ -1,0 +1,416 @@
+[
+ {
+  "title": "Indian Oil Corp rolls out methanol-blended petrol on pilot basis in Assam",
+  "source": "Livemint",
+  "published_utc": "2022-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC rolls out methanol-blended petrol on pilot basis",
+  "source": "The Economic Times",
+  "published_utc": "2022-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Commercial LPG cylinder price raised, to now cost Rs 2,355.50",
+  "source": "The Indian Express",
+  "published_utc": "2022-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation rolls out methanol-blended petrol M15 on pilot basis",
+  "source": "Zee Business",
+  "published_utc": "2022-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Initiates India\u2019s Largest Carbon Capture Project",
+  "source": "Carbon Herald",
+  "published_utc": "2022-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Man Industries shares rally 4% after co receives Rs 800 cr order from Indian Oil",
+  "source": "The Economic Times",
+  "published_utc": "2022-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s neutrality on Ukraine tops agenda as Modi heads to Europe",
+  "source": "France 24",
+  "published_utc": "2022-05-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crime branch launches probe after porn clip aired on Union Minister Rameswar Teli's event",
+  "source": "The Assam Tribune",
+  "published_utc": "2022-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia's Rosneft ramps up oil sales to Indian Oil in May",
+  "source": "Reuters",
+  "published_utc": "2022-05-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karimnagar: Indian Oil Corporation releases newly developed composite LPG cylinders",
+  "source": "The Hans India",
+  "published_utc": "2022-05-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2022: Salary up to Rs 1,05,000; Apply For 19 Posts Till May 28| Details Inside",
+  "source": "India.com",
+  "published_utc": "2022-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fact check: IOCL's confirmation letter for INDANE GAS Agency is fake",
+  "source": "Oneindia",
+  "published_utc": "2022-05-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Issued Confirmation Letter Approving Application for Indane Gas Agency Dealership? PIB Fact Check",
+  "source": "LatestLY",
+  "published_utc": "2022-05-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Leading Oil PSUs come together to sign Tripartite-cum-Escrow Agreement for upcoming dedicated ethanol plants",
+  "source": "PIB",
+  "published_utc": "2022-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ethanol Blending: Indian Oil, HPCL And BPCL Sign Long-Term Purchase Agreement For Upcoming Dedicated Ethanol Plants",
+  "source": "Swarajya",
+  "published_utc": "2022-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Parivartan: Transforming lives through sport in prisons",
+  "source": "Frontline Magazine",
+  "published_utc": "2022-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indonesia\u2019s palm oil flip-flops give Malaysia edge in India",
+  "source": "Al Jazeera",
+  "published_utc": "2022-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil PSUs sign tripartite-cum-escrow agreement for upcoming dedicated ethanol plants",
+  "source": "Projects Today",
+  "published_utc": "2022-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, BPCL, HPCL sign purchase agreement for upcoming dedicated ethanol plants",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-05-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil PSUs sign agreement for upcoming\u00a0 ethanol plants",
+  "source": "Autocar Professional",
+  "published_utc": "2022-05-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Leading Oil PSUs Sign a Tripartite-Cum-Escrow Agreement for Upcoming Dedicated Ethanol Plants",
+  "source": "Krishi Jagran",
+  "published_utc": "2022-05-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil felicitates families of Kargil War Heroes",
+  "source": "Garhwal Post",
+  "published_utc": "2022-05-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance top-ranked Indian firm on Forbes Global 2000 list",
+  "source": "Rediff",
+  "published_utc": "2022-05-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel Prices on May 16: Check out petrol, diesel rates in Mumbai, Delhi and other cities",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Q4 net profit drops 31%; board recommends dividend, bonus shares",
+  "source": "Fortune India",
+  "published_utc": "2022-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "V C Asokan assumes office as head of Indian Oil in Tamil Nadu and Puducherry",
+  "source": "The Times of India",
+  "published_utc": "2022-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia jumps to fourth position as oil supplier to India, tanker data shows",
+  "source": "Reuters",
+  "published_utc": "2022-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC board approves 1:2 bonus share issue; Q4 profit falls 26.4% YoY",
+  "source": "The Economic Times",
+  "published_utc": "2022-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "INDIAN OIL CORPORATION LTD Option Chain: Live NIFTY/NSE Option Chain Price Chart",
+  "source": "ICICI Direct",
+  "published_utc": "2022-05-18T06:18:52+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC tanks 5% as some brokerage firms slash price aim post results",
+  "source": "CNBC TV18",
+  "published_utc": "2022-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From trainee to Indian Oil Director (HR): A learning walkthrough with Ranjan Kumar Mohapatra",
+  "source": "ETHRWorld.com",
+  "published_utc": "2022-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC bonus share to be paid in ratio of 1:2, Check record date here",
+  "source": "India TV News",
+  "published_utc": "2022-05-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lucknow: Indian Oil introduces 5 kg 'Chhotu' door-to-door gas cylinder service",
+  "source": "The Times of India",
+  "published_utc": "2022-05-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel retailing has become unsustainable for Pvt sector, Reliance tells govt",
+  "source": "PSU Watch",
+  "published_utc": "2022-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil prices at $110 per barrel pose 'bigger threats' than inflation, India's oil minister says",
+  "source": "Reuters",
+  "published_utc": "2022-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian April crude processing rises as cheap Russia oil boosts returns",
+  "source": "Reuters",
+  "published_utc": "2022-05-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "On petro business, policies have been utterly inconsistent for many years",
+  "source": "The Kathmandu Post",
+  "published_utc": "2022-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka hikes fuel prices; petrol at all-time high of Rs. 420, diesel Rs. 400 per litre",
+  "source": "The Hindu",
+  "published_utc": "2022-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil appoints new executive director for TN, Puducherry",
+  "source": "The New Indian Express",
+  "published_utc": "2022-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Praggnanandhaa joins the IOC family",
+  "source": "The Hindu",
+  "published_utc": "2022-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Grand Master Praggnanandhaa joins the galaxy of IndianOil\u2019s Sport Stars",
+  "source": "PIB",
+  "published_utc": "2022-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol under-recovery at Rs 13, diesel Rs 24; Reliance-BP says operations unsustainable",
+  "source": "ET Auto",
+  "published_utc": "2022-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha: Oil spills into Paradip farmlands as pipeline bursts",
+  "source": "The Times of India",
+  "published_utc": "2022-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crude oil leak from IOCL pipeline triggers panic",
+  "source": "The New Indian Express",
+  "published_utc": "2022-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India oil cos' $125.5 mln dividend from oil assets stuck in Russia",
+  "source": "Reuters",
+  "published_utc": "2022-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol bunk owners observe \u2018No Purchase Day\u2019",
+  "source": "Star of Mysore",
+  "published_utc": "2022-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

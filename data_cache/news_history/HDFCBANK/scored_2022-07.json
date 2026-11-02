@@ -1,0 +1,722 @@
+[
+ {
+  "title": "HDFC Bank recovers some funds transferred in glitch",
+  "source": "Livemint",
+  "published_utc": "2022-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home Guards allowed to open accounts with HDFC Bank to get accidental insurance cover",
+  "source": "ThePrint",
+  "published_utc": "2022-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s banks navigate competitive landscape",
+  "source": "www.thebanker.com",
+  "published_utc": "2022-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank struggling to recover funds from customers it made millionaires accidentally",
+  "source": "The Economic Times",
+  "published_utc": "2022-07-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Import Duty On Gold Increased By 5% From Today, Will It Be Expensive To Buy Gold?",
+  "source": "Zee Business",
+  "published_utc": "2022-07-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why HDFC Bank Share Price is Falling",
+  "source": "Equitymaster",
+  "published_utc": "2022-07-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI gives green signal to HDFC, HDFC Bank merger proposal",
+  "source": "The Times of India",
+  "published_utc": "2022-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC and HDFC Bank merger proposal gets nod from bourses",
+  "source": "The Indian Express",
+  "published_utc": "2022-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC-HDFC Bank merger gets 'no objection' from RBI after BSE, NSE nod",
+  "source": "Business Today",
+  "published_utc": "2022-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Records 21.5% Loan Growth In Q1",
+  "source": "Inventiva",
+  "published_utc": "2022-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Are ONGC, HDFC Bank Worth Buying After Steep Correction? | Markets With Santo & CJ",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks To Watch Today: Bharat Forge, DMart, HDFC Bank, Hero MotoCorp, Hindustan Zinc, IDFC First Bank",
+  "source": "NDTV Profit",
+  "published_utc": "2022-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s deposits log yearly growth of 19.3% to Rs 16.05 lakh crore in June \u201922",
+  "source": "Business Today",
+  "published_utc": "2022-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Proposed HDFC-Bank merger receives stock exchanges' clearance",
+  "source": "Times of Oman",
+  "published_utc": "2022-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank loans rose 21.5% YoY in Q1 to Rs 13.95 trn, deposits up 19.3%",
+  "source": "Business Standard",
+  "published_utc": "2022-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC merger gets RBI nod, will up pvt banks\u2019 market share",
+  "source": "The Times of India",
+  "published_utc": "2022-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank reports tepid loan growth in Q1",
+  "source": "The Economic Times",
+  "published_utc": "2022-07-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC to Raise $750 M Offshore Debt to Lend For Affordable Housing",
+  "source": "Realty Plus Magazine",
+  "published_utc": "2022-07-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs ICICI vs HDFC vs BoB vs PNB vs Axis Bank: Check home loan rates",
+  "source": "Livemint",
+  "published_utc": "2022-07-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank - These banks offer good FD interest rates",
+  "source": "The Economic Times",
+  "published_utc": "2022-07-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Highest FD interest rates: SBI, HDFC Bank, ICICI Bank, POTD compared, check here",
+  "source": "Times Now",
+  "published_utc": "2022-07-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive: How an Indian cement maker bought Russian coal using yuan",
+  "source": "Reuters",
+  "published_utc": "2022-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC-HDFC Bank merger gets PFRDA approval",
+  "source": "Business Today",
+  "published_utc": "2022-07-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC vs ICICI vs IDFC vs Post Office vs RBL vs Yes Bank: Check RD rates",
+  "source": "Livemint",
+  "published_utc": "2022-07-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Post Office RD vs SBI Vs ICICI Bank Vs HDFC Bank: Highest recurring deposit interest rates",
+  "source": "The Economic Times",
+  "published_utc": "2022-07-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gurugram: 2 booked for fraudulently taking loans worth crores of rupees",
+  "source": "The Times of India",
+  "published_utc": "2022-07-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MoD gives approval to HDFC, ICICI, and Axis to offer finances for international purchases",
+  "source": "Adda247",
+  "published_utc": "2022-07-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PFRDA okays HDFC's constitution change ahead of merger with HDFC Bank; directs uninterrupted services to NPS..",
+  "source": "ETLegalWorld.com",
+  "published_utc": "2022-07-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loan interest rates: SBI, ICICI, HDFC, BoB, PNB, Axis Bank compared, check here",
+  "source": "Times Now",
+  "published_utc": "2022-07-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Post Office vs SBI vs HDFC vs ICICI vs IDFC vs Axis Bank: Check SB account rates",
+  "source": "Livemint",
+  "published_utc": "2022-07-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC Bank hike FCNR deposit rates. Details here",
+  "source": "Livemint",
+  "published_utc": "2022-07-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank partners with NIIT to train and hire data engineers",
+  "source": "ANI News",
+  "published_utc": "2022-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock Market Today: Sensex falls 372 points, Nifty slides below 16,000",
+  "source": "The Indian Express",
+  "published_utc": "2022-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's top three private banks grow firm's cash management share to 40%",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-07-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How will the rise in FCNR(B) rates affect bank financials?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-07-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Foreign Investors Are Turning Their Back On HDFC Bank",
+  "source": "Outlook Business",
+  "published_utc": "2022-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank net profit expected to rise 21.7% in Q1FY23",
+  "source": "CNBC TV18",
+  "published_utc": "2022-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest FCNR interest rates of SBI, HDFC Bank and ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2022-07-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How many free ATM transactions does your bank offer?",
+  "source": "The Economic Times",
+  "published_utc": "2022-07-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank net profit up almost a fifth",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q1 Results - Net Profit up 21.1% to Rs 9,616 crore",
+  "source": "Groww",
+  "published_utc": "2022-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q1 net profit jumps 21 pc to Rs 9,579 cr",
+  "source": "The Indian Express",
+  "published_utc": "2022-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC and HDFC Bank merger will facilitate higher credit growth in India: HDFC Bank chairman",
+  "source": "ANI News",
+  "published_utc": "2022-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Outlook for the Week (July 18, 2022 \u2013 July 22, 2022)",
+  "source": "Equitypandit",
+  "published_utc": "2022-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank-HDFC merger will aid credit growth in India",
+  "source": "The Economic Times",
+  "published_utc": "2022-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hindustan Unilever Limited now third most valuable FMCG Company in India",
+  "source": "SugerMint",
+  "published_utc": "2022-07-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's Q1 results: The good, the bad and the ugly",
+  "source": "CNBC TV18",
+  "published_utc": "2022-07-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Sri Lanka joins hands with JAT Holdings",
+  "source": "Daily FT",
+  "published_utc": "2022-07-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NRE FD interest rates: SBI Vs HDFC Bank Vs ICICI Bank Vs Yes Bank",
+  "source": "The Economic Times",
+  "published_utc": "2022-07-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PFMS Performance Review Meeting: Emphasis on timely data exchange by States with PFMS",
+  "source": "PIB",
+  "published_utc": "2022-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indusind Bank's board approves raising up to \u20b920,000 cr via debt fundraising",
+  "source": "Livemint",
+  "published_utc": "2022-07-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDB Financial Q1 FY23 Numbers: In-Depth Analysis",
+  "source": "UnlistedZone",
+  "published_utc": "2022-07-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What is the latest HDFC home loan interest rate",
+  "source": "The Economic Times",
+  "published_utc": "2022-07-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Criteria for charge at metro/ non-metro locations - ATM withdrawals: SBI vs HDFC Bank vs ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2022-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anumati - India's Fastest Growing Account Aggregator Network",
+  "source": "Business Standard",
+  "published_utc": "2022-07-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank Share Price Rallies 10% Post Good Quarterly Results",
+  "source": "Equitymaster",
+  "published_utc": "2022-07-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Citi expects revenue from India corporate business to grow 10% a year",
+  "source": "The Economic Times",
+  "published_utc": "2022-07-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo Reno 8 5G pre order starts today: All details",
+  "source": "The Times of India",
+  "published_utc": "2022-07-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prashant Jain quits as HDFC mutual fund CIO after 19 yrs, becoming India\u2019s first Rs 1 lakh crore fund manager",
+  "source": "The Financial Express",
+  "published_utc": "2022-07-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card on UPI: NPCI in talks with banks for pilot",
+  "source": "The Indian Express",
+  "published_utc": "2022-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Back to school, safe and sound",
+  "source": "Bangalore Mirror",
+  "published_utc": "2022-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prashant Jain, former CIO, HDFC Mutual Fund: The poster boy of fund management",
+  "source": "The Financial Express",
+  "published_utc": "2022-07-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to be among global top 10 after merger",
+  "source": "The Times of India",
+  "published_utc": "2022-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking Central | What does a bigger HDFC Bank mean for its closest rival?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Securities joins hands with Equitas Small Finance Bank to offer demat, trading services",
+  "source": "The Indian Express",
+  "published_utc": "2022-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Equitas Small Finance Bank: The\u2018HDFC Bank\u2019 in India\u2019s SFB Space",
+  "source": "Investing.com India",
+  "published_utc": "2022-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to be among world's top 10 most valuable banks after merger: Report",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-07-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPI Payment Fraud: Here are Safety Measures to Protect Your Money",
+  "source": "HDFC ERGO General Insurance",
+  "published_utc": "2022-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here\u2019s how Prashant Jain's HDFC MF schemes performed vs peers",
+  "source": "Fortune India",
+  "published_utc": "2022-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Enables OTP-Based ATM Withdrawal Service For Transactions Over Rs 10,000",
+  "source": "Mashable India",
+  "published_utc": "2022-07-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank may surpass HDFC Bank in premium valuations, narrow discount with Kotak Bank",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-07-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Allocation of LC, DBT business of Defence to private banks to bring in greater competition and efficiency: MoS Ajay Bhatt",
+  "source": "ET Government",
+  "published_utc": "2022-07-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Awards for Excellence 2022: Best bank in India \u2013 HDFC Bank",
+  "source": "Euromoney",
+  "published_utc": "2022-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Utkarsh Small Finance Bank hikes interest rates on fixed deposits: Details here",
+  "source": "Livemint",
+  "published_utc": "2022-07-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mint 20 list of best mutual fund schemes to invest in",
+  "source": "Livemint",
+  "published_utc": "2022-07-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How savings account interest rate is calculated",
+  "source": "The Economic Times",
+  "published_utc": "2022-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks battle talent attrition as new-age tech companies line up with attractive offers",
+  "source": "ETHRWorld.com",
+  "published_utc": "2022-07-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank: Know transaction charges, free withdrawal limit at various ATMs",
+  "source": "Livemint",
+  "published_utc": "2022-07-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private banks soft-pedal corp loans as PSBs up their game",
+  "source": "Livemint",
+  "published_utc": "2022-07-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Hikes Retail Prime Lending Rate From Tomorrow; Check How Much Your Housing Loans EMI Will Go Up",
+  "source": "India.com",
+  "published_utc": "2022-07-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "title": "Energy News Monitor | Volume XVIII, Issue 39",
+  "source": "orfonline.org",
+  "published_utc": "2022-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Power Research Institute Bags ISO/IEC 17065 Accreditation",
+  "source": "Indian PSU",
+  "published_utc": "2022-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hydrogen, fuel for the future",
+  "source": "Gateway House Indian Council on Global Relations",
+  "published_utc": "2022-04-07T10:06:56+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Next Principal Scientific Adviser (GoI): Tie between Sharma & Nayak, Dr Mande unlikely?",
+  "source": "IndianMandarins",
+  "published_utc": "2022-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shell to set up LNG stations, bullish on gas market in India",
+  "source": "The Times of India",
+  "published_utc": "2022-04-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet may look at building 4th LNG import terminal",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-04-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SIDBI Provides First Approval Of Rs.600 Crores To Government Of Maharashtra Under SIDBI Cluster Development Fund",
+  "source": "Indian PSU",
+  "published_utc": "2022-04-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda Launches Bob World Gold For Senior Citizens",
+  "source": "Indian PSU",
+  "published_utc": "2022-04-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

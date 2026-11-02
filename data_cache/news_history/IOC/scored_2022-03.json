@@ -1,0 +1,623 @@
+[
+ {
+  "title": "EXCLUSIVE India's BPCL seeks extra Gulf oil, fearing Russian supply hit - source",
+  "source": "Reuters",
+  "published_utc": "2022-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI stops handling transactions with sanctioned Russian entities: Report",
+  "source": "Livemint",
+  "published_utc": "2022-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Staggering\u2019 racism confirmed at Indigenous Services oil and gas agency",
+  "source": "APTN News",
+  "published_utc": "2022-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp to supply fuels to Sri Lanka in 4-5 month deal",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-03-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel price hikes may restart from next week: Report",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "#Fuelprice trends on Twitter; memes flood online after international oil price hike",
+  "source": "The Indian Express",
+  "published_utc": "2022-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why petrol, diesel prices need a \u20b915 hike",
+  "source": "Fortune India",
+  "published_utc": "2022-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia-Ukraine crisis: Indian economy to face turbulence in days to come, say experts",
+  "source": "India Today",
+  "published_utc": "2022-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil dedicated to strengthening ties with Sri Lanka",
+  "source": "Tamil Guardian",
+  "published_utc": "2022-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation v. Shree Ganesh Petroleum: An arbitral tribunal\u2019s powers to do justice are circumscribed by contract",
+  "source": "Cyril Amarchand Mangaldas",
+  "published_utc": "2022-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will Indian payment systems be able to deal with Russia-like sanctions?",
+  "source": "The Times of India",
+  "published_utc": "2022-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "INS Shivaji gets astroturf hockey field, hybrid training complex in Lonavala",
+  "source": "The Indian Express",
+  "published_utc": "2022-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Oil to add 9 more oil tanks at Mundra port",
+  "source": "Reuters",
+  "published_utc": "2022-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil, Adani Ports sign pact for crude oil capacity at Mundra Port",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to build more crude oil tanks at Adani's Mundra port",
+  "source": "Livemint",
+  "published_utc": "2022-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation employs nine women hockey players",
+  "source": "Telegraph India",
+  "published_utc": "2022-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Ports Indian Oil Inks Pact To Expand Crude Oil Tank - PT Pulse",
+  "source": "Projects Today",
+  "published_utc": "2022-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC signs pact with APSEZ to expand crude oil volumes at Mundra Port",
+  "source": "The New Indian Express",
+  "published_utc": "2022-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to construct 9 new oil tanks at Mundra port, augment pipeline capacity",
+  "source": "ET Infra",
+  "published_utc": "2022-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kapil Dev inaugurates DavaIndia\u2019s 1st company outlet at Indian Oil retail outlet in Delhi",
+  "source": "PSU Watch",
+  "published_utc": "2022-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The secret tournament of India - 31st Inter-unit PSPB poised for an exciting finish",
+  "source": "ChessBase India",
+  "published_utc": "2022-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia-Ukraine War: Not Just Petrol & Diesel, Cooking Oil Price May Shoot Up Too",
+  "source": "The Quint",
+  "published_utc": "2022-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil marketing companies meeting on crude oil begins, prices may increase in next 2 days",
+  "source": "Zee Business",
+  "published_utc": "2022-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's top refiner IOC buys 3 mln bbls Russian Urals crude via tender -sources",
+  "source": "Reuters",
+  "published_utc": "2022-03-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Biggest Indian Refiner Mulled Stake in Tullow Kenya Project",
+  "source": "Bloomberg.com",
+  "published_utc": "2022-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices on March 15: Check fuel rates in your city today",
+  "source": "The Indian Express",
+  "published_utc": "2022-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL to build new oil storage tanks with Adani at Mundra",
+  "source": "The Maritime Standard",
+  "published_utc": "2022-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors has been making Strides in Developing Hydrogen Fuel Cell Technology in India",
+  "source": "Tata Motors",
+  "published_utc": "2022-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil buys 30 lakh barrels of crude oil that Russia offered at steep discount",
+  "source": "Zee Business",
+  "published_utc": "2022-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Going Against The Trend, Reliance Industries To Avoid Purchasing Russian Oil Due To Western Sanctions On Moscow",
+  "source": "Swarajya",
+  "published_utc": "2022-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Buys 3 Million Barrels Of Russian Oil For Huge Discount",
+  "source": "Mashable India",
+  "published_utc": "2022-03-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India-Russia Oil Trade: Rupee-Ruble Trade on the Cards",
+  "source": "Global Data",
+  "published_utc": "2022-03-17T18:12:11+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After IOC, Hindustan Petroleum Buys 2 Million Barrels of Discounted Russian Crude Oil",
+  "source": "India.com",
+  "published_utc": "2022-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India buys Russian oil despite pressure for sanctions",
+  "source": "The Independent",
+  "published_utc": "2022-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India defends purchases of Russian oil",
+  "source": "ET Auto",
+  "published_utc": "2022-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India buys Russian oil despite pressure for sanctions, complicates Biden\u2019s efforts against Putin",
+  "source": "The New Indian Express",
+  "published_utc": "2022-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amid Western Sanctions, India Explores Rupee-Ruble Mechanism for Trade with Russia",
+  "source": "VOA - Voice of America English News",
+  "published_utc": "2022-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks To Watch: Adani Group Stocks, Indian Oil, RBL Bank, Reliance Industries, Sintex Plastics",
+  "source": "NDTV Profit",
+  "published_utc": "2022-03-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: How costlier bulk diesel will hit consumers",
+  "source": "The Indian Express",
+  "published_utc": "2022-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India-Russia Ties | It\u2019s time to go back to the rupee-ruble arrangement",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices today in Hyderabad, Delhi, Chennai, Mumbai - 21 March 2022",
+  "source": "The Hans India",
+  "published_utc": "2022-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation\u0101\u20ac\u2039 sets up shared service centre with IBM Consulting",
+  "source": "The New Indian Express",
+  "published_utc": "2022-03-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Limited establishes Shared Service Centre with IBM",
+  "source": "IBM",
+  "published_utc": "2022-03-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Targeting India for buying Russian oil smacks of hypocrisy",
+  "source": "DW.com",
+  "published_utc": "2022-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil R&D celebrates 50 years of Innovative Excellence",
+  "source": "PIB",
+  "published_utc": "2022-03-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to raise petrol, diesel prices after 4-month hiatus, say dealers",
+  "source": "Business Standard",
+  "published_utc": "2022-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Deal For Cheap Russian Oil Is Strategically Dubious And Morally Bankrupt",
+  "source": "Worldcrunch",
+  "published_utc": "2022-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices hiked after 137 days hiatus; LPG dearer by Rs 50 | Check new rates",
+  "source": "India TV News",
+  "published_utc": "2022-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil buys 3 mln barrels of Urals for May loading - trade sources",
+  "source": "Reuters",
+  "published_utc": "2022-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sanctions against Russia and its impact on Indian Economy",
+  "source": "Vivekananda International Foundation (VIF)",
+  "published_utc": "2022-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "China Is Quietly Taking Cheap Russian Crude as India Buys More",
+  "source": "Bloomberg.com",
+  "published_utc": "2022-03-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assam: Indian army, IOC and NGO signs MoU for centre of excellence -",
+  "source": "EastMojo",
+  "published_utc": "2022-03-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI registers two separate cases against IOCL\u2019s General Manager, Chief Manager and Sales Officer",
+  "source": "ThePrint",
+  "published_utc": "2022-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to build Rs.1459 crore butadiene rubber plant in Panipat",
+  "source": "Indian Chemical News",
+  "published_utc": "2022-03-25T13:20:38+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three Indian Oil officials booked by CBI in bribery case",
+  "source": "PGurus",
+  "published_utc": "2022-03-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI books 3 Indian Oil officials in bribery case",
+  "source": "India Today",
+  "published_utc": "2022-03-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC launches composite cylinder in Nagaon",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2022-03-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two Indian Oil officials arrested for corruption remanded to CBI custody",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-03-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FLEET CARD-FUEL ON MOVE AN INITIATIVE TO SPEED UP IAF CONVOY MOVEMENTS",
+  "source": "PIB",
+  "published_utc": "2022-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price hiked 30 paise, diesel up 35 paise; total increase now stands at Rs 4-4.10",
+  "source": "The Indian Express",
+  "published_utc": "2022-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol price and diesel hiked for sixth time in 7 days",
+  "source": "The Times of India",
+  "published_utc": "2022-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Quicker travel, better use of resources \u2014 why IAF\u2019s fuel \u2018fleet cards\u2019 are a win-win",
+  "source": "ThePrint",
+  "published_utc": "2022-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IAF unveils new initiative with IOC for refuelling its convoys",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: Why Nanar refinery project was stalled and why it may be revived",
+  "source": "The Indian Express",
+  "published_utc": "2022-03-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lanka IOC supplies 6,000 MT fuel to ease Sri Lanka\u2019s power shortage",
+  "source": "The Hindu",
+  "published_utc": "2022-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia Offers Discounts on Oil to India, One of Putin's Few Fuel Buyers",
+  "source": "Bloomberg.com",
+  "published_utc": "2022-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Niti Aayog recommends setting up SPV, inviting foreign expertise for oil, gas exploration",
+  "source": "PSU Watch",
+  "published_utc": "2022-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Britain respects India's decision to buy discounted oil from Russia",
+  "source": "Reuters",
+  "published_utc": "2022-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol and diesel prices on March 31: Check fuel rates in your city today",
+  "source": "The Indian Express",
+  "published_utc": "2022-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

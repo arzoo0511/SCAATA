@@ -1,0 +1,587 @@
+[
+ {
+  "title": "Madhabi Puri Buch has been appointed as the SEBI Chairperson.",
+  "source": "Business Outreach Magazine",
+  "published_utc": "2022-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How ICICI Bank Got Back its Halo",
+  "source": "Business Today",
+  "published_utc": "2022-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is Madhabi Puri Buch, the new SEBI chief?",
+  "source": "Business Standard",
+  "published_utc": "2022-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A quarter of companies are breaking away from bell-curve rating",
+  "source": "Livemint",
+  "published_utc": "2022-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government Offers 50% Subsidy and Quick Loans for Greenhouse Farming",
+  "source": "Krishi Jagran",
+  "published_utc": "2022-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New Sebi chief Madhabi Puri Buch thanks Tyagi for setting strong foundation",
+  "source": "Business Standard",
+  "published_utc": "2022-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iQoo 9, iQoo 9 Pro goes on sale in India: Price, specs, offers and more",
+  "source": "The Times of India",
+  "published_utc": "2022-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone 13 selling at \u20b957,900 along with offers on Macbooks, iPads. Check deals",
+  "source": "Livemint",
+  "published_utc": "2022-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Botagoz Abisheva elected as Deputy Chairman of the Management Board of DBK",
+  "source": "DKNews.kz",
+  "published_utc": "2022-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018A diverse workforce ensures you have the best talent\u2019",
+  "source": "The Kathmandu Post",
+  "published_utc": "2022-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Share of women bank employees barely crossed 1/4th of workforce in FY21, annual reports reveal",
+  "source": "Economic Times BFSI",
+  "published_utc": "2022-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card business update (January 2022): Ticket sizes lowest in 4 months as spends decline massively",
+  "source": "CNBC TV18",
+  "published_utc": "2022-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank partners with Amazon Pay to issue FASTag",
+  "source": "Elets BFSI",
+  "published_utc": "2022-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank partners with Amazon Pay to issue FASTag: How to buy and recharge using the card",
+  "source": "The Times of India",
+  "published_utc": "2022-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches 'Amazon Pay ICICI FASTag'; Here's how to avail benefits",
+  "source": "Business Today",
+  "published_utc": "2022-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018GIFT City'\u2014India\u2019s New Global Financial Services Hub Scales Up",
+  "source": "Bloomberg Tax",
+  "published_utc": "2022-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata-ICICI Venture JV wins bid for stressed UP power asset under bankruptcy process",
+  "source": "VCCircle",
+  "published_utc": "2022-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank partners with Amazon Pay for FASTag: Here\u2019s how to activate",
+  "source": "The Indian Express",
+  "published_utc": "2022-03-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Saket Courts | Wife, a banker, misusing her position to get details of in-laws' bank accounts to show husband evading payment of maintenance: Is wife guilty of criminal breach of trust? Court analyses",
+  "source": "SCC Online",
+  "published_utc": "2022-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme 9 5G, Realme 9 5G SE launched in India; price starts at Rs 14,999 - Check availability and specs",
+  "source": "Zee Business",
+  "published_utc": "2022-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIM-Vizag students get record stipend in summer placements",
+  "source": "The Times of India",
+  "published_utc": "2022-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPI123Pay: A step-by-step guide to make UPI payment on feature phones",
+  "source": "The Indian Express",
+  "published_utc": "2022-03-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI lifts all restrictions on HDFC Bank",
+  "source": "The Hindu",
+  "published_utc": "2022-03-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Punjab & Sind to pick up stakes in bad bank NARCL",
+  "source": "The Financial Express",
+  "published_utc": "2022-03-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At 642, Kotak Mahindra Bank hit by highest number of bank frauds of Rs 1 lakh and more in Apr-Dec FY22",
+  "source": "The Economic Times",
+  "published_utc": "2022-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme 9 5G, Realme 9 5G SE sale in India starts today: Check price, offers, specs and more",
+  "source": "Zee Business",
+  "published_utc": "2022-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Deposit Investors Can Now Get Upto 7 Percent Interest, Heres How",
+  "source": "ABP Live English",
+  "published_utc": "2022-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI permits HDFC Bank for new digital launches",
+  "source": "ET BrandEquity",
+  "published_utc": "2022-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches co-branded credit cards with Emirates Skywards: Here\u2019s what you need to know",
+  "source": "The Indian Express",
+  "published_utc": "2022-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Emirates Skywards and ICICI Bank announce co-branded credit card in India",
+  "source": "IBS Intelligence",
+  "published_utc": "2022-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches co-branded credit cards with Emirates Skywards",
+  "source": "Livemint",
+  "published_utc": "2022-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Emirates Skywards and ICICI Bank announce new co-branded card partnership in India",
+  "source": "Live From A Lounge",
+  "published_utc": "2022-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Some HDFC Bank users face technical issue days after RBI lifts ban",
+  "source": "Livemint",
+  "published_utc": "2022-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Day trading guide for Tuesday: Stocks to buy today - 15th March",
+  "source": "Livemint",
+  "published_utc": "2022-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Venture set to raise $350-400 mn for fifth PE fund, mulls separate early-stage fund",
+  "source": "VCCircle",
+  "published_utc": "2022-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Uptime Institute certifies ICICI Bank\u2019s Jaipur Data Centre facility with Tier III Certification",
+  "source": "W.Media",
+  "published_utc": "2022-03-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Turnaround czar: How Sandeep Bakhshi has transformed ICICI Bank",
+  "source": "Business Standard",
+  "published_utc": "2022-03-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY) | All you need to know",
+  "source": "Livemint",
+  "published_utc": "2022-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi chief Madhabi Puri Buch calls on FM Nirmala Sitharaman",
+  "source": "Business Standard",
+  "published_utc": "2022-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI's Sandeep Bakhshi: Business Standard's 'Banker of the Year'",
+  "source": "Business Standard",
+  "published_utc": "2022-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone SE 2022 goes on sale in India: Price, offers and more",
+  "source": "The Times of India",
+  "published_utc": "2022-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karvy ex-CEO Amitabh Chaturvedi weighs buyouts to make Purple a small finance bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Fab TV Fest: Up to 55% on Top selling Smart TVs",
+  "source": "FoneArena.com",
+  "published_utc": "2022-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Live NSE NIFTY Bank Option Chain Price Chart",
+  "source": "ICICI Direct",
+  "published_utc": "2022-03-23T00:20:49+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai Super Kings ICICI Bank Credit Card launched; CSK fans to get exclusive privileges",
+  "source": "The Times of India",
+  "published_utc": "2022-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank partners with Chennai Super Kings, launches co-branded credit card",
+  "source": "Livemint",
+  "published_utc": "2022-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank partners with Chennai Super Kings",
+  "source": "Adgully.com",
+  "published_utc": "2022-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank partners with Chennai Super Kings for co-branded credit card",
+  "source": "The Economic Times",
+  "published_utc": "2022-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital payments snapshot in charts: Cards in circulation top 1 billion in India",
+  "source": "The Times of India",
+  "published_utc": "2022-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Sandeep Bakhshi has quietly but firmly turned around ICICI Bank",
+  "source": "Forbes India",
+  "published_utc": "2022-03-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MG e-Pay online car finance platform launched",
+  "source": "Team-BHP",
+  "published_utc": "2022-03-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In much relief to IT employees, TSRTC starts mini AC buses from JNTU to WaveRock",
+  "source": "Telangana Today",
+  "published_utc": "2022-03-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MG Motor India launches online car finance platform e-Pay",
+  "source": "ET Auto",
+  "published_utc": "2022-03-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fintech startup Credilio raises $ 4 million",
+  "source": "The Times of India",
+  "published_utc": "2022-03-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank customers face glitches on ICICI net banking, mobile app",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Internet Banking, Mobile App Services Down, Users Fume on Twitter; Know More",
+  "source": "News18",
+  "published_utc": "2022-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior citizen special FD scheme: These banks to end this offer from 1st April",
+  "source": "Livemint",
+  "published_utc": "2022-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bharat Bandh: What SBI, other bank customers need to know about bank strike",
+  "source": "India Today",
+  "published_utc": "2022-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Housing Opportunities Fund Review: Should you invest?",
+  "source": "Capitalmind",
+  "published_utc": "2022-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to buy 10 lakh shares in open network e-commerce platform ONDC",
+  "source": "CNBC TV18",
+  "published_utc": "2022-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank to buy out Citi India's consumer banking business for $1.6 bln",
+  "source": "Forbes India",
+  "published_utc": "2022-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank extends special fixed deposit scheme for senior citizens",
+  "source": "mint",
+  "published_utc": "2022-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top bank frauds that grabbed headlines in FY22",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank to buy Citibank\u2019s India\u200a biz for \u20b912,325 cr",
+  "source": "Livemint",
+  "published_utc": "2022-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank share price jumps after multi-crore Citigroup deal | Check latest",
+  "source": "India Today",
+  "published_utc": "2022-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

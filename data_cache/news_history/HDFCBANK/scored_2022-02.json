@@ -1,0 +1,533 @@
+[
+ {
+  "title": "HDFC Bank rationalises bonus points on Infinia/ Regalia/ Diners Club and other credit cards effective February 1, 2022",
+  "source": "Live From A Lounge",
+  "published_utc": "2022-02-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card spends, growth remain strong in Dec 2021",
+  "source": "CNBC TV18",
+  "published_utc": "2022-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Miscreants riding on motorcycle snatch Rs 5 lakh from a man outside HDFC Bank in Silchar; FIR Lodged",
+  "source": "Barak Bulletin",
+  "published_utc": "2022-02-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "List of top 10 Finance Companies in India",
+  "source": "Jagranjosh.com",
+  "published_utc": "2022-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hema Jaiswal gets extension as Director in D/o Expenditure",
+  "source": "Legend Officers",
+  "published_utc": "2022-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How sick, disabled pensioners can withdraw pension from bank account",
+  "source": "The Economic Times",
+  "published_utc": "2022-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Savings Account Interest Rates Revised: Know here new interest rates",
+  "source": "KalingaTV",
+  "published_utc": "2022-02-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Most popular Flexi and Multi Cap Funds of 2021",
+  "source": "Morningstar India",
+  "published_utc": "2022-02-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How To Get Your CIF Number of HDFC Bank Through Net Banking?",
+  "source": "Goodreturns",
+  "published_utc": "2022-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda sees loan growth of 7-10 pc in FY22",
+  "source": "The Economic Times",
+  "published_utc": "2022-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ashneer Grover controversy won't impact PMC bank merger: RBI Sources",
+  "source": "CNBC TV18",
+  "published_utc": "2022-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arunachal Pradesh: Snowfall after 34 years in Daria Hill",
+  "source": "Livemint",
+  "published_utc": "2022-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Time ripe for 20 bps reverse repo rate hike to help find buyers for G-secs supply: SBI",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Time to invest in fixed deposit (FD)? Hike in interest rate possible, says SBI research report",
+  "source": "Livemint",
+  "published_utc": "2022-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Bank declares loan account of UIL Hong Kong Ltd as fraud",
+  "source": "The Economic Times",
+  "published_utc": "2022-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 Best Finance Companies In India",
+  "source": "Inventiva",
+  "published_utc": "2022-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cosmea Financial forms JV to enter mutual funds biz",
+  "source": "Livemint",
+  "published_utc": "2022-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shark Tank India's Namita Thapar reveals she invested \u20b910 cr on the show",
+  "source": "Livemint",
+  "published_utc": "2022-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 defence stocks to add to your watchlist",
+  "source": "Livemint",
+  "published_utc": "2022-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What is India Post Payments Bank's IVR number to report unauthorised transactions, block debit card?",
+  "source": "The Economic Times",
+  "published_utc": "2022-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HC grants bail to man accused of cheating bank",
+  "source": "The Hindu",
+  "published_utc": "2022-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KFintech acquires Hexagram to expand into fund accounting, reconciliation solutions",
+  "source": "Livemint",
+  "published_utc": "2022-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Experts recommend buy on this Rakesh Jhunjhunwala stock despite weak Q3 results",
+  "source": "Livemint",
+  "published_utc": "2022-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mughal Gardens to open for public from tomorrow. See booking, other details here",
+  "source": "Livemint",
+  "published_utc": "2022-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rajasthan govt relieves B R Manhardan for central deputation",
+  "source": "Legend Officers",
+  "published_utc": "2022-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Mobile and TV Savings Days sale goes live. Check the entire offer here",
+  "source": "Livemint",
+  "published_utc": "2022-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki Baleno: The flagbearer of premium hatchback cars",
+  "source": "The Financial Express",
+  "published_utc": "2022-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai local train update: Railways to carry mega block on these routes today. Details here",
+  "source": "Livemint",
+  "published_utc": "2022-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ready for bold moves",
+  "source": "OrissaPOST",
+  "published_utc": "2022-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Naukri.com\u2019s new feature lists over 93,000 remote",
+  "source": "People Matters - HR News",
+  "published_utc": "2022-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes bank launches \u2018YES BANK Agri Infinity\u2019 program. Who should apply?",
+  "source": "Livemint",
+  "published_utc": "2022-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra: DGP invites job applications for vacant ATS posts on Facebook",
+  "source": "Livemint",
+  "published_utc": "2022-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, ACC, Tata Steel: Over half of NSE 500 stocks slip below 200-DMA",
+  "source": "Business Standard",
+  "published_utc": "2022-02-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LKP Securities Collaborates With HDFC Bank to Launch 3-in-1 Account",
+  "source": "SMEStreet",
+  "published_utc": "2022-02-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Follow These Steps To Open Sukanya Samriddhi Yojana (SSY) Account With HDFC Bank",
+  "source": "Goodreturns",
+  "published_utc": "2022-02-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes fixed deposit interest rates by 5-10 bps; check rates here",
+  "source": "Business Today",
+  "published_utc": "2022-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC increase FD interest rates; check latest rates",
+  "source": "India Today",
+  "published_utc": "2022-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC hike interest rates for fixed deposits. Check latest figures here | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2022-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes FD interest rates of these tenures",
+  "source": "The Economic Times",
+  "published_utc": "2022-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank FD interest rate: Latest interest rates compared",
+  "source": "The Economic Times",
+  "published_utc": "2022-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs PNB vs HDFC Bank vs Yes Bank: Savings account interest rates you should know",
+  "source": "Livemint",
+  "published_utc": "2022-02-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SAT dismisses Sebi order against HDFC Bank in BRH Wealth Kreators case",
+  "source": "Livemint",
+  "published_utc": "2022-02-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three steps to protect people from cyber fraud attacks",
+  "source": "Livemint",
+  "published_utc": "2022-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anatomy of India's Biggest Bank Fraud",
+  "source": "LinkedIn",
+  "published_utc": "2022-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank finances Asia's largest waste to energy plant in Indore",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life emphasises on the need for adequate life insurance cover",
+  "source": "Adgully.com",
+  "published_utc": "2022-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy S22 series now available for pre-order in India \u2014 Check out the offers",
+  "source": "FoneArena.com",
+  "published_utc": "2022-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme 9 Pro Plus 5G to go on sale in India today: Price, specs, offers and more",
+  "source": "The Times of India",
+  "published_utc": "2022-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Mutual Fund's AUM sees Rs 2800 cr growth in January; SBI, Infosys, HDFC Bank among top 10 holdings\u2014Details here",
+  "source": "Zee Business",
+  "published_utc": "2022-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Special FD schemes for senior citizens: What SBI, HDFC Bank, ICICI Bank offer",
+  "source": "Livemint",
+  "published_utc": "2022-02-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After SBI, HDFC Bank, Other Banks Increase FD Rates: 5 Things Investors Should Keep In Mind",
+  "source": "Outlook Money",
+  "published_utc": "2022-02-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "List of all Public and Private Sector Banks in India 2022",
+  "source": "Jagranjosh.com",
+  "published_utc": "2022-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme 9 Pro 5G goes on sale in India- Price, specs, offers and more",
+  "source": "The Times of India",
+  "published_utc": "2022-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MMTC-PAMP aims at Rs 1,000-crore revenue from eastern region in 5 year",
+  "source": "Business Standard",
+  "published_utc": "2022-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Authorization of Private Sector Banks for disbursement of Railway Pension: ACS No. 54 to A-I: Railway Board Ordrer RBA NO. 14/2022",
+  "source": "8th Pay Commission - Staff News",
+  "published_utc": "2022-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Airtel Payments Bank vs IPPB vs Fino Payments Bank: Who pays higher rate of interest on savings account",
+  "source": "The Economic Times",
+  "published_utc": "2022-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Savings account interest rates you must know: SBI vs HDFC Bank Vs ICICI Bank vs IDFC First",
+  "source": "Livemint",
+  "published_utc": "2022-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Baroda hikes FD interest rates for these tenors",
+  "source": "The Economic Times",
+  "published_utc": "2022-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to invest in Sovereign Gold Bonds (SGB) through SBI online",
+  "source": "The Economic Times",
+  "published_utc": "2022-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
