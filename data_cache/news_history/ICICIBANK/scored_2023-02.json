@@ -1,0 +1,524 @@
+[
+ {
+  "title": "FMs & Budgets: Tracking economic growth under 10 Finance Ministers",
+  "source": "economictimes.com",
+  "published_utc": "2023-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Nifty50, Sensex, and Nifty Bank have performed on Budget day in past few years \u2014 A recap",
+  "source": "Zee Business",
+  "published_utc": "2023-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Retail, Innoviti Technologies, ICICI Bank & Kotak Mahindra Bank partner to enable acceptance of 'Digital Rupee - Retail'",
+  "source": "PR Newswire",
+  "published_utc": "2023-02-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Retail to now accept Digital Rupee, a first for Indian retailer",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-02-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Retail now accepts digital rupee payments",
+  "source": "Fortune India",
+  "published_utc": "2023-02-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Sensex is in the green but Nifty, Bank Nifty in red territory",
+  "source": "Livemint",
+  "published_utc": "2023-02-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo Reno 8T 5G with 108MP main camera, 67W fast charging support launched: Price, launch offers and more",
+  "source": "The Times of India",
+  "published_utc": "2023-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OPPO Reno8 T 5G - Price In India, Specifications, Features, Availability, Offers",
+  "source": "MobiGyaan",
+  "published_utc": "2023-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anil Singhvi strategy for February 3: Key market triggers, important levels to track in Nifty50, Nifty Bank",
+  "source": "Zee Business",
+  "published_utc": "2023-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, others back spacetech startup SatSure",
+  "source": "VCCircle",
+  "published_utc": "2023-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SatSure secures investment from leading banks ICICI, Kotak Mahindra, and HDFC, fueling growth",
+  "source": "CNBC TV18",
+  "published_utc": "2023-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lost Property Documents: NCDRC Raps ICICI Bank for Failing To Fix Accountability; Asks To Pay Rs5 Lakh Compensation",
+  "source": "Moneylife",
+  "published_utc": "2023-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buyer Liable To Pay EMI To Builder",
+  "source": "Rediff",
+  "published_utc": "2023-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Poco X5 Pro 5G phone debuts in India; price starts at \u20b922,999",
+  "source": "Livemint",
+  "published_utc": "2023-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Foundation signs MoU with Department of Environment and Forest",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2023-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Retail to Accept Digital Currency for Payments",
+  "source": "Adda247",
+  "published_utc": "2023-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Spacetech Startup SatSure Receives Strategic Investment From ICICI Bank, Others",
+  "source": "Inc42",
+  "published_utc": "2023-02-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In next 5 years, digital transition in the payment space will be revolutionary: Panel",
+  "source": "Exchange4Media",
+  "published_utc": "2023-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mahila Samman Savings Certificate scheme vs bank FDs with high interest rate: Where should you invest?",
+  "source": "Livemint",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI remains front-runner in debit cards market, HDFC tops credit card",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top bank FDs vs PPF, SCSS, Sukanya Samriddhi, other post office schemes: Which offers best interest rate",
+  "source": "The Economic Times",
+  "published_utc": "2023-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jefferies' Chris Wood tweaks India equity portfolio, to add investment in Bajaj Finance, trim in 2 insurance stocks",
+  "source": "Livemint",
+  "published_utc": "2023-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo Reno8 T first sale in India today: Check price, bank offers and other details",
+  "source": "The Times of India",
+  "published_utc": "2023-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u201cAI not a threat but an opportunity to enhance quality of legal practice\u201d: SC Judge Hima Kohli at 1st...",
+  "source": "LawBeat",
+  "published_utc": "2023-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s ICICI Bank wraps up its operations in SA",
+  "source": "Business Day",
+  "published_utc": "2023-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC, ICICI Bank: Check Bank Wise Savings Account Minimum Balance, ATM Withdrawal Charges",
+  "source": "India.com",
+  "published_utc": "2023-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Udupi: Over 12,000 athletes participate in fifth edition of \u2018Manipal Marathon\u2019",
+  "source": "Daijiworld",
+  "published_utc": "2023-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Investing in India\u2019s growing economy with business cycle funds",
+  "source": "Value Research",
+  "published_utc": "2023-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank vehicle loans post strong growth beyond festive season in Q3",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI X BNP Paribas",
+  "source": "Passionate In Marketing",
+  "published_utc": "2023-02-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian lender HDFC's biggest-ever bond issue to see strong demand - bankers",
+  "source": "Reuters",
+  "published_utc": "2023-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 Stocks Mutual Funds Bought and Sold in January 2023",
+  "source": "Equitymaster",
+  "published_utc": "2023-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Big private banks ramp up personal loans, posing challenges to smaller rivals",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Kotak Mahindra Bank sees steady home loan demand on robust market",
+  "source": "Reuters",
+  "published_utc": "2023-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why avoiding auto-renewal of bank fixed deposits could get you better return now",
+  "source": "The Economic Times",
+  "published_utc": "2023-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IMI Kolkata Placements 2023: Highest package at Rs 14 lakh; ICICI among top recruiters",
+  "source": "Careers360",
+  "published_utc": "2023-02-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC raises Rs 25K cr in rupee bond sale",
+  "source": "The New Indian Express",
+  "published_utc": "2023-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs BoB vs PNB vs BOI customers: How much will your home loan EMIs increase after repo rate hike",
+  "source": "Livemint",
+  "published_utc": "2023-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bahrain Business: ICICI Bank opens service centre in Dana Mall",
+  "source": "Gulf Daily News (Bahrain)",
+  "published_utc": "2023-02-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI bank, 2 more banks to facilitate money transfer through UPI-PayNow link",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-02-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rohan Bane Saves Tata vs ICICI As Singh Scores 50",
+  "source": "CricketGraph",
+  "published_utc": "2023-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Singapore, India users can now send and receive money instantly via PayNow, UPI",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2023-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus 11R pre-orders start: bank offers, India price, and everything else you need to know",
+  "source": "India Today",
+  "published_utc": "2023-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "S\u2019pore PayNow users can now instantly transfer funds to others in India",
+  "source": "The Straits Times",
+  "published_utc": "2023-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus 11R 5G available to pre-order in India from today: Check price, offers",
+  "source": "Livemint",
+  "published_utc": "2023-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ET Company of the Year: ICICI Bank - The agile giant turns to tech and disrupts Indian banking for the be",
+  "source": "The Economic Times",
+  "published_utc": "2023-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hassle-free payments available now: How foreign travellers visiting India can use UPI",
+  "source": "The Times of India",
+  "published_utc": "2023-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 20 Best Finance Company In India 2023",
+  "source": "Inventiva",
+  "published_utc": "2023-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "I enjoy ambiguity, uncertainty: Renuka Ramnath on how she guided Multiples",
+  "source": "YourStory.com",
+  "published_utc": "2023-02-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPI-PayNow explained: SBI, ICICI can be used for international transactions with fixed daily limit, how to use it",
+  "source": "DNA India",
+  "published_utc": "2023-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hikes bulk FD rates up to 7.15% effective from today",
+  "source": "Livemint",
+  "published_utc": "2023-02-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank cannot charge interest for delay in loan account closure, rules court",
+  "source": "The Times of India",
+  "published_utc": "2023-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank FD interest rates 2023: Earn up to 7.50% return on fixed deposits",
+  "source": "Zee Business",
+  "published_utc": "2023-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Life Insurance leverages advanced machine learning models for customers",
+  "source": "CNBC TV18",
+  "published_utc": "2023-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karnataka: Deputy manager siphons off over Rs 2 crore of bank funds for online rummy addiction",
+  "source": "G2G News",
+  "published_utc": "2023-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Closing Bell: Sensex, Nifty record 7 successive loss on Monday; Adani Enterprises top loser",
+  "source": "Zee Business",
+  "published_utc": "2023-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, ICICI Foundation donate advanced equipment to ICARE Eye Hospital to treat retinal diseases of rural patients",
+  "source": "Business Standard",
+  "published_utc": "2023-02-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus 11R 5G First Sale in India Today; Checkout Price, Bank Offers",
+  "source": "Gizmochina",
+  "published_utc": "2023-02-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

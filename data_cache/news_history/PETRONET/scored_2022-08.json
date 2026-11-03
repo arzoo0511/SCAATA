@@ -1,0 +1,110 @@
+[
+ {
+  "title": "Income Tax Department Conducts Searches In Gujarat",
+  "source": "Indian PSU",
+  "published_utc": "2022-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet Q1 net up 10%",
+  "source": "ET Auto",
+  "published_utc": "2022-08-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Income Tax Department Conducts Searches In Tamil Nadu",
+  "source": "Indian PSU",
+  "published_utc": "2022-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Great Eastern Shipping (NSEI:GESHIP) Stock Valuation, Peer Comparison & Price Targets",
+  "source": "Simply Wall Street",
+  "published_utc": "2022-08-11T04:20:36+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "R K TYAGI TAKES OVER AS DIRECTOR OPERATIONS POWERGRID",
+  "source": "IndianMandarins",
+  "published_utc": "2022-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG planning Capex of Rs. 1,200 Cr",
+  "source": "Indian Chemical News",
+  "published_utc": "2022-08-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ANOTHER SENIOR IAS OFFICER TAKES VRS",
+  "source": "IndianMandarins",
+  "published_utc": "2022-08-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 Indian companies which have consistently declared bonus shares",
+  "source": "Livemint",
+  "published_utc": "2022-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nishant Kanodia appointed Chairman of Matix Fertilisers & Chemicals",
+  "source": "IndianMandarins",
+  "published_utc": "2022-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC CMD: Govt to interview these candidates on Aug 27",
+  "source": "PSU Watch",
+  "published_utc": "2022-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Of Baroda Launches Bob World Yoddha Debit Card For India\u2019s Armed Forces",
+  "source": "Indian PSU",
+  "published_utc": "2022-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Bangladesh Is Important to India?",
+  "source": "The Geopolitics",
+  "published_utc": "2022-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

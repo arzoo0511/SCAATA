@@ -1,0 +1,209 @@
+[
+ {
+  "title": "Marico expands Saffola brand into ready-to-eat snacks",
+  "source": "Livemint",
+  "published_utc": "2023-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Brings Sachet Revolution To Cigarettes",
+  "source": "NDTV Profit",
+  "published_utc": "2023-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex, Nifty End Higher Led By Metal, I.T., Bank, Financial Stocks: Market Wrap",
+  "source": "NDTV Profit",
+  "published_utc": "2023-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to acquire 100% of Sproutlife Foods' 'Yoga Bar' over 3-4 years",
+  "source": "Livemint",
+  "published_utc": "2023-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to buy Yoga Bar maker",
+  "source": "VCCircle",
+  "published_utc": "2023-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to acquire Yoga Bar to expand presence in fast growing healthy foods space",
+  "source": "The Economic Times",
+  "published_utc": "2023-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to acquire 100 per cent stake in Sproutlife Foods in tranches",
+  "source": "BusinessLine",
+  "published_utc": "2023-01-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital India emerges top wealth-generation opportunity for Indian retail investors",
+  "source": "MorungExpress",
+  "published_utc": "2023-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Sunfeast Mom\u00e2\u20ac\u2122s Magic shares happiness hack with #HugHerMore campaign",
+  "source": "Adgully.com",
+  "published_utc": "2023-01-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sarvatra Group forays into hospitality business with premium resort near Ratanpur",
+  "source": "Free Press Journal",
+  "published_utc": "2023-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ltd.\u2019s MasterChef Creations celebrates Republic Daywith a one-of-a-kind plantable paper flag",
+  "source": "Hotelier India",
+  "published_utc": "2023-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ltd.\u2019s Master Chef Creations celebrates Republic Day with one-of-a-kind Plantable Paper Flag",
+  "source": "ThePrint",
+  "published_utc": "2023-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC shares rise 3% amid market crash; time to buy?",
+  "source": "Business Today",
+  "published_utc": "2023-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Crowne Plaza Kochi appoints John Mathulla as Director of Operations",
+  "source": "Hotelier India",
+  "published_utc": "2023-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JioMart\u200atests govt\u2019s e-commerce platform ONDC before going live",
+  "source": "Livemint",
+  "published_utc": "2023-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC sets up integrated food manufacturing & logistics facility in Telangana's Medak at Rs 450 crore inves",
+  "source": "The Times of India",
+  "published_utc": "2023-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC inaugurates Rs 450 crore food manufacturing, logistics facility in Telangana",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bajaj Finserv Q3 Profit Up 42% YoY: Indian Market Updates",
+  "source": "marketfeed",
+  "published_utc": "2023-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MRP Agro Ltd Share Price Today,, MRP Agro Ltd Stock Price NSE, BSE",
+  "source": "Business Today",
+  "published_utc": "2023-01-31T05:12:17+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Agri-Tech (India) Ltd Share Price Today,, AGRITECH Share Price NSE, BSE",
+  "source": "Business Today",
+  "published_utc": "2023-01-31T06:35:57+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Ltd Inaugurates its 59-Acre Integrated Food Manufacturing Factory in Telangana",
+  "source": "Krishi Jagran",
+  "published_utc": "2023-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC opens up food manufacturing & logistics unit in Telangana",
+  "source": "KNN India",
+  "published_utc": "2023-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Telangana: ITC to set up food manufacturing and logistics unit in Medak, invest Rs 700 crore",
+  "source": "The Times of India",
+  "published_utc": "2023-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

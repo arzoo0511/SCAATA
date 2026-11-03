@@ -1,0 +1,551 @@
+[
+ {
+  "title": "3 major banks hikes MCLR ahead of RBI bi-monthly monetary policy meet",
+  "source": "Livemint",
+  "published_utc": "2022-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HSBC's Jan-June pretax profits from India jump 22% to $644 million",
+  "source": "Business Standard",
+  "published_utc": "2022-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank raises lending rate by 15 bps",
+  "source": "India TV News",
+  "published_utc": "2022-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Savings account minimum balance requirement: SBI vs ICICI Bank vs HDFC Bank",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive: Swiggy plans to launch co-branded credit card",
+  "source": "Entrackr",
+  "published_utc": "2022-08-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Independence Day | Five credit cards that make online shopping more rewarding",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI policy: How a 50 bps rate hike will impact homebuyers, home loan EMIs",
+  "source": "mint",
+  "published_utc": "2022-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These banks hike home loan interest rates: Here\u2019s how much your EMI will go up",
+  "source": "Livemint",
+  "published_utc": "2022-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, PNB hike external benchmark based lending rates",
+  "source": "Zee Business",
+  "published_utc": "2022-08-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Saving Days: iPhone 12, iPhone 13 selling at huge discounts! Check top deals on Apple smartphones",
+  "source": "Zee News",
+  "published_utc": "2022-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank hikes lending rate by 50 basis points. Loan EMIs to go up",
+  "source": "Livemint",
+  "published_utc": "2022-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises interest rates on these fixed deposits: Details here",
+  "source": "Livemint",
+  "published_utc": "2022-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Corporate Radar: ICICI Bank to turn ex-dividend; Bharti Airtel Q1 results; AGMs, and more",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Applying for a home loan? Take a look at interest rates offered by top banks",
+  "source": "CNBC TV18",
+  "published_utc": "2022-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Which banks have increased loan interest rates after RBI's repo rate hike on Friday?",
+  "source": "economictimes.com",
+  "published_utc": "2022-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank raises up to $300 million in NRE deposits",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yield Rise Erodes Bank Profits in Q1, SBI worst hit, Canara Gains",
+  "source": "Equitypandit",
+  "published_utc": "2022-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Salary account scam in Telangana: Four arrested for duping ICICI Bank of Rs 1.3 crore",
+  "source": "The New Indian Express",
+  "published_utc": "2022-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's Kaizad Bharucha took home the most among bankers in FY22",
+  "source": "Rediff",
+  "published_utc": "2022-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Redmi K50i 5G Review",
+  "source": "MobiGyaan",
+  "published_utc": "2022-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Infinix Hot 12 Pro Launched in India; Check Price, Features & Specifications",
+  "source": "LatestLY",
+  "published_utc": "2022-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hits Rs 6 trillion m-cap first time; stock hits record high",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyderabad: Crooks fake firms, staff for loans, dupe 3 banks",
+  "source": "The Times of India",
+  "published_utc": "2022-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Placement at JGLS: Jindal Global Law School Achieves New Milestone with more than 100 Students Placed in...",
+  "source": "Live Law",
+  "published_utc": "2022-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RecTracker: 103 students of JGLS Batch of 2023 placed in Indian law firms",
+  "source": "Bar and Bench",
+  "published_utc": "2022-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is the highest paid bank CEO in India in FY22? Find out here",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM Cash Withdrawal Limit For Major Banks And How Much Do They Charge | Details Here",
+  "source": "India.com",
+  "published_utc": "2022-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM Cash Withdrawal Limit For Major Banks And What They Charge: All You Need To Know",
+  "source": "NDTV Profit",
+  "published_utc": "2022-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cash withdrawal at ATMs: Check limit, charges and tax for top banks",
+  "source": "Livemint",
+  "published_utc": "2022-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Flagship Days on Amazon offers discounts of up to \u20b913,000: Check detail",
+  "source": "Livemint",
+  "published_utc": "2022-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Significant credit card business jump at ICICI Bank",
+  "source": "Banking Frontiers",
+  "published_utc": "2022-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Depsit Interest Rate: Check latest FD rates of HDFC Bank, SBI, Kotak Mahindra Bank, PNB, ICICI Bank, BoB, IOB, Ujjivan",
+  "source": "Zee Business",
+  "published_utc": "2022-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hikes fixed deposit interest rates on tenures of 1 to 10 years",
+  "source": "Livemint",
+  "published_utc": "2022-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBC and ICICI Bank Canada collaborate to create a seamless banking experience for newcomers to Canada",
+  "source": "PR Newswire Canada",
+  "published_utc": "2022-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hikes FD interest rates by up to 40 bps",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, PNB hike fixed deposit interest rates: Check latest rates here",
+  "source": "CNBC TV18",
+  "published_utc": "2022-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "List Of IFSC Code Of YES BANK For 2022",
+  "source": "Inventiva",
+  "published_utc": "2022-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "World Senior Citizens Day: 5 special fixed deposits to bet in 2022",
+  "source": "Livemint",
+  "published_utc": "2022-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Financial criteria for compassionate appointment valid and lawful, has to be construed strictly: Top...",
+  "source": "LawBeat",
+  "published_utc": "2022-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "L&L advises ICICI & Yes Bank on bond issuances to Virescent Renewable Energy Trust",
+  "source": "Bar and Bench",
+  "published_utc": "2022-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai Petroleum board okays JV for 9 MMTPA refinery project worth \u20b931,580 cr",
+  "source": "Livemint",
+  "published_utc": "2022-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Naveen Inaugurates ICICI Phone Banking Centre In Bhubaneswar",
+  "source": "OdishaBytes",
+  "published_utc": "2022-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Patnaik opens ICICI Bank's state-of-the-art phone banking centre",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank inaugurates a state-of-the-art phone banking centre in Bhubaneswar",
+  "source": "Indiablooms",
+  "published_utc": "2022-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CPCL to float JV firm to implement Rs 31,580 cr refinery project at Cauvery Basin in Tamil Nadu",
+  "source": "The Financial Express",
+  "published_utc": "2022-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PGA Labs report: SBI Topped in Market Share of Debit cards; HDFC Topped in Credit cards",
+  "source": "AffairsCloud",
+  "published_utc": "2022-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI tops chart in debit card market, HDFC leads credit card",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises interest rates on these fixed deposits: Check new rates here",
+  "source": "Livemint",
+  "published_utc": "2022-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Transfer via NEFT, RTGS: What happens if money is not credited to beneficiary account on time, penalty ban",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC vs ICICI vs Axis Bank: Here is how WhatsApp Banking services by top lenders compare",
+  "source": "CNBC TV18",
+  "published_utc": "2022-08-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 Travel Credit Cards In India",
+  "source": "Vocal",
+  "published_utc": "2022-08-27T07:13:20+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises interest rates on bulk fixed deposits. Check new rates here",
+  "source": "Livemint",
+  "published_utc": "2022-08-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank partners with NPCI to launch RuPay credit cards",
+  "source": "EquityBulls",
+  "published_utc": "2022-08-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI, Axis, IDFC First Bank hike deposits rate for above Rs 2 crore",
+  "source": "Business Standard",
+  "published_utc": "2022-08-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo Y35 now available for purchase in India: Price and other details",
+  "source": "Livemint",
+  "published_utc": "2022-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can banks freeze a customer's account for non-compliance with Re-KYC (KYC review)?",
+  "source": "CAclubindia",
+  "published_utc": "2022-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches Coral RuPay credit card; here are its benefits",
+  "source": "Firstpost",
+  "published_utc": "2022-08-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak, Bandhan Bank CFO salaries up 21% in FY22, highest among banking finance leaders",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fraud Reporting Needs Standardisation across Banks: Kotak Mahindra Bank",
+  "source": "Moneylife",
+  "published_utc": "2022-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: What are ATM cash withdrawal rules of top banks in India and how much does it cost?",
+  "source": "Business Today",
+  "published_utc": "2022-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From Ambani to Adani: The NDTV saga",
+  "source": "The New Indian Express",
+  "published_utc": "2022-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

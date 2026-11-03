@@ -1,0 +1,155 @@
+[
+ {
+  "title": "ITC quarterly earnings beat Street estimates",
+  "source": "CNBC TV18",
+  "published_utc": "2022-08-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC exits from lifestyle retailing business",
+  "source": "ET Retail",
+  "published_utc": "2022-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MIT World Peace University records highest CTC at Rs 44.14 LPA",
+  "source": "Business Standard",
+  "published_utc": "2022-08-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5-star rated Quant mutual funds turn \u20b910,000 SIP to over \u20b96 lakh in 3 years",
+  "source": "Livemint",
+  "published_utc": "2022-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "High food inflation impacted FMCG sale volumes, says ITC chairman",
+  "source": "The Indian Express",
+  "published_utc": "2022-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Hotels unveils its 12th property in Gujarat with the iconic ITC Narmada",
+  "source": "Hotelier India",
+  "published_utc": "2022-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gujarat CM Bhupendra Patel Inaugurates ITC Narmada",
+  "source": "Vibes Of India",
+  "published_utc": "2022-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gujarat CM inaugurates ITC Narmada hotel in Ahmedabad",
+  "source": "ET HospitalityWorld",
+  "published_utc": "2022-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian spices market draws big branded players",
+  "source": "BusinessLine",
+  "published_utc": "2022-08-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Indian CEOs and their salary",
+  "source": "India Today",
+  "published_utc": "2022-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC, IHCL in fray to run ITDC\u2019s The Ashok",
+  "source": "Livemint",
+  "published_utc": "2022-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mutual Fund Calculator: \u20b910,000 monthly SIP turns to \u20b97.5 lakh in 3 years",
+  "source": "Livemint",
+  "published_utc": "2022-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WelcomHeritage Hotels completes 25 delightful years in the hospitality industry",
+  "source": "Hotelier India",
+  "published_utc": "2022-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This Ganesh Chaturthi, ITC Ltd.\u2019s Fabelle Chocolates launches Chocolate Modak creations",
+  "source": "Passionate In Marketing",
+  "published_utc": "2022-08-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Franklin India Focused Equity Fund vs. Aditya Birla Sun Life Focused Equity Fund: Which one should you opt for?",
+  "source": "Groww",
+  "published_utc": "2022-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Blackpink Makes History At VMAs: What Really Is A Metaverse Concert? | BOOM",
+  "source": "BOOM Fact Check",
+  "published_utc": "2022-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance emerges as a winner after India\u2019s wheat ban",
+  "source": "Al Jazeera",
+  "published_utc": "2022-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

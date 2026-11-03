@@ -1,0 +1,335 @@
+[
+ {
+  "title": "LPG price today: Good news! Prices slashed; check new rates in Delhi, Mumbai, Kolkata and Chennai",
+  "source": "Zee Business",
+  "published_utc": "2022-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Kumar Gupta takes over as GAIL CMD",
+  "source": "PSU Watch",
+  "published_utc": "2022-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shri Sandeep Kumar Gupta assumes charge as Chairman & Managing Director, GAIL",
+  "source": "PIB",
+  "published_utc": "2022-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Maharatna\u2019 natural gas PSU GAIL onboards Sandeep Gupta as new chief",
+  "source": "ET Government",
+  "published_utc": "2022-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Clean and Green: Potential of sourcing energy from waste",
+  "source": "Indian Infrastructure Magazine",
+  "published_utc": "2022-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CPWD Invites Tender for Construction of Bridge over River Karnaphuli- 10/SE/BFC-I/EE/BFD-I/2022-23",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2022-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Guwahati Refinery Celebrates its 60th Anniversary",
+  "source": "Tube & Pipe India",
+  "published_utc": "2022-10-06T01:41:49+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sale of pocket-friendly 2kg, 5kg commercial gas cylinders begins in Chennai",
+  "source": "The New Indian Express",
+  "published_utc": "2022-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC Plans to Invest $1 Billion in Brazilian Offshore Block Held by Petrobras",
+  "source": "Equitypandit",
+  "published_utc": "2022-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol Price Today: Know new petrol, diesel price in your city",
+  "source": "Firstpost",
+  "published_utc": "2022-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MC Explains | How oil prices erupted & tumbled to rise again",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-10-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cabinet likely to approve Rs 22,000 cr subsidy package for Indian Oil, BPCL, HPCL",
+  "source": "Business Today",
+  "published_utc": "2022-10-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt to give Rs 22,000 cr grant to oil PSUs to cover LPG losses",
+  "source": "The Indian Express",
+  "published_utc": "2022-10-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hardeep Puri meets Schlumberger CEO, discusses ways to further collaboration with Indian exploration, production firms",
+  "source": "ANI News",
+  "published_utc": "2022-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cabinet approves Rs. 22,000 crore as one time grant of PSU OMCs",
+  "source": "Indian Chemical News",
+  "published_utc": "2022-10-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NorthEast United FC announce IndianOil as official partner",
+  "source": "SportsMint Media",
+  "published_utc": "2022-10-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's OVL consortium eyes stake in Adnoc\u2019s producing asset",
+  "source": "Livemint",
+  "published_utc": "2022-10-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "3 workers injured due to mishap at Indian Oil refinery in WB's Haldia",
+  "source": "India Today",
+  "published_utc": "2022-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s first SPM facility at Indian Oil Vadinar unloads the 6,000th oil tanker",
+  "source": "PSU Watch",
+  "published_utc": "2022-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Moody\u2019s red-flags frozen petrol, diesel prices; OMCs may have lost $7 billion by August",
+  "source": "The Hindu",
+  "published_utc": "2022-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s first SPM facility at IndianOil-Vadinar berths the 6,000th oil tanker",
+  "source": "Livemint",
+  "published_utc": "2022-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC begins to make a profit from petrol but refuses to cut price citing accumulated loss",
+  "source": "OnlineKhabar English News",
+  "published_utc": "2022-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Two Major Indian Refiners Just Stopped Buying Russian Crude",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2022-10-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flash fire breaks out at Indian Oil\u2019s Haldia refinery; 3 people injured",
+  "source": "PSU Watch",
+  "published_utc": "2022-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CII and Indian Oil Corporation launch Project Vayu Amrit in Sangrur to mitigate stubble burning",
+  "source": "Cityairnews",
+  "published_utc": "2022-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OIL keen on petroleum mining lease in Jaisalmer, Bikaner",
+  "source": "Construction World",
+  "published_utc": "2022-10-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India to ignore the West, continue importing Russian crude to fight inflation",
+  "source": "Fortune India",
+  "published_utc": "2022-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire At Indian Oil's Haldia Refinery Injures Three -Local Media",
+  "source": "carandbike",
+  "published_utc": "2022-10-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Russian oil binge sends Middle East imports to 19-mth low",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Russian oil binge sends Middle East imports to 19-mth low -trade",
+  "source": "Reuters",
+  "published_utc": "2022-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mizoram government mulls setting up its maiden oil depot near Aizawl",
+  "source": "India Today NE",
+  "published_utc": "2022-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance\u2019s MJ gas condensate field to begin output this year",
+  "source": "Construction World",
+  "published_utc": "2022-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russian oil tankers pile up near Singapore and Malaysia ahead of EU sanctions",
+  "source": "South China Morning Post",
+  "published_utc": "2022-10-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka\u2019s IOC unit reports Rs12.3 bn in Sept 2022 profits",
+  "source": "EconomyNext",
+  "published_utc": "2022-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL recognized as India's most sustainable oil & gas company in the DJSI",
+  "source": "Indian Chemical News",
+  "published_utc": "2022-10-29T05:05:50+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation reports \u20b9272 crore loss in Q2 on the back of selling petrol and diesel below cost",
+  "source": "The Hindu",
+  "published_utc": "2022-10-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India state retailers to marginally cut petrol, diesel prices from Tuesday",
+  "source": "Reuters",
+  "published_utc": "2022-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

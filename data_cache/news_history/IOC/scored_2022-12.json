@@ -1,0 +1,335 @@
+[
+ {
+  "title": "Indian Oil directed to pay Rs 5 lakh to kin of LPG blast victim",
+  "source": "The New Indian Express",
+  "published_utc": "2022-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Oil Corporation Plans to Set Up New Company for Green Business",
+  "source": "SolarQuarter",
+  "published_utc": "2022-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil organised a bike rally on December 1 to mark the second anniversary of the XP 100 petrol",
+  "source": "EventFAQs",
+  "published_utc": "2022-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt halves windfall tax on domestic crude oil; here's how oil stocks reacted",
+  "source": "Fortune India",
+  "published_utc": "2022-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who in India is profiting from Russian oil? Not the common people but private companies",
+  "source": "ThePrint",
+  "published_utc": "2022-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Guwahati's First CNG Filling Station To Be Inaugurated Soon",
+  "source": "guwahati Plus News",
+  "published_utc": "2022-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol Diesel Price Update: New petrol, diesel prices announced; know whether rates have increased or decreased",
+  "source": "Firstpost",
+  "published_utc": "2022-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KSRTC to own largest fuel pump chain in Kerala",
+  "source": "Mathrubhumi English",
+  "published_utc": "2022-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stakeholders call for enhancing gas infrastructure with focus on building domestic, transnational pipeline c..",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Recent rise in LPG prices",
+  "source": "PRSIndia",
+  "published_utc": "2022-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI\u2019s inflation projection pegs Indian crude oil basket at $100/barrel signaling limited upside...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-12-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's fuel demand hits eight-month peak in November",
+  "source": "Reuters",
+  "published_utc": "2022-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BGR Energy Systems bags orders worth Rs 330 crore from India Oil",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BGR Energy shares see biggest jump in five months after Rs 330 crore order win from Indian Oil",
+  "source": "CNBC TV18",
+  "published_utc": "2022-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why natural gas is a strategic fuel in India\u2019s energy transition",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-12-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India may split planned mega refinery to various sites -sources",
+  "source": "Reuters",
+  "published_utc": "2022-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dindori\u2019s industrial zone attracts Rs 4,800 crore investments in a year",
+  "source": "The Times of India",
+  "published_utc": "2022-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil\u2019s Solar Cooking Stove Can be Used Indoors & Substitute LPG",
+  "source": "The Better India",
+  "published_utc": "2022-12-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tanker accident creates tension at Irumpanam",
+  "source": "The Times of India",
+  "published_utc": "2022-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt slashes windfall tax on domestic crude oil, exports of diesel; here\u2019s how oil stocks reacted",
+  "source": "Fortune India",
+  "published_utc": "2022-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil announces job vacancy for Chairman; apply before Feb 23",
+  "source": "PSU Watch",
+  "published_utc": "2022-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol-Diesel Prices Today, December 19: Check latest fuel rates in Delhi, Mumbai, Bengaluru, Chennai, Noida, Chandigarh, and other cities",
+  "source": "Zee Business",
+  "published_utc": "2022-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EV fast-chargers in 18 Indian Oil locations soon as part of Rs 2 trillion net-zero target of 2046",
+  "source": "The Times of India",
+  "published_utc": "2022-12-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Automobile lubricants doorstep delivery: Indian Oil partners with FuelBuddy",
+  "source": "The Times of India",
+  "published_utc": "2022-12-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FuelBuddy partners Indian Oil for doorstep delivery of lubricant",
+  "source": "The Financial Express",
+  "published_utc": "2022-12-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ten Landmark Judgments On Arbitration In The Year 2022",
+  "source": "Live Law",
+  "published_utc": "2022-12-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation selects Jio for automation in retail business",
+  "source": "ThePrint",
+  "published_utc": "2022-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil selects Reliance Jio to manage network services for its petrol pumps",
+  "source": "Livemint",
+  "published_utc": "2022-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Raj Kumar Dubey selected as Director (HR), BPCL",
+  "source": "Legend Officers",
+  "published_utc": "2022-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Partners With Fuel Buddy For Fuel Delivery",
+  "source": "Thrust Zone",
+  "published_utc": "2022-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'IOCL Incurs Overall Addl Cost Of Rs 516cr Due To Deviation Of Optimised Logistics Plan'",
+  "source": "Sarkaritel.com",
+  "published_utc": "2022-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Citing damage to ancient rock carvings, experts red-flag mega oil refinery project",
+  "source": "The Indian Express",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Is Horticulture Spray Oil Rs 30/Litre Cheaper in Himachal, Kashmir Fruit Growers Ask Centre",
+  "source": "Kashmir Life",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil reported 113 major accidents during fuel transport in 2014-19: CAG",
+  "source": "Down To Earth",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jio wins order from Indian Oil for SD-WAN solution",
+  "source": "InfotechLead",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sanjay Singh is the new President of Indian Oil Officers Association",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil\u2019s \u20b9611-cr. Malkapur terminal likely to go on stream in 2023",
+  "source": "The Hindu",
+  "published_utc": "2022-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

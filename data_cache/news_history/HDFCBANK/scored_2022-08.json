@@ -1,0 +1,740 @@
+[
+ {
+  "title": "For merger, HDFC Bank to raise \u20b92.7 trillion",
+  "source": "Livemint",
+  "published_utc": "2022-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prashant Jain quits HDFC MF: What this mean for its funds, existing investors",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bengaluru: HDFC Bank to extend financial support to Bagchi-Parthasarathy Hospital on IISc campus, pledges Rs 107.76 crore",
+  "source": "The Indian Express",
+  "published_utc": "2022-08-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Parivartan signs \u20b9107 cr MoU with IISc Bengaluru",
+  "source": "BusinessLine",
+  "published_utc": "2022-08-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Parivartan Signs Rs 107 Crore Deal with IISc Bengaluru",
+  "source": "Equitypandit",
+  "published_utc": "2022-08-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank pledges Rs 108 Cr for IISc\u2019s Bagchi-Parthasarathy hospital",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Parivartan signs MoU with IISc Bangalore",
+  "source": "Indiablooms",
+  "published_utc": "2022-08-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC WhatsApp Banking Services: Here's How Users Can Activate Services on WhatsApp. Check Step-by-step Guide",
+  "source": "India.com",
+  "published_utc": "2022-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank WhatsApp Banking Service Revamped: How to Use Banking Service on WhatsApp?",
+  "source": "News18",
+  "published_utc": "2022-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank: Know transaction charges, and withdrawal limit",
+  "source": "Passionate In Marketing",
+  "published_utc": "2022-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to register for HDFC Bank WhatsApp banking service",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Merger: No need to pay dues of parent firm on Day 1",
+  "source": "Livemint",
+  "published_utc": "2022-08-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Independence Day | Five credit cards that make online shopping more rewarding",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC receives Sebi approval to change in control of HDFC AMC",
+  "source": "Livemint",
+  "published_utc": "2022-08-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes MCLR by 10 bps; check latest rates here",
+  "source": "Business Today",
+  "published_utc": "2022-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes rates by 5-10 bps across loan tenures",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank raises up to $300 million in NRE deposits",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC gets NHB nod for proposed merger with subsidiary bank",
+  "source": "The Indian Express",
+  "published_utc": "2022-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's Kaizad Bharucha took home the most among bankers in FY22",
+  "source": "Business Standard",
+  "published_utc": "2022-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank inks pact with TReDs platform M1xchange",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Signs Agreement with TReDs Platform M1xchange",
+  "source": "Equitypandit",
+  "published_utc": "2022-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Partnered With M1exchange for TReDs Platform",
+  "source": "SMEStreet",
+  "published_utc": "2022-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Salary account scam in Telangana: Four arrested for duping ICICI Bank of Rs 1.3 crore",
+  "source": "The New Indian Express",
+  "published_utc": "2022-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple is offering Rs 6,000 discount on iPhone 13 and iPhone 12: Check details",
+  "source": "India Today",
+  "published_utc": "2022-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is the highest paid bank CEO in India in FY22? Find out here",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches Rising Bankers programme with Amity Global Business School",
+  "source": "APAC Media",
+  "published_utc": "2022-08-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Competition Commission of India okays merger of HDFC Bank, HDFC Ltd",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CCI Approves Merger Of HDFC Bank, HDFC Ltd",
+  "source": "Sarkaritel.com",
+  "published_utc": "2022-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC-HDFC Bank merger gets CCI approval: What next?",
+  "source": "Zee Business",
+  "published_utc": "2022-08-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches 'Vigil Aunty' campaign to promote freedom from fraud",
+  "source": "Exchange4Media",
+  "published_utc": "2022-08-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Banks On \u2018Lola Kutty\u2019 To Promote Safe Banking As Part Of \u2018Vigil Aunty\u2019 Campaign",
+  "source": "Outlook Money",
+  "published_utc": "2022-08-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Indian Oil Credit Card Review",
+  "source": "Forbes",
+  "published_utc": "2022-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank brings 'Vigil Aunty' to encourage safe banking habits",
+  "source": "ET BrandEquity",
+  "published_utc": "2022-08-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM Cash Withdrawal Limit For Major Banks And How Much Do They Charge | Details Here",
+  "source": "India.com",
+  "published_utc": "2022-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM Cash Withdrawal Limit For Major Banks And What They Charge: All You Need To Know",
+  "source": "NDTV Profit",
+  "published_utc": "2022-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes interest rates on fixed deposits: Check new rates here",
+  "source": "Livemint",
+  "published_utc": "2022-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Opens New Branch Only For Women in North Kerala",
+  "source": "Equitypandit",
+  "published_utc": "2022-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maximum bank branches simultaneously launched",
+  "source": "India Book of Records",
+  "published_utc": "2022-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Opens First All-Women Branch In Kerala. Deets Inside",
+  "source": "India.com",
+  "published_utc": "2022-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes FD interest rate by 40 bps on this tenure",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank opens first all-women branch in north Kerala",
+  "source": "Livemint",
+  "published_utc": "2022-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Depsit Interest Rate: Check latest FD rates of HDFC Bank, SBI, Kotak Mahindra Bank, PNB, ICICI Bank, BoB, IOB, Ujjivan",
+  "source": "Zee Business",
+  "published_utc": "2022-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, PNB hike fixed deposit interest rates: Check latest rates here",
+  "source": "CNBC TV18",
+  "published_utc": "2022-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "List Of IFSC Code Of HDFC BANK For 2022",
+  "source": "Inventiva",
+  "published_utc": "2022-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lola Kutty joins HDFC Bank as a 'Vigil Aunty'",
+  "source": "afaqs!",
+  "published_utc": "2022-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's new campaign 'Vigil Aunty' to help tackle cyber frauds",
+  "source": "Business Standard",
+  "published_utc": "2022-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Accused of Stealing Artist's 'Vigil Aunty' Comic Character in Safe Banking Campaign",
+  "source": "News18",
+  "published_utc": "2022-08-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Do you travel frequently? Here are five best credit cards with complimentary airport lounge access",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank net banking, mobile banking app still down for users",
+  "source": "HT Tech",
+  "published_utc": "2022-08-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "List Of IFSC Code Of YES BANK For 2022",
+  "source": "Inventiva",
+  "published_utc": "2022-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "World Senior Citizens Day: 5 special fixed deposits to bet in 2022",
+  "source": "Livemint",
+  "published_utc": "2022-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Person Availing Bank's Service \"Consumer\"; Consumer Complaint Maintainable Over Dispute On Encashment Of...",
+  "source": "Live Law",
+  "published_utc": "2022-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank opened the first all-women branch in north Kerala",
+  "source": "Sakshi Education",
+  "published_utc": "2022-08-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Person Availing Service From Bank A Consumer Under Consumer Protection Act, Entitled To Remedies - SC",
+  "source": "Verdictum",
+  "published_utc": "2022-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai Petroleum board okays JV for 9 MMTPA refinery project worth \u20b931,580 cr",
+  "source": "Livemint",
+  "published_utc": "2022-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Close all bank accounts in HDFC... Know why government employees have been given this order",
+  "source": "Zee News",
+  "published_utc": "2022-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Neu, HDFC Bank join hands to create co-branded credit cards",
+  "source": "Business Today",
+  "published_utc": "2022-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches co-branded credit card with Tata Neu: Details here",
+  "source": "The Indian Express",
+  "published_utc": "2022-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Neu and HDFC Bank partner to create one of India\u2019s most rewarding co-branded credit cards",
+  "source": "Elets BFSI",
+  "published_utc": "2022-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Neu partners with HDFC Bank for co-branded credit card",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Andhra Pradesh: IAS officer asks bankers to catch the new generation business segments",
+  "source": "The Times of India",
+  "published_utc": "2022-08-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI tops chart in debit card market, HDFC leads credit card",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to invest \u20b949.9 to 69.9 cr in 2 tranches to buy 9.94% equity stake in Go Digit",
+  "source": "Livemint",
+  "published_utc": "2022-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "closing bell | Nifty, Sensex end in the red, Infosys, HDFC Bank, TCS fall",
+  "source": "CNBC TV18",
+  "published_utc": "2022-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Neu, HDFC Bank collaborate to create co-branded credit cards",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government employees asked to close all accounts in HDFC Bank, here's why",
+  "source": "DNA India",
+  "published_utc": "2022-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to acquire 9.95% stake in Go Digit Life Insurance; stock up",
+  "source": "Fortune India",
+  "published_utc": "2022-08-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex, Nifty end 5-week gaining streak as bears pushed D-St lower this week; check support, resistance",
+  "source": "The Financial Express",
+  "published_utc": "2022-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 Travel Credit Cards In India",
+  "source": "Vocal",
+  "published_utc": "2022-08-27T07:13:20+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises interest rates on these fixed deposits: Details inside",
+  "source": "Livemint",
+  "published_utc": "2022-08-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC WhatsApp banking service: Step-by step guide to enable service on WhatsApp",
+  "source": "DNA India",
+  "published_utc": "2022-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FE India\u2019s Best Bank Awards: Take a look at Nirmala Sitharaman along with other winners from the ceremony \u2013 PHOTOS",
+  "source": "The Financial Express",
+  "published_utc": "2022-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo Y35 now available for purchase in India: Price and other details",
+  "source": "Livemint",
+  "published_utc": "2022-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Axis Bank eyes 10% stake in Go Digit life insurance business - sources",
+  "source": "Reuters",
+  "published_utc": "2022-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak, Bandhan Bank CFO salaries up 21% in FY22, highest among banking finance leaders",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank Reports 5,278 Fraud Cases in Q1FY22-23, SBI 9 Only",
+  "source": "Equitypandit",
+  "published_utc": "2022-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fraud Reporting Needs Standardisation across Banks: Kotak Mahindra Bank",
+  "source": "Moneylife",
+  "published_utc": "2022-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Don\u2019t believe in fake news\u2019: TTD clarifies on caution deposit row",
+  "source": "The Federal",
+  "published_utc": "2022-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 13 is available for lowest ever price on Flipkart: should you buy or wait?",
+  "source": "India Today",
+  "published_utc": "2022-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mizoram\u2019s Aizawl Civil Hospital gets 10 ICU Beds with essential equipment",
+  "source": "India Today NE",
+  "published_utc": "2022-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank to acquire 10% stake in Go Digit Life Insurance: Report",
+  "source": "The Tech Portal",
+  "published_utc": "2022-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "50 mutual fund schemes completed 25 years this year. How much returns did they offer?",
+  "source": "The Economic Times",
+  "published_utc": "2022-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

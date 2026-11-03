@@ -1,0 +1,650 @@
+[
+ {
+  "title": "Dusshera 2022: Mumbai Traffic police issue new restrictions for Devi idol immersion; check details here",
+  "source": "Free Press Journal",
+  "published_utc": "2022-10-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Dussehra Sale announced: Deals on TWS earbuds under \u20b92,000",
+  "source": "Livemint",
+  "published_utc": "2022-10-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prashant Kumar: Rewriting the Yes Bank story",
+  "source": "Forbes India",
+  "published_utc": "2022-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bajaj sells 31,752 CVs in September 2022, registers 73% growth",
+  "source": "The Financial Express",
+  "published_utc": "2022-10-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank posts 23.5% loan growth in second quarter",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-10-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Dussehra sale begins for Plus users: iPhone 13 and other iPhone models on discount",
+  "source": "India Today",
+  "published_utc": "2022-10-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank vs ICICI Bank: Which stock has potential to deliver more?",
+  "source": "Business Today",
+  "published_utc": "2022-10-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vijay Sales Big Dussehra Sale: Offers on Apple iPhone 14, iPhone 14 Pro",
+  "source": "Livemint",
+  "published_utc": "2022-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Dussehra Sale: Top deals on affordable smartphones under \u20b910,000",
+  "source": "Livemint",
+  "published_utc": "2022-10-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches Smarthub Vyapar merchant app for everyday business needs",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches SmartHub Vyapar app for merchants",
+  "source": "Telangana Today",
+  "published_utc": "2022-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From SBI to PNB: List of banks offering WhatsApp banking services",
+  "source": "Livemint",
+  "published_utc": "2022-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank to hike lending rates by 15 bps across tenures: EMIs to go up",
+  "source": "Livemint",
+  "published_utc": "2022-10-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC launches SmartHub Vyapar merchant app | Check benefits, use and other details",
+  "source": "Zee Business",
+  "published_utc": "2022-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pune: HDFC Bank launches SmartHub Vyapar for merchants",
+  "source": "Punekar News",
+  "published_utc": "2022-10-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank aiming to onboard 2 crore merchants in the next three years: top official",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 11 price drops under 20000! Check offer on Flipkart NOW",
+  "source": "HT Tech",
+  "published_utc": "2022-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Here\u2019s how you can buy the new Google Pixel 7 at under Rs 50,000",
+  "source": "The Times of India",
+  "published_utc": "2022-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Equitas SFB gross advances up by 20% at \u20b922,802 cr at September end",
+  "source": "Livemint",
+  "published_utc": "2022-10-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank SmartHub Vyapar app to reach a million merchant points this month",
+  "source": "The Financial Express",
+  "published_utc": "2022-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches app for merchants",
+  "source": "The Hans India",
+  "published_utc": "2022-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches SmartHub Vyapar Merchant app for SMEs",
+  "source": "The Financial Express",
+  "published_utc": "2022-10-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank boasts to onboard 75,000 SME merchants every month under SmartHub Vyapar app",
+  "source": "KNN India",
+  "published_utc": "2022-10-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Dussehra Sale 2022: Buy Apple iPhone 13 Under Rs 50,000 | Deets Inside",
+  "source": "India.com",
+  "published_utc": "2022-10-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes interest rates on fixed deposits by up to 75 bps: Details here",
+  "source": "Livemint",
+  "published_utc": "2022-10-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q2 Net Profit seen up 16.9% YoY to Rs. 10,328.9 cr: Prabhudas Lilladher",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-10-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes FD interest rates by up to 75 bps: Check latest rates",
+  "source": "The Economic Times",
+  "published_utc": "2022-10-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Skoda & VW Cars With Big Discounts - Slavia, Kushaq, Taigun & Virtus",
+  "source": "Gaadiwaadi.com",
+  "published_utc": "2022-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank FD interest rates hiked: Check revised rates here",
+  "source": "Zee Business",
+  "published_utc": "2022-10-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Took a home loan from HDFC? Three EMI payment methods you should know",
+  "source": "The Financial Express",
+  "published_utc": "2022-10-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Recurring deposits: HDFC Bank increases RD interest rates by up to 50 bps",
+  "source": "The Economic Times",
+  "published_utc": "2022-10-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q2 net jumps 22.3% to \u20b911,125 crore on lower provisions",
+  "source": "The Hindu",
+  "published_utc": "2022-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q2 net profit rises 22.3% to Rs 11,125 crore powered by loan growth",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's largest private lender HDFC Bank reports profit up 20%",
+  "source": "Reuters",
+  "published_utc": "2022-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC merger gets NCLT approval for shareholder meet",
+  "source": "The Times of India",
+  "published_utc": "2022-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC-HDFC Bank Merger, NCLT Approves Shareholders\u2019 Meet",
+  "source": "Equitypandit",
+  "published_utc": "2022-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q2 Preview: Profit may jump up to 25% YoY, NII growth seen at 13-17%",
+  "source": "Business Today",
+  "published_utc": "2022-10-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Army sign agreement with 11 banks for benefits to Agniveers",
+  "source": "Livemint",
+  "published_utc": "2022-10-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q2 profit rises 22per cent, NPA falls to 1.23 per cent of gross advances",
+  "source": "The New Indian Express",
+  "published_utc": "2022-10-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian army signs agreement with 11 banks for Agniveer salary package",
+  "source": "Firstpost",
+  "published_utc": "2022-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI hikes savings account rates: How does it compare with other major banks?",
+  "source": "Livemint",
+  "published_utc": "2022-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Six of top-10 firms lose \u20b978,163 cr in m-cap; RIL biggest drag",
+  "source": "Livemint",
+  "published_utc": "2022-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What are the transactions you can do at a Digital Banking Unit (DBU)?",
+  "source": "The Financial Express",
+  "published_utc": "2022-10-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank stock may see up to 31% upside, rerating ahead. Here's why",
+  "source": "Business Today",
+  "published_utc": "2022-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s investors await more clarity on proposed merger with HDFC",
+  "source": "Livemint",
+  "published_utc": "2022-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking Central | HDFC Bank, Federal Q2 numbers signal good news for industry, yet challenges remain",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Utsav Deposit vs HDFC Sapphire deposits: Latest interest rates",
+  "source": "Livemint",
+  "published_utc": "2022-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC to vote on merger in board meeting on October 25: Analyst explains how HDFC merger will impact markets",
+  "source": "Zee Business",
+  "published_utc": "2022-10-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "71% MNCs plan India expansion",
+  "source": "The Times of India",
+  "published_utc": "2022-10-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q2 \u2013 All-round show, margin beat a key talking point",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank account holders ALERT! Bank revises cash deposit charges from November 1",
+  "source": "Zee News",
+  "published_utc": "2022-10-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank vs ICICI Bank vs Axis Bank: Latest FD interest rates compared",
+  "source": "Livemint",
+  "published_utc": "2022-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank vs ICICI Bank: FD interest rates compared",
+  "source": "The Economic Times",
+  "published_utc": "2022-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy Bank of India, target price Rs 52: HDFC Securities",
+  "source": "The Economic Times",
+  "published_utc": "2022-10-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC Bank, ICICI Bank and more \u2014 Key loan offers to explore this Diwali",
+  "source": "CNBC TV18",
+  "published_utc": "2022-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Savings account interest rate comparison: SBI vs HDFC Bank vs ICICI Bank vs PNB",
+  "source": "The Economic Times",
+  "published_utc": "2022-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Ltd gets best performing housing finance company award under PMAY",
+  "source": "ANI News",
+  "published_utc": "2022-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These 2 govt banks offer 7% interest rate on fixed deposits (FDs)",
+  "source": "Livemint",
+  "published_utc": "2022-10-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NSRLM and HDFC Bank signs MoU to ensure effective bank linkage for SHGs",
+  "source": "MorungExpress",
+  "published_utc": "2022-10-20T16:29:58+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Securities opens women-only Digital Centre in Bengaluru |",
+  "source": "Bankersadda",
+  "published_utc": "2022-10-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Right to Information vis-a-vis Right to Privacy; SC invokes doctrine of ex debito justitiae to hear HDFC's plea challenging RBI directions mandating disclosure of confidential & sensitive information",
+  "source": "SCC Online",
+  "published_utc": "2022-10-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank FDs vs Punjab National Bank FDs: Check which bank is offering better rates",
+  "source": "Business Today",
+  "published_utc": "2022-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes interest rates on recurring deposits (RDs) across tenors",
+  "source": "Livemint",
+  "published_utc": "2022-10-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty vs Bank Nifty Options Trading - Which is Better to Trade?",
+  "source": "Trade Brains",
+  "published_utc": "2022-10-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC Bank, PNB hike FD interest rates twice in October: Which bank is offering highest FD rates?",
+  "source": "The Economic Times",
+  "published_utc": "2022-10-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes FD interest rates for second time this month: Earn up to 6.25% on this FD tenure",
+  "source": "The Economic Times",
+  "published_utc": "2022-10-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dollar FD rates in India near parity with rupee rates. Check SBI, HDFC, ICICI and AXIS bank details here",
+  "source": "Livemint",
+  "published_utc": "2022-10-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI to launch first pilot of Digital Rupee on Tuesday",
+  "source": "The Siasat Daily",
+  "published_utc": "2022-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What is a Digital Rupee? RBI to pilot launch on November 1",
+  "source": "Business Today",
+  "published_utc": "2022-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card numbers continue to slip after RBI's deactivation order",
+  "source": "The Economic Times",
+  "published_utc": "2022-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who are the prospective suitors for IDBI Bank?",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt launches pilot in digital rupee for wholesale segment",
+  "source": "The Statesman",
+  "published_utc": "2022-10-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

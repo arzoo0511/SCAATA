@@ -1,0 +1,398 @@
+[
+ {
+  "title": "Birthplace of Indian Oil & Gas Industry and Future Business Hub \u2013 Northeast India",
+  "source": "The Assam Tribune",
+  "published_utc": "2023-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LPG Cylinder Price: Rates hiked for commercial cylinders; domestic gas cylinder cost remains unchanged - check price in your city",
+  "source": "Zee Business",
+  "published_utc": "2023-01-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Malkapur terminal likely to go on stream in 2023",
+  "source": "Construction World",
+  "published_utc": "2023-01-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Customer Leadership \u2013 Improving ROI | siebelcrm",
+  "source": "Oracle Blogs",
+  "published_utc": "2023-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC \u2018Sagar Samrat\u2019 starts Oil and Gas production in the Arabian Sea",
+  "source": "NewsIP",
+  "published_utc": "2023-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel price in Delhi, Mumbai and other Indian cities on January 4, 2023",
+  "source": "The Times of India",
+  "published_utc": "2023-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rajasthan petroleum industry receives fresh investments",
+  "source": "Construction World",
+  "published_utc": "2023-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil firms making \u20b910 a litre profit on petrol, \u20b96.5 loss on diesel",
+  "source": "The Hindu",
+  "published_utc": "2023-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Waste to bio-CNG: The role of Indian sugar mills in the transition to cleaner fuel",
+  "source": "Mongabay India",
+  "published_utc": "2023-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel prices: How much profit or loss are oil companies making on current petrol and diesel prices? Explained",
+  "source": "Zee Business",
+  "published_utc": "2023-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil chairman to also be managing director",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's fuel demand hits nine-month high in December",
+  "source": "Reuters",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Godrej Agrovet becomes the first company to receive the Indian Oil Palm Certification under the Indian Palm Oil Sustainability (IPOS) Framework",
+  "source": "Passionate In Marketing",
+  "published_utc": "2023-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chandigarh consumer court penalises Indian Oil Adani Gas Agency for levying minimum charges",
+  "source": "The Indian Express",
+  "published_utc": "2023-01-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Officers\u2019 body sends SOS to Puri against abolishment of Director (R&D) post",
+  "source": "PSU Watch",
+  "published_utc": "2023-01-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trafigura sells out of Russia-backed Indian refiner Nayara Energy",
+  "source": "Reuters",
+  "published_utc": "2023-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Oil Offering Fuel Subsidy Gift Worth Rs 6,000? Government Alerts People About Fake Lucky Draw",
+  "source": "LatestLY",
+  "published_utc": "2023-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Introduces Indoor Cooking Stove, Surya Nutan",
+  "source": "Saur Energy",
+  "published_utc": "2023-01-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Guyana explores oil, gas blocks award to India in govt deals- President",
+  "source": "Reuters",
+  "published_utc": "2023-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil's aluminium-air battery manufacturing JV readies itself for manufacturing rollout",
+  "source": "Autocar Professional",
+  "published_utc": "2023-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Convict in 2005 killing of IOC whistleblower S Manjunath released from UP jail for good conduct",
+  "source": "The Economic Times",
+  "published_utc": "2023-01-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC\u2019s Manjunath murder: Serving life, convict walks free after 17 yrs",
+  "source": "The Indian Express",
+  "published_utc": "2023-01-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petroleum Minister Puri, Israeli envoy inaugurate IOC Phinergy pavilion at Auto Expo",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Analysts See Link Between Rising Indian Oil Product Exports to US and Surge in Russian Crude Imports",
+  "source": "TheWire.in",
+  "published_utc": "2023-01-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Seven Islands Shipping expands fleet with a medium range oil tanker",
+  "source": "ET Infra",
+  "published_utc": "2023-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chhapra residents to get piped cooking gas supply before March",
+  "source": "The Times of India",
+  "published_utc": "2023-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EXCLUSIVE: Indian, European oil firms evaluating bids for Guyana blocks",
+  "source": "Reuters",
+  "published_utc": "2023-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol-Diesel Prices, January 17: Check the latest fuel rates in Delhi, Bengaluru, Mumbai, Chennai, Noida, Chandigarh, and other cities",
+  "source": "Zee Business",
+  "published_utc": "2023-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Godrej Agrovet launches Samadhan, a one-stop solution center for oil palm farmers",
+  "source": "Passionate In Marketing",
+  "published_utc": "2023-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL expands facilities to meet increasing fuel demands in Andhra",
+  "source": "The New Indian Express",
+  "published_utc": "2023-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Trafigura Sells Stake In Indian Refinery",
+  "source": "Warsaw Institute",
+  "published_utc": "2023-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Guarantees Are Outside The Scope Of The Moratorium Under Section 14 Of The IBC, NCLAT On Bank...",
+  "source": "Live Law",
+  "published_utc": "2023-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL to operate Vizag refinery at expanded capacity from end-June",
+  "source": "ET Auto",
+  "published_utc": "2023-01-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation to invest \u20b92,200 crore in Tamil Nadu",
+  "source": "Livemint",
+  "published_utc": "2023-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TTD in talks with BEL to procure Naval Anti-Drone System",
+  "source": "The New Indian Express",
+  "published_utc": "2023-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Jaipur\u2019s Hingonia biogas plant has emerged as a model for waste-to-energy facilities",
+  "source": "Down To Earth",
+  "published_utc": "2023-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MC Explains: Why oil companies are making big plans to invest in renewable energy",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-01-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's rapid take-up of electric vehicles prompts rethink about long-term fuel needs",
+  "source": "Reuters",
+  "published_utc": "2023-01-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian refiners' oil processing in December rises 4% y/y",
+  "source": "Reuters",
+  "published_utc": "2023-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Turning The Tide: India Starts Exporting Aviation Fuel For Small Planes, Enters $3bn Global Market",
+  "source": "Swarajya",
+  "published_utc": "2023-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation exports aviation gasoline in India\u2019s first fuel exports",
+  "source": "APAC Media",
+  "published_utc": "2023-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "P Kumar stresses need of imparting safety knowledge while using LPG",
+  "source": "RightNow",
+  "published_utc": "2023-01-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Ports Completes Acquisition Of 49.38 Per Cent Stake In Indian Oiltanking Ltd",
+  "source": "Swarajya",
+  "published_utc": "2023-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation changes nation\u2019s history by exporting aviation fuel for the first time",
+  "source": "Zee Business",
+  "published_utc": "2023-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

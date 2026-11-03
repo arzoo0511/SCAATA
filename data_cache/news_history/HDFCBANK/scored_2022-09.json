@@ -1,0 +1,587 @@
+[
+ {
+  "title": "HDFC Bank to open 200 branches, hire 3,000 staff in Maharashtra in FY23",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to open over 200 branches in Maharashtra in FY23",
+  "source": "BusinessLine",
+  "published_utc": "2022-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to open 207 branches in Maharashtra",
+  "source": "Livemint",
+  "published_utc": "2022-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to hire 3,000 staff across Maharashtra in FY23",
+  "source": "People Matters - HR News",
+  "published_utc": "2022-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC not among top-10 valued companies",
+  "source": "The New Indian Express",
+  "published_utc": "2022-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kinnect creates \u2018vigil aunty\u2019 for HDFC Bank to warn people of scams",
+  "source": "afaqs!",
+  "published_utc": "2022-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, Precision Biometric to test applications under RBI's sandbox scheme",
+  "source": "The Economic Times",
+  "published_utc": "2022-09-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indiabulls Housing Finance to raise Rs 1,000 cr via public issue of bonds",
+  "source": "Business Standard",
+  "published_utc": "2022-09-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Introduces New SMS Banking Facility, Know How To Apply Here",
+  "source": "India.com",
+  "published_utc": "2022-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cyber Fraud: Bank manager in Guwahati cloned customers' ATM cards, arrested for stealing",
+  "source": "Firstpost",
+  "published_utc": "2022-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank hikes lending rates across tenures from today. Loan EMIs to go up",
+  "source": "Livemint",
+  "published_utc": "2022-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank introduces \u2018Bank on Wheels\u2019 in Gujarat",
+  "source": "Livemint",
+  "published_utc": "2022-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC\u2019s $1.1bn deal: An Indian oasis in the social loan desert",
+  "source": "Capital Monitor",
+  "published_utc": "2022-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOT Reliance or TCS...This could be India's First Trillion Dollar Stock",
+  "source": "Equitymaster",
+  "published_utc": "2022-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Services that can be available - HDFC Bank unveils new SMS banking facility",
+  "source": "The Economic Times",
+  "published_utc": "2022-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ZippMat raises $10 mn led by Matrix Partners, HDFC Bank, others",
+  "source": "Livemint",
+  "published_utc": "2022-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From SBI to HDFC Bank, check per day UPI transaction limit of top banks",
+  "source": "CNBC TV18",
+  "published_utc": "2022-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Securities' top picks: 2 stocks to buy over next 2-3 quarters",
+  "source": "Livemint",
+  "published_utc": "2022-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pre-order iPhone 14 & 14 Pro now & get Rs 6,000 instant cashback",
+  "source": "The Economic Times",
+  "published_utc": "2022-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kaizad Bharucha of HDFC Bank buys Bandra home for Rs 35 crore",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Demand for priority sector loans set to rise",
+  "source": "Livemint",
+  "published_utc": "2022-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, ICICI Bank and more \u2014 5 credit cards to explore this festive season",
+  "source": "CNBC TV18",
+  "published_utc": "2022-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank issues India\u2019s first Electronic Bank Guarantee (e-BG)",
+  "source": "Livemint",
+  "published_utc": "2022-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone 14 series: Top deals, cashback and other offers while pre-booking in India",
+  "source": "The Indian Express",
+  "published_utc": "2022-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs ICICI Bank: Which stock do analysts recommend?",
+  "source": "Business Today",
+  "published_utc": "2022-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank New SMS Banking Facility: Here's How It Will Help Consumers | FAQs Answered",
+  "source": "India.com",
+  "published_utc": "2022-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank ties up with BEST for \u2018Aao Bus Karein\u2019 campaign to promote greener commuting habits",
+  "source": "MediaNews4U",
+  "published_utc": "2022-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI joins Rs 5-trillion market cap club; stock surges 26% in three months",
+  "source": "Business Standard",
+  "published_utc": "2022-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive | Kinnect\u2019s Kartikeya Tiwari on \u2018Vigil Aunty,\u2019 a never-done-before idea for HDFC Bank",
+  "source": "MediaBrief",
+  "published_utc": "2022-09-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IT firms, banks dominate India's most valuable brands list",
+  "source": "Business Today",
+  "published_utc": "2022-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking index's record high may be an early sign of fresh peaks in Nifty50 \u2014 here's why",
+  "source": "CNBC TV18",
+  "published_utc": "2022-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 14 is Available for Rs 73900 in India",
+  "source": "TelecomTalk",
+  "published_utc": "2022-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CSB Bank appoints Pralay Mondal, former ED at Axis Bank, as CEO",
+  "source": "Livemint",
+  "published_utc": "2022-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These banks offer lowest interest rate on car loans; check interest rate, loan policy and more details here",
+  "source": "Zee News",
+  "published_utc": "2022-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Form C explained - PPF account withdrawal from bank: Steps you need to follow",
+  "source": "The Economic Times",
+  "published_utc": "2022-09-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI special fixed deposit scheme for senior citizens extended till March 2023",
+  "source": "Livemint",
+  "published_utc": "2022-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's CAD likely to remain within 3% of GDP: RBI bulletin |",
+  "source": "Bankersadda",
+  "published_utc": "2022-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank AT1 bonds: AT1 bonds in one-sided love?",
+  "source": "Value Research",
+  "published_utc": "2022-09-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Securities receives SEBI nod for setting up subsidiary in GIFT IFSC",
+  "source": "Business Standard",
+  "published_utc": "2022-09-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank signs pact with Refinitiv to expedite digital transformation",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-09-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank signs multi-year data and technology deal with Refinitiv",
+  "source": "Livemint",
+  "published_utc": "2022-09-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What's new in UPI Lite?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s Xpress Car Loan adjudged \u2018Best in Class Lending Solution\u2019 at Global Fintech Fest",
+  "source": "Cityairnews",
+  "published_utc": "2022-09-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI found to be the least efficient bank in Asia-Pacific zone: S&P Global Market Intelligence report",
+  "source": "Business Today",
+  "published_utc": "2022-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2 banks to end senior citizen special fixed deposit scheme from 1st October",
+  "source": "Livemint",
+  "published_utc": "2022-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank starts digital lending through Account Aggregator Framework",
+  "source": "The Economic Times",
+  "published_utc": "2022-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank revises savings account interest rates: Check latest rates",
+  "source": "The Economic Times",
+  "published_utc": "2022-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Share Market Today Updates: Indices fall for third consecutive day, Sensex crashes over 1,000 points, Nifty ends below 17,350-mark on weak global cues",
+  "source": "The Indian Express",
+  "published_utc": "2022-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "City Union Bank hikes interest rates up to 75 bps on fixed deposits",
+  "source": "Livemint",
+  "published_utc": "2022-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why do SBI, HDFC, and ICICI Bank have rock bottom market share in UPI?",
+  "source": "Business Today",
+  "published_utc": "2022-09-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 14 gets Rs 7,000 off on Apple India Store in its Diwali sale, here is how deal works",
+  "source": "India Today",
+  "published_utc": "2022-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple Festive offers: Get Rs 7,000 cashback on iPhone 14, iPhone 13 and more",
+  "source": "The Indian Express",
+  "published_utc": "2022-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The bank that facilitated Iran trade back in focus as India-Russia trade expands",
+  "source": "The Economic Times",
+  "published_utc": "2022-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI leads debit card market while HDFC tops credit card",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank bullish on eastern region growth",
+  "source": "Telegraph India",
+  "published_utc": "2022-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Axis Bank looks to buy near 10% stake in Go Digit Life Insurance",
+  "source": "Reuters",
+  "published_utc": "2022-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank to buy nearly 10% stake in Go Digit Life Insurance",
+  "source": "Livemint",
+  "published_utc": "2022-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata CLiQ Festival of Style Sale: Best offers, deals, and other details",
+  "source": "Smartprix",
+  "published_utc": "2022-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Many Free Cash Withdrawals Allowed In 1-Month In SBI, PNB, And HDFC ATMs",
+  "source": "Goodreturns",
+  "published_utc": "2022-09-27T13:06:17+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Razorpay acquires startup PoshVine to foray into loyalty, rewards management market",
+  "source": "Zee Business",
+  "published_utc": "2022-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Festive Treats 4.0 to \u2018Go BIG\u2019 with 10,000+ Offers",
+  "source": "APAC Media",
+  "published_utc": "2022-09-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Number of active credit cards drops after RBI rule comes into force",
+  "source": "The Economic Times",
+  "published_utc": "2022-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed deposit interest rates may reach 9% mark soon as RBI hikes repo rate",
+  "source": "CNBC TV18",
+  "published_utc": "2022-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI categorises 16 large financial entities as upper-layer NBFCs",
+  "source": "The Times of India",
+  "published_utc": "2022-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI names 16 leading NBFCs in its upper layer list",
+  "source": "Livemint",
+  "published_utc": "2022-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

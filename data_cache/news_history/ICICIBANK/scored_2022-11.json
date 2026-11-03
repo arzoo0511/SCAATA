@@ -1,0 +1,677 @@
+[
+ {
+  "title": "HDFC Bank vs ICICI Bank vs SBI Bank: Which bank is giving higher FD rates?",
+  "source": "Business Today",
+  "published_utc": "2022-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital Rupee: All you need to know",
+  "source": "Jagranjosh.com",
+  "published_utc": "2022-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises charges on NRI savings accounts from November 1; check when, what you have to pay",
+  "source": "The Economic Times",
+  "published_utc": "2022-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI to kickstart e-rupee pilot in G-Secs today",
+  "source": "The Indian Express",
+  "published_utc": "2022-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Probe Agency Questions Industrialist Venugopal Dhoot In ICICI Bank-Videocon Loan Case",
+  "source": "NDTV",
+  "published_utc": "2022-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital rupee launch | Check details on banks participation and impact on payment space",
+  "source": "CNBC TV18",
+  "published_utc": "2022-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Several Banks Participate, In First Pilot Project Of Digital Rupee",
+  "source": "Goodreturns",
+  "published_utc": "2022-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Difference Between India's Digital Currency And Existing Cryptocurrencies | EXPLAINED",
+  "source": "India.com",
+  "published_utc": "2022-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why investors must not rest on ICICI Bank's Q2 laurels",
+  "source": "Livemint",
+  "published_utc": "2022-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Revises Interest Rates On Fixed Deposits; Earn Upto 6.25%",
+  "source": "NDTV Profit",
+  "published_utc": "2022-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Yes Bank revise their Fixed Deposit (FD) rates: Check new rates here",
+  "source": "Business Today",
+  "published_utc": "2022-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises FD rates, offers up to 6.50% on 1 to 3 years of tenor",
+  "source": "Livemint",
+  "published_utc": "2022-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KV Kamath joins RIL board",
+  "source": "The Indian Express",
+  "published_utc": "2022-11-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KV Kamath to head RIL\u2019s financial services biz",
+  "source": "Livemint",
+  "published_utc": "2022-11-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Yes Bank Fixed Deposit (FD) Rates 2022 hiked; check latest return rate here",
+  "source": "Zee News",
+  "published_utc": "2022-11-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RIL ropes in Kamath as NBFC venture\u2019s chairman",
+  "source": "The Times of India",
+  "published_utc": "2022-11-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs ICICI vs HDFC vs Axis Bank vs PNB: What Are The ATM Withdrawal Charges In These Different Banks?",
+  "source": "NDTV Profit",
+  "published_utc": "2022-11-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home Loan Interest Rate 2022: SBI vs HDFC vs ICICI vs PNB housing loan rates compared",
+  "source": "Zee News",
+  "published_utc": "2022-11-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DNA Explainer: What is Digital rupee and how is it different from\u00c2 cryptocurrency?",
+  "source": "DNA India",
+  "published_utc": "2022-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Axis Bank Super Elite Credit Card Launched; Better Than Amazon ICICI Card?",
+  "source": "Gizbot",
+  "published_utc": "2022-11-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Step by Step Guide to Recharge FASTag Via ICICI iMobile App",
+  "source": "India.com",
+  "published_utc": "2022-11-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fake bank operating in Chennai, 8 other places in Tamil Nadu busted",
+  "source": "The Hindu",
+  "published_utc": "2022-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai man arrested for running a fake bank with nine branches",
+  "source": "The News Minute",
+  "published_utc": "2022-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can HDFC Bank Spoil the Party in the Bank Nifty?",
+  "source": "Equitymaster",
+  "published_utc": "2022-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Bank of India appoints Rajnish Khare as Chief Digital Officer",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 reasons why digital rupee is the future of money",
+  "source": "Livemint",
+  "published_utc": "2022-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nagaland: News in pictures",
+  "source": "MorungExpress",
+  "published_utc": "2022-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Julius Baer Adds Team to Grow Northern India Business",
+  "source": "finews.asia",
+  "published_utc": "2022-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prima facie termination of Kochhar as ICICI CEO valid, says HC; won't get post retirement benefits",
+  "source": "The Economic Times",
+  "published_utc": "2022-11-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kochhar can\u2019t access ICICI Bk ESOPs: Bombay high court",
+  "source": "The Times of India",
+  "published_utc": "2022-11-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fraud Alert: Bogus Bank Running 9 Branches; How Not To Become a Mule in Money Matters",
+  "source": "Moneylife",
+  "published_utc": "2022-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Julius Baer Appoints Akul Juneja, As Managing Director Senior Advisor",
+  "source": "BW People",
+  "published_utc": "2022-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MP: 2 persons held in connection with abduction of bank employee in Bhopal",
+  "source": "ANI News",
+  "published_utc": "2022-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Vs HDFC Bank Vs ICICI Bank Vs PNB: Which bank offers highest NRE FD interest rates?",
+  "source": "The Economic Times",
+  "published_utc": "2022-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Children's Day: Imbibe the habit of saving in your child by opening a bank account",
+  "source": "Livemint",
+  "published_utc": "2022-11-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Picks SBI, HDFC, ICICI Bank And Others For Retail CBDC Pilot: Report",
+  "source": "Outlook Business",
+  "published_utc": "2022-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI, IDFC, HDFC, Yes Bank in RBI's list for digital currency pilot",
+  "source": "The Economic Times",
+  "published_utc": "2022-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Bank of India raises fixed deposit interest rates; check latest rates here",
+  "source": "Firstpost",
+  "published_utc": "2022-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hikes FD rates up to 30 bps, offers 7.10% on tenors of 3 to 10 years",
+  "source": "Livemint",
+  "published_utc": "2022-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India receives $472 million from sale of Axis Bank shares - official",
+  "source": "Yahoo Finance Singapore",
+  "published_utc": "2022-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is there more steam left in banking stocks to help Nifty scale a fresh peak? Here's what analysts say",
+  "source": "CNBC TV18",
+  "published_utc": "2022-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Venture makes first investment from fifth PE fund",
+  "source": "Livemint",
+  "published_utc": "2022-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hikes FD interest rates by up to 30 bps; Senior citizens can earn 7.1% on this tenure",
+  "source": "The Economic Times",
+  "published_utc": "2022-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Raises Interest Rate On Fixed Deposits; Check Latest Rates Here",
+  "source": "News18",
+  "published_utc": "2022-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fraud Alert: Impersonation on Twitter; Beware of Dubious Apps, Links",
+  "source": "Moneylife",
+  "published_utc": "2022-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches dollar bond, deposit-linked loan for NRIs at GIFT City",
+  "source": "Business Standard",
+  "published_utc": "2022-11-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bike Borne Assailants shoot Purabi Dairy Manager in Guwahati",
+  "source": "Northeast Live",
+  "published_utc": "2022-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU Banks: Government Raises The Maximum Tenure Of CEOs And MDs To 10 Years",
+  "source": "Swarajya",
+  "published_utc": "2022-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks Recover only 13% of Rs 10 Lakh Crore Loans Written off in Last 5 Years",
+  "source": "NewsClick",
+  "published_utc": "2022-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches new products for NRIs at its GIFT City branch",
+  "source": "The Economic Times",
+  "published_utc": "2022-11-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank vs ICICI Bank vs Axis Bank: Which bank offers highest fixed deposit (FD) interest rates",
+  "source": "Livemint",
+  "published_utc": "2022-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches loan against deposits, dollar bonds for NRIs: All you need to know",
+  "source": "Livemint",
+  "published_utc": "2022-11-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches loan against deposits and dollar bonds for NRI customers",
+  "source": "CNBC TV18",
+  "published_utc": "2022-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: Why are private banks going old school and opening more branches?",
+  "source": "CNBC TV18",
+  "published_utc": "2022-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises bulk FD rates from today, interest rate as high as 6.80%",
+  "source": "Livemint",
+  "published_utc": "2022-11-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Black Friday Sale: Deals on Samsung Galaxy S22, Z Flip 3, and more",
+  "source": "Livemint",
+  "published_utc": "2022-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Axis Bank, others to acquire 10% stake each in JV of IOCL, CPCL",
+  "source": "Livemint",
+  "published_utc": "2022-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BT 500: The champion companies of the bourses",
+  "source": "Business Today",
+  "published_utc": "2022-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These Re 1, 50 paise coins are going out of circulation",
+  "source": "The Economic Times",
+  "published_utc": "2022-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Virar ICICI bank murder accused escapes in Vasai",
+  "source": "Mid-Day",
+  "published_utc": "2022-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra: Murder-accused undertrial prisoner flees Vasai court",
+  "source": "The Indian Express",
+  "published_utc": "2022-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises bulk FD rates, earn up to 6.80% on 15 months to 3 years",
+  "source": "Livemint",
+  "published_utc": "2022-11-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai: Motorcyclist who helped sacked banker escape was ex-inmate",
+  "source": "Mid-Day",
+  "published_utc": "2022-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home Loan Interest Rate 2022: SBI vs HDFC vs ICICI vs PNB vs LIC rates compared; Check EMI calculator",
+  "source": "Zee News",
+  "published_utc": "2022-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI strengthens tech leadership, appoints Balaji Rajagopalan as CTO",
+  "source": "ET Edge Insights",
+  "published_utc": "2022-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kamath hires old comrade to power Jio Fin juggernaut",
+  "source": "Livemint",
+  "published_utc": "2022-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Launches \u2018iLens\u2019, Powered by the TCS Lending Platform",
+  "source": "Tata Consultancy Services",
+  "published_utc": "2022-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches new digital lending platform iLens",
+  "source": "Business Today",
+  "published_utc": "2022-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches digital lending solution iLens in partnership with TCS",
+  "source": "CNBC TV18",
+  "published_utc": "2022-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches iLens, backed by TCS lending platform",
+  "source": "HW News English",
+  "published_utc": "2022-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital Rupee coming on Dec 1, here is everything to know about it",
+  "source": "India Today",
+  "published_utc": "2022-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India launches digital rupee pilot project: what is it and how will it work?",
+  "source": "The Indian Express",
+  "published_utc": "2022-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank eyes rural pie; ICICI Bank, HDFC Bank lead",
+  "source": "The Financial Express",
+  "published_utc": "2022-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Things to keep in mind while choosing your AD Bank for export-import transactions",
+  "source": "The Economic Times",
+  "published_utc": "2022-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Black Friday sale ends tonight: Offers on iPhone 11, Pixel 7 and more",
+  "source": "Livemint",
+  "published_utc": "2022-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

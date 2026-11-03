@@ -1,0 +1,128 @@
+[
+ {
+  "title": "ITC declares interim dividend of \u20b96. Check record date, other details",
+  "source": "Livemint",
+  "published_utc": "2023-02-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Q3 Results Review - Another Quarter Of Positive Surprise On Cigarette Volumes, FMCG: Systematix",
+  "source": "NDTV Profit",
+  "published_utc": "2023-02-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s cigarette biz lit up in Dec qtr",
+  "source": "Livemint",
+  "published_utc": "2023-02-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Q3 Results Review - Robust Cigarettes Volume Growth Continues: ICICI Direct",
+  "source": "NDTV Profit",
+  "published_utc": "2023-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Caspian aims final close of agri-focussed fund at Rs 52 cr",
+  "source": "VCCircle",
+  "published_utc": "2023-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC sets aside NCDRC order awarding compensation of Rs two crore to model for faulty hair cut",
+  "source": "ETLegalWorld.com",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC sets aside Consumer panel's order to ITC Maurya to pay Rs two Cr to model for shoddy hair cut [Read Judgment]",
+  "source": "LawStreet Journal",
+  "published_utc": "2023-02-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs. 2 Crores compensation for a bad haircut? Maybe! But not in absence of material supporting claim of loss suffered; Supreme Court asks NCDRC to decide matter afresh",
+  "source": "SCC Online",
+  "published_utc": "2023-02-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What India's Best Stocks Look Like: The 11 Stocks You Must Own",
+  "source": "Equitymaster",
+  "published_utc": "2023-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dividend paying ITC stock in focus as share trades ex-dividend today",
+  "source": "Livemint",
+  "published_utc": "2023-02-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Australian brand Anko makes India foray",
+  "source": "YourStory.com",
+  "published_utc": "2023-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fortune Hotels sets foot in Kanpur",
+  "source": "HospiBuz",
+  "published_utc": "2023-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hindustan Unilever to sell atta, salt brands to Singapore co for \u20b9604 mln",
+  "source": "Free Press Journal",
+  "published_utc": "2023-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Are metaverse weddings the next big thing?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

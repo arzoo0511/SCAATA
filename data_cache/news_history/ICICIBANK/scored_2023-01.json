@@ -1,0 +1,821 @@
+[
+ {
+  "title": "ICICI Bank revises bulk FD rates, new interest rates are effective from today",
+  "source": "Livemint",
+  "published_utc": "2023-01-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The unfortunate case of Chanda Kochhar\u2014notes from a former colleague",
+  "source": "Forbes India",
+  "published_utc": "2023-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India contemplates transactions in digital currency",
+  "source": "Xinhua",
+  "published_utc": "2023-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCDRC Allows Claim Which ICICI Lombard Denied for Death due to Diseases Not Listed in the Policy",
+  "source": "Moneylife",
+  "published_utc": "2023-01-02T12:39:38+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI, HDFC Bank remain systemically important banks: RBI",
+  "source": "The Indian Express",
+  "published_utc": "2023-01-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI systemically important lenders",
+  "source": "The New Indian Express",
+  "published_utc": "2023-01-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI Bank, HDFC Bank remain domestic systemically important banks, RBI says",
+  "source": "The Economic Times",
+  "published_utc": "2023-01-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI Bank, HDFC Bank continue to be too big to fail",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-01-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar could be in a deeper mess",
+  "source": "Livemint",
+  "published_utc": "2023-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI board approves raising \u20b910,000 crore via infrastructure bonds",
+  "source": "Livemint",
+  "published_utc": "2023-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Introduces First-of-its-Kind Digital Solutions for Exporters",
+  "source": "AffairsCloud",
+  "published_utc": "2023-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How To Register For ICICI Bank WhatsApp Banking?",
+  "source": "NDTV Profit",
+  "published_utc": "2023-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Customers with some banks complain of issues concerning re-KYC",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches industry-first digital solutions for exporters",
+  "source": "KNN India",
+  "published_utc": "2023-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches digital solutions for exporters",
+  "source": "Indiablooms",
+  "published_utc": "2023-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces digital solutions for exporters",
+  "source": "Elets BFSI",
+  "published_utc": "2023-01-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon scam: Dhoot plea against arrest rejected; Kochhars request for home food, beds, mattresses denied",
+  "source": "Livemint",
+  "published_utc": "2023-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dubey: \u2018The Professor of heist\u2019 from Nalasopara",
+  "source": "Hindustan Times",
+  "published_utc": "2023-01-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay High Court To Pass Order On Kochhars' Plea For Interim Release In ICICI Loan Fraud Case On Monday",
+  "source": "Live Law",
+  "published_utc": "2023-01-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best ICICI Credit Cards Of 2024",
+  "source": "Forbes",
+  "published_utc": "2023-01-07T03:12:13+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank pays up to 7.15% return on bulk FD, new rates are in force from today",
+  "source": "Livemint",
+  "published_utc": "2023-01-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Bank to gain most in rate resets as majority loans linked to external benchmarks",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-01-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BREAKING: Bombay High Court Orders Release of Ex- ICICI Bank CEO Chanda Kochhar, Her Husband In Loan...",
+  "source": "Live Law",
+  "published_utc": "2023-01-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "8 Types Of ICICI Bank Savings Accounts And What They Offer",
+  "source": "NDTV Profit",
+  "published_utc": "2023-01-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian court grants bail to ICICI Bank ex-CEO Chanda Kochhar",
+  "source": "Reuters",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Book excerpt | How Sandeep Bakhshi set aside hierarchy and reset ICICI Bank's culture after Chanda...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay HC grants bail to ex-ICICI Bank MD Chanda Kochhar, husband Deepak Kochhar in ICICI-Videocon loan f",
+  "source": "The Times of India",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank-Videocon loan fraud: Bombay High Court grants bail to Chanda, Deepak Kochhar",
+  "source": "Business Today",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon Group loan case: Bombay HC calls arrest of Chanda and Deepak Kochhar \u2018illegal\u2019, orders release",
+  "source": "The Hindu",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon loan scam case: Bombay HC orders release of Chanda, Deepak Kochhar from jail",
+  "source": "LawStreet Journal",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay High Court Orders Release of Former ICICI Bank CEO Chanda Kochhar and Her Husband in a Loan Fraud Case",
+  "source": "Law Trend",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay HC reserves verdict in interim release plea by Chanda, Deepak Kochhar against \u2018illegal\u2019 arrest by CBI",
+  "source": "The Indian Express",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay HC grants bail to Chanda Kochhar and her husband Deepak Kochhar",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New locker rules: Banks need to provide new locker agreement to customers by Jan 1, 2023",
+  "source": "The Economic Times",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Life Insurance signed Suryakumar Yadav for a new campaign",
+  "source": "Adda247",
+  "published_utc": "2023-01-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Video | Ex-ICICI Bank CEO Chanda Kochhar Leaves Jail Day After Court Relief",
+  "source": "NDTV",
+  "published_utc": "2023-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar, husband freed from jail in ICICI Bank-Videocon loan fraud case | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2023-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank-Videocon loan case: Chanda Kochhar, husband Deepak Kochhar released",
+  "source": "Mid-Day",
+  "published_utc": "2023-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex Banker Chanda Kochhar Leaves Jail Day After Court Says Arrest Illegal",
+  "source": "NDTV",
+  "published_utc": "2023-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar, her husband Deepak Kochhar released from jail",
+  "source": "The Hindu",
+  "published_utc": "2023-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why some customers complained about bank locker renewal rules",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar, husband Deepak released from jail day after HC grants interim bail",
+  "source": "The News Minute",
+  "published_utc": "2023-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan fraud case: Chanda Kochhar, husband Deepak walk out of jail",
+  "source": "The Indian Express",
+  "published_utc": "2023-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Q3FY23 Results: Strong loan growth, margin improvement to drive earnings for top banks; Sharekhan picks 7 stocks for gains",
+  "source": "Zee Business",
+  "published_utc": "2023-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank loan fraud case: Bombay HC to hear plea of Videocon's Venugopal Dhoot against 'illegal' arrest by CBI",
+  "source": "Republic World",
+  "published_utc": "2023-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former MD and CEO of ICICI Bank Chanda Kochhar comes out of Byculla jail",
+  "source": "Prokerala",
+  "published_utc": "2023-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCDRC Asks ICICI Bank To Recalculate Home Loan EMI, Also Directs ICICI Prudential To Issue Policy",
+  "source": "Moneylife",
+  "published_utc": "2023-01-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to Open a Demat Account for NRI in India",
+  "source": "ICICI Direct",
+  "published_utc": "2023-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home Loan: Make Sure Builder's Promise To Pay EMIs till Possession Is Mentioned in the Agreement",
+  "source": "Moneylife",
+  "published_utc": "2023-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ujjivan SFB vs IDFC First Bank vs RBL Bank: 10 banks offering high fixed deposit rates",
+  "source": "Business Today",
+  "published_utc": "2023-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How ICICI Bank burned an $850 million hole with wrong bet on Australian coal mine",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank wins \u2018Bank of the Year\u2019 at 27th edition of BT-KPMG Best Banks & Fintechs Awards",
+  "source": "Business Today",
+  "published_utc": "2023-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank loan fraud case: HC reserves order on Venugopal Dhoot\u2019s plea for bail | Mumbai news",
+  "source": "Hindustan Times",
+  "published_utc": "2023-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s STACK aims to boost real-estate sectors in India",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is this a good time to shift your home loan to another bank?",
+  "source": "Livemint",
+  "published_utc": "2023-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loan fraud case: Court allows CBI to slap stringent charge on Chanda Kochhar | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2023-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest Bank Fixed Deposit (FD) Interest Rates in India for 2023",
+  "source": "The Economic Times",
+  "published_utc": "2023-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "On CCTV, Man With Guns In Both Hands Loots Rs 10 Lakh From ATM Cash Van",
+  "source": "NDTV",
+  "published_utc": "2023-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Strange Story of ICICI Bank\u2019s Murky Bailout of Lanco\u2019s Bankrupt Australian Coal Mine",
+  "source": "Moneylife",
+  "published_utc": "2023-01-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Saving Days sale: Deals on budget smartphones under \u20b910,000",
+  "source": "Livemint",
+  "published_utc": "2023-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best Current Accounts In India",
+  "source": "Forbes",
+  "published_utc": "2023-01-18T15:19:29+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State Bank of India Appoints Murli Nambiar As Chief Information Security Officer",
+  "source": "W.Media",
+  "published_utc": "2023-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon Chairman Venugopal Dhoot Gets Bail In ICICI Bank Loan Fraud Case",
+  "source": "NDTV",
+  "published_utc": "2023-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon founder Venugopal Dhoot gets interim bail in ICICI Bank loan fraud case",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank loan fraud case: After Kochhars, Bombay HC grants interim bail to Videocon\u2019s Venugopal Dhoot",
+  "source": "The Hindu",
+  "published_utc": "2023-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian banks can report stronger financial results in Q3 FY23; Here's why",
+  "source": "Business Today",
+  "published_utc": "2023-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q3 preview: PAT likely to rise on healthy margins, provisions may stay at low levels",
+  "source": "Livemint",
+  "published_utc": "2023-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flipkart Big Saving Days sale ends today: Top deals on flagship smartphones",
+  "source": "Livemint",
+  "published_utc": "2023-01-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India ICICI Bank\u2019s profit jumps 34% in October-December",
+  "source": "Reuters",
+  "published_utc": "2023-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank posts 34% rise in Q3 PAT to \u20b98,312 cr, NII surges by 35%",
+  "source": "Livemint",
+  "published_utc": "2023-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q3 net jumps 34% to \u20b98,312 crore, buoyed by growth in loans, net interest income",
+  "source": "The Hindu",
+  "published_utc": "2023-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s Profit Beats Estimates on Surprise Margin Growth",
+  "source": "Bloomberg.com",
+  "published_utc": "2023-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank net profit up 34% to Rs 8,312 cr",
+  "source": "The Indian Express",
+  "published_utc": "2023-01-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank is transforming banking through tech infusion, but is that enough?",
+  "source": "Business Today",
+  "published_utc": "2023-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, RBL, Axis, IDFC First raise deposit rates to meet credit growth",
+  "source": "Business Standard",
+  "published_utc": "2023-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors Partners with ICICI Bank to Offer Financing for Electric Vehicle Dealers",
+  "source": "Tata Motors",
+  "published_utc": "2023-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank remains a top stock pick after strong Q3 beat, brokerages see huge upside",
+  "source": "Livemint",
+  "published_utc": "2023-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest NRE FD interest rates: SBI Vs HDFC Bank Vs ICICI Bank Vs Federal Bank vs PNB",
+  "source": "The Economic Times",
+  "published_utc": "2023-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All Winners of BT-KPMG Best Banks Awards: ICICI Bank Awarded Best Bank Of The Year",
+  "source": "Business News",
+  "published_utc": "2023-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to apply for Kisan Credit Card - Check eligibility, interest rate, limit, documents",
+  "source": "Zee Business",
+  "published_utc": "2023-01-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive: Videocon loan case: Dhoot co-founded NuPower at own office address, documents reveal",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Digital Juggernaut rolls on",
+  "source": "Banking Frontiers",
+  "published_utc": "2023-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hikes bulk FD rates now offer up to 7.15% effective from today",
+  "source": "Livemint",
+  "published_utc": "2023-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks That Provide Agriculture Loans",
+  "source": "Krishi Jagran",
+  "published_utc": "2023-01-25T10:49:03+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card spends in Dec cross Rs 1 trillion for 10th month in a row",
+  "source": "Rediff",
+  "published_utc": "2023-01-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 4,760 crore bank fraud: CBI registers case against GTL Ltd directors, bankers",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-01-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank real estate STACK- a comprehensive digital banking solution for real estate sector",
+  "source": "ET Realty",
+  "published_utc": "2023-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian banks have \u20b981,200 cr exposure to Adani group; 40% of its debt",
+  "source": "Fortune India",
+  "published_utc": "2023-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank vs Axis Bank: Which is a better long-term investment?",
+  "source": "Livemint",
+  "published_utc": "2023-01-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Croma Offers: Get the Noise Buds Smart TWS Earbuds at just \u20b91,099 on Croma!",
+  "source": "The Tech Outlook",
+  "published_utc": "2023-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fundamental Analysis of ICICI Bank - Company, Financials & More",
+  "source": "Trade Brains",
+  "published_utc": "2023-01-31T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

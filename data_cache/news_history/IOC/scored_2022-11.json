@@ -1,0 +1,380 @@
+[
+ {
+  "title": "Petrol, diesel prices not to get cheaper by 40 paise from today",
+  "source": "India Today",
+  "published_utc": "2022-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices slashed by 40 paise per litre? Here's what oil companies say",
+  "source": "India TV News",
+  "published_utc": "2022-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India raises ethanol purchase prices for state-run fuel retailers",
+  "source": "Reuters",
+  "published_utc": "2022-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL Earnings Preview: One-time grant may cushion losses for now",
+  "source": "CNBC TV18",
+  "published_utc": "2022-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol-Diesel Prices Today, November 3: Check latest fuel rates in Delhi, Noida, Gurugram, Lucknow, Bengaluru, Patna, Chandigarh and other cities",
+  "source": "Zee Business",
+  "published_utc": "2022-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NOC refuses to reduce fuel prices despite the Rs 180 million fortnightly profit",
+  "source": "OnlineKhabar English News",
+  "published_utc": "2022-11-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tirupati temple richer than Wipro, Nestle, ONGC and Indian Oil",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MEIL wins contract to build Mongolia\u2019s first oil refinery",
+  "source": "Construction World",
+  "published_utc": "2022-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL Earnings Preview: Quarterly loss expected with clarity on LPG grant",
+  "source": "CNBC TV18",
+  "published_utc": "2022-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "VAW-2022 Valedictory Session at Indian Oil Bhavan \u2013 Chennai",
+  "source": "PIB",
+  "published_utc": "2022-11-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u201cTerminal absolutely safe\u201d, Indian Oil clarifies reports of fire at its Patna Depot",
+  "source": "ThePrint",
+  "published_utc": "2022-11-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How are fuel prices decided in India? MintGenie explains",
+  "source": "Livemint",
+  "published_utc": "2022-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fire breaks out in plastic manufacturing factory in Patna, no casualties",
+  "source": "India Today",
+  "published_utc": "2022-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bihar Fire: Massive Blaze at Plastic Factory Near IOC Depot in Sapara",
+  "source": "LatestLY",
+  "published_utc": "2022-11-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OMCs\u2019 losses mount to Rs 21K crore in first half",
+  "source": "The New Indian Express",
+  "published_utc": "2022-11-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Ports acquires 49 per cent stake in Indian Oiltanking for Rs 1,050 crore",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil aims to restart naphtha cracker by mid-Dec",
+  "source": "Reuters",
+  "published_utc": "2022-11-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Ports acquires 49.38% stake in Indian Oiltanking for Rs1,050 crore",
+  "source": "Moneylife",
+  "published_utc": "2022-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian petrochemical demand could rise threefold by 2040: Report",
+  "source": "Livemint",
+  "published_utc": "2022-11-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India can buy as much Russian oil as it wants, says US. Terms and conditions apply",
+  "source": "India Today",
+  "published_utc": "2022-11-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation to recycle 20 million PET bottles annually for eco-friendly uniforms for staff",
+  "source": "The Tribune",
+  "published_utc": "2022-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive: India can buy as much Russian oil as it wants, outside price cap, Yellen says",
+  "source": "Reuters",
+  "published_utc": "2022-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL, Indian Oil give walkovers in Times Shield",
+  "source": "The Times of India",
+  "published_utc": "2022-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian refiners becoming wary of buying Russian oil as EU sanctions loom - sources",
+  "source": "Reuters",
+  "published_utc": "2022-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All domestic LPG cylinders to have QR codes over next three months: IOCL",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Retired BPCL chairman Arun Kumar Singh to be next head of ONGC",
+  "source": "The New Indian Express",
+  "published_utc": "2022-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Richie rich pump over Rs 15,000 crore in ITC, Titan, 8 other stocks in Q2",
+  "source": "The Economic Times",
+  "published_utc": "2022-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After four-year lull, Indian oil sardines have returned in huge numbers to the Kerala coast",
+  "source": "The South First",
+  "published_utc": "2022-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel price in Delhi, Mumbai, Kolkata, Chennai and other Indian cities on November 18",
+  "source": "The Times of India",
+  "published_utc": "2022-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s developing green hydrogen ecosystem could help in global decarbonisation",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-11-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chandigarh\u2019s Yuvraj Sandhu equals record, wins 5th PGTI tourney in a year",
+  "source": "The Indian Express",
+  "published_utc": "2022-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Opinion: Why Hydrogen needs to be one of the prime pillars in India\u2019s adoption of sustainable energy",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SHV Energy expands its LPG terminal at Tuticorin",
+  "source": "Construction World",
+  "published_utc": "2022-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s oil buyers make a push for Russia crude before sanctions",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CPCL and IOCL sign pact for Nagapattinam refinery",
+  "source": "The Hindu",
+  "published_utc": "2022-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Axis Bank, others to acquire 10% stake each in JV of IOCL, CPCL",
+  "source": "Livemint",
+  "published_utc": "2022-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CPCL-IOCL sign JV agreement for 9 MMTPA Nagapattinam refinery",
+  "source": "Indian Chemical News",
+  "published_utc": "2022-11-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Nifty 50 hits record high as oil firms jump",
+  "source": "Reuters",
+  "published_utc": "2022-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Odisha: Govt eyes huge investments in textile sector",
+  "source": "The Times of India",
+  "published_utc": "2022-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India shares defy global weakness, on oil slide to close at new record",
+  "source": "Reuters",
+  "published_utc": "2022-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil stocks rise on Kirit Parikh panel recommendations; IGL, IOC gain up to 4%",
+  "source": "Fortune India",
+  "published_utc": "2022-11-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How govt\u2019s iron hand helped IOC\u2019s Puthuvype LPG project",
+  "source": "The New Indian Express",
+  "published_utc": "2022-11-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

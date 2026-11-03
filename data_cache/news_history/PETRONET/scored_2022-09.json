@@ -1,0 +1,65 @@
+[
+ {
+  "title": "Reliance, ONGC, Indian Oil shares slip after hike in windfall tax on crude",
+  "source": "CNBC TV18",
+  "published_utc": "2022-09-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG Ltd to invest Rs 40,000 cr in 5 yrs to expand import infra",
+  "source": "Business Standard",
+  "published_utc": "2022-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MSTC eyes e-commerce biz; ties with Reliance, Vedanta, Tata Power, others",
+  "source": "Business Standard",
+  "published_utc": "2022-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UP SEVEN IAS OFFICERS RESHUFFLED AMRITA SONI AS OSD TO CHIEF SECRETARY",
+  "source": "IndianMandarins",
+  "published_utc": "2022-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KERALA IAS UNFURLS NATIONAL FLAG ON MOUNT NUN",
+  "source": "IndianMandarins",
+  "published_utc": "2022-09-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Blue Energy unveils first LNG-powered truck",
+  "source": "LNG Prime",
+  "published_utc": "2022-09-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PFC RESOLVES ANOTHER LARGEST STRESSED TRANSMISSION ASSET",
+  "source": "IndianMandarins",
+  "published_utc": "2022-09-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

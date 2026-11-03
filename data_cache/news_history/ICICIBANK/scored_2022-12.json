@@ -1,0 +1,920 @@
+[
+ {
+  "title": "ICICI Bank launches STACK for companies in real estate sector",
+  "source": "Livemint",
+  "published_utc": "2022-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Navi Mumbai metro project receives Rs 500 crore credit from ICICI Bank",
+  "source": "ET Realty",
+  "published_utc": "2022-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank sees potential in real estate sector",
+  "source": "Livemint",
+  "published_utc": "2022-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All you need to know about e-Rupee",
+  "source": "Deccan Chronicle",
+  "published_utc": "2022-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks hike loan interest rates: ICICI Bank, PNB, Bank of India increase MCLR on loans",
+  "source": "The Economic Times",
+  "published_utc": "2022-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank holidays in December 2022: Banks to remain closed on these days this month. Check full list here",
+  "source": "Livemint",
+  "published_utc": "2022-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank lockers",
+  "source": "economictimes.com",
+  "published_utc": "2022-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Financial Closure of Navi Mumbai Metro, CIDCO gets \u20b9500 crores line of credit by ICICI Bank",
+  "source": "Free Press Journal",
+  "published_utc": "2022-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private lender ICICI Bank to bet big on real estate sector",
+  "source": "The Economic Times",
+  "published_utc": "2022-12-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank adopting a 360-degree approach in corporate banking business",
+  "source": "Business Standard",
+  "published_utc": "2022-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard, AU Small Finance Bank signs bancassurance agreement",
+  "source": "Business Today",
+  "published_utc": "2022-12-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Morgan Stanley upbeat on ICICI Bank, sees Rs 320 gain per share",
+  "source": "Zee Business",
+  "published_utc": "2022-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "For ICICI Bank, it\u2019s over to execution",
+  "source": "Livemint",
+  "published_utc": "2022-12-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paying rent using credit card? Know charges by SBI Card, HDFC Bank, ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2022-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Car Loan Interest Rate: Check SBI vs HDFC vs ICICI vs PNB EMI calculator, comparison, processing fee, other details",
+  "source": "Zee News",
+  "published_utc": "2022-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digital payments in India touch Rs 38.3 lakh crore at over 23 billion transactions",
+  "source": "Zee Business",
+  "published_utc": "2022-12-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises bulk FD rates, new interest rates are effective as of today",
+  "source": "Livemint",
+  "published_utc": "2022-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "250 graduates attend ICICI job mela in Khammam",
+  "source": "Telangana Today",
+  "published_utc": "2022-12-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank revises bulk FD rates, new interest rates are effective from today",
+  "source": "Livemint",
+  "published_utc": "2022-12-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC and ICICI Bank are the most considered finance brands by urban Indians",
+  "source": "YouGov",
+  "published_utc": "2022-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance hit most as top 5 out of 10 firms lose \u20b91.67 lakh crore in m-cap",
+  "source": "Livemint",
+  "published_utc": "2022-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Banks not required to inform about rate change in floating plan': NCRDC",
+  "source": "Business Standard",
+  "published_utc": "2022-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Borrowers don't have to be told individually about change in rates: Consumer court",
+  "source": "The Economic Times",
+  "published_utc": "2022-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Big Game Fest: Best deals on premium TVs",
+  "source": "Livemint",
+  "published_utc": "2022-12-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank vs ICICI Bank: Check latest FD rates here",
+  "source": "Business Today",
+  "published_utc": "2022-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank enables FASTag based parking payment at Terminal 2 of Mumbai airport",
+  "source": "Cityairnews",
+  "published_utc": "2022-12-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus Community Sale 2022: OnePlus 10T at Rs 44,999, OnePlus Nord 2T at Rs 26,099",
+  "source": "The Indian Express",
+  "published_utc": "2022-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loan Agreement Provides For Change Of Interest Rate ; No \"Unfair Trade Practice\" :NCDRC",
+  "source": "Live Law",
+  "published_utc": "2022-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai Airport: Now, You Can Use FASTag To Pay Parking Charges; ICICI Bank Launches Facility",
+  "source": "News18",
+  "published_utc": "2022-12-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Railways: From Vande Bharat Express to Rajdhani \u2013 List of top trains",
+  "source": "Times Now",
+  "published_utc": "2022-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hikes FD rates by up to 60 bps, general public can now get up to 7%",
+  "source": "Livemint",
+  "published_utc": "2022-12-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karnataka Bank debuts limited time FD tenor of 91 to 100 days at 7.40% interest",
+  "source": "Livemint",
+  "published_utc": "2022-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Realme 10 Pro 5G first sale today at 12pm via Flipkart: Price and offers",
+  "source": "Livemint",
+  "published_utc": "2022-12-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Outlook for the Week (Dec 19, 2022 \u2013 Dec 23, 2022)",
+  "source": "Equitypandit",
+  "published_utc": "2022-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Which bank is offering highest FD interest rate after latest hikes: SBI vs HDFC Bank Vs ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2022-12-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MD &CEO of ICICI Bank Bakhshi gets extension",
+  "source": "Whispers in the Corridors",
+  "published_utc": "2022-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks' written-off loans reach Rs 10 lakh crore in last 5 years, shows data",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks not required to inform about interest rate change in floating plan: Consumer Court",
+  "source": "Livemint",
+  "published_utc": "2022-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank wallets rank higher in user recommendations, ICICI's Pockets tops chart",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-12-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shocked by sudden change in EMI amount? Banks can do it without informing you, says NCDRC",
+  "source": "The Financial Express",
+  "published_utc": "2022-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD premature withdrawal charges of SBI, HDFC Bank, ICICI Bank, PNB",
+  "source": "The Economic Times",
+  "published_utc": "2022-12-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former ICICI Bank CEO Chanda Kochhar arrested in loan fraud case -source",
+  "source": "Reuters",
+  "published_utc": "2022-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-ICICI Bank CEO Chanda Kochhar, Husband Arrested In Loan Fraud Case",
+  "source": "NDTV",
+  "published_utc": "2022-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI arrests ICICI Bank\u2019s former CEO Chanda Kochhar and husband Deepak Kochhar for taking bribes for allotting loans to Videocon Group",
+  "source": "PGurus",
+  "published_utc": "2022-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former ICICI Bank CEO-MD Chanda Kochhar, husband Deepak Kochhar arrested in Videocon loan case",
+  "source": "The Indian Express",
+  "published_utc": "2022-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank vs Canara Bank vs ICICI Bank vs PNB: Which bank offers the best interest rate to senior c",
+  "source": "The Economic Times",
+  "published_utc": "2022-12-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI arrests ICICI Bank ex-chief Kochhar, husband in loan case",
+  "source": "The Times of India",
+  "published_utc": "2022-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-ICICI Bank CEO Chanda Kochhar, husband arrested by CBI in loan fraud case",
+  "source": "The News Minute",
+  "published_utc": "2022-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loan fraud case: ICICI Bank ex-CEO-MD Chanda Kochhar, husband Deepak remanded to CBI custody for 3 days",
+  "source": "The Times of India",
+  "published_utc": "2022-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-ICICI Bank CEO Chanda Kochhar, husband sent to 3-day CBI custody in Videocon loan case",
+  "source": "India Today",
+  "published_utc": "2022-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former ICICI Bank CEO Chanda Kochhar arrested for loan fraud in old case",
+  "source": "NewsGram",
+  "published_utc": "2022-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loan fraud case: Ex-ICICI Bank MD Chanda Kochhar, husband remanded to 3-day CBI custody",
+  "source": "The Times of India",
+  "published_utc": "2022-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon loan case: Court remands former ICICI Bank CEO-MD Chanda Kochhar, husband in CBI custody till Dec",
+  "source": "The Economic Times",
+  "published_utc": "2022-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon loan case: Mumbai court remands Chanda Kochhar, husband Deepak Kochhar to three days' CBI custody",
+  "source": "Bar and Bench",
+  "published_utc": "2022-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Current Affairs Quiz: 23 December 2022",
+  "source": "AffairsCloud",
+  "published_utc": "2022-12-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB, HDFC, ICICI, South Indian Bank: These banks have hiked interest rates on\u00c2 Fixed\u00c2 Deposits",
+  "source": "DNA India",
+  "published_utc": "2022-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar's net worth: What is former ICICI Bank CEO-MD's fortune?",
+  "source": "DNA India",
+  "published_utc": "2022-12-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Treat for Salman Khan fans on \u2018Bhaijaan\u2019s birthday; Being Human Clothing announces special offer",
+  "source": "India TV News",
+  "published_utc": "2022-12-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar: Things owned by the Former ICICI CEO-MD",
+  "source": "The Financial Express",
+  "published_utc": "2022-12-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s CBI Arrests Videocon\u2019s Dhoot After ICICI Bank Ex-CEO",
+  "source": "Bloomberg.com",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon Loan Case: ICICI Bank's Ex-CEO Chanda Kochhar, Her Husband Remanded To CBI Custody Till...",
+  "source": "Verdictum",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loan fraud case: Venugopal Dhoot, Chanda Kochhar and husband Deepak sent to CBI custody till December 28",
+  "source": "The Indian Express",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar, Husband Deepak and Videocon's Venugopal Dhoot in CBI Custody till 28th December in ICICI Bank Loan Fraud Case",
+  "source": "Moneylife",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI arrests Videocon founder Venugopal Dhoot in ICICI Bank loan fraud case",
+  "source": "Firstpost",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 Points On Ex-ICICI Bank Chief Chanda Kochhar, Arrested By CBI",
+  "source": "NDTV",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar Saga: From Padma Bhushan awardee to a fraud convict",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking sector giant Chanda Kochhar's rise and fall",
+  "source": "India Today",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon chief Venugopal Dhoot arrested in loan fraud case: All you need to know",
+  "source": "India Today",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI arrests Videocon founder Venugopal Dhoot, to be produced in court soon",
+  "source": "The Times of India",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Venugopal Dhoot: 5 Points On Videocon CEO Arrested In Loan Case",
+  "source": "NDTV",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loan Fraud Case: CBI arrests Videocon CEO Venugopal Dhoot",
+  "source": "The Economic Times",
+  "published_utc": "2022-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Ex-CEO Chanda Kochhar, husband move HC, call arrest in fraud case 'illegal'",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: What Led To Former ICICI Bank CEO Chanda Kochhar's Arrest | BOOM",
+  "source": "BOOM Fact Check",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay High Court Refuses Urgent Hearing To Former ICICI Bank CEO Chanda Kochhar In Plea Against Arrest",
+  "source": "Live Law",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cbi: Videocon\u2019s Dhoot held in ICICI Bank Rs 1,700 crore loan fraud case",
+  "source": "The Times of India",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, ICICI Bank, Axis Bank to launch RuPay credit cards on UPI by March",
+  "source": "Economic Times BFSI",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay HC refuses urgent hearing to Kochhars seeking release",
+  "source": "The Hindu",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Videocon founder Dhoot arrested in ICICI Bank loan fraud case",
+  "source": "ET EnergyWorld",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI Arrests Former ICICI Bank CEO Chanda Kochhar And Husband Deepak Kochhar",
+  "source": "BW Legal World",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The rise and fall of the banking sector titan, Chanda Kochhar",
+  "source": "Lifestyle Asia Hong Kong",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBI arrests Videocon Group founder Venugopal Dhoot in ICICI loan fraud case",
+  "source": "Business Standard",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From an industry leader to a defaulter: Rise and fall of Venugopal Dhoot",
+  "source": "The New Indian Express",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wedding of ex-ICICI Bank CEO Chanda Kochhar's son fixed for Jan 2023: All about Arjun Kochhar",
+  "source": "Business Today",
+  "published_utc": "2022-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loan Fraud Case: Former ICICI Bank CEO Chanda Kochhar, Husband Approach Bombay HC Against Their Arrest",
+  "source": "Verdictum",
+  "published_utc": "2022-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-Forbes lister Venugopal Dhoot and Videocon's 'big con' on ICICI Bank",
+  "source": "Business Standard",
+  "published_utc": "2022-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar fails to get relief from the Court in ICICI-Videocon loan case",
+  "source": "Imphal Times",
+  "published_utc": "2022-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Court extends CBI custody of Chanda Kochhar, Deepak Kochhar and Venugopal Dhoot till 29 December",
+  "source": "Livemint",
+  "published_utc": "2022-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Chanda Kochhar\u2019s family built a green power firm with blessings from Dhoots",
+  "source": "Moneycontrol.com",
+  "published_utc": "2022-12-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Gogoi-led bench\u2019s 2016 ruling enabled ICICI ex-CEO Kochhar\u2019s arrest \u2014 \u2018pvt bank, public servant\u2019",
+  "source": "ThePrint",
+  "published_utc": "2022-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda, Deepak Kochhar, Venugopal Dhoot sent to judicial custody",
+  "source": "The Hindu",
+  "published_utc": "2022-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loan fraud case: Chanda Kochhar, Deepak Kochhar and Venugopal Dhoot sent to 14-day judicial custody",
+  "source": "Livemint",
+  "published_utc": "2022-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-ICICI Bank CEO Chanda Kochhar, Husband Deepak Kochhar And Videocon Founder Venugopal Dhoot Sent To...",
+  "source": "Verdictum",
+  "published_utc": "2022-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Arvind Gupta! The whistleblower responsible for Chanda Kochhar, Venugopal Dhoot's arrests",
+  "source": "Business Today",
+  "published_utc": "2022-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DBU bandwagon on the roll",
+  "source": "Banking Frontiers",
+  "published_utc": "2022-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank in competition for best bank",
+  "source": "Rediff",
+  "published_utc": "2022-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar's Net Worth, Assets, Family: All About Ex-ICICI Bank CEO",
+  "source": "Business News",
+  "published_utc": "2022-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Venugopal Dhoot: How a 'loan scam' led to Videocon owner's downfall",
+  "source": "BBC",
+  "published_utc": "2022-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest savings account interest rates: SBI, ICICI Bank, HDFC Bank, PNB, Federal Bank",
+  "source": "The Economic Times",
+  "published_utc": "2022-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NRE FD interest rates: SBI Vs HDFC Bank Vs ICICI Bank Vs Canara Bank vs PNB",
+  "source": "The Economic Times",
+  "published_utc": "2022-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar son\u2019s marriage in Jaisalmer called off",
+  "source": "The Times of India",
+  "published_utc": "2022-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Former CEO of ICICI Bank Chanda Kochhar's son Arjun's wedding cancelled",
+  "source": "Lokmat",
+  "published_utc": "2022-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple AirPods Pro For Rs 1490 On This Portal At 92% Discount! Find Out You Can Buy Apple AirPods Pro For Rs Rs 1490",
+  "source": "Trak.in",
+  "published_utc": "2022-12-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

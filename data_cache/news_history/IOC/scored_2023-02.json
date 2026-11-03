@@ -1,0 +1,461 @@
+[
+ {
+  "title": "Rohit Kumar Agrawal appointed Director (Finance), CPCL",
+  "source": "Legend Officers",
+  "published_utc": "2023-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corp Q3 profit slumps on loss in fuel sales",
+  "source": "Business Recorder",
+  "published_utc": "2023-02-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chairman Indian Oil inaugurates Nai Disha-Smile for Juvenile",
+  "source": "NewsIP",
+  "published_utc": "2023-02-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ion Exchange shares zoom 13% on order win from Indian Oil",
+  "source": "Business Today",
+  "published_utc": "2023-02-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ion Exchange shares end higher after Rs 726 crore order win from Indian Oil",
+  "source": "CNBC TV18",
+  "published_utc": "2023-02-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Puthuvype LPG terminal\u2019s phase 1 set to be commissioned by March in Kochi",
+  "source": "The New Indian Express",
+  "published_utc": "2023-02-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil and Gas Canada Acting Executive Director and CEO appointed",
+  "source": "EnergyNow",
+  "published_utc": "2023-02-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel subsidies are back: Oil companies to get Rs 30,000 cr for holding petrol, diesel prices",
+  "source": "ET Auto",
+  "published_utc": "2023-02-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IEW 2023: An Opportunity for Oil & Gas Industry to Delve in India\u2019s Energy Transition",
+  "source": "Energetica India Magazine",
+  "published_utc": "2023-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Energy Week: PM Modi to launch key green energy initiatives on 6 Feb",
+  "source": "Livemint",
+  "published_utc": "2023-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nayan Kumar Barua takes over as New Executive Director & Refinery Head of Bongaigaon Refinery",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2023-02-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to partner with LanzaJet to produce cleaner aviation fuel",
+  "source": "Reuters",
+  "published_utc": "2023-02-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Modi launches 3 green initiatives at India Energy Week",
+  "source": "The Indian Express",
+  "published_utc": "2023-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Priced at Rs 15,000, Twin Solar Cooking Top To Mark Debut at India Energy Week",
+  "source": "Saur Energy",
+  "published_utc": "2023-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Compared to LPG, piped gas has Kochi's consumers \u2018paying the price\u2019",
+  "source": "The New Indian Express",
+  "published_utc": "2023-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Energy Week 2023: Indian Oil Corporation to make staff uniform made out of recycled polyster",
+  "source": "Free Press Journal",
+  "published_utc": "2023-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tellurian woos Indian investors for its Driftwood LNG project",
+  "source": "Reuters",
+  "published_utc": "2023-02-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Recycled Jacket That PM Wore In Parliament Will Be Available To Public",
+  "source": "NDTV",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Parliament Budget Session | PM Modi wears jacket made of material recycled from plastic bottles",
+  "source": "The Hindu",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's fuel demand slips in January from nine-month peak",
+  "source": "Reuters",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Modi supports Indian Oil\u2019s #Unbottled scheme by wearing this",
+  "source": "PSU Watch",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Modi Wears Jacket Made Of Recycled Plastic",
+  "source": "Outlook India",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In PM Modi's Blue Bandhgala, A Special Message",
+  "source": "NDTV",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Modi wears jacket made from recycled plastic bottles",
+  "source": "The Statesman",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Modi goes \u2018green\u2019 by donning a blue jacket; what's special about it?",
+  "source": "The Federal",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ghana seeks Indian investment in oil and gas sector",
+  "source": "Reuters",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Photos: Prime Minister Modi's jacket is made of...",
+  "source": "TimesOfIndia.com",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Modi Wears Blue Sadri Jacket In Parliament. Heres What Is Special About It",
+  "source": "ABP Live English",
+  "published_utc": "2023-02-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Modi goes green in blue jacket made from recycled PET bottles; available for public",
+  "source": "India TV News",
+  "published_utc": "2023-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After PM Modi wears jacket made of material recycled from plastic bottles, \u2018a lot of people are placing orders for the fabric\u2019",
+  "source": "The Indian Express",
+  "published_utc": "2023-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Adani Gas Private Ltd could provide only over 9,000 PNG connections in Kochi",
+  "source": "The Times of India",
+  "published_utc": "2023-02-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Ports to build LPG handling facility at Gangavaram Port backed by take-or-pay deal with Indian Oil Cor..",
+  "source": "ET Infra",
+  "published_utc": "2023-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How will the crude price rise impact oil refining companies?",
+  "source": "The Times of India",
+  "published_utc": "2023-02-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Laqshya Media Group executes Indian Oil Pavilion at Indian Energy Week 2023",
+  "source": "EventFAQs",
+  "published_utc": "2023-02-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At Indian Oil, officers\u2019 association warns of protest, workers threaten strike",
+  "source": "PSU Watch",
+  "published_utc": "2023-02-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Austen J A Tauro (94) Falnir, Mangalore",
+  "source": "Daijiworld",
+  "published_utc": "2023-02-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mangalore Today",
+  "source": "Mangalore Today",
+  "published_utc": "2023-02-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jaipur court convicts former IOCL manager under UAPA",
+  "source": "The Indian Express",
+  "published_utc": "2023-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil responds to Adani Ports contract allegations: What have Congress & Mahua Moitra claimed?",
+  "source": "The Indian Express",
+  "published_utc": "2023-02-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, China \u2018enjoy the discount\u2019 on Russian oil as EU tightens price cap",
+  "source": "South China Morning Post",
+  "published_utc": "2023-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India reaps pricing benefits of crude oil imports from Russia",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ranjan Kumar Mohapatra to continue as Director (HR) of IOC",
+  "source": "PSU Watch",
+  "published_utc": "2023-02-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained: Controversy Surrounding Indian Oil Corporation's LPG Imports From Adani Ports",
+  "source": "Swarajya",
+  "published_utc": "2023-02-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018India is serious about bio-CNG\u2019",
+  "source": "Down To Earth",
+  "published_utc": "2023-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Capacite Lnfraprojects Wins Contract From IOCL - PT Pulse",
+  "source": "Projects Today",
+  "published_utc": "2023-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 20 Oil Extraction Companies In India",
+  "source": "Inventiva",
+  "published_utc": "2023-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL to invest Rs 9,926 crore in Odisha",
+  "source": "The New Indian Express",
+  "published_utc": "2023-02-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At Gateway of India, light and sound show to be inaugurated on February 28",
+  "source": "The Indian Express",
+  "published_utc": "2023-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to set up green hydrogen plants at all refineries",
+  "source": "Team-BHP",
+  "published_utc": "2023-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to set up green hydrogen plants, turn petrol pumps into EV charging stations",
+  "source": "HT Auto",
+  "published_utc": "2023-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How much money did India save in a year by buying Russian fuel?",
+  "source": "Quartz India",
+  "published_utc": "2023-02-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
