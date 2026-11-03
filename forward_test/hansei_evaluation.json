@@ -1,44 +1,44 @@
 {
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "performance": {
-    "sessions": 26,
+    "sessions": 27,
     "first": "2026-09-24",
-    "last": "2026-11-02",
-    "hansei_return": 0.009582999999999897,
-    "hold_return": 0.011185,
-    "gap": -0.0016020000000001033,
+    "last": "2026-11-03",
+    "hansei_return": 0.02097299999999991,
+    "hold_return": 0.036102999999999996,
+    "gap": -0.015130000000000088,
     "hansei_max_drawdown": -0.014406887476195673,
     "hold_max_drawdown": -0.026440999999999937,
     "sessions_ahead": 22,
-    "gap_from_exposure": -0.003815979715942941,
-    "gap_from_selection": 0.0022139797159428376,
-    "average_invested": 0.4103046274231641,
-    "daily_gap_volatility": 0.005525322115214895,
-    "hansei_volatility": 0.0832279787447635,
-    "hold_volatility": 0.16097059726822355,
-    "volatility_ratio": 0.5170383918379927
+    "gap_from_exposure": -0.016790963118079594,
+    "gap_from_selection": 0.001660963118079506,
+    "average_invested": 0.41551411163761914,
+    "daily_gap_volatility": 0.005988364518965389,
+    "hansei_volatility": 0.08814799731951978,
+    "hold_volatility": 0.17412294835553932,
+    "volatility_ratio": 0.5062399767061809
   },
   "advisors": {
     "5_sessions": {
       "trend": {
-        "judged": 102,
-        "hit_rate": 0.5392156862745098,
-        "correlation": 0.1524692741174273
+        "judged": 107,
+        "hit_rate": 0.5327102803738317,
+        "correlation": 0.1178101845829408
       },
       "volatility": {
-        "judged": 41,
-        "hit_rate": 0.5365853658536586,
-        "correlation": 0.008958040421963177
+        "judged": 43,
+        "hit_rate": 0.5116279069767442,
+        "correlation": -0.008788660810095168
       },
       "momentum": {
-        "judged": 103,
-        "hit_rate": 0.5436893203883495,
-        "correlation": 0.1871679170334492
+        "judged": 108,
+        "hit_rate": 0.5370370370370371,
+        "correlation": 0.13575780356307857
       },
       "news": {
-        "judged": 85,
-        "hit_rate": 0.5058823529411764,
-        "correlation": -0.05380449096808547
+        "judged": 90,
+        "hit_rate": 0.5111111111111111,
+        "correlation": -0.0358922062046615
       },
       "relstr": {
         "judged": 0,
@@ -48,24 +48,24 @@
     },
     "20_sessions": {
       "trend": {
-        "judged": 30,
-        "hit_rate": 0.6666666666666666,
-        "correlation": 0.5359494065793007
+        "judged": 35,
+        "hit_rate": 0.6,
+        "correlation": 0.47861559755241384
       },
       "volatility": {
-        "judged": 6,
-        "hit_rate": 1.0,
-        "correlation": 0.28512406492582365
+        "judged": 8,
+        "hit_rate": 0.75,
+        "correlation": 0.19763565746687484
       },
       "momentum": {
-        "judged": 30,
-        "hit_rate": 0.7333333333333333,
-        "correlation": 0.6511222243235542
+        "judged": 35,
+        "hit_rate": 0.7142857142857143,
+        "correlation": 0.5971621039436531
       },
       "news": {
-        "judged": 22,
-        "hit_rate": 0.5909090909090909,
-        "correlation": 0.08852134279064584
+        "judged": 26,
+        "hit_rate": 0.6538461538461539,
+        "correlation": 0.26098399592621035
       },
       "relstr": {
         "judged": 0,
@@ -75,13 +75,13 @@
     }
   },
   "trust": {
-    "trend": 0.2681,
-    "volatility": 0.2314,
-    "momentum": 0.2764,
-    "news": 0.224
+    "trend": 0.2603,
+    "volatility": 0.2291,
+    "momentum": 0.2821,
+    "news": 0.2286
   },
   "health": {
-    "last_session": "2026-11-02",
+    "last_session": "2026-11-03",
     "weekdays_without_a_session": [
       "2026-10-02",
       "2026-10-20"
@@ -155,15 +155,19 @@
       {
         "queued_on": "2026-10-30",
         "symbol": "ICICIBANK.NS"
+      },
+      {
+        "queued_on": "2026-11-02",
+        "symbol": "ICICIBANK.NS"
       }
     ]
   },
   "significance": {
     "backtest_cagr_edge": 0.006642662683372658,
-    "daily_gap_volatility": 0.005525322115214895,
-    "sessions_needed": 171345,
-    "years_needed": 690.9,
-    "sessions_so_far": 26
+    "daily_gap_volatility": 0.005988364518965389,
+    "sessions_needed": 201267,
+    "years_needed": 811.6,
+    "sessions_so_far": 27
   },
   "backtest_reference": {
     "Full period": {

@@ -9,7 +9,7 @@
     "ITC.NS"
   ],
   "sleeve": 2000.0,
-  "cash": 5266.155032696172,
+  "cash": 4584.570263650817,
   "positions": {
     "ICICIBANK.NS": {
       "qty": 1,
@@ -20,8 +20,8 @@
       "avg_price": 285.3500061035156
     },
     "IOC.NS": {
-      "qty": 3,
-      "avg_price": 133.75
+      "qty": 8,
+      "avg_price": 135.2999973297119
     },
     "ITC.NS": {
       "qty": 2,
@@ -36,16 +36,9 @@
     {
       "symbol": "ICICIBANK.NS",
       "action": "TARGET",
-      "target_value": 2019.17,
-      "reason": "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target; news supportive (+0.96, trusted 22%); momentum supportive (+0.35, trusted 28%)",
-      "queued_on": "2026-11-02"
-    },
-    {
-      "symbol": "IOC.NS",
-      "action": "TARGET",
-      "target_value": 1216.09,
-      "reason": "Adding to IOC: 20% -> 60% of its share; trend against (-0.67, trusted 27%); momentum against (-0.28, trusted 28%)",
-      "queued_on": "2026-11-02"
+      "target_value": 2041.95,
+      "reason": "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target; news supportive (+0.76, trusted 23%); trend supportive (+0.62, trusted 26%)",
+      "queued_on": "2026-11-03"
     }
   ],
   "trades": [
@@ -118,6 +111,16 @@
       "cost": 1.12,
       "reason": "Buying HDFCBANK: 0% -> 41% of its share; trend against (-0.89, trusted 27%); momentum against (-0.36, trusted 27%)",
       "cash_after": 5266.16
+    },
+    {
+      "date": "2026-11-03",
+      "symbol": "IOC.NS",
+      "action": "BUY",
+      "qty": 5,
+      "price": 136.22999572753906,
+      "cost": 1.1,
+      "reason": "Adding to IOC: 20% -> 60% of its share; trend against (-0.67, trusted 27%); momentum against (-0.28, trusted 28%)",
+      "cash_after": 4584.57
     }
   ],
   "equity_history": [
@@ -302,10 +305,17 @@
       "benchmark_equity": 10111.85,
       "cash": 5266.16,
       "holdings": 5
+    },
+    {
+      "date": "2026-11-03",
+      "equity": 10209.73,
+      "benchmark_equity": 10361.03,
+      "cash": 4584.57,
+      "holdings": 5
     }
   ],
   "benchmark": {
-    "cash": 81.34203723405317,
+    "cash": 81.35227336542344,
     "positions": {
       "HDFCBANK.NS": {
         "qty": 2,
@@ -331,7 +341,7 @@
     "started": true,
     "started_on": "2026-09-24"
   },
-  "cash_accrued_through": "2026-11-02",
-  "last_session": "2026-11-02",
-  "last_run_utc": "2026-11-03T09:47:31.857844+00:00"
+  "cash_accrued_through": "2026-11-03",
+  "last_session": "2026-11-03",
+  "last_run_utc": "2026-11-03T12:13:19.499503+00:00"
 }
