@@ -7033,5 +7033,354 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-11-02",
+    "ran_utc": "2026-11-03T09:47:31.857844+00:00",
+    "equity": 10095.83,
+    "benchmark_equity": 10111.85,
+    "filled": [
+      {
+        "date": "2026-11-02",
+        "symbol": "HDFCBANK.NS",
+        "action": "BUY",
+        "qty": 1,
+        "price": 694.2999877929688,
+        "cost": 1.12,
+        "reason": "Buying HDFCBANK: 0% -> 41% of its share; trend against (-0.89, trusted 27%); momentum against (-0.36, trusted 27%)",
+        "cash_after": 5266.16
+      }
+    ],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.355,
+        "target_exposure": 0.29,
+        "current_exposure": 0.347,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 35%: no strong reason to change",
+          "trend against (-0.86, trusted 27%)",
+          "momentum against (-0.42, trusted 28%)"
+        ],
+        "views": {
+          "trend": -0.861,
+          "volatility": -0.0,
+          "momentum": -0.416,
+          "news": -0.042
+        },
+        "shadow": {
+          "relstr": -0.06
+        },
+        "value": 700.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.408,
+        "target_exposure": 1.0,
+        "current_exposure": 0.687,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "news supportive (+0.96, trusted 22%)",
+          "momentum supportive (+0.35, trusted 28%)"
+        ],
+        "views": {
+          "trend": 0.358,
+          "volatility": -0.0,
+          "momentum": 0.351,
+          "news": 0.96
+        },
+        "shadow": {
+          "relstr": 0.635
+        },
+        "value": 1387.4
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.33,
+        "target_exposure": 1.0,
+        "current_exposure": 0.894,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 89%: no strong reason to change",
+          "trend supportive (+0.71, trusted 27%)",
+          "news supportive (+0.35, trusted 22%)"
+        ],
+        "views": {
+          "trend": 0.712,
+          "volatility": -0.048,
+          "momentum": 0.259,
+          "news": 0.351
+        },
+        "shadow": {
+          "relstr": 0.57
+        },
+        "value": 1805.7
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.199,
+        "target_exposure": 0.602,
+        "current_exposure": 0.2,
+        "action": "BUY",
+        "reasons": [
+          "Adding to IOC: 20% -> 60% of its share",
+          "trend against (-0.67, trusted 27%)",
+          "momentum against (-0.28, trusted 28%)"
+        ],
+        "views": {
+          "trend": -0.668,
+          "volatility": -0.0,
+          "momentum": -0.279,
+          "news": 0.256
+        },
+        "shadow": {
+          "relstr": 0.096
+        },
+        "value": 403.77
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.654,
+        "target_exposure": 0.0,
+        "current_exposure": 0.264,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 26%: no strong reason to change",
+          "momentum against (-0.74, trusted 28%)",
+          "trend against (-0.72, trusted 27%)"
+        ],
+        "views": {
+          "trend": -0.719,
+          "volatility": -0.754,
+          "momentum": -0.741,
+          "news": -0.364
+        },
+        "shadow": {
+          "relstr": -0.515
+        },
+        "value": 532.8
+      }
+    ],
+    "weights": {
+      "trend": 0.2681,
+      "volatility": 0.2314,
+      "momentum": 0.2764,
+      "news": 0.224
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.042,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": -0.042
+        },
+        "top": [
+          {
+            "title": "HDFC Bank Q2 FY27 results: performance and outlook",
+            "source": "Kalkine India",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-11-02T10:30:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "Helios Capital Cuts HDFC Bank Exposure, Bets On Kotak Mahindra Bank And RBL Bank",
+            "source": "Business Today",
+            "sentiment": -0.4,
+            "material": 0.6,
+            "published_utc": "2026-11-01T11:30:09+00:00",
+            "count": 1
+          },
+          {
+            "title": "After nearly 27 years, a business banking leader retires from HDFC Bank (HDB).",
+            "source": "Stock Titan",
+            "sentiment": 0.0,
+            "material": 0.5,
+            "published_utc": "2026-11-02T16:37:27+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Group Head Sanjay D\u2019Souza Superannuates After Nearly 27 Years",
+            "source": "PSU Connect",
+            "sentiment": 0.0,
+            "material": 0.5,
+            "published_utc": "2026-11-02T06:31:00+00:00",
+            "count": 3
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.96,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": 0.96
+        },
+        "top": [
+          {
+            "title": "RBI approves Bakhshi re-appointment as ICICI Bank MD & CEO",
+            "source": "scanx.trade",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-01T04:55:54+00:00",
+            "count": 1
+          },
+          {
+            "title": "UniCredit and ICICI Bank sign agreement to support trade between Europe and India",
+            "source": "www.marketscreener.com",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-02T13:00:20+00:00",
+            "count": 2
+          },
+          {
+            "title": "ICICI Bank\u2019s Telangana GST Penalty Reduced to \u20b96.95 Lakh",
+            "source": "Thekanal",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-02T13:53:30+00:00",
+            "count": 4
+          },
+          {
+            "title": "ICICI Bank confirms \u20b96.95 lakh tax penalty post-appeal",
+            "source": "InvestyWise",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-01T05:44:43+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.351,
+          "strength": 1.0,
+          "material_count": 8,
+          "view": 0.351
+        },
+        "top": [
+          {
+            "title": "Petronet LNG faces \u20b9625 crore arbitration claim from shipping companies",
+            "source": "ET Infra",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-03T02:09:22+00:00",
+            "count": 2
+          },
+          {
+            "title": "Petronet LNG Q2 FY27 Results: Net Profit at \u20b91,235 Crore, Board Declares \u20b97 Interim Dividend",
+            "source": "Indian Masterminds",
+            "sentiment": 0.918,
+            "material": 0.9,
+            "published_utc": "2026-11-02T18:55:15+00:00",
+            "count": 19
+          },
+          {
+            "title": "Petronet LNG Q2 Net Profit Soars 51% To Rs 1,256 Cr Amid Hormuz Crisis",
+            "source": "BW Businessworld",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-02T16:44:42+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG posts Q2 FY27 profit \u20b91,235.4cr, revenue \u20b97,200cr",
+            "source": "NewsBytes",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-02T12:31:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.256,
+          "strength": 1.0,
+          "material_count": 17,
+          "view": 0.256
+        },
+        "top": [
+          {
+            "title": "Analysts Are Upgrading Indian Oil Corporation Limited (NSE:IOC) After Its Latest Results",
+            "source": "Simply Wall St",
+            "sentiment": 0.7,
+            "material": 0.9,
+            "published_utc": "2026-11-03T01:53:45+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil shares surge 5% on strong Q2 earnings show; refining margin growth potential ahead?",
+            "source": "Upstox",
+            "sentiment": 0.7,
+            "material": 0.9,
+            "published_utc": "2026-11-02T05:56:50+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil Corporation Q2 FY27 results: profits, key drivers and outlook",
+            "source": "Kalkine India",
+            "sentiment": 0.6,
+            "material": 0.8,
+            "published_utc": "2026-11-02T12:14:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil shares rise over 3% after results beat; Nomura sees 42% upside - CNBC TV18",
+            "source": "LinkedIn",
+            "sentiment": 0.6,
+            "material": 0.8,
+            "published_utc": "2026-11-02T06:57:40+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": -0.364,
+          "strength": 1.0,
+          "material_count": 7,
+          "view": -0.364
+        },
+        "top": [
+          {
+            "title": "Yoga Bar maker Sproutlife Foods to merge with ITC; board approves scheme",
+            "source": "The Economic Times",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-11-02T14:54:22+00:00",
+            "count": 1
+          },
+          {
+            "title": "ITC Q2 net profit drops 20% to Rs 4,137 crore amid cigarette tax hike",
+            "source": "afaqs!",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-03T03:17:41+00:00",
+            "count": 1
+          },
+          {
+            "title": "ITC Q2 Results FY27: Net profit declines 20% to Rs 4,137 crore; net revenue up 1.8% to Rs 18,401 crore from Rs 18,081 crore, EBITDA declines 17.5%",
+            "source": "ET Now",
+            "sentiment": -0.64,
+            "material": 0.7,
+            "published_utc": "2026-11-02T23:19:08+00:00",
+            "count": 9
+          },
+          {
+            "title": "ITC Ltd Q2 net skids 20% to \u20b94,137 crore, higher taxation hits cigarette biz profitability",
+            "source": "BusinessLine",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-02T16:26:43+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]
