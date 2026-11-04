@@ -1,0 +1,479 @@
+[
+ {
+  "title": "Gasoil, gasoline sales of PSUs rose by 4.8% in April to 238,500 tonnes",
+  "source": "Business Standard",
+  "published_utc": "2023-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ten Candidates Shortlisted To Be Interviewed For The Post of Chairman, Indian Oil Corporation Limited",
+  "source": "Indian PSU",
+  "published_utc": "2023-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to recoup most dues from Go First through bank guarantees",
+  "source": "Reuters",
+  "published_utc": "2023-05-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil plans green jet fuel plant to meet surging demand",
+  "source": "The Economic Times",
+  "published_utc": "2023-05-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The unknown Indian company shipping millions of barrels of Russian oil",
+  "source": "Financial Times",
+  "published_utc": "2023-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Rs 1000-crore plan to make green Jet fuel as global supplies run short",
+  "source": "The Financial Express",
+  "published_utc": "2023-05-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Plans Country's First Green Jet Fuel Plant Worth Rs 1,000 Crore At Panipat",
+  "source": "Swarajya",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel sales soar to record levels in Hyderabad",
+  "source": "The New Indian Express",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mohapatra\u2019s extension denied, Choudhury to be director \u2013 HR, Indian Oil",
+  "source": "HR Katha",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Manish Patil joins ONGC as Director - HR",
+  "source": "ETHRWorld.com",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia's Rosneft Likely Tied to Mysterious Indian Shipping Firm: FT",
+  "source": "markets.businessinsider.com",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia has billions of Indian rupees it can\u2019t use",
+  "source": "South China Morning Post",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to Invest INR 61,000 crore for Petrochemical Complex Setup at Orissa",
+  "source": "Tube & Pipe India",
+  "published_utc": "2023-05-05T07:42:05+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia says it has billions of Indian rupees that it can\u2019t use",
+  "source": "The Economic Times",
+  "published_utc": "2023-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Huge scam exposed in the purchase of diesel by Railways",
+  "source": "The Hindu",
+  "published_utc": "2023-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s oil trade has undergone a seismic shift",
+  "source": "Livemint",
+  "published_utc": "2023-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Come September, Indian Oil might be left with only 3 directors on board?",
+  "source": "PSU Watch",
+  "published_utc": "2023-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL S KUMAR WILL BE NEXT DIRECTOR PIPELINES",
+  "source": "IndianMandarins",
+  "published_utc": "2023-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PESB picks N Senthil Kumar for Indian Oil's Director (Pipelines) post",
+  "source": "PSU Watch",
+  "published_utc": "2023-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India among top 5 countries developing oil pipelines, 49% of projects in Africa and Middle East: Report",
+  "source": "Down To Earth",
+  "published_utc": "2023-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Coast Guard organizes Seminar, Workshop and Mock Drill on Pollution Response",
+  "source": "PIB",
+  "published_utc": "2023-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Have commenced dispensing CNG and PNG connections to households: Indian Oil Official",
+  "source": "PSU Watch",
+  "published_utc": "2023-05-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2023 Notification Out for the 65 Non-Executive Posts; Check How to Apply Online, Salary, Eligibility",
+  "source": "Jagranjosh.com",
+  "published_utc": "2023-05-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EU to curb Indian fuel imports made with Russian oil: Report",
+  "source": "Al Jazeera",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance sells diesel at cheaper rates than state retailers, petrol pump dealers say",
+  "source": "ThePrint",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "None selected for the post of Chairman, IOCL",
+  "source": "Legend Officers",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil's Airline Fueling Station (AFS) at BirTikendrajit International Airport was critical in assisting airlines...",
+  "source": "Prag News",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil refiners soar as cooling oil fuels optimism on marketing margins",
+  "source": "Livemint",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will The PESB Replicate ONGC Model In Selection Of Chairman Of IOCL ?",
+  "source": "Indian PSU",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Godrej Agrovet, SBI to launch finance offering for Indian oil palm farmers",
+  "source": "Agriculture Post",
+  "published_utc": "2023-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronas JV embarks on new retail venture in India",
+  "source": "The Edge Malaysia",
+  "published_utc": "2023-05-18T09:33:02+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil eyes processing bio-naphtha for petrochemicals",
+  "source": "Reuters",
+  "published_utc": "2023-05-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "AirAsia India operates country's 1st commercial flight on \u2018indigenous\u2019 Sustainable Aviation Fuel",
+  "source": "ET TravelWorld",
+  "published_utc": "2023-05-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Manipur violence: Territorial Army steps in to ensure energy supply in strife-torn state",
+  "source": "India Sentinels",
+  "published_utc": "2023-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amid Manipur crisis Territorial Army ensures vital fuel supply",
+  "source": "The Assam Tribune",
+  "published_utc": "2023-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "COMMENTARY: EU will go easy on Indian resale of Russian fuel",
+  "source": "Reuters",
+  "published_utc": "2023-05-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Limited inaugurates domestic piped natural gas connection in Salem",
+  "source": "The Hindu",
+  "published_utc": "2023-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Medak: Indian Oil fuel bunk sells petrol \u2018mixed\u2019 with water",
+  "source": "Telangana Today",
+  "published_utc": "2023-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TotalEnergies and Africa Oil quit Kenya oil project, leaving Tullow without partners",
+  "source": "Upstream Online",
+  "published_utc": "2023-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil ministry pushes for merger between HPCL and MRPL",
+  "source": "Offshore Technology",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to add new chemical plant at Panipat refinery",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel rates unchanged for 365 days & counting. Why it may be time to return to dynamic pricing",
+  "source": "ThePrint",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil awards PMC contract to McDermott for maleic anhydride project",
+  "source": "Indian Chemical News",
+  "published_utc": "2023-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GRMs of state-run refineries double on higher oil demand",
+  "source": "Livemint",
+  "published_utc": "2023-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL inaugurates LNG hub and first D-PNG connection in Salem",
+  "source": "Construction World",
+  "published_utc": "2023-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "USD 300 mn of Indian oil firms stuck in Russia",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-05-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Digboi Police Arrest Business Woman For Duping Job Aspirants",
+  "source": "Pratidin Time",
+  "published_utc": "2023-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dividends of Indian Oil PSUs Are Stuck in Russia",
+  "source": "Vajiram & Ravi",
+  "published_utc": "2023-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC Videsh has less than $100 million stuck in Russia, says official",
+  "source": "OrissaPOST",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC to invest Rs 1 trn in energy transition by 2030; net-zero by 2038",
+  "source": "Business Standard",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Reliance-bp, Nayara Energy sells petrol, diesel at Re 1 less than PSUs",
+  "source": "The Indian Express",
+  "published_utc": "2023-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC to steer energy transition projects with Rs one lakh cr investment",
+  "source": "Construction Week India",
+  "published_utc": "2023-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC plans \u20b91 tn investment to cut carbon emissions",
+  "source": "Livemint",
+  "published_utc": "2023-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

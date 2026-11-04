@@ -1,0 +1,227 @@
+[
+ {
+  "title": "FMCG companies eye improved margins as raw material costs ease",
+  "source": "Livemint",
+  "published_utc": "2023-07-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HMA Agro Industries Ltd Share Price Today \u2013 Live NSE/BSE",
+  "source": "INDmoney",
+  "published_utc": "2023-07-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Flavour Capsule Cigarette Market to Eyewitness Massive Growth by 2028 | Philip Morris, Gold Flake, ITC",
+  "source": "openPR.com",
+  "published_utc": "2023-07-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s Mangaldeep eyes top spot in agarbatti market",
+  "source": "The New Indian Express",
+  "published_utc": "2023-07-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govabhai Rabari elected as Chairman of Deesa APMC",
+  "source": "DeshGujarat",
+  "published_utc": "2023-07-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC expands manufacturing capabilities with new ICML in Odisha",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-07-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC board reappoints Sanjiv Puri as chairman & managing director",
+  "source": "Livemint",
+  "published_utc": "2023-07-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC board backs reappointing Sanjiv Puri for five more years as CMD",
+  "source": "Livemint",
+  "published_utc": "2023-07-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Swiggy acquires hyperlocal logistics platform LYNK for undisclosed amount",
+  "source": "YourStory.com",
+  "published_utc": "2023-07-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Number of crorepati employees at ITC, HUL, United Spirits up nearly 25% YoY",
+  "source": "Business Standard",
+  "published_utc": "2023-07-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC\u2019s paperboards & specialty papers business ramping up sustainable products portfolio",
+  "source": "BusinessLine",
+  "published_utc": "2023-07-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC becomes seventh Indian firm to cross Rs 6 lakh crore m-cap",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-07-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC briefly beats HUL to become most valued FMCG company amid hotel business demerger buzz",
+  "source": "Zee Business",
+  "published_utc": "2023-07-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to hive off hotels business into separate entity; stock slumps",
+  "source": "The Indian Express",
+  "published_utc": "2023-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC board approves in-principle demerger of hotel business, to hold 40% stake in new entity",
+  "source": "Business Today",
+  "published_utc": "2023-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ITC to demerge hotel business into separate company; shares fall",
+  "source": "Reuters",
+  "published_utc": "2023-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC to hive off hotels business into separate entity",
+  "source": "Rediff",
+  "published_utc": "2023-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Approves Demerger Of Hotels Business, Incorporates ITC Hotels Ltd",
+  "source": "News18",
+  "published_utc": "2023-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BAT\u2019s ITC India Unit Plans Spinoff of Hotel Operations",
+  "source": "Bloomberg.com",
+  "published_utc": "2023-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Dethrones HUL To Become No. 1 Consumer Stock",
+  "source": "NDTV Profit",
+  "published_utc": "2023-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC dethrones India Unilever unit to become No. 1 consumer stock",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-07-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC's Sanjiv Puri explains why the company will hold 40% stake in ITC Hotels",
+  "source": "Livemint",
+  "published_utc": "2023-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC ropes in Rashmika Mandanna as face of Fiama",
+  "source": "The Hans India",
+  "published_utc": "2023-07-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC launches 'Shree Anna' stamp to celebrate International Year of Millets",
+  "source": "CNBC TV18",
+  "published_utc": "2023-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Campaign Decoded \u2013 ITC Sunfeast Mom\u2019s Magic\u2019s Try Karne Se Hi Pata Chalti Hain \u2013 Andar Ki Khoobiyan",
+  "source": "The Financial Express",
+  "published_utc": "2023-07-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

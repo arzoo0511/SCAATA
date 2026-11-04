@@ -1,0 +1,668 @@
+[
+ {
+  "title": "ICICI Bank and Punjab National Bank (PNB) increase marginal cost-based lending rates (MCLR), EMIs to rise",
+  "source": "Livemint",
+  "published_utc": "2023-09-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet India\u2019s top 20 distributors",
+  "source": "Cafemutual",
+  "published_utc": "2023-09-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCDRC directs ICICI Bank to pay compensation of Rs. 25 lakh for losing original property documents of...",
+  "source": "LawBeat",
+  "published_utc": "2023-09-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCDRC imposes Rs 25 lakh fine on ICICI Bank for losing customer's documents",
+  "source": "Business Standard",
+  "published_utc": "2023-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank ordered to compensate customer Rs. 25 lakh for lost property documents: NCDRC",
+  "source": "The Law Advice",
+  "published_utc": "2023-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How brokerage calls on Kotak Mahindra Bank changed over last year",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-09-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCDRC Imposes Penalty On ICICI Bank Over Lost Property Documents",
+  "source": "NDTV Profit",
+  "published_utc": "2023-09-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank, not courier service, responsible for safekeeping of consumers\u2019 documents, holds NCDRC",
+  "source": "The Leaflet",
+  "published_utc": "2023-09-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IDFC First Bank share touches \u20b9100 mark. Joins HDFC Bank, ICICI Bank, SBI, Kotak Mahindra Bank in this elite club",
+  "source": "mint",
+  "published_utc": "2023-09-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCDRC imposes Rs.25 lakh fine on ICICI Bank for losing customer\u2019s property documents",
+  "source": "PGurus",
+  "published_utc": "2023-09-05T12:01:44+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCDRC directs ICICI bank to pay 25 lakhs compensation over lost property documents",
+  "source": "SCC Online",
+  "published_utc": "2023-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCDRC Holds ICICI Bank Liable For Loss Of Original Documents, Awards 25 Lakh Compensation",
+  "source": "Live Law",
+  "published_utc": "2023-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Inflated Mere Balance Of \u20b90.35 To \u20b9595 After Customer's Request To Surrender Credit Card,...",
+  "source": "Live Law",
+  "published_utc": "2023-09-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Should investors worry about companies with no promoters? Here's a reality check",
+  "source": "CNBC TV18",
+  "published_utc": "2023-09-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank opens 100th branch in Pune",
+  "source": "Punekar News",
+  "published_utc": "2023-09-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lost Property Documents: ICICI Bank Asked To Pay Rs25 Lakh Compensation; Reconstruct and Hand Over Duly Certified Copies to Borrower",
+  "source": "Moneylife",
+  "published_utc": "2023-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank gets RBI nod to make I-Process Services as wholly-owned subsidiary",
+  "source": "Economic Times Legal",
+  "published_utc": "2023-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank-I-Sec merger faces opposition minority shareholders",
+  "source": "The Financial Express",
+  "published_utc": "2023-09-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank receives RBI\u2019s approval for making staffing solutions firm i-Process its subsidiary",
+  "source": "BusinessLine",
+  "published_utc": "2023-09-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakshi's re-appointment as ICICI Bank MD & CEO gets RBI approval",
+  "source": "Livemint",
+  "published_utc": "2023-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves re-appointment of Sandeep Bakhshi as ICICI Bank MD & CEO",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves re-appointment of Sandeep Bakhshi as ICICI Bank MD and CEO for another 3 yrs",
+  "source": "Business Today",
+  "published_utc": "2023-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves reappointment of ICICI Bank MD Sandeep Bakhshi for 3 years",
+  "source": "BusinessLine",
+  "published_utc": "2023-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves re-appointment of ICICI Bank's MD Sandeep Bakhshi for three years",
+  "source": "The Economic Times",
+  "published_utc": "2023-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI okays reappointment of Sandeep Bakhshi as ICICI Bank CEO and managing director",
+  "source": "CNBC TV18",
+  "published_utc": "2023-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank rises on getting nod from RBI to make I-Process Services as wholly-owned subsidiary",
+  "source": "Investment Guru India",
+  "published_utc": "2023-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reappointment of ICICI Bank CEO Sandeep Bakhshi gets RBI approval",
+  "source": "Business Standard",
+  "published_utc": "2023-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves reappointment of Sandeep Bakhshi as MD & CEO of ICICI Bank Limited",
+  "source": "The Economic Times",
+  "published_utc": "2023-09-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI nod for reappointment of Sandeep Bakshi as MD & CEO of ICICI Bank",
+  "source": "Elets BFSI",
+  "published_utc": "2023-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI nod to Bakhshi as ICICI chief for 3 more years",
+  "source": "The Times of India",
+  "published_utc": "2023-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Approves Sandeep Bakshi reappointment as ICICI Bank MD and CEO",
+  "source": "Utkarsh Classes",
+  "published_utc": "2023-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIT Kanpur Signs MoU with ICICI Bank to Fuel Start-up Innovation in India",
+  "source": "Raksha Anirveda",
+  "published_utc": "2023-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to buy Sovereign Gold Bonds (SGB) online through SBI, HDFC Bank, PNB, Canara Bank, ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2023-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can bank savings account balance go into negative if minimum balance is not maintained?",
+  "source": "The Economic Times",
+  "published_utc": "2023-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPI Now, Pay Later: Not enough money in bank account? You can still do UPI transactions and pay later; how",
+  "source": "The Economic Times",
+  "published_utc": "2023-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank MD & CEO Sandeep Bakhshi Education Qualification",
+  "source": "Times Now",
+  "published_utc": "2023-09-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit on UPI kicks off in move to further democratise funding",
+  "source": "Forbes India",
+  "published_utc": "2023-09-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Moto G54 5G goes on sale in India: Check price, offers, and specs",
+  "source": "Techlusive",
+  "published_utc": "2023-09-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPI now, pay later: HDFC Bank and ICICI Bank start credit on UPI",
+  "source": "Business Standard",
+  "published_utc": "2023-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks don't want you to overpay card dues",
+  "source": "The Times of India",
+  "published_utc": "2023-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loan interest rates in September 2023: Comparison of SBI, ICICI Bank, Indian Bank, Canara Bank, Bank",
+  "source": "The Economic Times",
+  "published_utc": "2023-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPI now, pay later: 2 banks have rolled out this facility",
+  "source": "Livemint",
+  "published_utc": "2023-09-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indo-Canada row: From ICICI Bank to Zomato, Canada's leading pension fund CPPIB has invested in these Indian stocks",
+  "source": "Business News",
+  "published_utc": "2023-09-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Failure To Close Account Over 35 Paise Credit Card Debt, Bangalore Commission Orders ICICI Bank To Pay 5k ...",
+  "source": "Live Law",
+  "published_utc": "2023-09-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lost Property Documents: United Bank Asked To Pay Rs50.65 Lakh to Ex-employee Borrower",
+  "source": "Moneylife",
+  "published_utc": "2023-09-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Do you remember the nominee in your bank savings a/c? Here's how to check, add nominee to savings account",
+  "source": "The Economic Times",
+  "published_utc": "2023-09-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to invest Rs 5 cr in Quantum CorpHealth for nearly 10% shareholding",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-09-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank may raise Rs 4000 crore via infra bonds soon",
+  "source": "ET Infra",
+  "published_utc": "2023-09-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q4 Results 2026 - Find ICICI Bank Q4 Earnings Result | ICICIBANK Q4 results",
+  "source": "Livemint",
+  "published_utc": "2023-09-21T18:04:16+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q1 Results 2026 - Find ICICI Bank Q1 Earnings Result | ICICIBANK Q1 results",
+  "source": "Livemint",
+  "published_utc": "2023-09-21T18:04:17+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Day after resigning from ICICI Lombard, Bhargav Dasgupta joins Asian Development Bank as VP for market...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Asian Development Bank appoints ICICI Lombard chief Bhargav Dasgupta as VP for market solutions",
+  "source": "The Economic Times",
+  "published_utc": "2023-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "4 safe investments that offer higher returns than bank FD interest rates",
+  "source": "The Economic Times",
+  "published_utc": "2023-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Can't use debit card or credit card for online transactions if you don't do this",
+  "source": "The Economic Times",
+  "published_utc": "2023-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard General Insurance appoints Sanjeev Mantri as MD & CEO",
+  "source": "Business Standard",
+  "published_utc": "2023-09-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard appoints Sanjeev Mantri as MD and CEO",
+  "source": "Livemint",
+  "published_utc": "2023-09-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard appoints Sanjeev Mantri as new MD & CEO",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-09-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard Welcomes Sanjeev Mantri As MD & CEO: A New Era Commences 2023",
+  "source": "Inventiva",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard names Sanjeev Mantri as MD and CEO; Bhargav Dasgupta joins ADB as VP",
+  "source": "People Matters - HR News",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sanjeev Mantri appointed as MD & CEO of ICICI Lombard",
+  "source": "Exchange4Media",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sanjeev Mantri Appointed As MD And CEO Of ICICI Lombard",
+  "source": "Adda247",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard General Insurance named Sanjeev Mantri as MD & CEO",
+  "source": "Elets BFSI",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard appoints Sanjeev Mantri as the MD & CEO",
+  "source": "Adgully.com",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Don't see India-Canada spat hurting banking business in Canada, say experts",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-09-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What We Learned about Indian Mobile Banking Apps In 2023",
+  "source": "Forrester",
+  "published_utc": "2023-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Pay eyes expansion with more bank, card network partnerships",
+  "source": "Business Standard",
+  "published_utc": "2023-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Sees $10 Billion of Flows Before India\u2019s Bond Index Entry",
+  "source": "Bloomberg.com",
+  "published_utc": "2023-09-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Pay looking to tie-up with more banks for credit card offerings",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank appoints Manish Jain as Country Head- Wholesale Banking today; stock gains marginally",
+  "source": "Livemint",
+  "published_utc": "2023-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Foregoes Rs. 1 Lakh Crore Lending On Account of Heavy Competition With Other Banks",
+  "source": "TimelineDaily",
+  "published_utc": "2023-09-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Watch ICICI Bank: RBI FX Actions To Be Asymmetric",
+  "source": "Bloomberg.com",
+  "published_utc": "2023-09-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard gets show-cause notice for non-payment of \u20b91,728.80 crore in GST",
+  "source": "Livemint",
+  "published_utc": "2023-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard gets SCN again from the DGGI, faces \u20b91,729 cr GST Notice",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-09-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks that saw big block deals this week: HDFC Bank, ICICI Bank, Reliance Industries, Kotak Mahindra Bank & more",
+  "source": "Business News",
+  "published_utc": "2023-09-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

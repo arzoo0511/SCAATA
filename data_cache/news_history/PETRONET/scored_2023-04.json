@@ -1,0 +1,110 @@
+[
+ {
+  "title": "Adani, TotalEnergies welcome first LNG cargo at Dhamra terminal in India",
+  "source": "LNG Prime",
+  "published_utc": "2023-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Numaligarh Refinery Limited Achieves Highest-Ever Crude Throughput And Distillate Yield",
+  "source": "Indian PSU",
+  "published_utc": "2023-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SAIL Units Set To Be Modernized In Next Phase Of Vison 2030",
+  "source": "Indian PSU",
+  "published_utc": "2023-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ANDHRA PRADESH GOVT ENACTS A MAJOR RESHUFFLE OF IPS OFFICERS",
+  "source": "IndianMandarins",
+  "published_utc": "2023-04-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Qatar doubles down on LNG amid energy market volatility",
+  "source": "Middle East Institute",
+  "published_utc": "2023-04-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Qatargas supplies commissioning cargo to Dhamra LNG terminal in India",
+  "source": "LNG Prime",
+  "published_utc": "2023-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBDT 75 IRS IT OFFICERS EMPANELLED FOR HOLDING CHIEF COMMISSIONER RANK POST",
+  "source": "IndianMandarins",
+  "published_utc": "2023-04-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Board of Petronet LNG adopts comprehensive PIT policy",
+  "source": "PSU Watch",
+  "published_utc": "2023-04-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "TWO IAS OFFICERS GET PM S AWARD FOR EXCELLENCE IN PUBLIC ADMINISTRATION",
+  "source": "IndianMandarins",
+  "published_utc": "2023-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NBCC SALEEM AHMAD TAKES CHARGE AS DIRECTOR PROJECTS",
+  "source": "IndianMandarins",
+  "published_utc": "2023-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED CHAUHAN IS JOINT DIRECTOR GUWAHATI ZONE",
+  "source": "IndianMandarins",
+  "published_utc": "2023-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New dividend, bonus share policy to create value for Gujarat PSUs: Analysts",
+  "source": "Business Standard",
+  "published_utc": "2023-04-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

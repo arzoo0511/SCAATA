@@ -1,0 +1,632 @@
+[
+ {
+  "title": "ICICI Bank to donate \u20b91,200 crore to set up three cancer care facilities under Tata Memorial Centre",
+  "source": "Livemint",
+  "published_utc": "2023-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank, Punjab National Bank Revise MCLR Rates; Loan EMIs To Be Impacted",
+  "source": "India.com",
+  "published_utc": "2023-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank commits Rs 1200 crore to Tata Memorial Centre for cancer care",
+  "source": "The Economic Times",
+  "published_utc": "2023-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Alert! ICICI Bank Is Warning You About This New Banking Scam",
+  "source": "News18",
+  "published_utc": "2023-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vertices Partners, Stratage Law act on ICICI and Baring Private Equity investment in PropertyPistol Realty",
+  "source": "Bar and Bench",
+  "published_utc": "2023-06-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus Community Sale: Deals on smartphones, TVs and more",
+  "source": "FoneArena.com",
+  "published_utc": "2023-06-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI gives \u20b91,200cr to Tata Memorial for cancer care in India",
+  "source": "The Times of India",
+  "published_utc": "2023-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JP Morgan, 6 Indian banks partner to settle USD transactions on blockchain",
+  "source": "YourStory.com",
+  "published_utc": "2023-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank to give Rs 1.2Kcr to Tata Memorial Centre",
+  "source": "Mid-Day",
+  "published_utc": "2023-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JPMorgan to Use Blockchain to Settle USD FX Trades in India Hub",
+  "source": "Bloomberg.com",
+  "published_utc": "2023-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Daily UPI limit set by HDFC, SBI, ICICI and other banks",
+  "source": "The Times of India",
+  "published_utc": "2023-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock market update: Nifty Bank index falls 0.05% in a weak market",
+  "source": "The Economic Times",
+  "published_utc": "2023-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI-Videocon loan fraud case: CBI receives sanction letter from board to prosecute Chanda Kochhar",
+  "source": "CNBC TV18",
+  "published_utc": "2023-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank Gets Rs 3 Trillion Market Capitalisation Mark, Shares Soar 7% in 1 Week",
+  "source": "Equitypandit",
+  "published_utc": "2023-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JPMorgan and six Indian banks to test blockchain-based settlement system",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks impose different daily limits on UPI transactions as the payment system grows",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI gives green signal to first loss default guarantee (FLDG) framework; here's how will fintech, banks, NBFCs benefit",
+  "source": "Livemint",
+  "published_utc": "2023-06-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Audit of Videocon hints at questionable accounting entries by promoters",
+  "source": "Business Standard",
+  "published_utc": "2023-06-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From ICICI to HDFC Bank, check latest FD interest rates of India's top private banks",
+  "source": "Livemint",
+  "published_utc": "2023-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best NRE FD interest rates: HDFC Bank vs ICICI Bank vs Yes Bank vs SBI",
+  "source": "The Economic Times",
+  "published_utc": "2023-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How ICICI Bank customers can download Form-16A, interest certificate",
+  "source": "The Economic Times",
+  "published_utc": "2023-06-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rupee appreciates by 7 paise to 82.40 against US dollar in early trade",
+  "source": "Business Standard",
+  "published_utc": "2023-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior Citizen Savings Scheme vs FDs: Which offers highest interest rate?",
+  "source": "The Economic Times",
+  "published_utc": "2023-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indifi raises $35M to expand digital lending to more small businesses",
+  "source": "TechCrunch",
+  "published_utc": "2023-06-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Venture backs Indifi in second bet from fifth PE fund",
+  "source": "VCCircle",
+  "published_utc": "2023-06-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Highest FD interest rate: SBI Amrit Kalash vs HDFC Bank vs ICICI vs Yes Bank vs Canara Bank",
+  "source": "The Economic Times",
+  "published_utc": "2023-06-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "#DalalStreet LIVE: Follow this link to catch minute-by-minute updates LIVE UPDATES: https://www.zeebiz.com/market-news/live-updates-share-market-today-live-updates-nifty-nse-sensex-bse-sgx-nifty-futures-stocks-in-news-crude-oil-anil-singhvi-us-fed-reser",
+  "source": "Facebook",
+  "published_utc": "2023-06-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Earn fixed deposit like interest on savings bank account \u2014 here's how",
+  "source": "CNBC TV18",
+  "published_utc": "2023-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPX achieves 5 billion units of power trade within 11 months",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon announces Prime Lite annual subscription plan for Rs 999",
+  "source": "The Indian Express",
+  "published_utc": "2023-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank holidays in June 2023: Banks will be closed for 12 days in June; check state-wise bank holiday list",
+  "source": "The Economic Times",
+  "published_utc": "2023-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "At ICICI Bank, Sandeep Bakhshi\u2019s people-first strategy costs top people",
+  "source": "The Ken",
+  "published_utc": "2023-06-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to earn more interest from your savings bank account",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-06-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Prime Lite subscription: 10 things to know about the plan",
+  "source": "TimesOfIndia.com",
+  "published_utc": "2023-06-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Subhash Kelkar joins Bombay Stock Exchange as CTO",
+  "source": "Techcircle",
+  "published_utc": "2023-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Pad 6 bundles with Rs. 3000 discount announced",
+  "source": "FoneArena.com",
+  "published_utc": "2023-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Locker Charges: Big Update! These banks released new locker rent list, see list of banks",
+  "source": "informalnewz",
+  "published_utc": "2023-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "City Union Bank vs Karur Vysya Bank",
+  "source": "Comparably",
+  "published_utc": "2023-06-19T23:12:22+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "71% of credit cards in India are issued by just 4 banks? These are the most popular ones",
+  "source": "Zee Business",
+  "published_utc": "2023-06-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Pad 6 goes on sale in India today: Check price, bank offers and more",
+  "source": "The Times of India",
+  "published_utc": "2023-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi Pad 6 is now available in India: Here are its features, price and other details",
+  "source": "Livemint",
+  "published_utc": "2023-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian banks enter the QR Code battle. HDFC Bank, Axis Bank join ICICI bank in the race for merchant dominance: Report",
+  "source": "Livemint",
+  "published_utc": "2023-06-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank raises Rs 1,895 crore through infrastructure bonds",
+  "source": "Business Standard",
+  "published_utc": "2023-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPCI to Meesho: Indian firms in Time's 100 most influential companies 2023",
+  "source": "Business Standard",
+  "published_utc": "2023-06-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Will Citi\u2019s Retail Customers Stick with Axis Bank, the Private Sector Market Leader in Customer Complaints?",
+  "source": "Moneylife",
+  "published_utc": "2023-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Price Drop Alert! iPhone 13, iPhone 14 Pro, iPhone 12 Get Massive Price Cut On Flipkart - Check Offers",
+  "source": "Zee News",
+  "published_utc": "2023-06-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Breakingviews - COMMENTARY: ICICI Bank is dealmaking from a place of strength",
+  "source": "Reuters",
+  "published_utc": "2023-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to consider delisting of ICICI Securities on 29 June",
+  "source": "Livemint",
+  "published_utc": "2023-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar misappropriated ICICI bank\u2019s fund for her own use: CBI to Court",
+  "source": "The Indian Express",
+  "published_utc": "2023-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar misappropriated ICICI Bank's funds for personal use: CBI to special court",
+  "source": "The Economic Times",
+  "published_utc": "2023-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities stock zooms 11%, hits 52-week high on delisting proposal",
+  "source": "Fortune India",
+  "published_utc": "2023-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ICICI Securities jumps on plans to delist by share-swap with ICICI Bank",
+  "source": "Reuters",
+  "published_utc": "2023-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities board to meet on June 29 to consider delisting shares",
+  "source": "BusinessLine",
+  "published_utc": "2023-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian market has breadth and depth of firms to invest in: Sukumar Rajah",
+  "source": "Business Standard",
+  "published_utc": "2023-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Nifty 50 ends higher on auto boost; midcaps climb",
+  "source": "Reuters",
+  "published_utc": "2023-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar: CBI Reveals Misappropriation of ICICI Bank Funds for Personal Use",
+  "source": "India CSR",
+  "published_utc": "2023-06-27T10:23:59+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty 50 hits record high - Reliance, ITC, ICICI Bank among top contributors",
+  "source": "CNBC TV18",
+  "published_utc": "2023-06-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "P&G India to invest Rs 2,000 cr to set-up manufacturing facility in Gujarat",
+  "source": "Business Standard",
+  "published_utc": "2023-06-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to delist broking arm ICICI Securities in $622 million share swap deal",
+  "source": "India Today",
+  "published_utc": "2023-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities to turn 100% subsidiary of ICICI Bank upon delisting, share swap ratio announced",
+  "source": "CNBC TV18",
+  "published_utc": "2023-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities Delisted, Now A Wholly-Owned Subsidiary Of ICICI Bank",
+  "source": "NDTV",
+  "published_utc": "2023-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities to become 100% subsidiary of ICICI Bank after delisting",
+  "source": "Business Standard",
+  "published_utc": "2023-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities to be 100% subsidiary of ICICI Bank upon delisting, share swap deal announced",
+  "source": "Livemint",
+  "published_utc": "2023-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to delist broking arm in $622 million shareswap deal",
+  "source": "Reuters",
+  "published_utc": "2023-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities to become a 100% subsidiary of ICICI Bank Upon Delisting Via Share Swap Deal",
+  "source": "Equitypandit",
+  "published_utc": "2023-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities to delist its shares",
+  "source": "Value Research",
+  "published_utc": "2023-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank board approves delisting of ICICI Securities; swap ratio at 67 for 100",
+  "source": "Fortune India",
+  "published_utc": "2023-06-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Customers face brunt of new bank locker rule",
+  "source": "The Times of India",
+  "published_utc": "2023-06-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chaos over locker agreement update: Customers still confused about new rules, says \u2018no standardised approach\u2019",
+  "source": "Livemint",
+  "published_utc": "2023-06-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI CFO Charanjit Surinder Singh Attra resigns; bank announces 4 directors for central board",
+  "source": "Livemint",
+  "published_utc": "2023-06-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

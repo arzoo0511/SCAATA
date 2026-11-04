@@ -1,0 +1,803 @@
+[
+ {
+  "title": "HDFC Bank rolls out digital distribution platform for agents, partners",
+  "source": "BusinessLine",
+  "published_utc": "2023-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches Digital Distribution Platform for its agents and Partners",
+  "source": "Express Computer",
+  "published_utc": "2023-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank leases 2.17 lakh sq ft office space in Noida for 18 years; monthly rent @ Rs 1.47 crore",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches IT platform to turn Business Correspondents into loan agents",
+  "source": "The Times of India",
+  "published_utc": "2023-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kerala gratuity order to cause irreparable loss: HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2023-05-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best bank FD rates: Fixed deposits of ICICI vs HDFC vs Axis vs SBI compared; Check details",
+  "source": "Livemint",
+  "published_utc": "2023-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to open more than 675 branches in semi-urban, rural areas in fiscal year 2024, bank official says",
+  "source": "Reuters",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank share price hits life-time high. Buy, sell or hold?",
+  "source": "Livemint",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Vs HDFC Bank",
+  "source": "LinkedIn",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank plans 675 branches in semi-urban, rural areas in 14 months",
+  "source": "Business Standard",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank vs HDFC Bank | A comprehensive comparison of performance metrics",
+  "source": "CNBC TV18",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to open 675 branches in semi-urban, rural areas in FY24",
+  "source": "The Hindu",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank aims to double semi-urban, rural biz in four years, says official",
+  "source": "Business Standard",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC-HDFC Bank merger: What will change for HDFC home loan borrowers? Will home loan interest rates go dow",
+  "source": "The Economic Times",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Bank of India says Go First Airlines exposure only 0.91% of loans",
+  "source": "Business Standard",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock market today: Sensex, Nifty end with healthy gains; investors richer by over \u20b92 lakh crore in a day",
+  "source": "Livemint",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Up to 7.6% FD interest rates: 5 banks offering highest 5-year FD rates",
+  "source": "economictimes.com",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, HDFC share price tanks as MSCI assigns lower weight for merged entity; check details",
+  "source": "Business News",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC twins sink 6% on MSCI weighting update; biggest 1-day fall in 3 years",
+  "source": "Business Standard",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC to sell education finance arm Credila",
+  "source": "The Times of India",
+  "published_utc": "2023-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MSCI tweak: What triggered the sell-off in HDFC twins?",
+  "source": "The Indian Express",
+  "published_utc": "2023-05-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Income Tax Dept enables e-Pay service for THESE banks; know how to pay tax online",
+  "source": "Firstpost",
+  "published_utc": "2023-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex, Nifty rebound over 1 per cent amid rally in global markets",
+  "source": "The New Indian Express",
+  "published_utc": "2023-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ashish Morone, SVP & Head \u00e2\u20ac\u201c Marketing Communication, HDFC Bank part of OAA 2023 Jury | Media4Growth",
+  "source": "Media4Growth",
+  "published_utc": "2023-05-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Consumer panel orders HDFC ERGO to pay policyholder entire claim of \u20b950 lakh under Home Suraksha Plus Policy",
+  "source": "The Hindu",
+  "published_utc": "2023-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Unclaimed money in savings account, bank fixed deposits (FDs): Here\u2019s how to check",
+  "source": "The Economic Times",
+  "published_utc": "2023-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 Best Business Finance Companies In India In 2023",
+  "source": "Inventiva",
+  "published_utc": "2023-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, Infosys sign 6 lakh sq-ft lease at Ace Capitol with Ace Group",
+  "source": "Construction Week India",
+  "published_utc": "2023-05-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi grants final approval for proposed change in control of HDFC AMC: HDFC Bank | Company Business News",
+  "source": "Livemint",
+  "published_utc": "2023-05-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CUET UG 2023 Participating Universities: Central University of Jharkhand; Check eligibility, hostels, placements",
+  "source": "The Indian Express",
+  "published_utc": "2023-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Under the ESOP scheme, HDFC Bank allots 4,561,966 equity shares",
+  "source": "HR Katha",
+  "published_utc": "2023-05-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Recruitment Strategy: How HDFC Bank hired about 5,000 people a month in FY 2022-23",
+  "source": "ETHRWorld.com",
+  "published_utc": "2023-05-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC looks to offload Rs 2,000 crore stressed developer loans: Report",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-05-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best bank stock to buy in 2023: HDFC Bank, Axis Bank, ICICI Bank, others",
+  "source": "Business News",
+  "published_utc": "2023-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ace Group Leases Over 6 Lakh Sq Ft Office Space in Ace Capitol Noida",
+  "source": "Realty Plus Magazine",
+  "published_utc": "2023-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What are the latest SBI home loan rates: Interest rate you will get based on your CIBIL credit score",
+  "source": "The Economic Times",
+  "published_utc": "2023-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Q4 results today: Kalyan Jewellers, Karur Vysya Bank, P&G to Suryoday SFB \u2014 these companies to announce earnings tod",
+  "source": "Livemint",
+  "published_utc": "2023-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lowest Interest Rates On Personal Loans",
+  "source": "News18.com",
+  "published_utc": "2023-05-16T06:47:25+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, HDFC Bank turn ex-date for dividend; shares fall up to 2%",
+  "source": "Business Standard",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, HDFC Bank Move to Ex-Date for Dividend, Shares Fall Up to 2%",
+  "source": "Equitypandit",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hierarchy level in ICICI Bank: Thinking of joining ICICI Bank? Here's an overview of the employee grades.",
+  "source": "The Finance Story",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MSCI\u2019s move and the impact on HDFC and HDFC Bank stocks",
+  "source": "ICICI Direct",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI clears SBI Funds to buy up to 9.99% stake in HDFC Bank",
+  "source": "The Times of India",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u20b976 lakh accidental death benefit given to retired SSI family",
+  "source": "The Hindu",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI allows SBI Funds Management to acquire up to 9.99% stake in HDFC Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI okays SBI Funds Management\u2019s acquisition of 9.9% stake in HDFC Bank",
+  "source": "Fortune India",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI allows SBI Funds to buy up to 9.99% stake in HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Eight arrested for duping banks of \u20b923cr after showing fake company and staff | Hindustan Times",
+  "source": "Hindustan Times",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gang opens salary accounts with forged docus, cheats banks of Rs 23 crore",
+  "source": "The Times of India",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IKEA India ties up with HDFC Bank to launch consumer financing options. Details here",
+  "source": "Livemint",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IKEA, HDFC to launch financing options to make products more affordable",
+  "source": "Business Standard",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Funds gets RBI nod to buy 9.99% of HDFC Bank in multi-billion-dollar deal",
+  "source": "VCCircle",
+  "published_utc": "2023-05-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank- Citi deal to further consolidate Indian credit card market: GlobalData",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank, L&T, Thermax: Chris Wood rejigs India equity portfolio",
+  "source": "Business Standard",
+  "published_utc": "2023-05-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IKEA India Ties Up With HDFC Bank for Consumer Financing Options",
+  "source": "Realty Plus Magazine",
+  "published_utc": "2023-05-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Amazon Blockbuster Value Days: Best deals on smartwatches, tablets, headphones and more",
+  "source": "mint",
+  "published_utc": "2023-05-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 2,000 Note Exchange Made Simpler: SBI, PNB And HDFC Bank Make Rules Easier",
+  "source": "News18",
+  "published_utc": "2023-05-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google Pay Launches RuPay Credit Cards Support On UPI In India; Here's How To Add It",
+  "source": "India.com",
+  "published_utc": "2023-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google Pay brings RuPay credit card-based UPI payments: How to use",
+  "source": "Livemint",
+  "published_utc": "2023-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC AMC gets SEBI's final approval for change in control due to merger",
+  "source": "Livemint",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC-HDFC Bank merger: HDFC AMC gets SEBI's nod for change in control",
+  "source": "Fortune India",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exchange of \u20b92,000 notes at banks largely smooth on Day 1 | India News",
+  "source": "Hindustan Times",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Common Mumbaikars at the fore on Day 1 of Rs 2,000 note phase-out",
+  "source": "Mid-Day",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This is why there is still potential for a surge in banking stocks",
+  "source": "Livemint",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank opens doors to new recruits with a special recruitment programme",
+  "source": "DeshGujarat",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC-HDFC Bank merger in 4-5 weeks; bank's margin to drop, say analysts",
+  "source": "Reuters",
+  "published_utc": "2023-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Launches Future Bankers 2.0 Recruitment Program with Manipal Global Academy of BFSI",
+  "source": "APAC Media",
+  "published_utc": "2023-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank looks attractive amid merger, growth expectations; how much is the upside?",
+  "source": "Livemint",
+  "published_utc": "2023-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank merger in 4-5 weeks; bank\u2019s margin to drop, say analysts",
+  "source": "The Financial Express",
+  "published_utc": "2023-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks that share market analysts recommended on May 26, 2023: HDFC Bank, Dilip Buildcon, Bharat Electronics, Indus Towers",
+  "source": "Business News",
+  "published_utc": "2023-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brokerages see potential upside of 35% in HDFC Bank's share price; post-merger guidance, FY24 outlook, key factors here",
+  "source": "Livemint",
+  "published_utc": "2023-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u20b92,000 note exchange/ deposit: Know rules for SBI, HDFC, ICICI, other banks",
+  "source": "Livemint",
+  "published_utc": "2023-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Which banks are exchanging Rs 2000 notes without ID proof and which ones are not",
+  "source": "The Economic Times",
+  "published_utc": "2023-05-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank partners Manipal Global to build up a talent pipeline",
+  "source": "Adda247",
+  "published_utc": "2023-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises bulk FD rates, now offering up to 7.25% on this tenure",
+  "source": "Livemint",
+  "published_utc": "2023-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Maharashtra top performer in NPA management during FY23",
+  "source": "The Economic Times",
+  "published_utc": "2023-05-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches special fixed deposit rates; check these tenures to get higher interest rate",
+  "source": "Business Today",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ahead of merger: How HDFC Bank is getting future-ready",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank board clears plan to raise stake in ICICI Lombard by 4%",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI to move ahead with its plan to increase 4% stake in Lombard business",
+  "source": "Business Standard",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Nifty hits fresh record high, may rally further; ICICI Bank, Axis Bank, SBI may rise",
+  "source": "Business News",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank of Maharashtra Emerges as Top Performer in NPA Management during FY23",
+  "source": "Adda247",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches special fixed deposit (FD) schemes with higher interest rates. Details here",
+  "source": "Livemint",
+  "published_utc": "2023-05-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Under PCA five years back, Bank of Maharashtra is best NPA performer now",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank vs ICICI Bank vs Yes Bank vs Kotak Mahindra Bank: Highest FD interest rates",
+  "source": "The Economic Times",
+  "published_utc": "2023-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank unveils new fixed deposit rates for customers today: Check details",
+  "source": "Zee Business",
+  "published_utc": "2023-05-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank extends special fixed deposit (FD) scheme for senior citizens to this date. Interest rate, other details here",
+  "source": "Livemint",
+  "published_utc": "2023-05-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank may buy 1.6% in HDFC Life from JV partner",
+  "source": "The Economic Times",
+  "published_utc": "2023-05-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ABRDN exits HDFC Life, offloads Rs 2,010-crore stake via block deal",
+  "source": "Zee Business",
+  "published_utc": "2023-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

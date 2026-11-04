@@ -1,0 +1,227 @@
+[
+ {
+  "title": "NCLAT sets aside CCI\u2019s six year old penalty on ITC",
+  "source": "BusinessLine",
+  "published_utc": "2023-05-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC B Natural brings back excitement into fruit beverages",
+  "source": "Adgully.com",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC acquires 2,443 equity shares of Sproutlife; stock hits new lifetime high",
+  "source": "The Indian Express",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC shares touch new 52-week high after acquiring stake in Sproutlife Foods",
+  "source": "Livemint",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC buys 39% stake in Yoga Bar owner, Sproutlife Foods, for Rs 175 cr",
+  "source": "Business Today",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC B Natural launches fruit beverage Fruits \u2018N Bits",
+  "source": "The Financial Express",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC launches Sunfeast Farmlite Super Millets Cookies",
+  "source": "MediaBrief",
+  "published_utc": "2023-05-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "B Natural Introduces 'Fruits 'N Bits', A Drink Infused With Chunks & Seeds",
+  "source": "BW Marketing World",
+  "published_utc": "2023-05-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "LIC portfolio shares: Reliance Industries, ITC, TCS, Infosys & SBI among insurer's top stock holdings",
+  "source": "Business Today",
+  "published_utc": "2023-05-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sunfeast",
+  "source": "Passionate In Marketing",
+  "published_utc": "2023-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Prime Video partners Sunfeast Dark Fantasy for limited-edition \u2018Citadel\u2019 pack",
+  "source": "MediaBrief",
+  "published_utc": "2023-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Are your equity funds investing in the same stocks?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC stays NCDRC order on Rs 2 crore compensation for 'wrong' haircut",
+  "source": "ETLegalWorld.com",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best Large Cap Stocks Under Rs 500 - Complete List & Analysis",
+  "source": "Trade Brains",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC Q4FY23 results preview: Likely to witness growth in cigarette and FMCG businesses",
+  "source": "BusinessLine",
+  "published_utc": "2023-05-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC profit up 21% in Q4 as cigarette sales rise",
+  "source": "Livemint",
+  "published_utc": "2023-05-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "City airport is highest AMC property tax-payer",
+  "source": "Ahmedabad Mirror",
+  "published_utc": "2023-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ITC enhances direct reach, expands stockists\u2019 network to tap into rural growth story",
+  "source": "BusinessLine",
+  "published_utc": "2023-05-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Geetham Veg's GVR Foods Joins Hands with Manipal's Hotel Management School for Training Collaboration",
+  "source": "The Times of India",
+  "published_utc": "2023-05-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Goafest 2023: Day 1 Wrap",
+  "source": "BW Marketing World",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Goafest 2023 kicks off today to ignite the future of creativity and innovation in Advertising and Marketing",
+  "source": "MediaBrief",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Capital Foods sale: Nestle, ITC in last lap, deal at up to \u20b95k cr",
+  "source": "Livemint",
+  "published_utc": "2023-05-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance To Launch Corn Chips Brand Alan's Bugles In India",
+  "source": "NDTV Profit",
+  "published_utc": "2023-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Unstable weather patterns upend cos\u2019 best-laid plans",
+  "source": "Livemint",
+  "published_utc": "2023-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top culinary colleges in India - 2023",
+  "source": "The Times of India",
+  "published_utc": "2023-05-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

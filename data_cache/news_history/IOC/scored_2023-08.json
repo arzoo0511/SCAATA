@@ -1,0 +1,434 @@
+[
+ {
+  "title": "McDermott selected by IOCL for Indian refinery expansion work",
+  "source": "Offshore Technology",
+  "published_utc": "2023-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IIT Madras to launch applied petroleum engineering and hydrogen energy course, GATE score not required",
+  "source": "The Indian Express",
+  "published_utc": "2023-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL back in black as petrol, diesel price freeze helps regains mkt margin",
+  "source": "ET Auto",
+  "published_utc": "2023-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fortune Global 500: Reliance jumps 16 places, LIC slips 9. Details on 8 Indian companies featured on list",
+  "source": "Livemint",
+  "published_utc": "2023-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Launches Mega Oil Palm Drive To Raise Production",
+  "source": "Gabungan Pengusaha Kelapa Sawit Indonesia (GAPKI)",
+  "published_utc": "2023-08-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Compounding Fee Is Not In The Nature Of Tax Or Duty; Delhi High Court Holds Legal Metrology Department...",
+  "source": "Live Law",
+  "published_utc": "2023-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Upstream and Downstream Oil Companies in India",
+  "source": "Groww",
+  "published_utc": "2023-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Chairman SM Vaidya gets rare tenure extension of 1 year",
+  "source": "PSU Watch",
+  "published_utc": "2023-08-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation donates Rs 12 lakh medical equipment to GGH Kakinada",
+  "source": "Medical Dialogues",
+  "published_utc": "2023-08-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil India upgrades to Maharatna, ONGC Videsh to Navratna",
+  "source": "Construction World",
+  "published_utc": "2023-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Singapore is coping with the decline of its Oil Industry as the World Greens",
+  "source": "ET Auto",
+  "published_utc": "2023-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Chairman Shrikant Madhav Vaidya receives rare one-year tenure extension",
+  "source": "Legend Officers",
+  "published_utc": "2023-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC chairman Shrikant Madhav Vaidya gets one-year post-retirement extension",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mukesh Ambanis Reliance Industries Toppled By SBI To Become Indias Most Profitable Firm",
+  "source": "Free Press Journal",
+  "published_utc": "2023-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now, get petrol for free in Hyderabad by recycling",
+  "source": "Telangana Today",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 Most Profitable Indian Companies in Q1, FY24",
+  "source": "India.com",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India makes first crude oil payment to UAE in Indian rupees",
+  "source": "Reuters",
+  "published_utc": "2023-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "N Senthil Kumar appointed as Director (Pipelines) of Indian Oil",
+  "source": "PSU Watch",
+  "published_utc": "2023-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "WATCH | India's iconic landmarks illuminate in tricolor ahead of 77th Independence Day",
+  "source": "CNBC TV18",
+  "published_utc": "2023-08-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India makes first crude oil payment to UAE in local currency",
+  "source": "India Today",
+  "published_utc": "2023-08-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Historic first: India and UAE settle crude oil transaction using national currencies",
+  "source": "WION",
+  "published_utc": "2023-08-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, UAE Commence Crude Oil Trade Using Local Currency Settlement (LCS) Framework",
+  "source": "India Briefing",
+  "published_utc": "2023-08-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senthil Kumar N joins Indian Oil Board as Director (Pipelines)",
+  "source": "PSU Watch",
+  "published_utc": "2023-08-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Haryana's nod to IOCL for acquisition of panchayat land for Panipat Refinery expansion",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India settles first crude oil payment to UAE in local currency",
+  "source": "Investment Monitor",
+  "published_utc": "2023-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Dumping the dollar: India, UAE begin trade in local currencies",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-08-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil\u2019s digitisation drive to bolster efficiency",
+  "source": "Manufacturing Today India",
+  "published_utc": "2023-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ONGC Videsh secures extension for exploration of oil block offshore Vietnam",
+  "source": "Offshore Technology",
+  "published_utc": "2023-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Haryana govt approves 349 acres for IOCL Panipat Refinery Expansion",
+  "source": "Construction World",
+  "published_utc": "2023-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Linde India to set up ASU at Panipat refinery",
+  "source": "Indian Chemical News",
+  "published_utc": "2023-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BPCL announces Rahul Dravid as Brand Ambassador",
+  "source": "Indian Chemical News",
+  "published_utc": "2023-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil selects provider for new unit at Panipat refinery",
+  "source": "Oil & Gas Journal",
+  "published_utc": "2023-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Setting eyes on market, IOCL to move into new offices in AP",
+  "source": "The Times of India",
+  "published_utc": "2023-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The sequence and de novo assembly of the genome of the Indian oil sardine, Sardinella longiceps",
+  "source": "Nature",
+  "published_utc": "2023-08-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil aims to increase its share in India\u2019s energy pie to 12.5% by 2050: Chairman",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil plans to become '360-degree energy' company, to invest Rs 4 trn",
+  "source": "Business Standard",
+  "published_utc": "2023-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 1.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil plans $30bn investment for net-zero",
+  "source": "Offshore Technology",
+  "published_utc": "2023-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explosion in Digboi Refinery days ahead of Indian Oil chairman\u2019s visit",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2023-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hathi Brand: A Century of Nourishing Indian Households",
+  "source": "ANI News",
+  "published_utc": "2023-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance appoints Ambani\u2019s children to board in succession plan",
+  "source": "TechCrunch",
+  "published_utc": "2023-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian refiner BPCL to spend USD 18.16 billion in oil, green energy over 5 years",
+  "source": "ET Auto",
+  "published_utc": "2023-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil ropes in Chef Sanjeev Kapoor as its Brand Ambassador",
+  "source": "Adda247",
+  "published_utc": "2023-08-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Not just Amarmani, whistleblower Manjunath\u2019s killer also set free by UP\u2014A trend hard to combat",
+  "source": "ThePrint",
+  "published_utc": "2023-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL, BPCL, IOC shares fall up to 2.5% after government slashes LPG cylinder prices",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explained | Coup in Gabon: Implications for India",
+  "source": "ETV Bharat",
+  "published_utc": "2023-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian sports news wrap, August 31",
+  "source": "Sportstar",
+  "published_utc": "2023-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 200 LPG price cut on oil companies, government unlikely to give subsidy",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal Oil Corporation hikes prices of petroleum products",
+  "source": "The Kathmandu Post",
+  "published_utc": "2023-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

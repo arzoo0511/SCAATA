@@ -1,0 +1,659 @@
+[
+ {
+  "title": "ICICI net banking down: Login issues, other problems resolved",
+  "source": "The Times of India",
+  "published_utc": "2023-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best bank FD rates: Fixed deposits of ICICI vs HDFC vs Axis vs SBI compared; Check details",
+  "source": "Livemint",
+  "published_utc": "2023-05-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's Pine Labs partners with ICICI Bank to enable acceptance of digital rupee on its terminals",
+  "source": "Indian Startup News",
+  "published_utc": "2023-05-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pine Labs Partners with ICICI Bank to Enable Digital Rupee on PoS Terminals",
+  "source": "Equitypandit",
+  "published_utc": "2023-05-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Holidays May 2023: Apps for online banking",
+  "source": "TimesOfIndia.com",
+  "published_utc": "2023-05-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Vs HDFC Bank",
+  "source": "LinkedIn",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces auto recharge on FASTag via UPI mandate",
+  "source": "CNBC TV18",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How ICICI Bank customers can set up UPI mandate to recharge the FASTag automatically",
+  "source": "The Economic Times",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank vs HDFC Bank | A comprehensive comparison of performance metrics",
+  "source": "CNBC TV18",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus Summer Sale 2023: Up to 50% off on all products",
+  "source": "FoneArena.com",
+  "published_utc": "2023-05-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar News: Bombay HC refuses interim relief of retirement benefits| SCC Blog",
+  "source": "SCC Online",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PropertyPistol raises Rs 45 crore from investors including ICICI Bank, Baring Private Equity Partners",
+  "source": "ET Realty",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, HDFC share price tanks as MSCI assigns lower weight for merged entity; check details",
+  "source": "Business News",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pune Branch Manager of ICICI Bank Arrested for Defrauding Customer of Rs 27 Lakhs",
+  "source": "Punekar News",
+  "published_utc": "2023-05-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI & Axis surf the digital wave",
+  "source": "Banking Frontiers",
+  "published_utc": "2023-05-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior citizen FD interest rates: Suryoday Small Finance Bank vs Utkarsh Small Finance Bank vs Unity Small Finance Bank vs SBI vs ICICI Bank",
+  "source": "Business News",
+  "published_utc": "2023-05-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Income Tax Dept enables e-Pay service for THESE banks; know how to pay tax online",
+  "source": "Firstpost",
+  "published_utc": "2023-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex, Nifty rebound over 1 per cent amid rally in global markets",
+  "source": "The New Indian Express",
+  "published_utc": "2023-05-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Unclaimed money in savings account, bank fixed deposits (FDs): Here\u2019s how to check",
+  "source": "The Economic Times",
+  "published_utc": "2023-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ashish Morone, SVP & Head \u00e2\u20ac\u201c Marketing Communication, HDFC Bank part of OAA 2023 Jury | Media4Growth",
+  "source": "Media4Growth",
+  "published_utc": "2023-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 Best Business Finance Companies In India In 2023",
+  "source": "Inventiva",
+  "published_utc": "2023-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jaypee Groups Flagship JP Associates Defaults On Loans Worth Rs 3,956 Crore",
+  "source": "ABP Live English",
+  "published_utc": "2023-05-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cisco to start manufacturing in India, eyes $1 billion production capacity",
+  "source": "Business Standard",
+  "published_utc": "2023-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm Payments Bank's Paytm UPI Lite goes live on iOS platforms",
+  "source": "CNBC TV18",
+  "published_utc": "2023-05-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Higher than Senior Citizen Savings Scheme (SCSS) interest rate offered by these banks on fixed deposits (FDs) to elderly",
+  "source": "Livemint",
+  "published_utc": "2023-05-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best bank stock to buy in 2023: HDFC Bank, Axis Bank, ICICI Bank, others",
+  "source": "Business News",
+  "published_utc": "2023-05-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is Gold a Safe Investment? Timing, Safety & Trends",
+  "source": "ICICI Direct",
+  "published_utc": "2023-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank inaugurates a new branch in Varanasi",
+  "source": "Cityairnews",
+  "published_utc": "2023-05-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.1,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo F23 5G smartphone with 64MP camera, 5000 mAh battery launched: Price, offers and more",
+  "source": "The Times of India",
+  "published_utc": "2023-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo F23 5G launched in India: Price, Specs, and more",
+  "source": "The Mobile Indian",
+  "published_utc": "2023-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DKS gets 'Future CM' cake on his birthday today",
+  "source": "Rediff",
+  "published_utc": "2023-05-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Lowest Interest Rates On Personal Loans",
+  "source": "News18.com",
+  "published_utc": "2023-05-16T06:47:25+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HC denies anticipatory bail to former ICICI Bank staffer | Mumbai news",
+  "source": "Hindustan Times",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hierarchy level in ICICI Bank: Thinking of joining ICICI Bank? Here's an overview of the employee grades.",
+  "source": "The Finance Story",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zomato rolls out its own UPI offerings with ICICI Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zomato inks partnership with ICICI Bank to launch its own UPI offering",
+  "source": "Business Standard",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm appoints Bhavesh Gupta as president and chief operating officer",
+  "source": "Business Standard",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zomato UPI service launched: What it is, how to activate and more",
+  "source": "India Today",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zomato Takes on Google Pay and PhonePe with new UPI offering",
+  "source": "Zee Business",
+  "published_utc": "2023-05-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zomato partners with ICICI Bank to launch UPI service; how it works",
+  "source": "Firstpost",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MSCI\u2019s move and the impact on HDFC and HDFC Bank stocks",
+  "source": "ICICI Direct",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How To Use Zomato UPI, The Service Launched With ICICI Bank That May Take On Google Pay, PhonePe?",
+  "source": "Outlook Business",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zomato launches UPI service in partnership with ICICI Bank for real-time payments. Here's how to use it",
+  "source": "Livemint",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to activate and use Zomato UPI services",
+  "source": "India Today",
+  "published_utc": "2023-05-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BharatPe appoints Sandeep Indurkar as Chief Business Officer of banking, alliances",
+  "source": "Business Today",
+  "published_utc": "2023-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank- Citi deal to further consolidate Indian credit card market: GlobalData",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zomato UPI Is Launching Soon, Here\u2019s How To Activate It & All You Need To Know About It",
+  "source": "Curly Tales",
+  "published_utc": "2023-05-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zomato Partners with ICICI Bank to Launch Zomato UPI, Streamlining Payments for Users:",
+  "source": "Adda247",
+  "published_utc": "2023-05-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zomato Launches Its Own UPI Platform, Backed By ICICI Bank! Flipkart's Own UPI Launching Soon..",
+  "source": "Trak.in",
+  "published_utc": "2023-05-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank inaugurates a new branch in Dehradun",
+  "source": "Cityairnews",
+  "published_utc": "2023-05-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Day trading guide for today: Six buy or sell stocks for Monday - May 22",
+  "source": "Livemint",
+  "published_utc": "2023-05-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Day 1 of Rs 2,000 exchange: No major rush but confusion over ID card, requisition slip prevails",
+  "source": "CNBC TV18",
+  "published_utc": "2023-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PayNearby appoints Saif Khan as chief growth officer",
+  "source": "The Financial Express",
+  "published_utc": "2023-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo Y100 And Y100A Smartphones Receive Price Cuts And Exciting Bank Offers; Where To Buy",
+  "source": "Mashable India",
+  "published_utc": "2023-05-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI May Need to Buy $18 Billion of Bonds to Add Cash, India's ICICI Says",
+  "source": "Bloomberg.com",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Common Mumbaikars at the fore on Day 1 of Rs 2,000 note phase-out",
+  "source": "Mid-Day",
+  "published_utc": "2023-05-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to Update KYC in Demat Account: Online Demat KYC Update Guide",
+  "source": "ICICI Direct",
+  "published_utc": "2023-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank launches Sarathi platform for easy PoS onboarding of merchants",
+  "source": "Business Standard",
+  "published_utc": "2023-05-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "2 arrested by Kolkata Police in bank fraud case involving Rs 103 crore",
+  "source": "India Today",
+  "published_utc": "2023-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks that share market analysts recommended on May 26, 2023: HDFC Bank, Dilip Buildcon, Bharat Electronics, Indus Towers",
+  "source": "Business News",
+  "published_utc": "2023-05-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u20b92,000 note exchange/ deposit: Know rules for SBI, HDFC, ICICI, other banks",
+  "source": "Livemint",
+  "published_utc": "2023-05-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's ICICI Lombard jumps as ICICI Bank approves raising stake",
+  "source": "Reuters",
+  "published_utc": "2023-05-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s board approves reappointment of Batra as ED for two more years",
+  "source": "BusinessLine",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit Cards on UPI: Everything you need to Know",
+  "source": "ICICI Direct",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank board clears plan to raise stake in ICICI Lombard by 4%",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard shares jump 14% on ICICI Bank\u2019s stake hike plan",
+  "source": "Fortune India",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to increase stake in ICICI Lombard by 4%",
+  "source": "Life Insurance International",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank Nifty hits fresh record high, may rally further; ICICI Bank, Axis Bank, SBI may rise",
+  "source": "Business News",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI to move ahead with its plan to increase 4% stake in Lombard business",
+  "source": "Business Standard",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks/Financial Institutions using recovery agents to forcibly seize vehicles is illegal: Patna HC | SCC Blog",
+  "source": "SCC Online",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Warburg Pincus affiliate acquires stake in Vistaar Finance, backs Avijit Saha as CEO",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-05-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC Bank vs ICICI Bank vs Yes Bank vs Kotak Mahindra Bank: Highest FD interest rates",
+  "source": "The Economic Times",
+  "published_utc": "2023-05-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "14.4% rise in Rs 500 fake notes: RBI",
+  "source": "The Indian Express",
+  "published_utc": "2023-05-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

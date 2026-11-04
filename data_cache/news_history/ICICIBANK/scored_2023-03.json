@@ -1,0 +1,650 @@
+[
+ {
+  "title": "Sarvatra Technologies collaborates with ICICI bank, IDFC First Bank and Pine Labs to extend UPI for G20 travellers",
+  "source": "Business Today",
+  "published_utc": "2023-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sarvatra Tech enables ICICI Bank, IDFC Bank, Pine Labs to extend UPI for G20 travellers",
+  "source": "Livemint",
+  "published_utc": "2023-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches digital solutions for participants of capital market, custody services",
+  "source": "Livemint",
+  "published_utc": "2023-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private banks woo youngsters with the promise of job-assured courses",
+  "source": "BusinessLine",
+  "published_utc": "2023-03-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Making UPI payments? Know your bank's limit; SBI, HDFC to ICICI, Google Pay releases full list",
+  "source": "HT Tech",
+  "published_utc": "2023-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank\u2019s AT-1 bond write-off: SC puts on hold Bombay HC ruling",
+  "source": "The New Indian Express",
+  "published_utc": "2023-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YES Bank shares down 3% as 3-year lock-in period expires today",
+  "source": "Fortune India",
+  "published_utc": "2023-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vivo V27 Pro goes on sale in India: Price, bank offers and other details",
+  "source": "The Times of India",
+  "published_utc": "2023-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ex-ICICI exec Hitesh Sethia to join Jio Fin as CEO",
+  "source": "Livemint",
+  "published_utc": "2023-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Women's Day: How an article pulled Kiran Telang into the financial advisory industry",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank hikes FD rates by up to 50 bps effective from today",
+  "source": "Livemint",
+  "published_utc": "2023-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s STACK offers one stop digital solutions for exporters",
+  "source": "The Economic Times",
+  "published_utc": "2023-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold loan: 10 banks offering best gold loan interest rates",
+  "source": "The Economic Times",
+  "published_utc": "2023-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensitive Financial Data Of 600,000 HDFC Bank Customers Leaked? This Is What HDFC Bank Has To Say..",
+  "source": "Trak.in",
+  "published_utc": "2023-03-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Xiaomi 13 Pro sale in India begins today: Where to buy, price, offers and features",
+  "source": "India Today",
+  "published_utc": "2023-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "9.25% interest on 700 days FD, 7.2% on 390 days FD: How to select special bank fixed deposit for best retu",
+  "source": "The Economic Times",
+  "published_utc": "2023-03-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank stocks may face mass selling as 3-yr RBI-mandated lock-in ends on Monday",
+  "source": "The Economic Times",
+  "published_utc": "2023-03-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard gains on RBI nod to stake sale deadline extension",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Shares of Yes Bank drop as three-year share lock-in period ends",
+  "source": "The Indian Express",
+  "published_utc": "2023-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy ICICI Lombard General Insurance Company For Target Rs 1,445 - ICICI Securities",
+  "source": "Investment Guru India",
+  "published_utc": "2023-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank 3-year lock-in period ends today: 10 things to know",
+  "source": "Livemint",
+  "published_utc": "2023-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo Find N2 Flip goes official in India: Price starts from Rs 89,999",
+  "source": "The Indian Express",
+  "published_utc": "2023-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oppo Find N2 Flip phone makes its debut in India: Price and other details",
+  "source": "Livemint",
+  "published_utc": "2023-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Higher than SBI, HDFC Bank, ICICI Bank: These small finance banks offer up to 9% on FDs",
+  "source": "Business Today",
+  "published_utc": "2023-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank offers Ecosystem Banking for Indian Startups",
+  "source": "APAC Media",
+  "published_utc": "2023-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Savings account interest rates: SBI Vs Indian Bank vs Union Bank vs Canara Bank vs HDFC Bank vs ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2023-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Traders Diary: Buy, Sell Or Hold Strategy On ICICI Bank, Asian Paints, Maruti Suzuki, Cipla Among Other Stocks Today",
+  "source": "Zee Business",
+  "published_utc": "2023-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank veteran Anup Bagchi to take over as new MD and CEO of ICICI Prudential Life",
+  "source": "CNBC TV18",
+  "published_utc": "2023-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anup Bagchi to take over as MD & CEO of ICICI Pru Life Insurance in June",
+  "source": "Business Standard",
+  "published_utc": "2023-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anup Bagchi to head ICICI Prudential Life from June",
+  "source": "The Economic Times",
+  "published_utc": "2023-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Domestic Systemically Significant Banks (D-SIBs)",
+  "source": "Vajiram & Ravi",
+  "published_utc": "2023-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anup Bagchi to succeed Kanan as MD &CEO of ICICI Pru Life",
+  "source": "Asia Insurance Post",
+  "published_utc": "2023-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ayekart Fintech appoints Anand Mugad as Chief Marketing Officer",
+  "source": "Exchange4Media",
+  "published_utc": "2023-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SVB, Signature Bank collapse: What are \u2018Too-Big-To-Fail\u2019 banks, and what makes Indian banks safe",
+  "source": "The Indian Express",
+  "published_utc": "2023-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anup Bagchi named MD & CEO of ICICI Prudential Life Insurance",
+  "source": "ETHRWorld.com",
+  "published_utc": "2023-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "We want to pivot to a financial marketplace: ICICI Securities CMD",
+  "source": "Livemint",
+  "published_utc": "2023-03-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Sandeep Bakhshi, The Man Behind ICICI Bank\u2019s Turnaround Story",
+  "source": "News18",
+  "published_utc": "2023-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anup Bagchi is the new MD and CEO of ICICI Pru Life",
+  "source": "Cafemutual",
+  "published_utc": "2023-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Sandeep Bakhshi, ICICI bank MD, his monthly salary is...",
+  "source": "DNA India",
+  "published_utc": "2023-03-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, PNB, HDFC, ICICI Senior Citizen FD rates vs Kisan Vikas Patra: Which schemes pay better interest rates?",
+  "source": "Business Today",
+  "published_utc": "2023-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best Bank Stocks to Buy \u2013 Compare Top 10 Bank Shares to Buy in India",
+  "source": "Top 10 Stock Brokers in India",
+  "published_utc": "2023-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NSE & BSE rise in early trade",
+  "source": "PSU Watch",
+  "published_utc": "2023-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Poco X5 5G goes on first sale in India: Check price, bank offers and other details",
+  "source": "The Times of India",
+  "published_utc": "2023-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Uday Kotak to ICICI bank\u2019s Sandeep Bakhshi: Top Indian bankers who earn millions of dollars and have huge net worth",
+  "source": "The Financial Express",
+  "published_utc": "2023-03-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hikes bulk FD rates, offers up to 7.25% on these tenors effective from today",
+  "source": "Livemint",
+  "published_utc": "2023-03-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Deposits Rate: These banks offer highest rates, check here",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty March futures trade at premium",
+  "source": "Business Standard",
+  "published_utc": "2023-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BharatPe acquires NBFC Trillion loans",
+  "source": "Livemint",
+  "published_utc": "2023-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Agriculture Minister Shri Tomar launches DigiClaim for claim disbursal through National Crop Insurance Portal (NCIP)",
+  "source": "PIB",
+  "published_utc": "2023-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI, HDFC Bank, PNB FDs vs Kisan Vikas Patra (KVP): Which offers highest interest rate",
+  "source": "The Economic Times",
+  "published_utc": "2023-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Which Bank is Safe for National Pension Scheme?",
+  "source": "TimesOfIndia.com",
+  "published_utc": "2023-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to report March quarter earnings on 22 April, details here",
+  "source": "Livemint",
+  "published_utc": "2023-03-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI board reviews global, domestic economic situation",
+  "source": "Livemint",
+  "published_utc": "2023-03-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "South Indian Bank scripts a turnaround",
+  "source": "The Financial Express",
+  "published_utc": "2023-03-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "US Banking crisis: Did you know rumours almost triggered a bank run on ICICI Bank during 2008 GFC?",
+  "source": "BusinessLine",
+  "published_utc": "2023-03-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank bulk FD rates are effective from today with a maximum interest rate of 7.25%",
+  "source": "Livemint",
+  "published_utc": "2023-03-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rare Asset Reconstruction & Naman Group to take over Rajesh Lifespaces Hotel in Mumbai",
+  "source": "Prop News Time",
+  "published_utc": "2023-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "South Indian Bank MD and CEO Murali Ramakrishnan not to be re-appointed, search committee to look for new...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "9.5% interest on FDs in small finance banks: How to invest in fixed deposits 'safely' to get best return",
+  "source": "The Economic Times",
+  "published_utc": "2023-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Exclusive| \u2018No differences with the board\u2019, clarifies South Indian Bank MD Murali Ramakrishnan on...",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Additional tier i bonds and its importance in capitalisation of financial services entities in India",
+  "source": "CNBC TV18",
+  "published_utc": "2023-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndusInd Bank shares: Despite high promoter pledge, here are four triggers for a 50% upside",
+  "source": "Business Today",
+  "published_utc": "2023-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises interest rates on non-withdrawable fixed deposits (FDs) effective from today",
+  "source": "Livemint",
+  "published_utc": "2023-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "South India Bank CEO Quits, Negating Market Expectations of a Turnaround",
+  "source": "Moneylife",
+  "published_utc": "2023-03-29T08:54:02+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking in Turbulent Times: 7 Trends Hint At Cost-Efficient Growth",
+  "source": "Salesforce",
+  "published_utc": "2023-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBDC retail pilot: Some customers complain of technical glitches in apps, transactions",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How can you grow your wealth with the Nifty50 Index?",
+  "source": "Upstox",
+  "published_utc": "2023-03-30T14:35:11+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank revises savings account charges on these nine services from April, 1 2023",
+  "source": "The Economic Times",
+  "published_utc": "2023-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed Deposit: How much senior citizens can invest in FD every year to get tax-free return",
+  "source": "The Economic Times",
+  "published_utc": "2023-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sebi imposes Rs 5 lakh fine on Videocon's Venugopal Dhoot for disclosure lapses",
+  "source": "The Economic Times",
+  "published_utc": "2023-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex jumps over 600 points, Nifty50 tests 17,250 amid broad-based gains",
+  "source": "Zee Business",
+  "published_utc": "2023-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sandeep Bakhshi, Uday Kotak: Highest paid Indian bankers and their whopping salaries",
+  "source": "DNA India",
+  "published_utc": "2023-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,911 @@
+[
+ {
+  "title": "HDFC Bank's total advances record 17% growth to \u20b916,005 bn in Q4FY23, domestic retail loans up 21%",
+  "source": "Livemint",
+  "published_utc": "2023-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q4 update: Advances jump 17% to Rs 16 lakh crore, deposits up 21%",
+  "source": "The Economic Times",
+  "published_utc": "2023-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, BEL to JSW Steel: Anuj Gupta of IIFL Securities recommends 5 buy or sell stocks for this week",
+  "source": "Livemint",
+  "published_utc": "2023-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank records loan growth of 17% at end of March",
+  "source": "The Economic Times",
+  "published_utc": "2023-04-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After high card additions in February, what are the triggers for SBI Card stock?",
+  "source": "Livemint",
+  "published_utc": "2023-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI's Online Banking Services Impacted For 'Few Hours' Due To Technical Glitch",
+  "source": "NDTV Profit",
+  "published_utc": "2023-04-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q4 advances grow 16.9% YoY; deposits rise 20.8%",
+  "source": "Fortune India",
+  "published_utc": "2023-04-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Anil Singhvi shares investment ideas to create wealth in long term; here's how these stocks have performed in the past",
+  "source": "Zee Business",
+  "published_utc": "2023-04-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vamnicom secures 100% placement; IFFCO & HDFC Bank hire candidates",
+  "source": "Indian Cooperative",
+  "published_utc": "2023-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Can't Charge More than 7% Interest under KVP Margin Funding Scheme; NCDRC Asks It To Refund Excess Interest",
+  "source": "Moneylife",
+  "published_utc": "2023-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Q4 results dates: TCS, Infosys, HDFC Bank, ICICI Bank to share quarterly earnings soon. Full details",
+  "source": "Business Today",
+  "published_utc": "2023-04-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank share price up over 2% on healthy deposit growth",
+  "source": "Livemint",
+  "published_utc": "2023-04-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "23-year-old who turned millionaire overnight is in UK: Panchkula police",
+  "source": "The Indian Express",
+  "published_utc": "2023-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Archana Shiroor to take over as Yes Bank's CHRO",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank: More Room for Diversity",
+  "source": "Fortune India",
+  "published_utc": "2023-04-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YES Bank X Archana Shiroor",
+  "source": "Passionate In Marketing",
+  "published_utc": "2023-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to transfer funds from bank account without adding beneficiary to PPF, Sukanya Samriddhi Yojana, PO s",
+  "source": "The Economic Times",
+  "published_utc": "2023-04-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Outlook for the Week (Apr 10, 2023 \u2013 Apr 14, 2023)",
+  "source": "Equitypandit",
+  "published_utc": "2023-04-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Prasoon Singh, ex-ED officer who quit 'sarkari naukri' to join Rs 9,24,000 crore bank",
+  "source": "DNA India",
+  "published_utc": "2023-04-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, ICICI Bank to Axis Bank: Top bank stocks to buy, hold ahead of earnings season",
+  "source": "Livemint",
+  "published_utc": "2023-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank proposes to raise \u20b950,000 cr via bonds in next one year",
+  "source": "Livemint",
+  "published_utc": "2023-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How leading Indian banks may perform in Q4 of FY23",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-04-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank To Raise Rs 50,000 Crore Via Bonds Over Next 12 Months",
+  "source": "ABP Live English",
+  "published_utc": "2023-04-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank inks pact with Korea Exim Bank to release $300 million credit line",
+  "source": "The Times of India",
+  "published_utc": "2023-04-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC and HDFC Bank merger will have 'huge implications,' says wealth management firm",
+  "source": "CNBC",
+  "published_utc": "2023-04-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank plans to raise Rs 50,000 cr through bonds",
+  "source": "The Economic Times",
+  "published_utc": "2023-04-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Capital Advisors receives Sebi approval for control transfer in merger process",
+  "source": "CNBC TV18",
+  "published_utc": "2023-04-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After RBI repo rate pause, HDFC Bank cuts MCLR by up to 85 bps giving some respite to borrowers",
+  "source": "Zee Business",
+  "published_utc": "2023-04-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank signs credit line deal with Export Import Bank of Korea to fund Korea-related enterprise",
+  "source": "Elets BFSI",
+  "published_utc": "2023-04-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank signs pact with KEXIM for $300mn Credit Line; HDFC MF launches schemes for Large, Mid & Small-Cap Segments",
+  "source": "AffairsCloud",
+  "published_utc": "2023-04-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Infosys, TCS, RIL, HDFC Bank, other stocks to watch on April 13, 2023",
+  "source": "Business News",
+  "published_utc": "2023-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Data leader Tejasvi Addagada on the value of data governance",
+  "source": "www.cio.com",
+  "published_utc": "2023-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks gaining an edge in gold loan rush",
+  "source": "The Economic Times",
+  "published_utc": "2023-04-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card spends touch all-time high of Rs 1.37 trillion in March",
+  "source": "Business Standard",
+  "published_utc": "2023-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, Policybazaar, Go Digit and others get DGGI notice over Rs 2,250 cr tax evasion concern",
+  "source": "India TV News",
+  "published_utc": "2023-04-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 Best Credit Cards To Use This Summer For Vacation - Check Rewards, Forex Markup Fees",
+  "source": "Zee News",
+  "published_utc": "2023-04-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank records 20% rise in Q4 PAT to \u20b912,047.5 cr, NII jumps 24%",
+  "source": "Livemint",
+  "published_utc": "2023-04-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India HDFC Bank's net profit jumps 19.8% in January-March",
+  "source": "Reuters",
+  "published_utc": "2023-04-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q4: From interest income, provisions, hiring to asset quality, 10 key highlights of the quarter",
+  "source": "Livemint",
+  "published_utc": "2023-04-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank logs 19 pc growth in net profit, proposes Rs 19 dividend",
+  "source": "The Siasat Daily",
+  "published_utc": "2023-04-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Q4 Financial results: Posts profit of 20% at Rs 12,594.5 cr; dividend 19 per equity share",
+  "source": "PSU Connect",
+  "published_utc": "2023-04-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank to continue opening branches at same speed in FY24 as last year",
+  "source": "Business Standard",
+  "published_utc": "2023-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank shares: Motilal Oswal sees 15% upside after Q4 results, do you own it?",
+  "source": "Livemint",
+  "published_utc": "2023-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's net profit up 20% to Rs12,047 crore for quarter ending March 2023",
+  "source": "The Times of India",
+  "published_utc": "2023-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Posted 20% Jump In Q4's Net Profit Led By Core Performance",
+  "source": "Goodreturns",
+  "published_utc": "2023-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank net profit rises 20% in fourth quarter",
+  "source": "Times of Oman",
+  "published_utc": "2023-04-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Q4 Results: Net profit up 20% on lower provisions, misses estimates",
+  "source": "CNBC TV18",
+  "published_utc": "2023-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC to complete its merger with HDFC Bank by July",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank: How the banking behemoth is revolutionising work culture",
+  "source": "Business Today",
+  "published_utc": "2023-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC-HDFC Bank Merger to be Completed in July",
+  "source": "Equitypandit",
+  "published_utc": "2023-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank shares fall 2% after hitting 52-week high",
+  "source": "Fortune India",
+  "published_utc": "2023-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank records sharp rise of nearly 30% in gold loans",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Align your organisational structure that delivers the right business strategy: Vinay Razdan, CHRO, HDFC Bank",
+  "source": "ETHRWorld.com",
+  "published_utc": "2023-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank stares at NIM, cost concerns after decent Q4 show",
+  "source": "Livemint",
+  "published_utc": "2023-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank\u2019s costs soar on new branches",
+  "source": "Livemint",
+  "published_utc": "2023-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank shares may cross all-time high level of Rs 1,725 soon: Sumeet Bagaria",
+  "source": "Business Today",
+  "published_utc": "2023-04-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank set to meet liquidity norms post merger: Report",
+  "source": "The Indian Express",
+  "published_utc": "2023-04-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank set to meet liquidity norms post merger: Sources",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-04-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Big banks zero in on gold loans, line up cheaper rates for bigger market pie",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-04-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How HDFC Bank customers can submit Form 15G/H online to avoid TDS on interest income from deposits",
+  "source": "The Economic Times",
+  "published_utc": "2023-04-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why you should open fixed deposit (FD) in post office instead of other banks",
+  "source": "Livemint",
+  "published_utc": "2023-04-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Soosaipillai new Chairman at HDFC Bank",
+  "source": "Daily FT",
+  "published_utc": "2023-04-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Labour Commissioner Chandrakeerthi appointed to HDFC Bank Board",
+  "source": "Daily FT",
+  "published_utc": "2023-04-19T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves appointment of Deputy MD & Executive Director of HDFC Bank for 3 years",
+  "source": "CNBC TV18",
+  "published_utc": "2023-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank appoints Kaizad Bharucha as deputy managing director",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ahead of its merger with HDFC, 2 top executive appointments at HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2023-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank board approves appointment of Kaizad Bharucha as Deputy MD and Bhavesh Zaveri as ED",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves appointment of Kaizad Bharucha as deputy MD of HDFC Bank",
+  "source": "Business Standard",
+  "published_utc": "2023-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves appointment of Kaizad Bharucha as Dy MD, Bhavesh Zaveri as ED of HDFC Bank",
+  "source": "Fortune India",
+  "published_utc": "2023-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Says RBI Has Approved Appointment of Deputy MD, Executive Director For 3 Years",
+  "source": "News18",
+  "published_utc": "2023-04-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Can HDFC Customers Submit Form 15G/H",
+  "source": "Goodreturns",
+  "published_utc": "2023-04-20T15:23:53+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC-HDFC Bank merger: Why RBI clarification comes as a relief for the banking giant",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Partial relief for HDFC Bank for meeting priority lending, CRR norms post merger",
+  "source": "VCCircle",
+  "published_utc": "2023-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI asks HDFC Bank to comply with CRR, SLR, LCR post HDFC merger",
+  "source": "BusinessLine",
+  "published_utc": "2023-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI refuses exceptions on CRR, SLR; gives some leeway on PSL, investments for merger: HDFC Bank",
+  "source": "The Times of India",
+  "published_utc": "2023-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI allows HDFC Bank to hike stake in HDFC Life, HDFC ERGO to more than 50%",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Merger update: RBI permits HDFC Bank/HDFC to increase shareholding in insurance arms to over 50%",
+  "source": "Business Today",
+  "published_utc": "2023-04-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC AMC gets SEBI nod for change in control due to merger",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Union Bank of India simplifies Form 15G & H submission",
+  "source": "The Economic Times",
+  "published_utc": "2023-04-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In the run-up to merger: HDFC Bank gets RBI relief on PSL norms",
+  "source": "Business Standard",
+  "published_utc": "2023-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Gets Post-Merger Relief",
+  "source": "Equitypandit",
+  "published_utc": "2023-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, Axis Bank signs definitive agreements with Go Digit Life Insurance",
+  "source": "Livemint",
+  "published_utc": "2023-04-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank, HDFC Bank sign definitive agreement to invest up to Rs 69.90 cr in Go Digit Life",
+  "source": "Free Press Journal",
+  "published_utc": "2023-04-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brokerages bullish on HDFC Bank stock following RBI's clarifications on its proposed merger",
+  "source": "Livemint",
+  "published_utc": "2023-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC-HDFC Bank Merger: What are the recent RBI clarifications and its impact?",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank gets Singapore regulator nod to pick up 20% or more in Griha Pte",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, Axis Bank to invest in Go Digit Life Insurance; Acquire 9.94% each",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks to Watch on April 24, 2023: Reliance, ICICI Bank, Wipro, HDFC Bank, Hindustan Zinc",
+  "source": "Livemint",
+  "published_utc": "2023-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs ICICI Bank: Which stock to buy after Q4 Results",
+  "source": "Business News",
+  "published_utc": "2023-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life Share Soars 8% as RBI Raises Stake After Merger of HDFC Twins",
+  "source": "Equitypandit",
+  "published_utc": "2023-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life Insurance shares jump 8% at open; here's what fuelling the upward move",
+  "source": "Business Today",
+  "published_utc": "2023-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank, HDFC Bank invest in IPO-bound GoDigit\u2019s life insurance business",
+  "source": "The Economic Times",
+  "published_utc": "2023-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 Private Banks in India",
+  "source": "India.com",
+  "published_utc": "2023-04-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MAS Clears Merger Of HDFC Investments With HDFC Bank",
+  "source": "Zee News",
+  "published_utc": "2023-04-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank stock's re-rating still some time away, say analysts",
+  "source": "Rediff",
+  "published_utc": "2023-04-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "South Indian Bank faces a reset, again",
+  "source": "The Morning Context",
+  "published_utc": "2023-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC to move RBI on Credila\u2019s future",
+  "source": "Livemint",
+  "published_utc": "2023-04-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bourses approves transfer of NCDs from HDFC Ltd to Bank as part of merger",
+  "source": "Business Standard",
+  "published_utc": "2023-04-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank appoints Kaizad Bharucha as deputy managing director \u2014 more about him",
+  "source": "CNBC TV18",
+  "published_utc": "2023-04-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s banks have it all, except caution",
+  "source": "Livemint",
+  "published_utc": "2023-04-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPI for NRIs with international mobile numbers: Who can use, how to use, how it will benefit, explained",
+  "source": "The Economic Times",
+  "published_utc": "2023-04-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,425 @@
+[
+ {
+  "title": "Indian refiners churn record amounts of crude in January",
+  "source": "Reuters",
+  "published_utc": "2023-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Multimedia Light and Sound Show\u2019 inaugurated at the Gateway of India to commemorate seventy five years to the last British troops leaving India",
+  "source": "PIB",
+  "published_utc": "2023-03-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SK Choudhary takes over as ED & State Head of Indian Oil Bihar & Jharkhand",
+  "source": "PSU Watch",
+  "published_utc": "2023-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Sima aunty, Indian Oil gets into matchmaking, for its employees",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Company Fuels Love With Matchmaking Initiative, Gets a Couple Married",
+  "source": "News18",
+  "published_utc": "2023-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil launches matrimonial portal",
+  "source": "Sangri Today",
+  "published_utc": "2023-03-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "President visits Trinco oil tanks : New directive issued",
+  "source": "Newswire",
+  "published_utc": "2023-03-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is India Drifting Away From The U.S.",
+  "source": "Crude Oil Prices Today | OilPrice.com",
+  "published_utc": "2023-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EXCLUSIVE: Insight: India's oil deals with Russia dent decades-old dollar dominance",
+  "source": "Reuters",
+  "published_utc": "2023-03-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC for developing Haldia refinery into petrochemicals complex",
+  "source": "The Economic Times",
+  "published_utc": "2023-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation set to acquire assets of Mercator Petroleum",
+  "source": "Insolvency Tracker",
+  "published_utc": "2023-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC to set up Petrochemical Complex at Haldia",
+  "source": "ProjectsMonitor",
+  "published_utc": "2023-03-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil eager to modify Haldia refinery into petrochemicals complex",
+  "source": "Construction World",
+  "published_utc": "2023-03-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil corporation cites its debt burden for keeping fuel prices high, raking in profits",
+  "source": "The Kathmandu Post",
+  "published_utc": "2023-03-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BMTC\u2019s MD15 buses to hit the roads",
+  "source": "The New Indian Express",
+  "published_utc": "2023-03-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil invokes an experience of cause, joy & accomplishment in their Holi film",
+  "source": "Passionate In Marketing",
+  "published_utc": "2023-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian state refiners to produce 30,800 tonne/yr green hydrogen by 2030",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-03-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Assam Oil Division, Digboi donates medical equipment worth Rs 11 lakh",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2023-03-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil board approves formation of new subsidiary for green energy business",
+  "source": "CNBC TV18",
+  "published_utc": "2023-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Energy News Monitor | Volume XIX, Issue 35",
+  "source": "orfonline.org",
+  "published_utc": "2023-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Should solar cookers displace LPG in India?",
+  "source": "orfonline.org",
+  "published_utc": "2023-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kuwait to cut crude supplies to some Asian refiners as Al Zour refinery ramps up",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation floats new unit for clean energy business",
+  "source": "Zee Business",
+  "published_utc": "2023-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Share Market HIGHLIGHTS: Nifty closes below 17,000 for first time in five months, Sensex 918 pts off day's high",
+  "source": "Zee Business",
+  "published_utc": "2023-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil consolidates renewable energy business under new unit",
+  "source": "ET CIO",
+  "published_utc": "2023-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC slashes petrol price by 86 paisa/l and diesel by Rs 1.50/l for Nepal",
+  "source": "myRepublica",
+  "published_utc": "2023-03-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GAIL wins bankruptcy court nod to acquire JBF Petrochemicals",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-03-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Establishes Subsidiary for Clean Energy Business",
+  "source": "SolarQuarter",
+  "published_utc": "2023-03-17T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Iran seeks resumption of import of its crude oil by India; pitches for faster implementation of Chabahar por..",
+  "source": "ET Auto",
+  "published_utc": "2023-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why falling global oil prices won't lower petrol, diesel prices in India - Explanation",
+  "source": "Livemint",
+  "published_utc": "2023-03-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NTPC Green Energy Limited (NGEL) inks pact with Indian Oil Corporation Limited (IOCL) for setting up renewable energy projects",
+  "source": "PIB",
+  "published_utc": "2023-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NTPC Green Energy inks pact with Indian Oil for RE projects",
+  "source": "PSU Watch",
+  "published_utc": "2023-03-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NTPC Green Energy Limited (NGEL) inks pact with Indian Oil Corporation Limited (IOCL)",
+  "source": "NewsIP",
+  "published_utc": "2023-03-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil's Paradip Petchem Complex will be its single-largest investment in one location",
+  "source": "PSU Watch",
+  "published_utc": "2023-03-22T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to invest \u20b961,077 cr to set up petchem complex in Odisha",
+  "source": "Fortune India",
+  "published_utc": "2023-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to build petrochemical complex with $7.3bn investment",
+  "source": "Offshore Technology",
+  "published_utc": "2023-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Aatmanirbhar Bharat: IOCL To Invest Rs 61,077 Crore To Set Up Petrochemical Complex At Paradip",
+  "source": "Swarajya",
+  "published_utc": "2023-03-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Set to Invest INR 2,200 Crore for Multiple Expansion Projects in Tamil Nadu",
+  "source": "Tube & Pipe India",
+  "published_utc": "2023-03-25T03:19:38+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Navy flags off 7,000-km car expedition at NSNIS",
+  "source": "The Statesman",
+  "published_utc": "2023-03-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sri Lanka clears global oil giants\u2019 entry into retail fuel market",
+  "source": "The Hindu",
+  "published_utc": "2023-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Owners To Get More Benefits When Refuelling At Indian Oil Outlets",
+  "source": "CarDekho",
+  "published_utc": "2023-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil chairman SM Vaidya named top CEO in country by CEOWorld Magazine",
+  "source": "India Today",
+  "published_utc": "2023-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia's Rosneft signs deal to boost oil supplies to India",
+  "source": "Reuters",
+  "published_utc": "2023-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Allowing married couples at work: Is it a new retention strategy?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-03-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Igor Sechin's visit to India: Stepping up integrated cooperation",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Companies Work Around Swift Ban Targeting Russia",
+  "source": "Global Finance Magazine",
+  "published_utc": "2023-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra netted 38% more fish last year, the first increase in 5 years",
+  "source": "The Times of India",
+  "published_utc": "2023-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

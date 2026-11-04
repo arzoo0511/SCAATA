@@ -1,0 +1,884 @@
+[
+ {
+  "title": "Credit offtake shows robust growth driven by HDFC merger",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-08-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank removes Infinia daily capping on rewards for SmartBuy purchases",
+  "source": "Live From A Lounge",
+  "published_utc": "2023-08-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPI: CRED launches RuPay credit card-based payments; a step-by-step guide to use it",
+  "source": "Zee Business",
+  "published_utc": "2023-08-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's major banks remain unprepared to confront climate risks: Report",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-08-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM withdrawal charges: SBI vs PNB vs HDFC Bank vs ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank: The Behemoth of a Surging Nation | Business Today Sri Lanka - business",
+  "source": "Magzter",
+  "published_utc": "2023-08-04T01:44:20+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India insurance regulator allows exemptions for holdings in merged HDFC Bank",
+  "source": "Reuters",
+  "published_utc": "2023-08-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank inaugurates over 100 Banking Correspondent Centers across India",
+  "source": "Bilkul Online",
+  "published_utc": "2023-08-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hyderabad: Home guard\u2019s family receives compensation",
+  "source": "Telangana Today",
+  "published_utc": "2023-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Netbanking Will Be Down On THIS Date, Here's What You Can Do",
+  "source": "India.com",
+  "published_utc": "2023-08-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI has been, and will be largest home loan lender: Dinesh Khara, Chairman",
+  "source": "ET Realty",
+  "published_utc": "2023-08-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank net banking will be down on this day; here are alternatives",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "With \u20b910.55 crore pay, HDFC Bank's Sashidhar Jagdishan is highest paid bank CEO in FY23",
+  "source": "Livemint",
+  "published_utc": "2023-08-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple Days on Vijay Sales: Huge discount available on iPhone 14 series, Macbooks and iPads",
+  "source": "Livemint",
+  "published_utc": "2023-08-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet the highest paid bank employee who heads Rs 12,47,000 crore company, his salary is...",
+  "source": "DNA India",
+  "published_utc": "2023-08-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank leases office space in Mumbai for 5 years; starting rent Rs 1.62 crore per month",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-08-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Asked To Pay 'As on Today' Value of 8 Sovereign Gold Pledged by a Borrower",
+  "source": "Moneylife",
+  "published_utc": "2023-08-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loan EMIs Set To Go Up as HDFC Bank Raises Interest Rates By 15 bps",
+  "source": "India.com",
+  "published_utc": "2023-08-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank's Jagdishan highest-paid bank CEO in FY23, gets Rs 10.55 crore",
+  "source": "Business Standard",
+  "published_utc": "2023-08-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC\u2019s Jagdishan highest paid bank CEO with Rs 10.55 cr pay",
+  "source": "RightNow",
+  "published_utc": "2023-08-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank picks up 1 lakh sq ft in Blackstone's Mumbai Towers on a 5-yr lease",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why Uday Kotak Will Step Down In December",
+  "source": "Rediff",
+  "published_utc": "2023-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Bank CEO Amitabh Chaudhry Bags Second-Highest Payout Of Rs 9.75 Crore In FY23",
+  "source": "Punekar News",
+  "published_utc": "2023-08-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Leases 1 Lakh Sq Ft In One International Center in Mumbai",
+  "source": "Realty Plus Magazine",
+  "published_utc": "2023-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank leases 1 lakh sq ft in Blackstone's Mumbai Towers for 5 yrs",
+  "source": "Construction World",
+  "published_utc": "2023-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI leads debit cards market, HDFC continues to top Credit cards in June'23",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CCI clears proposed acquisition of HDFC Credila Financial Services",
+  "source": "Economic Times Legal",
+  "published_utc": "2023-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vijay Sales Announced Apple Days Sale, Know All Details Here",
+  "source": "digital terminal",
+  "published_utc": "2023-08-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ATM withdrawal fee: Check how much SBI, PNB, HDFC Bank and ICICI Bank charge",
+  "source": "Zee Business",
+  "published_utc": "2023-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top highest-paid Indian bank CEOs in FY 2023; here\u2019s a look at their salaries and education",
+  "source": "The Financial Express",
+  "published_utc": "2023-08-08T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Income tax: Taxation of shares and fractional shares received on the merger",
+  "source": "Livemint",
+  "published_utc": "2023-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Who is Sashidhar Jagdishan, highest paid bank CEO in FY23?",
+  "source": "The Statesman",
+  "published_utc": "2023-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to enable, activate international transactions on your debit card",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-09T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sashidhar Jagdishan becomes the highest-paid banker in India; know about the successor of Aditya Puri who was behind the success of HDFC Bank; his salary is\u2026",
+  "source": "The Financial Express",
+  "published_utc": "2023-08-09T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCDRC Holds HDFC Bank Liable For Deficiency In Service",
+  "source": "Live Law",
+  "published_utc": "2023-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki brings HDFC Bank \u2018Xpress Car Loans\u2019 feature to its Smart Finance platform",
+  "source": "ET Auto",
+  "published_utc": "2023-08-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Loan scam: 20 cheat private bank of \u20b992L with fake salary slips, statements",
+  "source": "The Times of India",
+  "published_utc": "2023-08-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Post merger, HDFC Bank can offer higher credit growth opportunities to the nation, says chairman",
+  "source": "The Hindu",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why shadow banks have a place despite HDFC, in 5 charts",
+  "source": "Livemint",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Post merger, HDFC Bank chief Sashidhar Jagdishan flags funding risk; says net interest margins to be hit",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MC Interview: Inflation for July-September will cross RBI's projection, says HDFC economist Sakshi Gupta",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What triggers your bank to shrink your credit card limit?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MSCI Global Standard Index review: PFC, REC among 8 entrants; ACC excluded",
+  "source": "Business Standard",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC AMC, IDFC First Bank & 6 other stocks enter MSCI Global index; ACC exits",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki brings \u2018Xpress Car Loans\u2019 feature on their Smart Finance platform in partnership with HDFC Bank",
+  "source": "Passionate In Marketing",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 10 Most Profitable Indian Companies in Q1, FY24",
+  "source": "India.com",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maruti Suzuki partners with HDFC bank to introduce \u2018Xpress Car Loans\u2019",
+  "source": "The Financial Express",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "BUMPER RETURNS! FD \u092a\u0930 8.6% \u0915\u093e \u092c\u094d\u092f\u093e\u091c",
+  "source": "ET Now Swadesh",
+  "published_utc": "2023-08-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "You don\u2019t have to visit bank to update your KYC; how to do it online",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit Card: Bank has shrunk your credit card limit. These can be the reasons",
+  "source": "Zee Business",
+  "published_utc": "2023-08-12T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank eyes need-based product sales for new customers, post merger with HDFC",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Highest paid bank CEOs in FY 2023",
+  "source": "DNA",
+  "published_utc": "2023-08-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank deposit growth indications in Q1FY24, on quarter-on-quarter basis",
+  "source": "CNBC TV18",
+  "published_utc": "2023-08-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From HDFC Bank to Bharti Airtel: Top ten holdings of various mutual funds",
+  "source": "Business Standard",
+  "published_utc": "2023-08-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank group inaugurates asset management, life insurance services at GIFTCity",
+  "source": "CNBC TV18",
+  "published_utc": "2023-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life International to offer dollar denominated life, health insurance for NRIs: Deepak Parekh",
+  "source": "The Times of India",
+  "published_utc": "2023-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC's life insurance, mutual fund arms to start operations from Gift City",
+  "source": "Business Standard",
+  "published_utc": "2023-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Group launches life insurance, asset management services from GIFT IFSC",
+  "source": "The Times of India",
+  "published_utc": "2023-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loans: Here's a list of banks that recently raised their lending rates",
+  "source": "CNBC TV18",
+  "published_utc": "2023-08-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hdfc Bank Outlook for the Week (August 21, 2023 \u2013 August 25, 2023)",
+  "source": "Equitypandit",
+  "published_utc": "2023-08-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top private banks see highest attrition at junior level in FY23",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-08-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to be a successful Corporate Banker? You need not be flamboyant, says",
+  "source": "The Finance Story",
+  "published_utc": "2023-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank wants to ride India's consumer boom after home loan dominance",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GIC-backed HDFC Bank eyes India consumer boom after home loan dominance",
+  "source": "The Straits Times",
+  "published_utc": "2023-08-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Special fixed deposit (FD) schemes for senior citizens to invest in 2023. Interest rates, and other details here",
+  "source": "Livemint",
+  "published_utc": "2023-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How Indian banks are making record profits",
+  "source": "The Week",
+  "published_utc": "2023-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock market valuation rich, most positives already discounted, says Raamdeo Agrawal of Motilal Oswal Financial Services",
+  "source": "Livemint",
+  "published_utc": "2023-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Samsung Galaxy Z Flip 5, Z Fold 5: Check latest offers, bank discounts and EMI offers",
+  "source": "Zee Business",
+  "published_utc": "2023-08-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private lenders gung-ho on adding new bank branches, PSBs go slow",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-08-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018The perception that you lend and lose money in villages is incorrect\u2019: HDFC Bank",
+  "source": "The Hindu",
+  "published_utc": "2023-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These bank stocks can give up to 31% returns",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Swiggy Credit Card offers 10% cashback, higher than most cashback credit cards; is it a good dea",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's state-owned payments bank plans to double income in FY24 - MD Venkatramu",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Capital, Abhinandan Lodha Group ink JV to invest Rs 1,500 crore in low-rise projects",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, Marriott Bonvoy launch first co-brand hotel credit card for India",
+  "source": "Business Review Live",
+  "published_utc": "2023-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank partners with Marriott Bonvoy to launch India's first co-branded hotel credit card",
+  "source": "CNBC TV18",
+  "published_utc": "2023-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Waqf Board executes MoU with HDFC Bank for e-rentals & e-donations",
+  "source": "Asian Mail",
+  "published_utc": "2023-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Swiggy vs ICICI Amazon Pay vs Axis Flipkart credit cards: Which is better and for whom?",
+  "source": "CNBC TV18",
+  "published_utc": "2023-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank''s asset quality continues to be stable: Senior bank official",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank and Marriott Bonvoy launch India\u2019s first co-branded hotel credit card",
+  "source": "FoneArena.com",
+  "published_utc": "2023-08-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank re-appoints Sanmoy Chakrabarti as Chief Risk Officer",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank aims to reach 2.25 lakh villages by next March",
+  "source": "The New Indian Express",
+  "published_utc": "2023-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank and Marriott Bonvoy collaborate for India\u2019s first co-brand hotel credit card",
+  "source": "Hotelier India",
+  "published_utc": "2023-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank launches India's first co-brand hotel credit card with Marriott Bonvoy. Know about the benefits",
+  "source": "Livemint",
+  "published_utc": "2023-08-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tax Query: What Are the Tax Implications on Capital Gains from Selling HDFC Limited Shares After Merger with HDFC Bank?",
+  "source": "BusinessLine",
+  "published_utc": "2023-08-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt plans to extend retirement age of LIC Chairperson and heads, MDs of other PSBs",
+  "source": "Livemint",
+  "published_utc": "2023-08-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Futures Trade | Short on bounce in HDFC Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-08-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "5 Best Savings Bank Account in India With the Highest Interest Return",
+  "source": "Trade Brains",
+  "published_utc": "2023-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex, Nifty record second straight day of gains; Reliance Industries, ICICI Bank major losers",
+  "source": "News9live",
+  "published_utc": "2023-08-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC, HDFC Bank Merger Unlocks Rs 1.5 Tn Gift For NBFCs Like Bajaj Finance & Jio Financial",
+  "source": "BW Businessworld",
+  "published_utc": "2023-08-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Now, customers of these seven banks can scan UPI QR code and pay via digital rupee \u2014 Here's how",
+  "source": "CNBC TV18",
+  "published_utc": "2023-08-30T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Swiggy Credit Card launched: Here are benefits, eligibility criteria and more",
+  "source": "Livemint",
+  "published_utc": "2023-08-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank readies home loan strategy after the merger",
+  "source": "Livemint",
+  "published_utc": "2023-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State of play: India\u2019s banks in 2023",
+  "source": "www.thebanker.com",
+  "published_utc": "2023-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank deposit growth set to cruise to higher altitude in FY24 as credit demand stays strong",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Marriott Bonvoy HDFC Bank Credit Card: A Moneycontrol Review",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-08-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MSCI index rejig from Aug 31: REC, Supreme Industries, 6 others included; What's expected in Nov review?",
+  "source": "Livemint",
+  "published_utc": "2023-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MTAR Technologies shares jump 6% after company bags defense industrial license",
+  "source": "The Economic Times",
+  "published_utc": "2023-08-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
