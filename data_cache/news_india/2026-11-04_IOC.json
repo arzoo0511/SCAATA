@@ -1,0 +1,414 @@
+{
+  "symbol": "IOC.NS",
+  "date": "2026-11-04",
+  "headlines": [
+    {
+      "title": "Indian oil majors tender for 150 million litres of biodiesel",
+      "source": "Trending Now Sustainable Construction",
+      "published_utc": "2026-11-04T10:27:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVDM1WnZyS0xFWmx3d0Jkby1GeVp3dk1YOXNnRlFZRFd0bUxEckt6VGtVSUlINS1wSExhRHNZRks4ZVJLWDdsQ0g1cV9lZWdoSTBrS1RzeW1Ma24zaUJyWmFMQV9RSjVadnUweHJBQmF5ZzJJZmE3VFVXM0kyQnJpMTBfeWQ0c3o3SzJtYXBWaG5FbzVVektEWnpWUVlCNTB2cEtSRE11RHE5ODJUNGI2Y1dadjJ2SUNoR3ZF?oc=5",
+      "relevant": true,
+      "sentiment": 0.6,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Refiners Expect Strong Margins Amid Global Supply Disruptions",
+      "source": "Chemical Industry Digest",
+      "published_utc": "2026-11-04T06:34:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORzBycDY5S0tvcHptMV9IRmlzN1B3ZE1ONFF2Z1pDS1VPQTE3dTNUU21CZG5rdE84MzRfZkRaTnZidWdPcWVHWTlPRzJER0dKSlByMU05TTZ1MHRNZDZjSDVXMlFpVEtoRVlIYkRjb0RCT3ZZdHdlekdYZnJlbWFkWDc1U0pIOUt1MGpmT2hzQ2Vod2ZTbnl2ZmdvTnUtMGs?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IndiGo, Asian Paints, IOC: Analyst view on crude sensitives as oil dips 13%",
+      "source": "Business Standard",
+      "published_utc": "2026-11-04T05:09:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLWVBVkxwU0NibGRUamstYjQxUTRoYmgzcXlCQ2RlVktwb01PM2dKQnJnSUJpZFg2cGllX1U1ZkhhRktfc29GZ3JQV3V0dDhabDZyc2EtT1NJR0preGlvNGxHcUJjVGw5LWlyWVNWNGUtakYyRmdkQUtZbzdReGNkLThJbzNWTk1Xc0tXYUZzdWhPQnpnZmRjaG1Xam5FaDg4ZHZwVHUwM1MxZHRfMXFFQVdVenNSYURadVdncmdNZFRkMzdFNTZrYk1sVDVqR1NWa0NXRmRqT01UaFc0TDd4WWt1V2k5LVJ1YTVnWHh30gHzAUFVX3lxTE9iSEkzRE5sbG1mTEhnWHdjcUlZalR2Z3E4OFpxMDFuVEpxNHR1UU9iNU9WLTNUVVRCbDd0QmVydG5mbzVwNnVrVnZPT01KZjZvVlZMYXdqdmZpTTdSSk5YUkJkQzd1UHJHSURaUmVsR1d6Y3REdEV6bTR3OFU0c0x2ZThuODBRX3hXU2VLOUJIZHpRWUpGckNEdVhYQUcxT0tGVmc0Y09aTjQ1UHFtU2R6c0ZVNUdvZ3NGNEdsV1MyQ25fVmtDa1Z4RW8xR3J1OGZ1MmNFWENhS1RzUHY1VVZvVDBUa1kwR2c1aU9zNW12TjlTUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.4,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "W.Africa Crude-Indian Oil Corp cancels tender due to high offers",
+      "source": "TradingView",
+      "published_utc": "2026-11-03T20:09:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaFo3OWtwMUdZMmVMaDY3UVpuT0ZHalpGN1hkMEFtQW9mQ2VDVUZSSlB6QVkwQ0x6WHpKcXJUT09GTDdTUkRhbkJvUTgtRmE4ZVlrQlZiU1FaMHdYanJoTkkyZDlRTDN4X1BXWHMyNzdQZE54a1FDT29CTGNxT2ZWWG9jUUR0Y2FvZ3F1SVVOOENrdk03MVdUWGN4S1I2UkJiTVdIb2RMM0EydGVQc0lHRkQ5MW5vc3lGX21KYzhWQjNOLVdBR0ZKTVlkOUx3elE?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian refiners post higher profits amid global fuel supply disruptions",
+      "source": "NewsBytes",
+      "published_utc": "2026-11-03T18:55:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakFYeGJqSk5UUXBmQzN3alpFTDNGT3hIczFmMzdRS1hKd296SmRmOHAwVVJ3SktLOGdxa01hbzlLWGJhV3RteE1ZQ1k4Vms2MFh4N3NJNUFrd0t4cTFSV0hZQ01wTVh2U1ZHSVdkaFZYd0RrQWktQXB3NllKckI2SXJHZDQ0WkUwYTk5UW9kc21mc3BRUUJma0ZkXzFITDNwMXZ4T2Nacmt2V294ZTFmQWZaYXJDc2lDT0Z3?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian oil refiners expect healthy margins amid global supply disruptions",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-03T18:40:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUElQVWtRaDFJWTd3dXlOcUNWM0N1SmpabW5yVndWaHZuQWp5ZGNWSmoxLUxXTjJRN3BhRVNUWi1hbXR4bS1vSHZhYXI2OG4yOXBLT0hOWVNVSzNxbkc3V2J4X3FXSEdCWG5QMjA5bnVlbnNEb2ZfSWx3eGR0RzhTZ002TVFBNlFVWnBMRHlMcFJSbk91YlVvMDZkNXdPcDJaME1pVmNjTXVHOXBWNHZtclBucGQ1QjZsRzQtazZZeE4zbUJDSV9lZi1NZEJUMVIwZHhlMlR6cHhmc0xkYnZSdUcwOUJmZ9IB6wFBVV95cUxNdXVfc292QWR5Z091LXdnNVZLTUN6TkNralZ2TGNqbDctdlNTeS1sQjdBZHlyOVhVZU9RSXJtMU5iRW5hejBlcnJJTGd1WGc5aE9GTWdpa2ZvLVVXM1RYOTFGLXNyOHY3eDREdUJCMHExMk45UXhfZUdsN3YtUWFFTGc1cFMxOHlVQ2Jybk50amxiYmN4YlRKWjF2UmJFcnRleDJUWGVkazVJdmJFZEI3Nm85aGluM2F0SnlMamkzT0F6dXI4QUxIMTZyTzZiYkVSYVAtY2VNRERIa2kydk1qYWZuS1dHV1FZQWdv?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "OMCs see Rs 570 cr daily losses on fuel sales in October despite strong refining profits in last quarter",
+      "source": "ThePrint",
+      "published_utc": "2026-11-03T11:34:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa3JrcGd4VXkxUVFOSTNhaFhDQ1VLMm5UOWxicjBYQlljQ1lLdHhDd0hHNE9qUFFCRGtTTVVkek03cDhvLU91eXVRTWI0aDJKbTFlekg5alp2eElqSmpucVZPSGRuZFIyd3lsUE01aU5EdmdhS0YtMzVDOTRDSU1Tbmd1eVZQVndwMVRfQ2F5VGotV1AwMjhxb0s3Z05rTU1TU1Fqem5WTndxNUM1ZWptOXRCOFNWRnlMZFFJYWE4d2xCN1NZODk5UE1HTmlNTHFEUHU4c0lBeVLSAd4BQVVfeXFMTTRRc0lPYm1NTFhRRmRzX1lVN2xRb0xKWWZkLU81U3RyR05qcUF5QnZZUmNPcHdhbXFLcnBhN0l5b2RscXNDV3RRck53MlFoWDNVSDBVdXk1c2RCOXVCNVRtZHE4VGNGMG53T0pfY1VyRGFWYWIxeS1wR0NtWU00SjU5ZDhEckREaFNienZLcUVDNW5jT2ZKa2V2eFVhNENDSGNaQmJTRFgyMTl6NXk2Z2JIRjJQSXNmVzJrQWZsbFVwVW85b2VOV014LUtWMXFvdklzckNKRTZFZi1uSmln?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corporation Limited (IOC.NS) stock price, news, quote and history",
+      "source": "Yahoo Finance Singapore",
+      "published_utc": "2026-11-03T07:58:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96NGNHRU9YQXRlcnQtWGh6OUVrWlNySUx3Y3FIeGRzWDE5Z281Qm5tQi1sZHFUVUJMWmE5NmR4N0M4NkN2ZmU0SW12eXR6bFVnQ3hrNg?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corp Ltd (BOM:530965) (Q2 2027) Earnings Call Highlights: Record INR21,630 Crore ...",
+      "source": "GuruFocus.com",
+      "published_utc": "2026-11-03T07:03:21+00:00",
+      "link": "https://finance.yahoo.com/energy/articles/indian-oil-corp-ltd-bom-070321208.html",
+      "relevant": true,
+      "sentiment": 0.8,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Q2 Net Profit Rises To Rs 21,630 Cr, Revenue Slips 5% QoQ",
+      "source": "BW Businessworld",
+      "published_utc": "2026-11-03T06:51:41+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajNlU2lWckdjRUMxSkF2SlBXNnhuQ2J0WE4xamRZUFZoRGo2a084NFJ6aTJlSEU4MXhfNU93UXB0LW9rLU9NRXNCM0FjVlRLQWI2bDVRTnc1WnVDTzFuelZ5R09lLXJwUklwVzZNc2dPZXZ3azhGX01NV1pjWFUwVjJLN0RiOVN0cnBSQnM2ZnFsSVhoY0ctaXBDYTE3alFTdzlDOGo0WlJNSUw2RGg4?oc=5",
+      "relevant": true,
+      "sentiment": 0.8,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India weighs new oil manoeuvre as old routes get jammed",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-03T06:45:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWJnVDd4VW1tYVg4VlFHRUZ0bC1PeXJpQVlMczIzbjZTb3hhX25rVjVmZ2lVanBqM3FqZUlGZWdJYktYbDYzYXJhWDBNc2NIVjVUeXRRUnZSRllIUGoycHloSDN5dGk5SFhnaEk5ZWVsN3U3QjU1YXJ2UFpOaGEtYk5nNmFGbDR0eFRFbHlUQXgtN093Yk9kX0FrR19FcW81S1VTNGNoYUwtUXd4Qkp4TEJYZFk1UVNOM2tJR2lMdWpNRFQ1ckZHUlJFWGNDd9IB0wFBVV95cUxNbVRLLUxWdFlFTEpoeFVSVHpUQ1RGVDFVYXRuYnRES1hiQ2JGTmVNN0tHWDFlTGw4bVBuNlowT0tybmpSUFZ0OUFTSVoxY21KQkt6OU5ZdWlRYmg2LW9hYnZIZHFyU29hZkVRTDNfdGNLY0dzZkZvUUhVNUR4cnVzalhkanFoQUl3ZTdRZDBJWjBwUU9ibXJUdG5sX01lY0JGbExTaHJmNFozaG9ZcHladTVtQlpaMEE5bXNmV1dPR1NWbWw0WVdPOEdGZ2J2NnJSNnNF?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IndiGo, Indian Oil and other crude-sensitive stocks rally up to 4% as oil dips below $105/bbl. Where are p",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-03T04:55:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTGRQeDR0dUpPMk9MZFBmaDQtMG45ekZmS3h4c2F0V2VSLV9fLWo1RDl3RDM4bmZwak0ycmJyLS0xcXdrV09vUGh3ZW9TRFlLR3pXMndrLWlfcUo3czRkb3M2X3JUWXM5ME9sa1BPYmgzcW9VdGI4cWtlaGcxblRHdFcwQnZyVHNMMVAyaFhOd0lNTUN1bDRhbDROelVQUE8tT29meXU5b0JlU3JfUXhtRnRLRDlXbmlYNUFKQ0lwXzlrVDZiU0tkcE0wY0tpc0E0ZWotdW5ONm1fd2xIeUZ2YUJNY2tDdjRLSlMzNk9OWno4YnlMaFktaC1PLW9HZGF0TVpKMm1lVnBuOXBBVUExb2tfZTdERm_SAZwCQVVfeXFMTW1tYWVzUFNCUnJJanN6TXRYcERhUGVnRm1XQXVLV1hFMHktdW1waVN6UjRIRXJPZDhpZC16a2hUb2Q5aklXRzJGa1NPRmhLdl9JTVY3ZTZFQTRfR2NvNkJBX0lyRlRlN1IyLXdrck5RYUpoZWVSYUZmSktsUGs3eVd2ZEhIam1MbHFXeXhfaFJocy1hV0wwMnlBUmhCbW8xc1ZfdkkzcWZFdjRvdnRNR3FoRW1iVk9IOVBiY09OWG9aOVdibzBhRmNja0hZZC1TSEcxa0RnTW1xZUcta3pueElIUC1TY2F2N1l6X0dwUEtUNFluOTdfVGEwd0FlQlg0OHRlZ1czMUJfNFN5a01ybnRseDdLY3ZWbXBjTTg?oc=5",
+      "relevant": true,
+      "sentiment": 0.4,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Share Price - Live NSE: IOC Stock Price & Chart",
+      "source": "Upstox",
+      "published_utc": "2026-11-03T03:56:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGZVNnY0dLam9NNTc3Y2MwNzgwVEV4Mmo0V3lpcHp6MXFqT1l6UGlLNWR3dFZCeVRIVjI2bm5lMmdWQ3pfbkcyckx0Tkh5elZhd2dkQVN5NEhTRWswVmliengyU1hYRjZudUE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Analysts Are Upgrading Indian Oil Corporation Limited (NSE:IOC) After Its Latest Results",
+      "source": "Simply Wall St",
+      "published_utc": "2026-11-03T01:53:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXJUYmgwUGxXRWRkbEdPNUphd1dRNm8waDdvQ0xaTUtkTjcyTEJxTF8yZ0g2T2ExTnVWbG85Mzc4cE1DR242S1V5T1JnRXVTZ2tfeG1ZcDlzQUN3YmE2Nm1JTFZacm42OHNpNEtJckw1TGdDb05ZVnRKSmtoektFZmZNZ0lRN3ljWUdUaG5QX2FmS2Y5dFl6MHpYaThFaWo0SnM4NTY0YWR5S2U0bHZUU1N5ajhyTkZmeDBmV3RxVGpmNnRSMzM1S3d30gHPAUFVX3lxTE9TeXEtSDlJOHg4czdZUjJlTWpmSUtmcXJ2Z0pQYnVwS2cyaEVnUklJcmRDa1FPM1pTZUlPeGpzcGR6NzR5ZnYzdkVVOGF1aml1OW5rMzVLekZJeFd6b2FCMnpISGI4RGotVWszbkwzWjB6d1NhWi0xWl84QWYzZ2ZtenprNzdvVjN6Z3ZhRmZXVHhidW56eWtQRWRYX0JnQVMtMEFjQllOd3llQzF0SlpOVjdMeVBqcmNFbkhGaGRnWng4Ql9pN2hnSi1fdkZPaw?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Fire at Indian oil refinery sends flames skyward",
+      "source": "JFeed",
+      "published_utc": "2026-11-02T21:23:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNQUVFYkktQ2luT1ZPeXdqR0l6VHU3WjJHQ0xBSGNJWkFiWWdKZkRXNHBSVUJDWWFROVlGVFA2eVJXbmxwalNYOTBFTkVQT3g1?oc=5",
+      "relevant": true,
+      "sentiment": -0.8,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "\ud83c\uddee\ud83c\uddf3 Massive FIRE ERUPTS at Indian oil refinery after reported explosion The blaze hit HPCL\u2019s Visakhapatnam facility near a tank holding pitch oil, used in bitumen production. Firefighters responded, with reports now saying the blaze is under control. The caus",
+      "source": "X",
+      "published_utc": "2026-11-02T19:23:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOTHVkeEg4elBDVEVQZS10NUhib082SVNyWno3RGRydG43S2p0bVBPUnBLMk5RUVVOQllOdmxjOHA3el8wajZKb05PbnBhUHA1S2hNUE5oVThoTkhDNVFrcDUxZllvWGJVb1ZCQQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Three oil PSUs float tender to buy 150 mn litres of biodiesel at Rs 88 per litre",
+      "source": "MillenniumPost",
+      "published_utc": "2026-11-02T18:57:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU1lWbFRWX1h4Vm1hdnZIb1VHR3pqQ0JkbnNKWDhlQVVzQU9GcEc5dTluZExoM0hjSmVlSU90UE9OLUhadG1WRlB5bFRlMGNpeUt6N1JpVXhZSk9qUmtkZzhKNUdnV2wzMl8tRWlmOVlaRmx4NXJRV2xjelY5QTZCc256M3YzMkFKOE5yUHdlLXotOWZKdkZJNnBHYV90eWRBbDVpUS13eFhrUXIzUzlybW1ZV2RqY3haZURjOTA1dVNvVmE30gHKAUFVX3lxTFBJTzl6dDR2OHJ2Z0dXOVlIV3FvVlJWRDkyRUhuYUc5NzlhZmpIZkxWNUtRUzBqWjBqcXJvdTE4ZDJaYW9Hc1NmQTFvS3EyeDZaSzl6SXJiTFVCd0hSQURQTXlHMTZxU1dCZTRYMjN2dWlEZnBfeTA3VmFBWkstcFVqV3BUZmI4Nk42bmVrbU9Ga1VtNGVwVnJ3c3RicGl2TUIzeXM5b2U1ckw2Q0V3azZJNWJ1eTZBNi1RNTJZcGZzeWZzal9HLWlRZHc?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Excavation by external agency damaged gas pipeline before Muzaffarpur explosion: Indian Oil",
+      "source": "PSU Watch",
+      "published_utc": "2026-11-02T18:21:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYWxYTXZWVDN1MlN3V0pqd0lOcHEyd3lISWpCN196ODN3TlNFZ2MxTUxVcDFIYVNsd1A3dnF4dlRzXzN3YnJjX1BlSUFNVEhhSXRHYW04bDRSZEJrcFIxSnlUZHVlYzRfVVUwd0NFT2VJQUV5OFhKUjlydV9fUlFJaG0tUHM2V2FSYVF0dm5qd1NWSFgzNzdDTDh2SXNMMGxmOUZZaklCTkE5cjZleHJ2bjRoN2lPWTl5RmtJZm1yZUHSAc4BQVVfeXFMTUZ2Q0JMOThRSDBmcXNzSXJ0SG9FMTdjenFYVUFjT1FxRU80VmtHY1lWMFpDSkVJMEg0V3g0RXpTeHpGQXNuQWhyak1WQ0l0N0ZhYTl1ZHVZNWZpVkp6WEZMSjVSd2w5YWExelZOVWxBamM2dldkemVwLVNMVzMzOWJ0YlA3cnJOa1ZUR2pNajlhd2pjMmtzWXlzV1RsQ25Ga2hwcjlTSXhUbHA2TzhNdGRSeUVIWkFER3l2ejAtaF94aTBodWFWeG9DRFVQTnc?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corporation Q2 FY27 results: profits, key drivers and outlook",
+      "source": "Kalkine India",
+      "published_utc": "2026-11-02T12:14:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUWh1WHBLdmJDOWJNS3NZbWtpWmdTcW8teTRFTXk4RXRlTmFRY1hSSlZFVlZsOW5NZ0JOTlk3SHBYVFZzak1FVGtaVzNEQkJmekFuOUVyVWM2R2o2SGxPR3ZTajRIVDdqTjBzTXVxcXh5NF9wVVNtcTdWYkRTTGJHTFdDY3BvYUhlSXNaV0Y4QWd5YnRYZVd3T1E1V2d4U2VyNGtvOG9QTlJSdVpLbnBab0RqcTU4dGZramhEQmpfd2ttWnYwcUp4U0VaSQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.8,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Utilises 37% Of FY27 Capex In First Half",
+      "source": "TradingView",
+      "published_utc": "2026-11-02T11:32:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekc5RW5QUXpjWVJSTlE4TU9halA1b21hV21EazZEV2RMV2hITnA2UlNadXpqUC1scEtnbGQ5c3lLLXNzeGs4R3h1cTVTZHNWdkFxVFVmNlVNUEJBOHd3S2xNNVJiTXcwdkpPMWhJV3FLc2VhaTZrcFRIemlTcFFUMWRfNmxFUG5Oa3pQWFU1TEtWcHJPVmRRRnk3MmZwaTJfaF9lendSLUJzTE0?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Freight Shock: Indian Refiners Face Up To $20/Barrel Shipping Bill, Margins Hit",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-02T10:12:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ1NmeEhSX0hVR2M5WlV1UmVRQlBZNFVTbXJNdFlMWndTQnhLMkhPWjNReUZoYXdGbGJtc2JxSmpFaXNEb2F2aGJnd2xjZ0lYbHY4VUZWRXZSMktqb2liMEp3ZUNfdWtwVmEzZU1HRjE0WURNU1lsSXE2aDgxRXExejU3Sl90bm42eHZ5S3FJNU1jbUh5R2xITGg2OTZYTk9mSEZURlY0SVJYeTVWZGptdHdCdHZ0R0gtUkRlVdIBxAFBVV95cUxOaWR5U3FfRHctcUFGX0FUX21mSlJLN2dBMHo0TElhcVV4VFhtMTJySzJnRzVDVEVtaDFSLUp6azN3T3pyVFp3SWhrNE0zdEEwSXhZYTV4d0x5LUd3TkpQMVNxRk1zZ0JHSllHMU1YVlBoUlFISW9HT0w3SVBlX0pQZFF1aTVKWnJhMGdHZkRVMmRkemVra05MWWd0MUxGbUJiMWdOSl9jMkJVZDhQbHRxaFd2VENwTUdfUkwzbkhNaXRDMUo3?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil targets higher crude runs, vessel purchases",
+      "source": "Quantum Commodity Intelligence",
+      "published_utc": "2026-11-02T09:58:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlVNMHgtcFlnczVCVExyc3NTZ2ltVFFJTU5PTEpjc1NuRlhpa2pvNVpMR2Uza3QxdlNEUUVybU95c1A4aXZMUGtaOU9FdEY4QmRWVVhVajhIdVBBRFpySVJPWHhaSVZscE8zYWE4dlA3ZWFjaWhuWUJpQ191S2VWSkNXZjRMbDRDTG93cUcyYVlNcTdrWlZUZXY5a2c?oc=5",
+      "relevant": true,
+      "sentiment": 0.6,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Brokerage calls today, November 2: Indian Oil, Reliance, Bank of Baroda, Delhivery in focus",
+      "source": "Business Upturn",
+      "published_utc": "2026-11-02T09:07:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUxMOHRGdGhUR0czUXk3ZG9yQmQ2aUtlNXAtTkdsb1JsdzhxZ3ROYkttbFByT1YybVVQb09QSkZxUXEtMkk4b3NCN2ZMSmh4bURHekd5Z0tYdy01RG5WQkFGQ0trRDlGZEtEZVNxd1JVb1RZSk9iY1BSTWpvQ21RdnVrU0pPcDQwSGlucnpkeUlpMlhNVXo1VFZ0ODlaMURSRHlKc21FZVRyMGhOX01BUTFVT0FQaTVwOXVnQms2bkJZRy1iZDlNTDJiOGR1TTF6b0UtY3dXZzEtNlludXR1VDVIRQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Add Indian Oil Ltd for the Target Rs 150 by Emkay Global Financial Services Ltd",
+      "source": "Investment Guru India",
+      "published_utc": "2026-11-02T09:00:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ3BOLThtX3lOYnF5MUt2ek10UkdyWE54VXh4RmI5bnlNc2pVY3JnaVkxNEllM3gtZ0ZNSHpSZ05lOE1BZTJWNUJUVW4xak9NeWNBbXUySnI3M2pwRmJkVXpSVDJ0NEw5M1hXN1VHTWhXeWMybm4wN052TWNTeVhFVHBwOVY2TDV5X1ZPQkRYUEdyb0xCdU9yaTEtdmJmRlp4TGRCY3BDbXNkREs3Yk81R05nMG9mai1IZ3RJNno0SGZPNFBOdXFn?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil (IOC) Share Price Today, Live Chart & News",
+      "source": "TechGraph",
+      "published_utc": "2026-11-02T08:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSZGhBQm9zVXByZEZFTmpIYm9kZ3ZfblFINy1ZQVNIdk10cFV5dlVldzAwbTZtU3ZvalpXTXBXUzc4LWY5bWpmZXhyeFdtT3hBczB4NDUyN0RUYjA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil shares rise over 3% after results beat; Nomura sees 42% upside - CNBC TV18",
+      "source": "LinkedIn",
+      "published_utc": "2026-11-02T06:57:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWTRzem0xRlU5TWhrRGlHUkllOWo5OUJyNzVwTFVMNjhFVENIMk9qbHhvUEVZbjM1eVpoZnM0cXBWekp1Um8yTzZFbEVvX1NRcllIOWlIY1NqaVBRcnRXMGs1TVFxdG9jbnFLVHNVNGpISmhOYlRJX2VoTHBJZWhmYkFsX1lfMW5LWEo5bnNxSkp5NEM5dk1udHZtWVVQRzZXNGNrT2JEWTJLUDdMX3FVX0V3NW8tb1JnQlE?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Accumulate Indian Oil Corporation Ltd for the Target Rs 140 by Prabhudas Liladhar Ltd",
+      "source": "Investment Guru India",
+      "published_utc": "2026-11-02T06:01:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTmtVQ2ZocXRZa2lPRXV3NFhXdk5VTy1SMVVEak9GUGJpam1fNVVtRTF5ZUJkSVZBOS1jTUpkemZvSFA2MDF3YVA2RU9vR3ZyNGRCZk4tQTFwNlIwOG13ZG11Q0ZRcU5qTkplOGNCUXk5T1pPdlgzNzBxZ216X0dMXzlPMkprZ3BrbVFDdVQybTZxNWhmWENwLVBKWkhFX2l5UnczcVhfeEFUanRfVWcwbFlFV05Lakc0dTlKUWFZb240NmZSbGxOUXZrOTZhdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil shares surge 5% on strong Q2 earnings show; refining margin growth potential ahead?",
+      "source": "Upstox",
+      "published_utc": "2026-11-02T05:56:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ1dwZnQ3dDdDaWh2aFBpR1NRNWRfeUcyZTZYZ1pvU1FZSV9BanBvR3VJdWRCX0E2eHVPaVBtOWNiSVgwdmxSLUw4Yk5XSlFWTm1NLW1LN0ltdURXaTlaUy1lN3BkV2VNNmFRcG44WnBuQTZMbHRYck9LYWdNZUdKTXNNSE9rU0xWR3dCenhMTlFoYXU1UDFVUUdHWG5MamNZNldZd2ZaVEJZNWpoYmJwTW9kOHNkWTNtbkFzWmJhZTNLWk9ZTXpZOFQtN092dmhFOVNTZVpYVFNHeW9zTi01Xzd3WmE?oc=5",
+      "relevant": true,
+      "sentiment": 0.8,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Accumulate Indian Oil Corporation; target of Rs 140: Prabhudas Lilladher",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-11-02T05:41:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZG1RZFMtU2FBLWZ4TEZQTFUzSkRkS2xhWjVxX2Q3d2tvR29sWS1Vc2pOcjJ4dEUwNUdIc3JGVzlVaUYxcDhsSGhienR6NWZUQjJqanhDRGZwY3VGWm1HeUFiT3FtSmkzTTg1U3N2aHZXUFJoaGJLdzRUQk9Va1VnY0ZseFZKcUdDcURjdW5hc09CSnZwd1lBc2dMclBjQ1VWY3pTalppaU5uak1XNGxVSEZocW9sWFpBWmQ1eVpIN1NTSmFlRi0xUU04bFZIdi1KMmNFdDdSRdIB1wFBVV95cUxQZG1RZFMtU2FBLWZ4TEZQTFUzSkRkS2xhWjVxX2Q3d2tvR29sWS1Vc2pOcjJ4dEUwNUdIc3JGVzlVaUYxcDhsSGhienR6NWZUQjJqanhDRGZwY3VGWm1HeUFiT3FtSmkzTTg1U3N2aHZXUFJoaGJLdzRUQk9Va1VnY0ZseFZKcUdDcURjdW5hc09CSnZwd1lBc2dMclBjQ1VWY3pTalppaU5uak1XNGxVSEZocW9sWFpBWmQ1eVpIN1NTSmFlRi0xUU04bFZIdi1KMmNFdDdSRQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Neutral Indian Oil CorporationLtd For Target Rs.135 by Motilal Oswal Financial Services Ltd",
+      "source": "Investment Guru India",
+      "published_utc": "2026-11-02T05:10:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOREVrT2ZBbU1yUVBPcEIxN05IVmU3ZmFqV3RvbGlOQ1RockNHYmF5VEdxU0hCcmpqUk1GSS16bk4zZHpwNHE4Nl9PYzBhM2QtSVR2V0tORGwzQk9rZG1yZFRfRnVLY1BfTnZneFpfVVhGYnZMc1dDTlpRUnpGdmR1aHBLOTNKSEd3dm9DelNmdVhhTmtxSFVyODhxOUM4d2dYMUc0S2xRTFRPaXBURFRlUE5jTVZVc1k1MVA3NnNrREZ3aEgtYlFIU3dIZU5TMk1QVVIwSi1qRQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil & Gas Stocks To BUY: 2 Maharatna OMCs jump over 3% post-Q2 results; brokerage targets indicate up to 30% upside\u2013Do you own?",
+      "source": "Zee Business",
+      "published_utc": "2026-11-02T05:05:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLWI2bzAtcFJTckZhT211ZU9ya2FlY1dVaWJYNlNkd3dzUmlWcjNUeksyY3NIZkREU3RPY1dndGktUXdXbDJTalBTaGFhekp0ZXNhTUJwamM0dEIxLWpUYnlCX3NoNkRhV0Z5enp3SFc3QmUxRGU2VnEzV0xwUDE0WGMwNGVTcTIzVDc3RnFWSzFlT2JNZWJzVHR2VUt2OWRMdlBtd2E2RFV0TWJjbjdDWnJJS042LVRCRS1MbGxqb0JHR0tBNWNJeUVGN25uSnRxcE1TYXN2cHdleFhxOHRsR0hCdjZhcjQz?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sensex Today Rallies 788 Points | Nifty Above 23,250 | BSE Oil & Gas Index Up 2.12%",
+      "source": "Equitymaster",
+      "published_utc": "2026-11-02T04:51:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVHVVQVppUWp4bG9IcnF6cVlGQ25hQ2dTREVkNDd4S1BtUHB6NkNFbGJ5YjVXTUxYU3ozQlVPdHVsX1FlaTd5MFdYc19leUxXT2pHbktIZmNOQ3hTT3BEaTlEVnZPcldRUkdCenlPWmd1T0R0Yzhham85MVFic1JwVk9pQlV6N3dJVzZOcDhKVEpYR2NCbGZkcXdqcEFRb2lFSkhoN240SzRyd3cxajBESmt1RFBQeGF4ekk2amNtX3pMVkRpZkp6cDJrOVQxbGdIQ1dSLQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Stocks to watch today, November 2: Reliance, Indian Oil, NTPC, Bank of Baroda, Dixon Technologies in focus",
+      "source": "Business Upturn",
+      "published_utc": "2026-11-02T04:08:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeDgzMDROb2ZLdDNZNDBGdC1ldW44NHZNQ1RVNF96NFZzdjZsVk9lLTdETkdrc1ZvaGRfNVNWWFc1ZkZ1OGZ1MWlZdE5oRC1oQXFpZHFZd3JOLXNFaDgzcF9hd2Z4RHVPbEVwT0R4TG5SeXA2WHc3a3FEVENldmRGRG9jSDliVXQ4enZEaWE2TVRLVkFSU3FzbkFKTWFXVy1XdmpMdzA2Zmw5dElxNVU1R3gzNTgzTjBlTVhibHJYcWhmN1A1N1M1bmhrVGhFUzlXbFpZQThLYmtNTkhJQVZJLQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Five Stocks in Focus: Reliance, Jio, BEL, NTPC Green, IOC",
+      "source": "HDFC Sky",
+      "published_utc": "2026-11-02T03:49:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNazd1WmRTR2ZIUE4ya3BKUDRudXpINjZxSXFHQm4zVTlPQ3lYc0V4MHFSX0Z5ckIyUnU4Q1NKSENqaXZnV3pQeXdSbThxYWVBUXh4SzMwM2JpdGVjX0luRDZjQi1qYzdsYXVfX2N2ckxURVhtSFBaMUpOTnd3Wk5KNWl6UFlfVkp5WnJnQmdNV3Vkck1EV0RfdVEzUG5TdXphdFlyRG5pTXF4RW4xNlcwOEZDUVpQd1hWWnFSX1lIRmxhYmNLMHBjejg0ZHRtWm1ZWkVDaDNPYjZLRWhFMTFxUExQM1FsUFZyOUhvSF9jSm5LUko0dlE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil shares rise over 3% after results beat; Nomura sees 42% upside",
+      "source": "CNBC TV18",
+      "published_utc": "2026-11-02T03:45:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQk1ZY1BWS1l6YXNTTTFpS2lRMkctZzhUN3E4T2x2QlFUeHZFWndSWDJNSUlqc2lIQ1VXanB3akZpNXF5OGt6eG5VXzE5bG9LUDZubmZrTEJ1VVRIOFYwRmNVQTNtRUhIdkZHQmxZejZfaXpXN3owRDZjQ093Tzg0VVh0aG5zYjRpLVJRb2R1U0xhVFpNOEpaVFdZQVBCOXZKVjlaSmxlNFVfZGZiSmRlVzYtVnFlOFpPRHlSTEEycTdOQ0tSN2M3b9IBzgFBVV95cUxPeU9vaGs3YnVDdllYaGdnb2ZYc2o3YWMtSDNyY0ZwNklXTHBQN2VEYmpBWG1HUGktZWdOUFgycTJJbGRjLUpBUFVIZENqYVB3UHN2em1iaWkwNVpwRHFQX3N2Nm94V3VYbFlWWlNKNlRnbzlKc0Uzam13T2MwOTk5b3NBaERTb0ZXVWR1LVlDV1ZkOWoxU216d2ZlU1N1WUgzaXNWSldubWJoZkMzUVdZM3U0T3paR1dBSDFxdFl3Smhla1dIdkdVSzAwdEt2QQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Crude oil eases from 6-month highs: IOC, BPCL, HPCL and other stocks rally; impact explained",
+      "source": "Upstox",
+      "published_utc": "2026-11-02T03:15:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSHp2aVhuQldFS0liWFhFc1h1LWRETk56R2w3c29JcVdEdElaTVk4MFZLeEpzeU5qTFZNWjRuLWFNUi1UbnRsVDhQS2xXM3Z1N2lwUV9NZ1BPWS11cU02aUZFSjhxRHExS1RLUTB5NHB3LThoMXRaV2t2eTdyUE5LUmVUSl9JMFk0TjQtLWR2MVlEUUgwT2RXa0VEdFhYNER1dkZLTVhCNVJRZkd3RU91eFJmOUJKdUV0RTlJTEx0YThjcno5UElhQ0tWbUVDdVFiUFgybFQ4TTJBaEVsbnB1MWJzQks?oc=5",
+      "relevant": true,
+      "sentiment": 0.4,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IOCL Q2 Review: Record Profit, Rising Crude. Can Refining Gains Offset H2 Pain?",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-02T03:01:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOV21SOElvV1ZnS3lNcllsRG4zME9pUEZwTkM2T2pRT1VJcHFoUkNzeTdyb1Y2TTZqb0hJcWdmVlpCeHNZUjl0OGVTNkVwYVEtSnhlZzJFRW5MOXNjOGlmN2lJM2psUWZzMi0zTERqM0lGbjFkMkNDaTNDVkVrZ2NsTXA1V0hPakhzSGZ5T1AzNnlyWjlCZW9TV0Z3Wm1Pb1o3a3l5OWUwczNpMTVMYy1GcnQ1c0tUNWJCRmxuLW40bVVmT2JpTHdmNTdZUHBfYzhkelhRV1VETDl3Q3F2MjZnb0pveWdBTTR0VC1zcV9IMlpKRmRUV044WUlQTXJ1VGFERU9aVkt1SmhWQ0U1RUs2YnJ0X1TSAZwCQVVfeXFMT2lCRGhDdURWUlZoOUJ4SG9hWXVsVDRGa0tWVENuR0VmVnR5ZW9TcVBqYnl2dzNXMzhLMWtFUHpYc054YWFmNVBfX0hPbC1Kd1ZUMF9iZlJwLVNaZ2VCbWFKMEVlZGlPZk5ObmRkQWptSG1NeHhZcFFzOWFQNm1naWE3bUxEaDZnd3BCRUQ1QXNvZGd6VDJOX0ZiUzU0SFRUdU5nTXZkMTBSbkt1dk9lUld4dmExUXI3emFzMU5xNldNa3RvUW9CRG1jdGk3WTVnTW92akowRGQ2bmtZallPY2pHeGVPQ1EzSUxoeG8yZFI4aUNlQ0RteUZWcUY5TzMtTlJZNkdGYVQ3NDVGVzB1bkQyaGNpMmZUcUdOQ3I?oc=5",
+      "relevant": true,
+      "sentiment": 0.8,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil, BPCL and HPCL: Tweaks in Centre\u2019s taxes can keep interest high on these stocks",
+      "source": "News9live",
+      "published_utc": "2026-11-02T01:03:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdEswVFpPWFYwenJDV1hGbVQzNUFfOUM4VDNmRm9tYUNZZktpRmM2U3NXQU9pMzBoM3p4T1hKSGxHX2dUNWZEZ013MlBjZGVQcTRpbGZzVkVpM2ktcnJ3cFBpOERjaXphS1RoVmQ3eGdCMWE5bVA0TnBfUVhWMXNlRGFMSVdjZkJaaXJ1c1ZvMnBPcTR0ZEgyajFaekkwdW8tMjFPNE5uSDFrWHdfeWtWZlk1bHlzZ25aQ1IzcnozZlBFS25BdmlrektmY2NkR3ZISGlSMNIB2gFBVV95cUxPRlN4YlhKLWNpUEV1VU9FWm5fYUl1c1VkV3k1WlRISkNBeWtiTW1MTmdJLWE0OTJ3S0RHTGotQVJ1OVhyVzBGNXFCMzBzTDV5MmlaUmpka3picFJlYkJFSEJJRWZ0V2o3UDg1ZVVRREU3QzNjOVp3a2JjRWszMVhrSFJkc05reWUyQ1hfSGNXejhaaXNWYTVqSllxLVRJY2NmN2s2enlMVUY0Z0tfaHgxdmwzME53bWVheUo4d2lRUzlST0JFdXFRZmtSVVk3YlQ4WkdLQlB2NW9LUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Tax twist for OMC stocks: Indian Oil, BPCL, HPCL shares in 2 Nov focus after this decision by Govt on petrol, diesel",
+      "source": "IndiaIPO",
+      "published_utc": "2026-11-01T14:42:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNXhMMTRWZ1FnRlB5Xy04SUcwRnhoM1V3QjRHZ2gtMTdTdkc5UWtjS1VkeGp2STNVRkRCN1dhM19yTjFIZ3NlV0pVQVJXTjhhV3FGTWg4YUk5SFJLNlI5cEdyTEpZNFdYU0JpY0xpWm5QSGRXSS02R1labnUyWHFzbWRqZjFCYU9PaE9PVy1WYzlab2tUU3g0cGVERFdvRGdIVTdsQ3R3ei1xSWNLc3NlNzFLcUtqNXdNOENEVjQzdDY5ckFobzlWc2Mtb2g3ZUxPeE05X3FVZDR1T1JYXzV2Ulhn?oc=5",
+      "relevant": true,
+      "sentiment": -0.3,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Capex: Refinery Expansion Faces Key Test",
+      "source": "Urban Acres",
+      "published_utc": "2026-11-01T13:35:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzNDNjk1Tmt4WGZxTWJuWjU4LWJtNVd6S3cyOVNzdGdNMktYS2dCNlRwa0dkaUdnUnk2dHptTTVFY2JzOXBXaFRkQXh1T0hhNU4zRGlDUUZPR241dlpMRTRIdkVzaUQzRFh3aDR1R1BuQ0VDMWhlMmc0aWZBQVlDZ3Q1dDlkQ29sMUMtTWRpSWlwZjQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.323,
+    "strength": 1.0,
+    "material_count": 14,
+    "view": 0.323
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-04T12:25:28.984658+00:00"
+}

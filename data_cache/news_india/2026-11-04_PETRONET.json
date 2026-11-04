@@ -1,0 +1,414 @@
+{
+  "symbol": "PETRONET.NS",
+  "date": "2026-11-04",
+  "headlines": [
+    {
+      "title": "Stocks to buy in November: Axis Direct names Nuvama, BEML and Petronet, sees up to 27% upside; target, rationale",
+      "source": "Livemint",
+      "published_utc": "2026-11-04T12:04:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNR1dINTM1Mm56Q28teFJPRlNtNFdyV0U1ZXJPclR1bl9ocXdJVEV1Uk5RRHhTaENsYjNyS3A3dUV1ekk5MnZQVXRWOWNQWUhhQWIwdWhvdmRKT09IcWE3YnhIUklkekM3dU5ZZlprRjlIQzNVeXBFajJycmZ0blZfUTBTSS1FOEZiRlRTdzY4bWZxRnBTdGE3dV9aa3VFMzJWZ1lERHVzMTVKN1NmbnRCTVhseUtZeVJiR2hkUXZoTXJFUHNoUVB5Q1MweDhHTy1KWnhjWXdqZ2h2dlpfeUlsT1ZjZFJrbnNsVEN6aC1WRnV0enExbVFyRE9xOVZPY0h4SUNIRF9zc9IBjAJBVV95cUxNNUpsYVczSnQyWkJoT2puYnQ4WGNzTFYyR1kxT3YtZnBGcWFhSXBQdVRyYy03WktQOWwxMzIyRWhoYTZxdG9PN1BrbGxRMXFsdllDVlNpVFgzX1kzTmxCWEtVME16MWpXZDRPSnpvdDRGOUcyQm1qUnRaNmFWYlNlSnZjNk5JcFRIYUozTmROOTVMYWJFcFF4Y3psUzVXdVFCZVdfXy14WGpza2FITzlITHlCaWgxZm5TUkZoakJaamVPdVN4elViRWRoaWlWYUQ2T0xSYU15OEM4ajlzRUM1RVZRVUNsU284RFlLTkM2eTQzUzVnS0xrRUQwWUJNd1J3a3p0WkIxUWpVNWth?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet Seeks US LNG Under Qatars 20-Year Supply Deal",
+      "source": "Free Press Journal",
+      "published_utc": "2026-11-04T11:54:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0ZiR3U5dUwwbWFraVRNbHZUNVo3bFA3U0NJdEpNSFktZzJDY2MzSDA1MkxpVExpd1RwdHROWkpjX0RSRDQzRkJNLWF1aDh0ZDhuTU5uRXRtdUF1Q2lIQ01QS255bDZFb2h2UndFLWZ6VkdJTGMybkZMeWJCMUxzSThSNHJ3TGIzeUFXQ2xXeXYybnBBdXdOOEVNSdIBoAFBVV95cUxNYVNpR01adTgxZU5JTVZPb1BLNmh6RXVxWl9hNHlJUVZyMWtoTzFVNFJ6b0hLa3BZNXNLNF80RDRIdjJmN29VRURKemx5OERnOVdKV251bXl6RXNxMGdjYmlZSUl6UE1SWGJRbEY0ck1iTmhIbVRrR2tVNmtSOV9Yb2V6Y0Fmc3lpQkZhSUJCZXQ4RGlfdUhzMzFPQ0dWbjhE?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Faces Rs 625 Cr Claims Amid Qatar LNG Disruption",
+      "source": "Rediff MoneyWiz",
+      "published_utc": "2026-11-04T11:27:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY1hjZVpCQnNIcFpLNDZwZHNIMEdad25UZ29aVDJBTDY2NE5teDdGWkoxQTF0ZHd4Ym04VFF3R25RMkxVRVRia3ViQnBKdDQyMlNic1Bab3o2ZEo0RU1ULVZZLVVWQXd0Vy0zQTJQNy1jMHd2SDZDaFhVUXpmREMyeUlaNnU4amxQX2VrYkQxbVA4VERHODkyT3FEcjNrSUdMbVlyd3lPMjYyMlotdVQyQk83c9IBuAFBVV95cUxPZVpjRTV3M2x6TTZaOUtHYklwMEtyaEM3TjRUcWFtckRMQWxoYU1GQTE0Q0dYd3FrejRfVTB4bGp1LWh2OXp0QnJXbnFTc21YZlM2VzI0ZHdORUVnSnlvaDVoZjFLM2pxVEdmRmVzbG1sNzRCM3Jod2pxWTY4aVByclVXMUstdFJfekllSm15ZF83T2EzelhMbGtWby1tZ2l4ZV9nY1JyTlBlMW5Sc0RJLU1NUW9hU3pK?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG's inventory boost is not enough to sustain earnings growth",
+      "source": "TradingView",
+      "published_utc": "2026-11-04T10:34:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSFZHTnJIRWxpOVJYQTdTN3I0ZlM5amxKbnExck10QlFZUXMxd1hBUmpiUzN6OUUtbVRJYnhyaXRnd1B6UHplSnJDX1o2Q2JKNnZvNDBuOTlXdU4wN1RjS25ZM2ZhcWFVc2FpSUlCQmR5b2JiZnNRVjhQV3NUbG44S2hOVkVKRlBfVkl6XzVzMTlOeHNhNWtZekNWM1c0Zy1DMG9aM1U2OFZKa2U3RmJmTjdEV0FqWWl6Y1dxNEM2MUNJVWpxeUV3?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Buy Petronet LNG; target of Rs 370: Emkay Global Financial",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-11-04T09:44:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdzB4TjlhZVBCNVpiUUstRzJUZ3Yta0tBRG1pT1NYMnpGQXZ4VG5zZ1NkTXppRWZwc3ZEclhsdVR5TXI1M0VlNFQwZXdXUXNqNzNxT2ZPcG1qZFRDc09EdDVnWV9UOElxQUlWVkJRZmR3a2ZYV1lFLXF2Y3RrLVJoOG9DZ1lPN2JDTFZCMnhqNnpERlY1UEVmbnZUelh2M3JPWW9zWVR1bVdwd3V2R1RsS2wzXzgxcFo0VWFKbHJvclBlUdIBwgFBVV95cUxOdzB4TjlhZVBCNVpiUUstRzJUZ3Yta0tBRG1pT1NYMnpGQXZ4VG5zZ1NkTXppRWZwc3ZEclhsdVR5TXI1M0VlNFQwZXdXUXNqNzNxT2ZPcG1qZFRDc09EdDVnWV9UOElxQUlWVkJRZmR3a2ZYV1lFLXF2Y3RrLVJoOG9DZ1lPN2JDTFZCMnhqNnpERlY1UEVmbnZUelh2M3JPWW9zWVR1bVdwd3V2R1RsS2wzXzgxcFo0VWFKbHJvclBlUQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet holds discussions with Qatar to secure long term LNG imports",
+      "source": "Times of Oman",
+      "published_utc": "2026-11-04T09:32:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekozU1N2SXlFQ191SVpBWFlkUFRsRmFHVnc3cmZQclctQVJWUHNjVno1cmdTT3hxN0NWdlBLNDdaUURDVEpsUDdjQUZFcDdBTkZVMDJQcFpUem1TS2E5M0UwZmV1NU43YlJXaTIyWDVDY08zdGxWTlNUcXRCSW5FQVRTcGxFZi1WTnhZVDhDVEk3R19vaGg4SjN3TzFWZmFER0lRY0o4d2ZLM3Zs?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Accumulate Petronet LNG; target of Rs 322: Prabhudas Lilladher",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-11-04T07:07:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObEhaYkNZejVDTk5yYkFqNXc5UFZwZl8wMGVaclUxaGFGdzJtT3hhcGZxY2lkb2NkTXNOTC1jTUJUNmE5U2JIZkdmN0J6OHV0WTJpVjlIcU4xaDhaeUdxS2gtc3p1RVI5RURQa0ZCLXRlRFVuWHhmNkUzZFhFeWhCT3ZELVpIZThFbUJSQ19sTFRWZU90N2RvNTl5QXV1bFRMMFd0SVVSSXhSd0tlWGxic2lRdnVSczJraWN2UzVHbUtuZ9IBxwFBVV95cUxPU1c0cDNBWDRFa1hJNm9vbWxOUnFaNDJFNnVqU2VPaFc0eXdhWXJ5dXdpVTVEUTRFOVN5WGdnaExNc2Z4Q01yOGU2TnphMDhCcmVDYlpJdWZ0QmZDa0x4VjhYQVBveGZUSnZzOXZfa0l1Ni1OOW8zcFU2bWRtVWxNMHo4NUdwRnhZWGYxZWRDQzlIeTNsZDJIc1A1R0JPM2VZdzlYS0JMM1oxV2EydXhMZVRlMzBtajZEcGYwNmNxb0JBZXE3QURn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India's Petronet LNG Seeks US Gas Through Qatar Supply Deal",
+      "source": "www.marketscreener.com",
+      "published_utc": "2026-11-04T04:47:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUY1Qk1qN1ZGdmVCSUFzbGhUUlpCbXZ3WV9pQjN3Z1ItRTl0YUVtaWdaMWRpaUxpU0t5LWRSRUtmQXVlYnpNVTZEWFdLNUFmaHV3TEFBaXgzRXpXR2J6UlZrV3FjSkx1elBQY2M1Z1hzUFhYcFYwWWVXbjhMQi1LUTB0U2pqOEZRdnN3empEUnpHRzA3MnJYa0VheUZTUXBpZWROZGwtODRlR2Q0SHdBSjZR?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Q2FY27 Results: Net profit up 9% QoQ to \u20b91,235 crore",
+      "source": "scanx.trade",
+      "published_utc": "2026-11-04T03:10:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkduQW5hRGRhMFkzdXNwTXZHUktRSVRMU0g5NElXejRqUGktcWNqcnl2eGh2bWxGZVZNTWFvdkNxUHdrM3BiTWkza0ZueGlZWFB4aEtvQlhNMlg2YTg2emZWUUs0eHpXNTR2bGZPWEF3NUgyaE1XMmdtdzZPZVM4cjU2S3YzNXpTYjZlejRGX0VrVU5zUGRsM0dhV3RHbE5fSXpyTDgxYXdYeUx0ajExRUR4WURVbHd5?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SBI, BEL Among Nine Stocks In HDFC Securities' Q2 Review; Sees Upside Of Up To 67%; Check New Target Prices",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-04T03:05:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOWkVFMVZDdEZEZTA0dm43eVhZSm5mMTJDMzVBVDRSd1NaRDdXZFZsZEpRYU4wTUx1SkJJN3lacWgwdWM1QzZ3dTM3ekJxdEdpWi1XZGswSThqN1h5RzZ1YzRqdm9aRnBEUktaWlE2N1oyS1k4OHhBR21xVGdlWUlLM3dsSVNNaXFRNDNYVk91SDJTSTlqQm4yRWZvMkZ0N2stWW5FQWI0dUx4WkpjekcwcUR1RF80V3k5N1llR0Y1ZzJQUU5selRhb1RzdTllQnc1dU1HeEhnSU1fT1NGdm1ERm9zbHZDUUw5M2MzMG41YXFUM1VSLVRyZDA2bFR0UDRBVHQxRnUtSlVFRkp1eUxiS21VU3R1amo2T0wyc2QwUQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG contests \u20b9625-crore shipping claims as idle-vessel dispute enters arbitration",
+      "source": "Maritime Gateway",
+      "published_utc": "2026-11-04T00:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmlmZHU1aUZ5eHBLNGhGUFE1ZG5CcXRwT2kzb1FwRU9iaXMxQXRQZzV3S2hOdHdYNlh0WWMybzBSV0JKMWtrUDlCTVF6cUs2NVIyc0gwaldPWlZNdExqVmNkeWV1a3hXYi1jeDdQdHV0cDVGcFB6TENtdXNXamNtYVB2azFfUllyOHFfQnU5Q0lBU2RMcnNwcGFBUGtkM1pUX2dmeExZVWcxTGtZR0pXRkpnTVpLRzJzVzhDWW9RZ1NoOFNnMW1IdHNDTQ?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "3 Oil And Gas Stocks To Watch As Brent Oil Slides",
+      "source": "Simply Wall St",
+      "published_utc": "2026-11-03T19:32:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWm5zUFhwYzRLV2J5NlhZbVkyOE9UQ1pWZ1lpdnRxcXFLNDNpdmxIem05cWhUdjNEVk5oVFhwNWphWmpyc3dPc2laRmtCRktSQ042SjdNekZlQmpjNXdlUTF3NTBPYXVJNmV0cUZfanIyV2FfSGlOM1NZYW9fdW9iUnJBRTFJMFZQbm1mRkpuYTNycTZzbEtKXzlaRnlESWI2YkRiSEM4OFJtcWNfcHgxME5B0gG3AUFVX3lxTE9IcllCNzBrVTZmdUw3OWVDX1Y4SExnZ3lwWjlkUEg1R0JienR2VVVLMG54UEIwMlBqZlBCQ29zSmxKdnJfbGxOSXVXX1lta0JSbXFXbnhvSFgwWkZlYjM2Rkt5X2Rma1NfemljQ1NTNlFIeUpPRUp6dVJXeldmZU15bmNmSXBjWWZnSExFWGpsVkdhckpvdjBZcFNwX0RJUkZSZEpidEFQaVh0UHRfS3hwdnpTOVd6dw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Ltd (BOM:532522) (Q2 2027) Earnings Call Highlights: Record Profit, Strong ...",
+      "source": "Yahoo Finance",
+      "published_utc": "2026-11-03T19:04:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGdDbkdLVXU3NlFHWkVaOEMyeTRVV3Y2TzVzdjFTSm9GaGZra29wWE9qbW52dUxlQkVSd29GV2FxMTRPOUVJU05HcGRIalJGWVlJeEVOd253UWRrSVdHVEV0cC03SXZSUWU4ZUhUaHVFbDF0Yk9XZ01ISVZVMjlGb1RJR0t6cDRvbC03Qw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India\u2019s Petronet Seeks US LNG Under Renewed Qatar Supply Deal",
+      "source": "Egypt Oil & Gas",
+      "published_utc": "2026-11-03T18:58:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMS1fTEJMSU5vekE4T1NHSDJJZzR2R2gxM2xkUDNwWE4wWGlVckduWl9DdDNqTU1rMEs0bjJPeG14RlVVTnBKZFZEVWlwOFBnaTA4T0RuT1VyZmw2X0dZeS1abkFGcS1GZ3BrZGo3WUlPbmdoVk1QLWdNdmI4SE52b01COFkzY3dhX2UxNklPNVNlLWY4cXc?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "PETRONET: Record Q2 and H1 earnings amid resilient LNG demand and rising project spend",
+      "source": "TradingView",
+      "published_utc": "2026-11-03T18:26:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTnk3RWxBcW1FWTJjN1MwN1d4Q1RDUlNfS1FNTWlmMHE2bzBKLXF0VGVaaWRiRGJkbHk2blNsZjFvV214ZWE3QzJRRjVxSlBmN2RoZGVpampfNnRYTm4wWU1wUzl6WE1XTTZzN1diSjJmNkJiYTJjLWt0bWRfeXI0Unh6RU5VQmNCSlA1YTlwNUJaMVpXTUlscXhMODZETmMyNXlCdkxRM21oVmFUa0dvcnktVlNWWlNfYUhOT1ZHek9yOGZoSjJLMkI5V1MwakxiSFNFY0Z5amRlc3VfX1FnNTFHd2FGMnVKYS1faURCZ0xtZ1pYbDdHU1ItRHdaRmZTMEE?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Discusses LNG Source Diversification With QatarEnergy",
+      "source": "energynews.pro",
+      "published_utc": "2026-11-03T13:11:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWTFkWnJGY0lGTTdNejZia3dsZVY5ZlhZT0xjLVNYU25LWXU4MkZJU013UkVpTDJpMW5WSjVwRFUxR0N3MmNGcHUyVVRHTW5QaHotLVJoTkFQYkFCZkZmT0tRZ3VVVUVsXzQ3RGdoUGVtdzVocUllNWlOVDlzbVhMX1VmZUNScUlXN3VkbllYRzQwSzU4dTdz?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Looks to Source US Gas Through Qatar",
+      "source": "Equitypandit",
+      "published_utc": "2026-11-03T12:56:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlVwRDRSUUFlY3o3ci0yVlhnRWNVMDVUNjVLTy1SZ2taWU83enNjdF9OZ0xSLUFlZVR3MXJQZ3FSRnNhUGhLTUdkekVRZ2tvT2I3WDI1NkhzVmNpbFhDaXlqUUc0OEs1S1JNSGhzWXlEMWgycU5WeUtxRmdCVk9SMjdDbVpOZw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India's top gas importer sets eyes on US LNG under long-term deal with Qatar",
+      "source": "Investify",
+      "published_utc": "2026-11-03T12:28:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbktlRVhuUHBiM2VxNnRLdDBqcVVrTzJyamF1VzM1cVF6azlPX3RBQzB3V1RrbG5tUURxNlJldDZxLVNJbmVibnRWdk5tQlJZMXRjZmZOSm1Vamd0SkRnbGFGOFgwVmZydFNHb051eFRJUHZiOTFKOVg0Z2dXamFHZmZWVVRMZFB0aWl2ajUzeWlYaTUxalFYZ0V2cmE5aHA5MjZxNmtYZ0N5Z3JtU0ZUNWtTQnljeVRGVEVV?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Seeks US Gas Route as Qatar Supply Risks Rise",
+      "source": "Urban Acres",
+      "published_utc": "2026-11-03T11:47:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNzZjWTZGUFJxV3lTcEViZmdMMThQNTc4ZVVod2lZTmRCZF9Vbmc4ZkNDOHlId3pNU0t6ck1jekpiczREZmRBQ0J0eXp4WG45R3BZLU9mMzRKZ1ZQMnhXT1lVSmxvaTVNTWhBdnNhOWRuMHN4UGpNclR3Q0JVOXl5dVJKLUtZT3hu?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG (NSE:PETRONET) \u20b97 Interim Dividend, Record Date Set",
+      "source": "Kalkine India",
+      "published_utc": "2026-11-03T11:06:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbnV1Yll2UXViME5ibGdOd1FFd1JvME01VEdnR281TmpQMm5yc0lvZ2VJUGM1c0ZuRmZMQU1NT3NfVlZMRjFjTVZIRmxqUU0wYnVKNDBkY1Z1VjlERG15WjhIb1lOOTlPV1JCSjBLS3RCcGstRFVwNXpDWWFxNkdFU1VvZGQwWHZoNmtwSmRWRThOSFFqSDJ5ZGZkVkRSZE95aDdvd2swS3FTWW5WV1NsWHpmUDhScEVpR21KbXdaVHBtamhsaVlFbUxEN3g?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India LNG Imports Face Gulf Risk as Petronet Seeks US Supply",
+      "source": "Urban Acres",
+      "published_utc": "2026-11-03T10:46:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnVscnBiSDltV21jNzY4dHlJVUZPaG1tby1GMU5BeGZhN1Jad1RIdG5pNnJDTXBIM05sMERyaFh0NklZNEdFOWdrX0xqMjBMdElmT3Zxd0tvOVFhSGpxaG9qeUxSSXV1alUyTnF2WTlRWTlHcWRhWUJiaHNidEx6UDhwbkV5bFpnR3Rn?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Q2 profit surges 53% to \u20b91,235 crore | Tap to know more | Inshorts",
+      "source": "Inshorts",
+      "published_utc": "2026-11-03T09:58:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSVViRE11ZTlCMTNJTXV6Q0ZyUHpSNDk4bUZXSi05alVCaTRjaS0wMmtIU0RNV2NtMzJLTmFPdnNyM3VjaXNyYjdfZ1hGX3Fad3JiQ1BIYjg1ODRPZ0lRUXdaMDRtTVNuNTZYUFBUZWVTV0NyMHdVSnRzVVV3Q3ZxcHdBXzFaUlJmc2U0bmhCRDV5bk1mTzFtRGd30gGfAUFVX3lxTFA4SGhqdlgzZmE0RFJsaDI4UUhtSzRieFNNa1QxY2cwZWdkdHdzcXliTmNvWVlJY05rMm1LNjl6amFWMW1tVkVBTDdud2N6Z2owOHNGcHc1eklzWjBRUkgzNU5EWTNJMVYwa3NreFg0QjNVcTdSVDZIdUNKU3dlN2ZfUmNoVnJtcHJPWG1EZ2E5UElWWmxUQ3JfdHdNS1RLaw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "PETRONET: Record Q2 earnings and higher throughput amid Qatar supply disruption and major CapEx plans",
+      "source": "TradingView",
+      "published_utc": "2026-11-03T09:16:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQb29jMTZWTUNfODJ3RDBsZXd2RHBTV0p3bHdrSG54eEhwSU5XQ2N3dThCYzNHVFJKSEhBWTFzOW82Z0ZWcy1qVnBpMl93X3l5dkFXdU16QVR2emZ5eWlNcmM2NFBQXzNGcUdWMkJidmJXRlNVZmtQMzFKRF9adGpkS2ZPSXRHSlo3b3hyQUY4TUg1dmRCZnpMVlNtYkxiOVdRQ0E0Ri1CSk9yOFI5djZpNzUyRDhsaWJmNEFSWklCVU01d0NIYXBSLVpURXpQTVB0S01TeFJ2ajFMNlFLNnFxTzNrUU4xblBVTnNOQzI5N2s2THlPcGtkU2dwWXplTDhJcHFEODg1RVl4LWdCMElTYkhqODZGQQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG seeks U.S. supply option in renewed Qatar gas deal",
+      "source": "Traders Union",
+      "published_utc": "2026-11-03T08:41:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdFY3VEpkSlRjVHdQaWZSZGItNUJFQ0hyc0RTS19YbUR4TC1FVHJWMnl1TjItUnRBemJwNUlRLVFrMF93NHFMYTdQTnRKOUV4VDJmMkthWnhtSnJEdFBrLUR2NGZHYm9zS0M0MWpJbE9hdy1aNXZWajg3Qkk3TUJZalRwdTBGUDVEOVR4R2dBMVA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Q2 Net Profit Soars 51% To Rs 1,256 Cr Amid Hormuz Crisis",
+      "source": "TradingView",
+      "published_utc": "2026-11-03T08:00:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb3ZQRWRoY2phSkJWemxVb3o3Y1EzM0VmZFZadUNTSmVUM19RWl82RTlKTHNBSzFNZDVDOXNJN2FhMlo0bzdmZEI0U2I0elJZcDd3bVZuUUF4aDBqY1QzbEtIY0ktV1Nob09XX2NuRzlURVpNbUVxR2ZoVzc5c2h3Q3MxZng3UW41cHpZTENPVjQ4VTl6M3dUcDcwNjhOZjB4c2ctd0kyTXJEekdvODZCOFBUUmM0bERUVW5ydTJQZDltU2hI?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Earnings call transcript: Petronet LNG posts Q2 2026 beat as profit hits record By Investing.com",
+      "source": "Investing.com India",
+      "published_utc": "2026-11-03T07:40:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU0JVdGhiWnlfSW5ZUmExeVFkQk5zS0JydUFVOTJHQm5oZVYzaGtEVjhYTnpNN0I1MWloMXpTQ2sxLWlXWUIwTDlXMlNNNnFseUdoaUdpZnFvTVdvbnMwSjVnMF96QzE5VmR0VkZNa09YeFdxVjlqMEFfSW5GV1gxUDFQTTR2RUhFTFJCeU5GQ09HRHZndWVEQnpRX3pTRFM1LVFWVm1UcFRwVUFQd0F2b09IOGJFd2hHZjZDamVqTk1qaV9HOGFuVEU4MkstQlVmQ1BydGt3?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Exec Says Have Asked Qatar To Supply Some Of US LNG To India Under Long Term Deal From 2028",
+      "source": "TradingView",
+      "published_utc": "2026-11-03T07:32:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdjl0dkR3cWU1ajUxSkxPZHJRcU1fU1FRYW5rZXJRbkJpQzhFOHVjaF9hczVudGNUNjZpTlVJRUNxaDVqTVFrVjZHU1RKZnhVQmczTVd4Z0MyZU9YQ3ltTHBVZnFzTF9jbGJNMlVaRmxUTld1Mlgwbm8yVUw3dFpWUVVoR2w1MEYxdHNPSHE5dVpoRFZuaEg3SVJhZks2aElWWGZSczM4bkpFOW10RkgzVUZabVdBa0N6amgyTUJMQS1VbjZiYV9Xa2pHdjNJMzFPY2xacWpCRGdsVFE1SUgzVlRidnAyTGZTRDJwSDZOV3BiUnVhN2V6cVlMQ1cxMllMS2RGRQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Nomura maintains 'Buy' on Petronet LNG, retains Rs 345 target price after Q2 earnings",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-11-03T07:02:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOanVWUGlGWWgtakN0MEMyNWZnb0VYNHNlQk1BTjAyRU5FRkdLYjFLZjhCNXFzdFBCWmVRUllUQ0Z2UXcxUlprbnFiM2MyblFFT2tSdWU4OEc0V2pIYnNpeVZhMk12WjhjRzdiTUowS0drYlFsX3hkeG1hSVpXNmxXeVpGWkhyX1g1YmU0S2NmOXgwQ19JZGhVT3ozY1N1UEtWbTBEbHRBOXFtSThSV1U4dEdYaUFYUHlyMHRyMzR1ejdNcVptekZ3ekNSbkdSZmgwdzRIWUZVb01nYVFiRHhB0gHkAUFVX3lxTE43TVhHRVFhbnhvT19nZzJuOXU1TXZuLTJ5NnVYeG9YeU9DZ2JqWkNPSXl0THR5LWFkRWFsNGNIRDZCTV9QMGxueUhTWGt2R0FCYnBiWlVHN0xJV2hvQ1BnUHhJVXBkVWpZTHp0angyNU1kZFdOYXhlWThhSGs4N2ZnOVdyUkg4T1YzNW5NdVhSajVYV1lPTFpBQnNXZFNHVHk0bHVYLUxLRDF2YUhPamRqZW0wdzBDYjl5MnBOeGpxTjQtTURPdGU2T0FTM0ZQX3F3ZmJSWnFRdlRYekZBN2VHWTNMbg?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Q2 2027 Earnings Call Is Live",
+      "source": "TradingView",
+      "published_utc": "2026-11-03T06:27:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc21SRzhkWlJNck0tazBGdWMzYzNaeE8yRDlwWTV6NFcxRWdGdmxEc3FlU3E3SVIxWi1YM3A0UlNNS2lnRWRNUmFEazZUcW9zbVd3VU5HVEtlWi1OMzdGZEVralpDb3JUdE5QS1ZydjZBRUpVZ19PZkt4bGt0a2ZqMHIzNkIxTUJ1ZTQ1dnY5OWd5ZldkQ29KOGhMcVBxcmUwbFpLejk5SGlOTVFJQWhDUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Faces 625 cr Arbitration Claim from Ship Cos",
+      "source": "TradingView",
+      "published_utc": "2026-11-03T04:12:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS1hIOGhpeTBmbXVJc3BpS2UtcF9xbktVeXJ0TkhQajZwUkw4QVI0VzlzQjNZdlJJSy1tLWo2dzFYYnQ1UlRuak1WZ2x5NV9fYUxtZ0pHbHdqMzU1dFUwRjYwdmtFT1AzNWlfY2NmSDh3YUlvS2hCTjltWUZ4QVpYR0o5bFVFZ0pwTDZoN0Z5NHFLeS1yR0p5OVlic0FIMDBUOFlXdVJXSXdCWjRwXzY1R2tiOFU?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG faces \u20b9625 crore arbitration claim from shipping companies",
+      "source": "ET Infra",
+      "published_utc": "2026-11-03T02:49:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR3JacEhCR0xXUnlpLXY1THAtRGhYTVVwUGhNaUFvMHl2QkRfUl9ZZTRTM2VBZ2tDcWVmc0ZiTktfTDBtU2VBQlJkeUZ4VHExLUY2bFRWeEFaNjhVZEZ2QWswRURsZkVhRVZSajROZE5QZkx3MXlRd0pmdzV1dFBTTjBNSlNTLVAzWUpqZjhFR0NaZGJCSGNibHJ0S2hkWU56UG42enphbEYzTmNpZ2tEdHZ0aTJJUWF1ODgwcUFpTVJwejEwd3B0azlvVktQazVONENNZzU3Yzlvc2_SAd8BQVVfeXFMTktlWFpfbGE5S1FmZ2N4Ym5NREJzTmxLTzljbjZIRkZQZXhVa0FMSHVNb0V4NTVYQ1VwSVowcFFXczFHQ2ZVaW94UzFzYUg4Q2lZVHlmNTZGVGd1MEljTW9RSzVPZTdLSkJYVkR0bjUwWl9xOXZadHVzcl9TcVBnZFQ5cW1VS1hud0VXY1ZzQVZMSXAyekpmVEtJX3daNWoxSktGRjJBWlo5MHJ5UTkyeHd5VjlrVjRGaEpVWFBUWVRWVDY2LUZmakQ0TktNcUY0SjV6TE4zT3QxNlhxdHFfdw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Only Six of 75-80 Qatar LNG Cargoes Landed: Petronet Pushes for Early Delivery",
+      "source": "Maritime Gateway",
+      "published_utc": "2026-11-03T02:28:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHRpMkYxMGF3S3RtUTFuUDNPRFVsMWlqM1dNSUpvUW9yZXJVX3F3OFhXb2JfSmgyVHhTT0Y5UEpVcDZzZUVSdnVmZWh1WURIemVPcXNqWVh3b0QxSWdDVzdGMnVtTkwxamk1c0NDTDFaZ0hXTC1nUXlSQWl2NkY2cnk1T1NFd1I4SlJFcHJBcVRmV1FQWVloX082bC10ZWphRVN3RTJReVdHdG1sYTJN?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG reports 52.3% growth in net profits, in talks for availing undelivered cargoes",
+      "source": "The Hindu",
+      "published_utc": "2026-11-03T00:13:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcmxZaGU2cVc1TlBadF9SNFhlYmw2ZjFCWjBhTFlXdlZMcGtMNXQ2QVliVTJsS21ZeENDYXVRbTU4OFh1Z1E4Q3FQSGxYa29HdHlFU3ZLTXlIZGlDR1IzQUtRNVliaFVBZW1OZzJlMFBlV2JIQXZRTGszWHY4aWpJcDdyZF9feGYyUEMwLWQtWjVLeWFmZ01mZ0pidFc5YXRCVUFHdm55TEJFaVlyQi0zRG51YnA0b0d5ZlpzOVdzUm9tLTFDZ19wdklwSUotVnlsZTg4blFqNFByeUR3Z1ljX2pCUGZDd9IB7AFBVV95cUxQSGQ5Z2VjLXRRSHVpaDAyWFdwY3hVNnZEeU9HMks2dlk2X1BrVWZqYmlWVmJlM2xjV1pLWkpDMFMyU2JSYTV1ZkJYY2xmMnpoYjBEN211OVprZlNSbHotQzY2REx0ZnkxU0dCX1FvQl8wcDloX2lxaW5GdHRicVhLTDRuc2pmX0MzeXJpY2JsRi1uSEJmTE1GRHAtanBZeExpbE4xSkFoUmdCbm1DRzc4TFl6eGVFQnpXQ1p0dVJYakU5RGxYOHZNV1daQmhsNVBrdVZ0djBxLXNuWEhrcm45cTE1Y1VwMW1uN2x5cw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet Sept quarter PAT rises to Rs 1,235 cr",
+      "source": "MillenniumPost",
+      "published_utc": "2026-11-02T18:55:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdGctN3F6VFRSR2JweFlZTUtGTy1YdnA1ejRvcmdiYlpDWTEwc0hDaFhEY3piekhNV3EycVBQQi14SlFNNUdhbnI1dmJOV2JXZTRPMVhZSU1FTWFQRWdOS05SV0dxMnNjc01iOFNrZ0ZOc20tUUVsU2pORzRJSEJyRlp2dnZ1dmh4ZHdKMHdzaDROUEg0T1HSAZsBQVVfeXFMUE11NEhuX09kaFZaRlFnUWJrYzZTcm1zc2FVbnBQOEV3N2NhWmRHelk0b3JJNm81X1RHRmk0YVJ0aFNvUmRTbWlQUC1QSTN5Ujk4eGtOQW9rRVdkQVVBcTNYVmhkazZuLW96cDg3MUNBM2Q5Q1hoWDFkcDBBMGtZY1EzaVdoV2c4MkRVdUVxN3QtWGxIR2VBSWx4TVE?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India's Petronet in talks with Qatar for delivery of delayed LNG cargoes",
+      "source": "CNBC TV18",
+      "published_utc": "2026-11-02T18:38:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnZCakhiSlVwbTdJTzZSMkNxZGpIb19LUFoycUdBSHhYMzJGVmVBT3lXVTRtSHVtbmlMcDBYRi1TdlRrNlZabEt6LS1pTXVFbTZ0Tzk5R2tPNGRNOGxpRDFrTkRjQTNVd00wMVRNcUZZRjJBYWxXYXpTY1hwSjJvWTFoX0MzdmhCcXJOTG4taVczRWQ4YkItbWUxUUlzME8yMkhXcHBHemRpU3ZqQ0xIZmhQRTBGZUYw0gG-AUFVX3lxTE5ESkg3MVZ3b0REcUlPRG9aYkVZX1VFcDEwZ0lnYmRLOWNJOEdXSGgtMXUwNWZYYWJObFZZSV9kOGEtVnR0RkR4X1otZUlCWkpEanNybGN6VGxoTl8xTWc4cVE2TEw1ZHRYWmZZTDNVN1VkMEwxUVROYlNGU25rRlhmUm4tOHZOcU9fNVNiQXlsdHBfUWtmUFhJNnZKZnI3bndjYWdXNEhWc0h0NDlvLWR2Ymp0NkxQTGx2S1dpUGc?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet seeks early delivery of Qatar LNG cargoes amid Hormuz disruption: MD Akshay Kumar Singh",
+      "source": "PSU Watch",
+      "published_utc": "2026-11-02T18:12:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGpmRGZRcEJHdk8wdmVRWk1iMFlQUUJ0MDYyb0E2M2ViRm5KQlJ3WWtwamtrbjk0MlhILU9uUDZ2cWtKRFVtMHZhb196NjZiNzVYY25MakpSX0syWHRxRlEtTE4zbWRXX0VlaTNOT01GaDFJdlQtLUdNSks1Z2VvWTZzSGY0UlFaMjY0OWdDaEIxN1p2M1phTERGTHJfUXlpYUVKU1g0UlFXLWM4bjd3cjF5U3kyeHBYRTdfaTljSnlDV2hZVVpv0gHUAUFVX3lxTE9NSE1PV3RfZnl1c0ZxUjJuVGUwWTY5cHU1X3MzN0I1U2JkSzlrdHU1N2R6TUpmYW1seVlndVBlRG1aVHJSeWJpZjJjN3BrUnZrTWxYTjlVemwwYXN0U2dqU2tpaDYtU2xCYzZSZ0ZVNUJzVVZjb0lrMndhemowaW9vaWU2emlkZ2lwZ1lsUUpJenJWQkpqWW1Wd0hybjZrVmtfZDhvMVpFaHQ0Q3Q0bTdtemlfZzJvdXpXS091TGxwRUJYWW9pdzRNUlN1M1UxckRkUEZ6?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "About 90 Delayed Cargoes: How India's Top Gas Importer Plans To Recover Its Missing LNG",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-02T17:09:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZVR6Y1hPcU9QeFJickNESEFEdVh4cE4wUVQ3aDdmZ3JVZGRsel8xM1lZU0xiN0lCV1ZrTTRqWXY5dTJSUjhEVkZrY0xZRU9DTDlnTUlQVDFFQU45VFBRZlh6MUFLV0pFQmwySVFPMWZoOVhTQkg2dFdMbmswUFVRb1Mza1RpR3JZTVhfczE2NDZoR0NzTU9IeTIxd290YzdXZmk0UHMzSVYxaXpid0JzWjZXMUhzakNxYlJ1TDF30gHGAUFVX3lxTE1vN2FUUnhfRkJ0UjhhNDNacVZ5UHE0Y1dlTGFSbEFvM1Q5djE3dzhrbEJMZWVUX3dBRGlNU1JFWHhLZms4TkRnc2s2aUVIVW16dVFnZE1kOHRQMkZXendUV0xLaVFnd3JvS3lJX3VZRWtRODBuX3VuNVRmWU1GQlUyOUhQaWFOYVV6WVdFejk2RC1nU1ljTjRZaWwxcjZDY3E0OGhKSFk5UmdDYXJfY0tTb3g5QlpKdndCc3VKdWFXV3FOVHA2Zw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG seeks early delivery of Qatar cargoes amid Hormuz disruptions",
+      "source": "Business Standard",
+      "published_utc": "2026-11-02T16:29:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQlg1RW1iM1NKd2ZtT0IwZkVGWk43NHBsY3c0c0dWVVBWeHk1MlFkWGVxa1F6Ym8zaDVGLXBjcF94MHBhSHNDN2hLYVF1ZmFDSGNYNEVXREt6R1VqdzZRNVJRV3JIbUc0QWhHWmowRkhoeVBxSTNiTEJoRGhtZ1B4UUNJNGF2b3hhSW5pZllVa194d3pXZlRPbkpLMHJUenlYbWJDNGRSWXlRXzdJSDE5U21kdlYxMDB3N2dOeDdUTFNvbTA4Z0xqT0gyemwwRmdIUG0waE1URzE4c0XSAeABQVVfeXFMTmFWRUtQS1o5eFExUjRNLUZwVjU1M0hpR1FQRUNQNF8talhfNU5CRDkwdmlpZkhPVGVGME52OXBRRVdOVUtJMC1FYzRvN2UxTEtHeWtxUlBPWFViT1g0cGgzS1B5aGNJVjF0Zlk4ay1lVE9fZnBzakFpZ0o3ZjBqcFU4QjdoSFlwX1VFNnBHNWxyWUljdGxzNTRzYzc0UmVfc0RTWTd6SzN2YklhY3gzaVU5Q0w4a0RIcVBPVHNNNkNwMV9nMnVfU3BpY1gwRkJXNlJ6T215ODUtRnlQeTNfeS0?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG faces arbitration as vessel owners seek Rs 625 crore in dues",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-02T16:21:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOUZ6NnRvTEVESFE1T1h4RHFDV19rR1B5dkI2b1pjTlpuOHZJVGYyX3R5RWxJakwzZ2Eza2pUeTRFMVptd1VheHIxWjBJOFNta0htU2l1NkRtZ0VkOEotRXdyNWdnNjBXaHM1ZXd6MDZqU2w1YlpWRW54dWZSMjF5UzJ3R0s5NkVwOFA3QWZsUW52YzFWUWQ2VWczaGc3VHhDNFNHU2tEZEtpVkdETGVRRFJOTGM5WVhVWjVtNmx1OUg0eFZxRXBQZVJJUWFXQ1B1eTNMd0F0aEgtNk5JNC1la0tKV3owWkxiZFlxODhoTjZGd9IB6wFBVV95cUxPdzBMRTFfMUVSSThET3A1WXBrOVduaUxPUXlwcnpjQkctbXVqY0dpRUlkUmV6Z3l6V0tObk1CTko3bXNGbUItclcycnFtWkFOeWROMjBNZjlFc0hfMHRHNnZKVFE1NjVjQlVqRFNfbzJhemFadUxKYkNCWmdISVRQTE5WblIxUEdQQVVMdEcxQnF5Q09ZWFhOb3p2VFFXWkFLSy1SN0luQ1IzdW1XMGZxQ21TSE0tV2lNeEhaQUswM2IxR0dIOWxrVUU1MDA0d3ZERnhfUHZDQ0JMdDlROUhPNTUzMWpRYTdYZUlv?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Q2 Results: Profit rises 54% to \u20b91,235 crore despite 35% revenue decline amid LNG supply disruption",
+      "source": "Fortune India",
+      "published_utc": "2026-11-02T16:13:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPem9COHB6ckM5M0FJZGNUMHVWbXBFRmVOUUxPT2xnRmt3bUxvUkdaUW15S2w4d1hqdE4zN2k1S0xWUjdQWll4SEZNS2IwV3Y2UXhwSDBNZV9EbGVlVFlNaXRZLVdhQVJNWF9UT19LWVd2ZjZLRE1ramR6ZmxfRzdpbUo5dmQ4SjhVcHRSUXlhNDBibnh4Z0UyR2psMWIxTnROMWFBR0lSTk9yUjkxbEdhcEtsVGtwaE5qd1hFcXdxSmxwVTY1Rk9IZWV6YnItemRNZjVLNkdJWnI1UnhrUWlRS3hoQm81RnhMNjhKUFFn0gH7AUFVX3lxTE9nenJGcTRNOS04MHRsVjE2MW5nX2Y2NHpYVTZnZFhmVGVXOEVLaVFoVnZ2QzlQSUVNQ0k3M0xrNzJUbmNtb1YtYzhicWYyazI1NjFiWExWSEhQR1ZnZ0JfYVRWWXJnS1dwRTZFVzdOd3VPWkVybnFRanl4ZnJUV1FxLVZfbHA5Tm5XMmh5ZDM3dEowM1Z0UUVxeno3YXVXSm83NnlaZVR5M3RzRFFZbnRNVHkyY28yWTZqcmZtOVB4QjFSTVZsa29FdjVkWGYtR3hOOWNYclJxLXZiR3V6RVE0aldxMTcxLWtiWjRLNnlOMEM0Tm4zRFVNUjhR?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.425,
+    "strength": 1.0,
+    "material_count": 16,
+    "view": 0.425
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-04T12:25:23.413628+00:00"
+}

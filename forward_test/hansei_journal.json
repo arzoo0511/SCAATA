@@ -7731,5 +7731,286 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-11-04",
+    "ran_utc": "2026-11-04T12:25:48.029056+00:00",
+    "equity": 10308.19,
+    "benchmark_equity": 10528.38,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.255,
+        "target_exposure": 0.489,
+        "current_exposure": 0.357,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 36%: no strong reason to change",
+          "trend against (-0.59, trusted 25%)",
+          "momentum against (-0.45, trusted 29%)"
+        ],
+        "views": {
+          "trend": -0.593,
+          "volatility": -0.0,
+          "momentum": -0.448,
+          "news": 0.099
+        },
+        "shadow": {
+          "relstr": -0.072
+        },
+        "value": 736.7
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.295,
+        "target_exposure": 1.0,
+        "current_exposure": 0.691,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 14% of the book vs 20% target",
+          "trend supportive (+0.61, trusted 25%)",
+          "momentum supportive (+0.45, trusted 29%)"
+        ],
+        "views": {
+          "trend": 0.613,
+          "volatility": -0.0,
+          "momentum": 0.454,
+          "news": 0.043
+        },
+        "shadow": {
+          "relstr": 0.716
+        },
+        "value": 1424.1
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.386,
+        "target_exposure": 1.0,
+        "current_exposure": 0.905,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 91%: no strong reason to change",
+          "trend supportive (+0.87, trusted 25%)",
+          "news supportive (+0.42, trusted 23%)"
+        ],
+        "views": {
+          "trend": 0.868,
+          "volatility": -0.018,
+          "momentum": 0.249,
+          "news": 0.425
+        },
+        "shadow": {
+          "relstr": 0.581
+        },
+        "value": 1866.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.093,
+        "target_exposure": 0.815,
+        "current_exposure": 0.551,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 55%: no strong reason to change",
+          "momentum against (-0.46, trusted 29%)",
+          "news supportive (+0.32, trusted 23%)"
+        ],
+        "views": {
+          "trend": -0.149,
+          "volatility": -0.0,
+          "momentum": -0.455,
+          "news": 0.323
+        },
+        "shadow": {
+          "relstr": -0.081
+        },
+        "value": 1136.24
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.424,
+        "target_exposure": 0.151,
+        "current_exposure": 0.272,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 27%: no strong reason to change",
+          "momentum against (-0.64, trusted 29%)",
+          "volatility against (-0.58, trusted 23%)"
+        ],
+        "views": {
+          "trend": -0.286,
+          "volatility": -0.58,
+          "momentum": -0.638,
+          "news": -0.161
+        },
+        "shadow": {
+          "relstr": -0.331
+        },
+        "value": 560.0
+      }
+    ],
+    "weights": {
+      "trend": 0.2531,
+      "volatility": 0.2269,
+      "momentum": 0.2864,
+      "news": 0.2337
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.099,
+          "strength": 1.0,
+          "material_count": 1,
+          "view": 0.099
+        },
+        "top": [
+          {
+            "title": "HDFC Bank stock nears shareholder vote on Bagchi CEO term",
+            "source": "ad-hoc-news.de",
+            "sentiment": 0.114,
+            "material": 0.5,
+            "published_utc": "2026-11-04T08:46:09+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.079,
+          "strength": 0.541,
+          "material_count": 0,
+          "view": 0.043
+        },
+        "top": []
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.425,
+          "strength": 1.0,
+          "material_count": 16,
+          "view": 0.425
+        },
+        "top": [
+          {
+            "title": "Petronet LNG Faces Rs 625 Cr Claims Amid Qatar LNG Disruption",
+            "source": "Rediff MoneyWiz",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-04T11:27:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet Seeks US LNG Under Qatars 20-Year Supply Deal",
+            "source": "Free Press Journal",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-11-04T11:54:32+00:00",
+            "count": 8
+          },
+          {
+            "title": "Petronet LNG contests \u20b9625-crore shipping claims as idle-vessel dispute enters arbitration",
+            "source": "Maritime Gateway",
+            "sentiment": -1.0,
+            "material": 0.8,
+            "published_utc": "2026-11-04T00:30:00+00:00",
+            "count": 4
+          },
+          {
+            "title": "Petronet holds discussions with Qatar to secure long term LNG imports",
+            "source": "Times of Oman",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-04T09:32:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.323,
+          "strength": 1.0,
+          "material_count": 14,
+          "view": 0.323
+        },
+        "top": [
+          {
+            "title": "Indian Oil Corp Ltd (BOM:530965) (Q2 2027) Earnings Call Highlights: Record INR21,630 Crore ...",
+            "source": "GuruFocus.com",
+            "sentiment": 0.8,
+            "material": 0.9,
+            "published_utc": "2026-11-03T07:03:21+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil Q2 Net Profit Rises To Rs 21,630 Cr, Revenue Slips 5% QoQ",
+            "source": "BW Businessworld",
+            "sentiment": 0.8,
+            "material": 0.9,
+            "published_utc": "2026-11-03T06:51:41+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil Corporation Q2 FY27 results: profits, key drivers and outlook",
+            "source": "Kalkine India",
+            "sentiment": 0.8,
+            "material": 0.9,
+            "published_utc": "2026-11-02T12:14:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "IOCL Q2 Review: Record Profit, Rising Crude. Can Refining Gains Offset H2 Pain?",
+            "source": "NDTV Profit",
+            "sentiment": 0.8,
+            "material": 0.8,
+            "published_utc": "2026-11-02T03:01:57+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": -0.161,
+          "strength": 1.0,
+          "material_count": 16,
+          "view": -0.161
+        },
+        "top": [
+          {
+            "title": "ITC Q2 net profit drops 20% to Rs 4,137 crore amid cigarette tax hike",
+            "source": "afaqs!",
+            "sentiment": -0.5,
+            "material": 0.8,
+            "published_utc": "2026-11-03T03:17:41+00:00",
+            "count": 1
+          },
+          {
+            "title": "ITC Q2 Results FY27: Net profit declines 20% to Rs 4,137 crore; net revenue up 1.8% to Rs 18,401 crore from Rs 18,081 crore, EBITDA declines 17.5%",
+            "source": "ET Now",
+            "sentiment": -0.369,
+            "material": 0.8,
+            "published_utc": "2026-11-02T23:19:08+00:00",
+            "count": 8
+          },
+          {
+            "title": "ITC Ltd Q2 net skids 20% to \u20b94,137 crore, higher taxation hits cigarette biz profitability",
+            "source": "BusinessLine",
+            "sentiment": -0.5,
+            "material": 0.8,
+            "published_utc": "2026-11-02T16:26:43+00:00",
+            "count": 1
+          },
+          {
+            "title": "ITC profit falls 17% as cigarette taxes burns a hole in ITC's profits",
+            "source": "Livemint",
+            "sentiment": -0.5,
+            "material": 0.8,
+            "published_utc": "2026-11-02T15:43:06+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]
