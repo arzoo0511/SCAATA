@@ -1,0 +1,404 @@
+{
+  "symbol": "ICICIBANK.NS",
+  "date": "2026-11-05",
+  "headlines": [
+    {
+      "title": "Bank Holiday on Dhanteras 2026: Are Banks Open or Closed on November 6? Check RBI State-Wise Updates, SBI, HDFC, ICICI & Diwali Holiday List",
+      "source": "The Sunday Guardian",
+      "published_utc": "2026-11-05T12:35:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdEFma2l6cUl1QnNGVWM1bGlFNkh5dV9oMmxRUEEtZVZyYlpoRk5iLVZRT3Z6LVFRMGRsdFRqbFEyVGpqQUgwN1EwU2dzSEp4eUV2aVZNZkxJbVYyRjg5YWs2UFBDYnJlYXlsUGNqTUpPME9ldHRTbXgtcDRFd2hFN2FTVTB1eUh3V0dDSnlVM3dsZTc2cHNqRnN5VGgzRkpqZy1xcjY3MGpGQ0U0ak5KR2JLSGsxNnI5MUVNbkpnVDNlTHA3ZXJYLUpBbDZkT29pelFuMVBKdUN2aDdDcFdhUnZGTmtvdW94ak1vQ252TFhBWE5JT1FyQ2cyb1FsX2hFR1daX1J0dkZNTzZSSkE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Top Traded by Value Today 05-Nov-2026: Banks Drive Turnover",
+      "source": "Multibagg AI",
+      "published_utc": "2026-11-05T11:06:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeXNfQTZXQ1BaQjRGSE4tZFFDUXpWc25LTGlaRThTdkJrR2QxaUYxVzJZQ3l2WmpsVHhCZGFHdl9GTjhGOXJQZ3BBSGRNZ1ZRNnFMNHpXcUFrWTdxaEgzcXg5TlJWY2R1b05oMDZod2dxd2hHWHZnR1FiOVZQWWlkeW5USHRHaVc5SVc4ZHNvYUdFTGpOUVpXaDFvc2NDVkFiaGtR?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd. Share Price, Stock Price - NSE/BSE Live",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-05T11:01:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05c1diZ1BXWkJKb3FnV0ZIYlZDaWJWbEoxLWg5MWhab3F2WF9feTgtWDE3MU94VlZTbkd2OFE1cEdKbDU5SzRzT1hCUF9SM0JIMm1KVUhLV1pvN29VeXhzS1FCZnNIcm5RSF9NNV9nbURSNTRJ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal among 30 stocks to buy for Samvat 2083; brokerages see up to 38% upside- Moneycontrol.com",
+      "source": "LinkedIn",
+      "published_utc": "2026-11-05T09:45:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVdsbUFRTURBN3lIVHRJMHZFM3FRNkpyWWJzTVlLLXJuQzF2UFJteXZfbldJX3I4MGtibEI0bXlPaDhVQU1IS2tmajJVeE81VnhjX0txSjNxRjQtQWRkRTlCeVFtTkhIdDdsSFAtTjlvajN1S0l3R2RRSG1CNW9fb1J3THc3MFFZN0JWWWFKQXZ3LXdBNzV4M0EtYlZOYWJVTzczaTlRZWhzRmk3T3dzdmlodFpDLWtsY25RSndn?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ICICI Bank, Axis Bank are BNP Paribas' top three banking picks; here's why",
+      "source": "Business Today",
+      "published_utc": "2026-11-05T09:30:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa0VSUFJUOHRwWS02akpVN21iVjQtMXNodHN6Z3Zxa1UtQ3Bsc3N5THFXMU9sWDZIajBBRWRsWkg4T3ZUWGl1TVdFNFpiRXE1SXBhOE12akNuWnpLMl9GejJ0Q0ZDZlJHbk1VYkc0cHNnMHBlYm1UcjFjRHhRV2luT0JUMWYxMVpONjhvVlYzVWIzS1NmalVwa21QTjRndkZBUXJXOWsxdjVpWnZpT0JoNkx4VVI5czF2RTlKWmdlWnBvbkhvemVLYTJldVEwa19WUkItVDl2a29fbUE4ZmFKZmp30gHnAUFVX3lxTFBGY2lTcVNtSzVJU0haNl9GLTViM3hkbDVZZC1qZU5IVHczUGJkOEVITkVuOVFqbUg5VUFMdm5iMWJqNDNMMjF2T2dONzJBWWFfUXdxWUUzX3ZCSm15MlpNQUJiTnN3TFZSWmpvckNJZzdXN18xOVF1TlpLSU41UDFhZUh5X09iUFo0MzdVOXZjZ1lkSmUydW9zc2VfSFRtYUhneXZqc0tGU1hwNVFlQl9yVTlwTGhIUG5rbGhycThvVjhETDJlMXJtT2RJVU1JVVl5SWZhZ0J5YzRQSmtRZTgzVWVWNnJpdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd. Hits All-Time High of Rs 1,498.75 as Momentum Builds Across Timeframes",
+      "source": "MarketsMojo",
+      "published_utc": "2026-11-05T09:04:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSGpkcmNhc3dKVS1jRHNwOGFBVVdGdjRENUZpb0V3cEZkRXIxUmQtUldyN25XMU1VenNzRWRFdTIyRWptTzdDbDFBUDI5cDRXV2FpbFVsMzV0dUNNMnR2a1dGUmJtMTI2azVkblUyMENrTDFTampDTTdBQ0V2bVROZDMyNE9RU3NheDhGaDhvWThXazBwZUdVU05KTEZwbnU5d0VoREl1TGNmaDhMYUZnQ3Z6X1JHWTIwRkJQVXN1eGlkdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Broad-Based Technical Strength Lifts ICICI Bank Ltd. to 52-Week High of Rs 1485.9",
+      "source": "MarketsMojo",
+      "published_utc": "2026-11-05T08:18:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWtGT2FXQUZGcklWTGl6V2txZWJEVks0MnVoTVlRTVllSnNSeWU5aVMyc0xCUEpxTnBjSG9Id1FxMXluNU5CTGdGUzdvckd4UndqUGlkUlV4S1lFV3NfOWJ3bnRKVGIyU0dJOGdOaExUU0dDaTA1OUVXTHdLWWtkVHpFUU9yYmVFc1dCRF9RM2lkSmhSeXcycWU5NHYxVVI0MmVxbWZiMHExQQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sensex stocks Adani Ports, TechM at new highs; Eternal, ICICI Bk near peaks",
+      "source": "Business Standard",
+      "published_utc": "2026-11-05T07:34:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWW9iX3J2LTNxdVB3SnJQZkpSUW1ZcExiRFZJbGFVeS1KUWlTWDEtLXJ5cEdTTUxVcEdjQnBJYl9CYmdxX0JUaU5aSnUzbGp3OE50Yy11NlVndFFNUU0xdGNSdVdEYlZqdVBaWWNraEJOUHVldnQtVzAybnpEbDBLa2Joa0pOMkZRNzZOaWhyaFltU1NvX01YajAycGxpcnJSRlJkeXRQRUVwdU5seDJKOFlZM3BEUjJyQllXMXdzaGYzMHN3YU9HaXVDd1g3dGd2eldoZWhScXrSAd4BQVVfeXFMUGxHZHZYS1NhZEZsbzhJb0tPOWE5VzV1eVA5SllJWmNzVFVKZWY0aUtQSERmSVpTOTlFdWhaaWZGSFhpeGhXQzR3QnE2Q3BRa2Vjc21RYXhUSVRHVDRTb0ZNb0tkcnRfMGtRQy1KV3JDRzdoRi1UT21hUXVPUlhWWmhzVGdnR21vNkFaeERUUlhBeFFzVVFINlBjcGdZcDNVQzBYYjZ6c0U0QUk5eEttR1o2VGRwUnBFaUVxZ25fVkZTRVhTVl9QT08zOWFoX0tWY2U4eGI0MnFiZWRiOVp3?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Zacks Industry Outlook Highlights ICICI, Canadian Imperial Bank and KB Financial",
+      "source": "Yahoo Finance",
+      "published_utc": "2026-11-05T07:14:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFU4djlzaTJxZXVaeGZXc21VekVZbkZrNjh0TnVkdERJekRKX3NHd1liX0dCQV9EOUxLZEJfdUF4OVE3WklYdmFOVDhtWmhMVzZVMDBSVVRESmI2UXg0bXIzZ2xIREhqbTc5NnVhN0s1QXJaU3FrSW55Slc1OGMwVTUyWEtlcVJZYUtFRkNhUURkTHJiNjNMZ0czdmN2akl4dXBESmtidw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank shares jump 3.47%, near 52-week high of \u20b91,480",
+      "source": "BusinessLine",
+      "published_utc": "2026-11-05T06:59:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT3VvNmdSWXBrMEtZcl9HR2tJYXd4blZjcGlGc1Nyc0l3LVNNeThvY2tzRE5oSkVQWGZMUTRkUWJyUEFzR1JRUnQzeDVYRHluMjgwUG0xYzhvY2pSSkoxY29EdmEyTzdaSHA5bU91TU1lS2ZkZlUtc040QThack9wcEpGWWVITkU0VEVJaUdrbWVvcmk3c0RuVGVSN1lpWmhWYzRYdHZFOW9hV0xRSTdRUWo5R2hFSG8ycmNIbW5CTDBkU0hnZFJWS0pZdGYxVXRoRl9sN29wZW5NVzBqZE81UHZjT2hzUmtERUVBR2tVMks1d9IB-AFBVV95cUxQUlo4a21NWHhCY2VKcHdYUElPSVRyckhBZDU3NWdwV0dRYklvd1gzRU10YUJPTGNrVWxtYU1EX0hIUGlxakZaM3h6VHc1SS1mV3EwYnZFdnRKZ0w3OGF6eU91SmRNaWNUM2hlQ2ZGeDFETG5OUkNlTU5Qb0lheWM3QzEtRDhQempOYlpKS18tckZyWC1lU0p6ZHNQOVozeThSY1dqenB3eWc2THFsOTZBS21rVnRXSGRkdERHTmY1cERvSWROQXc1am1PTlRDQnlwV1c1UGpFakx5WWJmMUt4X3d2Y21UY0JaXzU0d3FXdkZ4SklWY01KdQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Allots 36,937 Equity Shares Under Employees Stock Unit Scheme",
+      "source": "PSU Connect",
+      "published_utc": "2026-11-05T06:10:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkpvcmF4YWdBdVZRZElYYkZPdXdEYk9QZDVSWDdFWlRGUXkydTVqTFZneS1EUE13ZHRZcnBXRkxWd2I5S0pHSDh4al9OeEZ2NTFwbGlldE9sYzRmQ2JGNm9tSVItRDBwN0tyZy1SekxwczVBYmlja0lqcE5CQ2thUDl0aUtVS1RvSVJsaHZNZWRPRVdtSVVsN2xlX3pDSHVCdDVUQ2NsNE41OG1S?oc=5",
+      "relevant": true,
+      "sentiment": 0.1,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "US Midterm Election results lift banking, financial stocks - SBI Cards, Bajaj Finance, Axis, ICICI Bank surge up to 6%",
+      "source": "Livemint",
+      "published_utc": "2026-11-05T05:51:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdHJqS3dYUmhNT0pTSXBfZWM1b09pRHEwUkhKdmQ1aFljc0pTbS1NQ3RUSkQteWZPczRxSnNBZGhzNjFlcHhYVzFlS18wbi05dHF5LURVNVVaa3U3Mnh5X19tUnZVYUF3MWJKTm40RzAtcGpXYnBWU2FjMVBwQ2dCQzFHQkdac2Y5Y05rWmNCa1JqNUJ0SDZ5N2tHNFF0VUVRSXZzT0c4VzVCSHlMTnBLYzd1WHVBWTl2M2VUeFlkTUE1Y3daT3RPVGgzdlVZcFJrZXJJLUFtOXp1SUJ6Y0VZWk5zQ1NKOWUxSUJEbHJRN1dOQXhMdTJaUFBHSTR6YnhSdHdzMWtjTTVVVGxiVlHSAZMCQVVfeXFMTkhxUklrV2tFUlhMWEk1ZThmNW5fQ1hPQ2hJSTZ2cWQwbl9zVHdPbzlJZ1U1cEo0TEF2VUhCWFpEMkNZbTFFUnVCclZQSmhnMnFrSEJFZUM4bTNqM3NCZXdjQ0FoTjJEWC0zTU9HT05DckVsWWNsQ1Q5aTUwLUNMcHhDT19DLU1EeW4yR2hhN1lpdElzd0hDZkZ5dzQ1alo4VFRucnhvcFpTYzFVQlY5cWtsQzBPSDBROXV0a3o1N0pIci1YeXBhWTY0TmNVU3VaWmg0QmZDa1B2ZkhOR0ZjQ2QySENTTkxLZTF3elpLSVJwdDF1S3VZbUVIMEVXSFNrOExOWHJiNFZRVzNpSVcxVDl0OU0?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd. Rallies 3.05% and Approaches 50 DMA Resistance \u2014 A Key Technical Test Ahead",
+      "source": "MarketsMojo",
+      "published_utc": "2026-11-05T05:46:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM01EVDVGWWczejEzMTB2WGxjWkFwLXhvN09nSDc4bXl3ZjdtNzgtVlRXU0tKM1c0elV3aXQ3ZFU2TXFTeXg1ZnlpZ1ByTkxPYXJZU3BYbVdhak85WUZUZmVhZlIxaXIzcDJFWlBmcER6eGJMR0VDbzBMMWQ3LUtrR28zNzNLbG1CaFE3akhORGdkYnhQbmJvb2l1bG13MmdXUFpBRWRfTFFSdlpyX1dqUWVMUDRobEx0dU1tYw?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali fireworks on D-Street: NIFTY BANK zooms 1,480 points; SBI, ICICI Bank, HDFC Bank in focus",
+      "source": "Upstox",
+      "published_utc": "2026-11-05T04:37:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnQyOUVuRGJrNm9XaDJ1UjdXYXktdlZycUo2NWhQczE3cnlfUVE5Y2hhZ01mY1VxVUpDWWRJVlh4RmwwNmxURFRtaDlaM1lyRk9tS2FFQUd0cFZqc2dxaWE2YjBGYmRfVEVWMTJqMVpQV0tPRHRHRG1yRFlzaDlubjZlMnp2YnRkem5mck9yNHVBWDl1RWpZbG4zdnZYQkVmQVJSQkFkODY5Sms5TUItOTEzeThMcGJoM3d4WkN3NDJXNHhwc0ZwUnFQXzF6WWNGeTRvdUtfTXZMY1ZLZHR3TVI3ZjNOVDcweGc?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Democratic victories threaten to slow US data-centre expansion, ease bond yields: ICICI Bank report",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-05T04:18:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNV1JDeUNoQmozZEZEZjdUT3FLWEVkNV9OWjFYWElYZUtmTmtNUnVhbHc3blVvS0p0WklZYkFtSmV5WGhQM2VBNHdfNUVENlJMOEJhdlJtS28tSHRQY0hic0FLTUJpbHJUZk56eU9WbHlEQy1qams2aHdnUERUbTg3T05ybVNpM196NXQ4MXJUNXJfTk90VmJJd2ZyWm1URjFfTnBLRGhEY185TnFvSmtON1hMenNLYkRHcnlsZkdGUFpfb3pqU2FzNUZ3bHB1NDRXR1pGS1NxRFFIZXkwYzlMTnVTNmdnYmtaY0FYdl9tS05jWVZtQTlybHdHWUk3cC1PWG5wUVM2ZHhWSkcxYnfSAZMCQVVfeXFMUHZGNmF4TVdDWmc5R296SXc5LThBdGw4UXRhNUdlWl8xU2NIRUJSRUxQUjBLQ3RJRW9pLTNnZEhWQkFzSFJJRXNIM2hoTFpqZnhmWWJGOHcxUjRMejV3QW1oS1pyRXBwcHVvWGZqTzlHd0xMYnBqeEg2SF94ZU4tWm5ZUExLejhYUjc3eTEwVW5kcU1OdGdpZ3J5M0RzUUR0OFpiR2dfeUthVUlWUmVrR3pmRlNUU3YydHdLSENkN1dvZGxrekhvQ0lWTk5zSFR2dnpVM25DWkpZVGVjQk9kUHA3ci1ISTBPUHIxQkZkdGd0dC1PUlpqa1ZhTHVKX3IzWDZPUHowbmVVUnEwbFBvOXFReDA?oc=5",
+      "relevant": true,
+      "sentiment": -0.1,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SBI, ICICI Bank, Bajaj Finance, L&T: JPMorgan Picks These 35 Stocks Across Five Sectors, Flags IT Risk | Check Full List",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-05T03:48:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVGJrNWRfMFpNQXZ3S1lGLXB0WDR0dDkzTWprcTk5UVk1ZG8tVmJuSjA2NjdacjBJQ3U0NGpqMXkzbXUtWEZMOHZ3UTgyRVNiLW5ZbzhLWUxhdkpNMGZxMk1LbHpfaUgyR2xxbFBfR1d5aVJNczNsbWE5bmhPenVKVG1TOEdQWmVKeFpobVQ5YkpkREZNRUQ4ZXg2VF9ib0tMNVZpRTYxX3FCSldOTlhhQVpyWEhENDM0TzJzSHRaUThjbkxmcTktdFBIbjFmdGJtNDUxalJXOEhDVU9JSHFNeTREbGNPQm9Q0gHwAUFVX3lxTE02TTRCdVowbmpqUEhCbG80N2ZHUGxNeC0zZjZ4RkNxcGkwM0l0a3dJSWVEOGI3NFB2ZWJ4MC15SS1SWS1hejc0ZE5mdHFVYnBWSEtLbGIxTkRobTRUM0tVWGxESXNDVHlQSXdKNjBHOFJxMVRKZ2V3SlVzVXNVVGl1WjBqNkdoaUxxQ085MDV5RjZSREZKbkRYT2JiQVFwcE4ydnZDNGd6X19kLTd2Y3Z4bEZ3RHAtNkFGYmc2WlRMbXEydmF4dXFPVDB4RkF2WVpLUExES1dmWG1VdjA4aUxMR3VHM1VWOG9KUG5qMkdqcA?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank selects 23 students of JU\u2019s Business School for placement",
+      "source": "Daily Excelsior",
+      "published_utc": "2026-11-04T23:54:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOczllLVExVjFRNjF3OGJzUTJ1NU5oWjRNNzliOFU0TFM4ZjhMUE9IRzlGWC1Zck1GSkJvakp5SU1BSDNZRXNRVGNCcWVWbDVuQldQZi1QSEY2UFFZa0RqSkRaRWdCcXlkMTlsS2JKUUNGM09hdWt3U1RJaGpUUURqUmZ2X0lGQXZEQ0gxUWpuMEwtWnZVUFZOdkFUY2VqTkQxRnJjVV9n0gGmAUFVX3lxTE5zOWUtUTFWMVE2MXc4YnNRMnU1TmhaNE03OWI4VTRMUzhmOExQT0hHOUZYLVlyTUZKQm9qSnlJTUFIM1lFc1FUY0JxZVZsNW5CV1BmLVBIRjZQUVlrRGpKRFpFZ0JxeWQxOWxLYkpRQ0YzT2F1a3dTVEloalRRRGpSZnZfSUZBdkRDSDFRam4wTC1adlVQVk52QVRjZWpORDFGcmNVX2c?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd (IBN) Shares Surge 3.8% -- What GF Score of 78 Te",
+      "source": "GuruFocus",
+      "published_utc": "2026-11-04T23:17:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX01oS2xhZnZadFRiWGNTZ0dwZy1Jc1JQRXdaNnZ6R2t5ejg4c2pOYkZMSDhPeEI0MGhwQVVyOHM4ZktqLWVKbllrbVluRXo4T1J4SHJfOEpRSG5jRUJLc0VOSENZS3d1dFhqQ2tWZ2FqRlRFcFdXVXdBTlhxWS1scXZjaHM5WGhzVm5BM0RlaUtORWQyejBZX1JabjB5NXhhWlR4aUttcm9RTHhuR2c?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Share Price Prediction for Tomorrow: 5 Nov 2026",
+      "source": "Univest",
+      "published_utc": "2026-11-04T21:24:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR3RHUzc2SEZQNFhhUGJ4Mm5CQy1aM1NfdW9WUW5BeUtacHpTLWgyREd1Mm9seHhwaGRtcjFDN3pEZmFpVG1qTERSMHhuaVJfZks1dDVCMUNKelFVclZlX0F4b1U3bXgwbF9UdW1hMlRsaW95UjI4NzY4TVBPUnNCMHlBclhZcXR0SUhHVVZnYXc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "3 Foreign Bank Stocks to Invest in Despite Challenging Industry Trends",
+      "source": "Zacks",
+      "published_utc": "2026-11-04T15:37:00+00:00",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-foreign-bank-stocks-invest-153700762.html",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali 2026 Muhurat Trading stock picks: Eternal, ICICI, Titan, Radico, 7 more Samvat 2083 stocks by Shriram Research",
+      "source": "Livemint",
+      "published_utc": "2026-11-04T13:27:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOR2pzbVBkbXhTcjk5WDhfdzRKa1U5WUJNR19xMmE2VGd1NFJFdDdpUnhULXRjN3pnbDBCelNxdGlKVFZmR29MdUNyM3h1V3BfZWYzZUlPbGFlX0pPanE2MDh5S0s3RTNvYjByNmtxR0FBNnpWRzBGTVlDWVRGeUlDaDVaWm9MSEZDUS1Kb2JxQkx1NlFTTGZDeHFsZHhkeGRqYVR5TWdnZVhPYVRYOTVmLWUzejRlOWw5NjhqcUpURC00UlExUkdxSlcxd290bVBkdWU1WVoyREJnd3NBamdxNnR2R0h4Ri1wZk1SQnF2NUhWV3I3Y2s3TlhiV3lKbjVnSFlHVV9LSkphQdIBjwJBVV95cUxNLVNJZ09GVnczOVI4Q0ZjTmsxQWRvVGVPTl8xaWtoYlM3bWxjeEFRUHp4dDh0QmJFSTc1RUNDajUtcFpYQlRvX3RCUUNBTXVGcUpNbGFmdG9RLW9NeUJxbUY3N0JhS2FKQ0hqeUhudUNDc2pmbWI5Q3Nad1cwX1Y4Ul9teU5tT0pGZURQWDI3WHFwRVpoLWhpOUdPZE9lRk9YS1VwTjhUSHh0bldzd1pRLTc1WmthNXVYRExaM1EwNnd0cWRrYUpFUExUZjZSM19oUnhMLVUwTThIaDFzdFp3UzBUWWYzd29qMXBVSmwtd2hLMm1md1N5ZXdpeGtMY21fY3dwY0tNZWdIS1k3X2tZ?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali Muhurat Trading 2026: 5 technical stock picks for Samvat 2083; ICICI Bank, Bajaj Finance, Reliance among top Kotak Neo recommendations",
+      "source": "ET Now",
+      "published_utc": "2026-11-04T12:02:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQN0x3LVF2ZXVmbjVDeVB5bnFCYWtLVEk5dmpSdHdIT2xYeDFnTnpGcjBRN0lNY2JqOGN5RnNSQl9GRmlhTHFwQjltbmxSNkdNaGZLd243Z2I2SThOc3ozVVlfQnlTMVl2OHZTWGdqUkJCLVRWSGdjTnRiT1hLVWtSYUtyM0JDNmludlBtdENRU0VHY2hSaWN1dGJiUC1JQzdNZl9UaDMzVzRxdHlGZ01XeV9ta1V2RDN5ekJkWUNpZGJRSXNVZGRUY1RPZTgtcldFT2cyY2dLRDgzdmZYejFRM2F1T20wSXVCU0VVNEQ2Z3Y4UlJsdTQwYjZpVDg3a25aWC13Qmc3WVJqUmpMNWtPdVhHaE0tdENx0gGeAkFVX3lxTE1fRy1nSmVreGR2MUVwTU9KZk9ReFNEMkZwZzlmQWJxX1FwQ0Z1dVplVmc3MDcwdWt5Rk1uRjlHcFNwU1pjamlVcXFiaGNnQXQ5bThWbHIzWWVlYmEzbDRxbWNmUThwelFpLXkyYmRfUTJOZmFlTDRVVzR1VXlCTTdXQUhQQUFWcktkeS0zZWFGSzJLN1VOX3ppYzJMcDV2ZURNREFKRkI4WXd4OGNaZ2tGcmNGdzV5ZEVNeEdjOTBKb19CZmJmWXZzLUJ4S0dhdGU5aDJRd1BqWXpEaVduNWRld29EVlhJOUlVQkJWcFgxN2E5OE1xTmZWNGtNdWtXUjk4b2JPVGRxVlZQT3hEdDJmaFh5d3pfbFBfQWdvOWc?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ICICI to IndusInd: Jefferies\u2019 banking picks amid ECL transition",
+      "source": "The Financial Express",
+      "published_utc": "2026-11-04T11:44:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObERWOHJjQXd1RzhuZ3VXNWRkWWpxU2FmWEh1TWh3Nkp5eHltRm05Tk1IdzluODdIa2NYOUVVNTVPMmZobDJsdFFTZjBEV3JpRjNobWNUQWI1SElSb2ZDcWJRUWhhMnFVRmFuUFFRai1hWEJHYTBnUGdycWZ3TVNiaXpBQVpMbEhWSWM1V19ZNlpJT2x2NUVadDJzdXkwNnM2bW90Yi1GdWh4R3lJWWJ2MnBsdFl1NDJpby00bNIBwwFBVV95cUxORHR4R2poVzRITTVLUjlDb0VWUEdhelpVcWtuVWF0dzVEMHBYeWFqN09ldkxfLVhkZURSTElwSWF1RzA2bXRuU200NG5wc0JnUWJVU3UwVU9oRzBqWXpIRm8yd1VLcWw3QVZXdWNKa3pZRldsWWt4d2hmaTlrVTlGVHNnYzVwdWhZQnpyRVRVWE1EeDY4Y1gySmpGRWUyUFoyY1dkal91bWNOel9IS3JPdXdpcnVzSndIblVvRGdoelhCbTg?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Former ICICI Bank Executive Kapil Makhija Builds MinEMI to Fix What Most Indians Overpay Every Month: Their EMIs",
+      "source": "The Tribune",
+      "published_utc": "2026-11-04T11:02:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEhOc2oxRnFqVUNLVU5sUzlLTFVQNjZjSTM1d1BaWHBObWx3RmR4RVBkN3J1NW5NOElpWUdSSlhfT2VSdlVTRVFvcmVGMlJQWWN5YzJvSGRSdDc0YkV3enRWRDQxYVY5VlUxbk1kRHljc2ttblE4ZHlrRmR6a19IRGdKX0piOGZnQ05mQ1kwd0NhZHZJb0VTM3g1TlhBZzNqV01HOHRRQkVnbnV0UkZmWUh2ckJlRXlRYk1ubjZhNDZZdFVHMEJkbTJlN2FHbWxDcFQ2LXlET29uMmZnamJiYXF4U1lVZDdfSTVN0gHvAUFVX3lxTFBxMXlYSzNvQnFSRWt1aVVtX3pzQW5TbXhKR05FTFhMd0ZQczNMbHppMURWZ2dGQ0pIZTFoeC01N3BPZ29uYWFvQjRtTHJvNHpVSHl6NGwxYXhLLTFONk9veXJOMW5POG91TzJ4SkxxcWI0MWYwem5yRXZlNFdTN1hUbnNMeFVEYy1jOHhGRF9uREUtVTBLSnNkZ24tVHZ4dktmLVk4UUczOW9LLUlzb2FXMHl2MEsyVHNJSGtma2M1ZmtUbGRCZ2JlWWVXVFZaeXhjMkFUU2tIY0RYTVhVVFdlM2tuWHI5My1CZ0xYRkc0?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali Muhurat Trading 2026: Angel One\u2019s 8 Stock Picks For Samvat 2083, ICICI Bank, Aarti Pharmalabs Among Top Bets",
+      "source": "Outlook Money",
+      "published_utc": "2026-11-04T10:08:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORm5raFVaU3FFUkZqM2EzTW4wb3R2djFxcXpSTUdpd0FwQ3d0WHllS215dndzckhoNC1VVXNiY3BCMklQRk1PaFlUNzEyZ2RUSmgyZi1YanlxZWlVWS1kSUI0b0p1RnIxTmc0aHE2MGtTNVZDcVd0aWxfYU5McUltNHBCdkJzSHNmaTh5RFlYd1NfOEVtOTlaSVh1Vk1ORzN40gGuAUFVX3lxTE40eHVPNEpqaXRYMWR4Uy1MN1pnMDl1MDU5cnh3VVdBLWJVVkdrSm9lQmVqbG8temU4S2R4M0YtVFAtS1RGQ29wQnRPbl9sanpBUDNmNHdpc3lIU1gyRzRSYU5ETEJGS0ZxWU5obTBPQ0NsLUI0QlFWMG5wZHFkanF3WFcwZ2I3NnVpS2psMWNYb1dYSVpIdmM4UlBYSFhqaXJ4Ykp1VFQ0YXk2c01lZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank's Capital Gains Account Scheme: Check Interest Rates, Limitations, Features and Tax Benefits on Uninvested Property Sale Gains",
+      "source": "Trade Brains",
+      "published_utc": "2026-11-04T07:26:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZVdsd3NmTXdYX0JlVS1MRU9JbXYzQ1kxYzhuTVFvZ29qTS1mOXh1N2xua2lGbS0ybS1Ddkl5ZFJOOG1VTkIzOEpITThuOXNUdUlyRXc4SXRVbHNpWnFkWXFnYjJTdER5OGZ3VEU5NWMzQjVyb2tBaEZxOW12dWFfaDBkRHBmZmdPZU9NbXg3RXpBTDh2aGpNV3JJQUdHeHVrSURadzRqYS1jMEdPVy1KZnFRcUVKZDlZRGUzcndQWFdEbV9IUnlhc2JodGE4MGR3SjRJOFY0MnE4bXFMeXFMelh6SlY2UUVwbWpydXJ6UmUtM1ZnNl9KOVFXUC1YU3lV?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI sets up new committee to review forex, bond and money markets; SBI, ICICI Bank among members",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-11-04T06:57:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdHdUR0tuRmMyT3FoMEM2LVRYVjdmRTF4UUZGYjdPOVJFbWNsTDZsOVh0X0I5OVcwcERwUFZMVUhrbm5jZ2hZRTJ6RFFoN2tWYW9rdGpoTFJScHVsNkp0dHlMNlItck03aTFWNV9icUU1U0lJMGE5VEV2dUY0cFRsLW9RNjZ0U1RoQ01ya051N1ZTYmlZQkVLRW9tck51bG9QWF9NSEJUQUlKamlhVkdON0dta0lzRlhjb3VyREJlTzBfWktRSUtpYmV4THgtYmp6djNEa3k1R3BtNlZ2UE9SZkxQU0PSAeoBQVVfeXFMTWZTdEpLVnFNSXlmaDhrSzBubG04RzJUOFpkWGh0WkkzSXdfWlNNai1PdEU4RmRFVEw0TWwxeE1UYjFSRVZFYzRIbVNnLWJGS0p5YkhhUUlEVDhaNm0xWnQ4Ump4ZTRySEw3RkRCLUZpZ0I0NVJHblZnRGVOX21fVjRuTGZfVGJpWTNzN2poay10MjMxTnktdmpzWFU0YTdSUWN4RzlTQzlKaWl0ejhQWVRlZ0tHb0xyZG5MelhDSHRLdVVZV2wwQlU3b1U0dExwNU5SOWVITHhkT0d5ZXRYMWZsZUFmT2trckNB?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali dhamaka stocks: Eternal, ICICI Bank, among 10 with upside of up to 34%",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-04T06:36:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeG5oR0l2OHFfVVdKV0Nia0llandDb1VEZGdIOUNmQzYzTXZ1UkxFR3VjejdWMDNZdHdCQW1tQVV1NlBoYWdUckF5bXJ6eGt4N0t4WEE2Q3pBRXJEZHNaTzNZSE5VLWwwY3JzWFhHbHBuaUtvY2NtMzVWVmxxN0x6ZjhWZnk0a3VXQ0RvNXlmVVduUXdOUGdLSi1xSFF4UG8yOEdUcVZLMVpkQ0VWSy1jelFjX2FRZHQtY3JiZ0h3WV84VHFkWEc5ZEtfUVc2elEtVkZaWHQtdV8zWHpEZWx2U3pZbTNCaE1YbXFJWlhkSQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Higher in Tuesday Trading",
+      "source": "MT Newswires",
+      "published_utc": "2026-11-03T15:49:53+00:00",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154953483.html",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "9 Stocks to Buy for Diwali 2026: Bajaj Broking picks M&M, ICICI Bank, Adani Power; check upside",
+      "source": "CNBC TV18",
+      "published_utc": "2026-11-03T14:57:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblMwMnJWQUVlWE5oZGdLdnMtQmRvOWZqVmlTQ2s1aG1Da3p5N1pNeEh4MDJsVUlsa2ZRMmJGUUl0ZmZZT1cwRVJUZmxqMENFNUdxQzFaU3BpX3BNd3dKbEotTDBGUVM3dzVGVFVJUWdxNV9zLXZNVTFMZEJvZUFBT2Y0UVJiUk9Mb29OZVoxVHBoQXRVZFRYSlVqYlBxNk81U2FaSE80ak9sVENXSF9NSURCelZWR3BJRUgxZERHazM3dmfSAcgBQVVfeXFMTzhuaklvU0VGakU1TkgxX1JMYVVQUjdYaGRlZ1oyVHNiNzRocUItU19OMUhWSGltSndMcWllRWtnOEdFbkFXaFRYQWlZb0RHaFpsRmNTZUd3OUZlbzVsTGZFREJFVXI5eVJMbG1CdkdxMTNEdUJoSW5MSnZ6SzMxenUwa1k3NWFpV2VWZXE2OG5MX1diVEFjVkRMdHJRRlE2SEsxdmpJZXd5NmpDN2JQLVlTeHRmSmpJT09KSk1rbFhSdG5UeGJHRDM?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Limited (ICICIBANK.NS) stock price, news, quote and history",
+      "source": "Yahoo Finance Singapore",
+      "published_utc": "2026-11-03T13:24:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EVVRSQlplSWZyOFo3czdOblYtX2JISDdXVDk0S3F6OVh4TnlTTEtHX3VmV0l3djlZb2JrZ0tMSXdmOWpBSWZPVzlSbGd6OGRRUllzeTJJZTNHTnNz?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank, Not BEL Or Bajaj Finance, Has The Highest Target Among Kotak's Muhurat Picks",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-03T11:34:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUk15b0RfN1ZZdHNQd2ZHdmNLVkw2aU9VWHV3UVFfYllRMy1yenRjVWQzY3U1RS1MelF2bmV5b0VhTzUwZW9DREU4VnBsd0Y0MFZ4ZTd0ZHFDY052VGhYWXNaWHplSVYwNUdrcmp2YkFDRDVBV3lkM2RqbFhKa1ZqZFJPY204ZUI4Y3dsUW5OdkFrdktiUDFjVW5nN1lpSk1ObkRpRkNXckVyenZjZWt0c1BQeXMwRGJJYTA4X1pHNXJQVURHMGNjbNIB0AFBVV95cUxPOVdVWS11QURKaXJnSUZWRU5hci1OQ3Y3ZmRwUEpQaEh2WWUtZlVmWW4zOTBZYTBGNGZZQkhnbWNzakFKUjhKSTVwNGI1VmV0aHM2WGVyUk50NGpXX2hTOUFCSG1nbjJ4enloWWpPZHlpcUlkd0FSV2FmNURFOXB5Z2FRS241ZV8xS2h6NDJ5MlZtNS1hX0M3NzRLbXI4UnplZjM4WTRtd3NzM1NyQUZLeGNfTGsyY085Y3kxd0ZsRVNXMnVOd1FXZWpiQUxLWFp4?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Nifty Private Bank index gains 2%; HDFC Bank, ICICI Bank, Axis Bank shine",
+      "source": "Business Standard",
+      "published_utc": "2026-11-03T09:34:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2tXNmM3WVhtRkNQM0NPaFdCdFB5ZlhPNmw3NmZTZUhBOXN0cE0wRmRHckRzYWVqMThoNDM4Vmx4eEZpNERsTzh0OGtNUklHckl1QW40Y2NzTWo2RDk5ZnFDN0VDLUdtRmZoZlVUTFBMQ0kySXkxd2wzaW1QT0trcGZNZnlMQWZNdG5iVkJVOS1JV1Y1bnNDYUE2cUZ6TmdMRFJvQVlCN0R5UmdWV2YyQk0xTl9OVm4tR3VjRF9hQmJkWDR0RXJaaHdEenJHaHBtSlHSAdcBQVVfeXFMTTNxZWdLRk9uMTNzaDJVdUtQNktMOWRTOTctckRYTUZfTG5tang5NUQwejBXcUN1Rm1ZTnhBRDJ3Ulh4MENtYlN1TUZqUzF1bVo3ZC13NkNNN1pLbDVGcmhVaWJZbVZ5Zk5JM2RhYmNIRDNPb1cyc2Fod3dEQ0c3S19HdG9pTTI2M1dHaEhieTV1dWJMcDNiQjMyU0RsZlcwcFE4VUN4Z3pqeVY0cms2TW1tcjlQdnd5dkNkTTg0LTNLZXdFMzlaQzNVTUhWRVJhd3dDQkZ1SDQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Allots Shares Under Employee Stock Option Scheme; Shares Up 3%",
+      "source": "Moomoo",
+      "published_utc": "2026-11-03T07:39:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObEdTODAtMUZIYURJU08tUHNDYlh1bVBCOE1VT1laUFlBSnlqZHo2Si1zV0NydW5ES2V4UDZVdlF0MFdGVGZtQlFTVi1BV2U5RGFZUHhUdXNtVkljMVJCVmVDRHRQY2hpa1VOSGk0QWtGX1BWbndCMm9OZnBMVnN4cG5DSGhjUGpfTlJDR0U1Wmo1Y3YtNkk0blBPVmd0NkZ2SmdiU0hnQkg5Yk00elJV?oc=5",
+      "relevant": true,
+      "sentiment": 0.1,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank of India revises FD rates, launches 500-day deposit; ICICI Bank offers up to 7.20 percent interest",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-11-03T07:30:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcEtUNnMwbHZaZnhmdzJJVXZab3Znc1BUVW1MbEp5MTVZYjBZZEZDQk5Rdl84eHBob0xlQ29yYmlGWGxSLWgyVXpadmE1bzlsQ05zVFUzTWN5UF9BaFdLSDNqU1Y1WDlfWnNoZElDTWQzTTJUMTdMV3pmNmdoNUZjUGtyc05DYU93cVN6NjlvUjU5U1ptbk1NOWxnVXFucEtKWURrVVUzWlJGX3J0YmFBTS1hQWRPV0o5dnF0bTF1a2JSN0RGSVhDZ2llbjUxTlhYSTFVUDJjbHBLc1A5cVNhcjRZYlFKMDI4Yld1MzVXblk0YmNMeXhUdU9LN05lTnVvTWJUZUd30gGLAkFVX3lxTE0zY0E2VzFNNjhna0pFdDNpQUZGLW5aV3ZsMjhMWEloemJxTlhHUVQ5OWQ4NXN6MWNvemRuY0t1c3pZTEhoZlVIa0lvZGxzbllicGgyUk9GZVJKLUUtNFZxU085ZGZ2SV9DZ1JOX0ctMkpmdVV3WjFXb2pwUGJQN3JTOFl1MlNoOHpLbFZzblhKZUpZeGVEUlRCcWlKeWZ1eXBkZGRscU5DQzFMUS1JTkp2a3Q2NzljUE1WY1ZnVDZJc05sdlRESjBGVGQxZXpGTG13NjJmZWp6QVVzT0Vjc3J1UkNUTzhiUkRJRW5JOGdMeV9SN05LZDFIeXpxX1I3SjVWZXBDWGxrX05Kaw?oc=5",
+      "relevant": true,
+      "sentiment": 0.1,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali picks: Adani Power, ICICI Bank, M&M CG Power among top stocks to buy; check details",
+      "source": "Business Today",
+      "published_utc": "2026-11-03T06:28:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY0cxR3VQdDk4ODZnamZYRkZTZkNIT1dhbURsUEVMVjltcERvLWp3eVVfbDd5ZlFtOGwzM09Ha0JXbS01VmxpbUdPT05wRFhPZUduZzBfU3JDcGhRTXFVZzU2ZThJX09tUXh5Zlg0VVgyaVFwTkR0UDdZMHowSDZ4aVZZaWwtaHpTMjh6SnpKSUEwNUhxWFFUbVVXU2ZBVVdKckxnWXphWHNFekJ3ZXJGMm5VclJONWtyaXMwcmRZWlhBSGYyZWdaWmxjbjRzcDJwZU41VzVpMHNlSG1JUjZYSERybU1VaWJ0SWs3c0VIX1NtaW9Z0gH6AUFVX3lxTE05NEpZMnRqVmplal96cDdyZlFIN09hZTJsa1BiS2xNdm9WVzR4TTZZNmxaNUFwYzh6M0xWNm1yOWZtZUFSUG9JOUlwOUFIbWRWLXA0Wms3bkJOWlduSXNRdFRfVDZNb3h5VDhHRWxYeEdteDJSXzhKbTNrR1ZvMmR2TVRBcjhpeVkxQU9KLXE2Qi16LVBfYjgzUzU0dzNwbV96RDRVTnUzRTFwOEZ3UGh4eERvT1d4cUZRRGVKaXZ4Ui12SGo5ZE1rN05MZVAzWUhkSllnU0hhbEhndVVNZE5KbFFOaDI3SGpHU0JXMUctMW5XREhDeDlDWHc?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali stock picks 2026: Angel One's 8 \u2018Shagun Ke Shares\u2019 with up to 32% upside; ICICI Bank, Shanti...",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-11-03T06:05:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZV9va0ZVbXRCaXZtVi1JMFczNHl3WlI4THBGYnJtOHp5djNjQ1N3aC1MVDAwRWVrc0RaWUxpMk94WEZxZDlmY1RwZDI1czJpM2NrSk1tcjZ4Ny1xMzMwYl80eVJEVmxSMkFHUHd1REZGYWg5elVkUGpxbHFmZHV4WG5iWXY0bXNHaE5KUXhZcVRFYzdra2ktbFBmT01hRjYwUTVLY3JFUGNsbzRmb2tmS0FaRGZxMzRXNm5nSmpMVWdDVjVhLTMxU3dBQ1R0aWxDUVBxZzRmZTJfTU44aDZUaGl4N0kxWUtQckpEMnpDa0VhdFVrQVA1UHVtWXNSTWdVSmVuY2lSV1RUSnFocDJBRUZR0gGXAkFVX3lxTE5FV3lTdkxFWGpWVHIyT2h4UGp0ZlBGSFdXdmg0VXN5eHIxbHE3RkZFSnRka0tDUjFUMk5BNVRhU2VHVm1GcG0xek5hZkp5RUtvdzhuYTAtOVZNYV9VZGlscUk4NGp2bjFMWFBoOTlRTGs5RlBwM0FDenFlUmN0NFc5eWgzMHBldnZ5Z01mS3FmcFdKY3BhU2txVE50cmFxRHJvNlIzREpDdUZHTU9IMlRrRmkzV0F6MVlSWDdFTndqZXgzWUJ6RW5fX2FrbHUzbnVfOHhDUGdnYXYybzFmZEV6RVZGX2tzT1NEeVJpcWcybE5GZ2hMc2JHaTd2eVBrU244cWFhOVVEWnItUTRyVXVVTks4WE5Hbw?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank FD and RD interest rates for November 2026: Latest rates and highest returns for general and senior citizens",
+      "source": "Upstox",
+      "published_utc": "2026-11-03T01:59:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPU3J1bVBwUDZLU0VtaUVCUWN4NDQ5bmIwYXhJSU1wa1J6TlR2SnFiTWVySVJoRkFBTXplT3llOUNhb2xQMEVlVTd4NjBYWFVNaGRlMy1LRVZJLWpwMW1LTnVJU0RhYTV6SXVWNXhDTkZRVTZNcTRwZ25MMXY3Y0tIcU5FN05vNkRBNlh6amFUSDJGbXlacWExY3V2Xy1MWUNaWWNURXA0NDdtS08xYlhkaGZKdTBsU2h2ZmU5alZ1WThxN0ZQRjk2WmFkcTFBZzlBU2xOYnBMTzN4c3NMV0R0cWU4U0NTMG9ldG96MlZhWTRsX3lsMW5lOW9hdXExMW9oN0RKajVEM21WUmRrRWtNaWVidw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "UniCredit and ICICI Bank sign agreement to support trade between Europe and India",
+      "source": "www.marketscreener.com",
+      "published_utc": "2026-11-02T13:00:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbFBaRk5nUGxDdkFUQU81N1praENLaW1ZM0lQdFlsQ2lIZHB5NG1idk5OTlhnY2thY0JQX1NaXzNxemZ1bklZWURjUHlkdkdpSkRjeXdjWjVkSHJYSFcxa3RMNjBwMXpxcDRneU95RWtYVExaUzJyZTBLMThxTHJDTWlpUXNtT3ZtaVpoRWdpQUVzNnF4aExEaHg3ZnN4LTZLZHlJaDJMM0FDbGRMc2sya3dOTkRuNXBINlFGMmZrZUQ2NDVaYk5NWWh3VEdZSmc?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.099,
+    "strength": 0.995,
+    "material_count": 1,
+    "view": 0.098
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-05T12:40:17.419353+00:00"
+}
