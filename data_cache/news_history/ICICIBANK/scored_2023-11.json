@@ -1,0 +1,524 @@
+[
+ {
+  "title": "ICICI Bank opens a branch at Domestic Tariff Area in GIFT City",
+  "source": "Cityairnews",
+  "published_utc": "2023-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance SBI Card announced \u2014 here's a look at key co-branded credit cards currently available",
+  "source": "CNBC TV18",
+  "published_utc": "2023-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How ICICI Bank customers can make payments using the digital rupee app",
+  "source": "Livemint",
+  "published_utc": "2023-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank customers can now pay using the digital rupee app: How to make payments via digital rupee",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Introduces Digital Rupee App for Direct QR Code Merchant Payments",
+  "source": "YourStory.com",
+  "published_utc": "2023-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's 'Digital Rupee' App Now Allows Easy Merchant Payments Via UPI",
+  "source": "Goodreturns",
+  "published_utc": "2023-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank stock check: Is now a good time to buy the private sector lender's shares?",
+  "source": "Livemint",
+  "published_utc": "2023-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank customers can now make payments to merchant QR code using digital rupee app",
+  "source": "Zee Business",
+  "published_utc": "2023-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HPCL Partners With NPCI And ICICI Bank To Enable UPI-P2M Payments Via HP Pay App",
+  "source": "Sarkaritel.com",
+  "published_utc": "2023-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.4,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reed Smith secures US$2.2bn judgment for six Indian banks in loan default dispute",
+  "source": "Reed Smith LLP",
+  "published_utc": "2023-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank advances digital payments with QR code integration By Investing.com",
+  "source": "Investing.com India",
+  "published_utc": "2023-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.3,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Divi's Labs, Eicher Motors top gainers on Nifty50 as market extends gains; HDFC Bank, RIL, ICICI Bank most active stocks on November 6, 2023",
+  "source": "Business News",
+  "published_utc": "2023-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis Mobile leads among mobile payment apps: Hansa survey",
+  "source": "The Hindu",
+  "published_utc": "2023-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "95% of customers use digital banking: Bandhan Bank CEO",
+  "source": "The New Indian Express",
+  "published_utc": "2023-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banks see pressure on NIMs but asset quality improves",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "58% of consumers have reduced cash transactions since the pandemic: Digipay CuES 2023",
+  "source": "Indian Startup News",
+  "published_utc": "2023-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jaiprakash Associates defaults on Rs 4,258 crore loans",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SIRC of ICAI organized \ufffdCoastal MSME and Startup Conclave 2023",
+  "source": "Mangalore Today",
+  "published_utc": "2023-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank customers can make PPF, Sukanya Samriddhi Yojana contributions via NEFT from any bank",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PROTEAN EGOV TECHNOLOGIES LIMITED IPO: ALL YOU NEED TO KNOW",
+  "source": "ICICI Direct",
+  "published_utc": "2023-11-07T20:46:24+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI approves ICICI Securities as ICICI Bank's wholly owned subsidiary",
+  "source": "The Federal",
+  "published_utc": "2023-11-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank receives RBI nod to make ICICI Securities a wholly owned subsidiary",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Enterprises, HUL, Adani Ports top losers on Nifty50; RIL, HDFC Bank, ICICI Bank most active stocks on November 9, 2023",
+  "source": "Business News",
+  "published_utc": "2023-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Biggest Emerging Markets Banks 2023",
+  "source": "Global Finance Magazine",
+  "published_utc": "2023-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI fines ICICI, Kotak Mahindra banks over breaches",
+  "source": "Law.asia",
+  "published_utc": "2023-11-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JP Associates inks pact with ICICI Bank, transfers 18.9 crore shares to reduce debt",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jaiprakash Associates to give 7.71% stake to ICICI Bank to settle part loan",
+  "source": "Business Standard",
+  "published_utc": "2023-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "JP Associates inks pact with ICICI Bank, to transfer 189 million shares",
+  "source": "Business Standard",
+  "published_utc": "2023-11-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jaiprakash Associates seals settlement pact with ICICI Bank, to transfer 18.9 crore shares",
+  "source": "Livemint",
+  "published_utc": "2023-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Admitted Claim versus Security Interest\u2019; NCLAT determines how to distribute Corporate Debtor\u2019s assets to Secured Creditors",
+  "source": "SCC Online",
+  "published_utc": "2023-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Share Price Live Updates: ICICI Bank Closes at Rs 934.45 with 0.84% Decrease in Previous Day's",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jaiprakash Associates-ICICI deal: Other lenders write to private lender seeking details of pact, says report",
+  "source": "Business Today",
+  "published_utc": "2023-11-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fines levied by Reserve Bank of India on various financial institutions quadruples in FY24",
+  "source": "CNBC TV18",
+  "published_utc": "2023-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Share Price Live Updates: ICICI Bank Sees Slight Uptick in Price, Registers 0.11% Increase Tod",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Share Price Live Updates: ICICI Bank Sees Slight Decline in Price, EMA3 Holds Steady",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Moving Averages Updates: ICICI Bank's Stock Price Surpasses 100-day EMA, Reaches Rs 944.15",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brokerages expect rise in lending rates due to RBI's new norms on personal loans, credit cards",
+  "source": "CNBC TV18",
+  "published_utc": "2023-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Share Price Today Live Updates: ICICI Bank Sees Slight Increase in Price, Average Daily Volati",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Share Price Today Live Updates: ICICI Bank Closes at Rs 921.85 with -3.13% 3-Month Return",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI\u2019s tighter unsecured retail lending norms pose no threat to HDFC Bank, Kotak Mahindra Bank: Analysts",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vinay Tonse appointed as SBI MD for two years",
+  "source": "Livemint",
+  "published_utc": "2023-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maintaining multiple bank accounts? Now, get single-view access to all transactions",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why the central bank has increased risk weight for unsecured loans",
+  "source": "Livemint",
+  "published_utc": "2023-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GMR's Goa Airport Secures Rs 2,475 Crore Debt Funding From JP Morgan, Tata, Among Others",
+  "source": "Swarajya",
+  "published_utc": "2023-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra govt depts allowed to transact with 8 pvt banks, MSCB",
+  "source": "PSU Watch",
+  "published_utc": "2023-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Private sector banker Manoj Muttathil Ayyappan selected as DFS joint secy",
+  "source": "Asia Insurance Post",
+  "published_utc": "2023-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jefferies adds Coal India, Honasa, Eicher Motors, HDFC Bank, IPru Life to its model portfolio",
+  "source": "Livemint",
+  "published_utc": "2023-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Industries, Tata Consultancy Services, HDFC Bank:\u00a0Top 10 companies in terms of average m-cap - BT500 List",
+  "source": "Business News",
+  "published_utc": "2023-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "GMR Airports Secures Debt Facility Worth Rs 1,950 Crore From Chartered Bank, JPMorgan, Deutsche Bank, Others",
+  "source": "Goodreturns",
+  "published_utc": "2023-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kalyani Mahila Nagari Patsanstha to launch Visa Debit card",
+  "source": "Indian Cooperative",
+  "published_utc": "2023-11-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's meteoric rise: Here's how the bank under MD & CEO Sandeep Bakhshi climbed up the BT500 list",
+  "source": "Business Today",
+  "published_utc": "2023-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Indian Banking Sector In The UK Witnesses Dramatic Changes",
+  "source": "Open Magazine",
+  "published_utc": "2023-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DFS Secretary chairs meeting on Cyber Security in Financial Services Sector and Online Financial Frauds",
+  "source": "PIB",
+  "published_utc": "2023-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Stocks Live Updates: ICICI Bank Closes at Rs 929.4 with 18,038 Shares Traded",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "YES Bank shares views at India Financials Conference 2023; key takeaways",
+  "source": "Business Today",
+  "published_utc": "2023-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Finance Ministry meets with banks, payments companies to discuss online fraud",
+  "source": "MediaNama",
+  "published_utc": "2023-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iVIS partners with ICICI Bank to Boost Security with Advanced E-Surveillance Services",
+  "source": "APAC Media",
+  "published_utc": "2023-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank gets BSE, NSE nod to delist ICICI Securities",
+  "source": "Fortune India",
+  "published_utc": "2023-11-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

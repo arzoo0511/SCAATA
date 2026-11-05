@@ -1,0 +1,425 @@
+[
+ {
+  "title": "Indian Oil - Aims To Increase Its Share In India's Energy Mix, Reduce Its Carbon Footprint: Dolat Capital",
+  "source": "NDTV Profit",
+  "published_utc": "2023-09-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why energy giants like Reliance, Adani, Indian Oil are betting big on the humble biogas",
+  "source": "The Times of India",
+  "published_utc": "2023-09-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Scientists unravel genome secrets of Indian oil sardine",
+  "source": "The Hindu",
+  "published_utc": "2023-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CMFRI scientists unearth genome secrets of \u2018Indian oil sardine\u2019 fish",
+  "source": "Telangana Today",
+  "published_utc": "2023-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Marine scientists unearth genome secrets of popular Indian oil sardine",
+  "source": "Business Standard",
+  "published_utc": "2023-09-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "About Indian oil sardine:",
+  "source": "Vajiram & Ravi",
+  "published_utc": "2023-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CMFRI scientists unearth genome secrets of Indian oil sardine",
+  "source": "Deccan Herald",
+  "published_utc": "2023-09-08T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fisheries institute in Kerala decodes genome secrets of oil sardine",
+  "source": "The New Indian Express",
+  "published_utc": "2023-09-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India-Russia oil trade and investments\u2014an evolving facet of the historic bilateral",
+  "source": "orfonline.org",
+  "published_utc": "2023-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Discrepancy in April-June quarter fuel cess collections, reveal RTI documents",
+  "source": "Onmanorama",
+  "published_utc": "2023-09-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PESB picks Alok Sharma for Indian Oil's Director (R&D) post",
+  "source": "PSU Watch",
+  "published_utc": "2023-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Alok Sharma selected as Director (Research & Development), Indian Oil Corporation",
+  "source": "Legend Officers",
+  "published_utc": "2023-09-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil firms explore using stranded $600 million to buy Russian oil",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-09-14T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PHL, India eye possible joint oil, gas exploration",
+  "source": "rpnradio.com",
+  "published_utc": "2023-09-14T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil greenlights Rs 904 crore additional investment in Hindustan Urvarak & Rasayan",
+  "source": "CNBC TV18",
+  "published_utc": "2023-09-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India, Mongolia review oil refinery project",
+  "source": "ET Auto",
+  "published_utc": "2023-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "In a limbo \u2013 story of the mega refinery project India, Saudi Arabia want to resuscitate",
+  "source": "The Indian Express",
+  "published_utc": "2023-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol, diesel prices on September 15: What are today's fuel rates for your city?",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-09-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MotoGP Bharat strikes sponsorship agreement with Indian Oil",
+  "source": "SportsMint Media",
+  "published_utc": "2023-09-16T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u2018Crude\u2019 impact on economy: $10 rise in Brent widens India's CAD by 0.5%, say analysts as oil sizzles to 10-month high",
+  "source": "Livemint",
+  "published_utc": "2023-09-16T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FOWE's patented water emulsion tech to clean dirty fuel for Indian refiners",
+  "source": "Business Standard",
+  "published_utc": "2023-09-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How much remuneration did heads of Indian oil and gas PSUs rake in during 2022-2023? An analysis of compensa..",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-09-20T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rupee gains on RBI intervention, easing oil prices",
+  "source": "ET Auto",
+  "published_utc": "2023-09-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What is MotoGP of India? Check how and when to stream races live",
+  "source": "Business Today",
+  "published_utc": "2023-09-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fuel Prices on September 22: Check petrol, diesel rates in Delhi, Mumbai and other cities",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-09-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 kg Indane Composite Cylinder re-launched in Kohima",
+  "source": "MorungExpress",
+  "published_utc": "2023-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IEX divests 4.93% equity stake in gas exchange platform to Indian Oil",
+  "source": "ET Auto",
+  "published_utc": "2023-09-23T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol smuggling via tankers in attempt to bypass customs",
+  "source": "myRepublica",
+  "published_utc": "2023-09-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After BPCL, ONGC signs up HPCL for sale of oil from Mumbai offshore fields",
+  "source": "ET Auto",
+  "published_utc": "2023-09-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors delivers first-of-its-kind Hydrogen Fuel Cell powered buses to Indian Oil",
+  "source": "Tata Motors",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata delivers first Hydrogen Fuel Cell bus to Indian Oil",
+  "source": "Team-BHP",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil unveils India's first green hydrogen-run bus that emits just water",
+  "source": "The Hindu",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors delivers India's first hydrogen fuel cell buses to Indian Oil",
+  "source": "Fortune India",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil minister Puri launches IOC\u2019s trial of green hydrogen-powered fuel cell buses",
+  "source": "The Indian Express",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How rising oil prices can impact Indian economy",
+  "source": "The Economic Times",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Unveils First Green Hydrogen Fuel Cell Bus as Part of Indian Oil\u2019s Initiative",
+  "source": "EMobility+",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors delivers hydrogen fuel cell-powered buses to Indian Oil",
+  "source": "ET Auto",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "The Future of our transport will be on green hydrogen: Hardeep Singh Puri",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-09-25T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Motors Delivers Hydrogen Fuel Cell Buses To Indian Oil",
+  "source": "carandbike",
+  "published_utc": "2023-09-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation seals joint venture with EverEnviro to set up Biogas plants",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-09-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil board approves joint ventures for compressed biogas plants",
+  "source": "Livemint",
+  "published_utc": "2023-09-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Recruitment 2024, Notification, Online Form, Upcoming Jobs",
+  "source": "PW",
+  "published_utc": "2023-09-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Board approves JV for compressed biogas plants",
+  "source": "Indian Chemical News",
+  "published_utc": "2023-09-30T05:38:53+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One dead, eight injured as petrol pump roof collapses in Chennai Saidapet",
+  "source": "The News Minute",
+  "published_utc": "2023-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One killed as petrol pump roof collapses in Saidapet",
+  "source": "The New Indian Express",
+  "published_utc": "2023-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal Oil Corporation hikes prices of petroleum products",
+  "source": "The Kathmandu Post",
+  "published_utc": "2023-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MEIL bags $648m contract in Mongolia",
+  "source": "The Times of India",
+  "published_utc": "2023-09-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,704 @@
+[
+ {
+  "title": "ICICI Venture to sell its entire 42% stake in patisserie chain Theobroma",
+  "source": "Business Standard",
+  "published_utc": "2024-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI issues new rules on inoperative, unclaimed savings accounts, FD, deposits: FAQs on how to claim, charg",
+  "source": "The Economic Times",
+  "published_utc": "2024-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank goes live with UPI in secondary market platform",
+  "source": "ETLegalWorld.com",
+  "published_utc": "2024-01-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI\u2019s Jha: \u201cWe approach customers as \u2018One Bank\u2019 with the entire bouquet of services\u201d",
+  "source": "The Asian Banker",
+  "published_utc": "2024-01-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC adjourns until January 12 hearing on CBI plea against bail to Chanda Kochhar, husband in loan fraud case",
+  "source": "Law Trend",
+  "published_utc": "2024-01-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD rate hikes: Latest fixed deposit rates by 6 major lenders including SBI, HDFC Bank and ICICI Bank",
+  "source": "Livemint",
+  "published_utc": "2024-01-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How will HDFC Bank, Axis Bank, SBI and others perform in 2024? 5 key trends that will determine banks' performance",
+  "source": "Livemint",
+  "published_utc": "2024-01-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bajaj Finance, Tata Consumer top gainers on Nifty50; HDFC Bank, ICICI most active on Jan 4",
+  "source": "Business News",
+  "published_utc": "2024-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SC adjourns hearing on CBI's plea against interim bail to ex-ICICI bank chief Chanda Kochhar",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2024-01-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cardless EMI: How To Chose No Cost EMI Options Without Credit Or Debit Card At ICICI Bank",
+  "source": "Goodreturns",
+  "published_utc": "2024-01-04T13:39:28+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank slashes airport lounge access benefits on 21 credit cards with effect from April 1",
+  "source": "Business Today",
+  "published_utc": "2024-01-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank reduces benefits on 21 credit cards, imposes minimum card usage for airport lounge access",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-01-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hot Stocks: Brokerages view on HAL, Bajaj Finance, ICICI Bank and M&M Financial Services",
+  "source": "The Economic Times",
+  "published_utc": "2024-01-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SAT directs restitution of shares pledged in favour of various banking entities| SCC Blog",
+  "source": "SCC Online",
+  "published_utc": "2024-01-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank new airport lounge access benefits and reward points rules for 21 credit cards; check details",
+  "source": "The Times of India",
+  "published_utc": "2024-01-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed deposit interest rates: SBI vs ICICI Bank vs HDFC Bank vs Axis Bank vs PNB compared",
+  "source": "The Times of India",
+  "published_utc": "2024-01-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD interest rates: Should investors lock their savings in fixed deposits now?",
+  "source": "Livemint",
+  "published_utc": "2024-01-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank anticipates record high fundraising, plans 30 new hires",
+  "source": "Livemint",
+  "published_utc": "2024-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI is hiring 30 investment bankers on expectations for record fundraising in India",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-01-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank ends Axis' 16-year run as rupee bond market king on higher sales",
+  "source": "Business Standard",
+  "published_utc": "2024-01-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior Citizen Saving Scheme vs SBI, HDFC Bank, ICICI Bank, Axis Bank, and PNB fixed deposits: Which give",
+  "source": "The Times of India",
+  "published_utc": "2024-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Stocks Live Updates: ICICI Bank Sees 1.09% Increase in Current Price, SMA7 at Rs 985.63",
+  "source": "The Economic Times",
+  "published_utc": "2024-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock Market Today: Sensex down over 50 points, Nifty at 21,500 as NTPC and Ultratech drag",
+  "source": "News9live",
+  "published_utc": "2024-01-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mint awards best BFSI firms in gala ceremony",
+  "source": "Livemint",
+  "published_utc": "2024-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank third largest bank in Asia Pacific by market cap, SBI at 11th position: S&P",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2024-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Major UPI apps enabled to receive direct remittances from Singapore; details here",
+  "source": "Livemint",
+  "published_utc": "2024-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PNB raises FD rate again: These are the fixed deposit rates offered by 5 major banks including HDFC Bank, SBI",
+  "source": "Livemint",
+  "published_utc": "2024-01-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q3 Net Profit seen up 20.1% YoY to Rs. 9,985.1 cr: Motilal Oswal",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-01-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Canada Introduces Mobile Banking App, 'Money2India'; Details Here",
+  "source": "India.com",
+  "published_utc": "2024-01-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nothing Republic Day Sale 2024 on Flipkart: Big Savings on Phone (2) and CMF Chargers",
+  "source": "My Mobile India",
+  "published_utc": "2024-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Karvy case: SAT rejects Axis Bank's plea on invoking pledged shares",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-01-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RuPay credit cards on UPI in HDFC Bank, ICICI Bank, SBI and others: Annual fees, interest rate, key featur",
+  "source": "The Economic Times",
+  "published_utc": "2024-01-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Infinix Smart 8 launched in India at \u20b97,499, features 90Hz screen with Magic Ring, 50MP camera, 8MP selfie with LED, side-fingerprint scanner, 5000mAh battery, and more",
+  "source": "MobiGyaan",
+  "published_utc": "2024-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPI users alert! Five new rules related to Unified Payments Interface you must know",
+  "source": "Livemint",
+  "published_utc": "2024-01-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Banking sector Q3 results preview: NIM likely to remain weak for top lenders with minor improvement in asset quality",
+  "source": "Zee Business",
+  "published_utc": "2024-01-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A tale of TWO banks enhancing the experience for international students",
+  "source": "The PIE News",
+  "published_utc": "2024-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "K.V. Kamath Appointed As Chairperson Of NaBFID",
+  "source": "Outlook India",
+  "published_utc": "2024-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loan, other loan interest rates revised: List of 8 banks with new rates in January 2024",
+  "source": "The Times of India",
+  "published_utc": "2024-01-16T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance, HDFC Bank, Bajaj Finance amongst top contenders to touch $1 trillion market value by 2032: ICICI Securities",
+  "source": "Livemint",
+  "published_utc": "2024-01-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Innoventive v ICICI Bank: IBC Supremacy in India",
+  "source": "CAclubindia",
+  "published_utc": "2024-01-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard posts 22% rise in Q3 profit as premiums climb",
+  "source": "The Times of India",
+  "published_utc": "2024-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Google Pay signs agreement to expand UPI for international payments",
+  "source": "Business Standard",
+  "published_utc": "2024-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Q3 results today: Asian Paints, LTIMindtree, ICICI Prudential, IIFL Finance among 22 companies to report Q3 earnings",
+  "source": "Livemint",
+  "published_utc": "2024-01-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q3 preview: Net profit may rise 20%, loan growth to get retail & SME boost",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-01-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delay To File Applications U/S. 17 SARFAESI Act Before DRT Can Be Condoned U/S. 5 Limitation Act: Madhya...",
+  "source": "Verdictum",
+  "published_utc": "2024-01-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "High charges on NACH, ECS debit bounce: Even 17% return on mutual fund SIP may not be enough to recover pe",
+  "source": "The Economic Times",
+  "published_utc": "2024-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Are HDFC Bank results all that bad for banking sector? It's time to pick your best bets",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-01-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Canada Launches \u2018Money2India (Canada)\u2019 Mobile Banking App",
+  "source": "Adda247",
+  "published_utc": "2024-01-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q3 Results: Operating profit rises 10% YoY, asset quality stable; 5 key highlights",
+  "source": "Livemint",
+  "published_utc": "2024-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank\u2019s Margin Compress Signaling Likely Slowdown in Sector",
+  "source": "Bloomberg.com",
+  "published_utc": "2024-01-20T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank net profit jumps 25.7% to Rs 11,053 crore in Q3",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2024-01-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.9,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Central Bank of India plans offer for sale to reduce govt's stake",
+  "source": "Business Standard",
+  "published_utc": "2024-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "These credit cards by top 5 banks including HDFC Bank, ICICI Bank offer free access to airport lounges. Check full list",
+  "source": "Livemint",
+  "published_utc": "2024-01-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SWP magic: How a Systematic Withdrawal Plan can protect your mutual fund portfolio while exiting an SIP",
+  "source": "The Economic Times",
+  "published_utc": "2024-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank holiday today: Banks in these states are only half-day open, some shut amid Ram Mandir \u2018Pran Pratishtha\u2019 in Ayodhya",
+  "source": "Livemint",
+  "published_utc": "2024-01-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hits record high on profit beat, margin comfort",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2024-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's profitability solid despite AIF provisioning, margin pressure",
+  "source": "Business Standard",
+  "published_utc": "2024-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank share price targets post Q3 results suggest up to 39% upside potential",
+  "source": "Business Today",
+  "published_utc": "2024-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shares zoom 6%; hit 52-week high on strong Q3 results",
+  "source": "Fortune India",
+  "published_utc": "2024-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank rises as Q3 profit tops estimates",
+  "source": "The Times of India",
+  "published_utc": "2024-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Senior citizen 5-year fixed deposit (FD) rates of SBI, HDFC Bank, ICICI Bank, PNB vs SCSS: What should elderly prefer?",
+  "source": "Livemint",
+  "published_utc": "2024-01-23T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, ICICI, Axis, Kotak Bank shares volatile as Q3 results reflect margin pressures; here\u2019s why banks are falling",
+  "source": "Livemint",
+  "published_utc": "2024-01-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zomato receives RBI approval to operate as online payment aggregator",
+  "source": "Business Standard",
+  "published_utc": "2024-01-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How does ICICI Bank compare with HDFC Bank after the market mayhem?",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2024-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Earned Rs 114 Crore/Day In Last 90 Days: Net Profit Surges By 23.5%",
+  "source": "Trak.in",
+  "published_utc": "2024-01-25T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CBDC: Govt, RBI actively engaged on digital currency, says Finance Minister",
+  "source": "ET Government",
+  "published_utc": "2024-01-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 Credit Cards That Offer Free Lounge and Club Memberships",
+  "source": "Livemint",
+  "published_utc": "2024-01-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Lombard to acquire 1.08 % stake in Karnataka Bank for \u20b9100 crore",
+  "source": "Livemint",
+  "published_utc": "2024-01-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank: Lounge Access on 22 Credit Cards will be restructured from April 1, 2024",
+  "source": "Live From A Lounge",
+  "published_utc": "2024-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Consumer Court Finds ICICI Bank at Fault for Activating ATM Card without Verifying Customer Identity",
+  "source": "Law Trend",
+  "published_utc": "2024-01-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What is the per transaction limit for using contactless debit card",
+  "source": "The Economic Times",
+  "published_utc": "2024-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank share price gains 2% after RBI approves LIC's stake acquisition",
+  "source": "Livemint",
+  "published_utc": "2024-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Professional CXOs dominate India Inc's million-dollar-plus compensation club in FY23",
+  "source": "The Economic Times",
+  "published_utc": "2024-01-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Axis, ICICI go slow on hiring, HDFC Bank pushing ahead",
+  "source": "Livemint",
+  "published_utc": "2024-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI vs HDFC vs ICICI vs PNB vs BoB vs Kotak vs Axis: Which bank is offering the highest interest rate on fixed deposits?",
+  "source": "Livemint",
+  "published_utc": "2024-01-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Barclays appoints Abhay Kumar Sinha as Co-Head of Credit Trading, Asia Pacific",
+  "source": "Barclays Group",
+  "published_utc": "2024-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fund Manager changes for some ETFs & FoFs of ICICI Prudential Mutual Fund",
+  "source": "Value Research",
+  "published_utc": "2024-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "New IMPS rule from February: Transfer money with mobile no., bank name; No IFSC, beneficiary details requi",
+  "source": "The Economic Times",
+  "published_utc": "2024-01-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

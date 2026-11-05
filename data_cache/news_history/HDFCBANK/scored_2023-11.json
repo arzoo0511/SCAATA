@@ -1,0 +1,596 @@
+[
+ {
+  "title": "HDFC Bank makes changes to Regalia credit card from today: Check new lounge access rules",
+  "source": "CNBC TV18",
+  "published_utc": "2023-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank acquires Delhi office space for Rs 1,130 crore from NBCC",
+  "source": "Prop News Time",
+  "published_utc": "2023-11-01T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Catch HDFC Bank's Vigil Aunty in India's leading Newspaper- The Times of India.",
+  "source": "The Times of India",
+  "published_utc": "2023-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance SBI Card announced \u2014 here's a look at key co-branded credit cards currently available",
+  "source": "CNBC TV18",
+  "published_utc": "2023-11-01T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vodafone Idea gets Rs 2,000 crore from HDFC Bank; meets SUC payment obligations",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Restricts Lounge Access On Regalia Cards, What\u2019s The Reason And Will Other Banks Follow Suit?",
+  "source": "Outlook Money",
+  "published_utc": "2023-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank shares an important update for Regalia credit card holders. Read here",
+  "source": "Livemint",
+  "published_utc": "2023-11-02T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.1,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ESAF Small Finance Bank IPO: Everything you need to know",
+  "source": "Value Research",
+  "published_utc": "2023-11-02T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Cut backs on credit card perks: A closer look at the changing landscape of premium cards",
+  "source": "CNBC TV18",
+  "published_utc": "2023-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Regalia, Axis Bank Magnus: Facilities, benefits, lounge access on these 'devalued' credit cards",
+  "source": "Business News",
+  "published_utc": "2023-11-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Should FD investors switch to floating rate savings bonds as they offer higher interest rates than SBI, ICICI, HDFC Bank",
+  "source": "Livemint",
+  "published_utc": "2023-11-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ravi Santhanam promoted to Group Head & CMO at HDFC Bank",
+  "source": "PitchOnnet",
+  "published_utc": "2023-11-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Regalia versus Axis Magnus: The battle of premium credit cards and how to choose?",
+  "source": "CNBC TV18",
+  "published_utc": "2023-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Divi's Labs, Eicher Motors top gainers on Nifty50 as market extends gains; HDFC Bank, RIL, ICICI Bank most active stocks on November 6, 2023",
+  "source": "Business News",
+  "published_utc": "2023-11-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Staying ahead of curve to reinforce Prime position: SBI chairman Khara",
+  "source": "Business Standard",
+  "published_utc": "2023-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Canara Bank customers can make PPF, Sukanya Samriddhi Yojana contributions via NEFT from any bank",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Card devaluation: How to pick between Axis Bank Magnus and HDFC Regalia Gold",
+  "source": "Business Standard",
+  "published_utc": "2023-11-07T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best credit cards in India that promises maximum rewards: Know how to select the right one",
+  "source": "Lifestyle Asia",
+  "published_utc": "2023-11-07T09:21:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Up to 15% discount on Amazon, LG, MMT: Top credit card offers of Diwali",
+  "source": "Business Standard",
+  "published_utc": "2023-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Enterprises, HUL, Adani Ports top losers on Nifty50; RIL, HDFC Bank, ICICI Bank most active stocks on November 9, 2023",
+  "source": "Business News",
+  "published_utc": "2023-11-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI cancels certificate of registration of 2 NBFCs",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vijay Sales extravaganza: Deals on smartphones, laptops and other gadgets",
+  "source": "Livemint",
+  "published_utc": "2023-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank FD Rates: Save tax by investing in fixed deposits, these 6 banks are giving great interest, rates are more than 7%, see list",
+  "source": "informalnewz",
+  "published_utc": "2023-11-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC AMC - Will Remain A Dominant Player: Prabhudas Lilladher",
+  "source": "NDTV Profit",
+  "published_utc": "2023-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Govt relaxes norms for small savings schemes: Check details here",
+  "source": "Business Standard",
+  "published_utc": "2023-11-13T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why HDFC Bank Is On A Hiring Spree",
+  "source": "Rediff",
+  "published_utc": "2023-11-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bajaj Fin asked to halt lending via 2 products",
+  "source": "Livemint",
+  "published_utc": "2023-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Wadia Ghandy & Co advises on Keystone Realtors acquisition of Rustomjee Crown in Mumbai for 231 crores",
+  "source": "Bar and Bench",
+  "published_utc": "2023-11-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Stocks Live Updates: HDFC Bank News",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life Wins the Golden Peacock Award for Excellence in Corporate Governance - 2023",
+  "source": "ANI News",
+  "published_utc": "2023-11-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's new personal loan rules seen curbing bank growth, shares slip",
+  "source": "Reuters",
+  "published_utc": "2023-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI Cancels Registration of 2 NBFCs, while 4 NBFCs and 2 HFCs, including HDFC Surrender Certificates",
+  "source": "Moneylife",
+  "published_utc": "2023-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank, NBFC shares fall after RBI tighten norms on personal loans",
+  "source": "The New Indian Express",
+  "published_utc": "2023-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "8.7% Interest, 100% on-road price: Top car loan offers this festive season",
+  "source": "Business Standard",
+  "published_utc": "2023-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Brokerages expect rise in lending rates due to RBI's new norms on personal loans, credit cards",
+  "source": "CNBC TV18",
+  "published_utc": "2023-11-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.4,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank board approves Ashok Vaswani's appointment as MD & CEO",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to check which bank account is linked with Aadhaar",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stock Market Highlights | Nifty 50 ends in the green, but below 19,800, Reliance, HDFC Bank top contributors",
+  "source": "LinkedIn",
+  "published_utc": "2023-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to invest in bank FD and RD in the name of minor child",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI\u2019s tighter unsecured retail lending norms pose no threat to HDFC Bank, Kotak Mahindra Bank: Analysts",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-11-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Stocks Live Updates: HDFC Bank Sees 0.75% Increase in Current Price, SMA5 at Rs 1507.91",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-21T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Vinay Tonse appointed as SBI MD for two years",
+  "source": "Livemint",
+  "published_utc": "2023-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "You can save on petrol spends with fuel credit cards: Which are the best?",
+  "source": "Business Standard",
+  "published_utc": "2023-11-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ED raids on G Vivek Venkataswamy, Vinod after Rs 8crore transaction",
+  "source": "The New Indian Express",
+  "published_utc": "2023-11-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Maharashtra govt depts allowed to transact with 8 pvt banks, MSCB",
+  "source": "PSU Watch",
+  "published_utc": "2023-11-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Jefferies adds Coal India, Honasa, Eicher Motors, HDFC Bank, IPru Life to its model portfolio",
+  "source": "Livemint",
+  "published_utc": "2023-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Industries, Tata Consultancy Services, HDFC Bank:\u00a0Top 10 companies in terms of average m-cap - BT500 List",
+  "source": "Business News",
+  "published_utc": "2023-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chart view: Bank of India, HDFC Bank offer cheapest home loan rates",
+  "source": "Business Standard",
+  "published_utc": "2023-11-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top car loans: Compare interest rates, EMIs and processing fees",
+  "source": "Business Standard",
+  "published_utc": "2023-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PSU insurers' stocks surge on attractive valuation, RBI's risk weight norms",
+  "source": "Business Standard",
+  "published_utc": "2023-11-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple\u2019s iPhone 15 Is Already Available At A Discount: Check Price And Offer Here",
+  "source": "Smartprix",
+  "published_utc": "2023-11-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank appoints former Nabard chairman Bhanwala as its director",
+  "source": "Business Standard",
+  "published_utc": "2023-11-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Charting the IaaS Landscape in Banking: Abhijit Chakravarty",
+  "source": "Express Computer",
+  "published_utc": "2023-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Life Sets a GUINNESS WORLD RECORDS Title for its 'Insure India' Campaign",
+  "source": "ANI News",
+  "published_utc": "2023-11-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DFS Secretary chairs meeting on Cyber Security in Financial Services Sector and Online Financial Frauds",
+  "source": "PIB",
+  "published_utc": "2023-11-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Revises Fixed Deposit Rates on Non-Callable FDs; Know More",
+  "source": "Outlook Money",
+  "published_utc": "2023-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank revises rates on these fixed deposits. Check latest FD rates here",
+  "source": "Livemint",
+  "published_utc": "2023-11-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Meet Harsh Kumar Bhanwala, an IIM alumnus set to assume the role of director at HDFC Bank",
+  "source": "MyNation",
+  "published_utc": "2023-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Finance Ministry meets with banks, payments companies to discuss online fraud",
+  "source": "MediaNama",
+  "published_utc": "2023-11-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How RBI's stricter norms are likely to affect big lenders such as SBI, HDFC Bank and Bajaj Finance",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Share Price Today Live Updates: HDFC Bank Sees Slight Uptick in Price, Registers -3.55% Returns",
+  "source": "The Economic Times",
+  "published_utc": "2023-11-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI fines Bank of America, N.A., HDFC Bank",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2023-11-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Seven financial changes that may impact you this December",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pace of bank credit to retail declined to 18% in October, shows RBI data",
+  "source": "Business Standard",
+  "published_utc": "2023-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Retired babu Mopalwar relieved as MSRDC head",
+  "source": "The Times of India",
+  "published_utc": "2023-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Airline traffic surges 7.37% after festive season",
+  "source": "Livemint",
+  "published_utc": "2023-11-30T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

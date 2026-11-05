@@ -1,0 +1,515 @@
+[
+ {
+  "title": "EV charger stock Servotech Power Systems near life-time high after receiving IOC order. Details here",
+  "source": "Livemint",
+  "published_utc": "2024-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Narendra Modi inaugurates IOC\u2019s Haldia-Barauni Crude Oil Pipeline, LPG plant in Bengal",
+  "source": "PSU Watch",
+  "published_utc": "2024-03-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Servotech agrees next deal with Indian oil corporation",
+  "source": "electrive.com",
+  "published_utc": "2024-03-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Guwahati Refinery Appoints Pradip Kumar Basumatary as Head",
+  "source": "Rediff MoneyWiz",
+  "published_utc": "2024-03-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Servotech to supply 1,400 DC EV chargers to IOCL and OEMs",
+  "source": "Manufacturing Today India",
+  "published_utc": "2024-03-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "D.Y. Patil T20 Cup 2024: Tata, Indian Oil Post Contrasting Wins | Today Cricket Match in English",
+  "source": "Cricketnmore",
+  "published_utc": "2024-03-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi High Court Imposes Costs Of Rs.1 Lakh On Indian Oil For Taking Inconsistent Stance In Section 34...",
+  "source": "Live Law",
+  "published_utc": "2024-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM to inaugurate Muzaffarpur - Motihari LPG pipeline",
+  "source": "Indian Chemical News",
+  "published_utc": "2024-03-05T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "RBI asks OMCs to pay for some oil imports in Rupees next FY",
+  "source": "ET Auto",
+  "published_utc": "2024-03-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OPEC expects share of Indian oil imports to rise again",
+  "source": "Reuters",
+  "published_utc": "2024-03-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Grand Prix dreams: IOC to make Formula 1 fuel, pitch it to top racing teams",
+  "source": "The Indian Express",
+  "published_utc": "2024-03-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil to make fuel for Formula 1; first by an Indian firm",
+  "source": "PSU Watch",
+  "published_utc": "2024-03-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Oil India Dividend: PSU likely to declare dividend soon - Check Share Price Target",
+  "source": "Zee Business",
+  "published_utc": "2024-03-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Invites Tender for Re-Construction of Ldu Operator Room in Digboi - 2024_AOD_175842_1",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2024-03-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil aiming for F1 fuel supply deal",
+  "source": "Autocar India",
+  "published_utc": "2024-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil becomes the first Indian firm to produce fuel for Formula 1 cars",
+  "source": "Livemint",
+  "published_utc": "2024-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation set to produce fuel for Formula One racing cars",
+  "source": "HT Auto",
+  "published_utc": "2024-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "F1: Indian Oil Corporation Aims to Supply Fuel to Formula 1 Teams",
+  "source": "autoX",
+  "published_utc": "2024-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil will indeed open a new chapter in the Prime Minister\u2019s dream of \u2018Make in India.",
+  "source": "NewsIP",
+  "published_utc": "2024-03-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Set to Become First Indian Company to Supply Fuel for Formula 1",
+  "source": "ACKO Drive",
+  "published_utc": "2024-03-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ahead of Lok Sabha elections, Rs 100 cut in LPG cylinder price",
+  "source": "The Indian Express",
+  "published_utc": "2024-03-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil set to join high table of F1 fuel producers",
+  "source": "ET Auto",
+  "published_utc": "2024-03-10T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Alok Sharma joins as Director (R&D), Indian Oil Corporation",
+  "source": "MillenniumPost",
+  "published_utc": "2024-03-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil's second compressed biogas plant, manufactured by CEID, inaugurated by CM Yogi Adityanath in Gorakhpur",
+  "source": "Zee Business",
+  "published_utc": "2024-03-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil's second CBG plant manufactured by CEID inaugurated in Gorakhpur",
+  "source": "Indian Chemical News",
+  "published_utc": "2024-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Inaugurates Indian Oil\u2019s Crude Oil Pipeline, LPG Bottling Plant in West Bengal Worth INR 2990 Crore",
+  "source": "Tube & Pipe India",
+  "published_utc": "2024-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CM Adityanath inaugurates IOCL\u2019s second CBG plant in Gorakhpur",
+  "source": "Construction Week India",
+  "published_utc": "2024-03-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PM Inaugurates Indian Oil LPG Pipeline, Bottling Plant, Development Projects Worth INR 12,800 Crore in Bihar",
+  "source": "Tube & Pipe India",
+  "published_utc": "2024-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rashmi Govil takes over as Director (HR) of Indian Oil",
+  "source": "PSU Watch",
+  "published_utc": "2024-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil opens ethanol fuel pump; Ethanol now available at 183 outlets",
+  "source": "Autocar Professional",
+  "published_utc": "2024-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OMCs recovered losses from 2-year freeze on fuel rates with combined profit of \u20b969,000 crore in FY24",
+  "source": "Livemint",
+  "published_utc": "2024-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Explainer: What is Ethanol 100, or E100 fuel? And what is its retail price?",
+  "source": "PSU Watch",
+  "published_utc": "2024-03-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petroleum Minister Hardeep Singh Puri launches \u2018Ethanol 100': Know all about the automotive fuel, details of 183 retail petrol outlets in 5 states where it will be available",
+  "source": "Zee Business",
+  "published_utc": "2024-03-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rashmi Govil takes over as Director (HR), Indian Oil",
+  "source": "ET Auto",
+  "published_utc": "2024-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil has promoted Rashmi Govil to director-HR",
+  "source": "HR Katha",
+  "published_utc": "2024-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil appoints Rashmi Govil as Director of HR",
+  "source": "People Matters - HR News",
+  "published_utc": "2024-03-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Hot Stocks: Brokerage view on RIL, IOC, PCBL and ICICI Bank",
+  "source": "The Economic Times",
+  "published_utc": "2024-03-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rashmi Govil to Spearhead HR Leadership at Indian Oil Corporation as New Director \u2013 HR",
+  "source": "hrtoday.in",
+  "published_utc": "2024-03-18T13:21:07+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's BPCL signs 4-month US oil purchase deal with BP, sources say",
+  "source": "ET Auto",
+  "published_utc": "2024-03-20T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Issues EPC Tender for 1 MW Solar Project in Andhra Pradesh",
+  "source": "SolarQuarter",
+  "published_utc": "2024-03-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India stops taking Russian oil delivered on Sovcomflot tankers, Bloomberg News reports",
+  "source": "Reuters",
+  "published_utc": "2024-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India Stops Accepting Russian Oil Delivered By US-Sanctioned Tankers, Reports Say",
+  "source": "Forbes",
+  "published_utc": "2024-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India stops taking Russian oil delivered on Sovcomflot tankers",
+  "source": "ET Auto",
+  "published_utc": "2024-03-22T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADNOC Govt. allows UAE's Adnoc to export oil from Indian strategic storage",
+  "source": "The Hindu",
+  "published_utc": "2024-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia\u2019s Oil Is Finally Getting Snarled by Sanctions on Its Tankers",
+  "source": "Bloomberg.com",
+  "published_utc": "2024-03-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Govt allowed the ANDOC to export oil from Mangalore",
+  "source": "Utkarsh Classes",
+  "published_utc": "2024-03-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zetwerk secures order from Indian Oil for 1,400+ EV chargers",
+  "source": "BusinessLine",
+  "published_utc": "2024-03-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zetwerk partners with Indian Oil for nationwide EV fast charger rollout",
+  "source": "Manufacturing Today India",
+  "published_utc": "2024-03-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Government Permits ADNOC to Export Crude Oil from Mangalore Underground Strategic Storages",
+  "source": "Tube & Pipe India",
+  "published_utc": "2024-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Haldia Petrochemicals seeks local Indian naphtha supplies amid Red Sea disruption, CEO says",
+  "source": "ET Auto",
+  "published_utc": "2024-03-28T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai refinery expansion cost goes up over Rs 3,600 crore",
+  "source": "PSU Watch",
+  "published_utc": "2024-03-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai refinery expansion cost goes up over INR 3,600 crore",
+  "source": "ET EnergyWorld",
+  "published_utc": "2024-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zetwerk Bags Contract from Indian Oil Corporation to Set Up 1,400 EV Chargers Nationwide",
+  "source": "carandbike",
+  "published_utc": "2024-03-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petrol-Diesel Prices Today, March 30: Check latest fuel rates in Delhi, Bengaluru, Mumbai, Chennai and Kolkata",
+  "source": "Zee Business",
+  "published_utc": "2024-03-30T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Panasonic to form JV with IOCL to make cylindrical lithium-ion batteries",
+  "source": "Business Standard",
+  "published_utc": "2024-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nepal Oil Corporation jacks up petrol price",
+  "source": "The Kathmandu Post",
+  "published_utc": "2024-03-31T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL petrol pumps violate government guidelines: National Human Rights and Crime Control Bureau",
+  "source": "The Sentinel - of this Land, for its People",
+  "published_utc": "2024-03-31T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

@@ -1,0 +1,713 @@
+[
+ {
+  "title": "Six key financial changes this February you need to consider",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "What happens to your Paytm wallet, Fastag?",
+  "source": "The Times of India",
+  "published_utc": "2024-02-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top 5 banks offer highest interest rate on fixed deposits to senior citizens",
+  "source": "Livemint",
+  "published_utc": "2024-02-02T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Nifty hits all-time high level; Sensex jumps over 1,400 points",
+  "source": "Daily Excelsior",
+  "published_utc": "2024-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI Q3 result: Net profit declines 35% to \u20b99,164 crore",
+  "source": "Livemint",
+  "published_utc": "2024-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u200bDebit cards come with free insurance of up to Rs 3 crore: You won't be eligible if you don't do this",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm Payments Bank meltdown, its meaning | Explained",
+  "source": "The Hindu",
+  "published_utc": "2024-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani's Kutch Copper, world's largest single-location manufacturing plant in Gujarat, to start operations from March end",
+  "source": "Livemint",
+  "published_utc": "2024-02-04T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PPF account: How to open Public Provident Fund account online with SBI, HDFC Bank, ICICI Bank. A step-by-step guide",
+  "source": "Livemint",
+  "published_utc": "2024-02-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Recurring deposit (RD) interest rates 2024: SBI vs HDFC Bank vs ICICI Bank",
+  "source": "Livemint",
+  "published_utc": "2024-02-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay HC rules arrest of Chanda Kochhar and Deepak Kochhar Illegal in videocon loan fraud| SCC Blog",
+  "source": "SCC Online",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank gets RBI nod to acquire up to 9.5% stake in ICICI Bank, 5 others",
+  "source": "YourStory.com",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Group gets RBI nod to buy up to 9.5% stake in ICICI Bank, 5 others",
+  "source": "PRESS Insider",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay High Court Confirms Interim Bail Granted To Chanda & Deepak Kochhar in ICICI Videocon Case; Says...",
+  "source": "LawBeat",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.2,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "MC Explains | Will HDFC group go ahead and acquire 9.5% stake in all the 6 banks?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arrest of Chanda Kochhar, Deepak Kochhar by CBI illegal: Bombay High Court",
+  "source": "The Hindu",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay HC says Chanda Kochhar, Husbands arrest by CBI in ICICI-Videocon loan case illegal",
+  "source": "LawStreet Journal",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank to make changes to credit cards from April 1: Check new lounge access rules",
+  "source": "CNBC TV18",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay HC says arrest of Chanda Kochhar, her husband in ICICI Bank-Videocon loan case illegal",
+  "source": "The Times of India",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Group gets RBI nod to acquire up to 9.5% stakes in Yes Bank, IndusInd & 4 others",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Group gets RBI nod to buy up to 9.5% in Yes Bank, Axis Bank, 4 others",
+  "source": "Livemint",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, group companies get RBI nod to acquire up to 9.5% stake in six banks",
+  "source": "BusinessLine",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Stocks Live Updates: ICICI Bank Sees 0.85% Increase in Current Price, EMA5 at Rs 1023.17",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay High Court Declares CBI Arrest Of Chanda Kochhar, Husband In ICICI Bank Fraud Case As 'Illegal',...",
+  "source": "Live Law",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.5,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank car loan - Car loan interest rate comparison: SBI vs HDFC Bank vs Canara Bank vs Axis Bank",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Asked To Pay Rs35,000 for Collecting EMIs for Undelivered Jewellery Set Worth Rs1,790",
+  "source": "Moneylife",
+  "published_utc": "2024-02-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "PPF Account: Now open PPF account in SBI, HDFC and ICICI Bank sitting at home, know step by step process",
+  "source": "informalnewz",
+  "published_utc": "2024-02-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 7 Lakh crore: LIC beats ICICI Bank to be fifth most valued company",
+  "source": "The Times of India",
+  "published_utc": "2024-02-09T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Stocks Live Updates: ICICI Bank Closes at Rs 989.3 with 1-Month Return of 0.74%",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Stocks Live Updates: ICICI Bank Sees 1.49% Increase in Price Today, with Average Daily Volatil",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-09T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "6 banks offer highest interest rates on their fixed deposits; check latest rates here",
+  "source": "Livemint",
+  "published_utc": "2024-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Prudential Life Insurance Launches ICICI Pru Gold Pension Savings Plan: Check Guaranteed Benefits, Annu",
+  "source": "India.com",
+  "published_utc": "2024-02-10T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Three IndusInd Bank staff held for misappropriating 7.3 crore",
+  "source": "The Times of India",
+  "published_utc": "2024-02-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai: Ex-ICICI Bank Employee, Accomplice Defraud SoBo Family Of \u20b910 Crore In Elaborate Scheme",
+  "source": "Free Press Journal",
+  "published_utc": "2024-02-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Moving Averages Updates: ICICI Bank's Stock Price Dips Below 20-day EMA, Now at Rs 1008.65",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-12T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank branch manager withdrew money from deposits for years to meet business targets: Report",
+  "source": "Livemint",
+  "published_utc": "2024-02-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank branch manager duped depositors of crores for years to meet targets",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank Vs ICICI Bank Vs SBI: Check Detailed FD Interest Rates Comparison",
+  "source": "News18",
+  "published_utc": "2024-02-14T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to reactivate your lapsed PPF account \u2014 A step by step guide",
+  "source": "Livemint",
+  "published_utc": "2024-02-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank shocker: Branch manager withdrew money from customer accounts to open new FDs, meet performance targets | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2024-02-15T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Large private lenders join hands informally to stem attrition tide",
+  "source": "Livemint",
+  "published_utc": "2024-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Honor X9b launched in India with Snapdragon 6 Gen 1 SoC: Check price, features and more",
+  "source": "Livemint",
+  "published_utc": "2024-02-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mukesh Ambani\u2019s Reliance Industries is no. 1 on the list of India\u2019s most valuable companies. TCS is 2nd. Check out India's top 20 most valuable companies",
+  "source": "GQ India",
+  "published_utc": "2024-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm Invalid for FASTag, Says NHAI: Check Full List of 32 Authorised Banks Here",
+  "source": "The Quint",
+  "published_utc": "2024-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to buy new FASTag online",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-16T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\u200bICICI Bank revises FD rates; offers up to 7.75% interest to senior citizens; check new FD rates",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-17T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pradeep Kumar Sinha to take over as Non-Executive Part-time Chairman of ICICI Bank",
+  "source": "BusinessLine",
+  "published_utc": "2024-02-18T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar, Husband's Arrest By CBI \"Amounts To Abuse Of Power\": Court",
+  "source": "NDTV",
+  "published_utc": "2024-02-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IEPFA and DBS Bank ink MoU to spread awareness on investment and fraudulent schemes",
+  "source": "PIB",
+  "published_utc": "2024-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arrest of Chanda Kochhar, her husband Deepak in loan fraud case amounted to abuse of power by CBI: Bombay",
+  "source": "The Times of India",
+  "published_utc": "2024-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Paytm, Axis Bank to submit TPAP application for UPI business with NPCI this week",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Arrest of Chanda Kochhar, husband by CBI amounted to abuse of power: High Court",
+  "source": "India Today",
+  "published_utc": "2024-02-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "'Abuse Of Power': Bombay HC On Chanda Kochhar-Deepak Kochhar Arrest By CBI; Check Key Highlights Of Order",
+  "source": "India.com",
+  "published_utc": "2024-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home loan interest rates: These are the rates charged by top 5 banks",
+  "source": "Livemint",
+  "published_utc": "2024-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chanda Kochhar: A peek into her years in education and career path",
+  "source": "TimesOfIndia.com",
+  "published_utc": "2024-02-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit deposit ratio inch up Dec qtr; top PSBs report lower than pvt peers",
+  "source": "Business Standard",
+  "published_utc": "2024-02-21T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank warns its users about a 'new UPI app' scam stealing money from customers' bank accounts",
+  "source": "The Times of India",
+  "published_utc": "2024-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Share Price Today Updates: ICICI Bank Sees 0.93% Increase in Price Today, 1-Month Returns at 5",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.05,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FD Interest Rates: ICICI Bank increases fixed deposit rates for select tenures; where do HDFC Bank, SBI, Axis Bank stand?",
+  "source": "Zee Business",
+  "published_utc": "2024-02-22T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NPS scheme: Reliance to HDFC Bank \u2014 here are the top five stocks held by National Pension System equity funds",
+  "source": "Livemint",
+  "published_utc": "2024-02-23T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Goldman says Goldilocks period over for banks, downgrades, SBI, ICICI, Yes Bank",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2024-02-24T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "This bank offers 9% return on fixed deposits (FDs). Full details of interest rates",
+  "source": "Livemint",
+  "published_utc": "2024-02-24T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI: Indian woman alleges 'bank manager stole $1.9m from account'",
+  "source": "BBC",
+  "published_utc": "2024-02-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank suspends branch manager for \u2018siphoning off\u2019 \u20b916 crore from customer's account. Here's what happened | Business News",
+  "source": "Hindustan Times",
+  "published_utc": "2024-02-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "FASTag charges compared: HDFC Bank, ICICI Bank, SBI, Axis Bank, PNB, other top authorized issuers",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank manager lost part of \u2018embezzled money\u2019 in betting",
+  "source": "The Times of India",
+  "published_utc": "2024-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top Tech News: ChatGPT Widget to Android Home Screen",
+  "source": "Analytics Insight",
+  "published_utc": "2024-02-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mumbai: SoBo Family\u2019s Accounts With \u20b910 Crore Emptied, Former ICICI Bank Employee & Friend Arrested",
+  "source": "Free Press Journal",
+  "published_utc": "2024-02-26T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "\"Duped Of Rs 13.5 Crore\": Woman Alleges Massive Fraud By ICICI Bank Manager",
+  "source": "NDTV",
+  "published_utc": "2024-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank vs ICICI Bank: Stock price targets, technicals, valuation, financial metrics and more",
+  "source": "Business Today",
+  "published_utc": "2024-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank moves Economic Offences Wing to probe Rs 16-crore alleged fraud case",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank customer accuses manager of stealing Rs 16 crore from her FDs. Bank responds",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank ups stake in ICICI Lombard General Insurance, buys 1.4% stake via open market",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank branch manager booked for siphoning off customer's Rs 16 crore",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2024-02-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI bank manager booked for siphoning off customer\u2019s Rs 16 crore in Delhi",
+  "source": "The New Indian Express",
+  "published_utc": "2024-02-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank, ICICI Bank vie for slice of index flows into India",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Best fixed deposit rate: Which bank is offering the highest FD interest rates and on which tenure",
+  "source": "Livemint",
+  "published_utc": "2024-02-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Feb 29 last date to update FASTag KYC; step-by-step guide on how to update FASTag KYC",
+  "source": "The Economic Times",
+  "published_utc": "2024-02-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Kotak Mahindra Bank hikes FD interest rates; what HDFC Bank, ICICI are offering",
+  "source": "News9live",
+  "published_utc": "2024-02-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

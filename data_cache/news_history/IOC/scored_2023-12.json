@@ -1,0 +1,533 @@
+[
+ {
+  "title": "Stock Picks: ONGC, Oil India among top picks for Motilal Oswal in upstream sector, Indian Oil among OMCs",
+  "source": "Livemint",
+  "published_utc": "2023-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Why IOC Share Price is Rising",
+  "source": "Equitymaster",
+  "published_utc": "2023-12-01T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Whether writ proceedings are maintainable against oil companies in view of BPCL case? SC to decide | SCC Blog",
+  "source": "SCC Online",
+  "published_utc": "2023-12-02T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India resumes imports of Venezuelan oil, Reliance seeks direct deal",
+  "source": "Reuters",
+  "published_utc": "2023-12-03T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOC raises Panipat refinery expansion cost 10%, pushes deadline by a year",
+  "source": "Business Standard",
+  "published_utc": "2023-12-03T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil opens its first EV battery swapping station in Kolkata",
+  "source": "ET Auto",
+  "published_utc": "2023-12-04T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "abCoffee partners with IOCL to launch India\u2019s first coffee pod kiosks",
+  "source": "World Coffee Portal",
+  "published_utc": "2023-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil Corporation Unveils First EV Battery-Swapping Station in Kolkata",
+  "source": "Energetica India Magazine",
+  "published_utc": "2023-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil inaugurates EV battery swapping station in Kolkata",
+  "source": "Siliconindia",
+  "published_utc": "2023-12-05T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Oil and EKI Energy ink deal to promote 'Surya Nutan'",
+  "source": "PSU Watch",
+  "published_utc": "2023-12-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Zuari Indian Oil Tanking Limited should pay for the Vasco disaster: Vijai Sardesai",
+  "source": "Goa News Hub",
+  "published_utc": "2023-12-06T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IRFC, Indian Oil: These 2 Dividend Paying PSU Stocks Well-Poised For Fresh Buying, 17-32% Rise Seen",
+  "source": "Goodreturns",
+  "published_utc": "2023-12-07T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Merger Of Indian Oil, BPCL, HPCL, ONGC? Here Are The Big Challenges",
+  "source": "NDTV Profit",
+  "published_utc": "2023-12-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IndianOil emerges as biggest buyer of ussian seaborne Crude, Reliance in second place",
+  "source": "Telegraph India",
+  "published_utc": "2023-12-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India's fuel demand slips in November from four-month peak",
+  "source": "ET Auto",
+  "published_utc": "2023-12-08T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Power ties up with Indian Oil to set up 500 EV charging points across India",
+  "source": "Livemint",
+  "published_utc": "2023-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Power EV Charging ties up with IOCL to set up over 500 charging points",
+  "source": "The Hindu",
+  "published_utc": "2023-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Power, Indian Oil partner to set up over 500 fast, ultra-fast EV chargers across India: Details",
+  "source": "The Times of India",
+  "published_utc": "2023-12-11T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Power, Indian Oil Corporation partner to deploy 500+ fast and ultra-fast EV charging points across India",
+  "source": "Autocar Professional",
+  "published_utc": "2023-12-11T09:12:40+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "12.12.2023: Input tax refunds under GST: \u2018HC\u2019s Indian Oil ruling to benefit all firms\u2019",
+  "source": "taxo.online",
+  "published_utc": "2023-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tata Power, Indian Oil Partner To Expand EV Charging Network Across India",
+  "source": "carandbike",
+  "published_utc": "2023-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi LG launches Tihar Jail\u2019s inmate-run store at Indian Oil fuel station",
+  "source": "PSU Watch",
+  "published_utc": "2023-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Tihar to run outlet at petrol pump, inmates to man it",
+  "source": "ET Auto",
+  "published_utc": "2023-12-12T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi HC Allows GST Refund to IOCL of Accumulated ITC Due to Inverted Duty Structure",
+  "source": "SAG Infotech Official Tax Blog",
+  "published_utc": "2023-12-13T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IEA sees Indian oil product demand growth slowing in 2024",
+  "source": "Reuters",
+  "published_utc": "2023-12-14T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India welcomes return of Venezuelan oil to market: Puri",
+  "source": "The Hindu",
+  "published_utc": "2023-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Guwahati refinery records highest reduction in energy consumption over the last year",
+  "source": "India Today NE",
+  "published_utc": "2023-12-15T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Group petitions Park Service over alleged sale of Cross River National Park to Indian firm",
+  "source": "EnviroNews Nigeria",
+  "published_utc": "2023-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Planning, PYQs and Timely Revision: Himanshu Tyagi\u2019s Winning Formula for IFS",
+  "source": "Indianmasterminds",
+  "published_utc": "2023-12-17T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India resumes buying Venezuelan oil. What does it mean for the country?",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-12-18T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian oil giant plans $10bn spend on green hydrogen and ammonia projects by 2035",
+  "source": "Hydrogen Insight",
+  "published_utc": "2023-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.8,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "On PSU capex push: Oil, highways, rail set the pace; steel, green power trail",
+  "source": "The Indian Express",
+  "published_utc": "2023-12-19T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian Hydrogen Industry Trends Outlook 2024",
+  "source": "Spherical Insights",
+  "published_utc": "2023-12-19T10:58:23+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Delhi\u2019s students shine at The Hindu in School Quiz",
+  "source": "The Hindu",
+  "published_utc": "2023-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Commercial LPG rate cut by Rs 39.50 per 19-kg cylinder",
+  "source": "The New Indian Express",
+  "published_utc": "2023-12-22T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "After Russia, India Uses Rupee To Buy Crude Oil From United Arab Emirates For The First Time",
+  "source": "Swarajya",
+  "published_utc": "2023-12-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First rupee payment for oil to UAE: India looks for more deals, no targets: Officials",
+  "source": "The Hindu",
+  "published_utc": "2023-12-25T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Payment woes delay supply of Russian Sokol oil to India -sources",
+  "source": "Reuters",
+  "published_utc": "2023-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India makes first-ever rupee payment for the purchase of crude oil from UAE",
+  "source": "Business Standard",
+  "published_utc": "2023-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Red Sea attacks, Panama Canal drought: How trouble at two shipping choke points could impact global trade",
+  "source": "The Indian Express",
+  "published_utc": "2023-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "First-of-its Kind: Indian Currency Paid For Oil Imports!",
+  "source": "Tupaki English",
+  "published_utc": "2023-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One dead, one injured in blast at Indian Oil Corporation\u2019s terminal in Chennai",
+  "source": "The Hindu",
+  "published_utc": "2023-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "1 Dead After Blast, Fire At Indian Oil Corporation Plant In Chennai",
+  "source": "NDTV",
+  "published_utc": "2023-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One dead, another injured in a blast at Indian Oil Corp's plant in Chennai",
+  "source": "Livemint",
+  "published_utc": "2023-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Boiler blast kills one worker at Indian Oil Corporation plant in Chennai",
+  "source": "The News Minute",
+  "published_utc": "2023-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One dead, another injured in explosion at Indian Oil Corporation depot in Chennai",
+  "source": "India Today",
+  "published_utc": "2023-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One dead, fire reported at Indian Oil plant in Chennai",
+  "source": "WION",
+  "published_utc": "2023-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Worker killed in explosion at IOCL facility in Chennai, another seriously injured",
+  "source": "The Indian Express",
+  "published_utc": "2023-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Russia pivots oil sales to India amid Ukraine sanctions",
+  "source": "DW.com",
+  "published_utc": "2023-12-27T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Man dies in IOC refinery blast in Chennai",
+  "source": "The Times of India",
+  "published_utc": "2023-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fatal Blast at Indian Oil Corporation\u2019s Tondiarpet Facility in Tamil Nadu",
+  "source": "Chennaionline",
+  "published_utc": "2023-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai: One dead, several injured after explosion at Indian Oil plant in Tondiarpet",
+  "source": "DNA India",
+  "published_utc": "2023-12-27T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Chennai: One dies in ethanol tank explosion at Indian Oil Refinery refinery",
+  "source": "ChiniMandi",
+  "published_utc": "2023-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Pujara\u2019s century and Atharva\u2019s nine-wicket haul steal show",
+  "source": "The Times of India",
+  "published_utc": "2023-12-28T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "One killed, another injured in explosion at IOCL facility in Tamil Nadu",
+  "source": "The New Indian Express",
+  "published_utc": "2023-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rashmi Govil set to be next Director (HR) of Indian Oil",
+  "source": "PSU Watch",
+  "published_utc": "2023-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OMCs hike ethanol procurement price by Rs 6.87/litre to boost green fuel production, aim at E20 target by 20..",
+  "source": "ET EnergyWorld",
+  "published_utc": "2023-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rashmi Govil To Be The Next Director (HR) Of Indian Oil Corporation",
+  "source": "Free Press Journal",
+  "published_utc": "2023-12-30T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "KERC eases transformer rule for petrol bunks to set up EV charging points",
+  "source": "The Times of India",
+  "published_utc": "2023-12-31T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]

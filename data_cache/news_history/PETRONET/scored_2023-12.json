@@ -1,0 +1,92 @@
+[
+ {
+  "title": "Stock Picks: ONGC, Oil India among top picks for Motilal Oswal in upstream sector, Indian Oil among OMCs",
+  "source": "Livemint",
+  "published_utc": "2023-12-01T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Buy RCom, Petronet LNG, Sell L&T: Pradip Hotchandani",
+  "source": "NDTV Profit",
+  "published_utc": "2023-12-08T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "IOCL Panipat Refinery Tragedy : 2 Persons Dead",
+  "source": "Indian PSU",
+  "published_utc": "2023-12-11T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deepak Nitrite subsidiary to offtake propylene and hydrogen from Petronet LNG",
+  "source": "Moneycontrol.com",
+  "published_utc": "2023-12-19T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Deepak Phenolics inks term sheet with Petronet LNG for offtake of 250 KTPA of propylene and 11 KTPA of hydrogen",
+  "source": "Indian Chemical News",
+  "published_utc": "2023-12-20T06:41:10+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "EX COAL INDIA CHAIRMAN IS NEW CHAIRMAN OF BSE",
+  "source": "IndianMandarins",
+  "published_utc": "2023-12-20T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "DG FORESTS 1987 BATCH OFFICER TO TAKE OVER",
+  "source": "IndianMandarins",
+  "published_utc": "2023-12-26T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Petronet LNG to set up LNG terminal on east coast of India",
+  "source": "Offshore Energy",
+  "published_utc": "2023-12-28T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "India\u2019s Petronet LNG moves forward with Gopalpur FSRU plans",
+  "source": "LNG Prime",
+  "published_utc": "2023-12-29T08:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "A DOZEN IRS OFFICERS EMPANELLED FOR HOLDING PRINCIPAL CC RANK POST",
+  "source": "IndianMandarins",
+  "published_utc": "2023-12-29T08:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
