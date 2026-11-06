@@ -1,0 +1,758 @@
+[
+ {
+  "title": "Adani One, ICICI Launch Credit Cards With Airport-Linked Benefits",
+  "source": "NDTV",
+  "published_utc": "2024-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Setback for Jaiprakash Associates as NCLT admits insolvency plea by ICICI Bank, SBI",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLT initiates insolvency against Jaiprakash Associates, admits ICICI Bank plea | Real Estate News",
+  "source": "Hindustan Times",
+  "published_utc": "2024-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani One, ICICI Bank launch first credit cards with airport-linked benefits",
+  "source": "ANI News",
+  "published_utc": "2024-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani Group & ICICI Bank launch co-branded credit cards with airport lined benefits",
+  "source": "The Economic Times",
+  "published_utc": "2024-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani One launches two variants of co-branded credit cards with ICICI Bank",
+  "source": "Business Standard",
+  "published_utc": "2024-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLT begins insolvency proceedings for Jaiprakash Associates on ICICI plea",
+  "source": "Business Standard",
+  "published_utc": "2024-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ADANI ONE ICICI BANK LAUNCH INDIA S FIRST CREDIT CARDS WITH AIRPORT LINKED BENEFITS",
+  "source": "IndianMandarins",
+  "published_utc": "2024-06-03T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SBI joins the Rs 8-trillion m-cap league; eyes $100 billion m-cap",
+  "source": "Business Standard",
+  "published_utc": "2024-06-03T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani makes credit card foray, ties up with ICICI Bank",
+  "source": "The Times of India",
+  "published_utc": "2024-06-04T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Fixed deposits: Top 6 banks offer highest interest rates on their 5-year FDs",
+  "source": "Livemint",
+  "published_utc": "2024-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank stocks today by Sanjiv Bhasin - FULL List | Election Result 2024 Counting Day Shares",
+  "source": "ET Now",
+  "published_utc": "2024-06-04T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Adani One, ICICI Bank launch credit cards with airport-linked benefits",
+  "source": "IBS Intelligence",
+  "published_utc": "2024-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "All you should know about Adani One and ICICI Bank's co-branded credit card",
+  "source": "Business Standard",
+  "published_utc": "2024-06-05T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Five-year fixed deposit interest rates: Check which bank offers the best returns",
+  "source": "CNBC TV18",
+  "published_utc": "2024-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 Best Credit Cards for Online Shopping in India",
+  "source": "Airtel",
+  "published_utc": "2024-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "10 Best Credit Cards for International Travel in 2026",
+  "source": "Airtel",
+  "published_utc": "2024-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "From SBI to HDFC Bank, what should investors do with bank stocks post-election results? Here's what Bernstein says",
+  "source": "Zee Business",
+  "published_utc": "2024-06-05T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI warns ICICI Bank for \"inappropriate\" ICICI Securities delisting outreach",
+  "source": "ETLegalWorld.com",
+  "published_utc": "2024-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Mkt regulator Sebi's warning to ICICI Bank over ICICI Securities delisting",
+  "source": "Business Standard",
+  "published_utc": "2024-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Securities Delisting: SEBI Issues Stern Warning to ICICI Bank over Its Shady Shareholder Outreach",
+  "source": "Moneylife",
+  "published_utc": "2024-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "SEBI warns ICICI Bank over \u2018inappropriate\u2019 I-Sec outreach",
+  "source": "The Morning Context",
+  "published_utc": "2024-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Top-Rated Stocks: ICICI Bank ADR Sees Composite Rating Climb To 96",
+  "source": "Investor's Business Daily",
+  "published_utc": "2024-06-06T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Latest Fixed Deposit Rates Compared: SBI vs HDFC Bank vs ICICI vs Yes vs PNB vs Canara vs Axis FD interes",
+  "source": "The Times of India",
+  "published_utc": "2024-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Re-KYC update of bank account: How to update KYC of bank account online in HDFC Bank, SBI, Canara Bank, IC",
+  "source": "The Economic Times",
+  "published_utc": "2024-06-06T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Project Irongate: How ICICI Bank\u2019s secret outreach campaign drew Sebi ire",
+  "source": "The Economic Times",
+  "published_utc": "2024-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "NCLT Allahabad Bench Initiates Insolvency Proceedings Against Jaiprakash Associates Limited, Accepts...",
+  "source": "Live Law",
+  "published_utc": "2024-06-07T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple iPhone 15 discount on Amazon: Buy iPhone 15 for just Rs 21,300 with exchange deal and bank offers",
+  "source": "The Times of India",
+  "published_utc": "2024-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Goldilocks Moment For Indian Realty",
+  "source": "Realty Plus Magazine",
+  "published_utc": "2024-06-07T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Home Loan Interest Rates Comparison: SBI, PNB, ICICI Bank & HDFC Bank, Check Details Here",
+  "source": "News18",
+  "published_utc": "2024-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Share Price Live Updates: ICICI Bank Sees Slight Increase in Current Price, Reports 19.9% 1-Ye",
+  "source": "The Economic Times",
+  "published_utc": "2024-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Reliance Power becomes debt free on standalone basis; clears pending dues",
+  "source": "Business Standard",
+  "published_utc": "2024-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Suspended board of Jaiprakash Associates moves NCLAT over insolvency order",
+  "source": "Business Standard",
+  "published_utc": "2024-06-10T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -1.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Ashish Kakkar joins Polycab India as CHRO",
+  "source": "HR Katha",
+  "published_utc": "2024-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "iPhone 15: Discount Prices On Sale; Comparison Between Vijay Sales' Apple Days Vs Flipkart",
+  "source": "Herzindagi",
+  "published_utc": "2024-06-10T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Analyst call tracker | Shriram Finance emerges as top pick in May, beats ICICI, Axis Bank",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Apple Days Sale on Vijay Sales: iPhones, iPads, Macs, and more available at huge discounts",
+  "source": "The Times of India",
+  "published_utc": "2024-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "State Bank of India to scale up global operations through GIFT City",
+  "source": "Business Standard",
+  "published_utc": "2024-06-11T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank will not levy these credit card charges from July 1",
+  "source": "The Economic Times",
+  "published_utc": "2024-06-12T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank to discontinue these credit card charges from July 1",
+  "source": "cnbctv18",
+  "published_utc": "2024-06-13T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.3,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Coal India - ITC, HCL Technologies among top 10 stock holdings of PPFAS Mutual Fund",
+  "source": "The Economic Times",
+  "published_utc": "2024-06-13T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "6 precautions to take when selling property",
+  "source": "economictimes.com",
+  "published_utc": "2024-06-15T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Low interest gold loan bank list: HDFC, SBI, ICICI and Bank of Baroda",
+  "source": "News9live",
+  "published_utc": "2024-06-15T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank holiday today: Will online transfers, other transactions work normally?",
+  "source": "Zee Business",
+  "published_utc": "2024-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Rs 10,000 monthly SIP in these top 7 large-cap funds is worth up to Rs 32.62 lakh now: Check details",
+  "source": "Zee Business",
+  "published_utc": "2024-06-17T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Interest certificate for filing ITR: How to download interest certificate from SBI, HDFC Bank, ICICI Bank,",
+  "source": "The Economic Times",
+  "published_utc": "2024-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Motorola Edge 50 Ultra with Snapdragon 8s Gen 3 SoC launched in India, price starts at \u20b959,999: All you need to know",
+  "source": "Livemint",
+  "published_utc": "2024-06-18T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Credit Card Related Charges Changing From 1 July 2024 --Check Latest Rates",
+  "source": "Zee News",
+  "published_utc": "2024-06-18T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": -0.2,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Yes Bank\u2019s turnaround: Prashant Kumar has a new mission",
+  "source": "Livemint",
+  "published_utc": "2024-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Indian markets see mixed day: Nifty 50 flat, sensex slightly up, banks lead gains",
+  "source": "Mid-Day",
+  "published_utc": "2024-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Guardians of Wealth: India\u2019s Elite 30 Treasury Leaders Driving Corporate Financial Stability",
+  "source": "Indian Startup Times",
+  "published_utc": "2024-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "CIBIL score dropped due to bank's fault: Doctor won the legal battle with Rs 2.6 lakh as damages after 7 y",
+  "source": "The Economic Times",
+  "published_utc": "2024-06-19T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Credit Card Users Read Up: New Terms for Lounge Access Feature",
+  "source": "Telangana Today",
+  "published_utc": "2024-06-21T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bank accounts get frozen as scamsters spread web of deceit",
+  "source": "The Times of India",
+  "published_utc": "2024-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit Card Bill Payments Via Cred, BillDesk, PhonePe To Be Stopped After June 30, If...",
+  "source": "News18",
+  "published_utc": "2024-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Credit card payments through Cred and PhonePe to be unavailable after this date",
+  "source": "Zee Business",
+  "published_utc": "2024-06-21T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "M-cap of 3 of top-10 most valued firms jumps Rs 1.06 trillion",
+  "source": "The Statesman",
+  "published_utc": "2024-06-23T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches industry's first feature to lock/unlock banking services",
+  "source": "CNBC TV18",
+  "published_utc": "2024-06-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Motilal Oswal recommends 'Buy' on ICICI Bank; sees an upside of nearly 17%",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-06-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.7,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces \u2018SmartLock\u2019 safety measure on iMobile Pay, launches new campaign",
+  "source": "MediaBrief",
+  "published_utc": "2024-06-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Bombay High Court denies early hearing to Chanda Kochhar, says CBI cases never start",
+  "source": "India Today",
+  "published_utc": "2024-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "OnePlus Nord CE 4 Lite 5G Launched in India with Snapdragon 695, 50MP Sony LYT-600 Camera: Pricing, Featur ...",
+  "source": "My Mobile India",
+  "published_utc": "2024-06-24T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Gold loan interest rates in June 2024: Latest gold loan interest rates of 24 banks",
+  "source": "The Economic Times",
+  "published_utc": "2024-06-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces 'SmartLock'; here's how you can use this safety feature on iMobile Pay",
+  "source": "Zee Business",
+  "published_utc": "2024-06-24T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank SmartLock can instantly switch off all fund transfer services",
+  "source": "The Times of India",
+  "published_utc": "2024-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank launches \u2018SmartLock\u2019 for enhanced account security",
+  "source": "Banking Frontiers",
+  "published_utc": "2024-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank's market cap crosses $100 billion, only 6th Indian entity to achieve milestone",
+  "source": "Upstox",
+  "published_utc": "2024-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank mcap tops $100 bn; becomes only sixth Indian co to hit milestone",
+  "source": "Business Standard",
+  "published_utc": "2024-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces \u2018SmartLock\u2019 safety measure on iMobile Pay",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank Q1 results FY2024-25: Quarterly earnings date OUT - Check here",
+  "source": "ET Now",
+  "published_utc": "2024-06-25T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.6,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Is ICICI Bank The Next HDFC Bank? This Mumbai-Based Bank Tops UBS To Become 18th Largest Bank; BUY Stock?",
+  "source": "Goodreturns",
+  "published_utc": "2024-06-25T17:53:02+00:00",
+  "relevant": true,
+  "sentiment": 0.6,
+  "material": 0.5,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank introduces 'SmartLock': Know to how to use it on iMobile Pay",
+  "source": "Business Standard",
+  "published_utc": "2024-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.5,
+  "material": 0.4,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hits $100bn market cap",
+  "source": "Ahmedabad Mirror",
+  "published_utc": "2024-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "How to download bank interest certificate for ITR filing - How to download interest certificate from SBI",
+  "source": "The Economic Times",
+  "published_utc": "2024-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sensex breaches 78,000 mark for 1st time, Nifty at record high as bank stocks surge",
+  "source": "The Times of India",
+  "published_utc": "2024-06-26T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Traders' Diary: Buy, sell or hold strategy on ICICI Bank, Axis Bank, M&M, Mazagon Dock, Gujarat Gas, over a dozen other stocks today",
+  "source": "Zee Business",
+  "published_utc": "2024-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Sharekhan Picks 5 Stocks with Strong Fundamentals: Tata Motors, ICICI Bank, Can Fin Homes and more; know 12-month target prices",
+  "source": "Zee Business",
+  "published_utc": "2024-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Stocks To Buy Today, Share Price Target: HDFC AMC, ICICI Bank, Adani Wilmar, Stylam Industries, L&T Finance, CG Power and more",
+  "source": "ET Now",
+  "published_utc": "2024-06-26T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.1,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "UPI frauds: ICICI Bank shares this important cricket lesson with customers",
+  "source": "The Times of India",
+  "published_utc": "2024-06-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank hits $100 billion market cap, what's driving the performance?",
+  "source": "bfsi.economictimes.indiatimes.com",
+  "published_utc": "2024-06-27T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.8,
+  "material": 0.7,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "HDFC Bank imposes fee on credit card rent payments via CRED, Paytm, others",
+  "source": "Business Standard",
+  "published_utc": "2024-06-27T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "ICICI Bank becomes 15th most valued bank globally as m-cap breaches $100-billion mark",
+  "source": "Moneycontrol.com",
+  "published_utc": "2024-06-28T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 1.0,
+  "material": 0.9,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "Up to 7.75% FD interest rate: Latest ICICI Bank fixed deposit interest rates as on June 29, 2024",
+  "source": "The Economic Times",
+  "published_utc": "2024-06-29T07:00:00+00:00",
+  "relevant": true,
+  "sentiment": 0.0,
+  "material": 0.2,
+  "scorer": "openai/gpt-oss-120b"
+ },
+ {
+  "title": "July 1 marks end of third-party app credit card payments for most banks; 8 banks continue services",
+  "source": "Livemint",
+  "published_utc": "2024-06-29T07:00:00+00:00",
+  "relevant": false,
+  "sentiment": 0.0,
+  "material": 0.0,
+  "scorer": "openai/gpt-oss-120b"
+ }
+]
