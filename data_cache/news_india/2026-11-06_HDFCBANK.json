@@ -1,0 +1,414 @@
+{
+  "symbol": "HDFCBANK.NS",
+  "date": "2026-11-06",
+  "headlines": [
+    {
+      "title": "HDFC Bank hikes FD interest rates: Check latest rates for senior citizens, general public - CNBC TV18",
+      "source": "LinkedIn",
+      "published_utc": "2026-11-06T12:00:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQjhHZGc4WWFZaDl5SVVSQlhMZlJVVElScWctWUV3U1ppYlpGX3liNF9KRHJORkZCOUhtMFNxVXJFU1puNlhsSUZTRTYyRHBwMkFDUlVMcThMbVhCV3NoYUEtdndTeThRdTVJWVpzNW1tc2hCV1B1OXRHWnl2Q0JOaFliVUV3Q0E0N2Y5UC1RODlDM1lRUXlhbmtoa0xvSWhuSGdFbTZTZGh6ODB3b2pXaF9CN3g?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank hikes FD interest rates: Check latest rates for senior citizens, general public",
+      "source": "CNBC TV18",
+      "published_utc": "2026-11-06T11:06:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQby1CbnA2bUZRdWZlMGlqZk1yWnJQQ3FzeEVvdFZzdnRFdDdPOUx4ODJXNEh1Tm1PLXp3ajFycDVYNEMzVFZBRXpqVWdRTkVyQ1Q0bG5XWlBVQ2VteFVyY1ZWVEowbVd5X1k3SWFMYXdHWDNqWkJsNEFTRzU2OF9ZOE56cVFwUzdnVDk2MEQ0bVFqOXQ4aG03VDh4elNNelpHWWMwblkyNW52a3hvWHNGTmR2TXZVZHNENERXVEstVVk2aVVCemltMTNDNG5qdF80cjhySi1kWG8yUdIB3wFBVV95cUxNQU05cE96ZUlydVZLRm05TnlWaThGSTlRVXdwc25pSHpQNmhuak9CQUFTZEdVLWxEaGZ2MTN1MUFwUkVmWXZMWl94YXRiR3lWWXNFQjloemdjam1iMUwzc082MnFTYW5QUjhLMGVWR2wtWGp2cUhsbjloWnl4SXNhMnVRQ0hrcDRaUlRzNDRWYS1QXzRkek9WZko0LW4wTTNsek1DOXdOUkRqczRRS0tnb0Y3bVBrYUdZM1RmSnBBWW5ody1wMlRMckpCLXVNUFZjNzBac2RvWE4xRlk0STFr?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Top Gainers and Losers Today: ICICI Bank, M&M",
+      "source": "HDFC Sky",
+      "published_utc": "2026-11-06T10:23:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYmVRWExXbGp2T2FVdF9mY3B0M1NwSHltN040U1hSLUhrSmwzUHFKVEZySFVfYmZrb0lLa1Bvb29zaEoxYmpZUFJmTEtYWFd2WGhBRlE4SDFrNlVLY01ab1IyZV9wX2J3MHV3V2JzVzlycUFhRUFReHNqNnZSUHBjSmpFZzlEX0U?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Mirae Asset Global Investments Co. Ltd. Buys New Shares in HDFC Bank Limited $HDB",
+      "source": "MarketBeat",
+      "published_utc": "2026-11-06T10:07:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUXh6bzh2NmtqOWJNX1hfaDdreklKM1g5R0E0QjVyOFp1NWhxSERQQmUyeE5XMnFpbGFuNFNVbjN6VXlSY1pIOS1Mc0JfMjJmTXRPMlItc04wNmZwdVMtcWRTM05Hb0VKUTM2VXpnNUFicmFwcGQxYkJ2bURmUy1WZlBKQ1o5WXZUZnJaVmRHRm15cS1TUkdOUUpOYmpROHIwVVdZWW04NUV3WVJxNmZueHdBS0VueWV4dHVDU1BRTUxHS1A3SHB0NU9xcmpsdFA2TGRpeVd3?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Ltd. Rallies 3.34% and Approaches 200 DMA Resistance \u2014 A Key Technical Test Ahead",
+      "source": "MarketsMojo",
+      "published_utc": "2026-11-06T10:02:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMXd0MXBnVXphT1FwSERqRnMwbVg2YWNnTVJlUkJwOXhPSE1uRW5vWUFzeHBwTUtzYVg1YU52X2ZNdjFTdjFycWZjV21xbnFLVnJlaldPbS1zcWstZ2toOVhTbHZlNnE4V0FidnpCOXZCOWdPNS04VjlGWXdYcHdEb25jZjM4OTM4SjRFQWR5NG5qdXF2VVh1N3VWWlhDa0Njd0tZaFNncnQ4OC16QVJEX0FHQTk1bXUwdzJj?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Limited $HDB Stock Sold by Vise Technologies Inc.",
+      "source": "MarketBeat",
+      "published_utc": "2026-11-06T09:55:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaHg2M0hKaWF3bl82SmZjZlJOMjJoR3ZWQ3U5YnZvVm1ld2cxWklHNVVxSGRVTHJzeGNGYzZrRUd2bWJwNXVSS3JNTFc0ZDNLdzNEclVNVlRxUEM4UUpBYVcyb2lPa0d2cWEzMVJraHgyaGxwTHppc1FpeXZydWNsUF82VHNuV1ZHU2g1cmYxX2liZHk5UWQ0X2dYWm9jNWRjY3dxemQyd3l6Y1ZLYUs5a3J0Y05NV2Q2WFE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Chief Compliance Officer V.N. Srivatsan Joins",
+      "source": "Kalkine India",
+      "published_utc": "2026-11-06T09:51:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYW5WdlNTWGMzMS1FWmppaloyS29hSXo2a0FYTmxXdEw0c0s5bDZ5T1NhYUVlZ2lXUG9KcFlDRE9CaTIydS14S2VwdS1lVkF0MzM3MGZNME5sRVFLWXdFVkVXaGdlQW5MMXRSTE9rUTRXRTJnUVNsNmkzdHNwRVJ4Ym5SLUlXRU1SV1JDRXNiMlNOTFF5RGZFaVFQOVZOMExIcHpNc2djM3B4RG8wYVp0WWYxSUZBZEdyZnc?oc=5",
+      "relevant": true,
+      "sentiment": 0.4,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, SBI, ICICI Bank, Kotak Bank, Axis Bank, BoB: Check fresh price targets for banking stocks",
+      "source": "Business Today",
+      "published_utc": "2026-11-06T09:30:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWFQ5elNhYmVwTmlLUVRSRVVIWXQ0Y3I5LVZHaXBKSHotRDFMRFVsTWR4MEd2b3Uxb2JnYVdDVFBNazQtMS1QaWNoN0VLeENJOW90QW85Rlc3VVhVYXBTZDNRZHBLMXZPdEFvNllFSWEtcF9yOF80eW1Ub0FCVk1KQkxaTURhdmZpUWczRThkTm8yM2h4Yk15aE9rUkQ3NWxXdmY3TEMzOGNkWGZBdGFmLXNWdlRXRE5rRG5qNjFDVG1yTlR4ZjJMUHVrWlQ5UlpIS2NHWUVGQUNKa1JMWExyVWROQzZwVUpqeHZXYWhpdk1fSEU2cU1sTjVRb0REWjhw0gGGAkFVX3lxTE9sRldKNVpaMXVvUHAtNzBfX1ppNVFYSUx5U3hOQmxrYks0em1weVdMT2xtbWc2aWhEcFgwRnpnVFpfdW1fck9VLXh6VHVxZG1IekRlbDJYWHNPbF8wOHVNdmhkczlRNnA3OFhDVU9YRTYtczJ5U29vVUdXNVdXMDltdTE1XzlpYVVEYTFqY21Fdi1GdXY2bWNnYmhRcU4zNnVTdjI2aTl4MnZ4V1NENnpjRmVlbzd5XzJaRC0xWGZPbktzLWxFOWlXeE5icVN6b1FHSm9QRHgtN3hlNS02S2l1YnJRRTM2OWdXV1cwQ210SXJhQXBPZzFLbU1aZWVaYThRS2Y3Wnc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Climbs 4%, HDFC Bank 3% on Foreign Buying",
+      "source": "Equitypandit",
+      "published_utc": "2026-11-06T09:18:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXhfYlY0UXJLajJPR21NaGZ2aTJzWmxSX0lwajZwZW92Um82RWFRMXRSLTJSVV9PZkdvY0E1VzZTSjNyS3lmNFMyZHl6VjBvby0xSldkNm51aVJ0djlCMGRldWF4WC1vX09MYWlGdktxTHN5b28ySkZCdjl0dFVLRnhPTUM2UQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank stock faces Bagchi CEO vote deadline",
+      "source": "ad-hoc-news.de",
+      "published_utc": "2026-11-06T08:51:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVdkdElKdktlR2V4aDktZ1l5eGJaY0tENnJRXzdYbkVDVWo0VWlrUkJJWE9Wc1JuTDNCcXpJMVhCa0gyd1RzNEw1WEVrT2ZtTGxTdU1MT1l4a2pjY0UtVjQ4SXhSemN4U3hoYzV6bTJxQUk2Vy0zVU9tNXQ4aUljamRyRVd2cHpiRjRDUXJOaHAySGV5cV9KSnI1ZFVQT1Y0amVYN0tyM2Z5ZkJjV1E?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank and the Nifty are set to pull off a feat last seen five years ago; Details here - CNBC TV18",
+      "source": "LinkedIn",
+      "published_utc": "2026-11-06T08:32:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0hvTXVwaTVxLUhNeU0zenBXOXlYSUVBSnBJRWJ6YnhELWdxZmpGNnM3Z1FCd00zY1VqaWZPdmtBLV9VMGVEbVpwSUtjeWlfQXFsTmgwUDdRRXJQZmtKWkszRlhjU3dXY2MyRUxjWVN1ejdkYVRJRS1xaGpnVmJzX3YyODdzTW1HanRnMnRKRmxITEtUd0U5d195MVVOcHdEVVhfTzQ4VGp6b0VMSlFzTnhtc1hWUFJJdVE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali stock picks 2026: Titan, ICICI Bank, HDFC Bank, BSE, Eternal among 25 stocks with up to 46% upside...",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-11-06T07:53:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPejN5Z0dBRHFUY3JtYlBlWU9talUwNGJ6TUowa3FSY1F5QlRQMFNCSGVkS29sbTNkMF9tbzVfYXRwMHNwRnRBWEVUelJHcURJUFlyWmNabEM2OURneGI2NWl0amI4eUwyZ1U5UVdmaGRrbHN6M3U3RWZZa2hwX0pod0kxZ1dncEFUcHNrZEdHMFltUGs3eGd2LVJoajlhNXQ5Z2pmYXJxRHBQMUVzRmN3RVVrSEdPTXJpSlRsY3Z3ZXdYMzhvRUlDQnlUNXFhUzJqUlJyX0U2ZFd2OWNjU01WcDZCV3R4NHZkaFEwT1hwWmNqc29qSXJWWklEaUhBSEtfTVNFaWl1SVNHSWp3bDBaZUxhMnlZdmdEMENFRDlLTlZ3VngtTmdR0gGsAkFVX3lxTE9MNDgybkJ0ODNEWjluMmE2Umk4NVA2d0c3UFp1LXdoeGE1SlVqd0xTY1E3ek4zajJpclowZk03d1dSb0kyMVVmX3dYSmlhZ1hWZkotYXVaeXJMS19JMkFJczlXTl9yR2IxWmdfbWdpcmZxZWIwbTYwWlZGa1RoVi1DaVptM3gtb0R3SlFseHlQVEhUTHRfNnZJRmlKVzlhTE9sR0JyMHdvTTBWMm9CY2ZqTHFBaFRIQl84SlFDQWdVWjZvZjVwM3N2ZGI4VVQ2ZW16UU9FQzIyU2lMSHlGb2phRGM3d25td3NBcUwwZlNsRkw4cmNaM0t0VG1VcG80cmp4T2JHX3RvQmE1M194RVV5ZWltUWJhcThpaWhRckZhZF9GdHlaRWtDMGpXMg?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares rally 16% in 4 sessions, cross \u20b912-lakh-cr market cap",
+      "source": "BusinessLine",
+      "published_utc": "2026-11-06T07:22:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOblNXWE5DR2EtR1ZBRVFnODdxenU3aTZCUm16bWZOVHhyQ2l3STlYelQyU3NFdDBmdnpvTjF4d2RiSUh3VXlndjR1ZE43REY1d2ZYRDV2UUJfREUwOU90NFgzQTRmekJDUXh3dGI2VUJ4OU9SQUswVTdMM1RPcTc5TzEzdXNFcHc1Vkp3MDVYbVUtbnVxZ2lDMWh5NXJjbkhTT3g3TmxxX2EzTUQ1ZnhaUGdQMWZ5ajJweXVnZFo4eWYtNFBfaE9NZDJfdzBaeDJGem9zTzZCQWVPbmNMOTRQQnlrenhTcE3SAe4BQVVfeXFMT3h6alZmT2xjQkpXOWJsMV8wTmNsaG5OSnVhS3JxTXRpTUgzV2ZiamJUUDBqQkhNWE14clNWSDdUbkljVE8zRm1EYjFtb1ViWHgxTzJSaEFiOXB1dDFvR0VpcVZEU3hGYlEzbUhPV3U1TVFmcmhwdnRiVWh0NWdVeWlOY1VTWEtpVDQ3VUNXSXMtc1ZXMDh0ckVhRnAzUksxYTdzUGplSEo3ZkJwcVJTUE5wNkJFMy0wOTJBd0FxdUR3RW9JOTRIS0VYOVJ4TW9nS1NDd1duVW1mblA1MXViVHdBSlNKREZLUFFIRTZRUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank and the Nifty are set to pull off a feat last seen five years ago; Details here",
+      "source": "CNBC TV18",
+      "published_utc": "2026-11-06T06:28:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRl9iSG1WSGQ5S3NTWHV0ZUJnSTlsblkzLUFDSC1acXBaSHhkbnI4clB1Uk9uLVE4dlBoTXZTVjZ4Nnd4V2hPUmJlVGQ0b05oeXVxWTltWEVNaEZOa0VzQS1QcTZLM0V0SEVnZFJJdG9IeF9hZGJ5ckU4RmdRSVJ4WEdyM25jbDhKeC16bGtVdlh0YkJDZkExUURIQ2xZYkNGVVhlc2F0NHU0TVJRcGF3TzhiUWZLNkZZU2xua3dlOTQzQTdZQXNDRXNIY3VrNnBlNzRmLS1RQXpLcGfSAeABQVVfeXFMTUpYQTVHYUdEeFg0NmpKNGE2c3VBM3NNYzZaLUZma2xsd0tLSWFReVVsVEp2NFU1SUZ0RnlfM2NLRHFCTUdJa2NjU0h3b3k2VWhkWVBzNnJsYzhQSk10bVphSnV4TmhhclRscmNtMzRIQ3dmakF3UURLUTRiOHdPWkdzMnlGWnhQTnI1eXNOemNmQWwxM2Y2cXNkSU5kNWQ0dGNjWTNJNm9FcEhkb1dlRzM4TVJ1cGY2RDJEZWNaZTRSN0xaTUNJcU9OdGc3V1dzNjg3ZVlQOGtCQk81QzREb0E?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank surges on getting nod to offer capital gains accounts scheme deposits",
+      "source": "Investment Guru India",
+      "published_utc": "2026-11-06T05:32:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDdPOXU0V2szTWhWeEtrZG1jdFctSlF6SndCV1FRVGl1LUlJcmstcHlJV1V3bjQyc0Y1eXNuMjNBLTlXeDhRcDA3b29zLTVIZ2ZfR2sxODE5UkdqeExNVVIyNDhiOWZvQUY4ekpsZ3A2MHpyaW9Tc2MybXJYLTZOTE1sV2s0RkZod0I1RVpIcERwZHNaeFdqTVF6dTAyVnpzdC16MllRcEhGR0tfRENlWnQ5a2Rvc3pvLXdxVE1EN0RPbWQxT09B?oc=5",
+      "relevant": true,
+      "sentiment": 0.6,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Banking sector stocks today, November 6: AU Small Finance Bank falls 3%, Yes Bank down 2.46%, IDFC First Bank declines 2.39%",
+      "source": "Business Upturn",
+      "published_utc": "2026-11-06T04:23:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR2pTamM3V2lQLXA1OFRKdnRfYWxUTWtWSTdJdXRQWjNhSGZCMlpoWlNqN0g5b2dvMkprbVUxeC04ZjVGdWgxTW91TDFyODBoc0x4M0FKUDlpWllZNW0yVVB2clEzdjJwaEEyc19SR3F1NWpGUnpoZ0ptaDVWZnNGRllGM3ZrVDV3eVZOaXRxckx0N0FSd1EyVVNGZ0hmRmhNMF9VQnltQzQ2UkZYanpEZGduTmtVazFnbXFXU29BejVzYUNCQmVKVVB3RENDZkkxXzhyM0tCeE5oQXI5em9qd1p2ZkJLbXlSUlU0T1NlRDlqTWxqTEhJblZR?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Key facts: HDFC Bank IPO adviser; HDFCBANK rebound levels flagged",
+      "source": "TradingView",
+      "published_utc": "2026-11-06T02:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1ZuVEZtYlhwU2VaVEZSbFRtbV9BeWhJbmFxNlZ2dklIWGJKMXIyMU8zSTd5ZC1leFRwcnJQaVZvejY4SUZvWUJJc3N0clBkMDJiZHU4NVplWVZvaHFpaF9TUGdkQzZmbmNHZ25uc0U0bThnUnFjcnZxaFhJRzFxS09xWGJZQlJEUF9pMDk4T1o3QVE4ODBHeUQ1LWJKTVVHcEI5ZVN5eUpfQ09pRXBZRzhiQ2lROVJVbUQ1eXdMZm1YbVE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Are banks open or closed on Dhanteras 2026? Check if SBI and HDFC Bank are operational on 6 November: RBI holiday list",
+      "source": "Livemint",
+      "published_utc": "2026-11-06T01:28:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPV1hSam5PRFNhQ0NQZ0pQN1p4eGhXZmprRmZtdWVPUUhWZmdmS1phVTJxRFV4WEl0Z0JRNGVrZzZMMWtuUkd0NFpVdF92Z3FjekdrN0ZGM1NkTllMeGFfSTlXZXREWXhzZGZJNVIxbzBhZUdENzlYRlY5akJBaGRrb1N2cFVJOHVhWjk0MlZWanltQmdFNU1PdkhTb0dQa3g1ajZQN1ZGcDRzQzBEN1NEbVRyMVBpYS1neE1MTmdEYnFLOUVjTWxLTG9zd2Nzam42NGhKYld1eTI4TUhTNUV4RUt4WTktNjZDd0x4Vml1T09kUEtLbkdLRmhndlNkeUlkZWJ2SHY0V3pWUFNzZzhkQWpR0gGXAkFVX3lxTE1TbDZ1cDBlMkxldHREZk9sTm1RVTB2TnI5b3lSUzQtRXliOWYyQmJSLWxzYVZmb1A1UjJaYm1ZSkpHc0FjZGdZTEJDeFAzV1hWTjhZRy1SenM1Nkp2RmdPOE8teDJQQVdxYTROdkRlencwUk1OaU5tdF9HWVpHamwtMTBKY0UweGMyWmoySEZXd0VkdE5qb0RwekRROHN0YW1KX1VrMU45emVqM21YUkNqUjZHVUthcnhZdDlpMWhTRzRreVBPcXlYLVl3OEF1eG9DT19vY3N4VnBwV2twRkVfZzJJQ2ZGYjA3aW5jUUJ0NmN3MW4zcllzTkpZQUNXLUhkdElJNWxDeV8wR3duQkU5emJ2RDE2TQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Pros and Cons of Investing in HDFC Bank",
+      "source": "Equitymaster",
+      "published_utc": "2026-11-06T00:30:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLWg2VktfQTl5YVB3azRCMnpSU2FuVnQ0blFQN09JYVZMYUtwandMR3cyeHZmSm0tWlFfbmw1V3FJbk9iN3pxajRBNDk0MWZmOF9tOFBKWi11ZGtUV2xUU0ZBeE9XWEplWHM2bUo3UGx0RDhaUzBvMUxqbS01RUF6UmlxWjBJSERBTF81U3BNdkpTbzdDV2hReDdKSExadXZvcGlpeFFjczl3ZTNQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank climbs from \u20b9684 to \u20b9756.70 in November trade",
+      "source": "Multibagg AI",
+      "published_utc": "2026-11-05T18:01:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW05cHB5OENKZkk5V1Zfc1JrV2tjdEc3RzZHVHBfblZCMUJDcFNROFVhajFqNl96ajNHdDl4X1BSeHV2VFhCRWtoelZEUVlPbFU0UTRVLTNCNjgxcEgzd2Z4TkJYSUNvLWM5NjdiVjVuR0J3VTNNM1Fyci1mYVBIVTdfZDREUW1VdEtELTd1RXlBWTNCQ09lMWYyMXBuMk40eXEzVg?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.15,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Buy, Sell Or Hold: ICICI Bank, ITC, Kalyan Jewellers, Mahindra & Mahindra, HDFC Bank And ONGC \u2014 Ask Profit",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-05T17:17:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEx5SVVwcTUtUkhaWlRCMGx2SDA2LS1KU3JyREl6Z21KcFdEU0w2Vnc2aFJJd2U5VnpYZWZWU0FxV0lGUjRWQVBvZmU5WXJhZ1d2bUh1bTdQYjFnSk1wbzk4YXNXXzIxRDNNS1JmY0JYb2NTWVBTMkRFeFZMS0xkZ1l3c2E4YWpGNmxQRGdXWHBDQUZkTlVNVUZmbU1zQWgzVWRKaVRvZjJEVmFiZThqOWY5Mm1Wa1VSNHVUX0xlalNBRTkyeUpILXRR0gHSAUFVX3lxTE1PdlJoaU5Wczh4QThWRDBEQ0l5SFZJSXRXRTlTM05KNlBad3l4QzNEZE9ZbmNyYTBUajRfdVlZVVN4MkQzVjJkc3ctYmFGcWNlZ1lWX2lCVXdQUG94T2ZEb1VXQnh5bkR6RUlITGZrUVhtLWNxNC1TbnpITDV1bmNVY1IwZ01QUGdMdVIxTWxJd0ItNGkwOUFjUWNDcnl3TndVZXR3MEJESTFpWTN0bHZfaktKaV83SFJjRXBNaGRsYkpsT1dJU3c5d3BGZjhRT2EzUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart",
+      "source": "Upstox",
+      "published_utc": "2026-11-05T13:52:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1haXVDV2V3Wm5yQXBKZFJjZjkyQ0syd3BZWnRJZmo5UEdhckVTeTViZWtfVnkyRF9LVGRwSXZwMEo4Q1lUSDZfUzFlQmM1bEJhaFZEMXhSRHQ3S0h0THNBdXBB?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Senior citizen FD rates in November 2026: SBI, HDFC Bank, ICICI Bank, PNB, Axis Bank compared; which offers the highest interest rate? - CNBC TV18",
+      "source": "LinkedIn",
+      "published_utc": "2026-11-05T13:21:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1BkU2tiTkpwcWtPNzVGeUQ0VWpIblhyc2RramFRMk1tS0xrYjRuS3NJdWNOaHdDYWNhcGRnUVdjellOMTU0VGpKcVpYYVd0RjBiTEFZODJ6UVUtREx3UHhPcjFZSzcwQThZNW9lY1pGT0pFOFQ3Y0F4bUpnamd5TDc3ZldhRkN1RXBEUG9Md0R4RFRtWVBtWERzdnY5RTdiZURIVldDNEJsaVpTMWxZWEZQcGI4Zw?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Senior citizen FD rates in November 2026: SBI, HDFC, ICICI Bank compared; which offers highest interest rate?",
+      "source": "CNBC TV18",
+      "published_utc": "2026-11-05T13:08:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYm1QMDdoRDFYTjQxeGJ0WXlKdnhFQ3Y1VUVqOWlLVnphaU1Pd2RxQ2dwamZhZ0prbkE3MGNlM2lpTTFXU25mcFo0dXAwY0NuWV94NVkybUxLWElIa09PZHhhU0FvZ0VRS28wenhXY3ROTlBCZUFIajVyaW9nczJaNTBkcGtzNG90anJqcFhxRHlOZ0duTHhLRk9iVG5fUEtyTnZXZzFrYjZPMXAxdHJ5S2lGWTZILTBhVXZuNUF3d19mN2hjc3M3TG9mVmJsRVdSa1BkSjFISEJhM2s0dDBTVUZpVEVHWENnTDlEbzR1VWY5WE9tNHRPb052OXg4TjdqZ2NpbXhQdG1ObHFVd3Fn0gGUAkFVX3lxTE9QZS1HYm1ZQTNQdXA2QUlJSmFpbkpZLUU4LV83eV9lVU1adjNMZUp0QVN5aElGeHFjMko2a19ZbEZ2NjJxYS1YVFF2V0hVemNzZk83SXo2RGNDWm1aLVdZYi1tdmx3UlJHNHVfZHZJSXJDa1FxQ2kza0Y0X2pmMUxhWURZN1JzSzZOaVlxTW1iaDg2ZWlXaGVONFhVWmNtbUJyYnpsR3lrN3ZKMm9KOTVrRUlubF9ub1Y0YUduTnhOcVZBOEtkM2dDdEJpVFpRRW53RmZzYkptbGxHbVV5NVVGMU1XVmtFdGN3U25xeVgycl9XdlYxNjFaajZKSXdiNXJoeTJxUDNuTTB0alhkTjBpdHlXUQ?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares gain 7% in five sessions amid outlook",
+      "source": "Multibagg AI",
+      "published_utc": "2026-11-05T12:24:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa0JGSzlwZmJpamdhazF3LVVUbXNaa2std1k0NnZVTkRkNGpCX0V3SGVKd2tXQS0tTmxlekxQRFdWZHhlQ21kTjlHMUtvX1pJOFBGbkdLSk5yeWlpN19OOU9vNktmUS13MV9sMktsYlY3SWtyZ1BCWlVhdUVCMnpJZWlDeXJJMUsyckRpRVpCWENYckZmcl9hNmFDQk4?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "140,779 HDFC Bank Limited $HDB Shares Acquired by Pzena Investment Management LLC",
+      "source": "MarketBeat",
+      "published_utc": "2026-11-05T11:15:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOanlwaF9DazNtdF9mNUYtN1lRT3c5UmptcXhDMW53N1NXbWVDVVpJWmJOd0VYdnZvNDRGRkZLTUtRWkVLUXlQcE1kNDR1QVZMTC1Nb2xrZTF4UFRpSUVFMm9sUGRwbHozdjhxZmN1MU05bWlyZURYaksxWHowWk5hVzA5eW1LVGpRdnZ1dU9TS2tKS3R4MlZRN2VUR09xSTVtRGlidnBrb3ZGTmtRM3dWMUtpZzh5RGVyZ2dYMVhJMVVlN0xvMkZMUTdsc3I1NTlzSU5XWHJzYw?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank revises fixed deposit rates; senior citizens get up to 7.20%; what about other banks?",
+      "source": "Upstox",
+      "published_utc": "2026-11-05T11:07:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaUNkLXlKbFY4TlhvelRzNzlZalNBRC1FQjhBdmp2RHUtZG51anVadW9qbXQ1RlE5UTFzZ0ZnbjVHUXFCR0o0LWhXNjc5VEFvbHVURUFOLXVsM2Z1azRXS240bUJLSWZfeE9DWUdXS2EtaTR6QWtsM0hqVTAtSWEzOTVTTG9Jd1pQLUtyYUFKR29hZDg0UWlZS21pWmF1S0pCVUdXNzlabm1NcVAtSnZNNTFQcmlWdVcxZThMZU5qMjlwWWx4TTJELUFZVEZ4aC01eVFya3llZVowTzg5dVhOVVJYT1g4dlB4Nk1NNg?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Offers 5% Off on TVS Two-Wheelers: 3 Best Credit Cards to Consider",
+      "source": "Trade Brains",
+      "published_utc": "2026-11-05T10:48:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0FNVldxdmFhMWRQUlhTUXBPaEVyZFNGdlk5WGhsekdfeTExVTBWampKaHllZ2FpWDE4bHN2WjdWZ2lvY19JbkZvN1pfcUt2R1FicTYwTTN1akVfQ2VyUUdITTNPNGs0eThfYnhtUThaaURSazB4NkhPaUZUeERUUEhUdVNwdVJSWW81Zk0wRE02WG1sNmxzYmVLdU9vRno0TnZOY3ZGR2lFUU9QUmZyRUFn?oc=5",
+      "relevant": true,
+      "sentiment": 0.1,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC bank faces Consumer Commission action over double debit of Rs 4,150 in Chandigarh",
+      "source": "The Tribune",
+      "published_utc": "2026-11-05T10:25:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFVRUWNuWjlUQ2pvTE9TYXV5d0RsQVBROHJSLVJEWFIwZzFxT3FGSGNsZWZ4UG1xU0gwR3NyUGdtUjBQWmVRb0ZKNGI0R1lyUE1HbVduQU9LNXJfMkxGbnhSd0hWYVN5bHVESkNYR3FBTVRVX1A3aHplMHh3Z3k0OEpFaGZUYkc3ZnlFbDFUVDBkMEJUQko3cllFVmhKSEN6ejZfa2xYNFJVSGtNXzEyNkpJSEpid3NpdGdkTFhyQnVfdXdobzBZQmhEUdIBzwFBVV95cUxPOWJHZDEwclBOdFJac2tKdE1BUGNsQ0V4TW95UW5DcWFLVXhiUW15ejNSSmJ6cVl0Uzc4YmRGU3lQVmdKUllhdEdWSlo0RG8ybm94VzVpMzVxbWxtZ1hwSmJ6RGtaZHJUcFI1Nk9zclpGeXNYel9TYmgtR25ETlpTVzVGU21qcDQ0LTh0QlJGXy1lRzREVklmTXJiWGJrbncxN2M3dGpNTWFXR0trOTRERk5ka2dfYUtNWXM1YTRzMjMzYjRJRUVKZmNVaEs5cWM?oc=5",
+      "relevant": true,
+      "sentiment": -0.7,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ICICI Bank, Axis Bank are BNP Paribas' top three banking picks; here's why",
+      "source": "Business Today",
+      "published_utc": "2026-11-05T09:30:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa0VSUFJUOHRwWS02akpVN21iVjQtMXNodHN6Z3Zxa1UtQ3Bsc3N5THFXMU9sWDZIajBBRWRsWkg4T3ZUWGl1TVdFNFpiRXE1SXBhOE12akNuWnpLMl9GejJ0Q0ZDZlJHbk1VYkc0cHNnMHBlYm1UcjFjRHhRV2luT0JUMWYxMVpONjhvVlYzVWIzS1NmalVwa21QTjRndkZBUXJXOWsxdjVpWnZpT0JoNkx4VVI5czF2RTlKWmdlWnBvbkhvemVLYTJldVEwa19WUkItVDl2a29fbUE4ZmFKZmp30gHnAUFVX3lxTFBGY2lTcVNtSzVJU0haNl9GLTViM3hkbDVZZC1qZU5IVHczUGJkOEVITkVuOVFqbUg5VUFMdm5iMWJqNDNMMjF2T2dONzJBWWFfUXdxWUUzX3ZCSm15MlpNQUJiTnN3TFZSWmpvckNJZzdXN18xOVF1TlpLSU41UDFhZUh5X09iUFo0MzdVOXZjZ1lkSmUydW9zc2VfSFRtYUhneXZqc0tGU1hwNVFlQl9yVTlwTGhIUG5rbGhycThvVjhETDJlMXJtT2RJVU1JVVl5SWZhZ0J5YzRQSmtRZTgzVWVWNnJpdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.4,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Ltd. Rallies 2.9% and Approaches 200 DMA Resistance \u2014 A Key Technical Test Ahead",
+      "source": "MarketsMojo",
+      "published_utc": "2026-11-05T09:04:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeVlITnJhQ3B1XzJ1eUJoYjhiZ3ZrMUpVX1hMNlltU0oyeVd0WDc0RDE5X0dla1pWNkRqQ2tXeFpkTm9HbmR4WTgzVVFja1M0cGtQWjlGMThIVUdYZXhyQkJ2Q3Vnd2pBb2o2bElrczFBTkxiVWJfOHYxazk5NUExWFo2WWhUbERoSk9NS0EzU1RwU3NTLUdFLVhmNWZzZ3JlbjQyYjJ4eWhSaVJHVnktYzY0SE9oRkk4RVE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank hikes FD rates: Check new returns",
+      "source": "NewsBytes",
+      "published_utc": "2026-11-05T08:33:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNWFGdV9FcXRYSmNNb05NTWJDY0ZNVXFZOHRsd1c3NWhZTGd2Nlk1X3did0pvTjdGNjgxR0NlYmpPa2xKSmhQNktsbEZlN1A0VHB1TVBNdFRvUDdCdXM2ZUF1YkhnZE03Yy1SRkhaWUxrM1lmcTlPWnhwZGxEMEhYT2lWYWNESWl5elRvV3dkUERKQmt0OGc?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Offers Capital Gains Tax-Saving Deposits",
+      "source": "The Blunt Times",
+      "published_utc": "2026-11-05T08:23:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkVYNzRydElEY3UxSEZwNVpneGE3M2lWWnd6ZEREZVlLekZRaFJZSWxXUGZCeDRwUUVlR1hSRVV2VnptYnFUM2VyTUlmOGNpcUhHZThxcmZJSFNpM2YyYk1DSFg5VVNKaHQ3X0dQWWlhT3g3ajVvQTVBU0ZpYWZOWk9FS3RFZ1FpNFE?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank lifts FD rates up to 50 basis points",
+      "source": "NewsBytes",
+      "published_utc": "2026-11-05T08:21:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc2tSNVFBdGJyWFJMZWdJV01ZNXhxdTZyWEs1cXRDN0N3U04zeUJmS1BPdE1SV2EzMGVjZHpRVEZVc3dHdmFUV2VjQ1AtdDZzUWJ1NExsRlgwZ1hCbUhESWFZTXVudDhmR200ajh3Wk9CNUhNSzk4TGVMYm96eE85WlZoOVgwd2hPblJtMWZDaHVvS203RjM0Y3JB?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares witness strong buying, rise 7% in 1 month. Can new CEO, improving fundamentals drive next leg of rally?",
+      "source": "Livemint",
+      "published_utc": "2026-11-05T07:37:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPS09sVURHUXp2cEFDQW9BMGdqQmVHOHB2eE55UW5oSFNYVGw2b1pKUTRiRi1MVEk3b245bmowTTBYNGZvTXRUX2lmbWppT0pzMTZEQUhHaklVYTlMYUtvR214UGpJTElra2E4eWpVaUNiN1lDR2Z3WGxUUXVnTDZsUk4zcDA1NTZBSVM1RmJyNUp4NzRaT19fb2R0N2pmdVFFTE9GTVNlbzQxOEplaC1ZLVAtMUF3Tk94bjRQbU1TVzlxQmxmYzNzZ1lfTjdlV051OWhQTjltMDZ4emNMakw0ckVsSU1lYUt3MU43ZlZzblNVQkNQSHdqTTREaVNTN0xOQnlzel9kd1lmd05ueFg1OFYwVdIBmAJBVV95cUxQQUdWZF9ZZEJNQS1uWFo2S0xHUEdZdTJRdXVjREw2cVFkRDlLU0dIZmpEV2RjMXZGTF9zTUJtOERPT0M2TDEwblMxUEZmbWhtRERMX1I4ZWdOLVRQWFJDSjJIR0k1bmlWVy1LeWluWDF0d2hjYk16cGs1Y2ZsbFdUdmtMR2RCS3BHZnBZUWk1Mm5oV3lta29PSzdQaDNIOEpGeXl3Z29RWW5QMVlFZVVmd1c3QjBtVE1wMUxmQmp0NlY1WjhVXzFNTlVWZ19JcXBZdHY4UC1ieG9tTlRKX0ZlWFlPSUgyS1hsSFR6VEV4ZjdUYlkwbUVTZEhFWmN0dGYteExkbDVvV1ZPOVJSQWlCNWNEdnBqcTlT?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sold A Property But Haven\u2019t Reinvested The Gains? HDFC Bank\u2019s New CGAS Facility Could Help You Save Tax",
+      "source": "Free Press Journal",
+      "published_utc": "2026-11-05T07:25:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdm5SVXZFTURSWDN1dm9sRVhvMUVPX1c3ei1mbnppN2RfQ0VpTFA2cGRmZlU2ckR0RDdTRjMzYTZJR2w4aTFVZFFDVEppb0dTQ3NTS21HZFhrc2R5WUsyR085YkJKVTRiYWprQXRfeE9BY3FLQkdfU05hN1kwb2ZEaGJ6Y3lZTjdJZUxxckFENEdLd1hpSXlCNXgtb0ZxTUQtelhsRWw0bWkybl9VNVk5VERxQlAwUHh6WVBwU3lHQmdhNUFCZnN2dC1QZDJtMzl4RFFtUVBuc2XSAd4BQVVfeXFMUHMxd2hwZ3VQV2RiRDJoWGIwdnRoWWpaa3NnX1A0NlRaXzlsUUZaME00ak5hTE9KbVpNdDRhTFJaOTVnazNMMXNaOWZWbzBPZ3poaDlIVTRCQmxIbU0yLTdXbDN2Y2wtYnFDcFJKemg3eURwcWlLcjFYN2FFV0tyNlBHVTc3UDI5c1hveklZV1dVRkRYeTgwNTRnUzByQ0JDYktwOHZtZU1TdzlBd2ZVZHJoUm9RamtoTDBCcEVjUXJpa19tWDZrZFF1c3JienJFVFI1QlRrMk9XZTA0Q1Bn?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank increases FD interest rates by up to 50 bps: Senior citizens can now earn up to 7.20%; check rev",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-05T07:20:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNYWlncDhxdTFuWDRRaGZJNXJGN1REaXp1a0taVlZlX2RrbDl2bnp4ZHMzOG1SODc1OHV1bG1BMEExNkRTV040WVdfRTRBSEcyTjE4dGpKUkRJc0lwRGRYeFo3ajkzVUI3S3FNWDlGelJpSDhUR0ZBRzYtb0VjUjg3ODFPMnl5YkFvTkI3MHV5YkRYdjh0R0g1ekNXemR6ZGJqNzhhMXFoejJtYU5RenB2QjJGT1hIbENkLXZjd3BUVGNlaWZTVGJiaVpmWmtCQzBrZnNPdDQ5cDg0VnQtZlNpTldoUEEzM2JSR3FoN2UwN0kza0lhaThVVnlJOTY3Sk5hVmwzWGJzbUYzSlMtRVHSAZMCQVVfeXFMTVFpRXJFZWR6STlpdGVfNUZkR1RBeWlWMHp6NFJaYWRZaEF0dkpGV0tRcTZwemdsM3NDV2VZZkVLM0tCV1MxRzhvYm9PVlBRaVROVE1SODB1a0ZtcFh3N0Z6VkN6Xzdtak9NUF81UnkxQ2JzWmduYWdFTVFkN2RLUVNKS2lORWJCWWR0SjdpRWwyakdlVXBDUVlQZld4ZzNVSVd3YkJJTHNyR24tdEl4VlNoS1NxMGNuUkZRYWZUVDZ6MGRiNHM3SEVyWm1rUGhiVDlRdEUwb09uUzdLWHhCcS1CcEF2dHd1N1MwNmM4c3lWVnhwOTBXLUlxWHJUUzNWVHFqd3NzV3A2akdqXy1mZVRBeTA?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank climbs for third straight session, up 12% from last week\u2019s Low",
+      "source": "TradingView",
+      "published_utc": "2026-11-05T07:10:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRHhQd2p5bXRGZDE5MlNGUXJ0UGpocVhqNXVoME5hU1RyQ2t1dHFvOFlDWWtKdnMxbU1xQ3V5Mlh2UU5OdGdkZXl6ZnBMbzVtM3NzWksyYUJpbzJzSlF2UnZ4N2F0b1hYVWY0OWhHMll6bkdkUW1hV0FaZEFTMk96NnF6UHB4TDRLSnMxZGNvTWNVUGlUUmNVd0IwaVM0ajJQb21ycTluY1UxcFI3SzNGZUx2NUpVcjl4blZpZE95ZEJwZmE2MUE?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.15,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares rise for third day, gain 12% from 52-week low",
+      "source": "BusinessLine",
+      "published_utc": "2026-11-05T06:42:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaEJIeWdpUDFTRHk5QV9QVzlMS0FwdVBoVlFMWldqOHRsVC1xZGZHYXBJekw3dzFpbVJtMzdOSkU5WnhZV0tCa05HdlJKbTRWR2QybFhadVZsd2h1SFl1REZCUF9PMzh1SkRhZWdTZU5aVmNieUFTMWdYZndrM3NXZ0s3ak1MWlFTRmdMdzJxb0dxc0xjZEFOYmdvWl9PV184THhGZmFsVVhmOENiZWYxNzV6UERFZUZnNm9BaFNzcVMxVUVoUUE4OEd3UndVMkc4bGhVQ01sX2s5SERvVE1FenRn0gHoAUFVX3lxTE9ETU8wOGFta0FFQnNqTVBHZzFGRkNPYl9hbVdnLVo0TnZPZTlpbU0wa2w5VUJfOEMyN0hVQWJoUjdjcEFLbjhwOV9vWlhzNlc2R2RDY25jTTZ3d3Z4bi1GdWN0bmRVcVJlMXJ2YmRMQVZNbFlRRzVFX0NXbzAxSGMwWmt0SzhKaWZ1SUtiOEFELU9MeTBiVWRXMENyTlFMbXdOLTZTbkVZV05rRnFLckZFaklHTHVOMk5JVHp5b0FlYkJBOXYtVWJkd1MtZkJZTWtObGdYb04xcVRldlRsRm9MeGs3b21zTl8?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.15,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Xpress Gold Loan Offer This Festive Season: Check Features, Interest Rates and Repayment Options",
+      "source": "Trade Brains",
+      "published_utc": "2026-11-05T05:51:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeF9hckZ6MVV1cVpsX1UwYXpVcTJoendMMzExYktCMVNoY0lGS1NmVm5vSUtuLTBuMHBlTG9xYm9VSkc1Tm9ERUV6ZnI0NHNRcjRaT2N4TFc4RUZ5ZlZ4SlVDcVBYUlJzTHBhQnVOZ3JOX1JQSC1ETTJmOHV4RHEtT2Fqb3pKZkEzSHgxWUpQc2tWS0taUzhmM29rNGlIOXpJOGsydFUzaDM4Qmc4N1NiUVltTVU1LURkSFlGaW9TX3dKT2ZPSHdoZlV3VExSNldTT1RWcjhoVVRYZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.1,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.116,
+    "strength": 1.0,
+    "material_count": 7,
+    "view": 0.116
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-06T12:22:33.484263+00:00"
+}

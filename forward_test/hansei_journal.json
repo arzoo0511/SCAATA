@@ -8310,5 +8310,286 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-11-06",
+    "ran_utc": "2026-11-06T12:22:51.963743+00:00",
+    "equity": 10584.05,
+    "benchmark_equity": 11048.83,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.163,
+        "target_exposure": 0.674,
+        "current_exposure": 0.372,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 37%: no strong reason to change",
+          "momentum against (-0.59, trusted 30%)",
+          "volatility against (-0.24, trusted 22%)"
+        ],
+        "views": {
+          "trend": 0.168,
+          "volatility": -0.236,
+          "momentum": -0.594,
+          "news": 0.116
+        },
+        "shadow": {
+          "relstr": -0.209
+        },
+        "value": 788.25
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.14,
+        "target_exposure": 1.0,
+        "current_exposure": 0.742,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 15% of the book vs 20% target",
+          "trend supportive (+0.97, trusted 24%)",
+          "volatility against (-0.78, trusted 22%)"
+        ],
+        "views": {
+          "trend": 0.968,
+          "volatility": -0.776,
+          "momentum": 0.437,
+          "news": -0.205
+        },
+        "shadow": {
+          "relstr": 0.736
+        },
+        "value": 1571.2
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.365,
+        "target_exposure": 1.0,
+        "current_exposure": 0.899,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 90%: no strong reason to change",
+          "trend supportive (+0.96, trusted 24%)",
+          "momentum supportive (+0.41, trusted 30%)"
+        ],
+        "views": {
+          "trend": 0.956,
+          "volatility": -0.0,
+          "momentum": 0.408,
+          "news": 0.059
+        },
+        "shadow": {
+          "relstr": 0.719
+        },
+        "value": 1902.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.103,
+        "target_exposure": 0.793,
+        "current_exposure": 0.553,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 55%: no strong reason to change",
+          "momentum against (-0.61, trusted 30%)",
+          "trend supportive (+0.22, trusted 24%)"
+        ],
+        "views": {
+          "trend": 0.221,
+          "volatility": -0.0,
+          "momentum": -0.613,
+          "news": 0.115
+        },
+        "shadow": {
+          "relstr": -0.237
+        },
+        "value": 1170.0
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.249,
+        "target_exposure": 0.503,
+        "current_exposure": 0.268,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 27%: no strong reason to change",
+          "momentum against (-0.63, trusted 30%)",
+          "volatility against (-0.20, trusted 22%)"
+        ],
+        "views": {
+          "trend": -0.138,
+          "volatility": -0.196,
+          "momentum": -0.634,
+          "news": 0.077
+        },
+        "shadow": {
+          "relstr": -0.268
+        },
+        "value": 566.3
+      }
+    ],
+    "weights": {
+      "trend": 0.2394,
+      "volatility": 0.2244,
+      "momentum": 0.2994,
+      "news": 0.2368
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.116,
+          "strength": 1.0,
+          "material_count": 7,
+          "view": 0.116
+        },
+        "top": [
+          {
+            "title": "HDFC bank faces Consumer Commission action over double debit of Rs 4,150 in Chandigarh",
+            "source": "The Tribune",
+            "sentiment": -0.7,
+            "material": 0.8,
+            "published_utc": "2026-11-05T10:25:50+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank stock faces Bagchi CEO vote deadline",
+            "source": "ad-hoc-news.de",
+            "sentiment": -0.5,
+            "material": 0.7,
+            "published_utc": "2026-11-06T08:51:31+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank surges on getting nod to offer capital gains accounts scheme deposits",
+            "source": "Investment Guru India",
+            "sentiment": 0.554,
+            "material": 0.7,
+            "published_utc": "2026-11-06T05:32:10+00:00",
+            "count": 2
+          },
+          {
+            "title": "Mirae Asset Global Investments Co. Ltd. Buys New Shares in HDFC Bank Limited $HDB",
+            "source": "MarketBeat",
+            "sentiment": 0.5,
+            "material": 0.6,
+            "published_utc": "2026-11-06T10:07:08+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.653,
+          "strength": 0.313,
+          "material_count": 1,
+          "view": -0.205
+        },
+        "top": [
+          {
+            "title": "Key facts: ICICI Bank $2M Transfer Loss Alleged; Buy Pick; Shares Issued",
+            "source": "TradingView",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-06T02:00:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.059,
+          "strength": 1.0,
+          "material_count": 13,
+          "view": 0.059
+        },
+        "top": [
+          {
+            "title": "Petronet LNG faces \u20b9625 crore claim over idle Qatar vessels",
+            "source": "scanx.trade",
+            "sentiment": -1.0,
+            "material": 0.8,
+            "published_utc": "2026-11-05T22:29:25+00:00",
+            "count": 3
+          },
+          {
+            "title": "Petronet LNG contests \u20b9625-crore shipping claims as idle-vessel dispute enters arbitration",
+            "source": "Maritime Gateway",
+            "sentiment": -1.0,
+            "material": 0.8,
+            "published_utc": "2026-11-04T00:30:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "India\u2019s Petronet Pushes Qatar to Deliver Missing LNG Cargoes",
+            "source": "Energy Intelligence",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-05T14:43:46+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG Ltd (BOM:532522) (Q2 2027) Earnings Call Highlights: Record Profit, Strong ...",
+            "source": "Yahoo Finance",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-03T19:04:08+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.115,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": 0.115
+        },
+        "top": [
+          {
+            "title": "Indian Oil discloses Q2FY27 analyst call transcript",
+            "source": "scanx.trade",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-11-04T12:28:15+00:00",
+            "count": 1
+          },
+          {
+            "title": "20% ethanol allowed, 31.2% found: Karnataka flags petrol sold by oil majors",
+            "source": "The Indian Express",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-06T10:57:46+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil Refiners Expect Strong Margins Amid Global Supply Disruptions",
+            "source": "Chemical Industry Digest",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-04T06:34:21+00:00",
+            "count": 2
+          },
+          {
+            "title": "Indian oil majors tender for 150 million litres of biodiesel",
+            "source": "Biofuels International Magazine",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-04T15:46:38+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.616,
+          "strength": 0.126,
+          "material_count": 0,
+          "view": 0.077
+        },
+        "top": []
+      }
+    }
   }
 ]

@@ -1,0 +1,414 @@
+{
+  "symbol": "ICICIBANK.NS",
+  "date": "2026-11-06",
+  "headlines": [
+    {
+      "title": "Market wrap: M&M, ICICI Bank, Tata Motors PV, Eicher Motors top gainers and losers on Nifty and Sensex on",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-06T12:01:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbDRvVUJ0czd2QXZNWUJFdDItODc5VVQ1ek15OU4ycTVRUTVjTWpnbjR2dndiMTBuWXl6dVlLdnM1eWI1WEhvX1Jfd2pJUWpkUk13TDV4R1JFeXQ4TUFBZDBGZEhyc3lXZ0lFMFVNbnFoLVUzbjZMbmNpWFNYeUV3cmZOQ2xyY0ZuTTBwWXVkN0FpYUttemtKVkxVOEpCOF9fUGx1NHFRUDZabXRId2R1SEFYYWxPWmN2N2hhUVlQeUNFNE9JOVJtSDRTcUxmWkY4S2xYbE9Gay03azM1UGV3WUtNV2RLSlk1VWtFSkUxMTl3SWFUS3oyVFNzb2JTTTEyWEhQNWlBRWVRRlZvR2fSAZMCQVVfeXFMTUhuZ3U3YjZGOE1mYVJISkJNY3F2Qk0xTjBIcnZDdW1ZdzJiQXotcjliQ29RUDFZM2VzX3NkM19lWWhXeTA5LWw3SHU5UVpsWGttVUt1ZTV1TEhIcHlJR1J6RTVQSzF3RFZWbXBNcjJTUXEtcFpJUDEybmJhbkVtRTJlVGlqQjlmNUlvQ3N4T0dQN293V1FabEdGclFSZXBXa1Ytd1ZSOXFUZ2hpTEtBUzJ0X2x3YjRaa0ktS3JvMTNJVnd3NDhJU1NCMFNJcFJGODc1U0FMSE9vTGY5SFZqTFhuYWFhMVJDcl81OVpPRl9WMl95Tll3RzFScHpoSXliYVoxOVdqN0gxa0NoTUdGLXUtY0k?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Top Traded by Value Today 06-Nov-2026: Bank Stocks Lead",
+      "source": "Multibagg AI",
+      "published_utc": "2026-11-06T11:02:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0s1ZlMtWUthdk5ueVdmME8tVldkNDAxZUpWOWFRcDh4SEZLVDlxVXJBME1TT0djU1FvaFV2RlBwb0lBSWlYejlkX2tDYUZXUnBSeDlhdGFFNDh4aFVDcEJGcjFNaXBJMVdYTnF3SGJYeWkyTm44S2hid3phOHBGUnJyaU9SWHZnbWl0c3ItM1RVbGR6US1NcDlBbFJDOHpydEV3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Why ICICI Bank Share Price is Rising",
+      "source": "Equitymaster",
+      "published_utc": "2026-11-06T10:30:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwbHpFRlRwcFFqTjYtZk5TWHpuRk9NZk5Ic3g3SzFPTUttb0xzaUxGZjMxTVpUS3NnTEpPWHBkYXpZenpnNFdjWWpSeVNUUWt1YlJ5VWpEVk9SUW5iTlZqTTNpNE5HSzZXNDlGQ3VB?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Top Gainers and Losers Today: ICICI Bank, M&M",
+      "source": "HDFC Sky",
+      "published_utc": "2026-11-06T10:23:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYmVRWExXbGp2T2FVdF9mY3B0M1NwSHltN040U1hSLUhrSmwzUHFKVEZySFVfYmZrb0lLa1Bvb29zaEoxYmpZUFJmTEtYWFd2WGhBRlE4SDFrNlVLY01ab1IyZV9wX2J3MHV3V2JzVzlycUFhRUFReHNqNnZSUHBjSmpFZzlEX0U?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sensex ends 1,718 points higher, Nifty crosses 25,000; ICICI Bank up 5%",
+      "source": "India Today",
+      "published_utc": "2026-11-06T10:05:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVkxtRE9FRlUxNE0xY2RqN25NMkNYMWg2Z0FWOU9rcEtzQmdUbndjYWtNZG9OT25oeUc1TmhJLW9vNUp3bzhHTDdPNXJuVmNlWWs4U0EwRkhHTHNMcHNZMF82U014THhZWTdudEF1OTFUZ3NidXlZc3BOT0swcmN0eFlGYXFwUTMxNGRXeWNSZmJ0MlI3eU9XeXpIMkM0Xzd5Y1dPaGlWbElpanF6djdsalJOUWNPS2puU2ZlSTFya2JGLTNXTEMyNXB1YWRFZ005MzdPZjRyX2h1dmtlTU9z0gHkAUFVX3lxTFBpQVVrU3VqVFpnT0JXcV9TMWdoRXNoSkJhcElJMF9kdlk3T0FjQURVQV9PZm5XbDdGWFVRRFNYcEtSd2RPWHpZMjk0WlhXX3Nsb2gxY0NKWTFQd0MwT1JSRmE4YXpKbXJQUEJRS0gyeU5wTk4tcEF1UVRobVF4a3M0R0s3SldsdmoxTzRNaDhwSXFWR0c1SXc1ZEFtRThEQ2tTVlFPUVU4SUtpaDJhOVp3dUxWeGhQY2VfTGtkSXh1YzNtUmNmLUpWalhSckpYdE85cjdDdVBENGh6VE5MOEpSWlNSZQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, SBI, ICICI Bank, Kotak Bank, Axis Bank, BoB: Check fresh price targets for banking stocks",
+      "source": "Business Today",
+      "published_utc": "2026-11-06T09:30:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWFQ5elNhYmVwTmlLUVRSRVVIWXQ0Y3I5LVZHaXBKSHotRDFMRFVsTWR4MEd2b3Uxb2JnYVdDVFBNazQtMS1QaWNoN0VLeENJOW90QW85Rlc3VVhVYXBTZDNRZHBLMXZPdEFvNllFSWEtcF9yOF80eW1Ub0FCVk1KQkxaTURhdmZpUWczRThkTm8yM2h4Yk15aE9rUkQ3NWxXdmY3TEMzOGNkWGZBdGFmLXNWdlRXRE5rRG5qNjFDVG1yTlR4ZjJMUHVrWlQ5UlpIS2NHWUVGQUNKa1JMWExyVWROQzZwVUpqeHZXYWhpdk1fSEU2cU1sTjVRb0REWjhw0gGGAkFVX3lxTE9sRldKNVpaMXVvUHAtNzBfX1ppNVFYSUx5U3hOQmxrYks0em1weVdMT2xtbWc2aWhEcFgwRnpnVFpfdW1fck9VLXh6VHVxZG1IekRlbDJYWHNPbF8wOHVNdmhkczlRNnA3OFhDVU9YRTYtczJ5U29vVUdXNVdXMDltdTE1XzlpYVVEYTFqY21Fdi1GdXY2bWNnYmhRcU4zNnVTdjI2aTl4MnZ4V1NENnpjRmVlbzd5XzJaRC0xWGZPbktzLWxFOWlXeE5icVN6b1FHSm9QRHgtN3hlNS02S2l1YnJRRTM2OWdXV1cwQ210SXJhQXBPZzFLbU1aZWVaYThRS2Y3Wnc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Climbs 4%, HDFC Bank 3% on Foreign Buying",
+      "source": "Equitypandit",
+      "published_utc": "2026-11-06T09:18:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXhfYlY0UXJLajJPR21NaGZ2aTJzWmxSX0lwajZwZW92Um82RWFRMXRSLTJSVV9PZkdvY0E1VzZTSjNyS3lmNFMyZHl6VjBvby0xSldkNm51aVJ0djlCMGRldWF4WC1vX09MYWlGdktxTHN5b28ySkZCdjl0dFVLRnhPTUM2UQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd. Surges 3.23% to Day's High of Rs 1545 \u2014 Outperforms Sector by 1.01 Percentage Points",
+      "source": "MarketsMojo",
+      "published_utc": "2026-11-06T08:29:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHFpNm5WckE2Wk9ZUzQ5TnEzTnV5NUdCaV96WWNMWHRhWTZORm1Pb1lqeDB2Y2tVZllaOUhOdUNpSmhkSzRsYm5qSGhWUU1xZm82RTBPZVhGS0lmWlFKbHdBSk45R00wR0tsNS1oYTlEa1NFN2xYOHZnOUkwbUtOWG9LQmhTdVVHQ0hRQk9IWXh5UmFwY1dkMG55LW9PTFg5amRxdHZOcDVPQXM3a3Jib1dCWHVMdndYelQtMQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali stock picks 2026: Titan, ICICI Bank, HDFC Bank, BSE, Eternal among 25 stocks with up to 46% upside...",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-11-06T07:53:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPejN5Z0dBRHFUY3JtYlBlWU9talUwNGJ6TUowa3FSY1F5QlRQMFNCSGVkS29sbTNkMF9tbzVfYXRwMHNwRnRBWEVUelJHcURJUFlyWmNabEM2OURneGI2NWl0amI4eUwyZ1U5UVdmaGRrbHN6M3U3RWZZa2hwX0pod0kxZ1dncEFUcHNrZEdHMFltUGs3eGd2LVJoajlhNXQ5Z2pmYXJxRHBQMUVzRmN3RVVrSEdPTXJpSlRsY3Z3ZXdYMzhvRUlDQnlUNXFhUzJqUlJyX0U2ZFd2OWNjU01WcDZCV3R4NHZkaFEwT1hwWmNqc29qSXJWWklEaUhBSEtfTVNFaWl1SVNHSWp3bDBaZUxhMnlZdmdEMENFRDlLTlZ3VngtTmdR0gGsAkFVX3lxTE9MNDgybkJ0ODNEWjluMmE2Umk4NVA2d0c3UFp1LXdoeGE1SlVqd0xTY1E3ek4zajJpclowZk03d1dSb0kyMVVmX3dYSmlhZ1hWZkotYXVaeXJMS19JMkFJczlXTl9yR2IxWmdfbWdpcmZxZWIwbTYwWlZGa1RoVi1DaVptM3gtb0R3SlFseHlQVEhUTHRfNnZJRmlKVzlhTE9sR0JyMHdvTTBWMm9CY2ZqTHFBaFRIQl84SlFDQWdVWjZvZjVwM3N2ZGI4VVQ2ZW16UU9FQzIyU2lMSHlGb2phRGM3d25td3NBcUwwZlNsRkw4cmNaM0t0VG1VcG80cmp4T2JHX3RvQmE1M194RVV5ZWltUWJhcThpaWhRckZhZF9GdHlaRWtDMGpXMg?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank extends rally, soars 10% in 4 days; market cap nears \u20b911 trn",
+      "source": "Business Standard",
+      "published_utc": "2026-11-06T06:16:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmlYWHhPZXVzNy1JcHhOY3VMcm5TWUMwSktab2FZbjM1UDAtQVRKNTRVQ3RDblliSU82bnJvSUQ1Y0ViWWxXLTktSXBjaGZ6VW1wekRfV2FqTHhEdVRnTHYxWm4tM3VFb09jamprOUw4bG85WDVXUGhxOExham5qM0VVdUFPSEVkV1h6emFHaTNOMl8wemh1bFhoWTdzd0pIdXpwYW5SRnVDYVVVbTIxUEdIVDFWelZyNFJTRTJMcWdSN0NVLWQ0WElUbXJRdGvSAdQBQVVfeXFMTTV5QTByQ0tGQWdndkNubTdTQ3h4RS0xbzRfZTA1a2JlOFVJZTVNOXNVQzcwamk5RVlvUFNMLVlzdUdRMDBXUUF3d1RTYTNMWE13cHNibWx1VHVyMHJiZmNvZ29XRGVycWdRX3RTdTlTRXpLd1U5ZXpWX1dvZDZmdEQ4cWdqbnBGVTZuVzZEWERVeEtjdWEtWFR6a1V6ZkRxNy0wbWl0Tkh1QXZHdUhJbTl6VnU1RGhXZGJoRlExOXVzVi1vUmVvdjM2aEFZRmRqa2ljaUI?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Banking sector stocks today, November 6: AU Small Finance Bank falls 3%, Yes Bank down 2.46%, IDFC First Bank declines 2.39%",
+      "source": "Business Upturn",
+      "published_utc": "2026-11-06T04:23:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR2pTamM3V2lQLXA1OFRKdnRfYWxUTWtWSTdJdXRQWjNhSGZCMlpoWlNqN0g5b2dvMkprbVUxeC04ZjVGdWgxTW91TDFyODBoc0x4M0FKUDlpWllZNW0yVVB2clEzdjJwaEEyc19SR3F1NWpGUnpoZ0ptaDVWZnNGRllGM3ZrVDV3eVZOaXRxckx0N0FSd1EyVVNGZ0hmRmhNMF9VQnltQzQ2UkZYanpEZGduTmtVazFnbXFXU29BejVzYUNCQmVKVVB3RENDZkkxXzhyM0tCeE5oQXI5em9qd1p2ZkJLbXlSUlU0T1NlRDlqTWxqTEhJblZR?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Key facts: ICICI Bank $2M Transfer Loss Alleged; Buy Pick; Shares Issued",
+      "source": "TradingView",
+      "published_utc": "2026-11-06T02:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakh6NHF5NTctdXRPTFVJaTVMTVpBbE5ZS0swVnc0cEduQzk3bW1ycU52bEthX3BPQV9TanVxdEhycEozWXdEN0Z1WWszdjd2RjhlSUFkd1F1ajh4RVVvMnFydnJGYjlvbFpUbGNRZVBfM3BYRG5TMmwwWTlfRmg4cXhnUVF6YXlhUkdyTUtRQ0JfX09aNm5BV28zRHNIbDVIS29CS2RocmpoV0VDRFdUMV9pTDlrVGk0aGRPWGNXOUNQZDdJTGNHNnFB?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Reaches a New 52-Week High at $32.52",
+      "source": "24/7 Wall St.",
+      "published_utc": "2026-11-06T00:19:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDBjUUtzOVFjQ3VMLWlfczBlMUNOeHQzY2pfNG82RGRXYUw5Z0U4TFVKbElwdW1rZEdOdjFCMUhUWFdpZEN1SGJiYlM4a01VQmtrMkhhTzlEUjlPcTNvODQ1VU5Xd1FLRVYxQ0hEbzNZeW5YYjlvUWQ2TVltLUIxMU1NTDJadFg3Nzd5Q21ONndXYm5scFJKZnhwWVFzbzNueUFrSTN1bldmUWRJTXBndG0wN0R2WmVrT1d6R2JxVXV6RVVLOWk3UUxyZw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Buy, Sell Or Hold: ICICI Bank, ITC, Kalyan Jewellers, Mahindra & Mahindra, HDFC Bank And ONGC \u2014 Ask Profit",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-05T17:17:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEx5SVVwcTUtUkhaWlRCMGx2SDA2LS1KU3JyREl6Z21KcFdEU0w2Vnc2aFJJd2U5VnpYZWZWU0FxV0lGUjRWQVBvZmU5WXJhZ1d2bUh1bTdQYjFnSk1wbzk4YXNXXzIxRDNNS1JmY0JYb2NTWVBTMkRFeFZMS0xkZ1l3c2E4YWpGNmxQRGdXWHBDQUZkTlVNVUZmbU1zQWgzVWRKaVRvZjJEVmFiZThqOWY5Mm1Wa1VSNHVUX0xlalNBRTkyeUpILXRR0gHSAUFVX3lxTE1PdlJoaU5Wczh4QThWRDBEQ0l5SFZJSXRXRTlTM05KNlBad3l4QzNEZE9ZbmNyYTBUajRfdVlZVVN4MkQzVjJkc3ctYmFGcWNlZ1lWX2lCVXdQUG94T2ZEb1VXQnh5bkR6RUlITGZrUVhtLWNxNC1TbnpITDV1bmNVY1IwZ01QUGdMdVIxTWxJd0ItNGkwOUFjUWNDcnl3TndVZXR3MEJESTFpWTN0bHZfaktKaV83SFJjRXBNaGRsYkpsT1dJU3c5d3BGZjhRT2EzUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Senior citizen FD rates in November 2026: SBI vs HDFC vs ICICI - Which banks offer the highest interest on 3-year and 5-year deposits?",
+      "source": "ET Now",
+      "published_utc": "2026-11-05T17:05:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPcnRqcXNqcFNWZUU0ZzNsU2FaWFp4Ri1PMEtScDQ2Q2NZSHRmYmFmcTVFMTlHcG5GUGVVQjBXWWZ0LW5WdUUxY2VuWk1jNEdkTmh5WWp6Nmh6djlIendLN0d4ZlJrdDB4NXFxT1VuZWdvRWNWRkMxcVY2Qm56ZzhuMFctU1YxOHNjd0dlclpndjRzWmZwdWVDLXlhSW9pd2EtVG5fQ1lER1lZVERZdmhCdGRQRmk1bmJMYTdYYjBIMlJSbGNacEdUQkZjU1d4SElfaVhoeUdMTHhDanVsYmowU3Jla05YVGxSVy10R1F3b1pGSzRyNzVoNGZYZWxCaGhHOFhqMDl0ZFQwOWVQWnZuSVJodWN2Q21hZkV30gGgAkFVX3lxTE9mWWJkdTdFOGJHeDFod0VFM2JITUdMMENaY1BjelZhUUxoQnlDOEpSX3ZkYnNiUlVlUkZCYVNQbExRUHdKY1c2WlVQSzhubTFNN2VtaWhORmNkZ1lkdlA0bFhHRXIxMkhqLWoyWUcwZG41anJnVEtsSm5jMlctV0dJNEtmSVloQ1dLRlBPQlpZR1JiczRrNEpZSXVrYmFScG1ZRllMcUxoOVBsZUM2OEZzajU2d1JkT3NTLXc4b1RXMzhCSlVtem9vMU9ObFdSaDZBbTJjR0RBRDJTRE5BOFVVY2tVak8tX19DRmVLNWszbktaNU5qYk56bjlSdlYyY1JuT0FBUmk0ZzBtbnFpS1llcFUxQXJlSUVfelQ2RGFyZQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Here\u2019s How Much You Would Have Made Owning ICICI Bank Stock In The Last 10 Years",
+      "source": "Benzinga",
+      "published_utc": "2026-11-05T16:50:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDNIaU41WDA5MzU1RWRfQlEzaTRHREF5WWRtWHVqRVUyZENDQmdfZ0dsaDYyRTM3TDFEWkdHT3FDM3BnbldsUkJZbzlqVWJIS3BPSzc0TTRNT2RPSTY4UkpMWGNTWDF4NFhFSncyMEpSTERsdnRGTEdSZWdtR0d3VmQzOS1zam1BV0RHb0RDTTNrYllvb0plYVVKcWVFRXVOTkxFNnJCcFJxc0xGUnR1bC1Xajh2czJEUFE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank - Marico among 10 stocks hitting 52-week highs; rally up to 14% in a month",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-05T16:43:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMC1SNlh3RjFVZG1jUVkxU0hzZmh3NU9WNHlpUDJYVHROVlRnVk9xOTE3SnJMOVlmMDNWd05JWjVaMUFsRVpPeFpoZk5rRzd3bFgyczBkengybzF4R3VQT1Z2MXRXVEFXN2hGa1BiOF9tZ3c5UV9Ka0J1Q3VudU90QkVybzkycUx3V2tDQk4tdTJLdFlENmt3NmNxQkV6WTRVby1laUZCdkpialYxMjJsRFR0X0F2TEhXbmRiM2FjR1NrTzVaM1UzN0E5ZURtYlZLVUl5enpxaHJrcUlZSjM1Zm5WTUFYS2V4?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Thursday Trading",
+      "source": "MT Newswires",
+      "published_utc": "2026-11-05T15:58:25+00:00",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-155825220.html",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank (NYSE:IBN) Hits New 1-Year High - Here's Why",
+      "source": "MarketBeat",
+      "published_utc": "2026-11-05T15:06:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjF1dGsxZVJmT1ZlVVhmWWhsRXpwX1hIVS11eHp1ck1yOTF1SXZMekFfQkpDZ3lEcDRXV29qeVhmRXlEUFVsZ05aTjZTQjdMWHhRNVhnVmZ1R0RZMmNlOG45blk3R2o2SEQwVUFQZHBnZXVzQ1RYODdjbWRDbk9NdUxCOHRXSUd2TUZzdUl5MDR3SHl5SHVkcFQ1YzE4Sm9rMEw1aTJtNF94d0tJamNj?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali Muhurat Trading 2026 Stock to Buy: BEL, ICICI Bank, Power Grid, Gravita among top 10 picks by JM Financial with up to 34% upside",
+      "source": "ET Now",
+      "published_utc": "2026-11-05T13:53:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNd255b1ZWVk05S204dFprOXhZeGg0ZV9rdEdXTHBLUDMyYkVFcmktemJlMTgxWk9kNHQxQk5ET3VQamZKM1VpNGp5QmtvZEJhbE91TGpxWFBxREpERE5PbVNHUkNnUVVsdV8xZmtwbmZYRGxGMTdfLTlMV190V2lHRmNRVzBQanNqb213NGRBZzFlWUdKYVRzakpzMWU0d2ZOeS1JNUVzbHAxZm9QZ3o5NWp3YWo2VnNDMk1ORXctbnl0dFBaS3lSVUhSRHdKV05LNEg5NVF2Nk5UWVBSSXoyYS1UR2dkb2NVallnYTBiRDN6bHNndS10UVZqZ28tZE1tdUg2c2g5UzJCYVI3SVhwYUZGNnFUOWExWmfSAZ8CQVVfeXFMT0U3blhnQ1d5d19ISjFRbVlTTkptSEltWk9scXNUYXZuQ19aY0x6UFJLNE15b2R3M0lmRHdlaEV3eUNvc2tiWkhZTTJkSmVhRzN1aWc2ZXBwcFhkQmNSMzltcW1teG1IUFhTRUpFR2VZUzZ5bVNqdTl2ckE2SHVWWU9BS3Z1ZzlyamdsTlloRUVVcmtPaHFocl9GOEZ2Y0gwQzBNcUU5SXR4aGZ2bzE5dTBnQWtJeHRNbWpvVGRRVVRLZjBVeFFzX1FBck9nV195N0VDVjdyV1QtM2VUUTlXNnNJbEhGcml0cWVrTkc1Z1hJNnVLMXZ4eHFoTTJicVl3eTh5YVM1dDFYSWZaOGlFQVBaZzNXY2t3dlR0LW8xbTA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Senior citizen FD rates in November 2026: SBI, HDFC Bank, ICICI Bank, PNB, Axis Bank compared; which offers the highest interest rate? - CNBC TV18",
+      "source": "LinkedIn",
+      "published_utc": "2026-11-05T13:21:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1BkU2tiTkpwcWtPNzVGeUQ0VWpIblhyc2RramFRMk1tS0xrYjRuS3NJdWNOaHdDYWNhcGRnUVdjellOMTU0VGpKcVpYYVd0RjBiTEFZODJ6UVUtREx3UHhPcjFZSzcwQThZNW9lY1pGT0pFOFQ3Y0F4bUpnamd5TDc3ZldhRkN1RXBEUG9Md0R4RFRtWVBtWERzdnY5RTdiZURIVldDNEJsaVpTMWxZWEZQcGI4Zw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Senior citizen FD rates in November 2026: SBI, HDFC, ICICI Bank compared; which offers highest interest rate?",
+      "source": "CNBC TV18",
+      "published_utc": "2026-11-05T13:08:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYm1QMDdoRDFYTjQxeGJ0WXlKdnhFQ3Y1VUVqOWlLVnphaU1Pd2RxQ2dwamZhZ0prbkE3MGNlM2lpTTFXU25mcFo0dXAwY0NuWV94NVkybUxLWElIa09PZHhhU0FvZ0VRS28wenhXY3ROTlBCZUFIajVyaW9nczJaNTBkcGtzNG90anJqcFhxRHlOZ0duTHhLRk9iVG5fUEtyTnZXZzFrYjZPMXAxdHJ5S2lGWTZILTBhVXZuNUF3d19mN2hjc3M3TG9mVmJsRVdSa1BkSjFISEJhM2s0dDBTVUZpVEVHWENnTDlEbzR1VWY5WE9tNHRPb052OXg4TjdqZ2NpbXhQdG1ObHFVd3Fn0gGUAkFVX3lxTE9QZS1HYm1ZQTNQdXA2QUlJSmFpbkpZLUU4LV83eV9lVU1adjNMZUp0QVN5aElGeHFjMko2a19ZbEZ2NjJxYS1YVFF2V0hVemNzZk83SXo2RGNDWm1aLVdZYi1tdmx3UlJHNHVfZHZJSXJDa1FxQ2kza0Y0X2pmMUxhWURZN1JzSzZOaVlxTW1iaDg2ZWlXaGVONFhVWmNtbUJyYnpsR3lrN3ZKMm9KOTVrRUlubF9ub1Y0YUduTnhOcVZBOEtkM2dDdEJpVFpRRW53RmZzYkptbGxHbVV5NVVGMU1XVmtFdGN3U25xeVgycl9XdlYxNjFaajZKSXdiNXJoeTJxUDNuTTB0alhkTjBpdHlXUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Limited (IBN) stock price, news, quote and history",
+      "source": "Yahoo Finance Singapore",
+      "published_utc": "2026-11-05T11:10:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YNk1PczRZNVVwTC1Db0R2ckYtMllKMVNKMGhRNEI4Uk9EVlB1Z2hfeHVmVmQzamlSWFNTcVJEMV9Cb1A2dnFwSHh1ZnJMYUND?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd. Hits All-Time High of Rs 1,498.75 as Momentum Builds Across Timeframes",
+      "source": "MarketsMojo",
+      "published_utc": "2026-11-05T11:01:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSGpkcmNhc3dKVS1jRHNwOGFBVVdGdjRENUZpb0V3cEZkRXIxUmQtUldyN25XMU1VenNzRWRFdTIyRWptTzdDbDFBUDI5cDRXV2FpbFVsMzV0dUNNMnR2a1dGUmJtMTI2azVkblUyMENrTDFTampDTTdBQ0V2bVROZDMyNE9RU3NheDhGaDhvWThXazBwZUdVU05KTEZwbnU5d0VoREl1TGNmaDhMYUZnQ3Z6X1JHWTIwRkJQVXN1eGlkdw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal among 30 stocks to buy for Samvat 2083; brokerages see up to 38% upside- Moneycontrol.com",
+      "source": "LinkedIn",
+      "published_utc": "2026-11-05T09:45:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVdsbUFRTURBN3lIVHRJMHZFM3FRNkpyWWJzTVlLLXJuQzF2UFJteXZfbldJX3I4MGtibEI0bXlPaDhVQU1IS2tmajJVeE81VnhjX0txSjNxRjQtQWRkRTlCeVFtTkhIdDdsSFAtTjlvajN1S0l3R2RRSG1CNW9fb1J3THc3MFFZN0JWWWFKQXZ3LXdBNzV4M0EtYlZOYWJVTzczaTlRZWhzRmk3T3dzdmlodFpDLWtsY25RSndn?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ICICI Bank, Axis Bank are BNP Paribas' top three banking picks; here's why",
+      "source": "Business Today",
+      "published_utc": "2026-11-05T09:30:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa0VSUFJUOHRwWS02akpVN21iVjQtMXNodHN6Z3Zxa1UtQ3Bsc3N5THFXMU9sWDZIajBBRWRsWkg4T3ZUWGl1TVdFNFpiRXE1SXBhOE12akNuWnpLMl9GejJ0Q0ZDZlJHbk1VYkc0cHNnMHBlYm1UcjFjRHhRV2luT0JUMWYxMVpONjhvVlYzVWIzS1NmalVwa21QTjRndkZBUXJXOWsxdjVpWnZpT0JoNkx4VVI5czF2RTlKWmdlWnBvbkhvemVLYTJldVEwa19WUkItVDl2a29fbUE4ZmFKZmp30gHnAUFVX3lxTFBGY2lTcVNtSzVJU0haNl9GLTViM3hkbDVZZC1qZU5IVHczUGJkOEVITkVuOVFqbUg5VUFMdm5iMWJqNDNMMjF2T2dONzJBWWFfUXdxWUUzX3ZCSm15MlpNQUJiTnN3TFZSWmpvckNJZzdXN18xOVF1TlpLSU41UDFhZUh5X09iUFo0MzdVOXZjZ1lkSmUydW9zc2VfSFRtYUhneXZqc0tGU1hwNVFlQl9yVTlwTGhIUG5rbGhycThvVjhETDJlMXJtT2RJVU1JVVl5SWZhZ0J5YzRQSmtRZTgzVWVWNnJpdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Broad-Based Technical Strength Lifts ICICI Bank Ltd. to 52-Week High of Rs 1485.9",
+      "source": "MarketsMojo",
+      "published_utc": "2026-11-05T08:18:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWtGT2FXQUZGcklWTGl6V2txZWJEVks0MnVoTVlRTVllSnNSeWU5aVMyc0xCUEpxTnBjSG9Id1FxMXluNU5CTGdGUzdvckd4UndqUGlkUlV4S1lFV3NfOWJ3bnRKVGIyU0dJOGdOaExUU0dDaTA1OUVXTHdLWWtkVHpFUU9yYmVFc1dCRF9RM2lkSmhSeXcycWU5NHYxVVI0MmVxbWZiMHExQQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sensex stocks Adani Ports, TechM at new highs; Eternal, ICICI Bk near peaks",
+      "source": "Business Standard",
+      "published_utc": "2026-11-05T07:34:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWW9iX3J2LTNxdVB3SnJQZkpSUW1ZcExiRFZJbGFVeS1KUWlTWDEtLXJ5cEdTTUxVcEdjQnBJYl9CYmdxX0JUaU5aSnUzbGp3OE50Yy11NlVndFFNUU0xdGNSdVdEYlZqdVBaWWNraEJOUHVldnQtVzAybnpEbDBLa2Joa0pOMkZRNzZOaWhyaFltU1NvX01YajAycGxpcnJSRlJkeXRQRUVwdU5seDJKOFlZM3BEUjJyQllXMXdzaGYzMHN3YU9HaXVDd1g3dGd2eldoZWhScXrSAd4BQVVfeXFMUGxHZHZYS1NhZEZsbzhJb0tPOWE5VzV1eVA5SllJWmNzVFVKZWY0aUtQSERmSVpTOTlFdWhaaWZGSFhpeGhXQzR3QnE2Q3BRa2Vjc21RYXhUSVRHVDRTb0ZNb0tkcnRfMGtRQy1KV3JDRzdoRi1UT21hUXVPUlhWWmhzVGdnR21vNkFaeERUUlhBeFFzVVFINlBjcGdZcDNVQzBYYjZ6c0U0QUk5eEttR1o2VGRwUnBFaUVxZ25fVkZTRVhTVl9QT08zOWFoX0tWY2U4eGI0MnFiZWRiOVp3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Zacks Industry Outlook Highlights ICICI, Canadian Imperial Bank and KB Financial",
+      "source": "Zacks",
+      "published_utc": "2026-11-05T07:14:00+00:00",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-icici-071400142.html",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank shares jump 3.47%, near 52-week high of \u20b91,480",
+      "source": "BusinessLine",
+      "published_utc": "2026-11-05T06:59:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT3VvNmdSWXBrMEtZcl9HR2tJYXd4blZjcGlGc1Nyc0l3LVNNeThvY2tzRE5oSkVQWGZMUTRkUWJyUEFzR1JRUnQzeDVYRHluMjgwUG0xYzhvY2pSSkoxY29EdmEyTzdaSHA5bU91TU1lS2ZkZlUtc040QThack9wcEpGWWVITkU0VEVJaUdrbWVvcmk3c0RuVGVSN1lpWmhWYzRYdHZFOW9hV0xRSTdRUWo5R2hFSG8ycmNIbW5CTDBkU0hnZFJWS0pZdGYxVXRoRl9sN29wZW5NVzBqZE81UHZjT2hzUmtERUVBR2tVMks1d9IB-AFBVV95cUxQUlo4a21NWHhCY2VKcHdYUElPSVRyckhBZDU3NWdwV0dRYklvd1gzRU10YUJPTGNrVWxtYU1EX0hIUGlxakZaM3h6VHc1SS1mV3EwYnZFdnRKZ0w3OGF6eU91SmRNaWNUM2hlQ2ZGeDFETG5OUkNlTU5Qb0lheWM3QzEtRDhQempOYlpKS18tckZyWC1lU0p6ZHNQOVozeThSY1dqenB3eWc2THFsOTZBS21rVnRXSGRkdERHTmY1cERvSWROQXc1am1PTlRDQnlwV1c1UGpFakx5WWJmMUt4X3d2Y21UY0JaXzU0d3FXdkZ4SklWY01KdQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Allots 36,937 Equity Shares Under Employees Stock Unit Scheme",
+      "source": "PSU Connect",
+      "published_utc": "2026-11-05T06:10:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkpvcmF4YWdBdVZRZElYYkZPdXdEYk9QZDVSWDdFWlRGUXkydTVqTFZneS1EUE13ZHRZcnBXRkxWd2I5S0pHSDh4al9OeEZ2NTFwbGlldE9sYzRmQ2JGNm9tSVItRDBwN0tyZy1SekxwczVBYmlja0lqcE5CQ2thUDl0aUtVS1RvSVJsaHZNZWRPRVdtSVVsN2xlX3pDSHVCdDVUQ2NsNE41OG1S?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "US Midterm Election results lift banking, financial stocks - SBI Cards, Bajaj Finance, Axis, ICICI Bank surge up to 6%",
+      "source": "Livemint",
+      "published_utc": "2026-11-05T05:51:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdHJqS3dYUmhNT0pTSXBfZWM1b09pRHEwUkhKdmQ1aFljc0pTbS1NQ3RUSkQteWZPczRxSnNBZGhzNjFlcHhYVzFlS18wbi05dHF5LURVNVVaa3U3Mnh5X19tUnZVYUF3MWJKTm40RzAtcGpXYnBWU2FjMVBwQ2dCQzFHQkdac2Y5Y05rWmNCa1JqNUJ0SDZ5N2tHNFF0VUVRSXZzT0c4VzVCSHlMTnBLYzd1WHVBWTl2M2VUeFlkTUE1Y3daT3RPVGgzdlVZcFJrZXJJLUFtOXp1SUJ6Y0VZWk5zQ1NKOWUxSUJEbHJRN1dOQXhMdTJaUFBHSTR6YnhSdHdzMWtjTTVVVGxiVlHSAZMCQVVfeXFMTkhxUklrV2tFUlhMWEk1ZThmNW5fQ1hPQ2hJSTZ2cWQwbl9zVHdPbzlJZ1U1cEo0TEF2VUhCWFpEMkNZbTFFUnVCclZQSmhnMnFrSEJFZUM4bTNqM3NCZXdjQ0FoTjJEWC0zTU9HT05DckVsWWNsQ1Q5aTUwLUNMcHhDT19DLU1EeW4yR2hhN1lpdElzd0hDZkZ5dzQ1alo4VFRucnhvcFpTYzFVQlY5cWtsQzBPSDBROXV0a3o1N0pIci1YeXBhWTY0TmNVU3VaWmg0QmZDa1B2ZkhOR0ZjQ2QySENTTkxLZTF3elpLSVJwdDF1S3VZbUVIMEVXSFNrOExOWHJiNFZRVzNpSVcxVDl0OU0?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd. Rallies 3.05% and Approaches 50 DMA Resistance \u2014 A Key Technical Test Ahead",
+      "source": "MarketsMojo",
+      "published_utc": "2026-11-05T05:46:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM01EVDVGWWczejEzMTB2WGxjWkFwLXhvN09nSDc4bXl3ZjdtNzgtVlRXU0tKM1c0elV3aXQ3ZFU2TXFTeXg1ZnlpZ1ByTkxPYXJZU3BYbVdhak85WUZUZmVhZlIxaXIzcDJFWlBmcER6eGJMR0VDbzBMMWQ3LUtrR28zNzNLbG1CaFE3akhORGdkYnhQbmJvb2l1bG13MmdXUFpBRWRfTFFSdlpyX1dqUWVMUDRobEx0dU1tYw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali fireworks on D-Street: NIFTY BANK zooms 1,480 points; SBI, ICICI Bank, HDFC Bank in focus",
+      "source": "Upstox",
+      "published_utc": "2026-11-05T04:37:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnQyOUVuRGJrNm9XaDJ1UjdXYXktdlZycUo2NWhQczE3cnlfUVE5Y2hhZ01mY1VxVUpDWWRJVlh4RmwwNmxURFRtaDlaM1lyRk9tS2FFQUd0cFZqc2dxaWE2YjBGYmRfVEVWMTJqMVpQV0tPRHRHRG1yRFlzaDlubjZlMnp2YnRkem5mck9yNHVBWDl1RWpZbG4zdnZYQkVmQVJSQkFkODY5Sms5TUItOTEzeThMcGJoM3d4WkN3NDJXNHhwc0ZwUnFQXzF6WWNGeTRvdUtfTXZMY1ZLZHR3TVI3ZjNOVDcweGc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Democratic victories threaten to slow US data-centre expansion, ease bond yields: ICICI Bank report",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-05T04:18:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNV1JDeUNoQmozZEZEZjdUT3FLWEVkNV9OWjFYWElYZUtmTmtNUnVhbHc3blVvS0p0WklZYkFtSmV5WGhQM2VBNHdfNUVENlJMOEJhdlJtS28tSHRQY0hic0FLTUJpbHJUZk56eU9WbHlEQy1qams2aHdnUERUbTg3T05ybVNpM196NXQ4MXJUNXJfTk90VmJJd2ZyWm1URjFfTnBLRGhEY185TnFvSmtON1hMenNLYkRHcnlsZkdGUFpfb3pqU2FzNUZ3bHB1NDRXR1pGS1NxRFFIZXkwYzlMTnVTNmdnYmtaY0FYdl9tS05jWVZtQTlybHdHWUk3cC1PWG5wUVM2ZHhWSkcxYnfSAZMCQVVfeXFMUHZGNmF4TVdDWmc5R296SXc5LThBdGw4UXRhNUdlWl8xU2NIRUJSRUxQUjBLQ3RJRW9pLTNnZEhWQkFzSFJJRXNIM2hoTFpqZnhmWWJGOHcxUjRMejV3QW1oS1pyRXBwcHVvWGZqTzlHd0xMYnBqeEg2SF94ZU4tWm5ZUExLejhYUjc3eTEwVW5kcU1OdGdpZ3J5M0RzUUR0OFpiR2dfeUthVUlWUmVrR3pmRlNUU3YydHdLSENkN1dvZGxrekhvQ0lWTk5zSFR2dnpVM25DWkpZVGVjQk9kUHA3ci1ISTBPUHIxQkZkdGd0dC1PUlpqa1ZhTHVKX3IzWDZPUHowbmVVUnEwbFBvOXFReDA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SBI, ICICI Bank, Bajaj Finance, L&T: JPMorgan Picks These 35 Stocks Across Five Sectors, Flags IT Risk | Check Full List",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-05T03:48:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVGJrNWRfMFpNQXZ3S1lGLXB0WDR0dDkzTWprcTk5UVk1ZG8tVmJuSjA2NjdacjBJQ3U0NGpqMXkzbXUtWEZMOHZ3UTgyRVNiLW5ZbzhLWUxhdkpNMGZxMk1LbHpfaUgyR2xxbFBfR1d5aVJNczNsbWE5bmhPenVKVG1TOEdQWmVKeFpobVQ5YkpkREZNRUQ4ZXg2VF9ib0tMNVZpRTYxX3FCSldOTlhhQVpyWEhENDM0TzJzSHRaUThjbkxmcTktdFBIbjFmdGJtNDUxalJXOEhDVU9JSHFNeTREbGNPQm9Q0gHwAUFVX3lxTE02TTRCdVowbmpqUEhCbG80N2ZHUGxNeC0zZjZ4RkNxcGkwM0l0a3dJSWVEOGI3NFB2ZWJ4MC15SS1SWS1hejc0ZE5mdHFVYnBWSEtLbGIxTkRobTRUM0tVWGxESXNDVHlQSXdKNjBHOFJxMVRKZ2V3SlVzVXNVVGl1WjBqNkdoaUxxQ085MDV5RjZSREZKbkRYT2JiQVFwcE4ydnZDNGd6X19kLTd2Y3Z4bEZ3RHAtNkFGYmc2WlRMbXEydmF4dXFPVDB4RkF2WVpLUExES1dmWG1VdjA4aUxMR3VHM1VWOG9KUG5qMkdqcA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank selects 23 students of JU\u2019s Business School for placement",
+      "source": "Daily Excelsior",
+      "published_utc": "2026-11-04T23:54:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTkE5UUJaa2psa1pFVWg1VHA2MHdsTFJtTF9yNExPaC0wd3FBN1ltX29BcUFmRWIwZE45dVRDNGk0OFVTOW02SVBTNG1DVzZaS0dVOWJrak0yZmQ3bXNjSUVJTGw5ellmei1IV2JoY3lUbm5LZXJ0UlMxUUhGTE1Ka29yaGZfZ2llQjVUT0ZGdmJuelN4QUhnWnM3UWQ5R0xL0gGkAUFVX3lxTE9kZ3BDVmxmWGtFWlVHQjduRVh1VkdnWldoYmZ3aUFMaGhqRy1ZVzN2WDlLMlFyZlZQcGM0SDR4d2ZQSndsZHJYSUJRdWIwb3praW9PbjJpYVd0cE1SYUNDcDF0WWlSMGVFNl9RTzVHMkJWYklaN3MyMzVVb1dVT3JSSDRfNUdqT0NtLWNBOW4xbm5vamtIQVpkVHhFdFl5dW1sb3JT?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd (IBN) Shares Surge 3.8% -- What GF Score of 78 Te",
+      "source": "GuruFocus",
+      "published_utc": "2026-11-04T23:17:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX01oS2xhZnZadFRiWGNTZ0dwZy1Jc1JQRXdaNnZ6R2t5ejg4c2pOYkZMSDhPeEI0MGhwQVVyOHM4ZktqLWVKbllrbVluRXo4T1J4SHJfOEpRSG5jRUJLc0VOSENZS3d1dFhqQ2tWZ2FqRlRFcFdXVXdBTlhxWS1scXZjaHM5WGhzVm5BM0RlaUtORWQyejBZX1JabjB5NXhhWlR4aUttcm9RTHhuR2c?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Share Price Prediction for Tomorrow: 5 Nov 2026",
+      "source": "Univest",
+      "published_utc": "2026-11-04T21:24:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR3RHUzc2SEZQNFhhUGJ4Mm5CQy1aM1NfdW9WUW5BeUtacHpTLWgyREd1Mm9seHhwaGRtcjFDN3pEZmFpVG1qTERSMHhuaVJfZks1dDVCMUNKelFVclZlX0F4b1U3bXgwbF9UdW1hMlRsaW95UjI4NzY4TVBPUnNCMHlBclhZcXR0SUhHVVZnYXc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "3 Foreign Bank Stocks to Invest in Despite Challenging Industry Trends",
+      "source": "Zacks",
+      "published_utc": "2026-11-04T15:37:00+00:00",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-foreign-bank-stocks-invest-153700762.html",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.653,
+    "strength": 0.313,
+    "material_count": 1,
+    "view": -0.205
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-06T12:22:36.665087+00:00"
+}
