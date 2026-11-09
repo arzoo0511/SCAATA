@@ -1,0 +1,414 @@
+{
+  "symbol": "HDFCBANK.NS",
+  "date": "2026-11-10",
+  "headlines": [
+    {
+      "title": "Senior citizen FD rates: Suryoday Bank offers 8.6% on five-year deposits; compare rates at SBI, HDFC Bank and others",
+      "source": "Livemint",
+      "published_utc": "2026-11-09T18:14:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMTVvY055NVdXYkgxWTNhRVc0QU84R2hocGhXeWJzdGZKcFlvcEpOUGJtcDNrdU9YeXNTTXE4VXFJekx0MXJwb2JQaS14SFdsM3g2aGg1cENYZ1pncDhiSnRFZXAwaG5VVXloXzU3RWtXMG1semFteWFBcVlwcUR0X09NQ1VaT2ZCZ2ZVQzU0ZDlyRTl0RmNZVVN4UVpQMEtDemJ4bGRDaDNnMVV1by1PY2NWbDRJaVR4aUlUWFBmM1BOdjVDTW9mQ2V0eFFEYjdnWHVZTGItU0ZZVzNmSG5fYVd4Z21VMndJdlpQZnRuU3hxNGlQNmRNX2FYUGFaS1dyN1EwQVpTZEp0RUNu0gGSAkFVX3lxTE1VOTJlbFExcmF1bFNUNlcxamMzMENhRmFYdEk3TVZ1TDd5Q205RVVCRXZiVjIxeU4yTHVicVVLZmRmek0yeXIzb1JGN0lMWjNDV1ZNVlhNZWRFTXB1T1hWM0FTdTlFa1gzTTFSbXhHdG42QlhhTWFhMEsxMFMwcHptd3RXUzduanBMcG5tYWplNXFrSm90ckxPSGk0VGVsLW5TeFRfWi0xS1YtcE1vV3VSUXgwempJZy1aTnFyU01tQ21oMjBBRUVwaUZnNEVUWmpYRll3VGJ2M1lkQ2lidHdRT2o2ZF8zdTJ2U0M3TW4xcjBWRHV2bXRvdkZZYXJQMmNLQXNHTGpiSnF5azM0Z3ByQXc?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank stock clears Bagchi CEO vote, shifting focus to execution",
+      "source": "ad-hoc-news.de",
+      "published_utc": "2026-11-09T15:01:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSWowb19qRDZvcnhjX1YwOVFKSEJkUWNmWkI2eTFuZjlJbHdNZF9pWHJ4QjNVRGptSVJOU09WcmlxTzk2YVJxVEhDYzBHN05BU19KcmlNcXEyTkQycjZYQkRVME5nM0ItdlRpZUVmVWx2QkkwTElCc2F1Uk5aZFczdmV6ZG9CNnlTSmkxMzdYdEZVV2JWRnRnWUhmbEppYWZyYXpxQVdSX1JJMUV6Uy1KSTZrdFc2OS1xOTFmT3RCVHZLdUFkZlVpeA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "15,513 Call Contracts at Rs 800 Strike on HDFC Bank Ltd. Signal Strong Near-Term Directional Interest",
+      "source": "MarketsMojo",
+      "published_utc": "2026-11-09T12:36:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ1NsWXJVU3draDI4a2FxUk8zZ0FQd3dObkNielJPM2VMMmFBcldFV2pvZ0VHU20zbkhkTFlZTXdhcWJDUnpaS0UwcHBBLWE0eHpIWV9femc5UTNSVF85ZllaOEp6cl92NFN0U3EtYWhSbWNfb1pnSXYydndTbTJEaHFUVUYzVURHRDFTWjhnODVqem5RSHpZcldZQk5mQ0VMM252ZG5PSWFqYkVJeG9rQzdTbS1Ubm5pazlJMlBhMWR0eWs3X0xvcXRtVDFTdkgwU0E?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank\u2019s V. N. Srivatsan Assumes Chief Compliance Officer Role",
+      "source": "TipRanks",
+      "published_utc": "2026-11-09T12:20:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2sxaXUzVndTVEE5WTRNQ1hvb2NsLWFwM3lkNW53RFh5Y2lJSWdwTTA5YVNMOVpUSzR5bFJKc0lwS0VzRlNpX25sZzlSVW43ZVE4TWJSaS1TV3I4T2ZISS1wWFRZMzk0YkV2dmtsOGQyZF9YN1dBQUlBUV9GWENhQTIyS2hWdW9QaVRGYzlMekxtQ0dMcVo2VzNDckVic3NYbFhOdHg1UE1Hd2xaUVZyVnRhOEs?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Standard Chartered hires HDFC executive to lead India private banking arm",
+      "source": "Private Banker International",
+      "published_utc": "2026-11-09T11:57:53+00:00",
+      "link": "https://www.privatebankerinternational.com/news/standard-chartered-india-private-banking-arm/",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Equities See Modest Gains Amidst Oil Price Correction, Strong Bank Performance",
+      "source": "Rediff",
+      "published_utc": "2026-11-09T11:09:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVmRHTUtNR2NJcXVrUG52Q01HYXEwLTROZGs5SHZMN2JvY0l3WEpNVlpubUdsOEV5czllWUtJSjNZd3BSZHVkaHdZc2E4cGxLTU5BX1hJTVBuTWEtd2VOazY2VHE1Qm5jdTZ4RFBPWGtRcjVOTjVxUFhGS1J0NHhpSUNackc5U3o1dEd3VnpFUFFRcVByY1hvaFNJMWYwRWtPWDJQRUVtSzRpNm1FZ0dDRVBiMU1GbUVJaU5TME44clfSAcMBQVVfeXFMUFVuYnRHZ3pfY29HZjI4LURwb1VsUGdiV2QyYzdUQ0d6WFBRQXJ0c1RmRWlBbnJ4NjJtYkZOVmFWU3hWRGtZVTUwX0dscEw4VmlLcmdxNGxwSGZWNVBTTDZXT1hhcXlaX0t4NC1FZUdTWTJtSGd6YXNPUDB4dDZLUGcxcnpLckZnWjRtZGtHYm10aDBhQlVvSkVWZWpBcmpxa2hPUXNZd1h1azFLVlRkNWZ0VmVUUl9XRHNxVTh1Q2lnRnQ4?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "A three-year term begins for HDFC Bank (HDB) Chief Compliance Officer V. N. Srivatsan.",
+      "source": "Stock Titan",
+      "published_utc": "2026-11-09T11:04:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZURoeFRzd2VRVFBrSnhBUXZKTE5abnRZRm5JRTR2ZW5VWm5ZN0dMZjA0VEE5M21WNUxpTWZQeDFOcFZpcGdFanBqNElkajZhcVk5VExvQTlCRzlWUnZ2Uk1DeEk1V1ZDcmUxQW1IZkl2NkxuVGY5WDRkamkzWUd6UUMzZUNacVR3SHZCd3k2aTQ3V2UxVzRLdC1mYkNmakNhamFQN1dhQ3VKN0Zz?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday tomorrow, November 10: Check state-wise RBI closure list for Tuesday",
+      "source": "India.com",
+      "published_utc": "2026-11-09T10:40:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTFV3QmtqQjVFMUhsTllHb0VPT3l0N3N6UEY2RXlPV3dRVHQ4cllXLUE5ZmxaRVdvMkV3Z3ZQT1dJTENBelFMUnN2aU1VelV3SmU2SzZRcm12RzhtRnNtYUZzLTA3Q19zd0Roa2YtWGRQVXBfeG5rckk0R1lFOUs0VUtHbFJtTnphS044VUQ4SkFmV2dtY0FCOE1sbFNVVTZpaEtTLUJWcU4wekZacjZQODRHNFZkbmRhbGdQUUNaNUhkVVlMN3Y1clc3RmtDSFpzMmxZR0RZaklBamtrc0REc2h0NnZxSUs4V2JxX0dUTVNzMWZOLWttRUdXXzYzUdIBgwJBVV95cUxOWG8zcklGSktHM2JKM2p6d3hTXzRFTjZydC1yMlozQ20xSUJWR2cyclNRQWlLelluWEs4dGRMMm1YY0F6TUt6WTBjTktfbENfOU5oUlk3OHFIQ3gtV1pXM1dBV0xOYUNyYVVKYmZPZHBjQlo2ZWQ2SVQxTkNLbjU2R0JOTGxzdElGcTVRazR0UmJZV3pHMDZoNlhnME9EeGZUMHMtWTVRaXBjdTFkeTlCRTJXR0g4WlZ0QzVFanlYemJOTm9DbEh4b3NYWWFVU3lHUW5haUpldjZVVkJnMjRLLUlyck56cTFCRGU4dVNtYWtYZEM1SDNzMlpqZmttSUt2d2tr?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains",
+      "source": "ANI News",
+      "published_utc": "2026-11-09T10:20:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHRfR3dLNF9lWTEzTU5yVkZncVozTy02QTh5aDFEWG42Ump3ZEtfTW43X2pnVHBVR2dFVDl4WW9XQzlLWmhhOHRsN283T2pKM0RybmZiRDhtTlc0ZThNY29wYlBVR2tRaUplTU9LaVRkU21aclNhdmRzZG5tNWN2RE9KcnpUalJzV0F1cTFTT2luSEVnRDVLZ3hxdVlPc0VLV1B2ZGUtMlZYMlZ2MWUyLWNDdm9LOTZRcVZ3WlVzUGU?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Closing Bell: Sensex gains over 100 points, Nifty crosses 25,000; PSU Bank stocks rally, IT shares drag",
+      "source": "Zee Business",
+      "published_utc": "2026-11-09T10:06:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeG05NXN4YklFZUYyQTRHQTdGM2RidC0tT3hxWWJDZk1qTlE5ODlQVllSWkh1OE1COXZ4bWl0eklwREV4Q2RiNlFpQldvcktfVGUzZDFaUENadW95bV9fOXBPN29QWlRNRTZJaWpkazNiV0ZERFRlWE1ZdXBpSm9rRnN6b1oxRE1HQm5FLWVKLWY3Qm1sLWV2ak1IQi1FSTRqRGdkcXc1cVB1aHFQcnpzSzlEVXVqUDAzaTh1TzFvc3BDR3dCT012LWZGN3g2U2pOOEllN0szdHUxRFBsYnc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "NSE stock leads turnover; ICICI Bank, HDFC Bank, Indian Hotels shares follow suit",
+      "source": "Business Today",
+      "published_utc": "2026-11-09T09:54:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbWJKVkVIQXQ0Y0xSUC14T1lIVmE3MVNZU3pqZ0JzZURCR1A4MzlCWXMwcG1OZ1hkbzFWV1pUb2xpVWkzeWxKaVhKNHdybEJwM3JiNENWb05uUGdaQ2FsZDQwdXBpSDMtSG9GYzVKLVAzRFRaNjdqaVItelJDaEZ6OGdLVDFvZnQ3aGhVQmljU1Jiek9La3g4RXFoV3Q2aHZPVUFuUUp2S3RVZXBEQmtLcG9NenlCWXRLMC0wWlFLLWRYLS1teTVBZGhmX2plN0JwYlkzdlhKSGkzOFJN0gHiAUFVX3lxTE5GcVF2VzhwQ2duUXk4Q2JkWlkxbUVSb0VrcWYwbjVKQllPVkNpNjVtWXJwalR1ZE9fRS0xdkN3cWg1ckl3b0NnUTdSWEVCSF9XSVBnUzBqUnVBSHdtNXVoM2hxY1hrSTlKT2FYWXVWYjdMaU11bWRtTkg2MXBzd0tBRGQyNXNoWk9rT1dwTGdvYjE3TWlaNTQxdndKUUN3OHhjdVhVYWc5WFlkOEVnUW02aXhUeFhLdGhJcTMxODBYcGdXRjMzVEUxaFVMMzI1TFoyVGEzMDhweURuYVVYQThvY3c?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank stock wins shareholder backing for Bagchi CEO role",
+      "source": "ad-hoc-news.de",
+      "published_utc": "2026-11-09T08:22:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVVdFa0kwUDhoNjlIS3JCUTZxTkN5aXZ4c3ZtQlJYb1p4eTNVU0dqc0UzVlhKQ1V2YXFiZ0RhZXZ2dEN2bkhqMzZmcERMaUpLNFhYZUN5WmlGcTFVamtCWkNCY0dlNGJ0QmNCQTJ6VDhvczdZaXZMTFBhSmpQM1RFbndsRWd0cjVLcXp2QlN4Nl8tY1F3dXNiN0RoM1NLZUl0RHZKSXJoeEZ5MHoxbHc0Tjc4Q1l2eUpENlNtcGgxb0w?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday Today and Tomorrow: Are RBI, HDFC, and ICICI Branches Open or Closed on November 9 and 10? Check City-wise List",
+      "source": "Jagran Josh",
+      "published_utc": "2026-11-09T07:48:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFdmakEzTDh2S09vakxIaUVaRzdpSldvd2lVTzNXUmsxM0V6M0tOazVEZkQyQ1RWWVYzS2pIdUtPOGNXWmJFaC1zTldUb2I2T001Ym53cEZEWFRuTmN5QUVTNGcxY2JJbDdVUFlSbDJUODJGdHA3Q3dpeGlubUVCOE1pNWJJQjRwXzRBdzVFVVNPQk5sX08xWDRoT2k0TE9ZSi1uVlNJRmwxRDVGbG11aXhIMnRsdGdRY3FJ0gHCAUFVX3lxTE5GSGVmbWhIVWpLOVVOTHlRNnhkSGVaOVlWTkhTQm43ZDdHamFWS1RockhKUUNfUGVZOThhd25rcGx3NXRPVTBpblVNUkNhR2lHampnT256dFpTU1dNUjRhWWxYZkhUQXR4cEN4TXhLT0F4Z3J5YXg3NDJWWkVJMDJNNldYalhEUDFuSzBXOWFXbnZGYmVOOXJFQkM1dHBETGR6NkxEa3JoU2wwMjZQd2VVWUh0a1RtT01tODc2MkJEdzhn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday, closed tomorrow 10 Nov 2026: Ahmedabad, Bengaluru, Belapur, Dehradun, Gangtok, Mumbai, Nagpur; here\u2019s why",
+      "source": "Livemint",
+      "published_utc": "2026-11-09T07:01:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWVNJYjFub2JYZjV1OGZJa0NtTi1uSXM3eFZOV2dYWXJ0YWR0TG94d3FwSlJUVU5oSHNtLURYMUQtXzNhMkp2TVBoTkw5ZTAwNjlkZFBSdDNCZTNkNnJsV3dXSUFiT0ZzTnl1Q2FtYWN2T05qdGlTNTBfRndTUzlYV3EycXI3WjVvTkJCbGYxbmVxZEt0ZnlSYUpFYVJ6U05aVlAtaURuXzdKQ3p5V3FmQnNnYWlfRzZGT0kyMTZMZUJ0enR0cDdaMXhPX3dtOGZzQklLczB0LUFXaTRaSDQ3UnMydzU2Vk52clNzYXB3dEpwUdIB9wFBVV95cUxNbUpVWVdQZllBWUp5akljMTJla1hDeUttcUthcDRQUndYMXh6Z1BSMkFReU41WG1vbm9MMGxVQ0c1MnhNYUdyeGRSazZQNTNBSllFVmc5NUM1dGttbHBMdFMxcnRBMVp4WHpWOVNPYnVvTzRscUU4Rzg3RGRPY3dlMVBsUlNmSHBCenV6MWt0WTdQNHFGYnZNUlFXbUpPdE9MZUlXNjJUYWxqUno1aEhaRjF3X0IzS29zdHdYWTNlanctaDZ1N0kyc0w5MlFERjdhbEs0UExUUTVfX09xaHZ2RTcybkl5amYyVXBpMDdFa3U1Z0xMYlRB?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Top Gainers & Losers Today, 9 November 2026 at 12:00 PM IST: State Bank of India Leads Gainers",
+      "source": "HDFC Sky",
+      "published_utc": "2026-11-09T06:41:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YM2V3OTNrbzNtd3J6WE51U1NyZXEzRlZHYTlvOVYwNUNDSVZ6V1JyVmVla0NpQldZQ1o5ZjZnc1Y5d1BkaHAyTzhORGdfMlF2aEdFSjFqYkdlQXF4QjF4cTNyVVJZWmQxTTNuaXhnWWVzN0FmdFJPSzdNV3cxNG8?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "NIFTY, SENSEX continue to trade lower in noon deals; HDFC Bank, SBI, L&T, PVR Inox, Divi's Labs among top buzzing stocks",
+      "source": "Upstox",
+      "published_utc": "2026-11-09T06:36:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcmpvWTEtVzZQaFRJT0YtMm5SVnh0VDV4QTJBTXczT2FtcnJPS0tlUm9YRUd2RlZzaHI4dWJ6QVRlLWVPYlpvTUFTYzBPWDZwemtBQ0lPVnd1bVphSWszdW1ublpubThqYTdvbUQwY2JlZm5fTFIweUJINHFYT3dIdTJ3OHVITUdXejg0LTduQXUzRF9mY2ljNnAzZWRpMEVRTXFpeUlGZjdKUS1TTGZwNXVSODZ3bVJ1d09rSC1Cb0VEbUVmOWN6dVJaaHlFeDl0T250QVdRQ2NGUmxTZ19z?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday Today: Are SBI, HDFC, ICICI, Axis, Kotak Banks Open or Closed on November 9 for Diwali? Check City-Wise List, Branch Status, Online Services & RBI Calendar",
+      "source": "The Sunday Guardian",
+      "published_utc": "2026-11-09T05:48:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQaWNiUkN4WlFJRG5fdGhfeW9KeHBJOG91RHBPdE1xUXk1TUFnZ1pJaE9sNk5TZnJuSnlhaTZYMWRQMS10VEN0M0lpWjFNQ1QzcWtXRFU3cGQyS3ctdDFIVXJoaWNwUUd6ZGxsWWlINGl3QnpJeWtpQXp1clE0NDFFOTFuQVZmajl6V0hLUXlxNlF1dGM3OFBEcHMyQ2UtSUJ5Y05IdS00bE1wVkxRWTFua1lTTHh5OEJ1UXhYVzZqbE9qb0QyTTlOaWRDWW9kbWtsa0dpRWVDSnlud2gycG1fUzBaUzVPTUh4OXoxakNfWGNmZGFGcFFmSzNNUFcyV1VWOHQ0U2hBWFE1T2dCUGRxT2RPTjh1ZDNvYVJRQjZJYVctSjhHOElLdmtFMk1RYTTSAbQCQVVfeXFMT3pLQ0pUUUNkRnU1cC1xRVVZbUV3VFNfNU5ia3ZncVE3eHZ0T2FTbldlQWctMHYzbTBSdmR3VzBsOGEydU5oVWJTbkdReGlveTU5cG5KcGNTdVd4Rmx2V28tcUZnekpEbUVWUFJLMUJYU1pxXzVSb3lxVmlod1g3M09TbE1ka3VZblJtbDNZN05WQ1ZuaG1mX1U4QWxiNWlDMlRTT2pYRE1lckxMNlVPRmRQdnhsZXJWYmR0RWxDckJRcGVDbFVCaWRvc0I4d09SeXRCQVF4RDR2OENzMi14aFRuQXBSbWhpM19JRTFLUUZueXpzSDdQdlZzWjc1SEVRYzl2ZkpnQ1lxV21GUHpnc0NvbnJaOGJSdlNMYXlKbDUyWmJfc2trME1lU1I5Wkh1U3lFTW4?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today: Are banks open or closed on November 9? Check details",
+      "source": "Business Standard",
+      "published_utc": "2026-11-09T05:00:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUmlleUI0M0lSOXlDdUFyN2pQMGVFamV2dUdubHZQdGxYbV95TnB0QmtWNDZleXZ4ZnBjM0VpN1pSYTRERWt5ajBUS3ZGZjhrNTVqNGE1T2ZMWGpGRzBJMnJZU29aU0FUQ2t6UXliOGU5WVFGYl9JVzcyVGhiR2lUNUEtSGV3TnpzWkxueDJicWVDTzVxMEFkMzhZcE40RGFmYVFPblFkcExpNHhMTkl6OU9lalJHOTI5Z0tqazMzWDV4b1dEYjZHV09Ram15WGpXUzhIaldfeUlmOVRPaXZodjVEbzjSAeoBQVVfeXFMUHk1WWJuTnlkRTBxLTBhVG1MOGdDSl9ib2Vib0t3Mkd5LW1YV3F3cjB4X2gyVWp6cXhfbGtXQVdtSTR4Ry1Dc1ZGUm81RTIyeDM0bTFlbDI5WVJ6ODV0T0NOdF9tLXBtbXJoOWNidnJFajBfZFFWa3VFMFI1RFFUMW1mVU5MZlJ4U1BmYllFc3lnZ2kwdUpDejhucWxVTXJndzFSd29uc1RhQ0tMdXRnR0hlb3lIbGxyUExRbWlvbEg2eFZsOVhMV1Ywc0ZaVjUza21qVElkd29rVjFjSEdRbHFRa2RURHVqV293?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares jump 2%, rally 12% in a month: Is leadership reset reviving investor confidence?",
+      "source": "Upstox",
+      "published_utc": "2026-11-09T04:01:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPY1VXZ01fQmV1U2tJcElTeldWQjhCbzVJdVk5SVRTRm1rUWVtUDAwUzUzVFRfRzJBdzN4SW9QSDNaRzNiSUh5UnpZRmZJemU1c05CNXpLb2VlUDVFOFE5bGt5UWl5Q0xLMm55NG42QWlGcnpxaTlsNVV6cmZzYkZtTGpfMlJ4WEJ2d1dJNlNvT0lHdWh0VjRGTmQ0T1NTNGd0azRTem1yTTNZR0R0cldwczU3YjdxSXA0SFVpeXBIUzJIY015RmwtdDY0RzdRX0pOV2FGSHF5NTdvNG1iVTRmdEl4VEp6Zw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Key facts: HDFC 3.16% NIM tops SBI; hike may aid; KC target Rs.980",
+      "source": "TradingView",
+      "published_utc": "2026-11-09T02:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2hNMzVwQlB0eGxnVFk3bG1icTJ0OC1WNm1hNTc5X0tkTkxmUUdlVDFZU0kzOHhvdFlzVVdlc1gzYWU0U0VMM09CNkFNV0pYOEM5T3A5cGVpekhwTU4ycVNMNjhBLXo4cU1mNUVRZDBRN2RLdk51dk5ROElQbjd2SGxtd1NfZ1k0anNrRU1PMnNqU3owd1RPdDloNXc3R043azdsbW43UkNMdFRwemhBUUlJbmwzWlg4NGx2UjY1QUJJdw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today: Are SBI, HDFC, ICICI branches closed on Monday, 9 November for Diwali? Check cities, RBI calendar",
+      "source": "Livemint",
+      "published_utc": "2026-11-09T01:48:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSl83MG5yNDVrYXVtSHd3bklrblBOSUNIbzFIU1BNanBGaUs2MzIwdWJaSVVwN1dXUjVXVjlCVXk3VEVkMXphMUI1YkJEVVhrQ0hPaGhfelBKMElPX1h4NHdvem9zYmN1ODZxNHplUDliZEZNSEdacmFhdGE3Y3gySkNuWnd5ZjQ5X1l5OURQQ09NSEZoRk5pdnFfWmdSbHdDTnlRRUk5bW9hZGo4cktFbXdlSkRDWmJBRGlOLVVjTmVMU252YUI4TXQ5OF9vSjgxd2RBWXhid2xZRnoxSTRHc0pVaUx1eXptcG9TQVFUNDdEbXVoc0YybWhsYTNqZDjSAYQCQVVfeXFMTjFjZnJEa1BoRnZsUVV2Q1JLdTBzTDNibXdxRzZmVnVNRGFzWUdmT2w0czQwTXNlejM2MHlodVd3a042NTR4ZGRzSjRCWDF1SzhsdzBWbEd6dG5wY09GLWh0UHR5aG1hNGk1SVk3S0VhaDZNVzR1LXZjV3ZGTXVDRk9oZHdvUUJIcFRVZjJpZlZWMXFTNFVLWVRtWEhBRTJkWWc3YzNBdkI2V0dnZzljMDBxV3hHcUJxb3gwQ19heUlMOGdtQW9VMF9aYlN1Sk9ER0xTQWZDV2NrWTlPWG9BSzdJdUh3bVQxY2Y0MjlHN0JjUFg3ekY4S3NaSEE0dHdnLUcxMXE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Weekly Recap: ADR gains, profit growth and Anup Bagchi named CEO",
+      "source": "TradingView",
+      "published_utc": "2026-11-09T01:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb21OX3F1NHFERjNLWkJ4eTc3WUFvWDRTNHVSeVR2RHk2d0EyemZoRUhYRGFhT3h5Ty1FRGdTZTVUemhBcUtBakRtZGVNTG4xZG1rbFowWTdNWE5md05HYkVreW5Id2tmaUsyZ2ZhN2ZUUmVKNnhjcHExR2o0Q05ZRTlVczRzUlJESEhMUDR6MFpDY2xLM2hyaG1sbkxDTzZwcTJDeFNCOWo0OTRCR3VUR2llR2pkLUJTVF9GRzE0RHBOZw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFCBANK Limited Gains Over 3% but Profit Booking Caps Rally",
+      "source": "Multibagg AI",
+      "published_utc": "2026-11-08T16:00:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX052cEZhNWtsUTROSFRyXzJXWnZ4aGtmUVRUTFgwdGRJMUNZUmRHQ3gwM1lCczNfSzA1QkRqOFhZT3V6SU5CQ1FPMzBKcUhNX3hDRS1jTWMtMThTc3Y3cUYwTWpQS1h5VXhNQWQ3TjhzMWRoMEgwVW9pWHZ6ZVdYdU9PZkROMXNBMndRTGJiTWlaS3hQTEs2T1lrN1NUUE50VGR1THJ3?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali Stock Picks 2026: Tata Steel, BEL, HDFC Bank - 25 brokerages reveal 187 shares to buy in Samvat 2083 | Full List",
+      "source": "Livemint",
+      "published_utc": "2026-11-08T14:31:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZlhhT2NDekEtV3J4TUlIUmNVNFM1b1RpWHFMQzRyY2NPb0YtNlJ2dVFDWTU4ZnhSY2RkTWdhUUpMNE1EYk5ubDlJTlliOHVBWmE0SGhZdmZPTUt2eUQxY0lWVkZ2aFlIMWdIdWRzZEwtdzcxZktzZnNkTjlVblFVYVU2NVk4WkVWSjJ4TDV5RGFibVhkaTlZZ1ZhdXV5NE9KcjBhZjJFTlBIMHppMTN1dmpfS0NoZ2pOa0VJa3dubXBMUTllTElvVm53bTVnZVJTYWRKcFUwZ0NIc2Y4SVVsU1A3OU5wdmlWbVJEV3N1UkRobnVhTHhXbVFXVlp3aUlFSm5tRXZVdzJxVHM3S0s00gGUAkFVX3lxTE1JSlJvb2RaTWVieHMzRHNJVEpPVFRUd0stazVGZkRfd2VTdGgtMk14aHdwMG92ejhNT1ppYklSUkw1OEVLaWx5alFtc2p2SzBiM0hBLUduaHFIUS0xa0VEV0JfSmpNdVh1V0pJY1pmdVZqal8wbjlKX0lUOGZRaFo5eDhUYXJ5V3ZFaE5oTWNzUS1TU0gydWFhRzFYWGJTWXZDa2liU3FQTURRcGROUFhsQldiVUNYWXI3YVlVTVlsZEF6RFpacTQzNGlNNDlKSTRvTzAyWEg5cG55WlJPeXAwVEZOVFNBU1pzZF9SSUZicFpIZmhUTWp6ZUREcmpIbmNyMTJMekRfRUhyOUFaS29VcG5NZA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank bets on cluster-focused approach in Kashmir to build sustainable CSR projects",
+      "source": "Fortune India",
+      "published_utc": "2026-11-08T11:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZUpmQTJFSHJobmY5STc0TGNKQ2s4WFdwb0h4QVRWamRyV0JhbHQ4eTRHbGVmekVnSEVCSlp2U3RXM29DOUs3ZGtEMjhBZDFGZWtPdHByM3FoUXYwbHFESUNNQ0V5RU4zNXVtZkJfendkVHZHU3N5OXA4bF9WN3BURnhTbGJvbzE4b1EtUGdnT0N1eHltekpESWk0T19zMEowWHl1bENFV0EyMEJkVnlkakwyQW83WDRFRWtzZGp5bUV0NG5TRlpOeFhGTHdHT1c1R3pj0gHgAUFVX3lxTE5UdnEzZ3A5SEZkazNwOUY2cUg4OUc0dDNMRW5vaU1ZTTMxOHM2TEQxbTY4OEsxVnRGWl9ya3VSdHNKNk1VTElvTDRVaGwtVHFYNFZ6MGVnckVFNzBpZmdULTluNHFUcHN0bFp2R0dNNFk1Tnc3WUY0OHpYdmUzNG5PVXhxLXBoYVJzeWo5T1dsNEFIc19Bby01dG53Mjk1RUE5Sy04cEwybFp2VHNqeUpHWF9UcTE4Tm5pZ1lFM2liVnZOMUFTY1ZmSE01RzhoV0dMZGx3SUp6YW5FNUhGREVu?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali Muhurat trading 2026: Why HDFC Bank shares a talking point today amid Samvat 2083 despite 13% monthly rally",
+      "source": "Livemint",
+      "published_utc": "2026-11-08T10:02:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZUhERzdManpHSHdrMEp4dmVDbmZ1R01keDFPRE1IT2c5RExTLWlJMmMxWm5PWFFoU09MTTI1bzRRakNRVlR5bUhqWDZzUk1VeHYzZlhSeVRqRGc0cHFidTJsejR5WDNZZURPZ0NqeDVmU080TVRKelF4cVBWMXJxN3hmbTBCSmxlOFFYTFVmQnF5Q0pXcWp0VzJrZ3IwdmRzLTZmRXllUHBGdXBrZnh4U3NRV3drdUVOMUoyUlRrVnpHNWo4YzVpTVY1ek40WUx2UkswaWlYYWZ5aTZTa3VmbVBHRG1CTmpVdUU0VzRqZTdURTJWMFZneTJKOHpaSE0zaGVPNmk2cEt1R3JNTTY40gGUAkFVX3lxTE5CMkxXeUowbkFVVWJlWmRtSjI3LVltcklZYlZFei1OS0VObjhOWlh6czVYRjZfSHB2eW9ob1dGT0VtUXFoSnhMdEgzNjhHQ2dLakVQbHNtVW1hbmFFaGk3N3M4MXhuWjh3bDB0WWNnRUxxeTNpb2tYNVBWck0xSXFwWHo3TnhBVGtOWmE0SmhLNXcyYTZ0LVVyQnk3R0EybGVCYlpHd05VM2lPTkJ1ZS1oNS1rYTBKZW9vd1JVaFRsY2dFanRBdnFVYndYV1E5S1ZtanY0QV9RNU8yaFdtLXR4a2tqcUxKaXNZRHFaUklvb1A0TTV0QWU5MTFRQXhGWFcxbFN5RklPNVNwM1NmTEJYVEVNeQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Limited (HDFCBANK.NS) stock price, news, quote and history",
+      "source": "Yahoo Finance Australia",
+      "published_utc": "2026-11-08T09:24:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80THE4Tnh0UmxseTFGd0VrenBtcFp6VVNNWHE3aEUtd0x0dDluMUstTUI2MUx5Q1hiek9HWGs2QXhRRUZ0bS1xM1FGZVNMY19jZmZyX09LSjZ6SmM?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Hikes FD Interest Rates By Up To 50 Bps, Senior Citizens Can Now Earn As High As 7.20%",
+      "source": "Free Press Journal",
+      "published_utc": "2026-11-08T08:30:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeW1kQkhOM2pUNVdsd2l4VVp6RHp0SUsyRDNfd2R2UGRQbk9saXdDQkpXVi1vanpHSXl3c3BmZWk5ZUVsNXNWRDc1OG1yUExVX0tpekw3RUJ2bWszSTlGVlhfZW9KUjBhV3dLd1RtTFVNMmdpTHV1TUJhT3FhV1ZxSG4ybVJmT0wyZlFURnFpNjlKMFN1TGZqLVlrZ0R2X2xLaklFdS1za3BNUW9LVndNWjBGTjhOcFozM0stSlo1QXlGb3JZNTlHWVpqYWNydEnSAdQBQVVfeXFMTlJEZVdTRFhtRTdPN25wUHdyR3BvUzNsNk1YcmFEdW94NkUyQkpVTW8tNmN3RHRkV3ZjOU45NmJTLUtHeDBBYmJqcjYyRi1tUWhDUW9jOE14TXhJMTkzN0IxOE5saHoxRnpHMXdNMlNEbEpEQXRfTEZzd3p1elljanZTTm1paGx3aDY0RjFmT0tuMDQ2enJsdGNmWnktbkZySFZTcUxMQ1Z3TmhFZnpYWEJxZjhpeGJOTWdPV292U0RseVBjY2lCNHE5ZXdPZjVPdHpndmg?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "How SBI is steadily catching up with HDFC Bank in the margin race",
+      "source": "TradingView",
+      "published_utc": "2026-11-08T06:34:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGEzT3NFblQwSkZqaWdjUmxReGZ5bkI5LWhRQlNzQjFvbnV5RG5TeFFaWTRGcmRwWG1pVXB2eU16TTJ6QW9KVjVtUnpVWXI4eW5ySUVVb3NfZlotajZUS1dmS0p2dy1uanZBdXhkbTlNdzA4QnFPS3F3dFg5R0ZhY3pIRHhfNk5ORjZqSVdZTjlMcFlRYWZQejdhVGMyR0RXRjA2RjQ1VmdEYkRuZmYwRmVHSTBmNUxzMlpBU3hRSQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank exercises call option on US$ 1 billion AT1 notes",
+      "source": "scanx.trade",
+      "published_utc": "2026-11-08T04:52:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWUFGd3NPbmVoNUs0MHJlb0xnYzcxT0djc1dmVGNqLXAtVS0zN1UtcDROb2RpbklKdW5jbmVwN0dTTGMxcTljQU1WckxOUXhxb2ZFTW42YTlnb24zQld3d3c4MmhiUTFCRkw0TmdRekhIcmJJUUxfRDNaRF9OWlpJSVhiUmQ4T3RvM1Q2Z09oMnp5bk9TQ0U0eEtPclBiTVF2OGFYcEJBTjJLcEY1Mm5IQlZ3SDM?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Muhurat Trading Picks: HDFC Bank, BSE to Zen Tech - SAHI Research\u2019s 5 stocks to buy on Diwali 2026 for Samvat 2083",
+      "source": "Livemint",
+      "published_utc": "2026-11-08T03:14:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZ01CWGZ2eHFnbWc3Vm9zdHpmU3czMldWUVBnWjNqMW0tNXlwdFc1TVlIWGJDQkhpRUdlQ0NBcmVxbzhIT185MWJfcW1SVk1hNkpDRko1akZXQ3c3eDQ5bzhOY0NVMUpGQVZzczV5SWp3XzVrczZfY2dXY2RaY2dYSFFVQ3hyMXh0WEk1NW9BMjNhUERES1NSMktBYVI4MEpaMzBteEdyX0RFU0Z3MHFnQ0JIMkhpSVNqMUFfRnpaVkdMTTNzb20wc1pJUFNSVkxBQ2pyZGFqMHVGQUZ0a3RtM2Z3UXN3Qk9ZZUVEdVF4SnVHLU5jdVlCU2wzUEk5X05LQVJjSUF1LW1OVXN10gGSAkFVX3lxTE9iT0hycDdodV9LZnFRZ2JyRG1DeXV6TlpKaXRKTlB5blg1RExDOWJmTTZCSFZaMDFZX2R6N0R2eDJNMHFicDIxOHN6SkZGR2lqTW54U3BLc2Zzenc2UExVZDM4Tk1pUzVQX0F4cTMxVVdJVFhQMENMdFp6a3p5TndFalBsQVdrVFVLWExLVHNaZWZLSEpXX3Y0dGpFc1RWQ3ozc2MzQTVvalFYRjlHSWlkLWgycm5qaWFZSndmSTJqaks1TnJjZUJ6VnQwRXVwNGdBd0JTc21fZmRDY1hkRHczX2VsR1p6UXo1Wms1LXZ3RTlUTHFDWjROUU9sX0VhRzVqY3psOU9jZ2ZBcWNWamI1aVE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holidays next week: SBI, HDFC, ICICI branches will be closed on these six days between 9-15 Nov. Check RBI calendar",
+      "source": "Livemint",
+      "published_utc": "2026-11-08T02:16:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQVlEbEhGYWhDQzQwbko1d2pRY0IxZTl1OExZRXZXWWZMdTJXbUduVGtRZkdJaVk4X0QyakJIM3JJN2FibW5OUUlrVE9KRG9rMWpQZ1JkRlJ6amJXTlFRdEttbWVINHRVcVJGYmJGaEFHVkJxMEpNS2Z5LWdBbDg0M0VQSFdxSExROTdDd2dQOHg2MVlOcWhNRVlZNGhKUnBBZXByNFRaQzhrM3lvMjJpLW1IczQ2NE16eldCN284T3Y0QzM5aktkTWI1WEl0aGJCTGFhdk50UlBDZWZIUGNqZTUwcGdadHVMVC00Z0R5aFhyQnNHVkpEM0xfd9IBgAJBVV95cUxOTHZURk1oSGFlaDdEbEdib0JXTFI4d2xTQWxCT29DamQwNkYwT01TUC1TcklRQnR1Vm1PMTNKNWg2ZGRYTzN4REdaSmNNMUJWNmRRaFIxTHk5YVhDc2NLYmdwR1JaOEpmby01TmJzSlY0YUQwdHhGb1pOVUhOaHVXa21RZkkyZnZsLTBBV1pwQ1d5eDhfUUM3SnNJaDhaaUV1eVhDR0o0c2Zid1RQb29xQ0hvbVI1eW5JWHFxbC02dXNicmZ5czM3enN6YU9VdWVCc0tRN2FybnBKMnJHbnhfZDhjYVE3OHBHd040VW4zMTZxOTY1U3AtUnRPaE1iTWQx?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC BANK LTD. R (HDFA.HA) Q4 25/26 earnings call transcript",
+      "source": "Yahoo Finance",
+      "published_utc": "2026-11-07T21:05:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ2FYb1l6Rm01c3lYaHl5b05oS25obm5fcDlNX3FfMHBoMVUxQWpNaTJBVHlIMEFrS2dXVm1ON2lpTmp5NG1IWFpuSm1ZX3M0Yl9NRm9tbDRXbk1XYmJodmZiMjNRc3diTVk3SDdsRE05WmxCOUZ3NlNTWVJWcXdGSVJ5eFp6d002aExsWDBUeV9RMTl4?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank raises FD interest rates by up to 50 bps",
+      "source": "Daijiworld",
+      "published_utc": "2026-11-07T16:07:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83Z1lCcjlMT2dCZ3k3bU1lNWNFX1BvblFianF0MlY5am84clVYNGV4VWVmMjFlbFNYYW0wcVN1SEV6eHItcVNXamRZSWZzYm43SUxBTlU2ZlJSWEhpdWU5UlduQmE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Limited (HDB) latest stock news and headlines",
+      "source": "Yahoo Finance UK",
+      "published_utc": "2026-11-07T14:31:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwYXhwVUxQUzZQLWZwNkxrbEF2NDlNUUozV1VIMUxUcTB5Wng2NFBwVHlZZS1WclBKWlFCR08yQXJpRGI3OUZyY0NHRktGckJ1TkQ5NVlOUQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank raises FD rates by up to 50 bps on select tenures",
+      "source": "tennews.in",
+      "published_utc": "2026-11-07T13:51:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkhlM09Ca3otNU43THAtV004YmJBMmpxVG1mSEk1d291cEFGOF82bjAxR0JzaVVYeVppRnV2LV9MU3B6WWgwY0YwVEs2ekxQSlBlU1E3SGljMEJPYVptYjVBWUVLX0lObWkwbWZIU2paenlpQVY4S2ZNSllBcWJQSHk2ZlREZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "PNB, HDFC, IDFC First Bank, Utkarsh SFB, And Other Banks Revised FD Rates; Senior Citizens Can Get Up To 8.50 Per Cent",
+      "source": "Outlook Money",
+      "published_utc": "2026-11-07T10:44:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYkR5X3hWSEdQX3ZBQWUxQ0dRWmpUSVZsY0NaLWJGa3VJTHp5MF9BUU5udW5GbnhXZk1ScnJCVTl4WF9PbW1jUWdETVBZaU9RTTJyenVObDFQOU5Janl4ejNfNXB4THBTYmhoYlRjYTNUR3FvVjVWUGZmc1VSY0Q3OFZDZG9zQVRqbGdBbjJKbUJiVUNtMGhLVmxBaUs5RTFXcU82Vkt4NWlmMFBzamNlS0NXSmVEdG13Y3ZEcl9qOUhUM0VLalZXTVZETzBZRXEtMUtMUnduVVE2UlNoTVphdzhTZXpoWTDSAfQBQVVfeXFMTnR5NkdWM3M1UkpaWV9uMVhuZmhLUTVzdDA5ZWo3aV9yVXpCeUNLUXJHODNwMmMtd2stM2pGTk1ua2tiOHA1RHpjYmFOQkI4ZngwWnhjdHNwd0pGRjlWcFBnV0ozOFpDcjdaWFhBNldWVmZ6aXZlM3RZQjl3c1lMYUlwWVFzSVdOcjlab0VreFZfSDhXU2VvRnBfOUJPdE5aaWhNS3ZITlRYZ1A1Y0xJREZuSnlPX3JkOWZUdUFDN0hNeTllWndaZEw4cjJqdlRHYUc4SVlqRnpCQnVrZnVYU1MxUzRudUxwc3kxMTkzb2xjT1dPYQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Raises FD Interest Rates: Check Updates Rates From Key Lenders",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-07T10:16:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdm1qUU5FN1RMNXBiN0RodHhEWUsyYjRjeXZidjY3SEQ2RGx1Zzdxa3ptQkJUZGpaQjRZRkRkbDZOZTRLTDFEYkJkNEgtZlFYVmluUjRKTURxQmtxWW1hejlVVThZUExrdEY1Wm1YSzBsTGNVQ0hLaTdiTWJoRVhHYTJjQkVTclNTUjRBZXAyeE5LZlBvWUswZFNsRFFkY2tyaHV3MW9VVC1HOUZ4MEFjYVNIUHFWN2kwZGZvQmdlRm95UdIBygFBVV95cUxOOUNldEFQeDR6bUN0d1oyYm1ONk5UVXozcVJ3Q2pnRnRxam5IX3Z2LTA2WnM1MExMQld2eGN2NnJSSmRYcHZoZEctY0Z0THJCMmh1YkJqR1VxQi03Mnl3Mm8yWXVfSWM5UU93T2RHWFNDWS1NclhCNTd3OFdac2pPcWF0SkVmWnFtWE9QSXB0eVBVa0Z6WmhlTUtFbC1FelhvNnRLMmJMaHZnWW9fQTF0eUxBN2ZKRm9JWERJQmxvTE5ycURYbExmckZB?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Anup Bagchi and Anup Saha face defining tests at HDFC Bank and Kotak Mahindra Bank",
+      "source": "Fortune India",
+      "published_utc": "2026-11-07T09:20:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZnkzUkhSNmNNbS11UmN0M1lKV2J5Z293dVA5a2pqbF9seFRISFFybFVUcndJSFUweURzSkJJSmc0bWQzckZzOHNhRDMyMWkzN042NjB4cTZlWjRuWFh1MnRWcThDWVhBMklTSW03Wno4THlZekhLUHlJQTRtbnlIVFZ6ZGZDOWZHamJuc0tYX0psTGpuV1B3NGNLU3BjcHVKRjd2NUJtOHNtQnFtQmxsS2FHQ1puR3U0bm1oOHFjMG5JT2dDaXc3eGhoTUvSAdoBQVVfeXFMTU94S3R0eV9GbVJEcWVxWnQ4ZlBjTzZ0ZDdKS2hGaVdvLWhTWHFhMmYtOE14MEJMd3hTbEYyQk9yemxGVFZVc0wtRzV4TFI5cVhIc2pRTXhCdU15aGNxZk1BWk9QT25xLV9RU09UYkpsNW8zUHdIRE5DWWhRVDlvalZ5b0VxUzRTTTNKWjhiSHA0Z2FmaUpPODl6UUVWVGI5WXl6WTE3Y1JqbWJNY0dSYU1uMHJIOHJBWm1PREg0OWk4Wk9yLWNaRHVQM3JjTjE2a1lYS3dEYnROekE?oc=5",
+      "relevant": true,
+      "sentiment": -0.3,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank - Concurrent Gainers: 9 stocks gain for 5 days in a row",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-07T08:27:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSnphRi1od2NGS25xTDNsY1VLMkdPS00xUV9BR1BsTjJyVjRLTVdrRTVKS1F6WnhfcV9wVE1RblBhb0ZwdWh0VVhIVEJtRFphZEZQRTB1QTJvS3RzUEtEajZEWWVlTnNKeTA3TmZ2T05rX2NVME9hd3FPbkh0OWdITjBTSER6UUJrUG9UZmpyZ2t1UlpBWU1JdnVNelc5OTRzSVoyWmUwNGVDY05WRVo0YWs1S0pNVHN6a0FJbTl1UEI5TkY2VFJkMHlQUW1DVjQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.564,
+    "strength": 1.0,
+    "material_count": 8,
+    "view": 0.564
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-09T21:07:05.597432+00:00"
+}

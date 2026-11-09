@@ -1,0 +1,414 @@
+{
+  "symbol": "IOC.NS",
+  "date": "2026-11-10",
+  "headlines": [
+    {
+      "title": "Indian Oil to buy tankers as shipping costs soar",
+      "source": "India's News.Net",
+      "published_utc": "2026-11-09T18:26:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUWdRYlBHSXZ6R1dOaVJvUFpDRzBGNjFnMENYTGFQZDJxZERFRk1pTy1YckFqTk5RY3JacjhVRnRjOXF5UWFNU19qbjlIdUFYb0FyUzdoX2V6ZWJJV3R0eVg3SjdUZkJoQ0Y2WHpJa2ItaGdCdDlGUjNMbmFTZHBTRS1yR0ZQTEY3S1JqeGZTVEpTZkp2?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Plans Own Fleet to Ease Shipping Disruptions",
+      "source": "IndiaWest",
+      "published_utc": "2026-11-09T17:19:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWVfMUI4YndHV29wTXMwaDVwbFhQSVc1MnJ0RU1nZzV3c0dhRXZKeFZQd2FWbGczSEhBdzd2RDRDamFWUU9RRVFQak43dUg3dTdEYXNrX0NuaHQxRXFTMWNfdHRhaVhaN0JROTRtZHRGZTlJOExvMXZpRDVNcXRaOVdjWWtGWS1IUGc?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Plans to Buy Its Own Crude Oil and LPG Ships",
+      "source": "Dainik Jagran MP CG",
+      "published_utc": "2026-11-09T09:51:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeklIRXROa0QxNk9LQmpBTHVBbGF0TGdHdkZyX0NzZTR2TUJmRXZBZ0l1V0RVazdCZ0dpNU5hS0ZFc1NUeC10bDFDMjJzTjZscHJWblZyT195a0NLVXFWcWRyWHdRWk54aElXVjFzTWwtNy1xdEFfN3plQUVRTUc4MGxyMEF0bDdnOGE5dkxidGdlTHVEbThZZFkwYndyY1hsT2pZMnk4OGU?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Coal India, IOCL, Vedanta to BPCL: What dividends mean for the Indian stock market amid bull trend buzz? Experts decode",
+      "source": "TradingView",
+      "published_utc": "2026-11-09T09:50:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdFd2OHdmZEZFaF84eTNuUkRFRnptMUQ5WkJfeUtyX0JhSXRJSXZtdnhoRnB0RmtWV2gyUWVCbV8waUs3bnZMaXQ5OVE4Q3NqNWVSWGk4YjdTeE5reW9UMWZFbEUyRFJpMGZuaU9jLXBOcmdvLUlNSE1uNFUtaFU1cmE2U0tLZkNBUkZuci14VFVGbDQ1YmpXX3p1X3ZJek5YSDFCSmlDT1c0eEVaVGZkRlZPVGM1M0hUX2E5NllHbVBUNjUzY014d1VCZmUwWjZ2emxRbTg1a1V1ZVd3bUtBNWN3VFE2ZEc5QUVzbjJrODh6TExfYWNWWFIwTDJib0lrb3c?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Refiners Report \u20b930,106 Crore Q2 Profit Surge",
+      "source": "Multibagg AI",
+      "published_utc": "2026-11-09T07:00:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzdNNmZnVHNkQjNKZklNYVZEcjRGV1ZyVklRWGR4bktmbWFzOVFMdkZXb2EzMV9ERWxUMDlhTzFSUHRwQUJCa1c3bHZyWUpULVVjTk80cGEwVDhnS0t5UHRDVjVwMi05ZElNbzNGaE1vc1lvUmJZclQzc20tNXNPU1JFNE9EcXBUb01TMHFWV0dGQjNGQ2RoaUdUU1pvMkxuckJrVEFOQQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "NSE CEO Ashishkumar Chauhan predicts growth for Indian economy, foreign capital influx",
+      "source": "Udaipur Kiran",
+      "published_utc": "2026-11-09T02:48:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmVYSktadUFYRFZ4VDZyWUxxTUNQbUlDdmFZaGYzeXhSZjFMREdPbHBhREtjUUpVZ1U3bTQwaGxUUXBWajhTMWVlMHF3US1yWHZ4bzc3R3ducDRPUzFGYW91cFEzWEs3eXZ1VW9OV0ZKU29Uc3I2VF9OZW9MbHI3SXVXSFZuMGRiTEVlMFk5bTM5ZmRWel9NaUMwQ3RyZmRkZUV4QTY2Z0hDck04Qjg0Mg?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Stocks to Watch Today, November 9: SBI, NSE, Tata Steel, Indian Oil, Adani Enterprises, Wipro in focus",
+      "source": "ET Now",
+      "published_utc": "2026-11-09T00:05:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQnNwUWVWTHNDOWlBUHZNQWE5dnREbnJlc2loajNKcEJWZ2ljOEs2V1Q2WnNDdmpmVDRlaTNMajU3WFE5YU8wcUY4MXd6WU1idV8wS082SWR4bWd3dV9fYlZwTXFZSl9FY2lCSVdndDJFcllrTXhONTljeUYwX016Vm9QbTlnYlVJb0hPWnJJaTltZmVtYzJxUXo1Y1ZkaV96UVlXeU04M2xrV1d0VC0zNEEwR2VSWnJkd0xmLW1jUTJuMkNvWjBNeXF6SHlKdTBGeHpYS0t5RHdhbE5TckhYMtIB5gFBVV95cUxNa0tmLW5VcVpYSlFGenJId2EwSWJtaklwaDVuRjhfR0VBaUUtYnlrdnVGUzF5aUwxazgtSXRPU3NNbnVHUmF5YjNDM2tLLWY4UHBTdDdab05BZmg5WURfMnFPbGlqU3BzdjFiSWIyODBBeGJtanJocl9fWm80TW51REtMYmdadGg5WnloYklZZU5xS0tNMnNSZi1RbnpBMUJERks0ZDNYcGtfRWdUWDFJMHVpQnFzNDdqdWpRVWtDYUd4T2NmNjZCZmVESnlFZlVxd0tVRGtJSXVmazRjelNsaFZUblBqZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Karnataka Minister Challenges Oil Companies: Will Provide Proof Of Excess Ethanol In Petrol On Monday",
+      "source": "Cartoq",
+      "published_utc": "2026-11-08T17:07:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkhjeWFrMzYycTlIa3pMTzl4bFhaU1I4cV9fMnhyeDNWajQxM3ZidWFzNFJEUElGel96OE5Nc0dpOWhUQ0d0ZzhtRXZNd2NVamM4b185OTZyVEdqV3RNUXpHcVJONGQ4aGt1eXlUNGlIMHVMSXZVYVhldnFGNjQ0RDhENDhDN00?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil to buy own ships to strengthen oil, LPG import chain",
+      "source": "Sambad English",
+      "published_utc": "2026-11-08T11:59:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2tqM1gwNkQ0U3NHelNUSmZGd01ib2psVTNrUmlMaHBURGRmWlpxczZaZlpoUUx5VGtXbnJDSTItcl9DaGZ6ZUJHTzN5ZUp5LTNjLUM1WWVKZmMwUF93VjdPLUlIWDlIMXQ4dDV0cHc0V2ZJbV9HaGd3QlhNdmFoY3JyR0k0QXJsaVpXV25fM0JsOVF1NXFHUXZTbVN1ZVk3MUtacGpXb03SAa4BQVVfeXFMTzRiVzVQdXNsQVE5cXhUWmtPdmxBdDJVYVNlMWE3OGQyaDdOQ3FaSDNJQmV2RVZmUnFSclN2bW5NMDFQN2JDZTV0VW1IMFRmaDFtOTFNaDNUU1dqczhoWnV5QVFWeU85NHFrY2ZyelZEMkxWM3o3VHFNUHJTYTNUa05qZHpZN1dCMFZKN2pCRkV5MDhCcS1mODRiQUQ3NEtUcWk5Z2JJS2xCRS1rSUJn?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Plans to Buy Ships to Secure Crude Oil, LPG Imports",
+      "source": "Munsif News 24x7",
+      "published_utc": "2026-11-08T11:39:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNm9ibE9HRjUxc3owVjR0VEdhVGJ1QVRLaFY1ZVJFWk5xTmpyb0k2YU1vVm5QZW1acjVpaWtOYmlhNU9kcnVTV3FRM0lNVldjOWdMdnhGbERVR2gyZVRsWlFOaHJ1YlhUWWlzZmJJYi0xQ3JISWx6ZzFqWVppVzNjQ2cyRW04VkZXVTBpUmR3Zw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil to Acquire Ships as Freight Costs Rise Amid Iran-US Tensions",
+      "source": "Udaipur Kiran",
+      "published_utc": "2026-11-08T10:52:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWUU2NjIyT3lYSFViVG5ORjVXX1VSS2hUT0ZVU3cxeHdQa3V4OWR2Ulo0OW1USzVsVmJGSm1xTWN1WFpzYTFlU2NrLXVhUVMxREo0al9PaXphMU52SWFUZ0pJaXN3dlBCTWZRYThNb2J2SjVyYWV2UDVGelFkWEhSS1RvSkFad0lEVDkwaGk2VjRMVkxIUWxEc1pUSGd0dw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil PSUs ask petrol pumps to step up checks to ensure high-quality petrol",
+      "source": "IBTimes India",
+      "published_utc": "2026-11-08T10:47:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVEF1YUFmR2NPeVgzcXA2c3I3ZzdFZ3dxSEd2ZDBvbEhnY20wcDNXZWlxQnNpSjRPc2U5OGp5Z2FUNE55dHcyQW5pWmd0UHBESnJ3SVNlcHpVREhkY1ZlNGp1bC1wakhmSEEwdGo1NHVpOU0tbEdXcjR2Y1oxZTlERTh3bDZGUDdOekliN21zU3ZpX2RiaHRnV0Jhc0xLdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Samvat 2083 - Three stocks that Dipan Mehta is betting on for the new year",
+      "source": "CNBC TV18",
+      "published_utc": "2026-11-08T10:28:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOWptX0lmY3J0cDhiVlc2bzI5OXdJM3pTbTZldW52VEgtcUtFSlJ2Uzd0YmswQnpQQkkweVR5Q0trWFo1UlpfU3F2NkNoQW90dmEtV0pvMkNVZ2V0TzlEZThXd053MmdRYVZLNmc1THUzQ0JZTTN0NXprejhaWHFJYVJjQnZXSjNFbjE5dEwwUkFPOWdXd3FhN1RGcjRSekVhS3d6ZmVNcFZCc2xxckRJQ1dQU2w1eFIxemJDNmt4YjN4azMxV0ZONHZySUp2S2Q3NXlWQlZWeU1LcE5WZ09NakdiSGFyVmhZZFl0V3RpQWVidFNP0gH6AUFVX3lxTE9DSnJYTHlzR2NuN1lQODFtRWhJY2NEYy1mSlljem9VWUIwVlVfaGJsdVlxZTlmNmxJRWJuN2ZNZEtnaTU4YjhwR1VtYk1hZEhYODZoN3l6NFpZcGRBN3F0Q2p2Tm8ya1pTRkdwQ3FfQWRZZXdhcy1nZGQta1JWZDBqU0VFZHNzcVRTOWNoUUdfZDh6U2xrNlRVa3J5YlJwelVPbzFnd1pIX1RNVnVOWU0tY2VZbG85bFZzNF9mQ01vREFnYkRLREcxTXpxdlAwQ1ZFZ0ktbEw2Q2FtMHJUQ0xUMU4yY2g3ckpUY1hlQnU3Q3Jad3NmMDNTY3c?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Ships Plan as Freight Costs Surge",
+      "source": "Urban Acres",
+      "published_utc": "2026-11-08T09:36:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREFXaHFxUlY4ck56MlhaQnFHVFIxUEtacFhXZks2SjdOamtqTmwwcTRZTUszZGFNelEtU1FvWUJaYUNNN3ZPRVJYWHNZT1dtRUNSY1hNX3Q4UUZic2JXRTZ5Qkg3QVhnRWZIMXFIdEEwYndpM0htWHZrWDEtWGJBWGY1MEdYdmg1d0I1dUMzSnM3Zjgx?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "E20 Fuel Controversy: Karnataka Investigation Claims Ethanol Blending Touches 31%, Oil Companies Strongly Refute",
+      "source": "Pragativadi",
+      "published_utc": "2026-11-08T08:07:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUWNGYnd4VWgwQ1A5d0ZKemI4S01XWkdGLU1TMTMxY3ZIeGdudW9PczJaaHFqT25Zc1JySzBKVWJLM3lkRVZIRTRQY21CV0ZTNjVXVUdCLVpia29oclBRX0ZVUGVJUXAzMWd0LWhkNFVVOFZhLWQtRjM3eExWZ0g5MjBrMlRheVRpZk9oZmJTY2JXNlRlUWd0TEZYLXBpQUVGOExycTBpbHhENkxUdkg1ZzhtWS1hWnNlcVpFWkVlM0xlZVpFdDd4MGJ1cDh1UTg?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "'E20 is now 420, petrol being stolen from public\u2019s cars': Rahul slams centre for 31% ethanol blend instead ...",
+      "source": "Bhaskar English",
+      "published_utc": "2026-11-08T07:39:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2RqWXU5NUlCWU9EZkM0X1YyWWprdGZHaUZ0VlJIdkVpeUZtaFhzMmUyY1lNc0tpTWFjcmVNSkhxZHFjQnJtOTNJZ3g5Q3NUTmNFNkZuZEJJYXVXaW1NZUc4QU1YVkFJLURhLWwyVG95NmNBTDBKYXhHNzJ3SWg0UzFkUVVrN2FRXzRsWDhFQ2RLV3NJWEN2bzhScmxUN2ZiSzBrSUtySkZHSWRNZnd6ZmlUWlV5UkN6SnVBSTFpUWZreXPSAcgBQVVfeXFMTktmWmV1TXhEQTB3ckY1UU52em90dFpZbkZlOTRhXy1HX3Q2N1ZGTE1RRzhEN042M1A3Y2Y5NVFGTXk5NmNJc2N4YWhDeXRmV2ZXdnVjUS1vTXhBdFNSVmlkdnFmMnNsektRY1J0SEJqenctd2c5ZUNDOV9qZW1WZUN6dVRhRFJsd3luenQyelpmY1JLWnMwdXpZUVJqNmNrQk93VWxsbEFveUhJNmFLZF82NG52MFMxVndDVlJxdGZHV3piTnRWcVY?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Corporation plans to buy LPG carriers, crude oil amid West Asia crisis",
+      "source": "ET Now",
+      "published_utc": "2026-11-08T07:30:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRHJKb0VnX0NsY00zb3VGRjRXZVd0Mzl6bFIxc1RZQkFkZGJyLUtXaExVNVRYMzdKSUhXZ2VvV20zN1FlbEpQcEpXaHZ6Z3NhcG5TY2dvZy0tb2ppczVrRDZnRXFHcFY2NDVySzQtdHlscUFHaGtwY3NxcnZOQzhZbmZ3cW9ocUNVZFBmaFdIX2JuYTQ2Y2lBOWFYWGJnVXVmMzRYSFltTVhLLXpVdGk2WkZOX2xvYzdjZU1VSHdfRG1wck9qTHFYM19SeDbSAdIBQVVfeXFMUE1DVVFKcmZjY0pVNkFKV0ZoV0wzZHp5UDRocUNmWXlCN3I2d1JxVzBCZkxZUkV2TmxYMTBlOTZMSGxuajAxcDdWRm42dGRtZGxRYzVENnNMNGVSR2ZSdS1rVGo4cFlYVk8xc1JHNXRsdG9mdUhHLWRTZXhoUEdUZVRWbWxLVkN1V25BUmVGa1JIbWhrcVFGYTRsSnowRmxCMVQzWGx1UFR6YzJ5SGdsbFZtYUphRWlYcmhhYTBJQXRweFBlUG9UMXRUY2diWFl6UmFR?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil plans to buy its own oil, LPG ships as freight costs surge 4 times",
+      "source": "The Times of India",
+      "published_utc": "2026-11-08T07:26:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPb3JldFh6cS1wWXpNbUhuWTZ6eVF3eE1hRUhWWS1tUS1MUzE0TndiSFh4Qk5VcF9NTGw4ZTlwbWlFNG9PN3d5SXJrSVVMUnRDUzZSaGJKbk95NkhrMHIxNTdKdW9neDFVaVgzUHZSQVk1bkVSemhWU0NSUkd5dk82MmRQUXlJYXlwU3JYR0UxRGxvSXJFT0Q0RnZZVDVtRjFaNGZISFNPUDRCMzJ6dXhsRGZYeFNja241NTNaWHk3czF0dWhndmt1N1VQeWtxcEo3dWthRlNmc2lDUzFPZXZGR1dZVkdPVE5KM1M4eUt4aHJLeFhM0gH6AUFVX3lxTFBTVldOVTQ2aDA0MnZxR1QxYWlQY1VVdnVqWWZVNjNCY1k0MV8wVHVOMmtSVlBKME9PcXpDU2JjRGVjWWU4VXVGUW5KVll1ay1ERDJIaXNtQmJkQ3lsYkZtWC1WdTR5bGxJN1JJVVV6QXF0WWw1Vk9CMHI2ZHBORmpmTWItZHFRWjB1OE1VNXR5Wm1ZSE9zcjRJZDByRVVrTWdEZWpKbS10YXZyaGt2N2kzZmhWSklpNGVBWlRmcGdyVjRVRzdRQUZreV9Tb1BNLVlPTnBKRUZxeUl5UGx3ZWM4OG4wc0RnLUNxcHBrSXUzYS00MTNWRDRxZ2c?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Diwali Muhurat Trading 2026: Indian Oil, Adani Enterprises, Tata Steel, Groww among top 10 stocks to watch today",
+      "source": "ET Now",
+      "published_utc": "2026-11-08T06:57:41+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYnZ6Z2drVXRaSmpQT3NfaFIzYXY4M3FodDVSMHR4Qjd2VXl3OGdzVGExMjZERkV3QUpxREVJQnFOS2F6dTBGTU1OZXJhTFdZcGxLS1h4c3pmY1haR3Z2dTRvQ0J5MnlRbzFjTTZnZ2JZT1N4ODJiU2JHNUNfQ3ZPdU1oUGxCWFNseHhPcG5INnd5blRtYVVLenlxbEhoVVhYNWdNZ3Fjc1F3RkJhRlB5QXN4Wjk1d3ZGaWRfRlJfQWx6QWFvLWIyMURTUEFiRXlraXFZbHpTZENCbmdEMkJoamh1dnRSSVhVQ2R2TjY0OGcyUdIB9wFBVV95cUxNY2hLcWxBUG1ON2ZlSUJJNlRKZTJ5UU1Vb2JSMjVUc0xUekMtU2pSbHlFNGFoNlVuN05TekpSUm9nWDk4MDYyTnBMT2htR0dOamhLMWsybWJVem1xaWQxSFJjT2FDUndaQXJaY05zdkt0ZmNnY01DSmU3TnY5dG1tcFJISlVoVndqaHVnLVozMVk0U0FYNGNQd0NIVTAybDNZYWhpNkMwVE1fb3dEQW9nX1Y5ZG1SeFpOUHlLSjNRaDZyZGZhQXBSTVRrTkRoQ0VNcHMwMnZ2S3pXVGlaYktvXy1RMFNFMXVjRjJsWjdGWFNGQ1EwZnBN?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "\u2018Copy-paste reply won\u2019t do\u2019: Rizwan Arshad slams oil firms over excess ethanol in petrol",
+      "source": "Daijiworld",
+      "published_utc": "2026-11-08T06:48:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ycVZxRWgxalRibDBfc0pDWVFFdGVzZ1M2S25UVk1PZk1XNFFCQ2sxaE92d0JoTnVoT25KMGg0ektCRFdHNjBMYnJkNkFOUzNPRFdEN2FqeWg3Wm9xTDRvQVNlRWw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil To Buy Its Own Crude Oil And LPG Tankers To Reduce Dependence On Chartered Vessels Amid West Asia Shipping Disruptions",
+      "source": "Swarajya",
+      "published_utc": "2026-11-08T06:42:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdGtxUXU0eE9iQjRxQWItVG1aTE5rQlBjRlhPOURCeE53SGdLamFGeXBfY2hsS3BJUXdSVzVSbW4xVFBJaFFVSkhiOWNLVVdqS3lNUVFIX0J5YVY0S2tadnlFVkRBSC1tc2puVjd5VGVnaVdGcXlRWExWQS1wQVh3QWpINW1PVU8ySUFOVnczUWdTYmY3T1JiYzF3ZTFGX1lMb2FyYy1rWncyM2w3d3BxT1dEUDA5aGdwMmNPVG9jY2dfZzQyb2w5TXh4UF9HVXpyWjYwWndOOUppalloM2laenJQelB3S1pTMFYtTnR2RVZxSFhfS19kNDh6SE5ORWpQN2hkMNIBhAJBVV95cUxNdGtxUXU0eE9iQjRxQWItVG1aTE5rQlBjRlhPOURCeE53SGdLamFGeXBfY2hsS3BJUXdSVzVSbW4xVFBJaFFVSkhiOWNLVVdqS3lNUVFIX0J5YVY0S2tadnlFVkRBSC1tc2puVjd5VGVnaVdGcXlRWExWQS1wQVh3QWpINW1PVU8ySUFOVnczUWdTYmY3T1JiYzF3ZTFGX1lMb2FyYy1rWncyM2w3d3BxT1dEUDA5aGdwMmNPVG9jY2dfZzQyb2w5TXh4UF9HVXpyWjYwWndOOUppalloM2laenJQelB3S1pTMFYtTnR2RVZxSFhfS19kNDh6SE5ORWpQN2hkMA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IOC Oil Ships Plan Targets Rising Hormuz Freight Risks",
+      "source": "Urban Acres",
+      "published_utc": "2026-11-08T06:33:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVUzWjJvanF5VFpHbElRSnZRbkFlZ2lUWTlrcnlHY2lVSzdZRmVJNEdlVF9CNkFsa1RGdXVLazdpN2pkUlpTYjNhNzBTMnotaUNUTFVSdEltYS1QSTl1MVYyaFNtM2lIcDRXeEd6cmdFWk5vT2ZScGxTWHBLT0lHYnQzNlpFZWNDSjFCc19n?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "LIC reduces Indian Oil stake to 5.879% after selling 2.008%",
+      "source": "scanx.trade",
+      "published_utc": "2026-11-08T05:51:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWN0UW9OMjRsZWQ5cFl0UGtRTkdDUFFabzVPSUFCWExsdkU3aFFzX2tJYjRhUjZINnNKblJNeXZxQTJHQXB2NC1sMVhCOFpNYVpKbzF4bTFxdTJUQVMxOWJRTHFTSUVxUjFQQWlRN3E2aVdxRklQOWZiX29XWnB1VHBfM2QxUFE4dlUxM1FqOXFIMkxQb0VWTWFQeGxEbExsM1FwZTRJTko?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil to Acquire Ships Amid West Asia Crisis, High Costs",
+      "source": "Rediff MoneyWiz",
+      "published_utc": "2026-11-08T05:42:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMGEwbUJIcFhhVHp0a3Z6YUNWU1JYdGhNYmxCT29MMjdPdEhjcElSdG9na200ZFd3V2t2R1hqWmtxbmsxYjlBaldjYThIcTV6UzBXdTNjMTA4S2NLdFk1bFlFbUVVY0hmVzIxNF9SdUNYUDhkU0xEU2RNVWtFalVGQVFDaFNFdmdyTU9UVFltejRrcTRZc3dyakhRZVptc1ZJaWcxZmd3SENVR2JwQjB5YXVB0gG3AUFVX3lxTE04YjVDby1XVkVvQk5xQ3ltS3pCeEFGUXlYSkpob28xSjRkWXFCUWZweEV3Z1dWZlFhZzlJMFBIOGlzLVhnTjJnR1Q4bnIzOVZIT21WbGRNZ1I1Y0dIa0xXNFBJUkRyYTlqaDJWUFg4Ullvb3Zzd0l4dWtQNjJYLUYzdk5MZk8xdm9vbXZJdWNBT2dDQV8yQnktM1hydXRJaUViYk9PakpsY0thR3hpSHI4MXFKY0RwNA?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "South fuels ethanol war on Centre",
+      "source": "The New Indian Express",
+      "published_utc": "2026-11-08T02:00:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZEpra2VsZmF6SjZYYlVrZFhic0FfTFRCVUQ4VlF5UjVPM0l5RFV5UV9QY3czbEZSMFpQQjFacGNPeHJmQmdJaUw1WGdQc2dVdkwyb0h6Q0pqTkplX1dkWjFWV2lndWxCZkx1MEkyM1RnR2YtOHZmdmxxVkdQZ2tGeTVQeUY2THNXNFN0V2pzWDZsOElMemlkVEM1ZVbSAaoBQVVfeXFMTmg5dVZCeEJlSWRvUWctbm13cTVNbTIwM2lkUXgwaHA5cjFXY1NSVTJmTG1yS1ZlNTJqaVdJOV92X3dlb3ZZVnBmZTZtSHNJcmowNnBsRUZ3YU9IVlYxN1B5MVliZ0VtaVYzNHlsT3NSTTJrM2lZemhRWnl1Y3ZGbDhWUm9tSDZLcUhMNFczOTRFR3RSV0QwNVhmLUFyZHR4YlcyVk93czE4MlE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Karnataka Flags 31.2% Ethanol in Petrol, State-Run Oil Firms Dispute Tests",
+      "source": "IBTimes India",
+      "published_utc": "2026-11-07T15:07:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcnowTW11RUlFNklEYnVTdjd1Z1dIaVR4WG9RemZKNjZzbEZHMEV4ZEo1dkd4N0F4XzJuRmhDV2RFelRaYndieDJBRzZ2WWZCb18xYm1mVnQySUxlWDFzQVVRYzh0azV6RmRsZjNKLTFKb1M4dnoxcDlQWVpocFZWZ3IwXzRFTWZTTGdJOEh0UnRmaHBORlZWcHdJSTkydnYwcDF6dA?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petroleum Ministry Says E20 Petrol Meets BIS Standards Amid Karnataka Ethanol Controversy",
+      "source": "www.nationpathindia.com",
+      "published_utc": "2026-11-07T13:43:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWFtVTFteDEtdHVGOF90cHlySnMtN0pjejVTNFJZZGppb2VtM0ZBaVlObVUteVlQaElaaE9GRmpGUDU1TVZWMGRNaU9obVhmd3hpRktUTThBX3VCOWt2N29ZRDgzSzBVVG9lSUt2bWdBdVltZ3ZxVktQdnowY0JNYW45WjYwOEo3TTZnY1dTUzdhY2VqaXZ5MUFERjl3YW9RZEhmd2ZwcHNnQQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India's oil ministry rejects Karnataka findings of excess ethanol in petrol",
+      "source": "Reuters",
+      "published_utc": "2026-11-07T13:13:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQajczSFdwSkFRbkFremNHWUhOQjc3YU42dXNMazNlLU1kOVY4U1ZlUXhpYkpBbzFHODg2Y2NkNFV3akRoaWdkSjZBZVphbUxvZFVFejRfRUU1QnlRTFlVRmdyTjVNS3FnZnl4R3o2MFBBRlBkSkh6b0dacDkzeml1WTFDZkNFYmdmbTl5ZEVqQVVIVmVtVklDYkZ1dnJZdUp0YlpxQmt4UXBpSm5kUWpKczlBY3lXZlF2YUs5Tw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "E20 Petrol: 893 samples across 27 states meet quality standards, Centre rejects excess ethanol claims",
+      "source": "ET Now",
+      "published_utc": "2026-11-07T12:44:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeDRxWXF3V29uSjNKTnJkLTdsYXJYeEtvTzBCVkkzMk5nLXV4ZjNRaXhBOGVhZUtRd0I1ZmFCNkUtRzVIMGJEM201eV80SzNOaGNNdzRiV0RKNGVfSGo2aGlOU1NUaDRvT2JWUzgzMWRFSGVDX3ZyRWRWa3p6bjFmNWFVX01lU3g0MktnbGJjN3hxZTdPZnEzMzl1SGxCSThNYS1lSmNDeVpmb2RYUVVxaURfaW1hdHRHWDAwOFRvWm55S3Mzdk9jUHNKSHFjd25MS0RodDQtM0tSM1U5a21ob3FB0gHnAUFVX3lxTE9vUkhVdkdvaThmclUyTzBfb0s3R1BJbFpNam1qdEdTaXdscllrYjZhZEdrWE1CbHhqMDZVVW1LZnd0bnY1cTFoQ0Yyb1doZVBFRU9lMi1MWVlaM3c5bmU2UHZFX1JVRkxuVU9OQnpjQmJ0clUzQ1QxLXBoT05hZzg2WkdNWm1TQzZDVjBnVGF0SmJReU9SMmltVzlydlNaRERVOV9EU1RuY3J0S1ZwUzZvdWRITE1zcndyZVFRTWlsLXdzd0FqNmZhVV80V093QVYzaVdDUWNxeUl5Q1JtY2FST0NZQjZoVQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "E20 petrol supplied by PSU oil firms meets prescribed quality standards: Oil Min",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-07T11:51:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOTRmRmRnNVdvdS1CYzZDa2g1MWFqbm9GLXNicERiSWUwdGRCRmNnaG1aR0g3djU3OGxMNmMzN0FacVhlYk1yTDlCNjVESk1FUnk3RmdfRXNFSk41ZXZSSkFQVWFkdVVLeC1YZmd6NHloOVRYY3k5V3ItQVNzaFBJalgzclYtV2U2azFpS0ZjUF8tRHVPRzN6VGxjTHJrYUlqZEFFYWFIM0RoSFdUWE80T1E5XzR3cVNzTFQxUDNhUGpqNTk3NW5oaGZrdDJwSU9mdVROaDJIY0FTcjZEVE1DbFY3VDZBYVNfX1k5VHpn0gHzAUFVX3lxTFA4NHhrTk1ieVBEbXh0SDJnMDFWc1J2SkQ1SE9LNkZfV2JUVTh1WlQ4Z3JVTTdZSjItUWk5TmtCTXVzMjB5U3N2eWVTZ3FrbjVsUjJmZEhHaGx1Z3RRTlRLZm52YzlPQ1plWDMwd0lfQlN0OGh4VUQtdTlqZDJIeEdTRFhRaU1BSEYtdVJBZmZZTTRjbUtNY2d3ZHJ5d0J3ODFxc09iRzRnRDBRTlNWc1hRdjcxWjMxdmdLSWJsOHgzQkNSYnZkelIteEdCaFJXVDRaZXA1MW85aVlCbmtVZlB3QTBQY1pPZC03d29HY0psMDJPOA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "E20 Petrol Meets BIS Standards in Nationwide Tests, Say Oil Companies",
+      "source": "www.nationpathindia.com",
+      "published_utc": "2026-11-07T11:23:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORXlPbDNzRnNxbGpHd0NLVTU4dWdNOWJ5dGtvWkRDckY3VDlOclpqNkx5MU1YRm5yWERxRDNUY1NvYV9GMXRoaDd4cUlCWlN2d1FEYXJNUkhlMHVBb19XQkZ5bWZmbzlRcWRGam5mZElxN0hkeWZaQzNoS2t0THREUXZLdmVOb19GMkdLdzBvZGtWNzlOZHFR?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil Companies Dispute Karnataka's E20 Petrol Claims, Cite Tests Showing Compliance",
+      "source": "Outlook India",
+      "published_utc": "2026-11-07T11:04:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1IydUhFNjZJRXhmVjk4Uml1VDloTXhPWDFPRUkzdjZ1RExrbFNHelhLQ3otU1hjM3hwMU1zbGpQckhPUXFRZW1DVExyXy04aVd3eWRqLUduR1ZidEZBYi1CSVF3bE9tOXFxaXZRVlFXcXR2cTl0b0JYdmZaYlZQOC1FNk53ZzNDT1Z5VDg4OEhLSGd2alVvV0c4S3pKQXFRcVJkQdIBsgFBVV95cUxQbVFjYzhWbTVrdmF5N09KY09zRHhJRW9ObW9CbHVQZ1A0dWRTcy1NMC1fQWNxMkN1c040a3p6aTk1OHFsa0tYM1UwQmV2aW5sZmRNVEdCMWhqTnJtN3l0dFpHemJIY0ktcS1JMjl4V3hfRVJmUDUtUUVlVVVHYk02T2R6OUQ4clprVUFybUVkbnEzUV9MUFNYTVIyNDI1SmhHQWplUTllQVFhYXVpUDNQNDd3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil Companies Reject Karnataka\u2019s 30% Ethanol Claim, Challenge E20 Petrol Testing Method",
+      "source": "Goemkarponn",
+      "published_utc": "2026-11-07T10:51:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMjc5cV9uLUU0T2t6UEpxMmNSeUJ3dXZrSFdCWVFGVGlReEtxM1lWT3hPNk02T3V5UEN4Ymtlc2hibWtsNkRyUy1qTjlaY3dibkdjemhkbWZoMkNBUlpiR2VUQXVCTFJieXZVZXlsUTg3Sjg2VmhYb1J5VURYUVc3WTFpaDgzVHJOQ0VOYTBLMmpVTEVkY3BPSS1MUXJrbldvbGhEdHFHdTRfZVBESFE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Karnataka E20 row: Oil marketing companies deny excess Ethanol in Petrol, question testing process",
+      "source": "The Statesman",
+      "published_utc": "2026-11-07T10:40:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb3UtQW9TdTFfNkdiTFpDaHdKcjg0TmI2VlI3OGRqM1QyQUdXTDIxOTh2Q3dwTExMeVJ0TWY3QnB6TktHWlFaSV96cEpXUHpRYzlkNWpIWklMZ3JpaTlWQkVtSlVtdXM1NWVpdkxmaF9FT19oRU44ZGNMMlBfNnhYUlRQbFZtem1zR0VMc1dabC1rcVE0d2hIUGVEZHJRakMxekF0UWVSdUwwZnNuM280aVVXWDl4RF9ORFJvRkpKREs3eWlabDhJaTFNc1luaTIzRmctay16Znp5RWhrc0VVOdIB5gFBVV95cUxPM1RuaUtyUjdYb1ZsaENwMnNqTG0wYWJsaGVqZFBTdldIZ1QzbzNrd0YzN0E5SUZKNUZPZEM5ekVDUVJNUVE0SXRwWnVEMzVodWxVWjljY2liMXdqNkZCZ1Jka2lXSGJhSW91WHZMWVFpRXlUZXdXb1pubWxQWXo1Uy1uak5IX3RQVWt2cWZiSWszSG1Mc09DZzVsNU9Bb1M5ei0yQzBLRFZEVEVaUGYtZDZjSVFYdk5aU1ROeHh6YzY4TWRXcjlMU1RpNlhSalR5N0dkR1BSV1NONThUVlhqX2xNdE15Zw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "E20 petrol row: Indian Oil, BPCL and HPCL respond to claims of excess ethanol blending in Karnataka",
+      "source": "CNBC TV18",
+      "published_utc": "2026-11-07T10:22:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb1ZYYWFWeWRUb0U4Z0tTNzhqRmJ2aU5sVTRpdXg0X1lLakxTUEMyZThWRTBtT1lRd1RhWExHd3h0d0RVcGdfcFhidXF6MHRtRVgwMVVSZmlSakl6ZHE0d2RraTRac0VlV0R1UXEwT0dPMENKTmhOTUhSTzlsRVFDRUNwVkVLLVNqV2cyc0xzYVdnXzVmQS1tX09Ic2JZOTgwM0ZHdTBBTHhxRXZDa0NLeUl4eG5NOGlndEtXc2ZYMUhkOWZObUVRcjR5Uk41dEYySHVsQ3Q2SV_SAd4BQVVfeXFMTUN4QlFJRmZsdml1NElKMWxHZ19wVTZpMk1DYjltdzFHSFBrUFRHb1RkbHVOeDR3aGhlUFFMMUNvSWNNMDdiYi1USnduQlpsQlk1NmxPb2NvMHpGU0hfcUNSUHltMzlWd0VlUWJHc3Y4Z3pyRkVPbFljTk55THhidk5vN1k2UUw3c2JZdXVhc2dSU2UydUN5RjBWT2NIUmlZZ05tcjllOUI3bDZ6X1F6VmEySU1TczNCZU84ZmR5SmlRUzRUN2k1R3c1ZFc0TkE0YXhrRGcxTHQ1Z1pWblJR?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil marketing companies reject Karnataka's claims of 26\u201331 pc ethanol in petrol, cite testing irregularities",
+      "source": "ANI News",
+      "published_utc": "2026-11-07T09:06:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMlB6WWh2d0JRQmMwTGM5YWFmcUJOSmhpNTUwSmh3ekVTU1lGS2NocThvZks3bVlDUkVTN3phMFFaUXZ3aHFnaHhOMm5mTnNxZXgzdDRNRVhLeXdPWkhpQzBPV1NBWlZ4UWhQcFAtSVU4N19ZeHdjYUlNZ3FCVHhvWXpjR2FPazhrYV9HZUw4bllnb0N0WGVsdTBMOVJTeFdkcFU5TmkweVhYVUJ4U1Z1aHdFWDdGWkN4alFDbldLS3laaHplRHppUzBOUVc3MHIxUDhiTkU4UXlWYjQyLTlhMnBmN3NuRG40bXBndzZjd0E0Zw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "E20 row: Oil companies dispute Karnataka\u2019s findings of excess ethanol in petrol",
+      "source": "The News Minute",
+      "published_utc": "2026-11-07T08:23:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNME9OcW5GM3JoaVlZXzhCT0hEYmdpdkd5UHl0Qjg3djJ2UURqc2lmOWR0YWlPYk0yNWdlVUp5QjJxSXJUV0NmVXl1bERZdENlVmN5d3JyaWZKc3BiemxEcEJydllEall4NEZYakJISUlKMnhERWRpZFFnbGJIRmR1NjFaWnBGendVWmdEYWt3MEwzZHhDMXIxY0RtVGR6bm54N1l2aU9McVJxdnA5VFBHb2ZzTU1SSEg40gHGAUFVX3lxTE5OVWZjZFZxVmtYemd5cHpuRmkzanVQaEJmUU9CZTBIOFJ2N1F1Zk1kai14Z1JZbmFvQXV3djlsOXRMMi12d0htRkpocVFUZUI3TktxY1ZNbnJ2QmNSM3BYTHB6R0tnQUQ1TDBTUlM5R2MzOGo2eDNEMnNSV2tZZFYtdmdIdlNaNDBBanNvOVRLcHRiaTA1Z285S1dhNGVMQWxQUjEtVDk3ZVJvTkhxRXYycnV2TU5ReVluM0JFSFNPNGhHU3NQZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "No Excess Ethanol Blending Found, All Tested Samples Within Limits, Says Indian Oil",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-07T07:47:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFh3SEZzM04zQnBpUm9RRTg3a1Vvc3JpTFdCUVVCVjVvVGEzX2RPTnhqNFROQXdlQWVhLVhfM1BJNFJKc3NzX3pJSF9TeXVTazlrdGxsU1J6N1p3ZDNBckV6ZHRjU3A5NEsxRVowd0JZUkN0eFBNby16RUNaOGcwOXA1Z2xhZzJLUEhKWDI4c3FySnZMY2hTMkxLUlpGUS1jV1lhQlFiVUdjQjBlVVVfU2FmTE81UF9URDVUQkk2Xy00eGFG0gHMAUFVX3lxTE5HYndPd1ZPU09DamROQXMwa1ZwNTV0TndaT2tIQnFVdjlsLW9zUkluT0xEejU2SGlqRW5Bd3B5UGNib042QUU0SVNzRDYyQmNhdEp5V2Z6Q2VlM3ZLM0lKTlk5N1pESFMzVVVrUk1UUC1TYmIyTzVONl9iXzA3Qzh0MUtKck1pc3NoMnQ2ak42SWpqWG9nOFFWWjlQNWxIajhDQm54VS1VanlhLWttREppa2JQRlU2QVliZjg3VUk3LUJZTHVCMVVraEJjYg?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "E20 petrol row: Indian Oil rejects Karnataka's excess ethanol claims, cites tests across 27 states",
+      "source": "Mathrubhumi English",
+      "published_utc": "2026-11-07T07:44:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYW42eUFPUDhlZVdHRHRpWlU2aFN1WmFWYndrOGhrMFpZaUJiQVVsWHR6NTB6OEVmeXpTSTV0UUZpTGxQVUhNXzU4b2k2ZXJDeS1ZeXA0d1B2RWRtdXktdDUzbUVNem1YeTBqTlR0Uk0zdWl1WDVXd1haRDN6eXN4VUVzMERTMFNUclkxNXRiYTNZaERsOXp2TFVBQUFBUFpzY0p4Qk5aakx1RG55R0tMTHV1VjF1WGfSAbwBQVVfeXFMTmN3MTdXVjBWZzVhQnk2UTN1MnFVOHp3TmFIZGxudDJXYjBIMUw5NUR6UW9Pa3cyTF82T20xQkFZU1I2ZExfZVBVUE1fWF90cm5UckdOWEU1MEJsVzhBQUZwczlYRmpmdy1Zdll5ajE2MV9HeHZ3Vkd2c1Y2a2Z4TjUzQ1B0QTM4VG9GZVBXWUgxeGszOTNVcTRuWDR1RnpFWVE5QWY5V0VuVzBGT1ZlbVVjc2phTkdXYjNfbjQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "31% ethanol in petrol? Oil companies challenge Karnataka government\u2019s claims",
+      "source": "The Indian Express",
+      "published_utc": "2026-11-07T07:25:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTYzNjZNNDFkbXZ5RzNrbFJkRWFsM2lDRHF5UUE2bzdDWm9uNUo1anlJSE5ud3JuTU9oeG1KTjdXRFI1X2ZBOVRuRkJTQkFqUEl6Wm1HeERuVHhZVWtlTHNqTmR0VmhvZDQwR2VVOGZtLUZUcmExWnJYQXNXUVRMQ0xweGFFdnJILVlQLUZlOS1LZVFvV2JDTEY0VmNvOFBWZ294am4wNGFLT3hrc0HSAbQBQVVfeXFMT1FqVE1sMFMzbUVjREJjSXV1RnIyc2t3YUNua1lXY1Ewa0NaeGNNTHowc1pVSWFjVWlFd2loUlQzZ0RlWldReTNwZDZFSGlZMkwxVU5nRlNjMVp6ZG5OVmZwYUlHWlNfMEN4X21Mc3FqVDVqU0lKMnVQV1hXaXF4eUE3azdYQU5YemFzcG1sUTVMQTN2dm1ZcG02NldpRkxfRmJvaW9aYUNtdEp2a0hHX0RnNDVu?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.346,
+    "strength": 1.0,
+    "material_count": 6,
+    "view": 0.346
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-09T21:07:13.328867+00:00"
+}
