@@ -8873,5 +8873,297 @@
         "top": []
       }
     }
+  },
+  {
+    "session": "2026-11-11",
+    "ran_utc": "2026-11-11T12:03:13.795243+00:00",
+    "equity": 10698.42,
+    "benchmark_equity": 11218.75,
+    "filled": [
+      {
+        "date": "2026-11-11",
+        "symbol": "HDFCBANK.NS",
+        "action": "BUY",
+        "qty": 1,
+        "price": 810.0999755859375,
+        "cost": 1.31,
+        "reason": "Adding to HDFCBANK: 38% -> 99% of its share; momentum against (-0.58, trusted 30%); news supportive (+0.56, trusted 24%); material news overrode the waiting period",
+        "cash_after": 3777.78
+      }
+    ],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.02,
+        "target_exposure": 0.959,
+        "current_exposure": 0.754,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 75%: no strong reason to change",
+          "momentum against (-0.37, trusted 30%)",
+          "trend supportive (+0.45, trusted 22%)"
+        ],
+        "views": {
+          "trend": 0.448,
+          "volatility": -0.165,
+          "momentum": -0.372,
+          "news": 0.121
+        },
+        "shadow": {
+          "relstr": -0.028
+        },
+        "value": 1613.2
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.122,
+        "target_exposure": 1.0,
+        "current_exposure": 0.735,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 15% of the book vs 20% target",
+          "trend supportive (+0.97, trusted 22%)",
+          "volatility against (-0.77, trusted 23%)"
+        ],
+        "views": {
+          "trend": 0.967,
+          "volatility": -0.773,
+          "momentum": 0.483,
+          "news": -0.276
+        },
+        "shadow": {
+          "relstr": 0.711
+        },
+        "value": 1571.6
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.459,
+        "target_exposure": 1.0,
+        "current_exposure": 0.925,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 92%: no strong reason to change",
+          "trend supportive (+0.98, trusted 22%)",
+          "momentum supportive (+0.43, trusted 30%)"
+        ],
+        "views": {
+          "trend": 0.985,
+          "volatility": -0.0,
+          "momentum": 0.432,
+          "news": 0.435
+        },
+        "shadow": {
+          "relstr": 0.678
+        },
+        "value": 1978.8
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": 0.033,
+        "target_exposure": 1.0,
+        "current_exposure": 0.555,
+        "action": "HOLD",
+        "reasons": [
+          "Would move to 100% but traded 5 session(s) ago -- waiting",
+          "momentum against (-0.55, trusted 30%)",
+          "news supportive (+0.45, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.396,
+          "volatility": -0.0,
+          "momentum": -0.546,
+          "news": 0.452
+        },
+        "shadow": {
+          "relstr": -0.245
+        },
+        "value": 1187.04
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.184,
+        "target_exposure": 0.631,
+        "current_exposure": 0.266,
+        "action": "BUY",
+        "reasons": [
+          "Adding to ITC: 27% -> 63% of its share",
+          "momentum against (-0.61, trusted 30%)"
+        ],
+        "views": {
+          "trend": -0.043,
+          "volatility": -0.0,
+          "momentum": -0.611,
+          "news": 0.047
+        },
+        "shadow": {
+          "relstr": -0.335
+        },
+        "value": 570.0
+      }
+    ],
+    "weights": {
+      "trend": 0.2243,
+      "volatility": 0.2254,
+      "momentum": 0.305,
+      "news": 0.2453
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.121,
+          "strength": 1.0,
+          "material_count": 3,
+          "view": 0.121
+        },
+        "top": [
+          {
+            "title": "HDFC Bank stock clears Bagchi vote as leadership phase begins",
+            "source": "ad-hoc-news.de",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-11-11T08:57:28+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank shareholders approve Anup Bagchi as MD and CEO",
+            "source": "NewsBytes",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-11-11T07:31:30+00:00",
+            "count": 2
+          },
+          {
+            "title": "Guwahati: CID Arrests a Man for Opening Fake Bank Accounts in HDFC Bank\u2019s Name",
+            "source": "The Sentinel - of this Land, for its People",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-11T10:11:29+00:00",
+            "count": 3
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.308,
+          "strength": 0.896,
+          "material_count": 1,
+          "view": -0.276
+        },
+        "top": [
+          {
+            "title": "Five held for allegedly cheating ICICI Bank of \u20b930 lakh using forged documents",
+            "source": "Hyderabad Mail",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-11T11:31:08+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.435,
+          "strength": 1.0,
+          "material_count": 7,
+          "view": 0.435
+        },
+        "top": [
+          {
+            "title": "Petronet LNG (NSE:PETRONET) Q2 FY27: PAT Up 53% to \u20b91,235 Crore",
+            "source": "Kalkine India",
+            "sentiment": 0.9,
+            "material": 0.9,
+            "published_utc": "2026-11-10T06:31:00+00:00",
+            "count": 2
+          },
+          {
+            "title": "Petronet LNG reports record Q2 FY27 results with 53% profit growth",
+            "source": "InvestyWise",
+            "sentiment": 0.9,
+            "material": 0.9,
+            "published_utc": "2026-11-09T11:27:59+00:00",
+            "count": 2
+          },
+          {
+            "title": "Petronet\u2019s Dahej 5 mtpa expansion lacks committed offtake",
+            "source": "Multibagg AI",
+            "sentiment": -0.7,
+            "material": 0.8,
+            "published_utc": "2026-11-09T11:27:06+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG CFO: \u201cBest Ever Q2 and H1\u201d for PBT and PAT",
+            "source": "NewsIP",
+            "sentiment": 0.8,
+            "material": 0.7,
+            "published_utc": "2026-11-10T04:27:42+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.452,
+          "strength": 1.0,
+          "material_count": 7,
+          "view": 0.452
+        },
+        "top": [
+          {
+            "title": "Indian Oil Refiners Report \u20b930,106 Crore Q2 Profit Surge",
+            "source": "Multibagg AI",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-09T07:00:39+00:00",
+            "count": 1
+          },
+          {
+            "title": "IOC plans to acquire Crude Oil and LPG carriers as West Asia crisis highlights India's shipping vulnerabilities",
+            "source": "India Shipping News",
+            "sentiment": 0.573,
+            "material": 0.8,
+            "published_utc": "2026-11-11T03:01:37+00:00",
+            "count": 4
+          },
+          {
+            "title": "Indian Oil to buy tankers as shipping costs soar",
+            "source": "India's News.Net",
+            "sentiment": 0.6,
+            "material": 0.7,
+            "published_utc": "2026-11-09T18:26:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil Plans Own Fleet Amid Global Shipping Disruptions",
+            "source": "IndiaWest",
+            "sentiment": 0.6,
+            "material": 0.7,
+            "published_utc": "2026-11-09T17:19:04+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.189,
+          "strength": 0.249,
+          "material_count": 1,
+          "view": 0.047
+        },
+        "top": [
+          {
+            "title": "Angel One flags Nifty hurdle at 25,150; bullish on ITC, SBI, Force Motors",
+            "source": "Business Standard",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-09T02:15:40+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]

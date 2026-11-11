@@ -1,0 +1,284 @@
+{
+  "symbol": "ICICIBANK.NS",
+  "date": "2026-11-11",
+  "headlines": [
+    {
+      "title": "RBL Bank leads FCNR(B) mobilisation relative to deposit base; Kotak, ICICI well placed to benefit",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "published_utc": "2026-11-11T11:45:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3NtRkpVR3ZIUlY0bDRGY0h0dE9Ubk1ZdUlQTWUybXJkc1dFcmU5c09IVEhEd0s4Y1RFMDhKTTAwYlk4aEdzRU5LWEItT2pRUkUyWFpxMGZKa3ZPdmVrTzViT0p2VUctZ1pTWEswUEJaSzN2YXVOc0xhS05NU1Vfa2hQdWhfWV9mNXJYWngzRS1KZkRETWxfcHpWeFgxbWJCT0JCdzJyWFdabjFUcEc3aG1SNzgyNDZWZFpBWVQzZDBHeGt5bUhMel8tUWZzTmhDQXAteXdTU1ZBZGxYLTFNTUstMnRic2RTV1HSAe8BQVVfeXFMTlFJbGUwTFBJeE5iREVDSzBxaFlvYjFuTkE0RkxUeS1NVC1pUHBPNU90LWtUb2xRUGFPMDFlSVlXdk5DREtWcm1jRlpKamxmTkNyeE0td1hXQWgxYkVoMDc2eWZvSHJhczFSV0lCeWtEOUN2SWpLX3pkOW5Za1k0UGJqUEI0MUdna0JUUWZVVF8xQS14bzZsbWdVMnRTa1BoYjQzTEtnWk1hWmRTT2gxSVEweEtBQjduemVaMzgtUDVKcWpPcm9yVnlBTTFJZWZGb1Mtc3I1NkZMVEdCM1g0SlhWWUFGZ3VFamxhcklKV3c?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Five held for allegedly cheating ICICI Bank of \u20b930 lakh using forged documents",
+      "source": "Hyderabad Mail",
+      "published_utc": "2026-11-11T11:31:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkFGeUlYckExTjJ1WU1IN1d2ck02d1cxb2ZTVTF1VjdsN204Qm01ZEctVmI3VVRpd1dGLXJuYWdBYlJJblhtRWc5S29mNWU1QTlQNEF1ZER6ZkdmOHJPR21yVFZRTnBldUNVS3JzQlFMTTl5MG5VaGZKUTU5eWxlNG5ESF9XX1R4WEF2ODdENmdSd1U?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Hyderabad: Five held for allegedly cheating ICICI Bank of Rs 30 lakh",
+      "source": "Telangana Today",
+      "published_utc": "2026-11-11T08:52:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHNlWVY1LWNOSlVSSDNBcjdDOWtKS1gya3c4OHN5a0hURmhSTHhxWEpEdGVqcEJwdU1wOXBTOHNLNWJhLXZWZWVJaWRpUTlENVRqMmw2MmJwSjRFYUIyRWxuWTZiTXp6Wm1SVUFBOUxlbm5DbWw5T3psNENHLXNnMUxtd2RtdHJqZEhFSkVsUlExNFE0Xzh1ZnZB?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICIBANK Share Price Today - ICICI Bank on NSE/BSE",
+      "source": "scanx.trade",
+      "published_utc": "2026-11-11T08:52:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtenFscnpQOFlPM21KMjdXWFAwdlhfdjNib3Vkamx3X3VqdXhNN1NIckRUZEt2RVdwSGlVQld4RVZDcFNEMGhlM2ZxNjZqUERvVG1sTQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Punjab National Bank share price soars 11% in two 2 days; hits 52-week high",
+      "source": "Business Standard",
+      "published_utc": "2026-11-11T07:51:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVi1LY2picXdBRDNSMk5MZHdkR21YamtCWjRBNkdIb1RMUTBsYjhtVm5ySlQyUnowODZHckd2WGV1OHlsclkwbEstdUJSWk10ZHJBanpWNjVSV19qSFF6Y3dVVFZDeDJ3TC14a0dOMDhyb0JGMnZzNXc4ZHQ1dHNEOTY1VGlpSDNtVlg0eFJ0a1lRMEd3UklSNXQxNHM3X2JkNlRLMXVVR0pJRUFfOWpLUHQxYTRIQ3hJQms2TVBSRUo2Zzd0VmVUZWJPeUVab3JzNTcwaHY3ONIB3AFBVV95cUxNaG9oWGRkeHFmNnFGN2ZpQlR1LXhYNmREMVVNbXRDY2xWSlNRbmhRSEx0ekZTb0toMW1Tb3Z3NkUtLUQ0TTVBTjJBVWF0WlRud2NLN1l2NW9ESHRnRlN6ZFdPRVQyWTVTRFhtSUlpUXZqREdMeEwwcWlubVJXUzBLRnlwYmlwV0xjSmJRNkhIaEZ0Y1NBbmpsYUJ0Rm5naUh0NDVpMWdsa2tJRnpmZ3JvQW5hMGV4RXZ6SzhWenRzZkZ0MnVua1psRmRYSnY2S2lGdXdBRnFjbmlFOXlu?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Nifty Surges Nearly 1200 Points, Just 240 Points Away From All-Time High As Banking Stocks Rally",
+      "source": "Free Press Journal",
+      "published_utc": "2026-11-11T07:35:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkZXQ0FrbksxU3pfbVI5Q3NIaHRRQlZLZ2xaLUFiT2JiYV9CRWJKWUlqYVB5SWlUMk4xR0ItNFp3S1Zpb29IQThFSXV4ajZZajNMR1pidVR0VGtPeGRyOE5tc2laM19JcVdTX1lPVWZ6MUR4SVNacEZ3VG1BSEhuMmV6ZTJ5OTlDSzRkZVJsdkFJSzY2YnVzTUdkVGhJc0tjTkh4em9BcC1MbVlHeE9FZlZpemk1VEFJZGswdTdMaUpTZ2VwN2RHdDFURzAteGlsYWE3TlhXNEzSAd4BQVVfeXFMT1FWQmNiQ2g5OHNIbTY0bzdhTjdUNmw2Q0RHUXpSV2NtWWpIejVoNmxsUkU5TFFlN0xfR2w1dW8tTWljSE1XMXdaQURfOFlqTF80QmhKRVpjVVRJYjdDZ2owZzdLVDJwU0NDZl9xODdPeS0yTTIzN1NMbmVqNW9LdmxxWVM2dEpGTFN5cThIZDFJWDFlR2RTQ2U2bWpFOFFkZmhCRXpkcGtmT08wWVhEa2JoZ1BiUWZORGp4QnFBeG8yMlFBVktKQUdKZXRrOXNLZndNNXgtQUZGR1o0NTJR?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank hits 52-week high before retreating; Morgan Stanley adds to focus list",
+      "source": "BusinessLine",
+      "published_utc": "2026-11-11T07:29:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVzk3aU5vZWFicUYySDVrcVBHYmxBYWVJcXk2UjZVUm4zcjNRNmlOd0xuQWxZR3Iya2NPU19fNmFrWFI5MlFqMWpnV2kzYmp5SEVwc3VuX2ttd0VqTy1OTzFWUU1GclJJZHlWTmtqM2hmMUNaUmRsOGppdlNkQ1lyNkk4Mk9CUG5tWWNPc1g2UXVJT0E0eVRJQm92MjRHUzVYNDJsb2ROcm5jdVA4VDIxdm03VzFPLVVvOTd4aDRTQ0xjYzhmU3dNMXFkeTdkRFl2ZmNtOTN2S0c3TE04R05tUWo3TnhpZzJaaVU3Z3hmdC3SAfcBQVVfeXFMTWR6b1hRQU5jY21PQVZCbkk3OV96V1h6Z0YxMjl4UWcwcFpDUnhJZkh5eWdzb2p4ZDhMMF9tRmFzdVpiMnhUVXdjLWZMY3d0aXg1YS1pVDZpUFI3MFl3czQ5ZVIwR2lPdjF2V01JaHRyb1ljMFVfRDB6NWdlcXhwOFVXUk92RDRHbnJwLWxsT3drS21oQ0RnRGk5MkFUM2g3cXVfZEJxb045aDdueGlEMGRJT29mbDRmdTMzX1BybWU5YzY5eHFNWURQWmhCZ2p1QXJWNnZ6cFhHWmI2Z3N4eEh6LXFldEtMRW8zUXBsVnEzZXU5N08xVQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Whirlpool gains 3% even as Q2 PAT sinks 40%; ICICI Sec maintains 'Reduce'",
+      "source": "Business Standard",
+      "published_utc": "2026-11-11T07:00:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUW02U2J2dFU0Q2QyZ3hMdWlIMVZQNk5EWkxZMkl2c1B3aXFwMGthcmZrMjdtT0d4VnZHS2RrZnViSGlpcXI4X0RhMjdGR3RFcGdidFJPSnlVbUVWQm54QlEwa01OVEdvZzlCNjI0THNEYUpEOEFXaEM1ZE5nZ0VaeVBTblFSRTlJUFh0cGtJOVdrcFlZU1M4TjNUN1g4SFhLZ0sybEpVakVvZkFHMUszdVNKeWZVZzhrZEotcFdwM0NsczdleDhFaXZMNm0weHNX0gHWAUFVX3lxTE95dWhIemlhYkw2dUctd3FqZDBRZHZLaGdrckpkLUR0eWJWd3hrNS05WXlPTHk4YmNXMVFZYlFjYW9rNEp3SWMxMGZ4c1NTdXZSZml5cFdhUi1FblRfMWszOGxqRWV0OGtkbmhrX2F1ZUp6cmNMYzE0YkJlaXFjbTl1TF9hSFdydktpc2dHaGlIeDFxM242eDJrU1VYZDVIZTVnaDQwbXlwZnhnTXFhSjQ3OTBvalYtSU40VFJ2MDFsWWxqNktnUEE3ZlJWVGNTYWlaLUszZUE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Nifty Rally Lifts Index Within 1% of Record High",
+      "source": "Equitypandit",
+      "published_utc": "2026-11-11T06:57:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbVV5aWxvbHZYSW10YlM1N05ZRFhxWHBPZWhRbDBvUWRRRWtvRDhoQ0dSckVGbUdMZzRqcTZtdS1zd1dfc1hTWGxDTmlFWDdpQzczYi1tS1RxY0wwOTlJSzRTRVdBbklEcWdmQW5EaTNLcVpfYWFId3dCWVc4UVF1cWZhTmVkOHZWWkE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, YES Bank, SBI, ICICI Bank, Axis Bank, BoB rally up 6%, Nifty Bank nears 52-week high",
+      "source": "Business Today",
+      "published_utc": "2026-11-11T06:40:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVFUtUkdBVFc0dmZUeUt4aF90OEk0N2ZjdDRGa3k3YXVrRENZb2ZQYmVjN2hoMkdrRVppOTAyZm5wd2xVd3RRUEx1cE9td0xaeTFERnBXRjBHWFZsUlVJRWhsSC0wRG5hTGtIcWRnOUhkUXRNcjVQc3dsVHpPd1FnSVFpTUZsYkEtTmZDTWZvTjhWN1QzU19SU0FURGJ4MmI2V1lmWWpaRWpKb044NlYtT0tHa0RfU0wxd2plV2lreTJsMFAzVXlJdms4RmpuM0pYOUpQNFpxd3F3ZnhFTFB6ZUttMExrcFdqQWF3T9IB8gFBVV95cUxQNGJIVGgwdUc4ODJoakRjdDhka19tWGhRN2wtTmtNYUJWT0M3Wm5WZ1N1ZUx2RHBidE1OXy1uV004d3JhVmdxeEtQSlV0NlJLUHJMdUVZSEdwTHFrT3hzcEU2UTY2Q00tVl9CS3F0SmVXU252QnRTd2MycEg4SXBLZkdaUzQ3a2E2OWJieVFETWYydVNoZ0hjRjBCUU1ZeTRrNE9XT3BMVG5KU0twSjNyMDZrbi1ncnV0bDBnVmJvYkktNFpjVkwwSVp0SFQ4WG9WeE93UE8zNmVQLVBDQnpENkZmOEpzRVYyTGNWUjE0MzRZUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ICICI Bank and PNB raise FD rates early",
+      "source": "NewsBytes",
+      "published_utc": "2026-11-11T06:04:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHl4R1RIdVRQSmFSVExzVnkzQVE3aEZ5aHRpelpIVlg2WWhFXzVLZk9qNXk3Mk16bWVlcExqY1NFd1U2RUg0VGx4bjU2bVkxT013bl9lOXV3Q2h5djBpOGhPNXZMMm9TR0xFRjFkcERoYmhUOXVkNmlVY1F1WHVidDBIRXZZVVViT0hRZ2tMRmhBdUFKV0JqOVI5ckFkdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Stocks Rally! Nifty Bank hits 9-month high, nears 52-week high \u2013 Why are HDFC, BoB, ICICI, PNB & others rising?",
+      "source": "Zee Business",
+      "published_utc": "2026-11-11T05:39:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQXhjbllyWDJUSVBIVWVpeUJIWi1pazlydmRSYl9wb3l6MTVxUXVRVWNaTXJGTWxsMzBRRkpPWlZqNHJZYlFpa0o4OWNaMnc1MEFZcW1fYUJYVGlDYW9RbWhDYWNHMHZqa1NWRjllMHRhTGlSYXJQc0w4aXBYVzd4d3JfSzhlTHp6bVhRRFJqS3pmQUUyVExoM3pMaXpWWEhpSmVJRW5GRGJKeHpqZG9NeWZES1Q1WHNQT2FXTmRpMENVX1BmdVR0U1VQVXNJU0E4dmNwTEV6TVU0ak1SZnJXd3lHTzlFZUlf?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Sensex Today Trades Rallies 1,179 Points | Nifty Above 25,350 | Bajaj Finance & ICICI Bank Top Gainers",
+      "source": "Equitymaster",
+      "published_utc": "2026-11-11T04:51:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa2pzSm1LNGRjeVNmMFRaNGNua0NzNGROai1zdl9paTliZUNJRDFhZkhjMzRCQlBjb2p3bUpfOV9PSkotRkh6cWJJT1NHaklUblAxa2x1blBzbWFYZ2YxZ2pfMmN5X0Fla3drMHJkR2diemVhSG82ZXB6Y2E1dkhZX3pqNEhMb1Nnb1NLU2xvclU5ZXhCSDRrLXF4c3l0ZlRIZFA4dlVXS25zMGZ3d2lOdUJZdy0yMHoyWUVjaVJXQnVrT2xKVlJENnlnYm4tLWtMRS13WkFiQWdIanVVbXRUUFp3SkYxdVpHclpVTHExaw?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday Today, November 11, 2026: Why SBI, HDFC, ICICI, Other Banks Closed Today? Bhai Dooj To Diwali",
+      "source": "Goodreturns",
+      "published_utc": "2026-11-11T04:23:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ284NkItbVRuUkl0TVVrUUFDY1F5Ml90cjJDaFdYaFRua1g3QkhaUUh3R2d3V1N2MmFsbUxadkdEdmgxVFB5bk5jcjNYaFBiNm1wWW1zU3RsWVRwd05EMnBtcWQ2UENWcktwVVhXeHR3SHNVYUZkYWd2d1E5ZE85Q0J2QUh0dVFNaTZ0T0NVZER2QXhLZ2ZNYnJWXzJwd25rQnAxc2VNNmpyRDJyd3haREtVaVFVYk5WSEhEaDh5aV83cDFEWXdXZUxVRW5keHhCc29MTGdTQlI?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Stock Market Opening: Sensex jumps 1,000 points, Nifty above 25,300; all 30 Sensex stocks in green",
+      "source": "Zee Business",
+      "published_utc": "2026-11-11T03:49:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNazdLa29KcDJyOXdSYks2Z2M0VXNZUDhoWS1ZRl9oU2JDcEd4a3pRSTF6SjhWNWxTamhUVV8tWGNQRkpfcWZEWXhCQ1ZvYjRuNWJMRDlKOEpkUk9oODBYV2Rob29FYXBkdjhWYzRncEp4ellqb1p5a3NnVE1LbmtjcWRGNFkzTEZtQkk1TDVxeVBqYUJXUTlhb0UybzMwZ2c3bkxZaFoxdVNJYlF0cmdmeU94ak16TG0xNFVVdFF4UmFqWkVDNW5nNTdRbFUwdDdMeUdHRDF2aw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Stocks to BUY, SELL or HOLD Today, November 11: ICICI Bank, IIFL Finance, Nuvama Wealth, Data Patterns, Go Digit and others",
+      "source": "ET Now",
+      "published_utc": "2026-11-11T03:25:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTHNzR3J1TkNkYlpoQlNjRmZKc0lEckRsRFNCS2Y4QWhSeXFtLXFIM1FRSjdaWVRRazVGWGtxYUY5dnpQTW0wanRBY0VHUTRvR0xjLVpoRE9RUUozZGRiaTFmUENBamxtb3U1bktzenU5amV3MjlDTGN0WlJfcW9uYW5pR3Fta1ZFS1oyUHBfRHYwMGdhMFZlMFBDLWo2bUJBNGlieVFyLUVsUGxuTktaRmhnZ2V0eXdOMjdlcWxHQ0ZJQmIzX1c0V0labmxWV3JqN0ZFd2hRTVY5Q3NYZ0tmYjltMXl1SWFQR1ZGRFJIOWxJd1dTWFo3T0c5S2rSAYICQVVfeXFMTjZ4STdtVW0yaVJKVHc4NG1OamdfaEhXd3cyeWhfYzRsdVV5VkpmcEtUVzFrZDF3anlNWEU2VlZwdzFDajNVMjlhYkNIZUZsSFVMZHZCemZ1YzZpWG5SRmtpRFF0eHRuVmxsUzl1d3UyckNkVnZmb0hzYlZsTFV0bkxYNFJDWFBWVHQ2aHZTRWZzbGlHVmk3Nkt2NHNDOFRZZHRZOTlnakRxaEZXaWdjZVdDSlB6NUZQZFlHR1p1cW15VF9Rd1Q0bkhoZFg5VGRKdy1hV1JqcTVkX2d1UkE5UkY4c1E2RG9NWmI4bF80RDhHMUc2aUVZN0pqUlNfUzFhVmdB?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Limited (IBN) stock price, news, quote and history",
+      "source": "Yahoo Finance UK",
+      "published_utc": "2026-11-10T22:55:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EaUlLVUM3SjRHZTN3MHo5Q3JlWGVtaTdnTENMVnVpVURlUDVway16ZVJhLWE1bmdwREgtREZfSTVVdk5Ka2xwdURQenFCV2ds?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Here's Where Investors Turned To As They Fled AI Stocks",
+      "source": "Investor's Business Daily",
+      "published_utc": "2026-11-10T20:19:37+00:00",
+      "link": "https://www.investors.com/news/india-stocks-inda-etf-ai-stocks/?src=A00220&yptr=yahoo",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Rise Modestly in Tuesday Trading",
+      "source": "MT Newswires",
+      "published_utc": "2026-11-10T15:41:41+00:00",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154141712.html",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ICICI Bank, SBI, Kotak Bank, Axis Bank, PNB, IndusInd Bank: Check fresh targets post Q2",
+      "source": "Business Today",
+      "published_utc": "2026-11-10T09:36:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNXzR5cnp3M2dvUG5fMUxoREctOVlfZkdJaWh6Z3VaQmJ0Z25UUlo1R1d2VnF6UXdGUG03cjF2cHp6QTR0NDBHLTQ2Q0dDb0RnZ1BwUjNaWTlGUFJXTXItZGxUOHdETm1qQlpzMWhXaHh3RllOSlZpQVJkRGtJLTQwTkRWUy1vQzR1WnRrSmpRblZXR3c2bmF0OGNhZ1NNazZkQkREbE1PdEl2aXF0RjBWUjZkcDJGTHF3XzZ4SDNidjVFaWRGTFlGa3MwVHUyQld3ckZlbF9rZzhzMlQtSGZFQWVSb1J6Nmc5TTZ5Tm5TcjU3a0xIY2JNN2JBcVTSAYICQVVfeXFMTlRQd2pONXAyclNQTTRNQ1RmLV9ZcGsybVFwZW9GNGIwX2F2WnhFdHphRjV4Q25TTEkzQ0EzN2pSRzUzVzJSWUgwVDdhbzdibDRHU2h5a2lGX3pQTEQ3SVZkN2FlT2ozNzhDWWpwYllNZzd4d0VDdnh5VUd0dzJDWEtxRS05SmREQUZrWVhBU1Z6WTBZdHpMaFhjc0lYY3hmeWJNOEhYeW5DU1dzQnJveFZmVDNZWXlSMTZ2WHJHajJkaXJuZVU0cjg4NUY0dGZCRmdSektVOUxGWWdVQmczY25obHNnU25NUGF2VS1sdTJoclljaWFfb2ZlclZ3eXZfb3ZR?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday Today: SBI, HDFC Bank, ICICI Bank Branches Shut In 7 Cities On November 10",
+      "source": "Outlook Money",
+      "published_utc": "2026-11-10T05:27:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMUhVTVNac0o1R3I0WFZTRGh1VWM4cGFuMkFXdF94cnNlRTNaRmFWYWxjX2JqVU9Nd0tzVkxhbTNjSThWSWxQY2UwNkxWa0ZNR3NYeEdIclo1c3h0RktQTlhBZ2IyLU1VZFd5Z3dKaktMWDMwTGpoQ0VVY0wzYnM0WFlTbm9ZVVU4TkVHdE51SVo4U3hjMWRNODhIX01FSDdwZlB3MU40dzVTU05lX3ZvNWdYMWpYYUJxYnBsaDFn0gHLAUFVX3lxTE5raTlsTkJHNDZScm9jZGVMNlYtVEszVzFUdGoyQl96QVI1SEhXWUpRU2dBV28zY1hzR1VrZHE2Mmt2U1JSS19ETzZ6YmRmaGl1bzJRTWowR3VUS3pKYkM1TTFzd3BwcEJfSjVaT3F3V0hOMi1NV1BRUjcxa281T2I2VUVFVjBBdHZNVnhVa3RyVWVDaUx3bHNjODFwRHZ3QXRVV2J3YVV6YjZsSVNVWWo0REc0RFVjTHdKUjB3MjJUYWV5enVBdmRiWGRV?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today, November 10: SBI, HDFC Bank, PNB, ICICI Bank closed or open? Check state-wise list",
+      "source": "ET Now",
+      "published_utc": "2026-11-10T02:14:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMDdCTHpYQzBKdkN6Z2JfbThCNXdDRGtEbk1EUTRTUXQzNUcxcDFJVFFZVjhxSDIyWlpWcm5WNk1IQ2ZZMFlnaWtrUTF1S0hpYWwxNFZ1d1ByVzllQjBTbWNVRlFJaG4xSkVia25TYnRMV3o4bFlBU1FhV1F3REY3Yy03ZWdqUjZWWmJncTNSblhYTTdITDVEZ2JaY192X3A1eG96WC1vOWItTWNvVEdJNHlQaGU4cm1JdjNuN21vMTJBRUNMLTlXaTlCeTZkanJrNE5IdFFSd1ZIbTU3TUdyY0VmOHQ5WUJmVE1Dbmpn0gHzAUFVX3lxTFBSUVVKRWZoakhuZmJma1A3UTgtTVFqcGItRE11VUpaeDNGb2I0N3oxakRyMk1EWWhsV1MxT3kwelZlazJ0U19oWkFEOGNZOVBSQy1DSVRYd0pWaGFUazU1UjZKQ2h6OFpyVXd4WnJmUHZfcDV5Z2hGaldVMGNiQVJKY1Z2UFo3WWNXSVRRdjF6bnBBRWNhUWZwTmdjUkQyc3VFbUZDZ2o0M2loQkhEa3ROSW81YVRnYmhhX0Q1eHZBNFNBVTM1QjBYQ1RKbFBMcHlQTTJ4Ti1XMGxvQ1ZPdWlQdzlUVkRJX3hGd2w4bWtaNzc3TQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "5 Best All-Time High Stocks to Buy According to Wall Street",
+      "source": "Insider Monkey",
+      "published_utc": "2026-11-09T19:03:49+00:00",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-time-high-stocks-190458183.html",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Ltd. Hits All-Time High of Rs 1,587.35 as Momentum Builds Across Timeframes",
+      "source": "MarketsMojo",
+      "published_utc": "2026-11-09T11:21:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUnQ0TFJhblhNRjJjMzZwYzBYclMtcjBBM0loMUFqc1ExZEZUZzNtR0daRnRBU1loNW9rdTd0T0tWOTg0Wk5zcXJzRVlBVnNrMXI5ZFhRVmVrN1FYNVFEQnpMSUFFb2xOWTcybVBheFUtanlnVDE4QWxlLWE1X2ctcDNuTHhzZjhJV2JFUW12SzZyenhXYV9LR2RQSXdqTU01b3hORERHN0k0U2c1b044ZUxnNDJ1NTN3d1l3TWZ0Rl8?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Share Price Prediction for Monday: 9 Nov 2026",
+      "source": "Univest",
+      "published_utc": "2026-11-09T08:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzIyQlJKWVpvTzJyUUhPdnJFWnhCQW9qRWJMNjBCQkRxZ053S1plUmRJZWR4VnRoUy1ZeWo4YlFqQmRzcGZIbGFCZzZUTG1zZ09faFQ4ZzliYUtRMHlSdjJSenQ3dy1NUzJyLTU5dUNUWC1ZZDQ1aW96Y1QySHVjZ2dUaGZmeVBFTzZ0UUNn?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "NIFTY, SENSEX continue to trade lower in noon deals; HDFC Bank, SBI, L&T, PVR Inox, Divi's Labs among top buzzing stocks",
+      "source": "Upstox",
+      "published_utc": "2026-11-09T06:36:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcmpvWTEtVzZQaFRJT0YtMm5SVnh0VDV4QTJBTXczT2FtcnJPS0tlUm9YRUd2RlZzaHI4dWJ6QVRlLWVPYlpvTUFTYzBPWDZwemtBQ0lPVnd1bVphSWszdW1ublpubThqYTdvbUQwY2JlZm5fTFIweUJINHFYT3dIdTJ3OHVITUdXejg0LTduQXUzRF9mY2ljNnAzZWRpMEVRTXFpeUlGZjdKUS1TTGZwNXVSODZ3bVJ1d09rSC1Cb0VEbUVmOWN6dVJaaHlFeDl0T250QVdRQ2NGUmxTZ19z?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today: Are SBI, HDFC, ICICI branches closed on Monday, 9 November for Diwali? Check cities, RBI calendar",
+      "source": "Livemint",
+      "published_utc": "2026-11-09T01:48:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSl83MG5yNDVrYXVtSHd3bklrblBOSUNIbzFIU1BNanBGaUs2MzIwdWJaSVVwN1dXUjVXVjlCVXk3VEVkMXphMUI1YkJEVVhrQ0hPaGhfelBKMElPX1h4NHdvem9zYmN1ODZxNHplUDliZEZNSEdacmFhdGE3Y3gySkNuWnd5ZjQ5X1l5OURQQ09NSEZoRk5pdnFfWmdSbHdDTnlRRUk5bW9hZGo4cktFbXdlSkRDWmJBRGlOLVVjTmVMU252YUI4TXQ5OF9vSjgxd2RBWXhid2xZRnoxSTRHc0pVaUx1eXptcG9TQVFUNDdEbXVoc0YybWhsYTNqZDjSAYQCQVVfeXFMTjFjZnJEa1BoRnZsUVV2Q1JLdTBzTDNibXdxRzZmVnVNRGFzWUdmT2w0czQwTXNlejM2MHlodVd3a042NTR4ZGRzSjRCWDF1SzhsdzBWbEd6dG5wY09GLWh0UHR5aG1hNGk1SVk3S0VhaDZNVzR1LXZjV3ZGTXVDRk9oZHdvUUJIcFRVZjJpZlZWMXFTNFVLWVRtWEhBRTJkWWc3YzNBdkI2V0dnZzljMDBxV3hHcUJxb3gwQ19heUlMOGdtQW9VMF9aYlN1Sk9ER0xTQWZDV2NrWTlPWG9BSzdJdUh3bVQxY2Y0MjlHN0JjUFg3ekY4S3NaSEE0dHdnLUcxMXE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.308,
+    "strength": 0.896,
+    "material_count": 1,
+    "view": -0.276
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-11T12:03:06.708365+00:00"
+}

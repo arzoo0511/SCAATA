@@ -1,0 +1,414 @@
+{
+  "symbol": "HDFCBANK.NS",
+  "date": "2026-11-11",
+  "headlines": [
+    {
+      "title": "HDFC Bank MCLR Hike: Home Loan EMIs May Rise",
+      "source": "Urban Acres",
+      "published_utc": "2026-11-11T11:43:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVkxvc2dIbjIxMzNkSzZfOW9KSVFpZ096cmx4YmItRjhfZ2ZQNzBjMUs3dXdXOUFsenJsWFJtMGlaWHota2thaUd0SzF2WjVrQmFwaWVWMVFuR09IaFE2WjhTT3Fmd1JXZXVERk1PN2JNRk0tZzJ1M25jVThhYXlLSG43c1A3Zw?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank MCLR Hike Raises Home Loan EMI Burden for Borrowers",
+      "source": "Urban Acres",
+      "published_utc": "2026-11-11T10:57:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnZVU1Vzb2J0QVdWQkpqV3cyLURLRVJUdkJPLXd4a2FJbWROVV84YXdVTDZFQjdMbVBlUjFXVGpSVGt2ak1nSGZrU3FZNWZadzVOSXQ2M1FxWkVRdmFDZ0h5WmR1d1BHMW5oc29va3BTdm5pb0hocGRVaFpPQTV6aEcwTmJKbVpwU1hYcA?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Guwahati: CID Arrests a Man for Opening Fake Bank Accounts in HDFC Bank\u2019s Name",
+      "source": "The Sentinel - of this Land, for its People",
+      "published_utc": "2026-11-11T10:11:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlFkQWpPRVZOZDBHYlNSVWZXaXgzTEJhajNkMThuTTQyVXNBNWNPdk9kTEM1QnVkWDhBbUxLbENscjVBVkJ5dVFtMjNlREF0TE1wVmUtOUtpU3l4cU1rb09PYzBqaW1LMnN6dDlvUERXNmlleDZfVmt0TTRPSkdteU5IZzZpVGgwX0QtOW9sY1hHelYtY3RJVDhWbFYtNnFOdFlHQmVrbFpqMUZBYU9xdjF2NVlsbmtTbjBF0gHIAUFVX3lxTE8yUVBvWDNrVmhLZkl1b1F0RGd2alh0MURDd3pkcUFNTXNrRmg5Q1A2ZWx5UEhYMmdLLUlvbllKSGkzZjNxS2VjbTByN2dJZWRRLXUzQUllcGdXd3E1Mkdhd2UzcWpoX09CenhpaGNab3FDUlF3TUtnNm5ISVhwTC01aWJiQjl4MFJnam9fSGR0bHVFM0kxLTlibkVxWTlwejhHbjhlT0I4bWhfZHNrTWJZN3R2RUNkcHVrVWJENFNrMVplZ3RzdVlL?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bulls Take Banking: Bank Nifty Outperforms Nifty 50 With 12% November Rally \u2014 Five Key Triggers",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-11T09:51:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNTJvaWttUnMzeldiM1FEVE5SS05TT1I3UEpmeExqN3Q2NGxOQU0tQ25GMjE2bVk5VkhydThoRFJlSDhzU1BEMlJWaTY3a3dVbHpsU0VZY3BtQkFLbTdmQVgtTlZxdzBvcTJXWXRHTF85cWlOeTkxR19CQmJxUUNKTm1fN3dhVzlWbzRvTjQwOG9qakE3RElsVGRVUFNheTd1WjJPandOYkxzT3o0V2xrdmU5TS1TUVk2YmRoM3hYb0NCcDF4UWxaZmZBODRJLTd3Vl9xME5TYW1rR1pMQ1ZMQU1yN3dGU1nSAe8BQVVfeXFMUHktZnZ5RW5xSHVXWm0tcHIza1E0RlhqWTJDNzdGT1hzR3hYaE9ONHk2TUpJa0pBcFQ3ckJ6dWgzaUhhSHNYcHVJUkE5WkVJX1N2RlRENUU4eEMwRzVQU0gzMDUzT1JIVzlDU3ppdnNpcVlKODFsRkM4R2RFUkVnQzIxQUVCQXNXYklVa0o3d2pmbEN3UnVPZmNncFVPU1AzNnExOV9TR1lJX2NFeVIzalI1cXRfaUlrZ3FwVG04b3poUldqN2NjeHJjZERPR2tyWTZBejZzbmtVSzRVc013RjVQdUNseFI1eFF0cEZONXc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Guwahati man held for allegedly opening fake bank accounts in HDFC employee's name",
+      "source": "India Today NE",
+      "published_utc": "2026-11-11T09:10:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVlVnWWloZ0wteFhFVE1uSTVadW9YakxINnNDQV9tcW5Sang2azhYdTkxcjhBSmEtNHBiWGZvSW1Ha29Uazg1TzEyd2J3SFliXzNOdVFhbWhpSUFUQ2VjM1RjODNoM3FoZ1l2SDlwcFZud0dtR2NwUVJkbm9oUGp1NWIzN043X0V2aW8tbDBBM1NQV3lCa0k0M2h6WXV5ZDh5R2NDcm10T0loSzBPa1JjSVBuc2pBZGctWmdDOWhTczVMSWVjdUd1QmNzeDNhcnNMOS1UWGlDTdIB3AFBVV95cUxNeDU3NzFQbGQ5QTBrazR1VllzWG5nb1lWMFItczd4dV9xMEFLSUlUTzN0M0Q3R1RVTUczRDVkcE0wSUdvbGFXdXh0QTRQMkZBcHY1eTE3ZlQ1cHpYWGM4R240VEFZdG94OHNERUZweGFrb1RRc0xOQXhJaFE0bHpGZGlZSHVjT2s4cDE5X2o4N3dINm10TlBGREpfdmFlVFlCZFFPUkJsNzF3M2VlY1Jienk2UjMxb1AxWWhLazNuakIzczNpTnFVam5FS3BWTklLZWMwVURUQWZZTkpW?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank stock clears Bagchi vote as leadership phase begins",
+      "source": "ad-hoc-news.de",
+      "published_utc": "2026-11-11T08:57:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ2ZkS3NRaXphc0NGNFprREY1VGQzdjNHRlcyalY4MUhoMExjdlY5MWE4SUNCcnhkNFRYS2tnWmltZXpwb1V2MUdBWG5ISWZDMHZCVmlyVGY2ci1TYjNKNHhPS1lIbkNqZGJaZlBESEYwN3VsWGIwRm1lSWlGc2NSM1JPcW5lb3dVTTZCLWJENXlNeTV2SGR0UG1fcUVUREZqTU1fd0NfaGdLNTJkR1dHdExhQ2RRbjhnTzVCMjRXeDdiUQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RIL, HDFC, Axis Bank, IndiGo, more: List of 12 stocks from Jefferies; shares to gain as FPIs embrace Indian markets",
+      "source": "Livemint",
+      "published_utc": "2026-11-11T08:14:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRVNrOExBbVRWd1FoWjVaTXN3QkswQ2FCMFdCNHhkQmktMTlwM2pId09lTEljdGloZm9Qa04xTnh2X0JlMXluNU1TQVBHbmZqVzM0aDNaZzN4aU5wcjZQSEFaLVE0NTFXN25Bb3ZyUVdPcGU4YzN0UW9Ec2Eyd2NFUmd3cjZwbkZhR0FzNEIwczA5enA0SVFiYXEyNkd6ZG1tamVDblpZNk5acmtYUWJPV01ESDB2LXRHOU8xanJHWTNlTWRxRjhTNUZhNm0wcnlaSGxwSTJVNGZfU3RfVlFPc0FDMzdFa0VDZDdZbkdEMW83ZEN6NnJuLWZlZGJuam4zdUdsM0Y2QzA1MknSAZACQVVfeXFMTnNvSkl2Mi1TSzNFZ3l1LUtSV0RjU0pKRjRzWkxsRTlfWl95NHFNMVEzUVBpZWdnR3ZHdkl3S3BLZzNtN25lTi1GdUtoQlVRTVlya01jSVZUQXNocmluV0kwZU92TV9hT0w1YTdUY2xNMGZ3d3psZTlFMm96TERzd0hWWEZfZmZ2cVJiM2RGR1BUeFh1RVdmNnBNbE9lSWU5cGI5VGJLM2dCdEcyVXl6LW1mc1VQWUJFNFd5Q0RHU3ZIcXMxWmlZR0VpN2QyNFBlbmJqZG5mNmVtM1ZYNmZYd1lfdnUwaFNUMUdkVktsQ3V1N1pHTFR2OWREdTdZb2lkQ2tPWFR6Sk8wMUhLdUlKSFo?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "NIFTY Bank reclaims 61,000: HDFC Bank, Axis Bank, Federal Bank, other banking stocks rally up to 6%; here's why",
+      "source": "Upstox",
+      "published_utc": "2026-11-11T07:46:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa0RvSWFtNF9xTmFKQnNuN2xad3dBWk5vQTBSeGhUYjhDSFhxRks1VTk1eDBFVWNTNlllcGdZazlnQTJYVDNzVlZNNmw5a0JzMGhZWGZtcEhURzVQNGIzNThoSjMxakQ5ZTFEVS1HNXVwbWpQQl9YX0E3RmVjYUlQUWZBVUdBS0hlODcxSmo5NTh1YXVnZjBLMlBrNGR1bkdVM1ZKcTh6ZUg2dXZyTmtUdVFZbjZnSzlnVzFKWXFhem5HalRicXM5RFN6d1VPVEJuMURPYkNjaGpmXzNtOEFBT1RBemZxTUVmelFVZDBJdHJzdmtmWGlF?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Nifty Surges Nearly 1200 Points, Just 240 Points Away From All-Time High As Banking Stocks Rally",
+      "source": "Free Press Journal",
+      "published_utc": "2026-11-11T07:35:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkZXQ0FrbksxU3pfbVI5Q3NIaHRRQlZLZ2xaLUFiT2JiYV9CRWJKWUlqYVB5SWlUMk4xR0ItNFp3S1Zpb29IQThFSXV4ajZZajNMR1pidVR0VGtPeGRyOE5tc2laM19JcVdTX1lPVWZ6MUR4SVNacEZ3VG1BSEhuMmV6ZTJ5OTlDSzRkZVJsdkFJSzY2YnVzTUdkVGhJc0tjTkh4em9BcC1MbVlHeE9FZlZpemk1VEFJZGswdTdMaUpTZ2VwN2RHdDFURzAteGlsYWE3TlhXNEzSAd4BQVVfeXFMT1FWQmNiQ2g5OHNIbTY0bzdhTjdUNmw2Q0RHUXpSV2NtWWpIejVoNmxsUkU5TFFlN0xfR2w1dW8tTWljSE1XMXdaQURfOFlqTF80QmhKRVpjVVRJYjdDZ2owZzdLVDJwU0NDZl9xODdPeS0yTTIzN1NMbmVqNW9LdmxxWVM2dEpGTFN5cThIZDFJWDFlR2RTQ2U2bWpFOFFkZmhCRXpkcGtmT08wWVhEa2JoZ1BiUWZORGp4QnFBeG8yMlFBVktKQUdKZXRrOXNLZndNNXgtQUZGR1o0NTJR?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shareholders approve Anup Bagchi as MD and CEO",
+      "source": "NewsBytes",
+      "published_utc": "2026-11-11T07:31:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMlRObmdELXc2aWp0MHRTTVVsQ0pwRlRzX3ZCcVlpVGlzdzJhMlhsWlc3bTdVUDlkd2Y4WmhEa2ZPT3R2bXd3WlUxdTFIdXhJWGNjVDJTa1NmRHBETE8tX3JBWFZqOFFnYUwxZDZTbXFVNDhjZ05YX3hHM1BSM2lubzJMd3JvcWkzbVJZazhSSms5NUk0WFlGZnBoYlpvbElfZW5keDcxSQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Guwahati: CID Arrests Man For Alleged Cyber Fraud Using HDFC Bank Identity",
+      "source": "Pratidin Time",
+      "published_utc": "2026-11-11T07:26:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVGpBTElndVdYT3hKY3oyNWNxd0tJaEh4akJGdjBHVGZJZWxwdjc5bVRqQXVxSkxsQkZ3X1FPVkxUbkxkcks4YWVTNG11bXFpOGE3ajlKblFWejhxbGY2dllXQ1B4SWVhNGJSak9QYS14MFpsNVdoanpwWnQwNDJXNWNqcW1SbGVmZUhFRnljRmdPOEFoN3ZFUEUtR1lUMlZNX0pfZFcxX1UxOHgtXzE3RVdHTE1PUlkwaFJTX2JIWlhsaE50dkdCSVhOVlQxbUQwUlNkVlFKZGrSAdgBQVVfeXFMT1RqQUxJZ3VXWE94SmN6MjVjcXdLSWhIeGpCRnYwR1RmSWVscHY3OW1UakF1cUpMbEJGd19RT1ZMVG5MZHJLOGFlUzRtdW1xaThhN2o5Sm5RVno4cWxmNnZZV0NQeEllYTRiUmpPUGEteDBabDVXaGp6cFp0MDQyVzVjanFtUmxlZmVIRUZ5Y0ZnTzhBaDd2RVBFLUdZVDJWTV9KX2RXMV9VMTh4LV8xN0VXR0xNT1JZMGhSU19iSFpYbGhOdHZHQklYTlZUMW1EMFJTZFZRSmRq?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares cross \u20b9811 as shareholders approve Bagchi\u2019s appointment",
+      "source": "BusinessLine",
+      "published_utc": "2026-11-11T07:19:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeVFBUWgyNzBkOGV3UHAtZFMxOFFiOER3dXpRbkp1RWpOZlduYVV2SmFMQWo0R0R6WHBaTFhvUVhXVXFGTFFhOHlyakRncUtBU0RGWXkzVkQ4aVg1cVNLb0JpLW9XVXo5OVV4V3pWc0thSjczTktVWkl2QzRHTEp1V193QVhwakZkNkZVUFpWeXk3YTlKMGpreGpDalBraHNwOFpMQWpocGRnVE9nY2RVd3R4ZXRxOTZsTHVDSjN6WEJQenI4SE5vSndHUFhTcjI2MjdOejREN19tSlMtZDh4bVYza9IB6gFBVV95cUxPZy1RU2F3emp0ZWtHeDFqeDJLOUVBalk2RnYzS3hfUU9JbjJHeW1NRXNITHJYa3JVU3dHZmpBVmZnYmhGa3lFdV8xamx5Rks0eTV0dllSNkJZNUh0WVMxd3NGOGwyektWdEpJdzNhN2tESWF2RHphM1ktdl9ZUHlfanBkaDMyOTl1UVQ4UXpMQUJvakhuMkU4MzY5Ul8tVDdISXZkS0otMmE3dnVrbi1rdTRWcjhxNjZsNEV4cy1sa2x6amxBZ1diZDYzelBtcXJLYlN5Ym9vU0xEUFk5MEl3cGp3UEMxa1RHbWc?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, YES Bank, SBI, ICICI Bank, Axis Bank, BoB rally up 6%, Nifty Bank nears 52-week high",
+      "source": "Business Today",
+      "published_utc": "2026-11-11T06:40:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVFUtUkdBVFc0dmZUeUt4aF90OEk0N2ZjdDRGa3k3YXVrRENZb2ZQYmVjN2hoMkdrRVppOTAyZm5wd2xVd3RRUEx1cE9td0xaeTFERnBXRjBHWFZsUlVJRWhsSC0wRG5hTGtIcWRnOUhkUXRNcjVQc3dsVHpPd1FnSVFpTUZsYkEtTmZDTWZvTjhWN1QzU19SU0FURGJ4MmI2V1lmWWpaRWpKb044NlYtT0tHa0RfU0wxd2plV2lreTJsMFAzVXlJdms4RmpuM0pYOUpQNFpxd3F3ZnhFTFB6ZUttMExrcFdqQWF3T9IB8gFBVV95cUxQNGJIVGgwdUc4ODJoakRjdDhka19tWGhRN2wtTmtNYUJWT0M3Wm5WZ1N1ZUx2RHBidE1OXy1uV004d3JhVmdxeEtQSlV0NlJLUHJMdUVZSEdwTHFrT3hzcEU2UTY2Q00tVl9CS3F0SmVXU252QnRTd2MycEg4SXBLZkdaUzQ3a2E2OWJieVFETWYydVNoZ0hjRjBCUU1ZeTRrNE9XT3BMVG5KU0twSjNyMDZrbi1ncnV0bDBnVmJvYkktNFpjVkwwSVp0SFQ4WG9WeE93UE8zNmVQLVBDQnpENkZmOEpzRVYyTGNWUjE0MzRZUQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Share Price Rises 2.46% to \u20b9817.75, Hits 3-Month High: 5 Factors Driving the Rally",
+      "source": "India Infoline",
+      "published_utc": "2026-11-11T06:19:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbjI2UGZOWG9mUF8wa0dPWV9oTnZkZEZWTEtaNFVLcHAzLVJZZjJIcGxsTW8zMXN4VWlNdGN6elExNUlpc1hPTENOakk2N1VIbWFUUnkyT1NXcWNWTjU2WmxiOGo0a0RqRGpHbU9pTEp4cmlONU5IdHE3QU1XeTE5ckIwY19xQmQ3cTVlYnRIb0hYVXJQMXlheVhzcGlxaHJwSXBkLXFIV2h6S3Z1ODZtamp2M0lweUI0V1NXNVZzdXItWkFnV0hZVXVfek9EZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ICICI Bank and PNB raise FD rates early",
+      "source": "NewsBytes",
+      "published_utc": "2026-11-11T06:04:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHl4R1RIdVRQSmFSVExzVnkzQVE3aEZ5aHRpelpIVlg2WWhFXzVLZk9qNXk3Mk16bWVlcExqY1NFd1U2RUg0VGx4bjU2bVkxT013bl9lOXV3Q2h5djBpOGhPNXZMMm9TR0xFRjFkcERoYmhUOXVkNmlVY1F1WHVidDBIRXZZVVViT0hRZ2tMRmhBdUFKV0JqOVI5ckFkdw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Stocks Rally! Nifty Bank hits 9-month high, nears 52-week high \u2013 Why are HDFC, BoB, ICICI, PNB & others rising?",
+      "source": "Zee Business",
+      "published_utc": "2026-11-11T05:39:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQXhjbllyWDJUSVBIVWVpeUJIWi1pazlydmRSYl9wb3l6MTVxUXVRVWNaTXJGTWxsMzBRRkpPWlZqNHJZYlFpa0o4OWNaMnc1MEFZcW1fYUJYVGlDYW9RbWhDYWNHMHZqa1NWRjllMHRhTGlSYXJQc0w4aXBYVzd4d3JfSzhlTHp6bVhRRFJqS3pmQUUyVExoM3pMaXpWWEhpSmVJRW5GRGJKeHpqZG9NeWZES1Q1WHNQT2FXTmRpMENVX1BmdVR0U1VQVXNJU0E4dmNwTEV6TVU0ak1SZnJXd3lHTzlFZUlf?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank hikes MCLR rates 15 bps across tenures: Check impact on your loan",
+      "source": "Business Standard",
+      "published_utc": "2026-11-11T05:18:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb2VpZDRFMmw5RC1XcWppRWtscEgzS0hsNHEtMGtmTGFQdTM2cEtKc1pCQ0NMdXlBajJXd3hZVEdMUkt2TlZIX2RhM216Z0xKeldnb0xQMllrM3E4ZWswS2hOckdSekpDYWNMYkpFcUtYam42NGYxNlMwTW13N1JlY0VZc0w0ajk0T2FoeU83ZF84a2hNZlNQYzEtMVlfN3ZDcnluMEI1UnNmSV9yMFBQeC11Z0JHdWdPZF95SGhjbnZGRmhLSnZQbl9BaWd0VXdkLVNpdllNUGlqVU9EMDJRWmVQUDZRYXM50gHuAUFVX3lxTFBwUEl2eDZyVDFsZDRvT1dGSC1EZ29kV3hPUU04bGdPQk1OdnlqdVdxY19QdXpVWmNZMG5OUURycndWc1RBQ3M1WGhGV1lnMUdvd0dBMWpHUGoxY0dlZ3VsSGZpaWNpQ3lxVHpxMllfVnhYbkxFcWhkUmlvNGZLU3BhdVVyU2lmNGM0OGlxdDRhSGdvODdQNnF6U1ZNMVFpMGxNdjVJM2ZWM0lWR1I4U2N3WE5MT0U3UGlYNXRJbnhjN3ZSYndaQzNkcEhYeXBrbkwxVEJhTkVUc3VZTy0yMmR4SGpWamtwZFFYdnRPclE?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares jump 22% from 52-week low in 10 days; analysts see private lender nearing an inflection p",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-11T04:28:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUmw5Q25zZFBKa0FIUmN1VU1IT2I1WVpRODYya2hNRkxYSlB2T3FnNWYydjlUaEY2azVaQ0ZseDJFZzJRZGR6QTBzTGZubUpHTmFfWWQtRGlhQjhzeFJWd1hlUzMzQUZPeDFZei10a3B5b09VWDRQcGw2a3ZwWlBNcmx3NEQxNndkYnRpakJITm92dl9Na3VHZ1hETWVlNlA3V0g5QTZyTDJUdFJJLVlUT3RyYW9Ebk9ETldvNkg0eDRjTXBHSHlWdndFclRwVDlOM1hmeU1rVmNZNU10aDRleUloOEQzSHZ5TWJCenlFS2swdTZlWTVBdnFnNXRFaFUyOHM4QWxtWW40b3BCb0J4TlVHb9IBmAJBVV95cUxNXy1mQXByOVdYT3k0WlRnUGZic2xXSHlzSTZYRXROaVgwd3U0NThlWldRd2hKLW5icGN1WlBJbC00cFZZaDBrNDlDSkdhN1lSX1d4QW9icnd2b0ZDRVVEMzdudURRZV8zQWsyRVM1S1R5M3pPb2NWdmhVRTktam54ampVbnRBei0za0tISXNJY2hFeG9POUdUY3cyV0FJYzNKTDhnU0NHZ2RqTHMtcXozdGF6UkxzUmIxck5aeDhBOWNYVUtpcEh4WGNuR0wxbUkwR3o0SUVGbkxRTnhFOHhBaGNTRU5odWFCZ21zczZqYklBTTRodHFsUFBqUm9pMWtxR2FsU2lvUG1JTG1HRjIxVEhZQmU2dWJ0?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday Today, November 11, 2026: Why SBI, HDFC, ICICI, Other Banks Closed Today? Bhai Dooj To Diwali",
+      "source": "Goodreturns",
+      "published_utc": "2026-11-11T04:23:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ284NkItbVRuUkl0TVVrUUFDY1F5Ml90cjJDaFdYaFRua1g3QkhaUUh3R2d3V1N2MmFsbUxadkdEdmgxVFB5bk5jcjNYaFBiNm1wWW1zU3RsWVRwd05EMnBtcWQ2UENWcktwVVhXeHR3SHNVYUZkYWd2d1E5ZE85Q0J2QUh0dVFNaTZ0T0NVZER2QXhLZ2ZNYnJWXzJwd25rQnAxc2VNNmpyRDJyd3haREtVaVFVYk5WSEhEaDh5aV83cDFEWXdXZUxVRW5keHhCc29MTGdTQlI?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank shares hit three-month high, up 21% from 52-week low; what should investors do?",
+      "source": "Business Today",
+      "published_utc": "2026-11-11T03:54:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcEtMLXROdHpwamphVi0zYW1McVZ2UEZNc0tkS1ZxWXktUEFyaW1zOXE5UjdWa2FTVTZ5eWx4ZFNKNzJjdktTek9yYUZ0NGlicVV0aF9PZXhPTUxLY0hDU1VtVHhOWEg2QmhBUjZuUC1HaGlxbEh0XzJBbmtVcEdteVJ2Vmw2SThkVEMzYVhDQmtQUnk0c1VNU2E5LUVYWFoxMGhSeEVaRkdMNDgtSk90NTR0QW82Vy12aDFwMlRQMVpkN2xKdmFFMDAyT25TdWFfRDZfRlJqZE9sRDFPODdGSDk2VG_SAeoBQVVfeXFMUG5razljcWtjYmJ4R3kydDFtSEQxQjFwMkpFcUxwbk5KZTZRZS1zcXFySG5tLXB0UmdqLVAzNUxYTG5fSkxkcTRZTTJDRDJoODI4UUhpRFdEbF9VaDNLck04WGNDendpMlAtVjJISEMxMHBLUGFNQ2YzQWNFQkd5bVoyQ3dTNWt5VXp6aWZWX0Z4VUhET1Vrd2ZUcVBZb2huT0c1aDEtNWV1eFlRQ3JmR2JXMjB4RGxFcU1HUUZ1UlRsclBMQnA4bkFRRlRISGF2LU9xMHhFb0JEU3RQTzd0YUdjQWRINWpYN3ZB?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jefferies bets on largecaps as FPIs return; RIL, HDFC among top plays",
+      "source": "Business Standard",
+      "published_utc": "2026-11-11T03:48:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTHVwLTlNNm1SS2xlRkFnUndXbDZoajY2bXcwaEZSZm5WNmVfaXN0NGlWazhpWDRCLUloWDRLYUx0OHVLSUswLWdXWjNOSGtNRktKVjQwVGJYZlVBbFE0bHg3X1FRNVl6b2xPbEdKZ1lKeDlqYnFwMnpUb3FiMGgtOVVQOGJkUXVlNWpIQW5zd0oweHd3NFBsdXFzVjFsTDBEVTVmbUdTWVpQbUl2Nk5NQThpT25HOVVMOWlDTEk4UVk4d0MxdjdUc0hHdjRtWVnSAdQBQVVfeXFMT0Z4QjJMV01mVmVIQ3BtRnNPTDNNY0lTLVFEa1JDYXl4WHc4M29mSGp3S2JBUDdKbnZ0WE8wMFRQRVA0enc5Y3dhRzJsNjdRQzg2TW9wVU5aNGd1Q1Z3M3NzSHNPbXlJVjFIZ2w3Vkx5N3l1UVpuVkZoZTEyTmRmdTMyWWFoYlI1UlJZd25peFdpNkJRRTBDR2k1SGo4NExxbk1tUGZKemV2NG1VczRiMHMzLUY0R2xyVkh1dWtLYlBMYzVPYWlvWFNIa3RZWTFhclVlM1k?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, IREDA, Mankind Pharma: Top stocks to trade \u2014 Check key levels, targets & stop loss",
+      "source": "Business Today",
+      "published_utc": "2026-11-11T03:05:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQakxSYkdTWVJpaFc1bDRteENmV1lMQVplTzRZV01ucEFuZXVTYkl5Zy1vb2dHaGtlSV9XbWZZbVVsWVpSV3F0X3UtbEtwa01ZZzhHWHMyLV9oNFF4YXUyay1UV0NXYXNJRTFSUTRCaG83Y2h6LVllTmR1UjkwSTUzWFlraEZ4SnNUQlZ1Wm5JTlBGdVRBZ3FQcmJ2eWkyaUJ5WHRKWnVHT0ZvTkdjcVhKeFAtTjY4Zm1NWHZRUVVydUxKdURvSEY3cUtxSnk3RHBCUzVhSEpWdzJIellHNTFSOHRqX1ZORVdf0gHuAUFVX3lxTE9jajZ6Q3lnTi1RREFiMmdGU3BGcEZ2VDF4THRLTHJiWjRLTm5xYUpkcElUY185eS12amdmZlV1Rm1tb2NULVpmTEZpeU8tQU9LVlRXcWgzWk5GMUtiSnBheUYxc3VPUVI0ZnEwWFp2QUZJZEUxVUhLeGZ0TzE4WUlVQkhMM29sQnRQZ0NpVWdqZnN5Y29tWDZHM3c1ZjZzWkJ4ZW5FYS1Cb1JyWXR2TDZ0WEZReHBjRktUM1FXZlhNVmRieFBwdXQwZlRUaGpibkdxVzRUc2R5eDhxNnZjc1hxNzdtTTFKR2xwdVU4OGc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-11T01:58:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPR25TSU1vSEl5ZjV6MWdVWE8tODNxbkVJX25SSUJ2c01jY3lmbGNhTmtVQkQycmljVE9tMTZJdEhNeTdwNEw5c0I3X09GNVc5Q2k5c00tcXlrb3ZZeDQ1UG5NampDeGFKLVdGUzhuOWwwUVpBVFRqTTVpb1N4b2l1U29EZ1YwZDVLVGVldi1RVTM4ZmtTcmQzY3BrcUQzVjNYUVpDUWFwajJoMUs5NndVM3k1cmRPWlc0RWJibnV6ZzFLN1BTMF9Ka090dnVhbzVYbW1uLXJJMzRqUzBBenR4Nm5idjJoRXNnSkwwYmtiNWlpMzZETjh1Q1E0TWVJUy0xRWFWY9IBjAJBVV95cUxNLV9uOTdwSThaMUZfdjNvemM0WlRoZlFGOEJrV0JkRkZ6YzNLRzRnby1GWTh4TDJWdmRtcWQzdHIyMmZLb0tub1ZhU2ptcGlRMUxQLXNOZ3RmeGlLcGJtSXBuZWtkYUlISG02dk5uZG1TNFZVSE84UkdqSGRjWHp5OWNxYjlIYzNkZjY1ZWUtUUFiNk1jdmZKZUdZNGpmZm1vaXVQVm9YTVIxcW1mYllCYzhiby1sMTVTaERDR29VX052a1BJYUF0MDZZUmc3NHJIbmZKUWhpblNxR3laRXVua1F6a3R0SXNCNE1Fa1N5NVVCQ3hRbF9uMlZuRnFxbzRDc185cFk4X081azFi?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Here's Where Investors Turned To As They Fled AI Stocks",
+      "source": "Investor's Business Daily",
+      "published_utc": "2026-11-10T20:19:37+00:00",
+      "link": "https://www.investors.com/news/india-stocks-inda-etf-ai-stocks/?src=A00220&yptr=yahoo",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Rise Modestly in Tuesday Trading",
+      "source": "MT Newswires",
+      "published_utc": "2026-11-10T15:41:41+00:00",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154141712.html",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank to RIL: 12 stocks on Jefferies\u2019 radar as FIIs pump $8.2bn in India since mid-Oct",
+      "source": "The Financial Express",
+      "published_utc": "2026-11-10T15:08:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVFlmRFBkdF9UdG42blBZXzVqUkhCb25sNGw5TFdJeGhJMWxkbHZJT0lzLTdjbU9EdXo4T0VZZzM3c1RvYlBiWVRuZnA0eE0tXzRaSzdwNzNadlRJdWt5WlRZUzZwVENJVXR3Sy16V2ttNW9SQzBfaC1WSGJWVHJ2dWdiaHZ1ZVNkd1E0SlJibjMtRGVLeFNQREZPeDZ1S3JocWJCaVJWOEJZc3NxWmM5dkNiNXhDcVA4Z0c2d3IycUpHalQ0eE5oZjA0bHoyaW1fc2fSAdgBQVVfeXFMT0pibFl5Zm1LVWowV1djNUp5ZVVNRkhid0JRX1hibU80MnJuY05oSmJ1R1Z6bFdpdTJUTktPRUlxdG14YmdzeHJLYjBPVjcta3FkRG1Gb19nbkt6WVIyQWVBSGE1aGdkZzNUdTNaTzdFaDdiaGg5cjUxM1RMbUM3UXlaLURLY3JkS2xrb2haZndJYk01QzAwRENXVkFzYnAzWVNqZmV5NTBOTmZWMXBtV192SEZKVmNDal9KSVNnQ3NSUmZRN0JmV0xOX041VnR0aUFVWVQwQ0ls?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RIL, HDFC Bank, Axis, Kotak Bank, VBL and Sona BLW shares among plays on FPI reversal -",
+      "source": "IndiaIPO",
+      "published_utc": "2026-11-10T14:34:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTgtVFE0bHd0Q2ZpQ2U2cUVxdi1zMnVrMVAwUE1NWFpheFFPc0ZMa3kySUs3UEtjN3VFa2VfUGtZWE1CUE93UEtQTW1oWjBqdjVWUVgxck9URlV0Vl9PWk9DSFk1VFFDWUtOb1lXbDlRU1lBVHRpdENPQXlGWS1CbWhxOVhHbFJYaTRFNXBndmtwa1NfN1NjaDJVYVlpb1JSbzVTQzFhVGxwY3lJajl4S3FRWUsyR0ls?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Your HDFC Bank loan EMIs are about to go up",
+      "source": "NewsBytes",
+      "published_utc": "2026-11-10T12:17:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWVXZmE2cW5BVjNTSld2bWpfZDhrU05ieWlVX01fRVlMZGh1ZVV6SG42VG1EZUlxWFY4Tm9TbUxYYkl4cm51bTdfeHNOQVpKNlpQc2k4OHFyV3lydFlscnZzYzdIRlJfZnFLMXpxMFBrWjNQUXhSMzBmMW1kelJpbXppbTQtN2ttMFFrV2drc0JReGN4R3Jz?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Successor Bank Can't Invoke Arbitration After Suit Reaches Defence Evidence Stage: Gujarat High Court",
+      "source": "LiveLawBiz",
+      "published_utc": "2026-11-10T11:59:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNWNtbm9BeXpoV2JEaVY4aC1ObjVId291U2ZISkRXdEk3WHAyREJJT0syT3lwTWw2UnFtSUgzbFl1X3VlR0o2ZkFLa2Z0Mzh0cGdNdEJwdjlCNXVmaXFGM2Y3V2xJSWpkc1N1RmdJQlFGSmR5cWtnVWZjM3JtelA4dk8tRERkU1psNUdkbkFJVHVaaFc3SGdxN3owcVJIUGdnWG9hSGV4ZDQ3V2duVEhjTUJOYWNkYTlLRXIyMVJjbnZMN2FxZF9hN3dCZllGcnVUck91VXppRmFxYl94YWtF0gHkAUFVX3lxTE1PcmhGRC1aVTVlSHNuekhGbzNaUHUwM05oU2JZRXF0N2pXSlU0NDhlQzNEQ0VGaE0xMndkOWIzTDRLUGpIOUxLT0RweUF1V1U3el9sZ3ZoZVBZeFZiS1diNTlQZUF1ZS1fR05scnNRckpyNU1Pbjlhcl9kd1IwUUF0UnFTUGNaMzRVT1pnUFd0M2FWU2NtYlBkSENkY0lqUzY4akZMVWx5OV9QSUpNcFIyaTNJUTBqUFdOajFLWG5IMkxDcHRwNFMweWtscDVmYS1GY3c0ZnlTeGFkbnhHUWFDNkQwOA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Raises Lending Rates By 15 Bps, Home & Personal Loan Borrowers May Face Higher EMIs",
+      "source": "Free Press Journal",
+      "published_utc": "2026-11-10T11:10:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeXRBS0llM0RWaE5GN2JqRnU4UWkzamUxWlMtcEVqS2JiZlBMZHJhV1pFWFNRUlhFcC1yUUxVcmZ3QWhtVWpUdktuR2tEN09KSjdxdDU5YUZneURCamNaY1l2NVpwSkpROGFZdUhaYjlxOWxLdkNaR3NxTlpwZFRWYXBsQlhEQ0FJb25tZk9PUEpTem1fcnlobEl2QTNSVTdMVnk5V1J5VXJQeEZRbC0yNkZGeGkxRkZuaUN3bEVXQ1ZJNXFtOVVZLTZmVdIB0AFBVV95cUxPczI4RUd4WS1OR2g2Y2F4aE9HZi0tMHdSZ1gxcVF3X3A0d3pxbGY2SUhBYzFURmN2dExJLTU2eXVjZVRVMGY0UzJBMV9VeEcyRFJ3a1V1emVsSTN0MTRIMFdfbHpJdkhPTDZ5UWtpemV3VUZxdzdSQ0dFam9UdUhxdW1NMDlyLVhrT0MzVmd5WFdDMUV6VTl3SkR4VFBSUFhwV25SVnFDUXhpOUJEbDlxMzZBLXJ6Q1VOM0loYm1LNTBhdjhZUmpRSjNkT0d1ZTd1?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Retail investors shed stocks, but crowd into Reliance, HDFC Bank",
+      "source": "TradingView",
+      "published_utc": "2026-11-10T10:35:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDBKUmxMN2pMTVVSSktQQ1RZaS1jRnBmSUZVZ2NGSFhaUmF3YVpBMDhGb1BVVGVVanU5T1BKbWliS1NVTkV5c0pxb3RQOWNnVjB3MWt6bm45aUxocHZzWXBKM2dybjhQU2Z0MVdWazh4RGk0UWp0eDR1c1dfcHR4d3JDMWJSMUQ3YTMtZXMxVEVaNmJzRm9LR21oRGVEZTRETVQxaTFSbzQyU0dPcFZKeHRHcG1ZY0dMaDU4?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank raises MCLR up to 15bps from Nov 7",
+      "source": "NewsBytes",
+      "published_utc": "2026-11-10T10:16:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ1ZyUTJOamFkbEZYeHVFRzlBbFhwUjEyOFhQOFVFNU5BZEdZU3FRanpicE5HTkJqOXhYZ2VWcDBPQUVZQ0dKNmtUMTlTcG9DZ3BnOGUtMFNma00xZm1GS0lhZDdDOUhSOThjRHV4M2tCZTVyRUMzWmp2MnpjQ3YzanBBMnM5TnJnbHJ6aDNjOU8wRUgwSUZj?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jefferies sees largecaps benefiting from FPI revival; Reliance, HDFC Bank, Axis Bank among potential benef",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-10T09:50:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONE9VNy0xb1NvZGE4Q0phQ0hrODF3U2E3a2FMY3JlZklCck5yUlNEdlRPNmVhd25TREYtdjRWeVpBbXJ3amVXY0JtZGVYVDN1bG5uTU1IMlFvN0ZsdF9DSmZaeWJXT2Y1UDc3YUk2ZE02Y0NnTV82dlM4YktCbWl4SmVBLVRiWWRjLVdGRl93NTNiLTBXeVVEbVBDLThsd0VKdjRrVjk5XzY0d1VMcmhTV0NVem9fZEtqdzNLVVN4aHk1cjBOUWhGVkNMNUNjWEs4R3dqQWxIakN6T2VydTd2MWR2aXFMSGJJTFJRUm1NWHpScENVZkxGR2hmcm81YmVhbzZrUDlLLWJ3Z3pLOTE0b0w0MFXSAZoCQVVfeXFMT1l4T0NNVzRYTGt3Q0FLT3N6ZzVQekRfZUJ0X2VZdnZoektSQjh1TmNkbGNhbkRmNVpCYVZMd0duSWx2dHhuaVFibHVtZUZ6eDJ2clFGSml5RnZFWU55Q2d6TDdDOEJSOXlFRW5IT0ZSNEVIWno3S0MwS3BtWGdoNGxyWUwzRTQzVThmU3oxa3dsaGtxQWg1TERuWXFoNjktUV9FM25sZU15VGpITmR0SVJxWkQzUWVkYTdlcERkanN0NVRJTTFvQ3RKVlZRaTNuRjFWTk40ekx5U1JSdUVjNUhLclFPR0M1ejlrdms0dkRRcVVBanB4dUpFcVp1bFdObTF1U29WcWZIQnRmN0dmT19oc0w4cE1vQTBR?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Higher loan EMIs for these HDFC Bank borrowers: Bank increases lending rates by up to 15 bps; check new in",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-10T09:48:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPSkNTY3BPRTR2V3VFQnlaSndvR3VXaV9iYWNEVVVyLWpxYVc0VWJlWWExRFR5bnRoY2tZaGxDOGlKeXlfa19kY0s3SDhvX2laWHdoT1l1aGNXNzZXeDhWYTFLTzdYZDJlc2lQVzc3OEhBMDBVTlh0eHhkTXdXZFFKY3o5ZkpxOXZmZmtaelM5QVdDd2taWkVlX0xRZzJ1SU41WEFiZjFzNGx2emJWdjJSLTcwUmJzX3hTMUwtdEZqb3U0RUlHVWEtajhyQnlabDFJbm00WGNfVFFjSEZid1p3eGhVY1dOMTdseFdxMzFvNy1VUmFjRkplUnowWDFqT0d6aTNjLS12MXJGa09TLXRjTTFBLVVYQdIBmwJBVV95cUxQLWUwMUlpeEY0V2NhWWNoTm84bWlkRTNVQXpZRncwTE51Q2xCd2l0RTFJT3Z4eEJlRDVSWk5ibHk2Q09WYjh3eG9Jc0JuUVhUVXVEVnF4SGZqSnFDX3NZZ3ItYktrT25RcTQ5UmVfcTh3aWU4UUw1MXQ0X3B5SmNJZ1ZPMzNVLVVtTFAtX2N1dEFpRTVfVlo4LUpZLU16RDZzM05QdEdzcUs4Y3RWMDdIbnlvVzlUYXh6Tmt2c2NSYjFlaHBRRlZIakpRb2NmOTZsdE1JOTVFQzhFOFgtSHFIWjN2emM3SnlTU29aT0cyTjlnRnpHQ3FUWWdxd3FQajNZUHpFZjdudXhoa08wWUNhTmRyd3ktUkYwbTVn?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ICICI Bank, SBI, Kotak Bank, Axis Bank, PNB, IndusInd Bank: Check fresh targets post Q2",
+      "source": "Business Today",
+      "published_utc": "2026-11-10T09:36:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNXzR5cnp3M2dvUG5fMUxoREctOVlfZkdJaWh6Z3VaQmJ0Z25UUlo1R1d2VnF6UXdGUG03cjF2cHp6QTR0NDBHLTQ2Q0dDb0RnZ1BwUjNaWTlGUFJXTXItZGxUOHdETm1qQlpzMWhXaHh3RllOSlZpQVJkRGtJLTQwTkRWUy1vQzR1WnRrSmpRblZXR3c2bmF0OGNhZ1NNazZkQkREbE1PdEl2aXF0RjBWUjZkcDJGTHF3XzZ4SDNidjVFaWRGTFlGa3MwVHUyQld3ckZlbF9rZzhzMlQtSGZFQWVSb1J6Nmc5TTZ5Tm5TcjU3a0xIY2JNN2JBcVTSAYICQVVfeXFMTlRQd2pONXAyclNQTTRNQ1RmLV9ZcGsybVFwZW9GNGIwX2F2WnhFdHphRjV4Q25TTEkzQ0EzN2pSRzUzVzJSWUgwVDdhbzdibDRHU2h5a2lGX3pQTEQ3SVZkN2FlT2ozNzhDWWpwYllNZzd4d0VDdnh5VUd0dzJDWEtxRS05SmREQUZrWVhBU1Z6WTBZdHpMaFhjc0lYY3hmeWJNOEhYeW5DU1dzQnJveFZmVDNZWXlSMTZ2WHJHajJkaXJuZVU0cjg4NUY0dGZCRmdSektVOUxGWWdVQmczY25obHNnU25NUGF2VS1sdTJoclljaWFfb2ZlclZ3eXZfb3ZR?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank Festive Offers 2026: Check Deals on Loans, Credit Cards, Flights, Electronics and Jewellery",
+      "source": "Trade Brains",
+      "published_utc": "2026-11-10T07:45:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHZDX2JXYmgzazE0TEdUYzFHQVZFQlBRcEFob09zTnc4aVRjOUIwQTVCcDhWZlFvWVR5WDl5MUQtTy1IcmQ1WUpEOVU2bGllWmhyMk5JWE40WElvdy0zNU5MN1AtTVFaZDVRUUhPYnZWakVPQjh2a2NSU0l4T3JkRE5IM1NkNlpQU3Z2NmtJYU9wSDR2SjdQSDNqaVFpbVYxOThQSVZocURydWp1VHBaRG1lT0ZudUI3TGFNZ2Rxdmc4TzdNQlFZc0Yzbjg5ckla?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank offers longer repayment on EV battery in new loan",
+      "source": "Asian Banking & Finance",
+      "published_utc": "2026-11-10T06:45:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN1ptYWc5X3BaTmRIeFJvWmxhUDltT2VuRmRZS3FBQ21UYXNWbV9YZ25vWlJSeTJTXzd2QjBoaGIyem53YUU1aklyQnUxRHg0OGZmMVRBTXJod1hDVDhlTi14bmRHQ2RIRDBRcm9hZmFwc2lFVjdCX0R6REJ0U3RnNlZaVWMtcHJLRWh1N2FvWXFwTFNlTTZWUnpaeEo3cTVYVUo1QVA1c2pFMmVkUjk1Wg?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday Today: SBI, HDFC Bank, ICICI Bank Branches Shut In 7 Cities On November 10",
+      "source": "Outlook Money",
+      "published_utc": "2026-11-10T05:27:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMUhVTVNac0o1R3I0WFZTRGh1VWM4cGFuMkFXdF94cnNlRTNaRmFWYWxjX2JqVU9Nd0tzVkxhbTNjSThWSWxQY2UwNkxWa0ZNR3NYeEdIclo1c3h0RktQTlhBZ2IyLU1VZFd5Z3dKaktMWDMwTGpoQ0VVY0wzYnM0WFlTbm9ZVVU4TkVHdE51SVo4U3hjMWRNODhIX01FSDdwZlB3MU40dzVTU05lX3ZvNWdYMWpYYUJxYnBsaDFn0gHLAUFVX3lxTE5raTlsTkJHNDZScm9jZGVMNlYtVEszVzFUdGoyQl96QVI1SEhXWUpRU2dBV28zY1hzR1VrZHE2Mmt2U1JSS19ETzZ6YmRmaGl1bzJRTWowR3VUS3pKYkM1TTFzd3BwcEJfSjVaT3F3V0hOMi1NV1BRUjcxa281T2I2VUVFVjBBdHZNVnhVa3RyVWVDaUx3bHNjODFwRHZ3QXRVV2J3YVV6YjZsSVNVWWo0REc0RFVjTHdKUjB3MjJUYWV5enVBdmRiWGRV?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today, November 10: SBI, HDFC Bank, PNB, ICICI Bank closed or open? Check state-wise list",
+      "source": "ET Now",
+      "published_utc": "2026-11-10T02:14:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMDdCTHpYQzBKdkN6Z2JfbThCNXdDRGtEbk1EUTRTUXQzNUcxcDFJVFFZVjhxSDIyWlpWcm5WNk1IQ2ZZMFlnaWtrUTF1S0hpYWwxNFZ1d1ByVzllQjBTbWNVRlFJaG4xSkVia25TYnRMV3o4bFlBU1FhV1F3REY3Yy03ZWdqUjZWWmJncTNSblhYTTdITDVEZ2JaY192X3A1eG96WC1vOWItTWNvVEdJNHlQaGU4cm1JdjNuN21vMTJBRUNMLTlXaTlCeTZkanJrNE5IdFFSd1ZIbTU3TUdyY0VmOHQ5WUJmVE1Dbmpn0gHzAUFVX3lxTFBSUVVKRWZoakhuZmJma1A3UTgtTVFqcGItRE11VUpaeDNGb2I0N3oxakRyMk1EWWhsV1MxT3kwelZlazJ0U19oWkFEOGNZOVBSQy1DSVRYd0pWaGFUazU1UjZKQ2h6OFpyVXd4WnJmUHZfcDV5Z2hGaldVMGNiQVJKY1Z2UFo3WWNXSVRRdjF6bnBBRWNhUWZwTmdjUkQyc3VFbUZDZ2o0M2loQkhEa3ROSW81YVRnYmhhX0Q1eHZBNFNBVTM1QjBYQ1RKbFBMcHlQTTJ4Ti1XMGxvQ1ZPdWlQdzlUVkRJX3hGd2w4bWtaNzc3TQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Senior citizen FD rates: Suryoday Bank offers 8.6% on five-year deposits; compare rates at SBI, HDFC Bank and others",
+      "source": "Livemint",
+      "published_utc": "2026-11-09T18:14:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMTVvY055NVdXYkgxWTNhRVc0QU84R2hocGhXeWJzdGZKcFlvcEpOUGJtcDNrdU9YeXNTTXE4VXFJekx0MXJwb2JQaS14SFdsM3g2aGg1cENYZ1pncDhiSnRFZXAwaG5VVXloXzU3RWtXMG1semFteWFBcVlwcUR0X09NQ1VaT2ZCZ2ZVQzU0ZDlyRTl0RmNZVVN4UVpQMEtDemJ4bGRDaDNnMVV1by1PY2NWbDRJaVR4aUlUWFBmM1BOdjVDTW9mQ2V0eFFEYjdnWHVZTGItU0ZZVzNmSG5fYVd4Z21VMndJdlpQZnRuU3hxNGlQNmRNX2FYUGFaS1dyN1EwQVpTZEp0RUNu0gGSAkFVX3lxTE1VOTJlbFExcmF1bFNUNlcxamMzMENhRmFYdEk3TVZ1TDd5Q205RVVCRXZiVjIxeU4yTHVicVVLZmRmek0yeXIzb1JGN0lMWjNDV1ZNVlhNZWRFTXB1T1hWM0FTdTlFa1gzTTFSbXhHdG42QlhhTWFhMEsxMFMwcHptd3RXUzduanBMcG5tYWplNXFrSm90ckxPSGk0VGVsLW5TeFRfWi0xS1YtcE1vV3VSUXgwempJZy1aTnFyU01tQ21oMjBBRUVwaUZnNEVUWmpYRll3VGJ2M1lkQ2lidHdRT2o2ZF8zdTJ2U0M3TW4xcjBWRHV2bXRvdkZZYXJQMmNLQXNHTGpiSnF5azM0Z3ByQXc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.121,
+    "strength": 1.0,
+    "material_count": 3,
+    "view": 0.121
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-11T12:03:03.254776+00:00"
+}
