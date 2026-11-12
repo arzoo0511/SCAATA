@@ -1,0 +1,134 @@
+{
+  "symbol": "PETRONET.NS",
+  "date": "2026-11-12",
+  "headlines": [
+    {
+      "title": "Petronet LNG schedules analyst meets in Mumbai for Nov 17-18, 2026",
+      "source": "scanx.trade",
+      "published_utc": "2026-11-12T05:34:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazIzVUItbks4M0tObENnSXpLN1MxaVNRaUd3QUx1U21oYVVkVXd2YTAzX05QSmV1WXBmVWp4VWlTVm5oN0l2YzN4akFmVUl5TDVGSUtKODFaYVFUNUhUcjJJaFBTUDl1NFZNQ1h2bHJFSjVmRk4ycC0zTnJaZjgwUkJWYlgxcTFScEluLVdIcjNNMXRVeFFpbGlDVVBDMUVSeV9mVHFwVC1HVHBoRzhlNGliT3pfQQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG to attend prominent Mumbai conferences",
+      "source": "Business Upturn",
+      "published_utc": "2026-11-12T05:33:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmtLekNaeUxLdVczelllOUhCM2lqZi14RmV0VWJ4ODBndE9jRUFScy1hRnd5Z2F6dmhqQVluSkdHMERvUUJpQUdCQzJxLW81dXZQTE1TbmFSbmxJZ09LX0ZrOXFrR3VVT0lEZnZkZWd5S1N6UGE0aFNNcGJhQTFWTm56c3ZkRE96amlDZUU2cVFQZw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG NSE:PETRONET Analyst Meets November 2026",
+      "source": "Kalkine India",
+      "published_utc": "2026-11-12T05:25:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX0Z1NVBBalFKSzZTU2hSb3F1eS1ONFRPQ3FVMG5jQlE5SUk1VWVRX1gtMWczS2ViWGo0bk9xZ3Q1eW9zdW13ckJRYW9sZXJfamdzcEdMSlpKcVRKQkpjOUtTOXlxSHZ1MEtidHVOQ3VOLU05Q3FLYnVCZmY5LVZRa3YxMm5RWlYtQlNENWJXUExTYmFqc3FELVJTREhlQko5R1dUOEdSSWtqZzJaV0duWWdzNmk5ZFFMMWJ5bE1FS1RsYjJp?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Poland\u2019s Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
+      "source": "The Wall Street Journal",
+      "published_utc": "2026-11-11T15:23:00+00:00",
+      "link": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b?siteid=yhoof2&yptr=yahoo",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Parag Parikh Flexi Cap Fund: M&M, Coal India, Petronet LNG among stocks bought in October",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-11T08:48:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdVUwTTNnRnlvMGtoQUVIWkJiTWNLOE9idEFJbXNnRTZ4X3plY1p5Qy1rbXI5T3BjcXlvZHRlVTlQbTFlcE5ZcllxQ0lEb0pMYzNPTkk3UXhXM0lrOG9qamMxMnVsVjdTNzBCNnY1QUZwd29FSmNuejByVUpWV2gtNTAyLVE4bWFPMTNGSXAxNWJEZ1Z5bHNZMlJBWFFJT2dFRU1QN3hZRHBPVzhFak1CU1hsWTJQd3RMT0lxb2xjOGJnc2wyYmtjSVNjazdBMlRGWmE0UjZUbkxhR2dJWndQR0M2MkJqc0IyQ1RuNUV2OENTYXc?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG Details TDS on \u20b97 Interim Dividend",
+      "source": "The Globe and Mail",
+      "published_utc": "2026-11-10T21:23:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc1c5Vy1kWXJpdjNUZnBlRm40WlM3ZERfSW9wYUtfenFWb1NVUkdWZlRkeEJrMnQ1YlRpNnhBSFNEdTRSUzBlcFdRbkZJenZLVnAta2ozV1FYVnpRQVJ5amV4OFpiMTJKMWlFbTZxVk42NG9uTW9zWmp0eXgwMVdaZVhySjhSS21uVWtEaldOSTE2WjdtZHc1QTRWandKN3JGUGQyaEt6X2lvVFhuemRKOVYtMXR5Unh3S2hMX2JsS2pOTGlfZmIyZQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.6,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "What Petronet LNG Doubters Overlooked",
+      "source": "Yahoo Finance",
+      "published_utc": "2026-11-10T19:09:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREZQaXZEeEZ1T3ZneWZMaWZkRmtib0dzeHc5OHFmSTFKdnZYUk5VRWYwdURpa1pQUTQwY09yempBN3FYR1BMTU9zUjR6bmxaWElNbXlXLXI0NzlqcXh0NGlLOGl2eTRwZ1k4ZVc0d1lLeTZWd2pDek85Sm5KQmpnVkU5SHFpVXFCUW1BeXkySFBsWEhXcHEzTjBSby1GUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.4,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG (NSE:PETRONET) TDS on \u20b97 Interim Dividend: Key Rules",
+      "source": "Kalkine India",
+      "published_utc": "2026-11-10T08:12:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeEdmM1o1QjhUb2t5SHE3SjlaV0xSTzJ3Z2VwRjdULTVoaDJjdDltV0VlN1BaRC1QcHpFWjNWcHplZTBHbnQ1WFVSSU1xVFNEUGFaNHpMbmxQQllTQ1A0b1ZyTWVQcm90M1I0Y0IyelpBRDFQUHA5QWRkN1IyNy1Jb3FpTE1leFBqMFNzQUZUbHZ2U3Nmb05tdmZoQ1RUVV9YMV9lbjNjWFl5dWUtdjBjYS0tYzRDZkFnYnk4b1YwSTdudko2MTNHRXZNLW40TnRnRXNvaENHMEhIZUNvZlE?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG (NSE:PETRONET) Q2 FY27: PAT Up 53% to \u20b91,235 Crore",
+      "source": "Kalkine India",
+      "published_utc": "2026-11-10T06:31:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMGNnRVV4Ul8yekctNVJGd3RveTlWenlnYlNKYWN4cUNvZ0xiQmV5UUVoYXRRTWh0M1lYRFhoSFZsdjlFWUFqTzhLUVFocTlxWlFzMEdxNWJqSzAyYkx5ZjlHb3Nvamg5SE02YkFUTjBGeVVEYjMxbUdjOWd2WnB5Y20yeXFQNXhZaTFRdlF5R0F3QWdkMmxXU0VaSGl6MzRXY1Jjc1p4ZklJQURJVkV0b1cwZlZZemcwRDdRX19hWFNTSm9lM2U4NURyMHUtVENzVnc?oc=5",
+      "relevant": true,
+      "sentiment": 0.8,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG CFO: \u201cBest Ever Q2 and H1\u201d for PBT and PAT",
+      "source": "NewsIP",
+      "published_utc": "2026-11-10T04:27:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uSUpKU1VMNlN2dTdDbXhlaDBzUXZtT0hrV3pmS1g4eVBvWk1WYktUUWFDM1lRUEpOZE8tVXJwZGhWeGlXVG1JSU9XaEdjTUNsZWxyZkJiNW1sdHlLQnZsS3EzbHJzY1pr?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Petronet LNG's (NSE:PETRONET) Profits Appear To Have Quality Issues",
+      "source": "Simply Wall St",
+      "published_utc": "2026-11-10T00:40:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVDk2T1NfZ1Z1aFd5UjNPd01lbE5yXy1IbjhKOVkzQmxfdjVuN3RNaHFvbHlVRXQ1R1JTR1FlaFNJc2NRLWZSSmZLUjFQNEFOS3NlRENBb0xuNkNiR096R3FIMlF0X0xpWlJ4TlFSUEZQLUY1ZS1QWDY0U1VJOXN4WldsSWEwMVRlWVNDYXRFeVJnTzZuT0RqSzJlcURJZXhIV1oxdTJBTDdlT3NPdnczTWJtLUdhWldYUENJZnRiVUdZcENPZEh3MHR4RDFxRDZGWEtYaVFOd2jSAdgBQVVfeXFMUFQ5Nk9TX2dWdWhXeVIzT3dNZWxOcl8tSG44SjlZM0JsX3Y1bjd0TWhxb2x5VUV0NUdSU0dRZWhTSXNjUS1mUkpmS1IxUDRBTktzZURDQW9MbjZDYkdPekdxSDJRdF9MaVpSeE5RUlBGUC1GNWUtUFg2NFNVSTlzeFpXbElhMDFUZVlTQ2F0RXlSZ082bk9EaksyZXFESWV4SFdaMXUyQUw3ZU9zT3Z3M01ibS1HYVpXWFBDSWZ0YlVHWXBDT2RIdzB0eEQxcUQ2RlhLWGlRTndo?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India\u2019s LNG buyers eye flexi deals to cut risks after Iran war hit Qatar supply",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-10T00:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMEcxeXdQNDctZ1E0V0VHMV9GYmV1ZWQ3bGZqNHRIalNqd0ZnbWJBcDFVeGRualhRSTJFV3VidWlIbm5CS1Y4ZmhoRzhsSEVfMy0xQUxNRmFSYUJFTUxsVklUa2RZUHMwTmNaUEEwTnZmOW9nVUdkdWRmdGJ2bmpmRy0yQ1RhUnlCTWdhQVBXMVNaN1RYeWl0QXNreXlYR0F5U0IyZjZOYk9OX0NFUHZHWUttYWN4VS1QaDRrNzVPSkVFSVFYUGhoMlV4RWdyV09KTHdxZzgyWjdLbUZUbE9IWTdIQ1RfLWhZR1BrX25nM2EwUdIB8gFBVV95cUxOMEcxeXdQNDctZ1E0V0VHMV9GYmV1ZWQ3bGZqNHRIalNqd0ZnbWJBcDFVeGRualhRSTJFV3VidWlIbm5CS1Y4ZmhoRzhsSEVfMy0xQUxNRmFSYUJFTUxsVklUa2RZUHMwTmNaUEEwTnZmOW9nVUdkdWRmdGJ2bmpmRy0yQ1RhUnlCTWdhQVBXMVNaN1RYeWl0QXNreXlYR0F5U0IyZjZOYk9OX0NFUHZHWUttYWN4VS1QaDRrNzVPSkVFSVFYUGhoMlV4RWdyV09KTHdxZzgyWjdLbUZUbE9IWTdIQ1RfLWhZR1BrX25nM2EwUQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.383,
+    "strength": 0.64,
+    "material_count": 3,
+    "view": 0.245
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-12T13:06:40.519973+00:00"
+}

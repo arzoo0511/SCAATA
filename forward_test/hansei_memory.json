@@ -1,9 +1,9 @@
 {
   "weights": {
-    "trend": 0.2243,
-    "volatility": 0.2254,
-    "momentum": 0.305,
-    "news": 0.2453
+    "trend": 0.2177,
+    "volatility": 0.2256,
+    "momentum": 0.3065,
+    "news": 0.2502
   },
   "observations": [
     {
@@ -796,7 +796,8 @@
         "news": 0.133
       },
       "close": 714.0,
-      "judged": false
+      "judged": true,
+      "forward_return": 0.1339
     },
     {
       "date": "2026-10-13",
@@ -808,7 +809,8 @@
         "news": -0.215
       },
       "close": 1360.199951171875,
-      "judged": false
+      "judged": true,
+      "forward_return": 0.1652
     },
     {
       "date": "2026-10-13",
@@ -820,7 +822,8 @@
         "news": 0.058
       },
       "close": 290.0,
-      "judged": false
+      "judged": true,
+      "forward_return": 0.1514
     },
     {
       "date": "2026-10-13",
@@ -832,7 +835,8 @@
         "news": 0.127
       },
       "close": 126.13999938964844,
-      "judged": false
+      "judged": true,
+      "forward_return": 0.1551
     },
     {
       "date": "2026-10-13",
@@ -844,7 +848,8 @@
         "news": 0.021
       },
       "close": 261.0,
-      "judged": false
+      "judged": true,
+      "forward_return": 0.0846
     },
     {
       "date": "2026-10-14",
@@ -2020,6 +2025,71 @@
       },
       "close": 285.0,
       "judged": false
+    },
+    {
+      "date": "2026-11-12",
+      "symbol": "HDFCBANK.NS",
+      "views": {
+        "trend": 0.525,
+        "volatility": -0.154,
+        "momentum": -0.292,
+        "news": 0.276,
+        "relstr": -0.011
+      },
+      "close": 812.2999877929688,
+      "judged": false
+    },
+    {
+      "date": "2026-11-12",
+      "symbol": "ICICIBANK.NS",
+      "views": {
+        "trend": 0.976,
+        "volatility": -0.768,
+        "momentum": 0.535,
+        "news": -0.357,
+        "relstr": 0.71
+      },
+      "close": 1590.0,
+      "judged": false
+    },
+    {
+      "date": "2026-11-12",
+      "symbol": "PETRONET.NS",
+      "views": {
+        "trend": 0.99,
+        "volatility": -0.0,
+        "momentum": 0.507,
+        "news": 0.245,
+        "relstr": 0.69
+      },
+      "close": 335.0,
+      "judged": false
+    },
+    {
+      "date": "2026-11-12",
+      "symbol": "IOC.NS",
+      "views": {
+        "trend": 0.227,
+        "volatility": -0.0,
+        "momentum": -0.494,
+        "news": 0.443,
+        "relstr": -0.247
+      },
+      "close": 146.1699981689453,
+      "judged": false
+    },
+    {
+      "date": "2026-11-12",
+      "symbol": "ITC.NS",
+      "views": {
+        "trend": -0.077,
+        "volatility": -0.0,
+        "momentum": -0.66,
+        "news": 0.318,
+        "relstr": -0.465
+      },
+      "close": 284.04998779296875,
+      "judged": false
     }
   ],
   "weight_history": [
@@ -2106,6 +2176,13 @@
       "volatility": 0.2254,
       "momentum": 0.305,
       "news": 0.2453
+    },
+    {
+      "date": "2026-11-12",
+      "trend": 0.2177,
+      "volatility": 0.2256,
+      "momentum": 0.3065,
+      "news": 0.2502
     }
   ],
   "lessons": [
@@ -2407,6 +2484,31 @@
         "PETRONET.NS": 0.1316,
         "IOC.NS": 0.18,
         "ITC.NS": 0.1013
+      }
+    },
+    {
+      "learned_on": "2026-11-12",
+      "about_day": "2026-10-13",
+      "best": "news",
+      "worst": "trend",
+      "weights_before": {
+        "trend": 0.2243,
+        "volatility": 0.2254,
+        "momentum": 0.305,
+        "news": 0.2453
+      },
+      "weights_after": {
+        "trend": 0.2177,
+        "volatility": 0.2256,
+        "momentum": 0.3065,
+        "news": 0.2502
+      },
+      "stocks": {
+        "HDFCBANK.NS": 0.1339,
+        "ICICIBANK.NS": 0.1652,
+        "PETRONET.NS": 0.1514,
+        "IOC.NS": 0.1551,
+        "ITC.NS": 0.0846
       }
     }
   ]

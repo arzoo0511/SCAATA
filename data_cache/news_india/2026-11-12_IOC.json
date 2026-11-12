@@ -1,0 +1,284 @@
+{
+  "symbol": "IOC.NS",
+  "date": "2026-11-12",
+  "headlines": [
+    {
+      "title": "India\u2019s crude oil imports from Russia hit record high in October; Jamnagar refinery biggest importer",
+      "source": "The Times of India",
+      "published_utc": "2026-11-12T09:24:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVk1NMEVnYklveFFLUzRtN0tZNmFMb1JWdFRwekhoamFHTHpESXpXMTR0OTNTWTVvbUQyMkp3enozMFVsRmRhODQ0TlNlT2o4bzlJRWlaT3BYa0hmODk4N2QybTE4WmwtN0NUcnZYNDZkZC13YU1kN1FnZm45R1NQcTZ3LWJSUTFNYnM0TlNDQWpDNk4xUWpHUFRuREhZTFlxcjhCX1UwdWs1Y1JXS3JISE44NUdPOUJrckJRcHJjX1NIZU9QeTdSTUpxcjB0anFwZVRZdWR2UzVXX3ZTZHNyQUpGTnlRa1RMXzI5VEVmVWZLb2VGcUtRZXB6NE1jQ05ZbmUxeGVVVVU0OVROSGZPRERn0gGXAkFVX3lxTE1xVTh4SWNPdEVuclYtR0ZTcWZqdlNfM2x3NUs4RVl5Q3JCZ1pGUW0tdTJzb215UkFBd1dxa2lWZDlzbG5GWmxiclZCbnFoY3dnelVWZjlqcDBPLTdSYzY4cnJxakJmS1Z6dXYwb1FOOFdPYWZDWnVqclplRk9FQkpJWW9ta1lNSEFnUVoxQUNKTkpMV2tSdVl1bVpVMVpDd1pUN29FQnI4RklCM3dpclYyRmRleWlSUklLWnZDaE9IcDdqdEd3bGxmbFZEOVFFQkpxWEdZVjEtZnVDaTV6Vzl3MUctWWJzYkNidW5GVTFfRXo2bzZSQS15NGlLeTJpMDJBR2VOakJ2aEFGd3p3SHJ0YjYyX1Nhbw?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India's Gulf oil imports surpass Russia for first time since Iran war",
+      "source": "Business Standard",
+      "published_utc": "2026-11-12T07:23:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVEtxNkpDek9vV0x2WFVDX0tZNlFnVFFFbks4RTllaU5CdmYxSDBoYUZTdkdNX084dHBvM2t3MERPd0lqWWo5TFM1RjNyNkxrbU02d3RIbjFUdk9vZDV0MTh1ZFZidWdaQzFOeDB4dW0yZ2d4TVRkdGtSWnF0Q0p6MW95UFBrZjNyV1VneFB3U0hvb2JhaTljWGpZYnpPUmI4TjVUbDdaaG1JMzZxZDJOeVZ1WVd2aUVFUDRpY2xDRGQzRXAxTEtjTUpXc3dTR0hyUHQ4bVp5b9IB1wFBVV95cUxQVEtxNkpDek9vV0x2WFVDX0tZNlFnVFFFbks4RTllaU5CdmYxSDBoYUZTdkdNX084dHBvM2t3MERPd0lqWWo5TFM1RjNyNkxrbU02d3RIbjFUdk9vZDV0MTh1ZFZidWdaQzFOeDB4dW0yZ2d4TVRkdGtSWnF0Q0p6MW95UFBrZjNyV1VneFB3U0hvb2JhaTljWGpZYnpPUmI4TjVUbDdaaG1JMzZxZDJOeVZ1WVd2aUVFUDRpY2xDRGQzRXAxTEtjTUpXc3dTR0hyUHQ4bVp5bw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "News by CNBC TV18 on TradingView, 2026-11-12 \u2014 cnbctv:e3d9d1e18094b:0",
+      "source": "TradingView",
+      "published_utc": "2026-11-12T06:58:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcFpGTTZTN1FkRXdzMjBzdTc2cUh3cXFFUTRUWVRUUmtkN0hCM01xbzNnWnNjejNtZ1Y3LXd1YW1xT3RkUVluYWV1LU1zSTY2Wno1NjJmQl9xZ2xyenc4TEw2ZUtIQnc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "India Gulf Oil Imports Surpass Russia for First Time in Iran War",
+      "source": "Bloomberg.com",
+      "published_utc": "2026-11-12T06:35:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmxFWjRZMzNORENWTzhDeUl5UW5WaFRWbTk1ZllEcHdfVEN5ckwzTW4zZnVWOE5DaVN3VWMzS0xUXzRyaTZDV3VCY3NHTUU3ZG8zakdXR0t3QW5DMDNuRkxsSWVkLXo3blhSUGFndkJlX25vNVlaaUJxa0lXR2xFZHlMTW5XUzE2M0xnU1Y0Vnl4Y2QyaFUxX2kzaFoxc1BTRk1jRDdHSkp1aEZ2d0ZUWVJDcnZFZw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "E20 Petrol Row Intensifies as Rizwan Arshad Questions Centre Over Ethanol Levels",
+      "source": "Dainik Jagran MP CG",
+      "published_utc": "2026-11-12T05:45:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY0t2WExtUHZjeVU0bjJzSFpWUnV1NUgzempaRzBvRlhUM3ZCTDlMNjMwTld2d3dFZDVZZlY1VnB3LTFxdFE3aVJLYnJYTUhfOVM0dHhuOVRCTlk1XzVvTFN5ZUU2Vi04YWpsYmNXZWdOeC1FWnhyRG5Vb0IxUXJKUENWZnVtLVlydy1UUHg1WVY2dFVtV244VTRXMVlHRHpkN1JMdWpYMTVJaGdmNWZPV3ViWGVGaFd0MVgtZlhja2JtVlE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "OMCs: JPMorgan sizes a 10 dollar crude fall at Rs 700-800 billion of EBITDA",
+      "source": "Business Upturn",
+      "published_utc": "2026-11-12T05:28:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkdyMWh3NEFkLVV1T2ZZMnY2aUZqUTNndTZETldqVWdFZnJaUExhTUJLRk5sRmluWTE0MWVBS3dTdjBZZ2N1a2tYUzd2eV8wbHVqUnNmMHRBLS1oM3lDdkg5RlYtb1F3ZElHSlNIeC1LUVEzVHNMOG1lQUpDSkJWdkVPTlhwc2xiOTZyT2ZUMDlMelVFWnM5VTlIcnVNSkFGME52bjFGcHBsTGNtaFVmNFJMdGJjTkc2Sld4RWNqTkN6OFIzV0ZuZjlndFQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "APCRDA and Indian Oil join hands to develop green energy infrastructure in Amaravati",
+      "source": "Maritime Gateway",
+      "published_utc": "2026-11-12T00:36:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHJfMU5aMkt5UVhDNEdfdnJOYmVIYWQyUmVXaWd5bjhsTHRXdlVMbnRyU0Ewa0t4VWVJa3BkY3AyZkVXUzRuTzU0aHk2bmtaVEFpTzBqWEFNbzRXOXJPOHpza3lldU1ndFZBUGZrdExBdGhxX3VQUVFRZUVSbkVWLUhjM3JIVlBWUFdQelFkN0ktajNnWkFHbkROQ1lTRkhjVEtVUC1nOHZhUDdvdmxkSXByM0lOUmY1?oc=5",
+      "relevant": true,
+      "sentiment": 0.8,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Ethanol levels demand sharper oversight",
+      "source": "Deccan Herald",
+      "published_utc": "2026-11-11T23:13:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMW5NSmVYNG5fSWFrei1JbXlWWFdQeVQ5UnlzMDd0YlV5Y1BoY1FuOXg3akYzX3RlVlRvOHUtdi0wcnItOUZRa0pPSzhkc29TNkxkMkJKUjEteGFza1NLNTRob25RS2pCdm1VbGZjdU5NMGZXcjQ3MHoySWRQSEFQaWZEc1I4TDczTVRuMjZycnV4Q01XZTFDWGlzMjhabHNSQ3BCTngwaw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Share Price - Live NSE: IOC Stock Price & Chart",
+      "source": "Upstox",
+      "published_utc": "2026-11-11T13:10:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGZVNnY0dLam9NNTc3Y2MwNzgwVEV4Mmo0V3lpcHp6MXFqT1l6UGlLNWR3dFZCeVRIVjI2bm5lMmdWQ3pfbkcyckx0Tkh5elZhd2dkQVN5NEhTRWswVmliengyU1hYRjZudUE?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Oil price cool-off lifts OMC, paint, tyre and aviation stocks; IndiGo gains 4%",
+      "source": "The New Indian Express",
+      "published_utc": "2026-11-11T12:38:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemZGbXFYamdxcXhHUkJrNVlleWI5TXc2c0lYeEw4OXU5Q2RianN3NXlKT2lHa0NKZHNaaXJvYU8tTUVUQ1FabVFxd2s3MXNad05UTnVtMG9DeUxXaEtzYXdHeWN0VEZPYXEtSTFmbVl6MU5EQktOQUlwLXl0VUpjMklGZThvM3gxOUVqNVBvMUpNSk1icmxjck13SlVYbk9icnRuUk9MY3NNaHhUWFNJZmhCSlR1cUZpUUVReFNuenF2NGtKN0FF0gHUAUFVX3lxTE1qRkxsVHdVdDlFZUZpRjRaOFNwbXUta05iRl9JVUFyeUNTMVdUeTFzOFhyTmE2OWY5akZ4RGoxSXJtY1pqSzZOb3o4V05sN1dyem1seWJKeC1xVXp0RlFJM3J6amx2VUhIcnBvQjVVNnVUQTVsVXROdzA1akxPSXBYOFRPX19tWXNzaTRENmZXOGNtX0Y3Y1VJZ0lCcDNVdjh6Vlc4c3VIV19qbVo1aFB1c0FheFJnRlhnWmdtUUY1N09oQnRxRlg1dnlYUkhhTVdiYks3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "How the UAE became one of India\u2019s biggest oil suppliers",
+      "source": "Times Kuwait",
+      "published_utc": "2026-11-11T09:15:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPejktOHFhdEQzSElDS1JmdlZpRWk4blgwVFNDeE1WRlNyMnBqU2FrTDluQ2RhQ0VpVkJnNno0QnlCTTAtRkxTSUI4WTdHYVVaNW9BSERFWlJlV0lDVWdVU2M4RlF3Z0tuQnlVSm5xbnQwRkg5REtvdjlCYnlOeGJfajVxa2Rydw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Should you invest in HPCL, BPCL, IOCL and other OMC stocks now as oil not on the boil anymore; slips below $90/barrel",
+      "source": "Livemint",
+      "published_utc": "2026-11-11T08:15:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcGlHeUVNdms1QUFtN1NFTUNLX2E0WTI5bmF1dUktUnlmc3llRjZIZ0RGMUhrallrS1VsM0Q0SmdPbVhZdHpGQ1ZBbmlwMHNNZm5YM05ydm1DZ2JPUG91ODBCamRTTDFKeWlROHp3emxVSHdIX3FlN0JCa3drSFdUYURfVDRxci1YQ0ZrcTZtdUhuelJWb1pqSVc4c1Zyal9ZZ1ZmQVJEazFSWHhCZGx0Z2RqT3NxQVpJbjZRd1UzRFhDSFp5ZUd0VUE5SnlROGdVbTV2U2J4eTk4ZWhEMTZlX3FiRTFLTERUTVVRUS10X1hTRm1aQlBRdzlvLXdhZGJaSXdwV0RsNm5Jczltc1g40gGUAkFVX3lxTE9xRzBWZk1XYzNybXZjWWs3SnFTbk00R2NUNXNXcjFfanoxZlM4T2NqanRJWTFrM0NVWDR1SkJIVzN2eW9QSHFnLW1jem96RVphX29BWmhQWmg3dW1nTFNNX3A3blF5bnh6eTY2RGtZdV9qQ3VkMi1VOXI1NVlHVDJGUExUdnJyMDhBdTdYY0dGVjl2Rm0yYU8wSjRlM0xGQjdWSFdnNnF1S1dOd3ktWWFnbUFDclVPaEd4S3hIMnM4QzFlY0dlYm1hSkVnb09Jc1ZQeTd5NzJsQXRsQlFMUjdtdVVVaHVwUVcyUXk3Q05xZEl5SUNuVXJlajctd3R2NjFfMUNxRU5LazBiU3J6RWV6NEZ3Ug?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "From E20 to 420: Farmers wait, riders pay, oil companies profit in India\u2019s ethanol push",
+      "source": "The South First",
+      "published_utc": "2026-11-11T07:38:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYVZGZmg2ME1XZGlteGs1N0w3U3BQY0NNMDlDTWZPbWtmWXpTVjNaZk1KazVtc3lvdUlyTFZTdEtTUThRaVRha1JFMW9TY0lFTnJPb0k1eDF5LVRhU081Q28zSWktUm9XX2RpUXVTakN0cXNhd1I3a1NjSk1ZM2ZfZF9vNGZTbXZTeTI2dmRQLWxIdEM0SjJNaXBVVEdCWGRCVjVEcExxbnZYdlN4NlFjMWphZExMckk4Y3c?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian sailor injured as oil tanker hit by projectile in Persian Gulf; Sonowal says other five Indians are safe",
+      "source": "PTC News",
+      "published_utc": "2026-11-11T06:35:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXRKTW1KWERUUGE1VlZ4MTM4YUNTYjJGREdxbGhJalhkYm1XNWRxNHh1VEZGVWMxWkpNbFZmazU1a1M0a2V3c0E2bnlwWFdOOTRxS1ZQR19wcFNsNUVmSjRYRHRwVTV1WG5NeWdwUkZ3OTRmUzlZcTNUYjVTOE9md2loTTJSUl9oVE80RndoQnUtV1d0SWVlcEIyUE95cVhpWUNEQ2lqRDdnYjRmSjVDc9IBsAFBVV95cUxPbXRKTW1KWERUUGE1VlZ4MTM4YUNTYjJGREdxbGhJalhkYm1XNWRxNHh1VEZGVWMxWkpNbFZmazU1a1M0a2V3c0E2bnlwWFdOOTRxS1ZQR19wcFNsNUVmSjRYRHRwVTV1WG5NeWdwUkZ3OTRmUzlZcTNUYjVTOE9md2loTTJSUl9oVE80RndoQnUtV1d0SWVlcEIyUE95cVhpWUNEQ2lqRDdnYjRmSjVDcw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IndiGo jumps nearly 5%, Asian Paints gains 2% as aviation, tyre, oil marketing stocks rally amid crude slump",
+      "source": "TradingView",
+      "published_utc": "2026-11-11T04:48:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONjlLN0NtbXVuTDZTVC1RWTRWZ1pFQlZfdjAzYjVubUlpNWFmeWNUVGRPb0QxRmF5V3p1cTZmRjZOclNwOGt2aEVJRUZEdlNPYUM4Sjl1UFhDQWFDTUk2TU9EOWh0bDlaME92N3dkemNpcWdlVWJQa0hTTklHWjBtWHNJaDZqbFRnb2YtQ3dGNHBqWTZpRjNOMmo3cjhtbDU3bGVtaTlLSHhmRDVZeHZHN0k3ck5YaldCc2RWQUZkTzhEZHhKdnktcDQzZlRzUTdYZmpIUG9QdlVaSGlUb3dQT1IwY3pRdk00UEZMNlAybTFvUGpQZWw1SjJ3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Ethanol-blending row: Karnataka seeks independent quality checks of fuel",
+      "source": "The Indian Express",
+      "published_utc": "2026-11-11T03:36:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSWx1M2JyRmZlc3Q3cGNDemw1UXlhclhHQWQ4T0oxWmhvNDlyX1Z3Znh5MDN0bkd2SU1QMUZfTXJVb19oSUw5Z2RtTlJaOTNUVnI0ZGdWblljZ3lRelBUcmlZZmFrRHVpczdSNEhNTG1ITlQyZ1pHd3JlTmRoY0hfbDYzMm55THg3LWludnFVaTRBX052UEF2SHRkOEV6cHRIS2FkWENYV091Zk9NWTJaV1lyVkTSAbsBQVVfeXFMTWNIRWltRmRmaHpiNGhDbjNrTHlQank0SUJNUUpOeGJEQmVyRkVzdFdINEFGby1aVWUwckRObkt3UlI2ZXBjZGdkLWcwN0lBYWQzbXpia2p3SHNSWFU1QXVMY2RXVlRHYVdWVjI1MHZZMlplLWhkUjFDekVjWkI1aWJMdWI2N3Y3cjZNNXZhLU1ublRnSXJRblZiR0cxbE9HRFVEY1hwWjlFYzU4dGVQWTR4VnNzTVpzMm03bw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IOC plans to acquire Crude Oil and LPG carriers as West Asia crisis highlights India's shipping vulnerabilities",
+      "source": "India Shipping News",
+      "published_utc": "2026-11-11T03:01:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSHpJYzJacmFqTlEwZU93d0p5VnQzeW1Db3c4NEE5SEhDMWJBdXUtZDhhQWVvdWluSnU2YzJJOWN1ZGVsNGUxZEQ0Y1VQWWdxXy1JOS1VQ1NhRHlkbERUV3pBWXNJVkFGT19jaVl6ZlZRQXo1Y0pGUGk3NWtfSWV4Y0paMnRJeXNva0I0VzBnWUFLUlBLLXFIU1Bodng1cG5PWUZVTGlkV2FmQk1fMzVYUGhvU01zQThkREdIaVBfaktnMnNESlZBX24tUVdXTUlSME9aYnBtb3RrNENUaVpMeFRseG0?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Andhra Pradesh CRDA, IOCL sign pact to develop energy infrastructure",
+      "source": "The New Indian Express",
+      "published_utc": "2026-11-11T01:40:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEQ1d0Z5RVc3REtENjlHbld1NjNaMVlHTGJSTFB1UkphM2FLRk5QVVJNdXExQUR6TWQzMWkwLS1SS2d3cEliS0E2RFNUM3dudllLOG4yUkN5RjlrY2xoWURzSDVHNmdtaWVJUG9wWjAwQXFNTjlRR3VkTmlhMlNqMUpIZGd6d2pKSTh2NDFINjJ3bWpKYU1SWGYyeWVjV3M3Y19LcVBYWENTTjNWVmVoTjBWZFhHVTBkeXo2aS1tbFJyWlp5Wlk5blM3MVVrbUHSAdwBQVVfeXFMTkYyR1U3azBqZHVWa0ZCVTVsMUhjZUZCMFdpbEdETjVhNFk2a1lRYjUyak1WYmpJS2tJelpaWnh4eTRZRkpTRkJrX3ltZm9IdGVweDNKQXhzN080UEN1VW54c3NBazdudmQ1Z3JHeGRXcnZfVGRfUWxZTDdVbjRDWUpPMXFoNnBVX3JrT2tEX2E5VXpZUE5idHRHUFo3YnJLcjhuX0tnb2ZhSVRISmhjTGVVQk9MY25FR2V0dFJKSUZnaTRDWGozN0NhMmxybmVnd1NoZlg0MXU1VWpjdQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Is E20 Fuel Safe for Older Cars? Complete Guide for Indian Car Owners",
+      "source": "ACKO Drive",
+      "published_utc": "2026-11-10T18:12:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbTFGV3dIeDE4VDVyZjc1VWdkSGEtdEhjX1RoSC1YOWRCYUFPVl9HbUo4TmZ6dHBlekx4aC1RYi11cTkyMUR2TFZJVjZFeWxpRm5DN3ZaNm1mRTJpdGNYclNGY0FLcXVGX1RUbXlQamhMRE9lc0IyQmpELWlWN0gxUTdKN2lvWHlWa2lzcGc2ZHVBekZlUUY1a19CS3g?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "APCRDA, IOCL sign MoU to develop green energy infrastructure in Amaravati",
+      "source": "The Hindu",
+      "published_utc": "2026-11-10T15:37:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbnA2OTE3NkxkVl96eEtjZTlmMy1JTk43bmtVdUhsZnE0Y1Fibm40aklVUFZMMXlEZjhPN295ME5faHNXaS0tMWlWTnF2T3BKY0tiYmZ1YUI0Y3BobXFHb05tLWY3cnhBNWNVdUZVMHBrUzBkWWRLZjRlM2E1WG5QSFROd3JTRUxCY3VwVm9lbWdMMy1vaHZ6VkNDRE04RUFWU1RKd2xSZmNyZ1JKUkV0NUluYjhVTFlQZWFYLTNJNndDVWNiZ045WGJ1bWVmWjF2dGR6eFhSZ2ZYNzF4QkcyejZBUTZ3QdIB5gFBVV95cUxQbnA2OTE3NkxkVl96eEtjZTlmMy1JTk43bmtVdUhsZnE0Y1Fibm40aklVUFZMMXlEZjhPN295ME5faHNXaS0tMWlWTnF2T3BKY0tiYmZ1YUI0Y3BobXFHb05tLWY3cnhBNWNVdUZVMHBrUzBkWWRLZjRlM2E1WG5QSFROd3JTRUxCY3VwVm9lbWdMMy1vaHZ6VkNDRE04RUFWU1RKd2xSZmNyZ1JKUkV0NUluYjhVTFlQZWFYLTNJNndDVWNiZ045WGJ1bWVmWjF2dGR6eFhSZ2ZYNzF4QkcyejZBUTZ3QQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.8,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "How India, UAE are strengthening their strategic energy partnership",
+      "source": "Daily Sun",
+      "published_utc": "2026-11-10T15:34:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlZCYVV0VnFzSU9nQUdyT3RiMGlPM3IzTUJGTHhnUEpSSVMyM3dRVWlwbkt0cno5ak9xeWt0bWNzVERvTWllaWFkNmJmS1B4MjhpTTRGUzlrZUlXYWJ4eU4xY2VlWGpWTXNjd1d1dk1ZX0dIZmo4YXJXRWQwYW1HM29SUkk5RjlDU1IyTng3M0pwN2pCRlBZTFZ3Y1RFdmdVRzRDTGpucHk?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "NSDF, SAI Partner with Indian Oil to Strengthen Boxing Ecosystem in India",
+      "source": "www.pib.gov.in",
+      "published_utc": "2026-11-10T14:05:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHNVB3S01QZEVOT2haVzdtZGVEN1NONG5Eclc3eVZXRXF6YU5oT1llLWw4QTBjWVV1ODdvMGFCbkRRSkM1cmdNTDY2NFJuRklmUTJFX19fTUQzT2xjYkgtc1Q5eTJIblp6V0ZfQTc5WE1pdFBxUHB5WkN3?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Crude drops to $91: Can IOC, BPCL & HPCL deliver a Q3 margin recovery?",
+      "source": "The Financial Express",
+      "published_utc": "2026-11-10T08:23:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ25SUE8za3VuT3NSSTB0WVBPdWlXR0ptaTZxaHBHck1hLXBoLVlLRjRDMXNNcC1zMFhIUUxWMmxBTFNKOFBiX3Nnd2hINmctTW5hYWw2SXhXaWlUczRvaVR3Qi12bWFWLU1WWV9ZQ29scGdua1F2WkY0MU9zTlRXNEU0TjBhd1JiZVptZjJ4OWNiWUE1cjdSOElnbzFPOHYySUs5d0JscHZhWHpXLVJpWGswQUdZRGlq0gG_AUFVX3lxTE9kc2xFZXNzSWhNNkJyX3BGRWpfaW5OQW1fazlMWmRNbzRZdjJoUGMxTlJwQk5YUk5LOUNnMFdCZHFydm04SFlZM1o5WTVfQ19BNnJabW9YdmU4Y2l3UG9GcWJDV0dESDUtNlc0Y1VEemczdVV5RGNlcFA0UzB4eGU2ZlVncmdFeUFoNnQtNjA0OGdKelVtRnNDWnh2OFNSSnlFdFVpaF9OWDBIdmVMYjczaXNvN1ExSkZVaXRCTmhZ?oc=5",
+      "relevant": true,
+      "sentiment": 0.9,
+      "material": 0.8,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Netherlands Says Difficult to Track Product Origin of Indian Oil",
+      "source": "JournalArta",
+      "published_utc": "2026-11-10T06:06:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmotNDJubE5Xb0JKWldOSnFDMlB2MXJDNEo4LXJWOTRtTERYcFRyZ0lwdEJ6SXJpTk13SVk3UFdtUzNZOEVGYXhDQnJGWXltWFM1d093V1Bzdk5rcnhjc0g2RHJ1LWU3dkZyZUcyWnoyMm1wcG9zX2NJelREd3JkUTdXUkt5YnNTcm95VGh6UldaWmc?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil to buy tankers as shipping costs soar",
+      "source": "India's News.Net",
+      "published_utc": "2026-11-09T18:26:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUWdRYlBHSXZ6R1dOaVJvUFpDRzBGNjFnMENYTGFQZDJxZERFRk1pTy1YckFqTk5RY3JacjhVRnRjOXF5UWFNU19qbjlIdUFYb0FyUzdoX2V6ZWJJV3R0eVg3SjdUZkJoQ0Y2WHpJa2ItaGdCdDlGUjNMbmFTZHBTRS1yR0ZQTEY3S1JqeGZTVEpTZkp2?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Indian Oil Plans Own Fleet Amid Global Shipping Disruptions",
+      "source": "IndiaWest",
+      "published_utc": "2026-11-09T17:19:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWVfMUI4YndHV29wTXMwaDVwbFhQSVc1MnJ0RU1nZzV3c0dhRXZKeFZQd2FWbGczSEhBdzd2RDRDamFWUU9RRVFQak43dUg3dTdEYXNrX0NuaHQxRXFTMWNfdHRhaVhaN0JROTRtZHRGZTlJOExvMXZpRDVNcXRaOVdjWWtGWS1IUGc?oc=5",
+      "relevant": true,
+      "sentiment": 0.7,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Karnataka Govt. Stands By Excess Ethanol Finding, Minister Alleges Oil Companies' Conflict Of Interest",
+      "source": "Cartoq",
+      "published_utc": "2026-11-09T13:23:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTzA2dU9SQnltLWpQZTFEdG94dUY1MHZsWnk0Q2tnSDI3aTNOak5fUWgwQUItTFRkcTNVOW1WRVNBZ29CM0lheEVzcnlHN3FBUTA2S1R4by1uMjByM2pfSzk2N2RXbmRjQy1UQmFIZkFsR3FUZ1E1OGJyb1lkYlRzWg?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": 0.443,
+    "strength": 1.0,
+    "material_count": 6,
+    "view": 0.443
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-12T13:06:43.898319+00:00"
+}

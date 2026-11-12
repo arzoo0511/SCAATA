@@ -9165,5 +9165,306 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-11-12",
+    "ran_utc": "2026-11-12T13:06:51.643903+00:00",
+    "equity": 10732.69,
+    "benchmark_equity": 11265.77,
+    "filled": [
+      {
+        "date": "2026-11-12",
+        "symbol": "ITC.NS",
+        "action": "BUY",
+        "qty": 2,
+        "price": 287.3999938964844,
+        "cost": 0.93,
+        "reason": "Adding to ITC: 27% -> 63% of its share; momentum against (-0.61, trusted 30%)",
+        "cash_after": 3202.53
+      }
+    ],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": 0.059,
+        "target_exposure": 1.0,
+        "current_exposure": 0.757,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 76%: no strong reason to change",
+          "trend supportive (+0.53, trusted 22%)",
+          "momentum against (-0.29, trusted 31%)"
+        ],
+        "views": {
+          "trend": 0.525,
+          "volatility": -0.154,
+          "momentum": -0.292,
+          "news": 0.276
+        },
+        "shadow": {
+          "relstr": -0.011
+        },
+        "value": 1624.6
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.114,
+        "target_exposure": 1.0,
+        "current_exposure": 0.741,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 15% of the book vs 20% target",
+          "trend supportive (+0.98, trusted 22%)",
+          "volatility against (-0.77, trusted 23%)"
+        ],
+        "views": {
+          "trend": 0.976,
+          "volatility": -0.768,
+          "momentum": 0.535,
+          "news": -0.357
+        },
+        "shadow": {
+          "relstr": 0.71
+        },
+        "value": 1590.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.432,
+        "target_exposure": 1.0,
+        "current_exposure": 0.936,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 94%: no strong reason to change",
+          "trend supportive (+0.99, trusted 22%)",
+          "momentum supportive (+0.51, trusted 31%)"
+        ],
+        "views": {
+          "trend": 0.99,
+          "volatility": -0.0,
+          "momentum": 0.507,
+          "news": 0.245
+        },
+        "shadow": {
+          "relstr": 0.69
+        },
+        "value": 2010.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": 0.009,
+        "target_exposure": 1.0,
+        "current_exposure": 0.545,
+        "action": "HOLD",
+        "reasons": [
+          "Would move to 100% but traded 6 session(s) ago -- waiting",
+          "momentum against (-0.49, trusted 31%)",
+          "news supportive (+0.44, trusted 25%)"
+        ],
+        "views": {
+          "trend": 0.227,
+          "volatility": -0.0,
+          "momentum": -0.494,
+          "news": 0.443
+        },
+        "shadow": {
+          "relstr": -0.247
+        },
+        "value": 1169.36
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.139,
+        "target_exposure": 0.721,
+        "current_exposure": 0.529,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 53%: no strong reason to change",
+          "momentum against (-0.66, trusted 31%)",
+          "news supportive (+0.32, trusted 25%)"
+        ],
+        "views": {
+          "trend": -0.077,
+          "volatility": -0.0,
+          "momentum": -0.66,
+          "news": 0.318
+        },
+        "shadow": {
+          "relstr": -0.465
+        },
+        "value": 1136.2
+      }
+    ],
+    "weights": {
+      "trend": 0.2177,
+      "volatility": 0.2256,
+      "momentum": 0.3065,
+      "news": 0.2502
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.276,
+          "strength": 1.0,
+          "material_count": 6,
+          "view": 0.276
+        },
+        "top": [
+          {
+            "title": "HDFC Bank Gets RBI Nod for Rangan\u2019s Re-appointment as ED",
+            "source": "PSU Connect",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-12T12:25:00+00:00",
+            "count": 3
+          },
+          {
+            "title": "HDFC BANK LTD. R (HDFA.HA) Q4 25/26 earnings call transcript",
+            "source": "Yahoo Finance",
+            "sentiment": 0.0,
+            "material": 0.9,
+            "published_utc": "2026-11-11T13:35:35+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank shareholders approve Anup Bagchi as MD and CEO",
+            "source": "NewsBytes",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-11T07:31:30+00:00",
+            "count": 2
+          },
+          {
+            "title": "Why SBI, HDFC Bank and ICICI Bank Are Strengthening Their Links With India's Shadow Banking Ecosystem",
+            "source": "Siliconindia",
+            "sentiment": -0.1,
+            "material": 0.6,
+            "published_utc": "2026-11-11T15:26:43+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.377,
+          "strength": 0.946,
+          "material_count": 2,
+          "view": -0.357
+        },
+        "top": [
+          {
+            "title": "\u20b930 Lakh ICICI Bank Loan Fraud in Ibrahimpatnam: Five Held, Checks in Focus",
+            "source": "Munsif News 24x7",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-11T18:03:42+00:00",
+            "count": 1
+          },
+          {
+            "title": "Five Held for Allegedly Defrauding ICICI Bank of \u20b930 Lakh Using Fake Documents",
+            "source": "Hyderabad Mail",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-11T11:31:08+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.383,
+          "strength": 0.64,
+          "material_count": 3,
+          "view": 0.245
+        },
+        "top": [
+          {
+            "title": "Petronet LNG (NSE:PETRONET) Q2 FY27: PAT Up 53% to \u20b91,235 Crore",
+            "source": "Kalkine India",
+            "sentiment": 0.8,
+            "material": 0.7,
+            "published_utc": "2026-11-10T06:31:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG CFO: \u201cBest Ever Q2 and H1\u201d for PBT and PAT",
+            "source": "NewsIP",
+            "sentiment": 0.7,
+            "material": 0.6,
+            "published_utc": "2026-11-10T04:27:42+00:00",
+            "count": 1
+          },
+          {
+            "title": "Petronet LNG's (NSE:PETRONET) Profits Appear To Have Quality Issues",
+            "source": "Simply Wall St",
+            "sentiment": -0.6,
+            "material": 0.5,
+            "published_utc": "2026-11-10T00:40:02+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.443,
+          "strength": 1.0,
+          "material_count": 6,
+          "view": 0.443
+        },
+        "top": [
+          {
+            "title": "Crude drops to $91: Can IOC, BPCL & HPCL deliver a Q3 margin recovery?",
+            "source": "The Financial Express",
+            "sentiment": 0.9,
+            "material": 0.8,
+            "published_utc": "2026-11-10T08:23:16+00:00",
+            "count": 1
+          },
+          {
+            "title": "IOC plans to acquire Crude Oil and LPG carriers as West Asia crisis highlights India's shipping vulnerabilities",
+            "source": "India Shipping News",
+            "sentiment": 0.7,
+            "material": 0.7,
+            "published_utc": "2026-11-11T03:01:37+00:00",
+            "count": 1
+          },
+          {
+            "title": "APCRDA and Indian Oil join hands to develop green energy infrastructure in Amaravati",
+            "source": "Maritime Gateway",
+            "sentiment": 0.767,
+            "material": 0.6,
+            "published_utc": "2026-11-12T00:36:00+00:00",
+            "count": 3
+          },
+          {
+            "title": "Indian Oil to buy tankers as shipping costs soar",
+            "source": "India's News.Net",
+            "sentiment": 0.7,
+            "material": 0.6,
+            "published_utc": "2026-11-09T18:26:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.359,
+          "strength": 0.885,
+          "material_count": 1,
+          "view": 0.318
+        },
+        "top": [
+          {
+            "title": "Gold Flake Premium Cigarettes To Cost More As ITC Raises MRP By Nearly 8%",
+            "source": "Oneindia",
+            "sentiment": 0.463,
+            "material": 0.7,
+            "published_utc": "2026-11-12T10:51:22+00:00",
+            "count": 10
+          }
+        ]
+      }
+    }
   }
 ]
