@@ -1,11 +1,12 @@
-# HANSEI brand theme. Palette: midnight #0F414A, maroon #7F0303,
-# alabaster #EFE8DF, tan #D8BA98, light blue #96C0CE.
+# HANSEI brand theme, dark. Surfaces are deepened midnight (#0F414A); text is
+# alabaster (#EFE8DF); accents are the brand's light blue and tan. The rest of
+# the look lives in scaata/dashboard/ui/theme.py.
 [theme]
-base = "light"
-primaryColor = "#7F0303"
-backgroundColor = "#EFE8DF"
-secondaryBackgroundColor = "#E6DED2"
-textColor = "#0F414A"
+base = "dark"
+primaryColor = "#2F9BB8"
+backgroundColor = "#071A1E"
+secondaryBackgroundColor = "#0B242A"
+textColor = "#EFE8DF"
 font = "sans serif"
 
 [server]

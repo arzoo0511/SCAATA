@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Does the live rule still beat holding on the latest data?",
+    "trigger": "Standing question: re-asked whenever the price snapshot is refreshed.",
+    "experiment": "live-rule-vs-holding",
+    "status": "answered",
+    "verdict": "inconclusive",
+    "note": ""
+  },
+  {
+    "question": "Is HANSEI's caution worth what it costs in a rally?",
+    "trigger": "Live, -5.30% of the -5.05% gap to holding comes from being on average 46% invested; stock choice moved it +0.24%.",
+    "experiment": "edge-by-market-condition",
+    "status": "answered",
+    "verdict": "not_supported",
+    "note": ""
+  },
+  {
+    "question": "Is trend earning its place?",
+    "trigger": "Live, it was right 46% of the time over 67 judged opinions (20 sessions ahead): worse than a coin flip.",
+    "experiment": "without-trend",
+    "status": "answered",
+    "verdict": "not_supported",
+    "note": ""
+  },
+  {
+    "question": "Does learning which advisors to trust actually help?",
+    "trigger": "Live, trust has moved from equal to momentum 31% and trend 21%.",
+    "experiment": "learning-switched-off",
+    "status": "answered",
+    "verdict": "not_supported",
+    "note": ""
+  },
+  {
+    "question": "How much does whole-share rounding cost on a ₹10,000 book?",
+    "trigger": "Live, the brain wanted 62% invested on average and held 46%.",
+    "experiment": null,
+    "status": "needs engine work",
+    "verdict": null,
+    "note": "The replay trades rupee amounts, so it cannot answer this yet. It needs a whole-share mode in the replay engine."
+  },
+  {
+    "question": "Do keyword-scored news days behave differently from model-scored ones?",
+    "trigger": "5 live sessions fell back to keyword scoring.",
+    "experiment": null,
+    "status": "needs engine work",
+    "verdict": null,
+    "note": "Too few days to test. Listed so it is not forgotten."
+  }
+]

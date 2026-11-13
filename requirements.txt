@@ -1,6 +1,9 @@
 # Streamlit Community Cloud installs this to run the HANSEI dashboard
 # (scaata/dashboard/hansei_app.py). For the full project, use `pip install -e .`.
-streamlit>=1.42
+# Pinned to the release the dashboard was built and tested on: its styling targets
+# this version's page elements, and newer releases are dropping arguments it uses.
+streamlit==1.42.2
+plotly>=6.0,<7
 pandas>=2.2
 numpy>=1.26,<2.3
 matplotlib>=3.9

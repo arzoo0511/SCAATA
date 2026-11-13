@@ -1,7 +1,9 @@
 <p align="center"><img src="docs/logo/hansei_wordmark.png" alt="HANSEI" width="420"></p>
 
 # HANSEI (反省)
-https://hansei.streamlit.app/
+
+**Live dashboard: [hansei.streamlit.app](https://hansei.streamlit.app/)** · [Architecture and roadmap](docs/HANSEI_ARCHITECTURE.md) · [Threats to validity](docs/THREATS_TO_VALIDITY.md)
+
 **An AI agent that manages the stocks you already own: it reads the news and the charts, trades only when it has a reason to, and is judged on one thing — beating what you'd have made by just holding.**
 
 *Hansei* is Japanese for reflecting on your own mistakes in order to improve. The agent keeps score of which of its advisors were right and trusts them accordingly.
@@ -11,6 +13,7 @@ https://hansei.streamlit.app/
 ## Status
 
 - **Live paper trading since 24 Sep 2026** on five NSE stocks (HDFCBANK, ICICIBANK, ITC, IOC, PETRONET), running on its own after every market close.
+  The live record so far is on the dashboard, including when it is behind holding. A few weeks of five stocks proves nothing either way yet.
 - **Backtest, 2020 – Sep 2026** (`python -m scaata.agent.backtest` → `results/hansei_backtest.json`):
 
 | Period | | CAGR | Sharpe | Max drawdown |
@@ -34,11 +37,39 @@ The edge is mainly **smaller drawdowns and a higher Sharpe**. The return edge is
 2. **A cautious brain** (`brain.py`) holds by default. It acts only when the advisors disagree with the current position by at least a third, waits 10 sessions between trades unless the news is strong, and rebalances on 20% drift.
 3. **Memory** (`memory.py`) learns from every trade with the Hedge algorithm: advisors that were right gain weight, wrong ones lose it.
 4. **Paper book** (`scaata/live/paper_book.py`) fills orders at the next day's open with NSE costs; idle cash earns a liquid-fund rate.
-5. **Dashboard** (`scaata/dashboard/hansei_app.py`) shows every decision, the reason behind it, and HANSEI vs holding.
+5. **Daily report card** (`evaluate.py`) splits the gap to holding into "how much it was invested" and "which stocks it held", and tracks each advisor's hit rate.
+6. **Dashboard** (`scaata/dashboard/hansei_app.py`, pages in `scaata/dashboard/ui/`) is read-only and interactive:
+   - **Now** — HANSEI vs holding, why the gap, where the money is
+   - **Mind** — replay any session: which advisor pulled which stock which way, and what it decided
+   - **Learning** — trust in each advisor over time, every lesson, the ledger of beliefs and what happened next
+   - **News** — every story it judged material
+   - **Evidence** — the backtests and studies, including what was tested and rejected
+   - **Lab** — experiments filed in advance, run through the real brain, and judged by a code reviewer
+   - **System** — what is live, what is in testing, what is only planned
+
+## Research Lab
+
+`scaata/research/` is where ideas get tested before they can go anywhere near the agent. An experiment's
+pass/fail criteria are filed first (`research/experiments.jsonl`, append-only), it is run through the same
+`brain.decide` and `memory.learn` the daily agent uses on a frozen price snapshot, and a reviewer made of
+code checks it: no look-ahead, costs charged, same direction in the tuning years and the holdout years,
+bigger than bootstrap noise, with the bar raised for every extra look at the holdout.
+
+```
+python -m scaata.research refresh          # freeze a new price snapshot
+python -m scaata.research agenda           # questions the live record raises
+python -m scaata.research run --proposed   # file, run and review them
+python -m scaata.research list
+```
+
+First results (13 Nov 2026): the live rule falls less than holding in both spans, but its Sharpe edge is
+just inside noise (89% against a 90% bar), so the verdict is *inconclusive*. Silencing the trend advisor,
+and switching learning off, did not make it measurably worse. The Lab cannot change the agent: a supported
+finding is only a proposal.
 
 ## Tech stack
 
-Python · pandas / NumPy · yfinance · Google News + Yahoo headlines · Groq LLM · Hedge online learning · Zerodha Kite Connect (read-only) · Streamlit · Windows Task Scheduler · pytest
+Python · pandas / NumPy · yfinance · Google News + Yahoo headlines · Groq LLM · Hedge online learning · Zerodha Kite Connect (read-only) · Streamlit + Plotly · GitHub Actions (daily run) · pytest
 
 ## Run it
 
@@ -54,7 +85,9 @@ streamlit run scaata/dashboard/hansei_app.py --server.port 8502     # dashboard
 python -m pytest tests/
 ```
 
-On Windows, `run_hansei_daily.bat` and `run_hansei_dashboard.bat` do the same; the daily one is what the scheduled task calls.
+The daily run lives on GitHub Actions (`.github/workflows/hansei-daily.yml`): it runs the agent after each NSE close and commits the new paper book, journal and memory, which the public dashboard then picks up. On Windows, `run_hansei_dashboard.bat` starts the dashboard and `run_hansei_daily.bat` only pulls the latest state. Don't run the agent locally while the workflow is active, or the two paper books will diverge.
+
+The dashboard needs `streamlit` and `plotly` (`pip install -r requirements.txt`).
 
 ---
 
