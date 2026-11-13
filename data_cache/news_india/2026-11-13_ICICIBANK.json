@@ -1,0 +1,414 @@
+{
+  "symbol": "ICICIBANK.NS",
+  "date": "2026-11-13",
+  "headlines": [
+    {
+      "title": "RBI approves Pratap Singh as Fino Payments Bank MD and CEO for 3 years",
+      "source": "Business Standard",
+      "published_utc": "2026-11-13T11:58:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMXQwVE1xSVl0bEJINkYwdV9XRGc1RXpJd2p2ZktrRlA5UjBxSWhYSFdqX0J2RVlYU1lGT0pfaG9XSkFkbTNGcjRXODI1dG8tN3lfck9LbVlYdUZ1ak5JQnpXSU5VOXJiTDBrUFFVSUFTNHFOTkktanhzTWdJU2ptNkJsWmFxMnFQY2dlUmpQX0dDRnI1eDJxSXBOSW9yQ1RGNHkzZzRXN295S1h5Q3NjNDB0a0YwM0tPajdTVy0xUVpjMEhkWmxzZVpxY2pka084bC1yQ0VB0gHbAUFVX3lxTE1CTm16WEFidFE4bnAxenpwUkZ2U2dUcjJhcTlGeml2SjQyNXZ5V3pZaHl1blhNd0dWVWVjYkdUTGU4QXFSal9oYmlCYTVFY2xidWNpZ0VoUmN2UkNLNXpIRXNPWHlWZnV6TTZKc2lOdnRrWDJTdVVRWmwtTk1ranhVLXcxTURQVFl2dTNpM2tFTHk3RG9uVU00OHdtRmdTVmM1SURxNnpBcFlfUFY1QmFSN3Nxc1JiWnh3TmYzYjRXR2F6VHR4TGxNSDZIYWg0YWV0ZFZJdWJObHZHMA?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Free Insurance, Movie Benefits To Go: What ICICI Bank Credit Card Users Need To Know",
+      "source": "Outlook Money",
+      "published_utc": "2026-11-13T11:04:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRm5SbDQ5WjJyQ240Y3pFSHd4eXctdnM0NGl5eWV2YUdHYUp6REdneTdSbmVjY3Q1NGF1R3JHRnJjS21QZUE2UlY4SUg2bTZlVnoxanBRNE45RGxra2tRN2ZPVXBDVmJOaEd3LXpldWRpeGxUZEdfMmE4ZkJxTzRPX2ZkVFZTUWZoeUJhSHdKYUcyRDBxMHBCcjh5eUc5bGZ3M29lZnRYd3NjS1JIREhxYnJDbjR0MUdkLXhV0gHIAUFVX3lxTE1CUWU0Qmd2S0dlU09ZdVhvUGNnbEt5WXBvVEw1RldfOFFnVVJPb05KT2swWEFyOVB1UnFqMzB2aDVfLWF3Um90M2haenlEUTZGT25YVGR1cmVUSUstYW0tTV9JQmN2X25ONEtTc0p3UWU3LWhJTXVYYmxZZDlldUN0eFM5VmNtZ2dZeEFhUXpjU0hCR2JQM0pKdWxMUGpDa0ltUFp5SFVTSERSMlZNRmY0NDE2eUFPT2pNd245aXg0VFdnTkRwcUhh?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Pratap Singh Gets RBI Nod to Take Charge at Fino Payments Bank",
+      "source": "IMPACT Magazine",
+      "published_utc": "2026-11-13T09:39:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMzhHcVcwVHdLV2ljbjlfUlRaeFoxZzBHNENsbzBWS2pIRnpXNmdzaW5KUFgxaUtUMEM2cS0wZy1rUWRQenFoekxWZzQ3X2JYNDg2SmZPc2hWbklSUTlvNzk0LVJpV2kyWVZMQ2cwMlhXbUNZYlBXQUl4aG9SX25PZnN6LWdkM1hPTDV6YWJqcHJMcTdxQ0dQNG1LY1FxbUJzMnIteXl4MHcxSkdxSld1MXhNMkNYLU5WTGc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank sees RBI hiking rates 25 bps in Dec | Tap to know more | Inshorts",
+      "source": "Inshorts",
+      "published_utc": "2026-11-13T08:40:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGNZVVhlMFRiampTTE4yZk5TRlZycWZBN2VndjhCQ0J0eGpNN1IwbVhMeHNSTjNKMHhVOHA2aTF1NkdtdTJEMXkzSE5NQWZraW9hNFplMU5oNjlOendfQW5aZ1RnMng5dHFWNzJfRmcweGwwenM5QmRDYnp5eDg0ZkNEQVg1V3ZUV2pURFNoSEp5Q03SAZgBQVVfeXFMTzVTRGNjSk1uS2pNaEdRRWxiN0x6Z2pGQXJkT1BrbXUxOG1uWVhLSzV4VUF4OTVGaEtxVTRJZFAzcldJeFIyNzZkQXpqc1RtOGVfZEE1aWM5UzdnbzMtWGpKMmxaVk5iV2c1ZVBPbml2M1A3TXl5RGNRMVY5NmZOZWQ1RXg2WkdUQ2ZEU2hORFJGRUNEV2NPVmc?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Fino Payments Bank Gets RBI Nod For New CEO, Pratap Singh To Take Charge As Lender Eyes Small Finance Bank",
+      "source": "Free Press Journal",
+      "published_utc": "2026-11-13T08:27:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaE1kU29OZEQwVGthWERnaFRXYUZ5Y2dSM0tLTEU5alhBM0REZlQ4c1huSWp0NlRKM1NLQUotNGdCeVBRMGJKeTNRVGF4UUszajNYQ2lVaHBnNkRwWDJGcTZjaU9xcExDZ3RzZ3NVakR5WUhMWHVoNlNycnozOFZjZjNQWnNGbFdDMXZTa0lyRmtDS2trenlxYTBwMTNLWmRidTFEeXRJbFNXVE5pdG0walpTTjNqMGc2Z0NYWjBTbzRjUHhESnhLcEJ1bFBNeDVXRlFqblhJSkpSdlQxR0hiZk9Vd3dVNzNTV2lHSVF30gHzAUFVX3lxTE1mYXBTR1RiSXhBTERvaFpMaE9ERVpHQm9lcFVqUE1pR3VSdDBFWEc2THFyTGRJTTFxNUpQaGROc2w4c1d0RDFPTGhkckVZa29RRWVnNENVM3Jtb0pPMUJQbmVPalhwQXhlUXZZdXJTVVdwOFZQMURBVW5YekVBQzEwQ1ByTjAta1hScUQ3cWN5eFdLSHAxa2k3aWRaWUczZVZEQWlSY1ZpOTdPQ01la2lCSWluVWl2NmVqd1BINWs0MW9lbEgxVUQyWDV3MVhTekR0Y1ctQnE5VzZTbVVQcVA2VFhtdWh1ZTc2RW4wckt5V19QYw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank credit card changes: Higher fees, insurance & movie perks to go",
+      "source": "Business Standard",
+      "published_utc": "2026-11-13T08:26:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2xGQV9hTlRxTUF3YjhNSno3M2JWWGEzWDVoeEt4elB0VlVhRUNXM1V0cE5od1gtTjM1OXBjQ2FCQlZoNHVTMk5oaG83WU9ETFJzSmZXemo3RjRNcnFjaGdTbHdUR3NBeFFialpwQXJkdHFEZFpma21mWFdxaDVKcHBmRC1RWWdiX205R1NXT2htUDl1RmJ5VkJMZ2E1eDFTMUF4WjI1VS1Na1QtVTFWRXNsNk80ajF2UDZfSW5JOFdDYkRDNXJmMWtsUXpZVk1OWFpzN3ZfUzFlUlFLZjlQam04QdIB6AFBVV95cUxPcko0V3dNSENkOHNVT0k4RWFuTmNDa1dxdW15NmNvX0kyYmJjQ0JadFNlbEl2alhmLU1zTXFWZzB5NWlYbUt6QmEtdjZEV3pueE4xZUlCWnlZeG1DRzZOWHdyR0RvcTljV09NVUh2WVRrRWp3MU5mdVFRNVlKQ1BzNHJ6TGZYRTZCLU8yNWJTWUxZMnFBdGN4UDM3OEM3VTN1WmpIWldEamhBZDROVHBVejUwalpEZG02bnFOZzVTZVVMSktEVHk4Rjl5eWo5bFE2TjFnY2pfTERfanZuM3JWMWFkQmp1aDRZ?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI Rate Hike In December Likely As Inflation Crosses 6%, ICICI Bank Warns Food Prices May Stay Elevated",
+      "source": "Free Press Journal",
+      "published_utc": "2026-11-13T08:04:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMGJreXpFQmlQTjZtb2ItWjdFTzZBZ1lQX193SU9BYVlCSXlnTnJJOW1zb01KWTZ2dkV4T2g1UE1DdkJfZFNoWGswYlpidmQtWExQNlZVNVFHN3ZSTzhvNDgtb0tIV0JxbTQzS3R6dGYyVGwwdmw3VFFPcGxuZHRYR3FxZUowY200S3k4R01mbEZEXzIxSmZ6SnZUdUR2bmhvN2tQUXBadzdrSFN3a2ktNGs2ZjJMak1DaU1WT25JU1E1bmc4TEQwTlB0aHVUbWkyTU5OUk5pdTVnVlHSAeABQVVfeXFMUEd4RTd4QVlfTGNBaHNFcXlmX3pEanNMT3c5NjBCb2ExZjFlbkNNaEJWT1BhcWlSUmlUeFN3OFdHU0lKbWYxUVhvS1VEM3RvdV9nSVZCYzRIdFpFUTdOZnBIakd4WjNJN1RFX25oSnI2bkJ5dHpjejM5V2tIdW1NWjZxaTZldVhLZ2lScDdSaklvZUVaZkJlZ3MtOFB2R3kzVlFnYXpDUXdvZVFFMEhGTWV3aWtQN21KY1ltVHdWOXZ4U0pZTkowYTV3V0pHamJITjluTU8tMXhwV0U3SFBTQzE?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Fino Payments Bank appoints Pratap Singh as new MD and CEO after RBI nod",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-11-13T07:39:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR2w4Tm5mYTJNR0RvMlhDamZrTk01MHBLOFZYakZUeF9IQldBSWV5aGZVTnBkSlNHQnF2RVVhZm1ONWZoeHNLNV9hU2FnRUtaTzhJZHd0UUY1cVRwUW1NYWFGVXJOMVFibFNWOVFmVGJvM3ExeFkzbkRmdlhVaS1vVEN6aWFpUXpMUVkwUUJxWEo0MHcxOWJzUThfNDBtTEtaWksydVExNnpCX0loQjlER1hFcGlmOHBrWGQ2WEtEQnlVRFRGeEx4Z3Rjb1hTUmE00gHWAUFVX3lxTE1zajEteXdIeC1pMGtXdGQteER5TXF5RGpqa1ROdTFKSDNSSnJrVGJkZEhaaHJKcDdURlZCZTEwdkYxY21lY3k1SFhScHpVOWtQS2t0WTBqcXY0LWFxTlVuR25FLXhmT1UyMGRUcEZQVHJUQ1Azc1R6ZDhCQ0JpZndZOVd2SWxNbVlzYXhVdEhwRTF0ZVVhZUl1ZkZXU1pyREtxczRCM21IUFZCS2o3MTRJOG8tQ2FqbVN4UUQ0YThYMm90TUNkQjhzNGZIWDAxMW02eUJ2Ync?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Food inflation to remain high for next few months, RBI may raise 25 bps in Dec: ICICI Bank",
+      "source": "BusinessLine",
+      "published_utc": "2026-11-13T06:39:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLWJKR3kyUkNMLTRtT3FMX3ItM1RQSjZrdnEtaHcwZFJlUWJJdGdRQ3k2YUpCRVZDSk00UldwOVE5d0Z6VElpc1I5ejg3WGJydjdMWTV2RGJJNXZXTlJTd3U5R0dlV3dvcjM1SkJJYUpiUm9xTjR4NmlWT3M2Q0gzSEpUcmV2Si03OTlyb3VqZDIwVXZObVJWa0hMZ0s2WkZmcnlUaUZ0WThKZ3hKMXl2aVJYQm5SWk9LWW50R0dRMGhHTnAzM3V6OHR0OEdWZU9PNUVNdmpsSEo2SUdzRS11aXNWZ3A1ZGFr0gHvAUFVX3lxTE5ZLUZpYzQxZ2UwREs0VXJHdWVSYTUwS1NGcFRBeDlBQm45LTdvY0M4TlpkREJTa0txZEwzUnJ4ZkRBZkJwU1BGOWpLcmdTMEVvaEw1UmpaOTRWbjVPRVcteWRlUkNNbjJtR1p4NjFveGpKZmY0MnZ0YThULWFvV0taeDhZZTl1ZjdsNV92OUd0LW1BYlk1M2d6T3QzeHRDTnFkQktaQ2tDZ0ZXRjFFeThKcjFXQVVjX2s1N29wZVZxR3VMbEZGTjd0WWpBSnBqb3ZIQXM3V21UVTVfWVNIdlFUXzU2dGx4S3YxOU9weG5n?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "S Naren-managed ICICI Prudential Contra Fund unveils first portfolio since NFO; 34 stocks held, HDFC Bank",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-13T06:38:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNb2tpMzBlTjY0S1psRUl2cDBqSlVOTFM4alAzY3c5OG5JNWxqVUVQVHROYndnV29FdEx0ZXB2cFoxT3JqWEZ2eDA5Tk9lUGhybFl5b1Q3NmZTMHpFemJLNFNvOW1DZzBPeGRIRU54cjhvOXZ3R0J3Tk02SEo0ekV3dkNMNGYtMzlOSTVRUTlHZlJUenJWNTdjejc2TWlCWDNHOVlNLTgzajE0RnNvOHBNYnJ5dHBsU0oxa0M3Tmp5YnA5MkltX2dwLWlreDg1dmlwUFRTcjdTYkVxTGJKZEZacTJNUXBmd3RqS0thc1NvNndmV1g5MHBjMFFWcW5OUkJHYXNFa3FDeV_SAY4CQVVfeXFMUElOY1p1cFpYcVBtWkVzb2dYVUJNVDIwRGctdTdKUTViMFZKMVNwSV9ZX3h4YzJKVFJsVUpaNXN0TUNtcDBDN0RHZXZxZ09wTHJPQ3NpYzJZOFAxcGZVTHRlV1BxSjVYOU1yNFBiaUZqRWduTFR2V0YzRGF3a3lQSFowYlh4RUtDSFI0bGJpd2hZakM3S0dGWDBPaFB6NUQwN2phUWliek9DeDFsVDFYdmZwamZVR3Q3ejJRZHk4cWhrNFA3QVZHMlF5MlRnLXd1ZEdsV2dTRVltMW5wUDJsU0M1X0FsX3BUdkstaEp6WmU0b21ubkZtT1NGUWJ6c0tBZ0diUEk1S1hWNnpuOGVn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Credit Card Rules Changing From November 25: Insurance and INOX Benefits to End, Fees to Rise",
+      "source": "Times Bull",
+      "published_utc": "2026-11-13T05:40:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2w4WjlpRXNHc3Bsa2pkLUtGeU1KX0k3RUdXQVI3c1gwVl9lcWJKMmljY0lXTmNQQWhvWnJFVnlTWVd2SDk1WDhaMTZLLWJyYUFJMnNlMWM2UVZ4aVZra256bzRhWlUtOFFrN3RfSzZqSjY2QldxbEVNY0Vtbm15MXA4VGk2UUE?oc=5",
+      "relevant": true,
+      "sentiment": -0.5,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Food inflation to stay elevated; ICICI Bank sees 25 bps RBI rate hike in December",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "published_utc": "2026-11-13T05:22:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWDMtYzNwUnlQS3V6Y3ZseTcxRlVKN0dWZXp6S2JGN0tOLUd4UVZQZFFyMGVyTVZ5OGlfZ3dBSE1HVUZ3NjZseFJ3V1k5UnBmQl93Sy13QkREQ3ktT1YzT2FZVEItLXg4UnBYQnQ2OGVsd2VJbzdSc0phN3pVRHVGUTZ1aXRCTUhkM19XRnI1WU5TQ2tLbW1wQ0tYMmVBUEdrT2JFZXdLSHJra3FFQXhfYnotZzRZdEdWRmlwNU1TYlhwOWRHV2JoTDJSVmVtNXJVUjZHVFMwWEFfUHpHenfSAd4BQVVfeXFMTlgzLWMzcFJ5UEt1emN2bHk3MUZVSjdHVmV6ektiRjdLTi1HeFFWUGRRcjBlck1WeThpX2d3QUhNR1VGdzY2bHhSd1dZOVJwZkJfd0std0JEREN5LU9WM09hWVRCLS14OFJwWEJ0NjhlbHdlSW83UnNKYTd6VUR1RlE2dWl0Qk1IZDNfV0ZyNVlOU0NrS21tcENLWDJlQVBHa09iRWV3S0hya2txRUF4X2J6LWc0WXRHVkZpcDVNU2JYcDlkR1diaEwyUlZlbTVyVVI2R1RTMFhBX1B6R3p3?oc=5",
+      "relevant": true,
+      "sentiment": -0.2,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Jindal Power taps Axis Bank, ICICI Bank and Exim Bank for $470 million Botswana loan",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-11-13T05:04:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM3NWSC13bkstNEZLbkNmendwR1lza1VzZkR4QkRKQllYMHVmam90LVp5WkNVN1h6bnp3eE9KT1V6aTlXemZPT211T2dVUWI5NDRyTVo1cU15endrMkFXN2VESUstZ1Z1UlQ4QnFteXVXNlZtbXUxVWV0WGwwcGZhLWNoNFdVNnp0SGt3VjBWZnFQamZtbHZPTEZHUXBnWXpDc3QxM0FpSXpJRnVSMGgwQ1NVSkNZMlRteDZmWEh6NVdCbHRYeExuRlJzT1dhSlFsSWJld3dR0gHbAUFVX3lxTE5JZVc2WnFDS2ZoQUxQTGJLNHFGa2x4RGZIWC1UTXZJRWNJTXdGMVBLc21HVXh6ajZIS21TamhrRTJ0M3JSX3M0bmRBUkJOVVlmeE9iOHJXYUNmeHh5YmJOU1dQNnhENFN5alE3VXlCZ21kUkhhWTJxQUh5RzlBTl9ERGdyc0FCUEU5VjgxQ2V1RGVSLVRBb2RXdFdLVEhuN2xiZkpHalhFZW1kQkZhREZoT2tTSEthNFI1MkZ0Mkt5NUpqLTBLMjUyYmRPbW5KUXl4Z0Q2WWlyN2lmdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Fino Payments Bank gets RBI approval for Pratap Singh's appointment as MD & CEO; stock in focus",
+      "source": "CNBC TV18",
+      "published_utc": "2026-11-13T01:56:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX2tFYi01Tkp3bDFrcUstVmRacjBDME9EV1dCbHE3YWFGTkdNTzVrNDJuTkVONUhmZmdvX01HcmpPUHlxVGp0ckNVZW9YWVBJWW9MajJNSTI4NDgzMktSdFNHekdxdzFQMnZQVWlZZzdTUFN0RGQtM1VSM0M2RUUwVVI2UVI3UzNDWGdjTzM2QzBWZ3NVUnRnOFpZNEpLQzNHR2JlUWIxZVhmX2pYWjZOc1NONEo0QUhWN09RWVVfS1JZd2RnM2Z0dFZWVkbSAdIBQVVfeXFMTlVZR3dSNXpzQ1FiZVc2RW5QeWV4dm1od1VmSWk3bkhpOGNxR2hNSUV5Zm5KTUQ1V3JZb0xHYmtaMjFBYjRZNFBaV3hrS2M0LXdsTTNVS2dvZHVqYW0wcjJ6MzdEaERHSHRkZDNVU0k3bmlyTVpQUEs5THBqWFBGakVQRGh6dmlvak9nd0ZaZjdPbHVIcy1aT2U5aHFJTVJEWk1EcGs5Q1cxUXhMTTNiYnc3QWVKY1VHY3RBX2lZS2ZKdnNIWmVtdmtEZGtPVUZ3NkZn?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday: Will SBI, ICICI, Axis Bank and HDFC Bank Remain Closed Today? Check ASAP",
+      "source": "Times Bull",
+      "published_utc": "2026-11-13T01:55:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejZjeWlkcUR1SVFYQU5DSjdmV0tLLTZfZFpXOGJQMkwxa3JWRDF2eWpjWXRRT0lhYjJPRzF4dURpT2lLNWlEbDVWT1dGRXZvZjJsUzJXR0pqSVl1dVRmQlNwV3ZNVVNNRzJWaUJoZVFUMk5OenMxT1NiYW9VUU5OQmxvN3dtdmJxTzhxcGN3Vkhoc1lfRlY3TTJpYmZ1cUNfeVZoU3lEVVZtM2tCUlE?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today: Are SBI, HDFC, ICICI branches closed on Friday, 13 November for Wangala Festival? Check RBI calendar",
+      "source": "Livemint",
+      "published_utc": "2026-11-13T01:50:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRXV3N2lLLW1OMXRmUVZYdVE4TkdtMFVHZW1VT1pmNnREOEVmbGtRMTR5RWdpei1fZFVaMm8yblM4ampVVE5BSTB4S2JoQW5oenozOUJJRk1pM0t4STdDbG5TRlBkal81T1FZN1B1SF9hc1ZCTlppeUlBaWtqTlFUZHJLWlowWkdHM292cnB3cTJIVGgxUEdUSU9UaXpwWFF2Vld5RXBIMG1fOS1LWVc2ZUxsYUJmdDZoNjEzdmI5RkVUZTFlX3Zzak9FazdxemtUbXRzd2hBYmxCdmJxVGRLT0xiMGlPX08wVXVqckNCX1AxSVo2X3c5SnBQbkgwd9IBgwJBVV95cUxOUmZfbFlHenVkOUxHeHZHYzd5a3RLbHlGSFFuVnY4MWVqdFZNTWsyZTQ3VkFtTDMxQlRaMWZEdXhDZVlNTEhSS2IxUTQzOVpCTlVlQU56NWpUWGtsZ2pfelVfNFlzQVF2cnY3bGJuNEJoTDgxWlA0YnFWZ0NGRWJfSmdvMXotY3FqQkR1d2F2ekM3Y3VzNURqLS1aQnVIeFFNb244VjVMZERoX3MxUHU3ZTRseW93d0xwWnFKdGhDWnlvODJkZm8wenVLc240OUFPZG8yemNITV84ckw2NVZXN29OVjMxOXhQZGl2QjRma012aWFJb2VxeHVFZzE3MDBmbnh3?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBI approves Pratap Singh as Fino Payments Bank MD & CEO",
+      "source": "scanx.trade",
+      "published_utc": "2026-11-12T21:43:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd1FfLXI4WG9VQ1lFTHJqcXZ1b0N1OXZ0RHlVb3NRa1I5UC05OFBhOGQ4RUZPR1Yzd282aVlCUjQ2d05qdWNLN3liNS1pTTBYTGpjcEE5YUlKRk51T1prMk82XzNaWEJZWnhfX1pGQzJIYTk1NDg1bExWMVhwYjRwWmN3OVh2OUp3NTFWdjRhcmJaYjJ0dnNKc2NiTzRRVWlzOVBDUmJ4SktnTkF2?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Share Price Prediction for Tomorrow: 13 Nov 2026",
+      "source": "Univest",
+      "published_utc": "2026-11-12T15:41:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGdyTWR4QUN1dms2ZmFHQm5TVkhLYnRGX0wwSmFlS000aURReEdtX2R3SnF3UVhtSF92QnNDZk9JejFSamFtYVpOcHhpejl1NWl3TWlRcERISERldVBfYWFwaGpFV05EYTEzQ3cwQ2lGYWtPemFWbEx5SU1kZENrNklCYWNRRVIzREdvR0VKbjIyQQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Large banks raise FD rates by up to 50 bps; highest return at 7.55%",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "published_utc": "2026-11-12T13:43:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeW41SHhxNmgtSmd6Y2JEaU44aTF4UEZYaFhISkdqVmtXaVhJRU5qX1k2U3J0SU9iTEJncE1BZldVWmtnaDRQbHBfZ3EtYndVcEN6Q1BuY3JvcFBTUGdici1YOHEtZzAxNXU4cVVCT3h1VkdlbW1PNXg4UVNwaDVTbm5TOTY4MUhRUlRrS2xvZ2VnSS03d0dzc2tRajI0WGkxVlB1VkZfNjZ2bl84X01DTkNQVHg2dmVTVW9iYjlfa0VpUVRG0gHKAUFVX3lxTE1kaHhtYnVmeTRpRnRpUXB5RVRTTHRnZklweFJCXzhLbEZ4UFVyZjQxOU15TkRHRXZfaVdSZElycFp6ZW9zeXhuWFlaUjIwZk9lODQxb19pZldWREJ5c1BYdlM3a3lFSXpacVFCTGRyLW5ZdkU1NV80ckg3aDc2aEpwNkY0OWhrcWt0M0h5ekszODN3NkxiRE5Yd1c2a1ZDeVd6cU1iYXNlSjlFcXRfeGozWUZtMkcxd0huRlBhSGoyMWE5TlVVeUNuclE?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank adds debt investor meet to Nov 17 schedule",
+      "source": "scanx.trade",
+      "published_utc": "2026-11-12T13:07:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWVBSkgyWkhZUmkwRXBiNW5LOG0tYVB6RDBOdGJaUlliazl5a1NtUUNYYU9wZW94cUdpR3BkYXlqLVpHdUhjTndERUJ0V2NUb2FuTEthOVNJNEl2U3Q2RlRMbFlUb2dPRmZYRW01c004dDZua3lGZkgyX3NkakpFRHVleDVncGNwTl9tajRuSldwNUdFZktTZDlzckhxNXhTcVJ5UTZYZENLTXdfS3VjZjRYRQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.1,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank schedules investor meetings on November 17, 2026",
+      "source": "InvestyWise",
+      "published_utc": "2026-11-12T12:49:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kbjFRZUNvQ0g2U0VfcTR2OXlyc2gyRU9NYVJIekRnaDlpU25nTXBpYVZvdWdXTE1NSzRXSE4wV3ZScFh2S2dLSHo5bkZvNlVVVTJBX2VZRXBhdDhKTlZyc2VONkVQWjhja3VDYmU4RzZDcWhnUm1rRzR5bENjbTQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.1,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Chhath Puja bank holiday: Are SBI, HDFC Bank, ICICI Bank, PNB and other banks closed for Chhath Puja?",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-12T12:20:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcUlrS3VUdWdHMzNFbEtZMC1CNjI4b0J0RFpzdDVIbkRMZURfeERrMWZsbG56T3g5cjdzbmxpeTd4SC1kLUh6X1l5ck9Kd0dBRTlnaDc2QmFXZW93X09fSHhaX1l6RVlsWjBXWlgxRmMta1pLZkNqbGY5TTd2Y1duWmpFVXJ1VHFrNjh1c1h6bmptd2t4blBma0tGZGJVaG1pSXQ0dDJoNjMyakF2UVJyQUJ6MGFiVklSaWcwYXN3OFRFcHZVWG04LUlYU0t1NHZWZml2U2pWNnBMcjdpR3BuSWVwelA0ajJ2cFlpa3J3dzNYR1ROQUZkbnVQekJsems0M1EyNWVpTHl5bWM5UG5F0gGUAkFVX3lxTE9NWXJZTzF0WDFLYTlkY3dNUEJCZ0UweUdsa3lzVWVvOEc1VzhKUFJadFJGeUtITUQ1OWswYlFoVmYtT2tMZV93YlVwT2lWLUtDd3cxemZiUmw1VHdHZ28xYy1HWDdzSGVNTWR6N0VUTldwUnZ2MzVSOVMySFlhZ2JjWG9PZWVkVlFGZm1ZN05iSHZZcnM0QVRvRVZPNmhGY0pYbDBNd0p3dDc3NFpaUElPRzdaeXUzUUZDX05YN0tZdG9QcTRCZ1ZtZFJPaldWdFQwZFFGam5GZ29WaGdIbFc4OENnZ09uNGJFamE4TFdCandCb3VtOFpLOUJ3VHhlS09ySzRmSkhKd1lWa1p0R2lWc05UUA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Credit Card Rule Changes Late 2026: 4 Checks Before Dec",
+      "source": "Value Research",
+      "published_utc": "2026-11-12T11:36:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1lMTmFrWWIzQ1NvRkxpcmpqU1lyaUdlZXRRLVhkN2c2dUY1WURoRDlYbktSWGVvRmJOd2c5OEtzNjlfNUdPbEpMWndkV3ZHXzFJRVJsRkNiZVp6dkpOWUtBeDd2MnQ4R1pCSzdvZ3QyNUZjRnctVV9jTEJXTjhaNlFEWWFlTjZYT0VoS1ZhYjNVX1hRcXZ2LWw2R241WTdIR1pQSWFB?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "IDFC FIRST Bank vs ICICI Bank vs HDFC Bank: Which bank offers the lowest personal loan interest rate? Find out",
+      "source": "India TV News",
+      "published_utc": "2026-11-12T11:07:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX01DSEFrclA2cUJZMzNnUXF3TkhMN3B3YXdid0lPSUx6MUtlTVc2THNfZ2JnOFVlWVlsQ2dHQ1hVM0xFQndiT3FOa0hPN2MxTWY5VEVfdHh1Znhyc3pJVGVUOEtfRUFwTjBpSDBFUmRMVGp2b3RZektnN0ZwYzI2VlRrb2VqZEtNX1ppUUcyb19zLVBRWHFhbG9wZnlIT1lPZElUWngyaWV4LWVrTEtLdGQ4N1B3Z1dUZDd5SmtMR3dmOXdGVkJOMTRRWjVTcEFQT3BWTXNhdVMtYkZBNE05S3Nkdy1CbXplSVZKaXNibEhEQdIB9wFBVV95cUxPZUFZX3Z2QTZ3X2hSNVhNYThHdWI2M18zTFFiY0ptZmRaMHhEQV9xWHJjSzBiWVFmbk1QbEVDTWpla05JTXM4UEdWcV9XMTQwbWx0MUZMcXplRlZCTDlzTXcxX3BOLVh0eHJaQ21HSHpqeWxoMEZxVVNGTHJXYTQ0Q1VGUXV1VGlKZTlvd2taeXdfSERxWGNmYmdmb3ZQbFhVX3hydGtnR1J5c04tVUVUb3laYmo2RnpOc1F3bXdwblBkVzdGN2w2MlFibHJIbzlmRFFLcnAwRHZjb0ZRcXBHZlVWcEpkTm5fc3ZqME9WVHRSUzMteEo4?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank credit card rules: 6 key changes coming for cardholders",
+      "source": "CNBC TV18",
+      "published_utc": "2026-11-12T10:55:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT2xJVUpjeXlGUWxpQi1fLXQ0bkZGRm9PaklsYXZMYVdKWmJUZ2U2ZEo3NVZuTVJ4UFFPZTczV2JianNUX3JBclhQNzhxUWZOeGs4b1FSWDFfSzhCNnJJenJyRzRIZlJVMVhxdGM0NUE5RWpFeWRFdGs5a1ZUaEtnRUFQMy1TTkdwWU1GZXhzQi1ZV0I1S3l3ZW9uRVh3ZDhIcUprYTBUMlBwQ3hZUDQ5OHY2VW5QZEVhMy1xbNIBwgFBVV95cUxPX3JxNktoY2Q5LVRCWXVfNjJPQVpxZlpnNzEyalJpbjZwMlRLX0xBMkw3R3FPcm9rVW5tTC1ZM0tjYnpmTXZMS2tfMUx6anlHZXNxQzV6NUVoaEV4REQtYkl0cy1EYlJ4Z2gtUlUtSlY3WkhaTFc3cHRkLXNfMnNZNDRSUm8waHpWaG9IZ1NnbEh0ZnpaUjVmLUxUQkZfSko5VEprS05RelVnNTJhWVdlVWFvS3pqRVZ3dE90ZDlqRlRZdw?oc=5",
+      "relevant": true,
+      "sentiment": -0.4,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank credit card rule changes in November and December 2026: Higher replacement fees; insurance bene",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-12T10:06:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPSDFPcDRKWVpNZW1tZ2JxdFk1NzNfNzVhQmFSSXRfNHRRMWJsUFo2NXhrOVNUNWZHYllwM3pocU4xYVMxNTlFa0l3dTR1MW50UDlpUXp3NlRiTGVQOXk3Y2tjTUdfRjd3eFU0bWcxY1JCRmNqNDJjREh3eUpELTJWQzdNcHpNd1djY0pZU3hycE1wUElsMWlHRnhGc3pnaDZYcTNRVG84SkZJY1Zua3djdGVKYXA3ay1uMW5TSGMyd0VwVE5rcXBnR3JBZWJZY2t0UkF2U3YwRHNfbHh1Y0lFanhvYmtSLTdJT0FuX2FIVWUzUlBUWDdta18tV2FFOFU0eUt4ajJvSFU2N01xTWpRaldUSjlPdktwRER1V29BSDBDNVBJc3hHYzhUT2RCSkI3TW5UYklTaUJVRFFPc1HSAcMCQVVfeXFMT3F1MW8ySjB6aUZUN0hLVmFYYmpZS2hkWE5waTJEdVdUS3VIeVpyRXhSbGcwNTBHOXcwYzVFeWFnaTE1aUo5LW9kbE1RTUJOYUk1ckpTV25VOFZLcTFQcFl6QjRwOVB4cW50Z25pSGFwUTR1MjVjM1FZZnFSamVFYTNMemlXWjlTTFNyRDZ0bnhuMDRNUXE2MWJyd3hqZm13WWl5THJqQ0VpUjNrejZuUjcwbEJiTWJFMEljcGZFOVpHRmN4YzFWQnV4VXgxbkNUbFlfTG9LNmdYd29YS1NxZWtOejNDeGhOMXNqcVNKajBuU1VpRllOWFlXSEFmSFBuMFpVamxidlh3Q0NVLUJTcmNESnNmTnVGaHN5NWtsU2JkVFNocjdEV1N6NGw1UlVqRWRsWFVyZDZ1Rk4tbHZvRmpWdWc?oc=5",
+      "relevant": true,
+      "sentiment": -0.4,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Limited (IBN) stock price, news, quote and history",
+      "source": "Yahoo Finance UK",
+      "published_utc": "2026-11-12T08:51:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EaUlLVUM3SjRHZTN3MHo5Q3JlWGVtaTdnTENMVnVpVURlUDVway16ZVJhLWE1bmdwREgtREZfSTVVdk5Ka2xwdURQenFCV2ds?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank Holiday Tomorrow: Will SBI, PNB, HDFC, ICICI And Axis Bank Remain Closed On November 13?",
+      "source": "NDTV",
+      "published_utc": "2026-11-12T06:26:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXgxTzhEbDVWR2VlbVVQU3dFQjRyU2tZRERKV0tZYWZKeVVYUGcwTWVNVTBkUVVXVGZ2OXYtZHhTaGktZjVidlV2NV9NanBvbTZ5RERDeWxPdDJrU0kxNGJ3UDdrMHJWMzcyZF9vQm1MUklpRzg1WnpIVXprQ3lqZHlwaUNDT3Z3N1A2azlkM1hYNkdNVDBkQzBvY3BobzJDTXdfWUZYNDhnYXZVVHJ4dWMtOUFsWGRVTUJnOUQ0Nl9keTNJ0gHMAUFVX3lxTFBLQXlGbHlJajlZQmV2eVNWNnNjOTVqenBLYnRtc3UzWlB5VE5wZVlJdy0xaFBSMW4xQ3l5SDVkX0ZGRGE4SXRRWjhSNTk5SHRqRi1nZlFjZm1JaGJOMXN6YkJCNEhIRFE0VnpSX2cwSWl4aUtUbExMeUQ2bFVETUF5UXNreGM1RzZGRkVwZFNqYmFjeWswNFBQN3N3c0R4bFJHUGlua1lYMG90eXY5RGI3YTVyRXg0UWNHOG90ZzZxVm8wOHZ5ajM2NndjRg?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "4 banks revise fixed deposit interest rates in November: HDFC, ICICI, PNB, IOB; which offers the highest rate to senior citizens?",
+      "source": "Upstox",
+      "published_utc": "2026-11-12T04:53:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVk5Da1RfYlRtUEJFNnJHa3ZzVkV3dERhcU5yWThVWjRlRnRXSHo1c3R6YVhNbl9hRHFQWFB4enpBeXF5ampfYzVXODFmVmNDbmJrU2xabmxjVEgzQzZpd0lUdEstZTdZa3BydzBRUkFoOWY5MlhoLWt0U05uMFpaZ0N5dDZCcjBnS191UXVkWVEyQlVDa0kxc1U3N3J6WXdUd240OHlEQk1oNjZFSHFGVVhEaDVlbjItck1YNF91Q0Q5amMtY3M1TDQxMzk3ZFQ5U2xLSDlSUzlzYlIwSjRMRFBwZU5RcS1jX09TRDBfcW8xQ1NXc2piZ19IcXAxTW90eUlYa0p1b25RakJmdVp2YzFFUkVPZnduWHc?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Bank holiday today: Are SBI, HDFC, ICICI, PNB branches closed on Thursday, 12 November? Check RBI calendar this week",
+      "source": "Livemint",
+      "published_utc": "2026-11-12T03:46:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY2ctUzVRcEJmcUJyS2gxN0ZGNFlzVGRTSTlVZ002bXJLN2dxbEFZa0xCMkVvMFZEMWd3OEtlejJPbHpBeFByenAtX2U4Z0l4X1RBTG9LUlhjVEVsbEU0clhyLUFydFBvYnltV2pUSEU0akt5TFRrc2d3ZmZZNWVFaTJiREZtU25UMFMxSWFUd1lRdlk2R2NlclliTU02djN3Y1lEYV9Lc1lBMGJvQmU0Yk1IcUhWQVJxSUd2SkU3VWs1c0lrMWpGNXlmQXBIcGpfYnlFZjNHQ1lKSjk0N2phTTZtSFVibnlEOUlJQ0pZS2NYLXhOcWZOV2FydlRYSE1t0gGGAkFVX3lxTE12SkVCWnZWWWJ2MFVaQ2RGYU5fUjRvNEQ4a0VHVmk1S3J1UzhFOWRadlRpY3o3Yk45NFkyVVV3RHphbTY4SGN4N2xoUUpyZ2dCbXMwby1lMnhrdkNIa2Zhd0R1TXRaSURFZ0tmSzItMndIQmdEbmlyeDloRENZZmpkRVNFendKVkpybkNZanAxeEdfdURlYTlNQ3h2TmthQllxdHNpRzZkc09kWURoVkRVTmpyUmZ4N21EQm10RTdTeVQxQlBFTU9OOEdQczZyTFpveGFxRmlnb05kUWg5R1N6U2hxNGNoalNEMnNyQ2hzNWlBMGhDWG9ydTBVcHlIOW5ocElmd1E?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "6 key ICICI Bank credit card changes from Nov 25, Dec 11 and Dec 15, 2026; check affected cards",
+      "source": "Upstox",
+      "published_utc": "2026-11-12T03:16:08+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQkFBM2pSYjVnc3J3dlZIZm9TYmthZHVybTFFeVV3VkZrblN0c0Rvak1oc2ZVZlNIY3k2NWRmVEJPV01CcUw4X1ZRYVNqdmZ6alN6M1RkS05xaXBPLVh5c19kbHQwRFpET19xQ19iLWEwUUNncHNqbENxdTN3MF9LYnZpUW5aSFFBWi1ZZmN5MzhLdXJmTjRzSy1ua3pWYW9hSW95b2JxdE1OalBZVDlGZ3Flbnk2dE54bFFkT0ZLaE8wUVV5WUVkMHFXSWsxN180VklYczZJNmxNekJlS2M0djRQT2xrMDBUUVpSNnc5cFJWQ09Bd1kw?oc=5",
+      "relevant": true,
+      "sentiment": -0.4,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank Share Price Prediction for Tomorrow: 12 Nov 2026",
+      "source": "Univest",
+      "published_utc": "2026-11-11T17:26:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV0RpSC1RbXdHXzlxYmJ1ZlpNeWtxdGlMdjV5SFFUY1U3Rl9aZ3ZES1BLUE83R3NFTTBTZURhV05mN3ZUM25tODFIOExEd3pGYXVPT0tNVklLMkNJRF82WG9tSDNERUR2cS1nT0QzOU9oZnN1U0RyeDRhbUJwSjk2dzdyZUI5UGhnQU1LbkNDUjhQdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Why SBI, HDFC Bank and ICICI Bank Are Strengthening Their Links With India's Shadow Banking Ecosystem",
+      "source": "Siliconindia",
+      "published_utc": "2026-11-11T15:26:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd1NTU0VsSWVld05rZlpORGVqWTMwcVlUTUdRYVZabkxGNXFXeHNEaVE0OEFOWENpSkQ5NWMxTjNqOXo3NHN2THMxb2JsNk9VaUNETnY4UW1pN3U4TjdhcElqS2tlNHNFVnhvV0l3ekVZUWpKR0VUdmhDWUVMZldSMzJxakNid3hGNjhKS2JLU0Rja19uaUpGM18zbzZMS21RQkpUR2JsWk9oOXNEbXlZcEQzZHVocDFIMThmNnd2MDlVZU1UVzZrMWlhTFJkbVp5RXJnY3lCcFc2UFJOUk9xaHUwdG10VXdJeFF3X1pCdnlTUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.1,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Market wrap: M&M, InterGlobe, Adani Ports SEZ, ICICI Bank top gainers and losers on Nifty and Sensex on We",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-11T12:26:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbDhweEs4SkhWMlBPQlRpbDQyODd5WWZveEVSeVF0OXFuOVlob19GQnd0Zi1WTm5uVTRCTjJRNDNkMk84TmNJNXV6c0pic1c3M0JvVkdyNTA3bDJ6TzVDb2F2VUlHUkQ1MlIyUjRzUmlVRGp3bnRFX3BzVkE4SWF0NTJCSURUXzBPOU5CT2cxbnM0R3JEbmkySm9EY3MybHA0NjhhUG1wX1h1V0d4S0FHanU3LW5zMTA2ekdTXzgyUDhsdkJkRXNVTWdfb3psQWVFalpaQWtsNVMyRFVrSktVN1Frd2dxQ0dtLWNTRDZVQnhVcFEzN1hEQmlsT3EwSzhEX0hOeW0zNmhtUmZPQTdz0gGUAkFVX3lxTE1wa3F1Q2ZSTTR1b3ZwaUhkdnJadGJhTWF6b3YtYkhrY013RVRlc0Q4aG9UVDBROWNxVFFBZmtTcDNxLTJ4aUVRaTVyMmxWLV9UOUE4d1ZodGVzS2VVR2lDV3VCV2VwVTItMmJ1Y2hPY0FXQ1MxNGVLank1MkJoWVN3SmcwcDFBQVY5b3VfUnpmVlFjOF9nOVRobHQxS1FUSk40cGhLMWlJT3U1VGJCYkV1OVcyMW42OThSLW1hUkFjd0tkZTVwajUxMHhVd2RJbTJhZkhFUHdjdUg2d1hRSDh1ZUVQQlB0ai1wSVB4eHExRFc2Nmk5SDAxTnJ6V3lnUVRsTFFpUFBRTkdWVnBWeUJ6Mi1xNw?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "RBL Bank leads FCNR(B) mobilisation relative to deposit base; Kotak, ICICI well placed to benefit",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "published_utc": "2026-11-11T11:45:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3NtRkpVR3ZIUlY0bDRGY0h0dE9Ubk1ZdUlQTWUybXJkc1dFcmU5c09IVEhEd0s4Y1RFMDhKTTAwYlk4aEdzRU5LWEItT2pRUkUyWFpxMGZKa3ZPdmVrTzViT0p2VUctZ1pTWEswUEJaSzN2YXVOc0xhS05NU1Vfa2hQdWhfWV9mNXJYWngzRS1KZkRETWxfcHpWeFgxbWJCT0JCdzJyWFdabjFUcEc3aG1SNzgyNDZWZFpBWVQzZDBHeGt5bUhMel8tUWZzTmhDQXAteXdTU1ZBZGxYLTFNTUstMnRic2RTV1HSAe8BQVVfeXFMTlFJbGUwTFBJeE5iREVDSzBxaFlvYjFuTkE0RkxUeS1NVC1pUHBPNU90LWtUb2xRUGFPMDFlSVlXdk5DREtWcm1jRlpKamxmTkNyeE0td1hXQWgxYkVoMDc2eWZvSHJhczFSV0lCeWtEOUN2SWpLX3pkOW5Za1k0UGJqUEI0MUdna0JUUWZVVF8xQS14bzZsbWdVMnRTa1BoYjQzTEtnWk1hWmRTT2gxSVEweEtBQjduemVaMzgtUDVKcWpPcm9yVnlBTTFJZWZGb1Mtc3I1NkZMVEdCM1g0SlhWWUFGZ3VFamxhcklKV3c?oc=5",
+      "relevant": true,
+      "sentiment": 0.1,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "Hyderabad: Five held for allegedly cheating ICICI Bank of Rs 30 lakh",
+      "source": "Telangana Today",
+      "published_utc": "2026-11-11T08:52:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHNlWVY1LWNOSlVSSDNBcjdDOWtKS1gya3c4OHN5a0hURmhSTHhxWEpEdGVqcEJwdU1wOXBTOHNLNWJhLXZWZWVJaWRpUTlENVRqMmw2MmJwSjRFYUIyRWxuWTZiTXp6Wm1SVUFBOUxlbm5DbWw5T3psNENHLXNnMUxtd2RtdHJqZEhFSkVsUlExNFE0Xzh1ZnZB?oc=5",
+      "relevant": true,
+      "sentiment": -0.6,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "ICICI Bank hits 52-week high before retreating; Morgan Stanley adds to focus list",
+      "source": "BusinessLine",
+      "published_utc": "2026-11-11T07:29:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVzk3aU5vZWFicUYySDVrcVBHYmxBYWVJcXk2UjZVUm4zcjNRNmlOd0xuQWxZR3Iya2NPU19fNmFrWFI5MlFqMWpnV2kzYmp5SEVwc3VuX2ttd0VqTy1OTzFWUU1GclJJZHlWTmtqM2hmMUNaUmRsOGppdlNkQ1lyNkk4Mk9CUG5tWWNPc1g2UXVJT0E0eVRJQm92MjRHUzVYNDJsb2ROcm5jdVA4VDIxdm03VzFPLVVvOTd4aDRTQ0xjYzhmU3dNMXFkeTdkRFl2ZmNtOTN2S0c3TE04R05tUWo3TnhpZzJaaVU3Z3hmdC3SAfcBQVVfeXFMTWR6b1hRQU5jY21PQVZCbkk3OV96V1h6Z0YxMjl4UWcwcFpDUnhJZkh5eWdzb2p4ZDhMMF9tRmFzdVpiMnhUVXdjLWZMY3d0aXg1YS1pVDZpUFI3MFl3czQ5ZVIwR2lPdjF2V01JaHRyb1ljMFVfRDB6NWdlcXhwOFVXUk92RDRHbnJwLWxsT3drS21oQ0RnRGk5MkFUM2g3cXVfZEJxb045aDdueGlEMGRJT29mbDRmdTMzX1BybWU5YzY5eHFNWURQWmhCZ2p1QXJWNnZ6cFhHWmI2Z3N4eEh6LXFldEtMRW8zUXBsVnEzZXU5N08xVQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.3,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, YES Bank, SBI, ICICI Bank, Axis Bank, BoB rally up 6%, Nifty Bank nears 52-week high",
+      "source": "Business Today",
+      "published_utc": "2026-11-11T06:40:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVFUtUkdBVFc0dmZUeUt4aF90OEk0N2ZjdDRGa3k3YXVrRENZb2ZQYmVjN2hoMkdrRVppOTAyZm5wd2xVd3RRUEx1cE9td0xaeTFERnBXRjBHWFZsUlVJRWhsSC0wRG5hTGtIcWRnOUhkUXRNcjVQc3dsVHpPd1FnSVFpTUZsYkEtTmZDTWZvTjhWN1QzU19SU0FURGJ4MmI2V1lmWWpaRWpKb044NlYtT0tHa0RfU0wxd2plV2lreTJsMFAzVXlJdms4RmpuM0pYOUpQNFpxd3F3ZnhFTFB6ZUttMExrcFdqQWF3T9IB8gFBVV95cUxQNGJIVGgwdUc4ODJoakRjdDhka19tWGhRN2wtTmtNYUJWT0M3Wm5WZ1N1ZUx2RHBidE1OXy1uV004d3JhVmdxeEtQSlV0NlJLUHJMdUVZSEdwTHFrT3hzcEU2UTY2Q00tVl9CS3F0SmVXU252QnRTd2MycEg4SXBLZkdaUzQ3a2E2OWJieVFETWYydVNoZ0hjRjBCUU1ZeTRrNE9XT3BMVG5KU0twSjNyMDZrbi1ncnV0bDBnVmJvYkktNFpjVkwwSVp0SFQ4WG9WeE93UE8zNmVQLVBDQnpENkZmOEpzRVYyTGNWUjE0MzRZUQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "HDFC Bank, ICICI Bank and PNB raise FD rates early",
+      "source": "NewsBytes",
+      "published_utc": "2026-11-11T06:04:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHl4R1RIdVRQSmFSVExzVnkzQVE3aEZ5aHRpelpIVlg2WWhFXzVLZk9qNXk3Mk16bWVlcExqY1NFd1U2RUg0VGx4bjU2bVkxT013bl9lOXV3Q2h5djBpOGhPNXZMMm9TR0xFRjFkcERoYmhUOXVkNmlVY1F1WHVidDBIRXZZVVViT0hRZ2tMRmhBdUFKV0JqOVI5ckFkdw?oc=5",
+      "relevant": true,
+      "sentiment": 0.2,
+      "material": 0.2,
+      "scorer": "openai/gpt-oss-120b"
+    },
+    {
+      "title": "SBI Share Price: 21.7% CAGR vs ICICI Bank, Axis Bank",
+      "source": "Univest",
+      "published_utc": "2026-11-11T05:21:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVEpLdkdmWGNHR245aXB1V0xSVFAyS3ZCMENvcU9ra1k3WDNmVTRnWXlXdGNFbFZxLVd6YlJydEVvSmN4NlJ3TVRQYzFCUWQ5bTBpaDNSdzRfTDZ1bUhlVnhadU80ZGNUdFg2TjV5blRiUUp6QUFhRVhteGVLTFgtTWd1b2ZkcDR6SXpCVV96N1k?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b"
+    }
+  ],
+  "signal": {
+    "score": -0.063,
+    "strength": 1.0,
+    "material_count": 2,
+    "view": -0.063
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-13T12:31:07.479288+00:00"
+}

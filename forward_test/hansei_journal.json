@@ -9466,5 +9466,270 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-11-13",
+    "ran_utc": "2026-11-13T12:31:13.129608+00:00",
+    "equity": 10631.15,
+    "benchmark_equity": 11136.56,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": 0.055,
+        "target_exposure": 1.0,
+        "current_exposure": 0.756,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 76%: no strong reason to change",
+          "trend supportive (+0.43, trusted 21%)",
+          "news supportive (+0.28, trusted 26%)"
+        ],
+        "views": {
+          "trend": 0.429,
+          "volatility": -0.186,
+          "momentum": -0.208,
+          "news": 0.275
+        },
+        "shadow": {
+          "relstr": -0.015
+        },
+        "value": 1608.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.219,
+        "target_exposure": 1.0,
+        "current_exposure": 0.745,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 15% of the book vs 20% target",
+          "trend supportive (+0.97, trusted 21%)",
+          "momentum supportive (+0.63, trusted 31%)"
+        ],
+        "views": {
+          "trend": 0.973,
+          "volatility": -0.721,
+          "momentum": 0.626,
+          "news": -0.063
+        },
+        "shadow": {
+          "relstr": 0.731
+        },
+        "value": 1583.6
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.322,
+        "target_exposure": 1.0,
+        "current_exposure": 0.914,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 91%: no strong reason to change",
+          "trend supportive (+0.97, trusted 21%)",
+          "momentum supportive (+0.49, trusted 31%)"
+        ],
+        "views": {
+          "trend": 0.973,
+          "volatility": -0.247,
+          "momentum": 0.493,
+          "news": 0.08
+        },
+        "shadow": {
+          "relstr": 0.627
+        },
+        "value": 1944.3
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.065,
+        "target_exposure": 0.87,
+        "current_exposure": 0.542,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 54%: no strong reason to change",
+          "momentum against (-0.59, trusted 31%)",
+          "news supportive (+0.41, trusted 26%)"
+        ],
+        "views": {
+          "trend": 0.051,
+          "volatility": -0.0,
+          "momentum": -0.591,
+          "news": 0.415
+        },
+        "shadow": {
+          "relstr": -0.448
+        },
+        "value": 1152.32
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.145,
+        "target_exposure": 0.709,
+        "current_exposure": 0.536,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 54%: no strong reason to change",
+          "momentum against (-0.66, trusted 31%)",
+          "news supportive (+0.25, trusted 26%)"
+        ],
+        "views": {
+          "trend": -0.03,
+          "volatility": -0.0,
+          "momentum": -0.662,
+          "news": 0.253
+        },
+        "shadow": {
+          "relstr": -0.536
+        },
+        "value": 1140.0
+      }
+    ],
+    "weights": {
+      "trend": 0.2113,
+      "volatility": 0.2256,
+      "momentum": 0.3077,
+      "news": 0.2553
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.275,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": 0.275
+        },
+        "top": [
+          {
+            "title": "HDFC Bank reappoints V. Srinivasa Rangan as Executive Director",
+            "source": "InvestyWise",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-13T11:01:41+00:00",
+            "count": 1
+          },
+          {
+            "title": "RBI approves HDFC Bank re-appointment of V. Srinivasa Rangan",
+            "source": "scanx.trade",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-12T12:07:49+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank gets RBI nod for director's reappointment",
+            "source": "InvestyWise",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-12T12:04:40+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Interest Rate Hike: Loan EMIs Set to Increase, Check New Rates",
+            "source": "Times Bull",
+            "sentiment": -0.357,
+            "material": 0.5,
+            "published_utc": "2026-11-13T11:03:10+00:00",
+            "count": 3
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.063,
+          "strength": 1.0,
+          "material_count": 2,
+          "view": -0.063
+        },
+        "top": [
+          {
+            "title": "Jindal Power taps Axis Bank, ICICI Bank and Exim Bank for $470 million Botswana loan",
+            "source": "Moneycontrol.com",
+            "sentiment": 0.3,
+            "material": 0.5,
+            "published_utc": "2026-11-13T05:04:18+00:00",
+            "count": 1
+          },
+          {
+            "title": "Hyderabad: Five held for allegedly cheating ICICI Bank of Rs 30 lakh",
+            "source": "Telangana Today",
+            "sentiment": -0.6,
+            "material": 0.5,
+            "published_utc": "2026-11-11T08:52:56+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.568,
+          "strength": 0.14,
+          "material_count": 0,
+          "view": 0.08
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.415,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": 0.415
+        },
+        "top": [
+          {
+            "title": "Indian Oil stock: H1 profit rises 43% as throughput hits records",
+            "source": "ad-hoc-news.de",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-13T00:52:53+00:00",
+            "count": 1
+          },
+          {
+            "title": "IOCL suspends Debangshu Ray days before appointment as Dir (R&D)",
+            "source": "IndianMandarins",
+            "sentiment": -0.8,
+            "material": 0.8,
+            "published_utc": "2026-11-12T09:32:36+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil supplies extreme winter-grade diesel to Army units in Northeast",
+            "source": "Daily Excelsior",
+            "sentiment": 0.7,
+            "material": 0.6,
+            "published_utc": "2026-11-12T22:55:21+00:00",
+            "count": 2
+          },
+          {
+            "title": "APCRDA and Indian Oil join hands to develop green energy infrastructure in Amaravati",
+            "source": "Maritime Gateway",
+            "sentiment": 0.6,
+            "material": 0.5,
+            "published_utc": "2026-11-12T00:36:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.572,
+          "strength": 0.442,
+          "material_count": 1,
+          "view": 0.253
+        },
+        "top": [
+          {
+            "title": "ITC strengthens presence in copier paper category, launches Carte Lumina zx",
+            "source": "TradingView",
+            "sentiment": 0.7,
+            "material": 0.5,
+            "published_utc": "2026-11-12T08:20:58+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]
