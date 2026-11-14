@@ -3,7 +3,7 @@
 Written 13 Nov 2026 from a read of the code, the saved state and the live site.
 It covers what exists, what the Research Lab and Macroverse should be, how the
 pieces connect, and the order to build them in. Phase 1 (the dashboard) is done;
-Phase 2 (the Research Lab) has a working first version; Phase 3 is a design, not code.
+Phases 2 (Research Lab) and 3 (Macroverse) each have a working first version.
 
 ## 1. The aim
 
@@ -123,6 +123,33 @@ Limits to state on the page: in simulated paths the news advisor is silent;
 every synthetic result is watermarked; Macroverse writes only under
 `macroverse/runs/` and never to `forward_test/` or the paper book.
 
+### What the first Macroverse runs found (13-14 Nov 2026)
+
+Replays, real prices (HANSEI / holding):
+
+| Episode | Return | Worst fall |
+|---|---|---|
+| Global financial crisis, 2008-09 | -14.3% / -26.5% | -40.2% / -58.5% |
+| Taper tantrum, 2013 | -9.6% / -8.9% | -13.6% / -22.7% |
+| Demonetisation, 2016-17 | +16.0% / +17.7% | -9.4% / -9.4% |
+| IL&FS scare, 2018-19 | +6.7% / +10.2% | -10.1% / -12.8% |
+| COVID crash, 2020 | -6.8% / -3.1% | -28.7% / -39.3% |
+| Crude spike, 2022 | +14.4% / +19.3% | -9.8% / -9.8% |
+
+The pattern matches the Lab: it falls less, then gives the difference back by returning late. In 2020 it
+avoided the worst of March and was still under-invested for the rebound.
+
+Sensitivities (weekly, 2007-2026): every stock's market sensitivity is reliable (0.6 for ITC to 1.5 for ICICI
+Bank). To crude, only Indian Oil (-0.11) and HDFC Bank (-0.03) can be told from zero. To the rupee, none can.
+So "crude +60%" alone moves the book very little; the damage in a real oil shock comes through the market.
+
+Scenarios (synthetic, 30 paths, 126 sessions; HANSEI / holding, middle outcome): market -20%: -12.4% / -18.1%;
+all three shocks at once: -13.4% / -19.9%; crude +60% alone: +0.2% / +0.5%; rupee -10% alone: 0.0% / +0.7%.
+
+Limits of this first version: three factors only; a shock is a one-month ramp with nothing else moving; 30
+paths; each simulated day opens at the previous close; the news advisor is silent; no custom scenarios on
+the site (each takes about two minutes of compute, so they are run offline).
+
 ## 6. Cognitive layer and how the pieces connect
 
 Memory maps onto files that mostly exist:
@@ -181,6 +208,12 @@ passed.
 4. **Put the trajectory self-critique through the grid.** It is the one
    learning mechanism with a positive result, and the result is a single run.
 
+5. **The replay engine can borrow.** `backtest.simulate` lets cash go below zero when holdings have outgrown
+   their slots and another stock is bought back to its full slot: the 2008 replay was up to 109% invested.
+   The live paper book cannot do this. Every backtest, Lab and Macroverse result therefore comes from an agent
+   slightly more aggressive than the live one. Fixing it changes every recorded backtest number, so it should
+   be a deliberate change with the results re-run, not a quiet patch.
+
 ## 9. Build order
 
 | Phase | Milestone | Done when |
@@ -189,8 +222,8 @@ passed.
 | 2a | Registry and runner; past experiments entered | Done. `scaata/research/registry.py`, `engine.py`, `legacy.py`; five earlier experiments entered from their result files. |
 | 2b | Devil's-advocate checks; Lab page on the site | Done. `review.py`; a leaky advisor fails review in `tests/test_hansei_research.py`. |
 | 2c | Triggers and weekly director report | Triggers done (`director.py`, `research/agenda.json`). Not scheduled: experiments are run by hand. |
-| 3a | Historical replay through the real brain | Replay of 2020 matches the backtest's numbers for that window. |
-| 3b | Factor sensitivities with intervals; what-if fan | Sensitivities reproduce on a held-out period within their intervals. |
+| 3a | Historical replay through the real brain | Done. `scaata/macroverse/replay.py`; a test checks a replay equals the backtest engine's own run and cannot see prices after the episode. |
+| 3b | Factor sensitivities with intervals; what-if fan | First version done (`shock.py`): three factors, bootstrap intervals, before/after-2017 estimates shown, 30-path fans. Not yet checked on a held-out period. |
 | 3c | Compound scenarios, post-run report into the registry | A scenario run appears as a Lab record. |
 
 No extra paid services are needed for any of this. Heavy runs belong on GitHub

@@ -70,12 +70,12 @@ div[data-testid="stHorizontalBlock"]:has(.hs-nav-on) {{ background: {PANEL}; bor
 div[data-testid="stHorizontalBlock"]:has(.hs-nav-on) div[data-testid="stVerticalBlock"] {{ gap: 0; }}
 a[data-testid="stPageLink-NavLink"] {{ border-radius: 11px; padding: .7rem .3rem; justify-content: center;
     border: 1px solid transparent; transition: background .15s, border-color .15s; }}
-a[data-testid="stPageLink-NavLink"] p {{ color: {SOFT}; font-weight: 600; font-size: .95rem; letter-spacing: .06em;
+a[data-testid="stPageLink-NavLink"] p {{ color: {SOFT}; font-weight: 600; font-size: .86rem; letter-spacing: .04em; white-space: nowrap;
     text-transform: uppercase; }}
 a[data-testid="stPageLink-NavLink"]:hover {{ background: {RAISED}; border-color: {LINE}; }}
 a[data-testid="stPageLink-NavLink"]:hover p {{ color: {INK}; }}
 a[data-testid="stPageLink-NavLink"]:focus-visible {{ outline: 2px solid {LBLUE}; }}
-.hs-nav-on {{ text-align: center; padding: .7rem .3rem; font-weight: 700; font-size: .95rem; letter-spacing: .06em;
+.hs-nav-on {{ text-align: center; padding: .7rem .3rem; font-weight: 700; font-size: .86rem; letter-spacing: .04em; white-space: nowrap;
     text-transform: uppercase; color: #04161A; background: linear-gradient(180deg, #58C2DE, {HANSEI});
     border-radius: 11px; border: 1px solid #7FD3EA; line-height: 1.6;
     box-shadow: 0 6px 18px rgba(47,155,184,.35); }}

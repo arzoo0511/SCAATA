@@ -45,6 +45,7 @@ The edge is mainly **smaller drawdowns and a higher Sharpe**. The return edge is
    - **News** — every story it judged material
    - **Evidence** — the backtests and studies, including what was tested and rejected
    - **Lab** — experiments filed in advance, run through the real brain, and judged by a code reviewer
+   - **Macroverse** — real crises replayed day by day, and synthetic shocks, through the real brain
    - **System** — what is live, what is in testing, what is only planned
 
 ## Research Lab
@@ -66,6 +67,28 @@ First results (13 Nov 2026): the live rule falls less than holding in both spans
 just inside noise (89% against a 90% bar), so the verdict is *inconclusive*. Silencing the trend advisor,
 and switching learning off, did not make it measurably worse. The Lab cannot change the agent: a supported
 finding is only a proposal.
+
+## Macroverse
+
+`scaata/macroverse/` asks what happens to HANSEI when the world moves, in two clearly separated ways.
+
+- **Replay history** (real): six episodes — 2008, the 2013 taper tantrum, demonetisation, the 2018 IL&FS scare,
+  COVID, the 2022 crude spike — replayed on real prices through the same `brain.decide` and `memory.learn` the
+  daily agent uses. HANSEI's worst fall was smaller than holding's in four of the six and never larger; it
+  finished ahead of holding only in 2008.
+- **What if** (synthetic): a shock to the Nifty, Brent or USD/INR is passed to each stock through sensitivities
+  measured from weekly returns, with their uncertainty kept; the real brain then trades 30 simulated paths.
+  Only 7 of the 15 sensitivities can be told apart from zero, and the page shows which.
+
+Rate, inflation, GDP and credit shocks are not offered: there is no daily data to measure them with.
+
+```
+python -m scaata.macroverse refresh    # freeze Nifty, Brent and USD/INR
+python -m scaata.macroverse all        # replays, sensitivities and scenarios -> macroverse/runs/
+```
+
+Everything is computed offline and saved; the site only displays it. Macroverse never reads or writes the live
+paper book, journal or memory.
 
 ## Tech stack
 

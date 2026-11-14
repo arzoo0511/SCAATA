@@ -86,6 +86,7 @@ PAGES = [
     st.Page(pages.news_page, title="News", url_path="news"),
     st.Page(pages.evidence_page, title="Evidence", url_path="evidence"),
     st.Page(pages.lab_page, title="Lab", url_path="lab"),
+    st.Page(pages.macro_page, title="Macroverse", url_path="macroverse"),
     st.Page(pages.system_page, title="System", url_path="system"),
 ]
 

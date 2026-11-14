@@ -7,6 +7,7 @@ state and draws it; none can place an order, change a setting or write a file.
     News      -- what it read
     Evidence  -- backtests and studies, including the ones that failed
     Lab       -- experiments filed in advance, run on the real brain, and reviewed (ui/lab.py)
+    Macroverse -- real crises replayed, and synthetic shocks, through the real brain (ui/macro.py)
     System    -- how the pieces fit, what is live, what is only planned
 """
 from __future__ import annotations
@@ -21,7 +22,7 @@ import streamlit.components.v1 as components
 from scaata.agent.daily import load_journal
 from scaata.agent.memory import HORIZON, load_memory
 from scaata.config import INDIA_BENCHMARK, INDIA_TICKERS, ROOT_DIR
-from scaata.dashboard.ui import charts, data, lab, mind, now
+from scaata.dashboard.ui import charts, data, lab, macro, mind, now
 from scaata.dashboard.ui import theme as T
 from scaata.live.paper_book import load_book, summary as book_summary
 
@@ -371,6 +372,63 @@ def _ppo() -> None:
 lab_page = lab.page
 
 
+# ------------------------------------------------------------ Macroverse
+MACRO_RUNS = ROOT_DIR / "macroverse" / "runs"
+
+
+def macro_runs() -> tuple[list[dict], dict | None]:
+    """Every saved Macroverse run, replays then scenarios in their defined order, plus the sensitivities."""
+    from scaata.macroverse.replay import EPISODES
+    from scaata.macroverse.shock import SCENARIOS
+
+    order = [e["id"] for e in EPISODES] + [x["id"] for x in SCENARIOS]
+    runs = [r for r in (data.read_json(MACRO_RUNS / f"{name}.json") for name in order) if r]
+    return runs, data.read_json(MACRO_RUNS / "sensitivities.json")
+
+
+def macro_page() -> None:
+    runs, sens = macro_runs()
+    T.intro("Macroverse", "Put HANSEI through a crisis.",
+            "<b>Replay history</b> runs a real episode, on real prices, through the same brain the live agent "
+            "uses, and lets you watch it day by day. <b>What if</b> applies a shock to the market, crude or the "
+            "rupee and shows the range of outcomes. The two are kept apart: one is what happened, the other is a "
+            "model&rsquo;s output and is marked <b>synthetic</b> everywhere.")
+    if not runs:
+        st.markdown('<div class="hs-note"><b>Nothing has been run yet.</b> Run '
+                    "<code>python -m scaata.macroverse refresh</code>, then "
+                    "<code>python -m scaata.macroverse all</code>.</div>", unsafe_allow_html=True)
+        return
+    components.html(macro.stage_html(runs, sens), height=macro.HEIGHT, scrolling=False)
+
+    replays = [r for r in runs if r["kind"] == "replay"]
+    if replays:
+        T.heading("Every crisis at a glance", "worst fall during each episode")
+        frame = pd.DataFrame([{"block": r["title"], "hansei_dd": r["stats"]["hansei"]["max_drawdown"],
+                               "hold_dd": r["stats"]["holding"]["max_drawdown"],
+                               "hansei": r["stats"]["hansei"]["return"], "hold": r["stats"]["holding"]["return"]}
+                              for r in replays])
+        plot(charts.drawdown_dumbbell(frame))
+        less = int((frame["hansei_dd"] > frame["hold_dd"] + 0.005).sum())
+        ahead = int((frame["hansei"] > frame["hold"]).sum())
+        T.caption(f"HANSEI&rsquo;s worst fall was clearly smaller than holding&rsquo;s in <b>{less} of {len(frame)}"
+                  f"</b> episodes, and it finished the episode ahead of holding in <b>{ahead} of {len(frame)}</b>. "
+                  "Falling less and ending ahead are different things: it tends to give the difference back by "
+                  "being slow to return.")
+        table = frame.rename(columns={"block": "Episode", "hansei": "HANSEI return", "hold": "Holding return",
+                                      "hansei_dd": "HANSEI worst fall", "hold_dd": "Holding worst fall"})
+        columns = ["HANSEI return", "Holding return", "HANSEI worst fall", "Holding worst fall"]
+        for column in columns:
+            table[column] = table[column] * 100
+        st.dataframe(table[["Episode", *columns]], hide_index=True, use_container_width=True,
+                     column_config={c: st.column_config.NumberColumn(c, format="%.1f%%") for c in columns})
+    stamp = runs[0].get("provenance", {})
+    T.foot("Prices: the research snapshot <code>" + (stamp.get("prices_sha256") or "")[:12] + "</code> through "
+           + str(stamp.get("prices_through")) + ". Factors (Nifty 50, Brent, USD/INR): Yahoo Finance, frozen "
+           "snapshot <code>" + (stamp.get("factors_sha256") or "")[:12] + "</code>. Everything on this page was "
+           "computed offline by <code>python -m scaata.macroverse all</code> and saved under "
+           "<code>macroverse/runs/</code>; it never reads or writes the live paper book, journal or memory.")
+
+
 # ---------------------------------------------------------------- System
 _ARCH = f"""
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" role="img" aria-label="How HANSEI, its memory, the Research Lab and Macroverse connect"
@@ -380,7 +438,7 @@ _ARCH = f"""
   <g fill="none" stroke="{T.MUTED}" stroke-width="1.4" marker-end="url(#ar)">
     <path d="M330,120 L395,120"/><path d="M500,190 L500,236"/>
     <path d="M605,120 L670,120"/><path d="M670,330 L605,330" stroke-dasharray="5 5"/>
-    <path d="M835,190 L835,262" stroke-dasharray="5 5"/><path d="M395,330 L330,330" stroke-dasharray="5 5"/>
+    <path d="M835,190 L835,262"/><path d="M395,330 L330,330" stroke-dasharray="5 5"/>
     <path d="M165,262 L165,190" stroke-dasharray="5 5"/>
   </g>
   <g font-size="11" fill="{T.MUTED}">
@@ -414,12 +472,11 @@ _ARCH = f"""
     <text x="690" y="126" fill="{T.SOFT}" font-size="12.5">advocate → recorded finding.</text>
     <text x="690" y="168" fill="#7BD3A6" font-size="11" font-weight="700" letter-spacing="1.5">LIVE · RUN BY HAND</text>
 
-    <rect x="670" y="262" width="300" height="118" rx="14" fill="{T.PANEL}" stroke="{T.MUTED}" stroke-width="1.5"
-          stroke-dasharray="6 5"/>
+    <rect x="670" y="262" width="300" height="118" rx="14" fill="{T.PANEL}" stroke="{T.HANSEI}" stroke-width="2"/>
     <text x="690" y="294" fill="{T.INK}" font-size="17" font-weight="700">Macroverse</text>
     <text x="690" y="318" fill="{T.SOFT}" font-size="12.5">Replay real crises and shocks</text>
     <text x="690" y="338" fill="{T.SOFT}" font-size="12.5">through the real brain.</text>
-    <text x="690" y="364" fill="{T.MUTED}" font-size="11" font-weight="700" letter-spacing="1.5">PLANNED · PHASE 3</text>
+    <text x="690" y="364" fill="#7BD3A6" font-size="11" font-weight="700" letter-spacing="1.5">LIVE · COMPUTED OFFLINE</text>
 
     <rect x="30" y="262" width="300" height="118" rx="14" fill="{T.PANEL}" stroke="{T.TAN}" stroke-width="2"/>
     <text x="50" y="294" fill="{T.INK}" font-size="17" font-weight="700">Promotion gate</text>
@@ -463,7 +520,8 @@ def system_page() -> None:
          "wiring test; awaiting grid validation before it can go live."),
         ("Research Lab", "live", "Experiments filed in advance, run through the real brain on a frozen price "
          "snapshot, and reviewed by code. Run by hand; it cannot change the agent."),
-        ("Macroverse", "plan", "Historical crisis replay and what-if shocks run through the real brain. Not built."),
+        ("Macroverse", "live", "Six real crises replayed, and four synthetic shocks, through the real brain. "
+         "Computed offline; rate, inflation and credit shocks are not available."),
         ("Real-money trading", "off", "Not built and not planned. No broker is connected to this site."),
     ]
     kinds = {"live": "live", "part": "in testing", "plan": "planned", "off": "never"}

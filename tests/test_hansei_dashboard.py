@@ -15,7 +15,8 @@ from scaata.dashboard.ui import charts, data, mind
 
 STATE_FILES = [ROOT_DIR / "paper_book_india.json", ROOT_DIR / "forward_test" / "hansei_journal.json",
                ROOT_DIR / "forward_test" / "hansei_memory.json", ROOT_DIR / "forward_test" / "hansei_evaluation.json"]
-PAGES = ["now_page", "mind_page", "learning_page", "news_page", "evidence_page", "lab_page", "system_page"]
+PAGES = ["now_page", "mind_page", "learning_page", "news_page", "evidence_page", "lab_page", "macro_page",
+         "system_page"]
 
 
 def _book():
@@ -105,6 +106,15 @@ def test_now_cockpit_payload_matches_the_book():
     assert html.count("</script>") == 1 and "__DATA__" not in html
 
 
+def test_macroverse_stage_embeds_runs_and_keeps_real_and_synthetic_apart():
+    from scaata.dashboard.ui import macro
+
+    runs = [{"id": "r", "kind": "replay", "title": "A </script> crisis"}, {"id": "s", "kind": "scenario", "title": "x"}]
+    html = macro.stage_html(runs, None)
+    assert html.count("</script>") == 1 and "__RUNS__" not in html and "__SENS__" not in html
+    assert "REAL HISTORY" in html and "SYNTHETIC" in html and "NOT A FORECAST" in html
+
+
 def test_explorer_embeds_the_journal_as_it_was_and_cannot_break_out_of_its_script():
     payload = data.mind_payload(_journal())
     assert payload[0]["stocks"][0]["views"]["news"] == 0.4 and payload[1]["stocks"][0]["held"] == 0.8
@@ -159,6 +169,9 @@ def test_pages_render_before_the_agent_has_ever_run(monkeypatch, tmp_path):
 
     monkeypatch.setattr(registry, "REGISTRY_PATH", tmp_path / "experiments.jsonl")
     monkeypatch.setattr(director, "AGENDA_PATH", tmp_path / "agenda.json")
+    import scaata.dashboard.ui.pages as pages
+
+    monkeypatch.setattr(pages, "MACRO_RUNS", tmp_path / "macroverse_runs")
     for page in PAGES:
         app = AppTest.from_function(_render, args=(page,), default_timeout=60).run()
         assert not app.exception, (page, [e.value for e in app.exception])

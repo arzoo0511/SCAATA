@@ -1,0 +1,12 @@
+{
+  "source": "Yahoo Finance via yfinance: market=^NSEI, crude=BZ=F, rupee=INR=X",
+  "retrieved_utc": "2026-11-13T18:11:19+00:00",
+  "first": {
+    "market": "2007-09-17",
+    "crude": "2007-07-30",
+    "rupee": "2006-01-02"
+  },
+  "last": "2026-11-13",
+  "rows": 5443,
+  "sha256": "1b8e2f64c04cca221dd611ca75ef53602069583bb344d9b8c77ed7a038d681ca"
+}
