@@ -1,6 +1,7 @@
 # Streamlit Community Cloud installs this to run the HANSEI dashboard
 # (scaata/dashboard/hansei_app.py). For the full project, use `pip install -e .`.
-# The same file is installed by the daily workflow and is enough for the Lab and Macroverse pages.
+# The same file is installed by the daily workflow and is enough for the Lab and Macroverse pages,
+# which only read saved results. Running experiments or scenarios needs the full install (scipy).
 # Pinned to the release the dashboard was built and tested on: its styling targets
 # this version's page elements, and newer releases are dropping arguments it uses.
 streamlit==1.42.2

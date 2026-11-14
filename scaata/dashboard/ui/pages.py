@@ -376,14 +376,19 @@ lab_page = lab.page
 MACRO_RUNS = ROOT_DIR / "macroverse" / "runs"
 
 
-def macro_runs() -> tuple[list[dict], dict | None]:
-    """Every saved Macroverse run, replays then scenarios in their defined order, plus the sensitivities."""
-    from scaata.macroverse.replay import EPISODES
-    from scaata.macroverse.shock import SCENARIOS
+SCENARIO_ORDER = ("crude-up-60", "market-down-20", "rupee-down-10", "all-three")
 
-    order = [e["id"] for e in EPISODES] + [x["id"] for x in SCENARIOS]
-    runs = [r for r in (data.read_json(MACRO_RUNS / f"{name}.json") for name in order) if r]
-    return runs, data.read_json(MACRO_RUNS / "sensitivities.json")
+
+def macro_runs() -> tuple[list[dict], dict | None]:
+    """Every saved Macroverse run -- replays by date, then scenarios -- plus the sensitivities.
+
+    Reads the saved files only. It must not import `scaata.macroverse.replay` or `.shock`: those
+    pull in the backtest engine and scipy, which the hosted dashboard does not install."""
+    found = [data.read_json(path) for path in sorted(MACRO_RUNS.glob("*.json"))] if MACRO_RUNS.exists() else []
+    replays = sorted((r for r in found if r and r.get("kind") == "replay"), key=lambda r: r["start"])
+    scenarios = sorted((r for r in found if r and r.get("kind") == "scenario"),
+                       key=lambda r: (SCENARIO_ORDER.index(r["id"]) if r["id"] in SCENARIO_ORDER else 99, r["id"]))
+    return replays + scenarios, data.read_json(MACRO_RUNS / "sensitivities.json")
 
 
 def macro_page() -> None:

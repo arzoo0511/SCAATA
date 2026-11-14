@@ -106,6 +106,36 @@ def test_now_cockpit_payload_matches_the_book():
     assert html.count("</script>") == 1 and "__DATA__" not in html
 
 
+def test_every_page_renders_with_only_the_hosted_sites_packages():
+    """Streamlit Cloud installs requirements.txt only: no scipy, torch or gymnasium. A page that
+    imports the backtest engine works locally and crashes there, so render every page in a fresh
+    interpreter where those packages cannot be imported."""
+    import subprocess
+    import sys
+
+    code = """
+import sys
+for name in ("scipy", "torch", "gymnasium", "stable_baselines3", "sklearn"):
+    sys.modules[name] = None
+from streamlit.testing.v1 import AppTest
+
+SCRIPT = '''
+import pandas as pd
+from scaata.dashboard.ui import pages, theme
+pages.load_prices = lambda symbols: pd.DataFrame(
+    {s: range(100, 130) for s in symbols}, index=pd.bdate_range("2026-01-01", periods=30), dtype=float)
+theme.inject()
+pages.PAGE()
+'''
+for page in %r:
+    app = AppTest.from_string(SCRIPT.replace("PAGE", page), default_timeout=90).run()
+    assert not app.exception, (page, [e.value for e in app.exception])
+print("ok")
+""" % (PAGES,)
+    result = subprocess.run([sys.executable, "-c", code], capture_output=True, text=True, cwd=str(ROOT_DIR))
+    assert result.returncode == 0 and "ok" in result.stdout, result.stdout[-1500:] + result.stderr[-3000:]
+
+
 def test_macroverse_stage_embeds_runs_and_keeps_real_and_synthetic_apart():
     from scaata.dashboard.ui import macro
 
