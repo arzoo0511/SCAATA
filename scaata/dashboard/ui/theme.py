@@ -132,7 +132,12 @@ div[data-testid="stExpander"] details {{ border: 1px solid {LINE}; border-radius
 div[data-testid="stPlotlyChart"] {{ border: 1px solid {LINE}; border-radius: 14px; background: {PANEL};
     padding: 6px 6px 0; }}
 iframe {{ border-radius: 14px; }}
+@media (max-width: 1000px) {{
+  a[data-testid="stPageLink-NavLink"] p, .hs-nav-on {{ font-size: .7rem; letter-spacing: 0; }}
+  div[data-testid="stHorizontalBlock"]:has(.hs-nav-on) {{ gap: 2px; padding: 4px; }}
+}}
 @media (max-width: 640px) {{
+  a[data-testid="stPageLink-NavLink"] p, .hs-nav-on {{ font-size: .8rem; }}
   div[data-testid="stHorizontalBlock"]:has(.hs-nav-on) {{ flex-direction: row !important; flex-wrap: wrap !important;
       gap: .2rem .4rem !important; }}
   div[data-testid="stHorizontalBlock"]:has(.hs-nav-on) > div[data-testid="stColumn"] {{
