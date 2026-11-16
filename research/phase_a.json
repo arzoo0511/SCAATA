@@ -1,0 +1,1127 @@
+{
+ "generated_utc": "2026-11-16T18:17:00+00:00",
+ "prices_sha256": "4a2171114572be105b4733528db101810bdf5263d14b7f9416c5f31cd1eccae0",
+ "prices_through": "2026-11-13",
+ "days": 4893,
+ "first": "2007-01-02",
+ "judged_days": 4873,
+ "note": "The news advisor is silent in this history (no scored headlines exist before 2012 and the scorer could remember later years), so everything here is about trend, volatility and momentum.",
+ "skill": [
+  {
+   "source": "trend",
+   "span": "all",
+   "opinions": 23814,
+   "skill": -0.13829900735173406,
+   "low": -0.17435294567673065,
+   "high": -0.101813521388326,
+   "hit_rate": 0.5122853820370751,
+   "hit_low": 0.49052825090635477,
+   "hit_high": 0.5336935665914221
+  },
+  {
+   "source": "trend",
+   "span": "tune",
+   "opinions": 15616,
+   "skill": -0.1321268401781987,
+   "low": -0.17866333781605484,
+   "high": -0.08470481149779538,
+   "hit_rate": 0.5185608432477562,
+   "hit_low": 0.49097761427676895,
+   "hit_high": 0.5468803485702358
+  },
+  {
+   "source": "trend",
+   "span": "holdout",
+   "opinions": 8198,
+   "skill": -0.1500404617604725,
+   "low": -0.20507398077371203,
+   "high": -0.09121159987641458,
+   "hit_rate": 0.5003474290252135,
+   "hit_low": 0.4680385149890808,
+   "hit_high": 0.5346471113758189
+  },
+  {
+   "source": "volatility",
+   "span": "all",
+   "opinions": 5813,
+   "skill": -0.09141734821556996,
+   "low": -0.13787536158546085,
+   "high": -0.040503192054004884,
+   "hit_rate": 0.47654920292460745,
+   "hit_low": 0.42974574493587436,
+   "hit_high": 0.5240373666546805
+  },
+  {
+   "source": "volatility",
+   "span": "tune",
+   "opinions": 3710,
+   "skill": -0.09777414535489667,
+   "low": -0.15265800066144428,
+   "high": -0.038304903472315854,
+   "hit_rate": 0.4578526504941599,
+   "hit_low": 0.4016408355795148,
+   "hit_high": 0.514862084456424
+  },
+  {
+   "source": "volatility",
+   "span": "holdout",
+   "opinions": 2103,
+   "skill": -0.07868315956173506,
+   "low": -0.17968378704362406,
+   "high": 0.010736995901952798,
+   "hit_rate": 0.5140028797696184,
+   "hit_low": 0.43577528797696186,
+   "hit_high": 0.5850098992080633
+  },
+  {
+   "source": "momentum",
+   "span": "all",
+   "opinions": 23481,
+   "skill": -0.09047734010876257,
+   "low": -0.12440495973596005,
+   "high": -0.056775187002616474,
+   "hit_rate": 0.527693412682126,
+   "hit_low": 0.5063912545317737,
+   "hit_high": 0.5496011184075518
+  },
+  {
+   "source": "momentum",
+   "span": "tune",
+   "opinions": 15456,
+   "skill": -0.09035911741285745,
+   "low": -0.13338946106182165,
+   "high": -0.0484008369508258,
+   "hit_rate": 0.5307712377374243,
+   "hit_low": 0.503615503026508,
+   "hit_high": 0.5574684303903151
+  },
+  {
+   "source": "momentum",
+   "span": "holdout",
+   "opinions": 8025,
+   "skill": -0.09070223783998413,
+   "low": -0.14784000217577425,
+   "high": -0.03982187523811298,
+   "hit_rate": 0.5218383958705579,
+   "hit_low": 0.48752159023228114,
+   "hit_high": 0.5553925947984911
+  },
+  {
+   "source": "news",
+   "span": "all",
+   "opinions": 0,
+   "skill": null
+  },
+  {
+   "source": "news",
+   "span": "tune",
+   "opinions": 0,
+   "skill": null
+  },
+  {
+   "source": "news",
+   "span": "holdout",
+   "opinions": 0,
+   "skill": null
+  },
+  {
+   "source": "equal blend",
+   "span": "all",
+   "opinions": 22506,
+   "skill": -0.023469308283152496,
+   "low": -0.04135422886975399,
+   "high": -0.005810515655255488,
+   "hit_rate": 0.5175525001710103,
+   "hit_low": 0.4941611943361379,
+   "hit_high": 0.539688846706341
+  },
+  {
+   "source": "equal blend",
+   "span": "tune",
+   "opinions": 14804,
+   "skill": -0.020265509960978267,
+   "low": -0.042244982671906385,
+   "high": 0.0020775574999306926,
+   "hit_rate": 0.5205698184095179,
+   "hit_low": 0.4910595387184304,
+   "hit_high": 0.5503389167188478
+  },
+  {
+   "source": "equal blend",
+   "span": "holdout",
+   "opinions": 7702,
+   "skill": -0.029563966913899647,
+   "low": -0.060193327591506446,
+   "high": -0.0015801296856698148,
+   "hit_rate": 0.5118125868572563,
+   "hit_low": 0.47711807623585467,
+   "hit_high": 0.5471935179670439
+  }
+ ],
+ "calibration": {
+  "equal blend": {
+   "source": "equal blend",
+   "reliability": {
+    "tune": [
+     {
+      "predicted": 0.3719074248120301,
+      "observed": 0.5601503759398496,
+      "n": 1596
+     },
+     {
+      "predicted": 0.41976435069008783,
+      "observed": 0.5037641154328732,
+      "n": 1594
+     },
+     {
+      "predicted": 0.4665966087092733,
+      "observed": 0.5645363408521303,
+      "n": 1596
+     },
+     {
+      "predicted": 0.505650855304457,
+      "observed": 0.5455116133082235,
+      "n": 1593
+     },
+     {
+      "predicted": 0.5390709480600752,
+      "observed": 0.5244055068836045,
+      "n": 1598
+     },
+     {
+      "predicted": 0.5670808270676692,
+      "observed": 0.5764411027568922,
+      "n": 1596
+     },
+     {
+      "predicted": 0.5857331791091593,
+      "observed": 0.5790464240903388,
+      "n": 1594
+     },
+     {
+      "predicted": 0.6016380585273757,
+      "observed": 0.5550660792951542,
+      "n": 1589
+     },
+     {
+      "predicted": 0.6147207055694618,
+      "observed": 0.5125156445556946,
+      "n": 1598
+     },
+     {
+      "predicted": 0.6231641063630693,
+      "observed": 0.5396132252027449,
+      "n": 1603
+     }
+    ],
+    "holdout": [
+     {
+      "predicted": 0.3567082836710369,
+      "observed": 0.5458879618593564,
+      "n": 839
+     },
+     {
+      "predicted": 0.40966087410501195,
+      "observed": 0.5381861575178998,
+      "n": 838
+     },
+     {
+      "predicted": 0.451061084624553,
+      "observed": 0.48748510131108463,
+      "n": 839
+     },
+     {
+      "predicted": 0.4884544301909308,
+      "observed": 0.5047732696897375,
+      "n": 838
+     },
+     {
+      "predicted": 0.5185406698564593,
+      "observed": 0.5741626794258373,
+      "n": 836
+     },
+     {
+      "predicted": 0.5447738663484486,
+      "observed": 0.5262529832935561,
+      "n": 838
+     },
+     {
+      "predicted": 0.5698218638525564,
+      "observed": 0.4887039239001189,
+      "n": 841
+     },
+     {
+      "predicted": 0.5905470053635281,
+      "observed": 0.5232419547079857,
+      "n": 839
+     },
+     {
+      "predicted": 0.607126936829559,
+      "observed": 0.5494636471990465,
+      "n": 839
+     },
+     {
+      "predicted": 0.6208732142857143,
+      "observed": 0.5083333333333333,
+      "n": 840
+     }
+    ]
+   },
+   "strong_vs_weak": {
+    "tune": {
+     "weak_right": 0.5242600351398837,
+     "strong_right": 0.5169480081026333,
+     "gap": -0.02332834331337325,
+     "low": -0.0700840506487026,
+     "high": 0.021209144211576846,
+     "cut": 0.35624999999999996,
+     "n_weak": 7399,
+     "n_strong": 7405
+    },
+    "holdout": {
+     "weak_right": 0.5042573320719016,
+     "strong_right": 0.5126655152561889,
+     "gap": 0.056027645592567434,
+     "low": -0.024590697937910713,
+     "high": 0.13019346249716743,
+     "cut": 0.35624999999999996,
+     "n_weak": 4228,
+     "n_strong": 3474
+    }
+   },
+   "recalibration": {
+    "brier_raw": 0.2575590713371512,
+    "brier_recalibrated": 0.2510956111321429,
+    "improvement": 0.006452287152812487,
+    "low": 0.0003039862596613351,
+    "high": 0.01360593775022914,
+    "fitted_on": 15957
+   }
+  },
+  "trend": {
+   "source": "trend",
+   "reliability": {
+    "tune": [
+     {
+      "predicted": 0.2575493400377121,
+      "observed": 0.5612822124450031,
+      "n": 1591
+     },
+     {
+      "predicted": 0.3100315822388993,
+      "observed": 0.5359599749843652,
+      "n": 1599
+     },
+     {
+      "predicted": 0.4150833855799373,
+      "observed": 0.5272727272727272,
+      "n": 1595
+     },
+     {
+      "predicted": 0.5351183469004382,
+      "observed": 0.5604257983719474,
+      "n": 1597
+     },
+     {
+      "predicted": 0.6321883626097866,
+      "observed": 0.5451693851944793,
+      "n": 1594
+     },
+     {
+      "predicted": 0.6950062617407641,
+      "observed": 0.582968065122104,
+      "n": 1597
+     },
+     {
+      "predicted": 0.7251970882905446,
+      "observed": 0.5360050093926112,
+      "n": 1597
+     },
+     {
+      "predicted": 0.7399489860583016,
+      "observed": 0.5595690747782003,
+      "n": 1578
+     },
+     {
+      "predicted": 0.7472552514322087,
+      "observed": 0.5671546785486951,
+      "n": 1571
+     },
+     {
+      "predicted": 0.7497896825396826,
+      "observed": 0.48717948717948717,
+      "n": 1638
+     }
+    ],
+    "holdout": [
+     {
+      "predicted": 0.2570721153846154,
+      "observed": 0.5144230769230769,
+      "n": 832
+     },
+     {
+      "predicted": 0.29731153846153846,
+      "observed": 0.6343195266272189,
+      "n": 845
+     },
+     {
+      "predicted": 0.379734505363528,
+      "observed": 0.5005959475566151,
+      "n": 839
+     },
+     {
+      "predicted": 0.47652953460620534,
+      "observed": 0.47494033412887826,
+      "n": 838
+     },
+     {
+      "predicted": 0.5721591179976162,
+      "observed": 0.5303933253873659,
+      "n": 839
+     },
+     {
+      "predicted": 0.6427431220095693,
+      "observed": 0.5394736842105263,
+      "n": 836
+     },
+     {
+      "predicted": 0.6900567102137768,
+      "observed": 0.46199524940617576,
+      "n": 842
+     },
+     {
+      "predicted": 0.724332129963899,
+      "observed": 0.4993983152827918,
+      "n": 831
+     },
+     {
+      "predicted": 0.7424783950617284,
+      "observed": 0.5308641975308642,
+      "n": 810
+     },
+     {
+      "predicted": 0.7492402857142858,
+      "observed": 0.5577142857142857,
+      "n": 875
+     }
+    ]
+   },
+   "strong_vs_weak": {
+    "tune": {
+     "weak_right": 0.5231872918267999,
+     "strong_right": 0.5135723431498079,
+     "gap": -0.04570413436692505,
+     "low": -0.0900532945736434,
+     "high": -0.000547480620155044,
+     "cut": 0.877,
+     "n_weak": 7806,
+     "n_strong": 7810
+    },
+    "holdout": {
+     "weak_right": 0.48947475986102595,
+     "strong_right": 0.5161875945537066,
+     "gap": 0.078131844064827,
+     "low": 0.014234286027157268,
+     "high": 0.1458073258869908,
+     "cut": 0.877,
+     "n_weak": 4893,
+     "n_strong": 3305
+    }
+   },
+   "recalibration": {
+    "brier_raw": 0.28657026953916775,
+    "brier_recalibrated": 0.2506366398912423,
+    "improvement": 0.03592673563189634,
+    "low": 0.023159449471401323,
+    "high": 0.04913429038799677,
+    "fitted_on": 15957
+   }
+  },
+  "volatility": {
+   "source": "volatility",
+   "reliability": {
+    "tune": [
+     {
+      "predicted": 0.30504287060301505,
+      "observed": 0.5615577889447236,
+      "n": 1592
+     },
+     {
+      "predicted": 0.41956499999999997,
+      "observed": 0.570625,
+      "n": 1600
+     },
+     {
+      "predicted": 0.48308738425925923,
+      "observed": 0.5324074074074074,
+      "n": 864
+     },
+     {
+      "predicted": 0.5,
+      "observed": 0.5417191832619107,
+      "n": 11901
+     }
+    ],
+    "holdout": [
+     {
+      "predicted": 0.2706388557806913,
+      "observed": 0.5554231227651967,
+      "n": 839
+     },
+     {
+      "predicted": 0.3854281026252983,
+      "observed": 0.535799522673031,
+      "n": 838
+     },
+     {
+      "predicted": 0.47458657243816255,
+      "observed": 0.4381625441696113,
+      "n": 566
+     },
+     {
+      "predicted": 0.5,
+      "observed": 0.52685546875,
+      "n": 6144
+     }
+    ]
+   },
+   "strong_vs_weak": {
+    "tune": {
+     "weak_right": 0.4418604651162791,
+     "strong_right": 0.43954862976894143,
+     "gap": -0.03004535147392291,
+     "low": -0.10998441043083901,
+     "high": 0.051870748299319716,
+     "cut": 0.449,
+     "n_weak": 1849,
+     "n_strong": 1861
+    },
+    "holdout": {
+     "weak_right": 0.5078597339782346,
+     "strong_right": 0.45768025078369906,
+     "gap": 0.06286043829296424,
+     "low": -0.027984429065743943,
+     "high": 0.16637831603229525,
+     "cut": 0.449,
+     "n_weak": 827,
+     "n_strong": 1276
+    }
+   },
+   "recalibration": {
+    "brier_raw": 0.2598388464364493,
+    "brier_recalibrated": 0.25048639668152317,
+    "improvement": 0.009321007133928508,
+    "low": 0.0017477949821163867,
+    "high": 0.018791728893154405,
+    "fitted_on": 15957
+   }
+  },
+  "momentum": {
+   "source": "momentum",
+   "reliability": {
+    "tune": [
+     {
+      "predicted": 0.27489852572145546,
+      "observed": 0.5301129234629862,
+      "n": 1594
+     },
+     {
+      "predicted": 0.3477570665829146,
+      "observed": 0.49748743718592964,
+      "n": 1592
+     },
+     {
+      "predicted": 0.4294476235146967,
+      "observed": 0.5453408380237649,
+      "n": 1599
+     },
+     {
+      "predicted": 0.5111196741854637,
+      "observed": 0.5601503759398496,
+      "n": 1596
+     },
+     {
+      "predicted": 0.5803911949685535,
+      "observed": 0.5779874213836478,
+      "n": 1590
+     },
+     {
+      "predicted": 0.6356842848180677,
+      "observed": 0.581555834378921,
+      "n": 1594
+     },
+     {
+      "predicted": 0.680149655604258,
+      "observed": 0.6073888541014402,
+      "n": 1597
+     },
+     {
+      "predicted": 0.7133777463904583,
+      "observed": 0.5247959824231011,
+      "n": 1593
+     },
+     {
+      "predicted": 0.7362901195720578,
+      "observed": 0.5305223410950283,
+      "n": 1589
+     },
+     {
+      "predicted": 0.7484136701797891,
+      "observed": 0.5058896466212027,
+      "n": 1613
+     }
+    ],
+    "holdout": [
+     {
+      "predicted": 0.27715196662693686,
+      "observed": 0.5518474374255066,
+      "n": 839
+     },
+     {
+      "predicted": 0.35276498800959233,
+      "observed": 0.5203836930455635,
+      "n": 834
+     },
+     {
+      "predicted": 0.4146275207591933,
+      "observed": 0.5077105575326216,
+      "n": 843
+     },
+     {
+      "predicted": 0.4767891278375149,
+      "observed": 0.44802867383512546,
+      "n": 837
+     },
+     {
+      "predicted": 0.5340407738095237,
+      "observed": 0.5535714285714286,
+      "n": 840
+     },
+     {
+      "predicted": 0.5925834326579261,
+      "observed": 0.5172824791418356,
+      "n": 839
+     },
+     {
+      "predicted": 0.6498145933014353,
+      "observed": 0.5251196172248804,
+      "n": 836
+     },
+     {
+      "predicted": 0.6926127976190476,
+      "observed": 0.5369047619047619,
+      "n": 840
+     },
+     {
+      "predicted": 0.7238528177458033,
+      "observed": 0.5539568345323741,
+      "n": 834
+     },
+     {
+      "predicted": 0.7449408284023669,
+      "observed": 0.5313609467455621,
+      "n": 845
+     }
+    ]
+   },
+   "strong_vs_weak": {
+    "tune": {
+     "weak_right": 0.5418068858400207,
+     "strong_right": 0.5199223803363519,
+     "gap": -0.017549019607843133,
+     "low": -0.06330882352941175,
+     "high": 0.024609477124183005,
+     "cut": 0.701,
+     "n_weak": 7726,
+     "n_strong": 7730
+    },
+    "holdout": {
+     "weak_right": 0.5235421166306695,
+     "strong_right": 0.5160530191458027,
+     "gap": 0.05602836879432626,
+     "low": -0.016433215130023632,
+     "high": 0.11986258865248227,
+     "cut": 0.701,
+     "n_weak": 4630,
+     "n_strong": 3395
+    }
+   },
+   "recalibration": {
+    "brier_raw": 0.272283255760403,
+    "brier_recalibrated": 0.25021994255108326,
+    "improvement": 0.022043311147023698,
+    "low": 0.011733238074050608,
+    "high": 0.03408683239365378,
+    "fitted_on": 15957
+   }
+  }
+ },
+ "learners": [
+  {
+   "kind": "hedge",
+   "label": "Plain Hedge (rate 0.05)",
+   "final_weights": [
+    0.051,
+    0.068,
+    0.766,
+    0.116
+   ],
+   "mean_shrink": 1.0,
+   "brier": {
+    "all": {
+     "improvement": -0.00638511278946674,
+     "low": -0.008529014960604575,
+     "high": -0.004440482996589402,
+     "p": 1.0,
+     "p_corrected": 1.0
+    },
+    "tune": {
+     "improvement": -0.006537769147298034,
+     "low": -0.009073473549716717,
+     "high": -0.003880251191526153,
+     "p": 1.0,
+     "p_corrected": 1.0
+    },
+    "holdout": {
+     "improvement": -0.006094711117689996,
+     "low": -0.009680339143799994,
+     "high": -0.002843968207402733,
+     "p": 1.0,
+     "p_corrected": 1.0
+    }
+   },
+   "payoff": {
+    "all": {
+     "improvement": -0.0002332156782269649,
+     "low": -0.001328954648060743,
+     "high": 0.00077175754155551,
+     "p": 0.682,
+     "p_corrected": 1.0
+    },
+    "tune": {
+     "improvement": -0.0007121978710081403,
+     "low": -0.0019871523168440825,
+     "high": 0.0006078310895428921,
+     "p": 0.857,
+     "p_corrected": 1.0
+    },
+    "holdout": {
+     "improvement": 0.0006779630732578917,
+     "low": -0.0009806322215604527,
+     "high": 0.0022647141155449674,
+     "p": 0.2275,
+     "p_corrected": 1.0
+    }
+   },
+   "all": {
+    "improvement": -0.00638511278946674,
+    "low": -0.008529014960604575,
+    "high": -0.004440482996589402,
+    "p": 1.0,
+    "p_corrected": 1.0
+   }
+  },
+  {
+   "kind": "live",
+   "label": "The live learner (Hedge with Fixed-Share)",
+   "final_weights": [
+    0.122,
+    0.116,
+    0.518,
+    0.243
+   ],
+   "mean_shrink": 1.0,
+   "brier": {
+    "all": {
+     "improvement": -0.0024857996705332417,
+     "low": -0.0037753197431841393,
+     "high": -0.0012939377233648617,
+     "p": 1.0,
+     "p_corrected": 1.0
+    },
+    "tune": {
+     "improvement": -0.002894929843467306,
+     "low": -0.00459349991025845,
+     "high": -0.0011180746196812026,
+     "p": 1.0,
+     "p_corrected": 1.0
+    },
+    "holdout": {
+     "improvement": -0.0017075020098117405,
+     "low": -0.0036359299663846845,
+     "high": 6.13016345399909e-05,
+     "p": 0.9695,
+     "p_corrected": 1.0
+    }
+   },
+   "payoff": {
+    "all": {
+     "improvement": -0.0006359203775908065,
+     "low": -0.0016456808947260414,
+     "high": 0.00030202236815103574,
+     "p": 0.905,
+     "p_corrected": 1.0
+    },
+    "tune": {
+     "improvement": -0.0005806512210394491,
+     "low": -0.0020053686599874766,
+     "high": 0.000705795554164057,
+     "p": 0.793,
+     "p_corrected": 1.0
+    },
+    "holdout": {
+     "improvement": -0.0007410601548540798,
+     "low": -0.0022978379988088144,
+     "high": 0.0005496110780226316,
+     "p": 0.867,
+     "p_corrected": 1.0
+    }
+   },
+   "all": {
+    "improvement": -0.0024857996705332417,
+    "low": -0.0037753197431841393,
+    "high": -0.0012939377233648617,
+    "p": 1.0,
+    "p_corrected": 1.0
+   }
+  },
+  {
+   "kind": "sleeping",
+   "label": "Sleeping advisors: each judged only on the stocks it spoke about",
+   "final_weights": [
+    0.096,
+    0.377,
+    0.283,
+    0.243
+   ],
+   "mean_shrink": 1.0,
+   "brier": {
+    "all": {
+     "improvement": -0.002115966725404193,
+     "low": -0.003357478257269458,
+     "high": -0.0009168894312375569,
+     "p": 1.0,
+     "p_corrected": 1.0
+    },
+    "tune": {
+     "improvement": -0.0024117650586516367,
+     "low": -0.004111852285652404,
+     "high": -0.0005640780535412374,
+     "p": 0.9975,
+     "p_corrected": 1.0
+    },
+    "holdout": {
+     "improvement": -0.0015532628085534858,
+     "low": -0.0033226856009699064,
+     "high": 9.858101246568451e-05,
+     "p": 0.9645,
+     "p_corrected": 1.0
+    }
+   },
+   "payoff": {
+    "all": {
+     "improvement": -0.0004126164580340653,
+     "low": -0.0014096152267596964,
+     "high": 0.00053562261440591,
+     "p": 0.807,
+     "p_corrected": 1.0
+    },
+    "tune": {
+     "improvement": -0.0004018597370068881,
+     "low": -0.001612107858484659,
+     "high": 0.0007713932373199732,
+     "p": 0.734,
+     "p_corrected": 1.0
+    },
+    "holdout": {
+     "improvement": -0.00043307921381774834,
+     "low": -0.0023286816557474685,
+     "high": 0.0010036131625967826,
+     "p": 0.7075,
+     "p_corrected": 1.0
+    }
+   },
+   "all": {
+    "improvement": -0.002115966725404193,
+    "low": -0.003357478257269458,
+    "high": -0.0009168894312375569,
+    "p": 1.0,
+    "p_corrected": 1.0
+   }
+  },
+  {
+   "kind": "adahedge",
+   "label": "AdaHedge: no learning rate to set",
+   "final_weights": [
+    0.05,
+    0.05,
+    0.85,
+    0.05
+   ],
+   "mean_shrink": 1.0,
+   "brier": {
+    "all": {
+     "improvement": -0.018509545407329762,
+     "low": -0.022645786399647976,
+     "high": -0.014733710930244212,
+     "p": 1.0,
+     "p_corrected": 1.0
+    },
+    "tune": {
+     "improvement": -0.019955485066550375,
+     "low": -0.025230122940878525,
+     "high": -0.01471843663020371,
+     "p": 1.0,
+     "p_corrected": 1.0
+    },
+    "holdout": {
+     "improvement": -0.015758901409979764,
+     "low": -0.022147208446278648,
+     "high": -0.009878656450857866,
+     "p": 1.0,
+     "p_corrected": 1.0
+    }
+   },
+   "payoff": {
+    "all": {
+     "improvement": -0.0014939051918735895,
+     "low": -0.003073521136876667,
+     "high": -0.00016887584650112934,
+     "p": 0.9855,
+     "p_corrected": 1.0
+    },
+    "tune": {
+     "improvement": -0.002075629304946775,
+     "low": -0.004226112867877269,
+     "high": -7.548309329993765e-05,
+     "p": 0.978,
+     "p_corrected": 1.0
+    },
+    "holdout": {
+     "improvement": -0.0003872781417510424,
+     "low": -0.002570336509827279,
+     "high": 0.0016508472304943413,
+     "p": 0.6735,
+     "p_corrected": 1.0
+    }
+   },
+   "all": {
+    "improvement": -0.018509545407329762,
+    "low": -0.022645786399647976,
+    "high": -0.014733710930244212,
+    "p": 1.0,
+    "p_corrected": 1.0
+   }
+  },
+  {
+   "kind": "delay",
+   "label": "Delay-aware: 21 interleaved learners, rate from theory",
+   "final_weights": [
+    0.508,
+    0.056,
+    0.195,
+    0.241
+   ],
+   "mean_shrink": 1.0,
+   "brier": {
+    "all": {
+     "improvement": -0.0032028771858223608,
+     "low": -0.00422749327251494,
+     "high": -0.002270946981386274,
+     "p": 1.0,
+     "p_corrected": 1.0
+    },
+    "tune": {
+     "improvement": -0.0033815120792622163,
+     "low": -0.0046181915868502375,
+     "high": -0.0021536988770125072,
+     "p": 1.0,
+     "p_corrected": 1.0
+    },
+    "holdout": {
+     "improvement": -0.0028630559531559524,
+     "low": -0.004526362874714258,
+     "high": -0.0012826927757998389,
+     "p": 0.9995,
+     "p_corrected": 1.0
+    }
+   },
+   "payoff": {
+    "all": {
+     "improvement": -0.00029750461727888364,
+     "low": -0.0008974337163964702,
+     "high": 0.0002457509747588754,
+     "p": 0.8655,
+     "p_corrected": 1.0
+    },
+    "tune": {
+     "improvement": -0.00037532874139010656,
+     "low": -0.0010632734815278647,
+     "high": 0.0002814342517219784,
+     "p": 0.8515,
+     "p_corrected": 1.0
+    },
+    "holdout": {
+     "improvement": -0.000149458010720667,
+     "low": -0.0011961968433591424,
+     "high": 0.0008699505658129839,
+     "p": 0.6425,
+     "p_corrected": 1.0
+    }
+   },
+   "all": {
+    "improvement": -0.0032028771858223608,
+    "low": -0.00422749327251494,
+    "high": -0.002270946981386274,
+    "p": 1.0,
+    "p_corrected": 1.0
+   }
+  },
+  {
+   "kind": "shrunk",
+   "label": "The live learner, shrunk toward equal until there is a year of evidence",
+   "final_weights": [
+    0.128,
+    0.123,
+    0.505,
+    0.244
+   ],
+   "mean_shrink": 0.8459717029918173,
+   "brier": {
+    "all": {
+     "improvement": -0.0019330378916031176,
+     "low": -0.002983187933101211,
+     "high": -0.0009871753963227607,
+     "p": 1.0,
+     "p_corrected": 1.0
+    },
+    "tune": {
+     "improvement": -0.0021213541001533715,
+     "low": -0.003415601283081878,
+     "high": -0.0007841610204536042,
+     "p": 0.9995,
+     "p_corrected": 1.0
+    },
+    "holdout": {
+     "improvement": -0.001574799672359812,
+     "low": -0.0033970541597135528,
+     "high": 9.234498439246185e-05,
+     "p": 0.967,
+     "p_corrected": 1.0
+    }
+   },
+   "payoff": {
+    "all": {
+     "improvement": -0.0004895793145906013,
+     "low": -0.0013699487995074901,
+     "high": 0.00034898686640673067,
+     "p": 0.8795,
+     "p_corrected": 1.0
+    },
+    "tune": {
+     "improvement": -0.0004110331872260489,
+     "low": -0.0015924506887914842,
+     "high": 0.000656278021289918,
+     "p": 0.7475,
+     "p_corrected": 1.0
+    },
+    "holdout": {
+     "improvement": -0.0006389994044073854,
+     "low": -0.002087811197141155,
+     "high": 0.0005709827278141739,
+     "p": 0.8455,
+     "p_corrected": 1.0
+    }
+   },
+   "all": {
+    "improvement": -0.0019330378916031176,
+    "low": -0.002983187933101211,
+    "high": -0.0009871753963227607,
+    "p": 1.0,
+    "p_corrected": 1.0
+   }
+  }
+ ],
+ "poison": {
+  "live": {
+   "learner": "live",
+   "seeds": 20,
+   "rates": {
+    "adversary_demoted": 1.0,
+    "random_not_promoted": 1.0,
+    "informative_top2": 1.0,
+    "weak_adversary_below_equal": 1.0
+   },
+   "mean_trust": {
+    "trend": 0.10741500000000001,
+    "volatility": 0.11471499999999998,
+    "momentum": 0.20199499999999998,
+    "news": 0.09750500000000001,
+    "adversary": 0.05000000000000001,
+    "random": 0.08482,
+    "informative": 0.29061,
+    "weak_adversary": 0.05295999999999999
+   },
+   "required": 0.95,
+   "passes": {
+    "adversary_demoted": true,
+    "random_not_promoted": true,
+    "informative_top2": true,
+    "weak_adversary_below_equal": true
+   },
+   "equal_share": 0.125,
+   "rules": {
+    "adversary": "Wrong on purpose (the opposite of what happened): trust must end within 2 points of the floor",
+    "random": "Pure noise: trust must not end more than 5 points above an equal share",
+    "informative": "Right 60% of the time: trust must end in the top two of eight",
+    "weak_adversary": "Right only 40% of the time (a subtle failure, not an obvious one): trust must end below an equal share"
+   }
+  },
+  "hedge": {
+   "learner": "hedge",
+   "seeds": 20,
+   "rates": {
+    "adversary_demoted": 1.0,
+    "random_not_promoted": 1.0,
+    "informative_top2": 1.0,
+    "weak_adversary_below_equal": 1.0
+   },
+   "mean_trust": {
+    "trend": 0.07741999999999999,
+    "volatility": 0.06263500000000002,
+    "momentum": 0.11652,
+    "news": 0.054625,
+    "adversary": 0.05000000000000001,
+    "random": 0.051355000000000005,
+    "informative": 0.5367949999999999,
+    "weak_adversary": 0.05067000000000001
+   },
+   "required": 0.95,
+   "passes": {
+    "adversary_demoted": true,
+    "random_not_promoted": true,
+    "informative_top2": true,
+    "weak_adversary_below_equal": true
+   },
+   "equal_share": 0.125,
+   "rules": {
+    "adversary": "Wrong on purpose (the opposite of what happened): trust must end within 2 points of the floor",
+    "random": "Pure noise: trust must not end more than 5 points above an equal share",
+    "informative": "Right 60% of the time: trust must end in the top two of eight",
+    "weak_adversary": "Right only 40% of the time (a subtle failure, not an obvious one): trust must end below an equal share"
+   }
+  }
+ },
+ "learner_labels": {
+  "equal": "Equal trust, never changed",
+  "hedge": "Plain Hedge (rate 0.05)",
+  "live": "The live learner (Hedge with Fixed-Share)",
+  "sleeping": "Sleeping advisors: each judged only on the stocks it spoke about",
+  "adahedge": "AdaHedge: no learning rate to set",
+  "delay": "Delay-aware: 21 interleaved learners, rate from theory",
+  "shrunk": "The live learner, shrunk toward equal until there is a year of evidence"
+ },
+ "p_scale": 0.25,
+ "block_days": 20,
+ "runtime_seconds": 49.6
+}

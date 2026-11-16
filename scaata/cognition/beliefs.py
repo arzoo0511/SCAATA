@@ -35,6 +35,8 @@ REGISTRY_PATH = ROOT_DIR / "research" / "experiments.jsonl"
 AGENDA_PATH = ROOT_DIR / "research" / "agenda.json"
 SENSITIVITIES_PATH = ROOT_DIR / "macroverse" / "runs" / "sensitivities.json"
 MACRO_RUNS = ROOT_DIR / "macroverse" / "runs"
+PHASE_A_PATH = ROOT_DIR / "research" / "phase_a.json"
+CONTRIBUTION_PATH = ROOT_DIR / "research" / "contribution.json"
 
 ADVISORS = ("trend", "volatility", "momentum", "news")
 ADVISOR_NAMES = {"trend": "Trend", "volatility": "The volatility brake", "momentum": "Momentum", "news": "News"}
@@ -240,6 +242,61 @@ def _advisors(card: dict, trust: dict) -> list[dict]:
     return out
 
 
+def _phase_a(study: dict | None, contribution: dict | None) -> list[dict]:
+    """Beliefs about its own self-critique, from the 19-year replay (research/phase_a.json) and the
+    contribution ledger (research/contribution.json). Statuses follow the same rules as everywhere else."""
+    out = []
+    if study:
+        for row in study.get("skill", []):
+            if row["span"] != "all" or row["source"] == "equal blend" or row.get("skill") is None:
+                continue
+            low, high = row["hit_low"], row["hit_high"]
+            status = "established" if low > 0.5 else "contradicted" if high < 0.5 else "cannot tell"
+            out.append(_belief(
+                "finding", status,
+                f"The {row['source']} advisor forecasts a stock's direction better than a coin flip.",
+                f"Right on {row['hit_rate']:.1%} of {row['opinions']:,} opinions over 19 years (95% range {low:.1%} to "
+                f"{high:.1%}). As a probability its views are over-confident: Brier skill {row['skill']:+.3f} "
+                "(negative is worse than always saying 50%).", "Phase A replay", abs(row["hit_rate"] - 0.5) * 4,
+                "advisors", {"advisor": row["source"], "key": f"skill-{row['source']}"}))
+        for row in study.get("learners", []):
+            if row["kind"] not in ("live", "adahedge"):
+                continue
+            for metric, words in (("payoff", "picks better directions"), ("brier", "gives a better-scored forecast")):
+                cell = row[metric]["all"]
+                if cell["improvement"] is None:
+                    continue
+                status = ("established" if cell["p_corrected"] is not None and cell["p_corrected"] < 0.05
+                          and cell["improvement"] > 0 else "contradicted" if cell["high"] < 0 else "cannot tell")
+                out.append(_belief(
+                    "finding", status, f"{row['label']} {words} than equal trust.",
+                    f"Over 19 years the difference was {cell['improvement']:+.5f} (95% range {cell['low']:+.5f} to "
+                    f"{cell['high']:+.5f}); corrected p-value {cell['p_corrected']}.", "Phase A replay", 0.8
+                    if status != "cannot tell" else 0.2, "learning",
+                    {"key": f"learner-{row['kind']}-{metric}"}))
+        for key, test in (study.get("poison") or {}).items():
+            if key != "live":
+                continue
+            for rule, rate in test["rates"].items():
+                status = "established" if test["passes"][rule] else "contradicted"
+                out.append(_belief(
+                    "finding", status, f"The live learner passes the poison test: {rule.replace('_', ' ')}.",
+                    f"{rate:.0%} of {test['seeds']} draws (needs {test['required']:.0%}).", "Phase A poison test",
+                    rate, "learning", {"key": f"poison-{rule}"}))
+    if contribution:
+        for advisor in contribution.get("players", []):
+            values = {span: d["shapley"]["max_drawdown"][advisor] for span, d in contribution["spans"].items()}
+            both = all(v > 0 for v in values.values())
+            status = "established" if both and len(values) >= 2 else "leaning" if any(v > 0 for v in values.values()) \
+                else "contradicted"
+            out.append(_belief(
+                "finding", status, f"The {advisor} advisor makes the worst fall smaller in the whole system.",
+                "Shapley value of its effect on the worst fall: " + ", ".join(f"{span} {v:+.1%}" for span, v in values.items())
+                + ". Replays the real brain with every subset of advisors allowed to speak.", "Contribution ledger",
+                min(1.0, abs(sum(values.values())) * 5), "advisors", {"advisor": advisor, "key": f"contribution-{advisor}"}))
+    return out
+
+
 def _facts(book: dict | None, evaluation: dict | None, replays: list[dict]) -> list[dict]:
     out = []
     perf = (evaluation or {}).get("performance")
@@ -328,7 +385,7 @@ def build(paths: dict | None = None) -> dict:
     """The whole cognitive picture, from the files on disk. `paths` overrides any source file (for tests)."""
     p = {"memory": MEMORY_PATH, "journal": JOURNAL_PATH, "evaluation": EVALUATION_PATH, "book": BOOK_PATH,
          "registry": REGISTRY_PATH, "agenda": AGENDA_PATH, "sensitivities": SENSITIVITIES_PATH,
-         "macro_runs": MACRO_RUNS, "backtest": ROOT_DIR / "results" / "hansei_backtest.json", **(paths or {})}
+         "macro_runs": MACRO_RUNS, "phase_a": PHASE_A_PATH, "contribution": CONTRIBUTION_PATH, "backtest": ROOT_DIR / "results" / "hansei_backtest.json", **(paths or {})}
     memory, journal = _read(p["memory"]) or {}, _read(p["journal"]) or []
     evaluation, book, sens = _read(p["evaluation"]), _read(p["book"]), _read(p["sensitivities"])
     records = _registry(p["registry"])
@@ -341,7 +398,8 @@ def build(paths: dict | None = None) -> dict:
     card = scorecard(rows)
     trust = memory.get("weights", {})
     beliefs = (_facts(book, evaluation, replays) + _relationships(sens) + _findings(records)
-               + _advisors(card, trust) + _assumptions(evaluation, journal, replays, _read(p["backtest"])))
+               + _advisors(card, trust) + _phase_a(_read(p["phase_a"]), _read(p["contribution"]))
+               + _assumptions(evaluation, journal, replays, _read(p["backtest"])))
     for i, b in enumerate(beliefs):
         b["id"] = f"b{i}"
         d = b["detail"]

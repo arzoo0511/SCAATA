@@ -603,3 +603,54 @@ def dsr_bars(rows: list[dict], span: str) -> go.Figure:
     fig.update_xaxes(range=[0, 112], ticksuffix="%", showspikes=False)
     fig.update_yaxes(autorange="reversed", showgrid=False)
     return _layout(fig, max(300, 56 * len(part) + 80), unified=False)
+
+
+def reliability_diagram(study: dict, span: str) -> go.Figure:
+    """What the blended view implied against how often the stock really beat cash. On the diagonal = honest."""
+    bins = ((study.get("calibration") or {}).get("equal blend") or {}).get("reliability", {}).get(span) or []
+    if not bins:
+        return empty("Not enough judged predictions in this span.")
+    fig = go.Figure()
+    fig.add_trace(go.Scatter(x=[0.3, 0.8], y=[0.3, 0.8], mode="lines", name="perfectly reliable",
+                             line=dict(color=T.MUTED, width=1, dash="dot"), hoverinfo="skip"))
+    fig.add_trace(go.Scatter(
+        x=[b["predicted"] for b in bins], y=[b["observed"] for b in bins], mode="lines+markers", name="what happened",
+        line=dict(color=T.HANSEI, width=2), marker=dict(size=[6 + 14 * b["n"] / max(x["n"] for x in bins) for b in bins],
+                                                         color=T.HANSEI, line=dict(color=T.BG, width=2)),
+        customdata=[b["n"] for b in bins],
+        hovertemplate="implied %{x:.0%}, happened %{y:.0%}<br>%{customdata:,} predictions<extra></extra>"))
+    fig.update_xaxes(range=[0.3, 0.8], tickformat=".0%", showspikes=False, title=dict(text="probability the view implied",
+                     font=dict(color=T.MUTED, size=11)))
+    fig.update_yaxes(range=[0.3, 0.8], tickformat=".0%", title=dict(text="how often the stock beat cash",
+                     font=dict(color=T.MUTED, size=11)))
+    return _layout(fig, 340, unified=False)
+
+
+def learner_scoreboard(study: dict, metric: str) -> go.Figure:
+    """Each way of learning trust, scored against plain equal trust, with 95% intervals. Right of zero = better."""
+    rows = study.get("learners") or []
+    if not rows:
+        return empty("Phase A has not been run.")
+    names = {"live": "The live learner", "hedge": "Plain Hedge", "sleeping": "Sleeping advisors", "adahedge": "AdaHedge",
+             "delay": "Delay-aware", "shrunk": "Live, shrunk toward equal"}
+    scale = 1000 if metric == "brier" else 100
+    fig = go.Figure()
+    fig.add_vline(x=0, line=dict(color=T.MUTED, width=1))
+    for span, symbol, colour in (("all", "circle", T.HANSEI), ("tune", "diamond", T.HOLD), ("holdout", "square", T.TAN)):
+        part = [r for r in rows if r[metric][span]["improvement"] is not None]
+        fig.add_trace(go.Scatter(
+            x=[r[metric][span]["improvement"] * scale for r in part], y=[names.get(r["kind"], r["kind"]) for r in part],
+            mode="markers", name={"all": "all years", "tune": "2007–2019", "holdout": "2020 on"}[span],
+            marker=dict(symbol=symbol, size=11, color=colour, line=dict(color=T.BG, width=2)),
+            error_x=dict(type="data", symmetric=False,
+                         array=[(r[metric][span]["high"] - r[metric][span]["improvement"]) * scale for r in part],
+                         arrayminus=[(r[metric][span]["improvement"] - r[metric][span]["low"]) * scale for r in part],
+                         color=T.MUTED, thickness=1.2, width=3),
+            visible=True if span == "all" else "legendonly",
+            hovertemplate="%{y}<br>%{x:+.2f} vs equal trust<extra></extra>"))
+    fig.update_xaxes(showspikes=False, title=dict(text=("Brier improvement ×1000" if metric == "brier" else
+                                                        "percentage points of return per 20-session period"
+                                                        ) + " (right = better than equal trust)",
+                                                  font=dict(color=T.MUTED, size=11)))
+    fig.update_yaxes(autorange="reversed")
+    return _layout(fig, 330, unified=False)

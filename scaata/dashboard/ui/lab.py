@@ -9,6 +9,7 @@ from __future__ import annotations
 import pandas as pd
 import streamlit as st
 
+from scaata.config import ROOT_DIR
 from scaata.dashboard.ui import charts
 from scaata.dashboard.ui import theme as T
 
@@ -174,6 +175,120 @@ def _how_much_to_trust(records: list[dict], lab: list[dict]) -> None:
                   "after it is filed.")
 
 
+def _self_critique() -> None:
+    """Phase A: does the system's own critique work? From research/phase_a.json and contribution.json."""
+    from scaata.dashboard.ui.data import read_json
+
+    study = read_json(ROOT_DIR / "research" / "phase_a.json")
+    if not study:
+        return
+    T.heading("Does its self-critique work?", f"{study['judged_days']:,} judged days since {study['first'][:4]}")
+    T.caption("The live record has 14 judged days. This replays every advisor's view on every stock since 2007 "
+              "and what each stock then did over the next 20 sessions against cash: about 4,800 days. A learner's "
+              "forecasts are out of sample by construction (the trust used on a day was learned only from "
+              "outcomes at least 20 sessions old), so the whole history is a fair test of a learner whose "
+              "settings were fixed in advance. " + study["note"])
+
+    poison = study["poison"]["live"]
+    st.markdown('<div class="hs-eyebrow">The poison test: can it spot a bad advisor?</div>', unsafe_allow_html=True)
+    order = ["adversary_demoted", "weak_adversary_below_equal", "random_not_promoted", "informative_top2"]
+    rows = "".join(
+        f'<div class="hs-row"><div><div class="a">{poison["rules"].get(key.replace("_demoted", "").replace("_below_equal", "").replace("_not_promoted", "").replace("_top2", ""), key)}'
+        f'</div></div><div style="display:flex;gap:10px;align-items:center"><span class="mono" style="font-size:1.15rem;'
+        f'color:{T.INK}">{poison["rates"][key]:.0%}</span>'
+        + (T.chip("passes", "live") if poison["passes"][key] else T.chip("fails", "off")) + "</div></div>"
+        for key in order if key in poison["rates"])
+    st.markdown(f'<div class="hs-panel">{rows}</div>', unsafe_allow_html=True)
+    T.caption(f"Four advisors were planted in the real history, built with knowledge of the future so their "
+              f"quality is known: one always wrong, one wrong 60% of the time, one pure noise, one right 60% of the "
+              f"time. The live learner was run over {poison['seeds']} different draws and had to get each right in "
+              f"at least {poison['required']:.0%}. <b>It did, in every draw.</b> This is a standing check: a "
+              "failure should block any change to the learner. (Mean final trust: "
+              + ", ".join(f"{k.replace('_', ' ')} {v:.0%}" for k, v in poison["mean_trust"].items()) + ".)")
+
+    st.markdown('<div class="hs-eyebrow" style="margin-top:1.4rem">Does learning trust beat equal trust?</div>',
+                unsafe_allow_html=True)
+    metric = st.segmented_control("Score", ["brier", "payoff"], default="payoff", key="learner_metric",
+                                  format_func={"brier": "Forecast score (Brier)", "payoff": "Following the sign"}.get,
+                                  label_visibility="collapsed") or "payoff"
+    _plot(charts.learner_scoreboard(study, metric), f"learners_{metric}")
+    if metric == "brier":
+        T.caption("The proper score of the combined forecast, treating a view of +1 as 75% that the stock beats "
+                  "cash. <b>Every learner is significantly worse than equal trust.</b> The reason is not that they "
+                  "pick worse directions: they concentrate trust on the advisor with the biggest views, which "
+                  "makes the blend more confident than its record entitles it to be, and this score punishes "
+                  "that. Switch to &ldquo;Following the sign&rdquo; to see direction alone.")
+    else:
+        T.caption("What following the combined view&rsquo;s sign would have earned, ignoring how large the view is. "
+                  "<b>No learner can be told apart from equal trust</b>: every interval includes zero, and AdaHedge "
+                  "is slightly worse. Toggle the spans in the legend; the sign of the difference changes from "
+                  "one span to the other.")
+
+    left, right = st.columns(2, gap="large")
+    with left:
+        span = st.segmented_control("Years", ["tune", "holdout"], default="tune", key="reliab_span",
+                                    format_func={"tune": "2007–2019", "holdout": "2020 on"}.get,
+                                    label_visibility="collapsed") or "tune"
+        _plot(charts.reliability_diagram(study, span), f"reliability_{span}")
+    with right:
+        cal = study["calibration"]["equal blend"]
+        sw, rc = cal["strong_vs_weak"], cal.get("recalibration")
+        cells = "".join(
+            f'<div class="hs-row"><div><div class="a">{label}</div><div class="b">weaker half of views right '
+            f'{sw[s]["weak_right"]:.1%}, stronger half {sw[s]["strong_right"]:.1%}; gap {sw[s]["gap"]:+.1%} '
+            f'(95%: {sw[s]["low"]:+.1%} to {sw[s]["high"]:+.1%})</div></div></div>'
+            for s, label in (("tune", "2007–2019"), ("holdout", "2020 on")))
+        st.markdown('<div class="hs-eyebrow">Does a stronger view mean a more reliable one?</div>'
+                    f'<div class="hs-panel">{cells}</div>', unsafe_allow_html=True)
+        T.caption("In the first span the stronger views were slightly <i>less</i> reliable; in the second, more. "
+                  "Neither gap can be told from zero for the blend. <b>The inverted confidence seen in the live "
+                  "record is not a stable pattern.</b>"
+                  + (f" Re-fitting the mapping on 2007–2019 and scoring it on 2020 onward improves the Brier score "
+                     f"by {rc['improvement']*1000:.1f} thousandths, to {rc['brier_recalibrated']:.4f}: "
+                     "a coin flip scores 0.2500. Recalibrating does not find skill; it removes the over-confidence."
+                     if rc else ""))
+
+    skill = [r for r in study["skill"] if r["span"] in ("tune", "holdout") and r.get("skill") is not None]
+    if skill:
+        st.markdown('<div class="hs-eyebrow" style="margin-top:1.2rem">How good is each advisor on its own?</div>',
+                    unsafe_allow_html=True)
+        table = pd.DataFrame([{"Advisor": r["source"], "Years": {"tune": "2007–2019", "holdout": "2020 on"}[r["span"]],
+                               "Views": r["opinions"], "Right": r["hit_rate"] * 100,
+                               "Range": f"{r['hit_low']:.0%}–{r['hit_high']:.0%}", "Brier skill": r["skill"]}
+                              for r in skill])
+        st.dataframe(table, hide_index=True, use_container_width=True, column_config={
+            "Right": st.column_config.NumberColumn("Right", format="%.1f%%"),
+            "Brier skill": st.column_config.NumberColumn("Brier skill vs a coin flip", format="%+.3f"),
+            "Views": st.column_config.NumberColumn("Views", format="%d")})
+        T.caption("Each advisor is right on 46–53% of its opinions, with ranges that include 50%, and its views are "
+                  "far more confident than that: negative skill means worse than always saying 50%. "
+                  "<b>On 19 years of data no advisor has forecast skill that can be told from a coin flip.</b> "
+                  "Their value, where they have any, is in the risk rules built on them, not in prediction.")
+
+    cont = read_json(ROOT_DIR / "research" / "contribution.json")
+    if cont:
+        _contribution(cont)
+
+
+def _contribution(cont: dict) -> None:
+    st.markdown('<div class="hs-eyebrow" style="margin-top:1.2rem">What does each advisor add to the whole '
+                'system?</div>', unsafe_allow_html=True)
+    span = st.segmented_control("Years ", ["tune", "holdout"], default="holdout", key="contrib_span",
+                                format_func={"tune": "2007–2019", "holdout": "2020 on"}.get,
+                                label_visibility="collapsed") or "holdout"
+    d = cont["spans"][span]
+    rows = "".join(
+        f'<div class="hs-row"><div><div class="a">{a.capitalize()}</div><div class="b">Sharpe {d["shapley"]["sharpe"][a]:+.3f} · '
+        f'return {d["shapley"]["cagr"][a]:+.2%} a year · worst fall {d["shapley"]["max_drawdown"][a]:+.1%}</div></div></div>'
+        for a in cont["players"])
+    st.markdown(f'<div class="hs-panel">{rows}</div>', unsafe_allow_html=True)
+    T.caption(f"Each advisor&rsquo;s Shapley value: its average effect over every order in which advisors could "
+              f"have been added to the real brain, risk rules included. With nobody speaking the brain just holds "
+              f"(Sharpe {d['baseline']['sharpe']:.2f}, worst fall {d['baseline']['max_drawdown']:.0%}); with all "
+              f"three it is the live rule (Sharpe {d['full']['sharpe']:.2f}, worst fall {d['full']['max_drawdown']:.0%}). "
+              "The values add up to exactly that difference. News is left out: it never speaks in this history.")
+
+
 def page() -> None:
     from scaata.research import director, registry
 
@@ -265,6 +380,7 @@ def page() -> None:
 
     if lab:
         _how_much_to_trust(records, lab)
+    _self_critique()
 
     T.heading("What the Lab cannot do")
     rules = [("Change the live agent", "A supported finding is a proposal. It reaches the trading code only as a "

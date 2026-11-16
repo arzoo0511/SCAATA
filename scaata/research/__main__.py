@@ -7,6 +7,8 @@
     python -m scaata.research run --proposed   ... every proposed experiment not yet run
     python -m scaata.research list             every experiment on file and its verdict
     python -m scaata.research events           what each stock did after each kind of news
+    python -m scaata.research contribution     each advisor's Shapley value in the whole system (~10 min)
+    python -m scaata.research phase-a          skill ledger, calibration, learners and the poison test
 
 An experiment is registered (criteria and all) before it runs, then run on
 the frozen snapshot, then reviewed. Nothing here touches the live paper
@@ -89,6 +91,26 @@ def main(argv: list[str]) -> None:
                 h = r["h20"]
                 print(f"  {r['label']:<26} {r['tone']:<5} n={r['events']:<5} 20 sessions: {h['mean']:+.2%} "
                       f"[{h['low']:+.2%}, {h['high']:+.2%}]{' *' if h['reliable'] else ''}")
+    elif command == "phase-a":
+        from scaata.research import phase_a
+
+        study = phase_a.run()
+        print(f"{study['judged_days']} judged days since {study['first']}; {study['runtime_seconds']}s")
+        for row in study["learners"]:
+            h = row["all"]
+            print(f"  {row['kind']:<9} Brier improvement over equal trust {h['improvement']:+.5f} "
+                  f"[{h['low']:+.5f}, {h['high']:+.5f}]  corrected p {h['p_corrected']}")
+        for kind, test in study["poison"].items():
+            print(f"  poison ({kind}): " + ", ".join(f"{k} {v:.0%}" for k, v in test["rates"].items()))
+    elif command == "contribution":
+        from scaata.research import contribution
+
+        out = contribution.run()
+        for span, d in out["spans"].items():
+            print(f"{span}: hold-by-default Sharpe {d['baseline']['sharpe']:.3f} -> all three {d['full']['sharpe']:.3f}")
+            for a, v in d["shapley"]["sharpe"].items():
+                print(f"   {a:<11} Shapley (Sharpe) {v:+.4f}   (return {d['shapley']['cagr'][a]:+.4f}, worst fall "
+                      f"{d['shapley']['max_drawdown'][a]:+.4f})")
     elif command == "list":
         for r in registry.load():
             print(f"{registry.status(r):<14} {r['id']:<36} {r['title']}")

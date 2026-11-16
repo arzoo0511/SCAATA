@@ -56,6 +56,12 @@ jobs:
         continue-on-error: true
         run: python -m scaata.macroverse all
 
+      - name: Phase A (skill ledger, learners, poison test, contribution)
+        continue-on-error: true
+        run: |
+          python -m scaata.research phase-a
+          python -m scaata.research contribution
+
       - name: News event study
         continue-on-error: true
         run: python -m scaata.research events

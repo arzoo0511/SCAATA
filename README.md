@@ -64,6 +64,12 @@ python -m scaata.research run --proposed   # file, run and review them
 python -m scaata.research list
 ```
 
+Phase A (`scaata/research/learners.py`, `contribution.py`) tests the self-critique itself on 19 years of
+judged predictions: a poison test that plants known-bad advisors (the live learner passes in 20 of 20 draws),
+a comparison of six ways of learning trust against equal trust (none beats it), a skill ledger, a calibration
+study, and each advisor's Shapley value in the whole system (all three make the worst fall smaller). The honest
+reading: the advisors are risk tools, not forecasters.
+
 How much a result is worth is itself measured (`scaata/research/stats.py`): a Deflated Sharpe Ratio against
 holding's Sharpe, the probability that picking the past winner fails, an evidence budget that shrinks with every
 test, and a live e-process on the paper book that compares HANSEI with a holder of the same exposure and can be

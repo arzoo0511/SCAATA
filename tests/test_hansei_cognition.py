@@ -134,3 +134,25 @@ def test_an_invalid_run_that_a_corrected_one_replaced_is_not_a_second_belief():
     assert [b["detail"]["experiment"] for b in both] == ["new"]
     alone = beliefs._findings([record("old", "failed_review")])
     assert [b["detail"]["experiment"] for b in alone] == ["old"], "with no corrected run it stays, as untested"
+
+
+def test_phase_a_results_become_beliefs_with_rule_based_status():
+    study = {"skill": [{"source": "trend", "span": "all", "skill": -0.13, "hit_rate": 0.519, "hit_low": 0.49,
+                        "hit_high": 0.55, "opinions": 20000},
+                       {"source": "momentum", "span": "all", "skill": 0.01, "hit_rate": 0.56, "hit_low": 0.52,
+                        "hit_high": 0.60, "opinions": 20000}],
+             "learners": [{"kind": "live", "label": "The live learner",
+                           "payoff": {"all": {"improvement": -0.0006, "low": -0.0016, "high": 0.0003, "p_corrected": 1.0}},
+                           "brier": {"all": {"improvement": -0.0025, "low": -0.0038, "high": -0.0013, "p_corrected": 1.0}}}],
+             "poison": {"live": {"seeds": 20, "required": 0.95, "rates": {"adversary_demoted": 1.0, "random_not_promoted": 0.8},
+                                 "passes": {"adversary_demoted": True, "random_not_promoted": False}}}}
+    contribution = {"players": ["trend"], "spans": {"tune": {"shapley": {"max_drawdown": {"trend": 0.08}}},
+                                                      "holdout": {"shapley": {"max_drawdown": {"trend": 0.07}}}}}
+    by_key = {b["detail"]["key"]: b for b in beliefs._phase_a(study, contribution)}
+    assert by_key["skill-trend"]["status"] == "cannot tell" and by_key["skill-momentum"]["status"] == "established"
+    assert by_key["learner-live-payoff"]["status"] == "cannot tell", "an interval that includes zero settles nothing"
+    assert by_key["learner-live-brier"]["status"] == "contradicted"
+    assert by_key["poison-adversary_demoted"]["status"] == "established"
+    assert by_key["poison-random_not_promoted"]["status"] == "contradicted"
+    assert by_key["contribution-trend"]["status"] == "established"
+    assert beliefs._phase_a(None, None) == []

@@ -235,6 +235,39 @@ pre-set bound; each of the five changes has a filed verdict.
 
 ---
 
+### 5.5 Phase A status (built 17 Nov 2026, not yet published)
+
+Run on 4,873 judged days since 2007 (the live record has 14). The learners reproduce the live learner exactly;
+a test compares them with `memory.learn` day by day.
+
+| Question | Result |
+|---|---|
+| Does the live learner pass the poison test? | **Yes, in 20 of 20 draws, on all four rules**: an always-wrong advisor ends at the floor, a 40%-right one ends below an equal share, pure noise is not promoted, a 60%-right one ends in the top two of eight. The rules and the 95% bar were fixed before the run. This part of G1 is met. |
+| Does any way of learning trust beat equal trust? | **No.** On the pre-registered forecast score (Brier) every learner is significantly *worse* than equal trust. On following the sign (direction only) none can be told from equal trust; AdaHedge is slightly worse. Tested: plain Hedge, the live learner, sleeping advisors, AdaHedge, delay-aware, shrunk toward equal. Mixing past posteriors was not tested (see below). |
+| Why are they worse on Brier? | They concentrate trust on the advisor with the biggest views (momentum, 50-85%), so the blend claims more confidence than its record supports, and Brier punishes that. It is about confidence, not direction. |
+| Do the advisors forecast direction? | Each is right on 46-53% of opinions; ranges include 50% for trend and volatility, and only momentum's lower bound clears 50% over 19 years. Their views are far too confident to read as probabilities. |
+| Is a stronger view more reliable? | **No stable pattern.** Stronger views were slightly less reliable in 2007-19 and more reliable in 2020 on; neither gap can be told from zero for the blend. The inverted confidence seen live after 14 days was noise. |
+| Does recalibrating help? | It improves Brier by 0.006 (blend) to 0.036 (trend) on 2020 on, to about 0.2505, where a coin flip scores 0.2500. It removes over-confidence; it does not find skill. |
+| What does each advisor add to the whole system? | All three make the worst fall smaller, in both spans (Shapley values for the worst fall: trend +8.4 and +8.2 points, momentum +7.6 and +1.4, volatility +2.8 and +2.1), and lift Sharpe by 0.02-0.07 each, at a small cost in return (-0.1 to -0.8% a year). With nobody speaking the brain just holds (Sharpe 0.87 and 0.73); with all three it is 0.98 and 0.85. **Trend is the largest single contributor to risk reduction.** News cannot be assessed: it never speaks in the history. |
+
+**What this changes.**
+
+1. *The advisors are risk tools, not forecasters.* Their value is in the exposure rules built on them, which is
+   exactly what the rest of the evidence says (smaller falls, not bigger returns). Any further work should be
+   judged on risk, not on forecast accuracy.
+2. *G2 as written cannot be met, and the reason is instructive.* "Learned beats equal on Brier" is the wrong
+   test for a learner whose loss is return-weighted and that concentrates trust. Replace G2 with: **a learner
+   beats equal trust on following the sign, by an anytime-valid test, on data after the change is filed.** On
+   19 years of history it does not.
+3. *Do not change the live learner or add a calibration layer.* No variant beat the live one, and
+   recalibration only shrinks views toward 50%. The live brain does not read views as probabilities.
+4. *Fixed-Share stays* (decided by the owner; neutral in every test here).
+
+**Not done in Phase A, and why:** conformal intervals (the calibration result says there is no skill to put
+an interval around); mixing past posteriors (fixed advance judgement that it is undetectable with four weak
+advisors, now strengthened); a shadow calibration layer in the live agent (no case for it); a check of the
+news advisor (no news history before 2012).
+
 ## 6. Phase B — Fix the one weakness the evidence identified (2–3 weeks)
 
 The Lab and Macroverse agree: HANSEI saves money as a fall begins and gives it back by returning late
