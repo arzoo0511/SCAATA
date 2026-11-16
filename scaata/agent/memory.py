@@ -9,6 +9,14 @@ keep being right and away from ones that keep being wrong.
 
 Trust never drops to zero (`MIN_WEIGHT`): markets change, and an advisor
 that was wrong for a month may be right for the next.
+
+Fixed-Share (Herbster and Warmuth, 1998): after each update a small fixed
+fraction (`SHARE`) of all trust is pooled and handed back equally. Plain
+Hedge is only promised to do as well as the single best advisor over the
+whole record; with the share step it is promised to track the best advisor
+even when which one is best changes, because an advisor that fell out of
+favour always keeps enough trust to recover quickly. `SHARE = 0` is plain
+Hedge.
 """
 from __future__ import annotations
 
@@ -27,6 +35,9 @@ MEMORY_PATH = ROOT_DIR / "forward_test" / "hansei_memory.json"
 HORIZON = 20                    # sessions after which a view is judged
 LEARNING_RATE = 0.05            # Hedge eta on per-day normalized losses. Slow on purpose:
                                 # faster settings chased 10-day noise and traded more in backtests
+SHARE = round(1 / 252, 5)       # Fixed-Share fraction pooled and returned equally each update; 0 = plain Hedge.
+                                # 1/252 = one expected change of best advisor a year. Live since 16 Nov 2026, by
+                                # the owner's decision; Lab experiment 'fixed-share-corrected' is the test on file.
 MIN_WEIGHT = 0.05
 SILENT = 0.05                   # a view smaller than this counts as no opinion
 
@@ -56,11 +67,12 @@ def remember(memory: dict, on: date, symbol: str, views: dict[str, float], close
 
 
 def learn(memory: dict, closes_by_symbol: dict[str, "pd.Series"], on: date,
-          learning_rate: float = LEARNING_RATE) -> list[dict]:
+          learning_rate: float = LEARNING_RATE, share: float | None = None) -> list[dict]:
     """Judges every observation that is now `HORIZON` sessions old, and
     updates trust. Returns the lessons learned today."""
     import pandas as pd
 
+    share = SHARE if share is None else share
     lessons = []
     pending = [o for o in memory["observations"] if not o["judged"]]
     by_day: dict[str, list[dict]] = {}
@@ -94,7 +106,10 @@ def learn(memory: dict, closes_by_symbol: dict[str, "pd.Series"], on: date,
         updated_active = hedge.update(losses) * mass
         before = dict(weights)
         merged = {**weights, **{a: float(w) for a, w in zip(active, updated_active)}}
-        floored = floor_weights_on_simplex(np.array([merged[a] for a in ADVISORS]), MIN_WEIGHT)
+        trust = np.array([merged[a] for a in ADVISORS])
+        if share > 0:      # Fixed-Share: pool a fraction of all trust and hand it back equally
+            trust = (1 - share) * trust + share * trust.sum() / len(ADVISORS)
+        floored = floor_weights_on_simplex(trust, MIN_WEIGHT)
         weights = {a: round(float(w), 4) for a, w in zip(ADVISORS, floored)}
         best = active[int(np.argmin(losses))]
         worst = active[int(np.argmax(losses))]

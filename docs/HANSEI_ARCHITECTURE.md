@@ -176,6 +176,68 @@ with an event type (next), so the Lab can ask "what did IOC do after oil-up
 news?". Where they do not: deciding trades, or judging whether an experiment
 passed.
 
+### What the cognitive layer is now (14 Nov 2026)
+
+Built: `scaata/cognition/beliefs.py` assembles the belief store on demand from the files above; the Beliefs
+page shows it; `python -m scaata.cognition snapshot` appends changes to `cognition/history.jsonl`, so what was
+believed on an earlier date is never rewritten.
+
+What it shows today, from 70 judged predictions over 14 days:
+
+| Source | Right on | Plausible range | Weak views right | Strong views right |
+|---|---|---|---|---|
+| The brain | 59% of days | 34% to 80% | 74% | 44% |
+| Trend | 45% | 23% to 69% | 67% | 26% |
+| Volatility brake | 38% | 18% to 64% | 40% | 18% |
+| Momentum | 60% | 35% to 81% | 54% | 66% |
+| News | 65% | 40% to 84% | 64% | 68% |
+
+Every range includes 50%, so nothing is settled. The brain and the trend advisor have so far been right
+*less* often on their strong views than their weak ones; if that persists past 20 judged days it is a real
+problem, because exposure is cut hardest exactly when the score is most confident.
+
+Not built, in order of value:
+
+1. **Event tags on headlines** (oil, rates, results, regulation). Without them "Interpret" stays partial:
+   news is good or bad for a company, never linked to a cause. This needs a change to the daily news scorer,
+   so it needs a decision.
+2. **Automatic snapshots.** The belief history only grows when the command is run. Adding one step to the
+   daily workflow would make it continuous; that is a workflow change and has not been made.
+3. **Beliefs feeding decisions.** Nothing in the belief store reaches the brain. By design: a belief changes
+   trading only through a Lab experiment and the gate.
+
+### Changes of 16 Nov 2026
+
+**Fixed-Share is the live learner.** Decided by the owner; `memory.SHARE = 1/252`. The Lab's test of it is on
+file as `fixed-share-corrected`: better on 2007-2019 (Sharpe +0.03, return +1.1% a year, 218 trades against
+284), worse on 2020 onward (Sharpe -0.05, return -0.7% a year), both within noise. The learner already had a
+5% trust floor and updates on every judged day, so Fixed-Share's anti-collapse property was partly present;
+what is new is the steady pull back toward equal trust.
+
+**A bug, and what it changed.** The first Fixed-Share run was invalid. Inside `backtest.simulate` a variable
+called `share` (one stock's slot of the book, in rupees) already existed; a new parameter of the same name was
+overwritten by it on the first day and then passed to the learner as about 2,000 instead of 0.004. Both the
+variant and the baseline were corrupted identically, so the result was exactly zero difference. Two reviewer
+checks were added because of it: a variant identical to its baseline fails review, and so does a run whose
+baseline no longer matches an earlier baseline on the same data and learner. Experiments run before that day
+were not affected.
+
+**Finished from the "not built" lists:**
+
+- Event labels on every headline (`agent/events.py`), applied by the daily scorer as a label only. The news
+  signal was fingerprinted on all 161 saved days before and after: identical.
+- A news event study over 3,962 events since 2012 (`research/event_study.py`).
+- Whole-share and no-borrowing modes in the replay (`simulate(lots_per_slot=..., no_borrowing=...)`), both off
+  by default, and the two experiments that use them.
+- Proposals (`research/proposals.py`): each possible change, the experiment that tests it, and where it
+  stands. Nothing is applied from there.
+- Held-out check on every sensitivity: fit on the years before 2017, compared with the years after.
+- Eight shock scenarios instead of four.
+- Belief snapshots after every daily run, and a weekly research workflow.
+
+**Still not possible:** rate, inflation and credit shocks (no daily data); custom scenarios on the site (each
+takes minutes of compute).
+
 ## 7. Risks
 
 - **Overfitting by enthusiasm.** Every new advisor or rule is another chance to

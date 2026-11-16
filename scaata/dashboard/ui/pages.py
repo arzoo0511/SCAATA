@@ -3,6 +3,7 @@ state and draws it; none can place an order, change a setting or write a file.
 
     Now       -- is it beating holding, and why or why not
     Mind      -- how each day's decisions were reached (interactive replay)
+    Beliefs   -- what it currently believes, on what evidence, and how its predictions did (ui/cog.py)
     Learning  -- what it has judged about its own advisors
     News      -- what it read
     Evidence  -- backtests and studies, including the ones that failed
@@ -22,7 +23,7 @@ import streamlit.components.v1 as components
 from scaata.agent.daily import load_journal
 from scaata.agent.memory import HORIZON, load_memory
 from scaata.config import INDIA_BENCHMARK, INDIA_TICKERS, ROOT_DIR
-from scaata.dashboard.ui import charts, data, lab, macro, mind, now
+from scaata.dashboard.ui import charts, cog, data, lab, macro, mind, now
 from scaata.dashboard.ui import theme as T
 from scaata.live.paper_book import load_book, summary as book_summary
 
@@ -137,6 +138,23 @@ def mind_page() -> None:
         + "</div>", unsafe_allow_html=True)
 
 
+# --------------------------------------------------------------- Beliefs
+def beliefs_page() -> None:
+    from scaata.cognition.__main__ import load_history
+    from scaata.cognition.beliefs import build
+
+    state = build()
+    T.intro("What it believes", "Every belief, with its evidence.",
+            "One place for everything HANSEI currently holds to be true: what it has measured, what it has "
+            "tested, what it only assumes, and how its own predictions have turned out. Each belief&rsquo;s status "
+            "is worked out from its evidence by fixed rules, so nothing can be promoted by wording. "
+            "<b>Click any belief to see the numbers behind it.</b>")
+    components.html(cog.board_html(state, load_history()), height=cog.HEIGHT, scrolling=False)
+    T.foot("Built on each page load from the journal, memory, daily report card, the Lab&rsquo;s registry and "
+           "Macroverse&rsquo;s saved results. Nothing on this page writes to the agent or changes how it trades. "
+           "To record today&rsquo;s beliefs in the history: <code>python -m scaata.cognition snapshot</code>.")
+
+
 # -------------------------------------------------------------- Learning
 def learning_page() -> None:
     _, journal, memory, evaluation = _state()
@@ -146,7 +164,9 @@ def learning_page() -> None:
             "It writes down what it believed, then checks.",
             f"Every day it records each advisor&rsquo;s view on each stock. <b>{HORIZON} sessions later</b> it "
             "compares that view with what the stock actually did, against a liquid fund, and shifts trust toward "
-            "the advisors that were right (the Hedge algorithm). An advisor with no opinion that day is neither "
+            "the advisors that were right (Hedge, with the Fixed-Share step: a small share of all trust is "
+            "handed back equally each time, so an advisor that fell behind can recover when the market changes). "
+            "An advisor with no opinion that day is neither "
             "rewarded nor punished.")
     T.figures([("Beliefs on file", f"{len(beliefs)}", "one per stock per day", None),
                ("Judged so far", f"{judged}", f"{len(beliefs) - judged} still too young", None),
@@ -216,6 +236,36 @@ def news_page() -> None:
     plot(charts.news_bubbles(part))
     T.caption("Bigger dots mattered more or ran in more outlets. Blue is good news for the company, red is bad.")
 
+    T.heading("What kind of news it was", "every material story, by event")
+    plot(charts.news_events(part, data.EVENT_LABELS))
+    T.caption("Each story is labelled by what it is about, from a fixed list of words. The label is for research "
+              "only: nothing reads it when scoring a headline or deciding a trade.")
+
+    study = data.read_json(ROOT_DIR / "research" / "event_study.json")
+    if study and study.get("table"):
+        T.heading("What happened after each kind of news", f"{study['events']:,} events, {study['first'][:4]} to "
+                                                            f"{study['last'][:4]}")
+        left, right = st.columns([1, 1])
+        horizon = left.segmented_control("Horizon", study["horizons"], default=20, key="event_horizon",
+                                         format_func=lambda h: f"next {h} sessions",
+                                         label_visibility="collapsed") or 20
+        spans = {"all": "All years", "clean": f"Since {study['clean_from'][:7]} only"}
+        span = right.segmented_control("Span", list(spans), default="all", format_func=spans.get,
+                                       key="event_span", label_visibility="collapsed") or "all"
+        plot(charts.event_study(study["table"], horizon, span))
+        shown = [r for r in study["table"] if r["span"] == span]
+        reliable = [r for r in shown if r[f"h{horizon}"]["reliable"]]
+        expected = [r for r in reliable if r[f"h{horizon}"]["as_expected"]]
+        T.caption(f"The stock&rsquo;s return minus the five-stock basket, starting the day after the headline. "
+                  f"Faded dots have an interval that crosses zero. Of <b>{len(shown)}</b> kinds of news shown, "
+                  f"<b>{len(reliable)}</b> were followed by a move that can be told from zero, and "
+                  f"<b>{len(expected)}</b> of those went the way the tone suggested. "
+                  + ("&ldquo;Since " + study["clean_from"][:7] + "&rdquo; keeps only headlines the scoring model "
+                     "could not have seen in training: the honest test, and a small one. " if span == "clean" else
+                     "Most of these headlines predate the scoring model&rsquo;s training cutoff, so their tone may "
+                     "carry hindsight; switch to the later span for the honest test. ")
+                  + "With this many comparisons, one or two reliable-looking results are expected by chance.")
+
     T.heading("What the news advisor concluded", "its view per stock, per day")
     plot(charts.news_views(decisions[decisions["symbol"].isin(chosen)]))
 
@@ -225,7 +275,8 @@ def news_page() -> None:
         heads = "".join(
             f'<div class="hs-head"><span class="hs-sent" style="background:'
             f'{T.UP if h["sentiment"] > .15 else T.DOWN if h["sentiment"] < -.15 else T.FLAT}">'
-            f'{h["sentiment"]:+.1f}</span>{h["title"]}<span class="hs-foot"> · {h.get("source") or ""}'
+            f'{h["sentiment"]:+.1f}</span>{h["title"]}<span class="hs-foot"> · '
+            f'{data.EVENT_LABELS.get(h.get("event") or data.event_type(h["title"]), "Other")} · {h.get("source") or ""}'
             + (f' and {h.get("count", 1) - 1} more' if h.get("count", 1) > 1 else "") + "</span></div>"
             for h in digest.get("top", [])) or '<div class="hs-foot">Nothing material. The news advisor is silent.</div>'
         columns[i % 2].markdown(
@@ -376,7 +427,8 @@ lab_page = lab.page
 MACRO_RUNS = ROOT_DIR / "macroverse" / "runs"
 
 
-SCENARIO_ORDER = ("crude-up-60", "market-down-20", "rupee-down-10", "all-three")
+SCENARIO_ORDER = ("market-down-10", "market-down-20", "market-down-30", "market-up-20", "crude-up-60",
+                  "crude-up-100", "rupee-down-10", "all-three")
 
 
 def macro_runs() -> tuple[list[dict], dict | None]:
@@ -475,13 +527,13 @@ _ARCH = f"""
     <text x="690" y="82" fill="{T.INK}" font-size="17" font-weight="700">Research Lab</text>
     <text x="690" y="106" fill="{T.SOFT}" font-size="12.5">Hypothesis → experiment → devil's</text>
     <text x="690" y="126" fill="{T.SOFT}" font-size="12.5">advocate → recorded finding.</text>
-    <text x="690" y="168" fill="#7BD3A6" font-size="11" font-weight="700" letter-spacing="1.5">LIVE · RUN BY HAND</text>
+    <text x="690" y="168" fill="#7BD3A6" font-size="11" font-weight="700" letter-spacing="1.5">LIVE · WEEKLY</text>
 
     <rect x="670" y="262" width="300" height="118" rx="14" fill="{T.PANEL}" stroke="{T.HANSEI}" stroke-width="2"/>
     <text x="690" y="294" fill="{T.INK}" font-size="17" font-weight="700">Macroverse</text>
     <text x="690" y="318" fill="{T.SOFT}" font-size="12.5">Replay real crises and shocks</text>
     <text x="690" y="338" fill="{T.SOFT}" font-size="12.5">through the real brain.</text>
-    <text x="690" y="364" fill="#7BD3A6" font-size="11" font-weight="700" letter-spacing="1.5">LIVE · COMPUTED OFFLINE</text>
+    <text x="690" y="364" fill="#7BD3A6" font-size="11" font-weight="700" letter-spacing="1.5">LIVE · WEEKLY</text>
 
     <rect x="30" y="262" width="300" height="118" rx="14" fill="{T.PANEL}" stroke="{T.TAN}" stroke-width="2"/>
     <text x="50" y="294" fill="{T.INK}" font-size="17" font-weight="700">Promotion gate</text>
@@ -514,18 +566,22 @@ def system_page() -> None:
         ("Daily paper trading", "live", "GitHub Actions runs the agent after each NSE close and commits the new "
          "book, journal and memory. Re-running is safe: a processed session is skipped."),
         ("Four advisors and the brain", "live", "Trend, volatility brake, momentum, news. Hold by default."),
-        ("News reading", "live", "Headlines scored by a language model (Groq), with a keyword fallback."),
-        ("Memory: beliefs, lessons, trust", "live", "Hedge learning over a 20-session horizon. Working, but not "
-         "yet shown to improve results."),
+        ("News reading", "live", "Headlines scored by a language model (Groq), with a keyword fallback, and "
+         "labelled by what they are about. The label is for research only."),
+        ("Memory: beliefs, lessons, trust", "live", "Fixed-Share learning over a 20-session horizon: trust "
+         "shifts toward advisors that were right, and a small share is handed back equally so a fallen advisor "
+         "can recover. Not yet shown to improve results."),
         ("Daily report card", "live", "Splits the gap to holding into exposure and stock choice; tracks each "
          "advisor&rsquo;s hit rate and data health."),
         ("Backtests and signal studies", "live", "2007 onward, tune and holdout splits, a settings grid, block "
          "bootstrap. Run by hand."),
+        ("Belief store and prediction scorecard", "live", "Every belief with its kind, status and evidence, "
+         "assembled from the journal, the Lab and Macroverse; its own predictions scored against outcomes."),
         ("Trajectory self-critique", "part", "Replays each advisor alone and scores the whole path. Passed its "
          "wiring test; awaiting grid validation before it can go live."),
         ("Research Lab", "live", "Experiments filed in advance, run through the real brain on a frozen price "
-         "snapshot, and reviewed by code. Run by hand; it cannot change the agent."),
-        ("Macroverse", "live", "Six real crises replayed, and four synthetic shocks, through the real brain. "
+         "snapshot, and reviewed by code. Re-run every Saturday on its own; it cannot change the agent."),
+        ("Macroverse", "live", "Six real crises replayed, and eight synthetic shocks, through the real brain. "
          "Computed offline; rate, inflation and credit shocks are not available."),
         ("Real-money trading", "off", "Not built and not planned. No broker is connected to this site."),
     ]

@@ -48,6 +48,17 @@ SCENARIOS = [
     {"id": "all-three", "title": "All three at once", "shock": {"market": -0.20, "crude": 0.60, "rupee": 0.10},
      "summary": "The market falls 20% while crude rises 60% and the rupee weakens 10%, all over one month."},
 ]
+MORE_SCENARIOS = [
+    {"id": "market-down-10", "title": "Market down 10%", "shock": {"market": -0.10},
+     "summary": "A correction: the Nifty falls 10% over a month and stays there."},
+    {"id": "market-down-30", "title": "Market down 30%", "shock": {"market": -0.30},
+     "summary": "A crash on the scale of early 2020: the Nifty falls 30% over a month and stays there."},
+    {"id": "market-up-20", "title": "Market up 20%", "shock": {"market": 0.20},
+     "summary": "A rally: the Nifty rises 20% over a month. This is the case where caution costs most."},
+    {"id": "crude-up-100", "title": "Crude oil doubles", "shock": {"crude": 1.00},
+     "summary": "Brent doubles over a month and stays there, with the index and the rupee held still."},
+]
+SCENARIOS = SCENARIOS + MORE_SCENARIOS
 UNAVAILABLE = [
     ("RBI raises rates by 200 basis points", "No reliable free daily history of Indian bond yields or the policy "
      "rate path is in the data, so a rate sensitivity cannot be measured."),
@@ -70,6 +81,18 @@ def _ols(y: np.ndarray, x: np.ndarray) -> np.ndarray:
     return np.linalg.lstsq(design, y, rcond=None)[0][1:]      # one row per factor, one column per stock
 
 
+def _bootstrap(y: np.ndarray, x: np.ndarray, rng: np.random.Generator) -> np.ndarray:
+    """The regression repeated on resampled blocks of weeks."""
+    n, point = len(x), _ols(y, x)
+    starts_needed = int(np.ceil(n / BLOCK_WEEKS))
+    draws = np.empty((BETA_DRAWS, *point.shape))
+    for k in range(BETA_DRAWS):
+        starts = rng.integers(0, n - BLOCK_WEEKS + 1, starts_needed)
+        rows = np.concatenate([np.arange(s, s + BLOCK_WEEKS) for s in starts])[:n]
+        draws[k] = _ols(y[rows], x[rows])
+    return draws
+
+
 def sensitivities(closes: pd.DataFrame, factors: pd.DataFrame, seed: int = 0) -> dict:
     """Each stock's sensitivity to each factor, with a 95% interval from a block bootstrap over
     weeks, and the same estimate on the two halves of history to show whether it is stable."""
@@ -78,15 +101,15 @@ def sensitivities(closes: pd.DataFrame, factors: pd.DataFrame, seed: int = 0) ->
     point = _ols(y, x)
     rng = np.random.default_rng(seed)
     n = len(x)
-    starts_needed = int(np.ceil(n / BLOCK_WEEKS))
-    draws = np.empty((BETA_DRAWS, *point.shape))
-    for k in range(BETA_DRAWS):
-        starts = rng.integers(0, n - BLOCK_WEEKS + 1, starts_needed)
-        rows = np.concatenate([np.arange(s, s + BLOCK_WEEKS) for s in starts])[:n]
-        draws[k] = _ols(y[rows], x[rows])
+    draws = _bootstrap(y, x, rng)
     low, high = np.percentile(draws, [2.5, 97.5], axis=0)
     early, late = stocks.index < pd.Timestamp(SPLIT), stocks.index >= pd.Timestamp(SPLIT)
-    halves = {"before": _ols(y[early], x[early]), "after": _ols(y[late], x[late])} if early.sum() > 60 and late.sum() > 60 else {}
+    halves, early_low, early_high = {}, None, None
+    if early.sum() > 60 and late.sum() > 60:
+        halves = {"before": _ols(y[early], x[early]), "after": _ols(y[late], x[late])}
+        # Held-out check: fit on the early years only, then ask whether the later years' estimate
+        # lands inside the interval the early years would have given.
+        early_low, early_high = np.percentile(_bootstrap(y[early], x[early], rng), [2.5, 97.5], axis=0)
     table = []
     for j, symbol in enumerate(stocks.columns):
         for i, factor in enumerate(FACTORS):
@@ -94,7 +117,9 @@ def sensitivities(closes: pd.DataFrame, factors: pd.DataFrame, seed: int = 0) ->
                           "beta": float(point[i, j]), "low": float(low[i, j]), "high": float(high[i, j]),
                           "reliable": bool(low[i, j] > 0 or high[i, j] < 0),
                           "before": float(halves["before"][i, j]) if halves else None,
-                          "after": float(halves["after"][i, j]) if halves else None})
+                          "after": float(halves["after"][i, j]) if halves else None,
+                          "held_out_ok": bool(early_low[i, j] <= halves["after"][i, j] <= early_high[i, j])
+                          if halves else None})
     return {"table": table, "draws": draws, "point": point, "weeks": int(n),
             "first": str(stocks.index[0].date()), "last": str(stocks.index[-1].date()), "split": SPLIT}
 

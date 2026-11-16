@@ -6,6 +6,7 @@
     python -m scaata.research run ID [ID ...]  register, run and review proposed experiments
     python -m scaata.research run --proposed   ... every proposed experiment not yet run
     python -m scaata.research list             every experiment on file and its verdict
+    python -m scaata.research events           what each stock did after each kind of news
 
 An experiment is registered (criteria and all) before it runs, then run on
 the frozen snapshot, then reviewed. Nothing here touches the live paper
@@ -23,7 +24,8 @@ def _agenda() -> list[dict]:
     from scaata.agent.daily import load_journal
     from scaata.dashboard.ui.data import EVALUATION_PATH, read_json
 
-    agenda = director.build_agenda(read_json(EVALUATION_PATH), load_journal(), registry.load())
+    agenda = director.build_agenda(read_json(EVALUATION_PATH), load_journal(), registry.load(),
+                                   (prices.meta() or {}).get("last"))
     director.save_agenda(agenda)
     return agenda
 
@@ -31,7 +33,7 @@ def _agenda() -> list[dict]:
 def run(ids: list[str]) -> None:
     from scaata.research.engine import Engine
 
-    specs, engine = director.specs(), None
+    specs, engine = director.specs((prices.meta() or {}).get("last")), None
     for experiment_id in ids:
         if experiment_id not in specs:
             sys.exit(f"unknown experiment '{experiment_id}'. Known: {', '.join(specs)}")
@@ -73,8 +75,20 @@ def main(argv: list[str]) -> None:
         if ids == ["--proposed"]:
             ids = [i["experiment"] for i in _agenda() if i["status"] == "proposed"]
         if not ids:
-            sys.exit("nothing to run")
+            print("nothing to run: every proposed experiment already has a result")
+            return
         run(ids)
+    elif command == "events":
+        from scaata.research import event_study
+
+        study = event_study.run()
+        print(f"{study['events']} events from {study['headlines_scored']} scored headlines, {study['first']} to "
+              f"{study['last']}")
+        for r in study["table"]:
+            if r["span"] == "all":
+                h = r["h20"]
+                print(f"  {r['label']:<26} {r['tone']:<5} n={r['events']:<5} 20 sessions: {h['mean']:+.2%} "
+                      f"[{h['low']:+.2%}, {h['high']:+.2%}]{' *' if h['reliable'] else ''}")
     elif command == "list":
         for r in registry.load():
             print(f"{registry.status(r):<14} {r['id']:<36} {r['title']}")

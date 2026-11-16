@@ -177,6 +177,31 @@ def page() -> None:
                      f'{T.chip(*words.get(a["status"], (a["status"], "")))}</div>')
         st.markdown(f'<div class="hs-panel">{rows}</div>', unsafe_allow_html=True)
 
+    from scaata.research.proposals import build as build_proposals
+
+    proposals = build_proposals(records)
+    if proposals:
+        T.heading("From finding to change", "the only road to the live agent")
+        T.caption("A proposal is a possible change to how HANSEI trades, tied to the experiment that tests "
+                  "exactly that change. <b>Nothing here is ever applied automatically.</b> &ldquo;Ready&rdquo; "
+                  "means a person may now decide; the change is still made by hand.")
+        words = {"ready": ("ready for a decision", "live"), "inconclusive": ("inconclusive", "part"),
+                 "not supported": ("not supported", "off"), "needs a test": ("needs a test", "plan")}
+        rows = ""
+        for item in proposals:
+            effect = ""
+            if item.get("effect"):
+                effect = (" " + (item.get("effect_label") or "Effect") + ": "
+                          + ", ".join(f"{SPANS.get(k, k)} {v:+.3f}" for k, v in item["effect"].items()) + ".")
+            rows += (f'<div class="hs-row"><div><div class="a">{item["change"]}</div><div class="b">'
+                     f'<b>Why it was raised.</b> {item["why"]}<br><b>Tested by.</b> '
+                     f'{item.get("experiment_title") or "an experiment not yet run"}.{effect}'
+                     + (f'<br><b>How to read it.</b> {item["reading"]}' if item.get("reading") else "")
+                     + f'</div></div><div style="display:flex;flex-direction:column;gap:6px;align-items:flex-end">'
+                     + T.chip(*words[item["status"]]) + (T.chip("live now", "live") if item["applied"] else "")
+                     + "</div></div>")
+        st.markdown(f'<div class="hs-panel">{rows}</div>', unsafe_allow_html=True)
+
     if legacy:
         T.heading("Before the Lab", "entered so they are never repeated")
         T.caption("These were run before experiments were filed in advance, so they did not go through the "

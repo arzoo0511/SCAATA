@@ -39,6 +39,7 @@ over the same days and scores the news view on its own. Writes
 from __future__ import annotations
 
 import json
+import math
 import sys
 from datetime import date, datetime, timezone
 
@@ -102,7 +103,22 @@ def precompute_views(closes: pd.DataFrame, start: str) -> dict[pd.Timestamp, dic
 
 def simulate(opens: pd.DataFrame, closes: pd.DataFrame, views_by_day: dict, start: str, end: str | None,
              act_threshold: float = brain.ACT_THRESHOLD, min_hold_days: int = brain.MIN_HOLD_DAYS,
-             learning_rate: float = mem.LEARNING_RATE, tolerance: float = 0.0, floor: float = 0.0) -> dict:
+             learning_rate: float = mem.LEARNING_RATE, tolerance: float = 0.0, floor: float = 0.0,
+             lots_per_slot: dict[str, float] | None = None, no_borrowing: bool = False,
+             fixed_share: float | None = None) -> dict:
+    """Replays the brain day by day. Two optional switches make the book behave more like
+    the live paper book; both are off by default, which leaves every earlier result unchanged:
+
+    - `lots_per_slot`: {symbol: k}. A stock can only be held in whole lots, where one lot is
+      1/k of an equal slot of the book. With k taken from today's share price against a
+      ₹2,000 slot this is the live book's whole-share granularity, held constant through
+      history (adjusted prices make literal share counts meaningless in the past).
+    - `no_borrowing`: a buy is capped at the cash on hand, as it is live. Sells are filled
+      before buys so freed cash can be used the same morning.
+
+    An order that fills nothing is not a trade: it does not restart the waiting period.
+
+    `fixed_share` overrides the learner's Fixed-Share fraction (None = the live setting)."""
     days = [t for t in views_by_day if t >= pd.Timestamp(start) and (end is None or t <= pd.Timestamp(end))]
     n = len(INDIA_TICKERS)
     memory = mem.new_memory()
@@ -119,8 +135,25 @@ def simulate(opens: pd.DataFrame, closes: pd.DataFrame, views_by_day: dict, star
                 value[s] *= opens.at[t, s] / closes.at[prev, s]
             cash *= (1 + liquid_yield(t.year)) ** ((t - prev).days / 365)
             equity = cash + sum(value.values())
-            for s, target in pending.items():          # yesterday's decisions, at today's open
-                delta = equity / n * target - value[s]
+            orders = list(pending.items())             # yesterday's decisions, at today's open
+            if no_borrowing:
+                orders.sort(key=lambda o: equity / n * o[1] - value[o[0]])     # sells first
+            for s, target in orders:
+                wanted = equity / n * target
+                if lots_per_slot:
+                    # whole lots only: trade the change in the lot count, and nothing if it is unchanged
+                    lot = equity / n / lots_per_slot[s]
+                    delta = (math.floor(wanted / lot + 1e-9) - round(value[s] / lot)) * lot
+                    delta = max(delta, -value[s])
+                else:
+                    delta = wanted - value[s]
+                if no_borrowing and delta > 0:
+                    affordable = max(cash, 0.0) / (1 + COST_PER_SIDE)
+                    if lots_per_slot:
+                        affordable = math.floor(affordable / lot + 1e-9) * lot
+                    delta = min(delta, affordable)
+                if (lots_per_slot or no_borrowing) and abs(delta) < 1e-9:
+                    continue
                 cash -= delta + abs(delta) * COST_PER_SIDE
                 costs += abs(delta) * COST_PER_SIDE
                 value[s] += delta
@@ -139,8 +172,8 @@ def simulate(opens: pd.DataFrame, closes: pd.DataFrame, views_by_day: dict, star
         bh_curve.append(sum(bh_value.values()) if bh_value else START_CASH)
 
         if learning_rate > 0:
-            mem.learn(memory, {s: closes[s].loc[:t] for s in INDIA_TICKERS}, t.date(), learning_rate)
-        share = equity / n
+            mem.learn(memory, {s: closes[s].loc[:t] for s in INDIA_TICKERS}, t.date(), learning_rate, fixed_share)
+        share = equity / n      # one stock's equal slot of the book, in rupees (not the Fixed-Share fraction)
         for s in INDIA_TICKERS:
             views = views_by_day[t][s]
             mem.remember(memory, t.date(), s, views, float(closes.at[t, s]))

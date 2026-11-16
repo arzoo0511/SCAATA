@@ -20,7 +20,9 @@ from __future__ import annotations
 import operator
 
 OPS = {">": operator.gt, ">=": operator.ge, "<": operator.lt, "<=": operator.le}
-INTEGRITY = ("criteria_written_first", "data_snapshot_recorded", "no_look_ahead", "costs_charged")
+INTEGRITY = ("criteria_written_first", "data_snapshot_recorded", "no_look_ahead", "costs_charged",
+             "change_took_effect", "baseline_reproduces")
+LEGACY_LEARNER = {"fixed_share": 0.0, "learning_rate": 0.05}     # records filed before the learner was recorded
 MIN_SESSIONS = 750             # about three years in each span
 MIN_TRADES = 30
 NOISE_LEVEL = 0.10             # chance of a fluke we accept, before sharing it across looks
@@ -85,6 +87,31 @@ def review(record: dict, earlier: list[dict] | None = None) -> dict:
     costs_ok = bool(periods) and not uncharged
     checks.append(_check("costs_charged", costs_ok, "every span with trades paid NSE costs" if costs_ok else
                          "trades without costs in: " + (", ".join(uncharged) or "no spans reported")))
+
+    # A variant whose every number equals the baseline's did not change anything: the experiment is
+    # mis-wired, whatever it claims to test. (This caught a real bug on 16 Nov 2026.)
+    versus = [v for k, v in results.get("metrics", {}).items() if k.endswith("_vs_baseline")]
+    if versus:
+        took = any(abs(v) > 1e-12 for v in versus)
+        checks.append(_check("change_took_effect", took, "the variant's results differ from the live rule's" if took
+                             else "the variant is identical to the live rule to the last digit: the change was "
+                                  "never applied"))
+
+    # The live rule replayed on the same data with the same learner must give the same answer every time.
+    learner = (results.get("engine") or {}).get("live_learner") or LEGACY_LEARNER
+    same = [r for r in (earlier or []) if r["id"] != record["id"] and r.get("origin") == "lab"
+            and r.get("kind") == "baseline" and r.get("results")
+            and (r["results"].get("data") or {}).get("sha256") == sha and sha
+            and ((r["results"].get("engine") or {}).get("live_learner") or LEGACY_LEARNER) == learner
+            and (r.get("registered_at") or "") <= (record.get("registered_at") or "")]
+    if same and periods:
+        reference = same[-1]["results"]["periods"]
+        drift = [p for p, r in periods.items() if p in reference
+                 and abs(r["baseline"]["final"] / reference[p]["variant"]["final"] - 1) > 1e-6]
+        checks.append(_check("baseline_reproduces", not drift,
+                             f"the live rule gives the same result as in '{same[-1]['id']}' on the same data"
+                             if not drift else f"the live rule no longer matches '{same[-1]['id']}' on the same "
+                                               f"data ({', '.join(drift)}): the engine has changed underneath"))
 
     short = [f"{p} ({r.get('sessions', 0)} sessions)" for p, r in periods.items() if r.get("sessions", 0) < MIN_SESSIONS]
     thin = [f"{p} ({r.get('trades', 0)} trades)" for p, r in periods.items() if r.get("trades", 0) < MIN_TRADES]

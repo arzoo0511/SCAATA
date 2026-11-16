@@ -82,6 +82,7 @@ def top_bar(now: datetime) -> None:
 PAGES = [
     st.Page(pages.now_page, title="Now", url_path="now", default=True),
     st.Page(pages.mind_page, title="Mind", url_path="mind"),
+    st.Page(pages.beliefs_page, title="Beliefs", url_path="beliefs"),
     st.Page(pages.learning_page, title="Learning", url_path="learning"),
     st.Page(pages.news_page, title="News", url_path="news"),
     st.Page(pages.evidence_page, title="Evidence", url_path="evidence"),

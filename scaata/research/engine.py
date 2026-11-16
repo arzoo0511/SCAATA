@@ -22,6 +22,7 @@ import numpy as np
 import pandas as pd
 
 from scaata.agent import backtest as bt
+from scaata.agent import memory as mem
 from scaata.agent.advisors import ADVISORS
 from scaata.config import INDIA_TICKERS, ROOT_DIR
 from scaata.evaluation.stats import paired_block_bootstrap_prob_better
@@ -29,7 +30,8 @@ from scaata.research import prices
 
 PERIODS = {"tune": ("2007-01-01", "2019-12-31"), "holdout": ("2020-01-01", None)}
 KINDS = ("baseline", "brain_variant", "advisor_ablation", "regime_study")
-BRAIN_KEYS = ("act_threshold", "min_hold_days", "learning_rate", "tolerance", "floor")
+BRAIN_KEYS = ("act_threshold", "min_hold_days", "learning_rate", "tolerance", "floor", "fixed_share")
+LIVE_SLOT = 2000.0             # one slot of the live ₹10,000 book, for share granularity
 TREND_WINDOW, VOL_WINDOW, VOL_BASELINE = 126, 20, 252
 TRUNCATION_SESSIONS = 260      # length of the stretch replayed for the look-ahead check
 VIEW_SAMPLES = 16              # days on which each advisor's view is recomputed without the future
@@ -144,6 +146,11 @@ class Engine:
             out = self._regime_study()
         else:
             brain = {k: params[k] for k in BRAIN_KEYS if k in params} if kind == "brain_variant" else {}
+            if kind == "brain_variant" and params.get("whole_shares"):
+                # how many whole shares fit in one live slot at the latest price, per stock
+                brain["lots_per_slot"] = {s: float(LIVE_SLOT / self.closes[s].iloc[-1]) for s in self.closes.columns}
+            if kind == "brain_variant" and params.get("no_borrowing"):
+                brain["no_borrowing"] = True
             transform = None
             if kind == "advisor_ablation":
                 if params.get("drop") not in ADVISORS:
@@ -152,6 +159,7 @@ class Engine:
             out = self._compare(kind, transform, brain)
         out["data"] = {k: self.meta.get(k) for k in ("source", "retrieved_utc", "first", "last", "sha256")}
         out["engine"] = {**_commit(), "runtime_seconds": round(time.time() - started, 1),
+                         "live_learner": {"fixed_share": mem.SHARE, "learning_rate": mem.LEARNING_RATE},
                          "periods": {k: list(v) for k, v in self.periods.items()}}
         return out
 

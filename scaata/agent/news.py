@@ -15,6 +15,10 @@ Scoring uses an LLM through Groq when a key is configured, and falls back to
 an offline keyword scorer so a provider outage never stops the daily run.
 Every day's headlines and scores are saved, so the dashboard can show what
 the agent read, and later decisions can be checked against it.
+
+Each headline also gets an `event` label (results, crude, rates, ...) from
+`scaata.agent.events`. It is a label for later research only: the signal
+below never reads it, so it cannot change a score or a trade.
 """
 from __future__ import annotations
 
@@ -30,6 +34,7 @@ from urllib.parse import quote
 import requests
 from dotenv import load_dotenv
 
+from scaata.agent.events import event_type
 from scaata.config import DATA_CACHE_DIR
 
 load_dotenv()
@@ -227,6 +232,7 @@ def stories(scored: list[dict], symbol: str | None = None) -> list[dict]:
         lead = max(members, key=lambda h: (h["material"], h["published_utc"]))
         weight = sum(h["material"] for h in members)
         out.append({"title": lead.get("title", ""), "source": lead.get("source"),
+                    "event": lead.get("event") or event_type(lead.get("title", "")),   # a label; nothing decides on it
                     "sentiment": round(sum(h["material"] * h["sentiment"] for h in members) / weight, 3),
                     "material": max(h["material"] for h in members),
                     "published_utc": max(h["published_utc"] for h in members), "count": len(members)})
@@ -272,7 +278,7 @@ def gather(symbol: str, on: date | None = None, http=requests, client=None, refr
     company = COMPANY_NAMES.get(symbol, [symbol])[0]
     headlines = fetch_headlines(symbol, http=http)
     scores = llm_scores(headlines, company, client) or [keyword_score(h["title"], symbol) for h in headlines]
-    scored = [{**h, **s} for h, s in zip(headlines, scores)]
+    scored = [{**h, **s, "event": event_type(h["title"])} for h, s in zip(headlines, scores)]
     result = {"symbol": symbol, "date": on.isoformat(), "headlines": scored, "signal": news_signal(scored, symbol=symbol),
               "scorer": scored[0]["scorer"] if scored else None,
               "fetched_utc": datetime.now(timezone.utc).isoformat()}

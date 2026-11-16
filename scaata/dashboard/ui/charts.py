@@ -514,3 +514,50 @@ def experiment_curves(curves: dict, period: str, same: bool) -> go.Figure:
                                  hovertemplate=name + " ₹%{y:,.0f}<extra></extra>"))
     fig.update_yaxes(tickprefix="₹", tickformat=",.0f")
     return _layout(fig, 300)
+
+
+def news_events(news: pd.DataFrame, labels: dict) -> go.Figure:
+    """How many material stories of each kind it has read, split by whether they were good or bad."""
+    if news.empty:
+        return empty("No material stories recorded yet.")
+    tone = pd.cut(news["sentiment"], [-2, -0.15, 0.15, 2], labels=["bad", "neutral", "good"])
+    table = pd.crosstab(news["event"], tone).reindex(columns=["bad", "neutral", "good"], fill_value=0)
+    table = table.loc[table.sum(axis=1).sort_values().index]
+    fig = go.Figure()
+    for column, colour in (("bad", T.DOWN), ("neutral", T.FLAT), ("good", T.UP)):
+        fig.add_trace(go.Bar(y=[labels.get(e, e) for e in table.index], x=table[column], orientation="h",
+                             name=column.capitalize(), marker=dict(color=colour, line=dict(color=T.PANEL, width=2)),
+                             hovertemplate="%{y}: %{x} " + column + " stories<extra></extra>"))
+    fig.update_layout(barmode="stack", bargap=0.3)
+    fig = _layout(fig, max(260, 34 * len(table) + 80), unified=False)
+    fig.update_xaxes(showspikes=False); fig.update_yaxes(showgrid=False)
+    return fig
+
+
+def event_study(table: list[dict], horizon: int = 20, span: str = "all") -> go.Figure:
+    """Each stock's return over the next sessions, minus the five-stock basket, after each kind of
+    good or bad news. An interval that crosses zero is not evidence of anything."""
+    rows = [r for r in table if r["span"] == span and f"h{horizon}" in r]
+    if not rows:
+        return empty("Not enough events of any kind in this span to say anything.")
+    rows.sort(key=lambda r: (r["label"], r["tone"]))
+    fig = go.Figure()
+    fig.add_vline(x=0, line=dict(color=T.MUTED, width=1))
+    for tone, colour, symbol in (("good", T.UP, "circle"), ("bad", T.DOWN, "diamond")):
+        part = [r for r in rows if r["tone"] == tone]
+        if not part:
+            continue
+        h = [r[f"h{horizon}"] for r in part]
+        fig.add_trace(go.Scatter(
+            x=[x["mean"] * 100 for x in h], y=[r["label"] for r in part], mode="markers",
+            name=f"after {tone} news", marker=dict(symbol=symbol, size=12, color=colour, line=dict(color=T.BG, width=2),
+                                                   opacity=[1.0 if x["reliable"] else 0.45 for x in h]),
+            error_x=dict(type="data", symmetric=False, array=[(x["high"] - x["mean"]) * 100 for x in h],
+                         arrayminus=[(x["mean"] - x["low"]) * 100 for x in h], color=T.MUTED, thickness=1.4, width=4),
+            customdata=[(x["low"] * 100, x["high"] * 100, r["events"], r["weeks"]) for x, r in zip(h, part)],
+            hovertemplate="%{y} · " + tone + " news<br>%{x:+.2f}% vs the basket (95% interval %{customdata[0]:+.2f} to "
+                          "%{customdata[1]:+.2f})<br>%{customdata[2]} events over %{customdata[3]} weeks<extra></extra>"))
+    fig.update_layout(scattermode="group", scattergap=0.5)
+    fig.update_xaxes(ticksuffix="%", showspikes=False)
+    fig.update_yaxes(autorange="reversed")
+    return _layout(fig, max(300, 44 * len({r["label"] for r in rows}) + 90), unified=False)

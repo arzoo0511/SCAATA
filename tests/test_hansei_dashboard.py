@@ -15,7 +15,7 @@ from scaata.dashboard.ui import charts, data, mind
 
 STATE_FILES = [ROOT_DIR / "paper_book_india.json", ROOT_DIR / "forward_test" / "hansei_journal.json",
                ROOT_DIR / "forward_test" / "hansei_memory.json", ROOT_DIR / "forward_test" / "hansei_evaluation.json"]
-PAGES = ["now_page", "mind_page", "learning_page", "news_page", "evidence_page", "lab_page", "macro_page",
+PAGES = ["now_page", "mind_page", "beliefs_page", "learning_page", "news_page", "evidence_page", "lab_page", "macro_page",
          "system_page"]
 
 

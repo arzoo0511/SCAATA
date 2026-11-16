@@ -1,0 +1,77 @@
+# HANSEI's weekly research run.
+#
+# Once a week, on GitHub's servers: freeze fresh price and factor snapshots,
+# re-run Macroverse (crisis replays, sensitivities, shock scenarios), rebuild
+# the news event study, refresh the Lab's agenda, run any experiment the
+# agenda proposes that has not been run, and record the week's beliefs.
+#
+# It never touches the paper book, the journal or the agent's memory, and it
+# cannot change how the agent trades: an experiment's result is a record, and
+# a supported finding is only a proposal for a person to approve.
+#
+# Every step is allowed to fail on its own. Whatever did finish is committed.
+name: HANSEI research
+
+on:
+  schedule:
+    - cron: "30 3 * * 6"    # Saturday 09:00 IST, when no daily run is due
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hansei-daily       # never at the same time as the daily run: both push to main
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt "scipy>=1.11"
+
+      - name: Freeze price and factor snapshots
+        continue-on-error: true
+        run: |
+          python -m scaata.research refresh
+          python -m scaata.macroverse refresh
+
+      - name: Macroverse
+        continue-on-error: true
+        run: python -m scaata.macroverse all
+
+      - name: News event study
+        continue-on-error: true
+        run: python -m scaata.research events
+
+      - name: Lab agenda and proposed experiments
+        continue-on-error: true
+        run: |
+          python -m scaata.research agenda
+          python -m scaata.research run --proposed
+
+      - name: Belief snapshot
+        continue-on-error: true
+        run: python -m scaata.cognition snapshot
+
+      - name: Commit and push the results
+        run: |
+          git config user.name "hansei-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f research macroverse cognition || true
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+            exit 0
+          fi
+          git commit -m "HANSEI weekly research"
+          git pull --rebase origin main
+          git push origin HEAD:main

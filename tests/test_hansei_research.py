@@ -113,6 +113,26 @@ def test_an_integrity_failure_fails_review_even_with_perfect_numbers(broken):
     assert review(record)["verdict"] == "failed_review"
 
 
+def test_a_variant_identical_to_the_baseline_fails_review():
+    record = _record({"holdout.sharpe_vs_baseline": 0.0, "tune.sharpe_vs_baseline": 0.0,
+                      "holdout.cagr_vs_baseline": 0.0}, {"tune": 0.0, "holdout": 0.0})
+    verdict = review(record)
+    assert verdict["verdict"] == "failed_review" and "never applied" in str(verdict["checks"])
+
+
+def test_a_baseline_that_no_longer_reproduces_fails_review():
+    span = {"sessions": 2000, "trades": 100, "costs": 50.0, "baseline": {"final": 20000.0}, "variant": {"final": 21000.0}}
+    record = _record({"holdout.sharpe_vs_baseline": 0.2}, {"tune": 0.1, "holdout": 0.2})
+    record["results"]["periods"] = {"tune": dict(span), "holdout": dict(span)}
+    reference = {"id": "base", "origin": "lab", "kind": "baseline", "registered_at": "2025-12-01T00:00:00+00:00",
+                 "results": {"data": {"sha256": "a" * 64}, "periods": {"tune": {"variant": {"final": 20000.0}},
+                                                                        "holdout": {"variant": {"final": 20000.0}}}}}
+    assert review(record, [reference])["verdict"] == "supported"
+    reference["results"]["periods"]["holdout"]["variant"]["final"] = 23456.0
+    broken = review(record, [reference])
+    assert broken["verdict"] == "failed_review" and "engine has changed underneath" in str(broken["checks"])
+
+
 # ------------------------------------------------------------------ engine
 def test_the_real_engine_passes_the_look_ahead_test_and_a_leaky_advisor_fails_review(market, tmp_path):
     opens, closes = market
@@ -174,9 +194,13 @@ def test_director_raises_questions_from_the_live_record_and_marks_answered_ones(
     journal = [{"decisions": [{"current_exposure": 0.4, "target_exposure": 0.7}]}]
     agenda = director.build_agenda(evaluation, journal, [])
     proposed = {a["experiment"] for a in agenda if a["status"] == "proposed"}
-    assert proposed == {"live-rule-vs-holding", "edge-by-market-condition", "without-trend", "learning-switched-off"}
+    assert proposed == {"live-rule-vs-holding", "edge-by-market-condition", "without-trend", "learning-switched-off",
+                        "live-like-book", "no-borrowing", "fixed-share-corrected"}
     assert "without-volatility" not in proposed, "21 judged opinions is too few to raise a question"
-    assert any(a["status"] == "needs engine work" and "whole-share" in a["question"] for a in agenda)
+    assert "wait-five-sessions" not in proposed, "only raised once the market-condition study has found the lag"
+    lagging = [{"id": "edge-by-market-condition", "review": {"verdict": "not_supported"}, "results": {"metrics": {
+        "tune.down.hansei_minus_holding": -0.06, "holdout.down.hansei_minus_holding": -0.02}}}]
+    assert any(a["experiment"] == "wait-five-sessions" for a in director.build_agenda(evaluation, journal, lagging))
     done = [{"id": "without-trend", "review": {"verdict": "not_supported"}}]
     answered = next(a for a in director.build_agenda(evaluation, journal, done) if a["experiment"] == "without-trend")
     assert answered["status"] == "answered" and answered["verdict"] == "not_supported"

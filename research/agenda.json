@@ -1,10 +1,18 @@
 [
   {
     "question": "Does the live rule still beat holding on the latest data?",
-    "trigger": "Standing question: re-asked whenever the price snapshot is refreshed.",
+    "trigger": "Standing question: re-asked whenever the price snapshot moves into a new month.",
     "experiment": "live-rule-vs-holding",
     "status": "answered",
     "verdict": "inconclusive",
+    "note": ""
+  },
+  {
+    "question": "Does Fixed-Share follow a changing best advisor better than plain Hedge?",
+    "trigger": "Chosen by the owner on 16 Nov 2026 as the one change to the learner with theory behind it for this problem: which advisor is best changes with the market.",
+    "experiment": "fixed-share-corrected",
+    "status": "answered",
+    "verdict": "not_supported",
     "note": ""
   },
   {
@@ -34,10 +42,26 @@
   {
     "question": "How much does whole-share rounding cost on a ₹10,000 book?",
     "trigger": "Live, the brain wanted 62% invested on average and held 46%.",
-    "experiment": null,
-    "status": "needs engine work",
-    "verdict": null,
-    "note": "The replay trades rupee amounts, so it cannot answer this yet. It needs a whole-share mode in the replay engine."
+    "experiment": "live-like-book",
+    "status": "answered",
+    "verdict": "not_supported",
+    "note": ""
+  },
+  {
+    "question": "Does the replay's ability to borrow account for any of its result?",
+    "trigger": "Macroverse found the replay up to 109% invested in 2008; the live book cannot borrow.",
+    "experiment": "no-borrowing",
+    "status": "answered",
+    "verdict": "not_supported",
+    "note": ""
+  },
+  {
+    "question": "Would a shorter wait get it back in sooner after a fall?",
+    "trigger": "The Lab found HANSEI -5.9% and -2.2% a year behind holding while the stocks are below their six-month-ago level.",
+    "experiment": "wait-five-sessions",
+    "status": "answered",
+    "verdict": "not_supported",
+    "note": ""
   },
   {
     "question": "Do keyword-scored news days behave differently from model-scored ones?",

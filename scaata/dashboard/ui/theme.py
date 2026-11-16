@@ -70,12 +70,12 @@ div[data-testid="stHorizontalBlock"]:has(.hs-nav-on) {{ background: {PANEL}; bor
 div[data-testid="stHorizontalBlock"]:has(.hs-nav-on) div[data-testid="stVerticalBlock"] {{ gap: 0; }}
 a[data-testid="stPageLink-NavLink"] {{ border-radius: 11px; padding: .7rem .3rem; justify-content: center;
     border: 1px solid transparent; transition: background .15s, border-color .15s; }}
-a[data-testid="stPageLink-NavLink"] p {{ color: {SOFT}; font-weight: 600; font-size: .86rem; letter-spacing: .04em; white-space: nowrap;
+a[data-testid="stPageLink-NavLink"] p {{ color: {SOFT}; font-weight: 600; font-size: .8rem; letter-spacing: .03em; white-space: nowrap;
     text-transform: uppercase; }}
 a[data-testid="stPageLink-NavLink"]:hover {{ background: {RAISED}; border-color: {LINE}; }}
 a[data-testid="stPageLink-NavLink"]:hover p {{ color: {INK}; }}
 a[data-testid="stPageLink-NavLink"]:focus-visible {{ outline: 2px solid {LBLUE}; }}
-.hs-nav-on {{ text-align: center; padding: .7rem .3rem; font-weight: 700; font-size: .86rem; letter-spacing: .04em; white-space: nowrap;
+.hs-nav-on {{ text-align: center; padding: .7rem .3rem; font-weight: 700; font-size: .8rem; letter-spacing: .03em; white-space: nowrap;
     text-transform: uppercase; color: #04161A; background: linear-gradient(180deg, #58C2DE, {HANSEI});
     border-radius: 11px; border: 1px solid #7FD3EA; line-height: 1.6;
     box-shadow: 0 6px 18px rgba(47,155,184,.35); }}
@@ -132,8 +132,8 @@ div[data-testid="stExpander"] details {{ border: 1px solid {LINE}; border-radius
 div[data-testid="stPlotlyChart"] {{ border: 1px solid {LINE}; border-radius: 14px; background: {PANEL};
     padding: 6px 6px 0; }}
 iframe {{ border-radius: 14px; }}
-@media (max-width: 1000px) {{
-  a[data-testid="stPageLink-NavLink"] p, .hs-nav-on {{ font-size: .7rem; letter-spacing: 0; }}
+@media (max-width: 1100px) {{
+  a[data-testid="stPageLink-NavLink"] p, .hs-nav-on {{ font-size: .62rem; letter-spacing: 0; }}
   div[data-testid="stHorizontalBlock"]:has(.hs-nav-on) {{ gap: 2px; padding: 4px; }}
 }}
 @media (max-width: 640px) {{

@@ -293,7 +293,9 @@ function scenarioStage(S) {
       el("path", {d, fill: "none", stroke: "transparent", "stroke-width": 14, "data-f": r.factor, "data-s": r.symbol}, links).addEventListener("mousemove", ev => {
         net.querySelectorAll(".lk").forEach(q => q.classList.toggle("dim", q !== p));
         showTip(ev, `<b>${FLAB[r.factor]} → ${esc(r.name)}</b><br>a 10% rise moves it ${pc(r.beta * .1)}<br>plausible range ${pc(r.low * .1)} to ${pc(r.high * .1)}<br>${r.reliable ? "the data can tell this from zero" : "the data cannot tell this from zero"}`
-          + (r.before != null ? `<br>before 2017: ${pc(r.before * .1)} · after: ${pc(r.after * .1)}` : "")); });
+          + (r.before != null ? `<br>before 2017: ${pc(r.before * .1)} · after: ${pc(r.after * .1)}` : "")
+          + (r.held_out_ok == null ? "" : r.held_out_ok ? "<br>held up out of sample: the later years fall inside what the earlier years predicted"
+             : "<br>did NOT hold up out of sample: the later years fall outside what the earlier years predicted")); });
       links.lastChild.addEventListener("mouseleave", () => { hideTip(); net.querySelectorAll(".lk").forEach(q => q.classList.remove("dim")); }); });
   }
   factors.forEach((f, i) => { const shocked = S.shock[f] != null;

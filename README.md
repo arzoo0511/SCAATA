@@ -35,12 +35,13 @@ The edge is mainly **smaller drawdowns and a higher Sharpe**. The return edge is
    - **Momentum** — 6-month return, skipping the latest month
    - **News** — an LLM (gpt-oss-120b via Groq) scores recent headlines from Google News and Yahoo Finance; syndicated copies of one story count once; keyword fallback if the API is down
 2. **A cautious brain** (`brain.py`) holds by default. It acts only when the advisors disagree with the current position by at least a third, waits 10 sessions between trades unless the news is strong, and rebalances on 20% drift.
-3. **Memory** (`memory.py`) learns from every trade with the Hedge algorithm: advisors that were right gain weight, wrong ones lose it.
+3. **Memory** (`memory.py`) learns from every trade with Hedge and the Fixed-Share step: advisors that were right gain trust, wrong ones lose it, and a small share of all trust is handed back equally each time so an advisor that fell behind can recover when the market changes.
 4. **Paper book** (`scaata/live/paper_book.py`) fills orders at the next day's open with NSE costs; idle cash earns a liquid-fund rate.
 5. **Daily report card** (`evaluate.py`) splits the gap to holding into "how much it was invested" and "which stocks it held", and tracks each advisor's hit rate.
 6. **Dashboard** (`scaata/dashboard/hansei_app.py`, pages in `scaata/dashboard/ui/`) is read-only and interactive:
    - **Now** — HANSEI vs holding, why the gap, where the money is
    - **Mind** — replay any session: which advisor pulled which stock which way, and what it decided
+   - **Beliefs** — everything it currently believes, each with its status and evidence; its own predictions scored
    - **Learning** — trust in each advisor over time, every lesson, the ledger of beliefs and what happened next
    - **News** — every story it judged material
    - **Evidence** — the backtests and studies, including what was tested and rejected
@@ -68,6 +69,43 @@ just inside noise (89% against a 90% bar), so the verdict is *inconclusive*. Sil
 and switching learning off, did not make it measurably worse. The Lab cannot change the agent: a supported
 finding is only a proposal.
 
+### Learner: Fixed-Share (live since 16 Nov 2026)
+
+Plain Hedge is only promised to match the single best advisor over the whole record. Which advisor is best
+changes with the market, so the learner now uses Fixed-Share (Herbster and Warmuth, 1998): after each update
+1/252 of all trust is pooled and returned equally. The fraction was fixed from theory, as one expected change
+of best advisor a year, and not tuned. This was the owner's decision on the strength of the theory.
+
+What the replay made of it (experiment `fixed-share-corrected`): Sharpe +0.03 and return +1.1% a year against
+plain Hedge on 2007-2019, with a quarter fewer trades; Sharpe -0.05 and return -0.7% a year on 2020 onward.
+Both are inside noise, so the verdict on file is *not supported*: the replay does not show it helps, and does
+not show it hurts.
+
+The first run of that experiment was invalid: a variable-name collision in the replay engine meant the setting
+never reached the learner. It came out identical to the baseline to the last digit, which is how it was caught.
+The invalid run stays on file marked as failed, and the reviewer now fails any variant identical to its baseline
+and any run whose baseline no longer reproduces.
+
+### Other Lab results since
+
+| Experiment | Verdict | What it showed |
+|---|---|---|
+| A book like the live one (whole shares, no borrowing) | Not supported | Worse than the rupee replay on 2007-19 (Sharpe -0.04, return -1.9% a year), better on 2020 on (+0.08, +0.5%). The whole-share handicap is not consistent. |
+| The replay without borrowing | Not supported | Borrowing barely matters: return -0.3% a year on 2007-19, +0.1% on 2020 on. |
+| Waiting 5 sessions instead of 10 | Not supported | No measurable difference either way. |
+
+A study of 3,962 news events since 2012 (`python -m scaata.research events`) found that of 22 kinds of good or
+bad news, three were followed by a move that can be told from zero, about what chance alone would give at this
+many comparisons. Results stories, good or bad, were followed by the stock lagging the other four.
+
+### What runs on its own
+
+- **After every close** (`hansei-daily.yml`): the agent, its report card, a belief snapshot, and the Lab's agenda.
+- **Every Saturday** (`hansei-research.yml`): fresh price and factor snapshots, Macroverse, the news event study,
+  any experiment the agenda proposes, and a belief snapshot.
+
+Neither can change how the agent trades. A supported finding becomes a proposal on the Lab page; a person decides.
+
 ## Macroverse
 
 `scaata/macroverse/` asks what happens to HANSEI when the world moves, in two clearly separated ways.
@@ -76,7 +114,7 @@ finding is only a proposal.
   COVID, the 2022 crude spike — replayed on real prices through the same `brain.decide` and `memory.learn` the
   daily agent uses. HANSEI's worst fall was smaller than holding's in four of the six and never larger; it
   finished ahead of holding only in 2008.
-- **What if** (synthetic): a shock to the Nifty, Brent or USD/INR is passed to each stock through sensitivities
+- **What if** (synthetic, eight scenarios): a shock to the Nifty, Brent or USD/INR is passed to each stock through sensitivities
   measured from weekly returns, with their uncertainty kept; the real brain then trades 30 simulated paths.
   Only 7 of the 15 sensitivities can be told apart from zero, and the page shows which.
 
@@ -89,6 +127,25 @@ python -m scaata.macroverse all        # replays, sensitivities and scenarios ->
 
 Everything is computed offline and saved; the site only displays it. Macroverse never reads or writes the live
 paper book, journal or memory.
+
+## Cognitive layer
+
+`scaata/cognition/` assembles one inspectable picture of what HANSEI believes from the records the other
+parts already keep: the journal, its memory, the daily report card, the Lab's registry and Macroverse's
+results. It generates no text of its own and cannot change the agent.
+
+Every belief has a kind (fact, relationship, finding, hypothesis, assumption) and a status worked out from
+its evidence by fixed rules: a measured relationship is *established* only if its 95% interval excludes zero;
+a Lab finding takes the reviewer's verdict; a live hit rate is judged over days (not opinions), with a Wilson
+interval, and never on fewer than 20 judged days.
+
+```
+python -m scaata.cognition            # what it currently believes
+python -m scaata.cognition snapshot   # append today's beliefs to cognition/history.jsonl
+```
+
+As of 16 Nov 2026: 42 beliefs. 7 established, 7 leaning, 12 where the data cannot tell, 13 contradicted by
+testing, 3 untested. After 14 judged days no advisor, and not the brain itself, can yet be told apart from a coin flip.
 
 ## Tech stack
 

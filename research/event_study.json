@@ -1,0 +1,941 @@
+{
+ "generated_utc": "2026-11-16T09:43:42+00:00",
+ "headlines_scored": 40747,
+ "events": 3962,
+ "first": "2012-01-10",
+ "last": "2026-10-12",
+ "clean_from": "2024-07-01",
+ "horizons": [
+  5,
+  20
+ ],
+ "min_events": 15,
+ "table": [
+  {
+   "event": "business",
+   "label": "Business moves",
+   "tone": "bad",
+   "span": "all",
+   "events": 52,
+   "weeks": 50,
+   "h5": {
+    "mean": 0.00014016382700303954,
+    "low": -0.006153134578393508,
+    "high": 0.0067922377724489,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.007531550983179617,
+    "low": -0.006391709561218992,
+    "high": 0.023224318181690337,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "business",
+   "label": "Business moves",
+   "tone": "bad",
+   "span": "clean",
+   "events": 22,
+   "weeks": 20,
+   "h5": {
+    "mean": -0.005201881018514477,
+    "low": -0.014788763987729629,
+    "high": 0.00467865759197478,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.008435159499314298,
+    "low": -0.022912692862942268,
+    "high": 0.006719572267623936,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "business",
+   "label": "Business moves",
+   "tone": "good",
+   "span": "all",
+   "events": 361,
+   "weeks": 290,
+   "h5": {
+    "mean": 0.0007696345121884681,
+    "low": -0.0022887663488154724,
+    "high": 0.003741499610103949,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.0014187939317642844,
+    "low": -0.0035108815168303476,
+    "high": 0.0062019613474797956,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "business",
+   "label": "Business moves",
+   "tone": "good",
+   "span": "clean",
+   "events": 97,
+   "weeks": 71,
+   "h5": {
+    "mean": -0.000845604025262802,
+    "low": -0.004429860980846838,
+    "high": 0.0027000598343153792,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.006367440753418501,
+    "low": 6.494028616305523e-05,
+    "high": 0.012834528351329772,
+    "reliable": true,
+    "as_expected": true
+   }
+  },
+  {
+   "event": "crude",
+   "label": "Crude and fuel",
+   "tone": "bad",
+   "span": "all",
+   "events": 107,
+   "weeks": 106,
+   "h5": {
+    "mean": 0.0026165334406769852,
+    "low": -0.0031027219666718907,
+    "high": 0.008607976230579342,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.007624241485523705,
+    "low": -0.0029979288317905526,
+    "high": 0.0184466280454249,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "crude",
+   "label": "Crude and fuel",
+   "tone": "bad",
+   "span": "clean",
+   "events": 42,
+   "weeks": 41,
+   "h5": {
+    "mean": 0.00027507876507639644,
+    "low": -0.006135298344379201,
+    "high": 0.0069756255842507164,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.002989787285284971,
+    "low": -0.012529639167961624,
+    "high": 0.006916978388785835,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "crude",
+   "label": "Crude and fuel",
+   "tone": "good",
+   "span": "all",
+   "events": 222,
+   "weeks": 219,
+   "h5": {
+    "mean": 0.003092370739898396,
+    "low": -0.00045201766636504456,
+    "high": 0.006939632494708927,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.005985152724799432,
+    "low": -0.0016021647652966224,
+    "high": 0.013754563564931864,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "crude",
+   "label": "Crude and fuel",
+   "tone": "good",
+   "span": "clean",
+   "events": 58,
+   "weeks": 58,
+   "h5": {
+    "mean": -0.0006964573244454504,
+    "low": -0.0069152196057781935,
+    "high": 0.0052323545817673485,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.00876491381824906,
+    "low": -0.002643134891103477,
+    "high": 0.01979019571826564,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "deal",
+   "label": "Deals and orders",
+   "tone": "bad",
+   "span": "all",
+   "events": 92,
+   "weeks": 85,
+   "h5": {
+    "mean": 0.0006136276437200091,
+    "low": -0.0046563322561005895,
+    "high": 0.005787827827900255,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.0018666822734229773,
+    "low": -0.006879012296447125,
+    "high": 0.010319210968192424,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "deal",
+   "label": "Deals and orders",
+   "tone": "bad",
+   "span": "clean",
+   "events": 35,
+   "weeks": 29,
+   "h5": {
+    "mean": -0.00029158268545942547,
+    "low": -0.0068069938856697,
+    "high": 0.006588032904570749,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.0025142744030708757,
+    "low": -0.007553283928018079,
+    "high": 0.011732842469034398,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "deal",
+   "label": "Deals and orders",
+   "tone": "good",
+   "span": "all",
+   "events": 455,
+   "weeks": 324,
+   "h5": {
+    "mean": -0.00024672299302403046,
+    "low": -0.0023842778781505277,
+    "high": 0.002179599671524476,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.00022174859521365003,
+    "low": -0.004845184600325127,
+    "high": 0.004236811678306603,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "deal",
+   "label": "Deals and orders",
+   "tone": "good",
+   "span": "clean",
+   "events": 142,
+   "weeks": 87,
+   "h5": {
+    "mean": -0.00043121273173907785,
+    "low": -0.003282426787757994,
+    "high": 0.002144288906095032,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.0042506810588934,
+    "low": -0.0032971860635510903,
+    "high": 0.01069692120639681,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "legal",
+   "label": "Legal trouble",
+   "tone": "bad",
+   "span": "all",
+   "events": 153,
+   "weeks": 128,
+   "h5": {
+    "mean": 0.0011815584495995998,
+    "low": -0.0027923242285647974,
+    "high": 0.004788920665903723,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.0007347530349471401,
+    "low": -0.00882662371834823,
+    "high": 0.006885831034482237,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "legal",
+   "label": "Legal trouble",
+   "tone": "bad",
+   "span": "clean",
+   "events": 78,
+   "weeks": 61,
+   "h5": {
+    "mean": 0.0017958852524525603,
+    "low": -0.0021462155731583393,
+    "high": 0.005119615784696661,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.001087162440806742,
+    "low": -0.010114068614887778,
+    "high": 0.007598942985871241,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "legal",
+   "label": "Legal trouble",
+   "tone": "good",
+   "span": "all",
+   "events": 36,
+   "weeks": 33,
+   "h5": {
+    "mean": -0.0006248050281498558,
+    "low": -0.006893958280295498,
+    "high": 0.005519198678768608,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.0020158844589251187,
+    "low": -0.018527365944922592,
+    "high": 0.016750266322167473,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "legal",
+   "label": "Legal trouble",
+   "tone": "good",
+   "span": "clean",
+   "events": 27,
+   "weeks": 24,
+   "h5": {
+    "mean": -0.001474161583069768,
+    "low": -0.007208297427269545,
+    "high": 0.0047774090181216455,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.008279893531617214,
+    "low": -0.02465115042181075,
+    "high": 0.008953175214817406,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "management",
+   "label": "Management",
+   "tone": "bad",
+   "span": "all",
+   "events": 106,
+   "weeks": 98,
+   "h5": {
+    "mean": 0.0005030688412522414,
+    "low": -0.003596893834893929,
+    "high": 0.0047561593945129555,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.0027834343670450627,
+    "low": -0.006112313597750103,
+    "high": 0.01224304604185696,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "management",
+   "label": "Management",
+   "tone": "bad",
+   "span": "clean",
+   "events": 42,
+   "weeks": 37,
+   "h5": {
+    "mean": -0.000566176499758309,
+    "low": -0.005921305167749674,
+    "high": 0.004421075062099746,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.0040161732034324415,
+    "low": -0.005950432671745558,
+    "high": 0.015210860206737958,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "management",
+   "label": "Management",
+   "tone": "good",
+   "span": "all",
+   "events": 148,
+   "weeks": 132,
+   "h5": {
+    "mean": -0.0007928216179075711,
+    "low": -0.005162668392539483,
+    "high": 0.0035865974147167956,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.001597067771385389,
+    "low": -0.00850510556421366,
+    "high": 0.01136021012195453,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "management",
+   "label": "Management",
+   "tone": "good",
+   "span": "clean",
+   "events": 56,
+   "weeks": 44,
+   "h5": {
+    "mean": 0.0023868420683387454,
+    "low": -0.0032666919451769605,
+    "high": 0.008338624089932906,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.005862715772672484,
+    "low": -0.016959542262002344,
+    "high": 0.0057800956723237824,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "other",
+   "label": "Other",
+   "tone": "bad",
+   "span": "all",
+   "events": 489,
+   "weeks": 343,
+   "h5": {
+    "mean": 0.0011700440561540045,
+    "low": -0.000802681552093351,
+    "high": 0.0032053571939277786,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.002586888720755365,
+    "low": -0.0016593309669818374,
+    "high": 0.007287475352530563,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "other",
+   "label": "Other",
+   "tone": "bad",
+   "span": "clean",
+   "events": 204,
+   "weeks": 102,
+   "h5": {
+    "mean": 0.0014118329759612047,
+    "low": -0.0011916873463974794,
+    "high": 0.0037061597169530435,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.002543516686598628,
+    "low": -0.0023932029609587276,
+    "high": 0.007044217327893195,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "other",
+   "label": "Other",
+   "tone": "good",
+   "span": "all",
+   "events": 839,
+   "weeks": 494,
+   "h5": {
+    "mean": -0.0008039068367066086,
+    "low": -0.002334099440513315,
+    "high": 0.0007175362260664859,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.0023655476188356277,
+    "low": -0.0005879408317337831,
+    "high": 0.005276712945191623,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "other",
+   "label": "Other",
+   "tone": "good",
+   "span": "clean",
+   "events": 254,
+   "weeks": 112,
+   "h5": {
+    "mean": -0.0008617361209715819,
+    "low": -0.0027691851526565506,
+    "high": 0.001041724363208915,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.0028114391548428983,
+    "low": -0.0006585879044181684,
+    "high": 0.006371436311983539,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "payout",
+   "label": "Payouts and fundraising",
+   "tone": "bad",
+   "span": "all",
+   "events": 16,
+   "weeks": 16,
+   "h5": {
+    "mean": -0.002825385537096388,
+    "low": -0.011579709948473887,
+    "high": 0.0059153507774699346,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.011354952619089649,
+    "low": -0.002102430684261466,
+    "high": 0.02559959207922996,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "payout",
+   "label": "Payouts and fundraising",
+   "tone": "good",
+   "span": "all",
+   "events": 75,
+   "weeks": 68,
+   "h5": {
+    "mean": 0.0015864047530145446,
+    "low": -0.003602504166127141,
+    "high": 0.007062860468077391,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.0017646491366153016,
+    "low": -0.013487005687695012,
+    "high": 0.01034806595727683,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "payout",
+   "label": "Payouts and fundraising",
+   "tone": "good",
+   "span": "clean",
+   "events": 38,
+   "weeks": 32,
+   "h5": {
+    "mean": -0.003078073344802517,
+    "low": -0.01005870070958908,
+    "high": 0.0028970182488443227,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.00809357866293931,
+    "low": -0.024008680803876036,
+    "high": 0.005578784847247751,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "rates",
+   "label": "Interest rates",
+   "tone": "bad",
+   "span": "all",
+   "events": 33,
+   "weeks": 33,
+   "h5": {
+    "mean": 0.002042523540223122,
+    "low": -0.005812284125955919,
+    "high": 0.010174482760080003,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.003022821021554772,
+    "low": -0.01670451720655644,
+    "high": 0.021459453020586727,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "rates",
+   "label": "Interest rates",
+   "tone": "good",
+   "span": "all",
+   "events": 45,
+   "weeks": 43,
+   "h5": {
+    "mean": 0.00455986669314922,
+    "low": -0.000480472873285022,
+    "high": 0.009163153550571684,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.010901706802041371,
+    "low": 0.0020580158224031584,
+    "high": 0.021321865899979274,
+    "reliable": true,
+    "as_expected": true
+   }
+  },
+  {
+   "event": "rates",
+   "label": "Interest rates",
+   "tone": "good",
+   "span": "clean",
+   "events": 23,
+   "weeks": 22,
+   "h5": {
+    "mean": 0.0014510969987009065,
+    "low": -0.004133067725866007,
+    "high": 0.007538106603677822,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.0004165824906472775,
+    "low": -0.01162429138811623,
+    "high": 0.013749380608527735,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "rating",
+   "label": "Analyst ratings",
+   "tone": "bad",
+   "span": "all",
+   "events": 20,
+   "weeks": 18,
+   "h5": {
+    "mean": 0.0017948162839823256,
+    "low": -0.00932820703162738,
+    "high": 0.012596242293964789,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.0072940310242426976,
+    "low": -0.020641250161258475,
+    "high": 0.0073402061709803386,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "rating",
+   "label": "Analyst ratings",
+   "tone": "bad",
+   "span": "clean",
+   "events": 15,
+   "weeks": 13,
+   "h5": {
+    "mean": 0.002336917548739977,
+    "low": -0.010998152243953212,
+    "high": 0.016265287046014168,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.00833334740071654,
+    "low": -0.025969984577532818,
+    "high": 0.008922155730801426,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "rating",
+   "label": "Analyst ratings",
+   "tone": "good",
+   "span": "all",
+   "events": 39,
+   "weeks": 38,
+   "h5": {
+    "mean": 0.0015360522868731548,
+    "low": -0.00797365723971048,
+    "high": 0.010390445546969993,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.004354359416824718,
+    "low": -0.010004182281453831,
+    "high": 0.019350401250831283,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "rating",
+   "label": "Analyst ratings",
+   "tone": "good",
+   "span": "clean",
+   "events": 20,
+   "weeks": 19,
+   "h5": {
+    "mean": 0.011268902659237462,
+    "low": 0.0015821520791778026,
+    "high": 0.02132273373972922,
+    "reliable": true,
+    "as_expected": true
+   },
+   "h20": {
+    "mean": 0.0009883301759595897,
+    "low": -0.010772877382432114,
+    "high": 0.015660163429652086,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "regulation",
+   "label": "Regulation and policy",
+   "tone": "bad",
+   "span": "all",
+   "events": 173,
+   "weeks": 145,
+   "h5": {
+    "mean": 0.00164456492986544,
+    "low": -0.0016672873391840623,
+    "high": 0.0048776117917201,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.003835865537117177,
+    "low": -0.003189966015542321,
+    "high": 0.01079217673954981,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "regulation",
+   "label": "Regulation and policy",
+   "tone": "bad",
+   "span": "clean",
+   "events": 85,
+   "weeks": 62,
+   "h5": {
+    "mean": 0.0025938044016561054,
+    "low": -0.0008238562937256826,
+    "high": 0.00647924136178874,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": 0.00353933407845017,
+    "low": -0.0039068143745310275,
+    "high": 0.010504249534101982,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "regulation",
+   "label": "Regulation and policy",
+   "tone": "good",
+   "span": "all",
+   "events": 78,
+   "weeks": 69,
+   "h5": {
+    "mean": -0.0008813223880401505,
+    "low": -0.005693621636585932,
+    "high": 0.0035621729936180955,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.0022818427637090275,
+    "low": -0.01168727097391744,
+    "high": 0.008646809194475835,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "regulation",
+   "label": "Regulation and policy",
+   "tone": "good",
+   "span": "clean",
+   "events": 39,
+   "weeks": 32,
+   "h5": {
+    "mean": -0.0007288821990501301,
+    "low": -0.007299588128938021,
+    "high": 0.005000403438593574,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.0006318312904086915,
+    "low": -0.012905804798958994,
+    "high": 0.01195629787553015,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "results",
+   "label": "Results",
+   "tone": "bad",
+   "span": "all",
+   "events": 148,
+   "weeks": 120,
+   "h5": {
+    "mean": -0.005848888543139888,
+    "low": -0.010065988022156105,
+    "high": -0.0017967114180883316,
+    "reliable": true,
+    "as_expected": true
+   },
+   "h20": {
+    "mean": -0.008779968626835721,
+    "low": -0.016436828888525767,
+    "high": -0.0015124753124315924,
+    "reliable": true,
+    "as_expected": true
+   }
+  },
+  {
+   "event": "results",
+   "label": "Results",
+   "tone": "bad",
+   "span": "clean",
+   "events": 80,
+   "weeks": 58,
+   "h5": {
+    "mean": -0.0030960922488480883,
+    "low": -0.008280229571641954,
+    "high": 0.0016830913577830346,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.007265680964204953,
+    "low": -0.01627916532482493,
+    "high": 0.0011895063788056107,
+    "reliable": false,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "results",
+   "label": "Results",
+   "tone": "good",
+   "span": "all",
+   "events": 275,
+   "weeks": 195,
+   "h5": {
+    "mean": -0.0034931828397099744,
+    "low": -0.006593472782090043,
+    "high": -0.0005187953495480232,
+    "reliable": true,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.006054663148896463,
+    "low": -0.011220551913485016,
+    "high": -0.0007020643229553249,
+    "reliable": true,
+    "as_expected": false
+   }
+  },
+  {
+   "event": "results",
+   "label": "Results",
+   "tone": "good",
+   "span": "clean",
+   "events": 119,
+   "weeks": 69,
+   "h5": {
+    "mean": -0.002242938802043467,
+    "low": -0.006753853447610018,
+    "high": 0.0015570857250568333,
+    "reliable": false,
+    "as_expected": false
+   },
+   "h20": {
+    "mean": -0.0028485152987253993,
+    "low": -0.008816240458273488,
+    "high": 0.00386739061240055,
+    "reliable": false,
+    "as_expected": false
+   }
+  }
+ ],
+ "prices_sha256": "4a2171114572be105b4733528db101810bdf5263d14b7f9416c5f31cd1eccae0",
+ "method": "Excess return over the equal-weight basket of the five stocks, starting at the close of the first session after the headline; one event per stock, week, type and tone; 95% intervals from resampling weeks."
+}

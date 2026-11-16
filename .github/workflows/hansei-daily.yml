@@ -50,12 +50,23 @@ jobs:
         continue-on-error: true   # a reporting bug must never block saving the day's trades
         run: python -m scaata.agent.evaluate
 
+      # The two steps below only read the day's saved state and write their own files.
+      # Neither can change a trade, and neither may block saving the day's trades.
+      - name: Belief snapshot
+        continue-on-error: true
+        run: python -m scaata.cognition snapshot
+
+      - name: Research agenda
+        continue-on-error: true
+        run: python -m scaata.research agenda
+
       - name: Commit and push the new state
         run: |
           git config user.name "hansei-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add paper_book_india.json forward_test/hansei_journal.json forward_test/hansei_memory.json data_cache/news_india
           git add -f forward_test/hansei_evaluation.json || true
+          git add -f cognition/history.jsonl research/agenda.json || true
           if git diff --cached --quiet; then
             echo "Nothing new to commit."
             exit 0

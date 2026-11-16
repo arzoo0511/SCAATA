@@ -12,6 +12,7 @@ from pathlib import Path
 
 import pandas as pd
 
+from scaata.agent.events import LABELS as EVENT_LABELS, event_type
 from scaata.config import ROOT_DIR
 
 NAMES = {"HDFCBANK.NS": "HDFC Bank", "ICICIBANK.NS": "ICICI Bank", "PETRONET.NS": "Petronet LNG",
@@ -124,11 +125,12 @@ def news_frame(journal: list[dict]) -> pd.DataFrame:
                     continue
                 seen.add(key)
                 rows.append({"session": entry["session"], "symbol": symbol, "title": story.get("title", ""),
+                             "event": story.get("event") or event_type(story.get("title", "")),
                              "source": story.get("source") or "", "sentiment": float(story.get("sentiment", 0.0)),
                              "material": float(story.get("material", 0.0)), "count": int(story.get("count", 1)),
                              "published": story.get("published_utc")})
-    frame = pd.DataFrame(rows, columns=["session", "symbol", "title", "source", "sentiment", "material", "count",
-                                        "published"])
+    frame = pd.DataFrame(rows, columns=["session", "symbol", "title", "event", "source", "sentiment", "material",
+                                        "count", "published"])
     frame["session"] = pd.to_datetime(frame["session"])
     frame["published"] = pd.to_datetime(frame["published"], utc=True, errors="coerce")
     return frame
