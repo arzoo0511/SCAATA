@@ -1,7 +1,8 @@
 # HANSEI's weekly research run.
 #
 # Once a week, on GitHub's servers: freeze fresh price and factor snapshots,
-# re-run Macroverse (crisis replays, sensitivities, shock scenarios), rebuild
+# re-run the backtests behind the Evidence page and Macroverse (crisis replays,
+# sensitivities, shock scenarios), rebuild
 # the news event study, refresh the Lab's agenda, run any experiment the
 # agenda proposes that has not been run, and record the week's beliefs.
 #
@@ -45,6 +46,12 @@ jobs:
           python -m scaata.research refresh
           python -m scaata.macroverse refresh
 
+      - name: Backtests behind the Evidence page
+        continue-on-error: true
+        run: |
+          python -m scaata.agent.backtest
+          python -m scaata.agent.backtest --long
+
       - name: Macroverse
         continue-on-error: true
         run: python -m scaata.macroverse all
@@ -67,7 +74,7 @@ jobs:
         run: |
           git config user.name "hansei-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f research macroverse cognition || true
+          git add -f research macroverse cognition results/hansei_backtest.json results/hansei_backtest_long.json || true
           if git diff --cached --quiet; then
             echo "Nothing new to commit."
             exit 0

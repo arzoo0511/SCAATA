@@ -181,7 +181,8 @@ def test_proposals_follow_the_registry_and_report_only_what_is_really_applied():
 
 def test_the_standing_question_is_re_asked_only_when_the_snapshot_reaches_a_new_month():
     done = [{"id": "live-rule-vs-holding", "review": {"verdict": "inconclusive"},
-             "results": {"data": {"last": "2026-11-13"}, "engine": {"live_learner": {"fixed_share": mem.SHARE}}}}]
+             "results": {"data": {"last": "2026-11-13"}, "engine": {"live_learner": {"fixed_share": mem.SHARE},
+                                                                    "replay": {"no_borrowing": True}}}}]
     same = director.build_agenda(None, [], done, snapshot_last="2026-11-28")
     assert same[0]["experiment"] == "live-rule-vs-holding" and same[0]["status"] == "answered"
     later = director.build_agenda(None, [], done, snapshot_last="2026-12-05")

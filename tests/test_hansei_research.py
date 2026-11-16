@@ -90,13 +90,17 @@ def test_an_effect_in_one_span_only_or_within_noise_is_inconclusive():
     assert review(noisy)["verdict"] == "inconclusive"
 
 
-def test_each_look_at_the_holdout_raises_the_bar():
-    record = _record({"holdout.sharpe_vs_baseline": 0.2}, {"tune": 0.1, "holdout": 0.2}, prob=0.93)
-    assert review(record)["verdict"] == "supported"
-    earlier = [{"id": f"e{i}", "origin": "lab", "results": {}, "registered_at": "2025-12-01T00:00:00+00:00"}
-               for i in range(4)]
-    crowded = review(record, earlier)
-    assert crowded["holdout_looks"] == 5 and crowded["verdict"] == "inconclusive"
+def test_each_failed_test_shrinks_the_evidence_budget_and_raises_the_bar():
+    record = _record({"holdout.sharpe_vs_baseline": 0.2}, {"tune": 0.1, "holdout": 0.2}, prob=0.96)
+    first = review(record)
+    assert first["verdict"] == "supported" and first["budget"]["level"] == pytest.approx(0.05)
+    failed = lambda i: {"id": f"e{i}", "origin": "lab", "registered_at": "2025-12-01T00:00:00+00:00",   # noqa: E731
+                        "results": {"primary": {"values": {"holdout": 0.1}, "prob_better": {"holdout": 0.5}}}}
+    crowded = review(record, [failed(i) for i in range(4)])
+    assert crowded["budget"]["level"] < first["budget"]["level"] / 2
+    assert crowded["verdict"] == "inconclusive", "the same 96% is no longer enough after four failed looks"
+    invalid = [{**failed(9), "review": {"verdict": "failed_review"}}]
+    assert review(record, invalid)["budget"]["level"] == pytest.approx(0.05), "an invalid run spends nothing"
 
 
 @pytest.mark.parametrize("broken", ["late_criteria", "no_snapshot", "look_ahead", "no_costs"])
@@ -163,7 +167,8 @@ def test_baseline_run_matches_the_backtest_it_wraps(market):
     opens, closes = market
     engine = Engine(opens, closes, {"sha256": "c" * 64}, periods=PERIODS)
     out = engine.run(_spec())
-    direct = bt.evaluate(bt.simulate(opens, closes, bt.precompute_views(closes, "2016-06-01"), *PERIODS["tune"]))
+    direct = bt.evaluate(bt.simulate(opens, closes, bt.precompute_views(closes, "2016-06-01"), *PERIODS["tune"],
+                                     no_borrowing=True))
     assert out["periods"]["tune"]["variant"]["cagr"] == pytest.approx(direct["hansei"]["cagr"])
     assert out["metrics"]["tune.sharpe_vs_holding"] == pytest.approx(direct["sharpe_diff"])
     assert out["periods"]["tune"]["costs"] > 0 and out["data"]["sha256"] == "c" * 64

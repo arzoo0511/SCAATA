@@ -60,6 +60,8 @@ def now_page() -> None:
     components.html(now.cockpit_html(data.now_payload(book, journal, evaluation)), height=now.HEIGHT,
                     scrolling=False)
 
+    _evidence_meter(book)
+
     T.heading("When it stepped back", "each cell: share of a stock's slot it held that day")
     plot(charts.exposure_map(data.decisions_frame(journal)))
     T.caption("Dark cells are days it was out of a stock. Triangles and diamonds mark the days it decided to "
@@ -76,6 +78,33 @@ def now_page() -> None:
                                         "cost": st.column_config.NumberColumn("Cost", format="₹%.2f")})
 
     _market()
+
+
+def _evidence_meter(book: dict) -> None:
+    from scaata.research import audit
+
+    meter = audit.selection_meter(book)
+    if not meter:
+        return
+    T.heading("Is the edge real yet?", "a live test you can read every day")
+    which = st.segmented_control("Measure", ["selection", "downside"], default="selection", key="meter_which",
+                                 format_func={"selection": "Return", "downside": "Loss avoided"}.get,
+                                 label_visibility="collapsed") or "selection"
+    plot(charts.evidence_meter(meter, which))
+    e = meter["e_selection"] if which == "selection" else meter["e_downside"]
+    best = max(e["up_final"], e["down_final"])
+    leaning = "better" if e["up_final"] >= e["down_final"] else "worse"
+    T.caption(
+        f"Each day HANSEI is compared with a holder who kept the <b>same share in stocks</b> and the rest in the "
+        f"liquid fund, so being less invested earns no credit. After <b>{meter['sessions']}</b> sessions "
+        + (f"there is <b>no evidence either way</b> (the best case is {best:.1f} to 1); " if best < 2 else
+           f"the evidence is <b>{best:.1f} to 1</b> that HANSEI is {leaning}; ")
+        + "it takes <b>20 to 1</b> to count. "
+        + ("" if best < 20 else "That is a result at the 5% level. ")
+        + ("That is a hint, not a result. " if 3 <= best < 20 else "")
+        + "This is the honest version of the question: a return comparison on five stocks would take decades "
+          "to settle, and this one can be read every day without fooling itself. It will mostly stay near 1 "
+          "until there is much more history, or many more stocks (the next phases).")
 
 
 def _market() -> None:

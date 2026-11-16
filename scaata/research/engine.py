@@ -23,6 +23,8 @@ import pandas as pd
 
 from scaata.agent import backtest as bt
 from scaata.agent import memory as mem
+from scaata.research import stats as rstats
+from scaata.research.registry import CURRENT_REPLAY
 from scaata.agent.advisors import ADVISORS
 from scaata.config import INDIA_TICKERS, ROOT_DIR
 from scaata.evaluation.stats import paired_block_bootstrap_prob_better
@@ -74,6 +76,8 @@ class Engine:
     """Holds the snapshot, the advisors' views and the live rule's runs, so a batch of
     experiments does not recompute them."""
 
+    no_borrowing = CURRENT_REPLAY["no_borrowing"]     # the live book cannot borrow, so neither does an experiment
+
     def __init__(self, opens: pd.DataFrame | None = None, closes: pd.DataFrame | None = None,
                  meta: dict | None = None, views_fn=bt.precompute_views, periods: dict | None = None) -> None:
         if opens is None or closes is None:
@@ -92,6 +96,7 @@ class Engine:
 
     def _run(self, period: str, views: dict, **brain) -> dict:
         start, end = self.periods[period]
+        brain.setdefault("no_borrowing", self.no_borrowing)
         return bt.simulate(self.opens, self.closes, views, start, end, **brain)
 
     def baseline(self, period: str) -> dict:
@@ -129,6 +134,7 @@ class Engine:
         full_views = apply({t: v for t, v in self.views.items() if start <= t <= end})
         cut_opens, cut_closes = self.opens.loc[:end], self.closes.loc[:end]
         cut_views = apply(self.views_fn(cut_closes, str(start.date())))
+        brain = {"no_borrowing": self.no_borrowing, **brain}
         full = bt.simulate(self.opens, self.closes, full_views, str(start.date()), str(end.date()), **brain)
         cut = bt.simulate(cut_opens, cut_closes, cut_views, str(start.date()), str(end.date()), **brain)
         same = len(full["curve"]) == len(cut["curve"]) and bool(np.allclose(full["curve"], cut["curve"], rtol=1e-9))
@@ -159,6 +165,7 @@ class Engine:
             out = self._compare(kind, transform, brain)
         out["data"] = {k: self.meta.get(k) for k in ("source", "retrieved_utc", "first", "last", "sha256")}
         out["engine"] = {**_commit(), "runtime_seconds": round(time.time() - started, 1),
+                         "replay": {"no_borrowing": self.no_borrowing},
                          "live_learner": {"fixed_share": mem.SHARE, "learning_rate": mem.LEARNING_RATE},
                          "periods": {k: list(v) for k, v in self.periods.items()}}
         return out
@@ -172,6 +179,7 @@ class Engine:
             stats, base_stats = bt.evaluate(run), bt.evaluate(base)
             hold = stats["buy_and_hold"]
             periods[period] = {"start": stats["start"], "end": stats["end"], "sessions": len(run["days"]),
+                               "moments": rstats.moments(run["curve"]),
                                "variant": stats["hansei"], "baseline": base_stats["hansei"], "holding": hold,
                                "trades": stats["trades"], "costs": stats["costs"],
                                "baseline_trades": base_stats["trades"]}

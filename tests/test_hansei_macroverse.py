@@ -40,7 +40,7 @@ def test_replay_is_the_real_engine_and_rebases_both_at_100(world):
     warm = closes.index[closes.index.get_loc(sessions[0]) - replay.WARMUP_SESSIONS]
     cut_o, cut_c = opens.loc[:sessions[-1]], closes.loc[:sessions[-1]]
     direct = bt.simulate(cut_o, cut_c, bt.precompute_views(cut_c, str(warm.date())), str(warm.date()),
-                         str(sessions[-1].date()))
+                         str(sessions[-1].date()), no_borrowing=True)
     inside = pd.DatetimeIndex(direct["days"]) >= sessions[0]
     assert out["hansei"][-1] == pytest.approx(direct["curve"][inside][-1] / direct["curve"][inside][0] * 100, abs=1e-3)
     assert out["stats"]["hansei"]["return"] == pytest.approx(out["hansei"][-1] / 100 - 1, abs=1e-4)
@@ -65,9 +65,9 @@ def test_replay_books_balance_and_events_land_on_sessions(world):
     # The backtest engine lets cash go slightly negative when holdings outgrow their slots;
     # the replay must report that honestly rather than hide it.
     peak = max(out["invested"])
-    assert min(out["invested"]) >= -1e-6 and peak < 1.25
+    assert min(out["invested"]) >= -1e-6 and peak <= 1.0 + 1e-6, "buys are capped at the cash on hand"
     assert out["stats"]["peak_invested"] == pytest.approx(peak, abs=1e-3)
-    assert (peak > 1.005) == any("cash dip below zero" in note for note in out["notes"])
+    assert not any("dipped below zero" in note for note in out["notes"])
     assert all(e >= -1e-6 for s in out["stocks"] for e in s["exposure"])
     assert [e["date"] for e in out["events"]] == ["2016-07-04"], "weekend event moves to Monday; later one dropped"
     assert all(0 <= t["index"] < out["sessions"] for t in out["trades"])

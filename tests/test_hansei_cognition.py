@@ -111,3 +111,26 @@ def test_belief_history_is_append_only_and_records_changes(tmp_path):
     history = load_history(path)
     assert [h["status"] for h in history] == ["cannot tell", "established"], "the earlier belief is still on file"
     assert history[0]["at"] == "2026-01-01"
+
+
+def test_news_is_not_scored_on_days_the_keyword_fallback_was_used():
+    memory = _memory(6, right=True)
+    for obs in (o for o in memory["observations"] if o["judged"]):
+        obs["views"]["news"] = 0.6 if obs["forward_return"] > 0 else -0.6
+    keyword = {"2026-01-02", "2026-01-04"}
+    rows = beliefs.predictions(memory, [], keyword)
+    news_days = {r["date"] for r in rows if r["source"] == "news"}
+    trend_days = {r["date"] for r in rows if r["source"] == "trend"}
+    assert not (news_days & keyword) and keyword <= trend_days, "only the news advisor is excluded on those days"
+    assert len(beliefs.predictions(memory, [])) > len(rows)
+
+
+def test_an_invalid_run_that_a_corrected_one_replaced_is_not_a_second_belief():
+    def record(experiment, verdict):
+        return {"id": experiment, "title": experiment, "hypothesis": "Fixed-Share helps.", "origin": "lab",
+                "review": {"verdict": verdict, "summary": "s", "criteria": []}}
+
+    both = beliefs._findings([record("old", "failed_review"), record("new", "not_supported")])
+    assert [b["detail"]["experiment"] for b in both] == ["new"]
+    alone = beliefs._findings([record("old", "failed_review")])
+    assert [b["detail"]["experiment"] for b in alone] == ["old"], "with no corrected run it stays, as untested"

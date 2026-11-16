@@ -22,6 +22,8 @@ from scaata.config import ROOT_DIR
 
 REGISTRY_PATH = ROOT_DIR / "research" / "experiments.jsonl"
 VERDICTS = ("supported", "not_supported", "inconclusive", "failed_review")
+CURRENT_REPLAY = {"no_borrowing": True}      # how experiments replay the book today; the live book cannot borrow
+LEGACY_REPLAY = {"no_borrowing": False}     # records filed before the replay mode was recorded
 REQUIRED = ("id", "title", "question", "hypothesis", "kind", "method", "criteria", "limitations")
 
 

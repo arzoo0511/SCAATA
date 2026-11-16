@@ -120,7 +120,7 @@ def run_episode(episode: dict, opens: pd.DataFrame, closes: pd.DataFrame,
     warm = closes.index[max(0, first - WARMUP_SESSIONS)]
     cut_opens, cut_closes = opens.loc[:sessions[-1]], closes.loc[:sessions[-1]]   # nothing after the episode
     views = bt.precompute_views(cut_closes, str(warm.date()))
-    run = bt.simulate(cut_opens, cut_closes, views, str(warm.date()), str(sessions[-1].date()))
+    run = bt.simulate(cut_opens, cut_closes, views, str(warm.date()), str(sessions[-1].date()), no_borrowing=True)
     days = pd.DatetimeIndex(run["days"])
     inside = days >= sessions[0]
     agent, hold = run["curve"][inside], run["bh_curve"][inside]
@@ -155,14 +155,14 @@ def run_episode(episode: dict, opens: pd.DataFrame, closes: pd.DataFrame,
         "notes": ["Real prices, replayed day by day through the same brain the live agent uses.",
                   "The agent starts a year earlier, so it arrives with positions and learned trust.",
                   "The news advisor is silent: no scored headlines exist for these years.",
-                  "It trades rupee amounts here; the live ₹10,000 book trades whole shares."],
+                  "Buys are capped at the cash on hand, as live. It trades rupee amounts; the live ₹10,000 "
+                  "book trades whole shares."],
     }
     peak_invested = float((values.sum(axis=1).values / agent).max())
     out["stats"]["peak_invested"] = peak_invested
-    if peak_invested > 1.005:
-        out["notes"].append(f"At its most invested the replay held {peak_invested:.0%} of the book in stocks: the "
-                            "replay engine lets cash dip below zero when holdings have outgrown their slots. The "
-                            "live paper book cannot do this, so the replay is slightly more aggressive than live.")
+    if peak_invested > 1.005:       # cannot happen with no_borrowing=True; kept so a regression is visible
+        out["notes"].append(f"At its most invested the replay held {peak_invested:.0%} of the book in stocks: cash "
+                            "dipped below zero, which the live paper book cannot do.")
     if factor_closes is not None:
         for name in factor_closes:
             series = factor_closes[name].reindex(window)

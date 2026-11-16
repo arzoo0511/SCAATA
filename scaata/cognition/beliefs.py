@@ -83,9 +83,13 @@ def wilson(hits: float, n: float, z: float = 1.96) -> tuple[float, float]:
 
 
 # ------------------------------------------------------------ predictions
-def predictions(memory: dict | None, journal: list[dict] | None) -> list[dict]:
+def predictions(memory: dict | None, journal: list[dict] | None, keyword_days: set[str] | None = None) -> list[dict]:
     """Every judged prediction on file. Each advisor's view, and the brain's weighted score, is a
-    prediction of a stock's next 20 sessions against a liquid fund; this pairs each with what happened."""
+    prediction of a stock's next 20 sessions against a liquid fund; this pairs each with what happened.
+
+    On days the news was scored by the offline keyword fallback rather than the language model, the news
+    advisor's view is left out of its own scorecard: it was a different, cruder instrument that day."""
+    keyword_days = keyword_days or set()
     scores = {(e["session"], d["symbol"]): d["score"] for e in journal or [] for d in e.get("decisions", [])}
     rows = []
     for obs in (memory or {}).get("observations", []):
@@ -96,7 +100,7 @@ def predictions(memory: dict | None, journal: list[dict] | None) -> list[dict]:
         if (obs["date"], obs["symbol"]) in scores:
             sources["brain"] = scores[(obs["date"], obs["symbol"])]
         for source, view in sources.items():
-            if abs(view) < SILENT or outcome == 0:
+            if abs(view) < SILENT or outcome == 0 or (source == "news" and obs["date"] in keyword_days):
                 continue
             rows.append({"date": obs["date"], "symbol": obs["symbol"], "source": source, "view": view,
                          "outcome": outcome, "right": (view > 0) == (outcome > 0)})
@@ -190,10 +194,13 @@ VERDICT_STATUS = {"supported": "established", "inconclusive": "leaning", "not_su
 
 def _findings(records: list[dict]) -> list[dict]:
     out = []
+    answered = {r["hypothesis"] for r in records if (r.get("review") or {}).get("verdict") not in (None, "failed_review")}
     for r in records:
         review = r.get("review")
         if not review:
             continue
+        if review["verdict"] == "failed_review" and r["hypothesis"] in answered:
+            continue        # an invalid run that a corrected one replaced is a record, not a second belief
         legacy = r.get("origin") == "legacy"
         status = VERDICT_STATUS.get(review["verdict"], "untested")
         kind = "finding" if review["verdict"] in ("supported", "not_supported") else "hypothesis"
@@ -329,7 +336,8 @@ def build(paths: dict | None = None) -> dict:
     if Path(p["macro_runs"]).exists():
         replays = sorted((r for r in (_read(f) for f in Path(p["macro_runs"]).glob("*.json"))
                           if r and r.get("kind") == "replay"), key=lambda r: r["start"])
-    rows = predictions(memory, journal)
+    keyword_days = set(((evaluation or {}).get("health") or {}).get("news_days_scored_by_keywords") or [])
+    rows = predictions(memory, journal, keyword_days)
     card = scorecard(rows)
     trust = memory.get("weights", {})
     beliefs = (_facts(book, evaluation, replays) + _relationships(sens) + _findings(records)

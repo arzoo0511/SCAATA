@@ -197,6 +197,13 @@ def _baseline_due(records: list[dict], snapshot_last: str | None) -> str | None:
                 for r in records if r["id"].startswith("live-rule-vs-holding") and r.get("results") is not None]
     if learners and memory.SHARE not in learners:
         return "fixed-share"
+    # The replay used to be able to borrow, which the live book cannot; experiments no longer do.
+    from scaata.research.registry import CURRENT_REPLAY, LEGACY_REPLAY
+
+    modes = [((r.get("results") or {}).get("engine") or {}).get("replay") or LEGACY_REPLAY
+             for r in records if r["id"].startswith("live-rule-vs-holding") and r.get("results") is not None]
+    if modes and CURRENT_REPLAY not in modes:
+        return "no-borrowing"
     return None
 
 
@@ -217,6 +224,8 @@ def build_agenda(evaluation: dict | None, journal: list[dict], records: list[dic
     add("Does the live rule still beat holding on the latest data?",
         ("Standing question: the live learner is now Fixed-Share, and the last answer was about plain Hedge."
          if due == "fixed-share" else
+         "Standing question: experiments no longer let the replay borrow, as the live book cannot, and the last "
+         "answer was with borrowing." if due == "no-borrowing" else
          f"Standing question: the price snapshot now runs to {snapshot_last}, newer than the last answer.")
         if due else "Standing question: re-asked whenever the price snapshot moves into a new month.",
         baseline_spec(due))
@@ -276,7 +285,8 @@ def load_agenda(path: Path | None = None) -> list[dict]:
 
 def specs(snapshot_last: str | None = None) -> dict[str, dict]:
     """Every experiment the director knows how to propose, by id."""
-    dated = ([baseline_spec(snapshot_last[:7])] if snapshot_last else []) + [baseline_spec("fixed-share")]
+    dated = ([baseline_spec(snapshot_last[:7])] if snapshot_last else []) + [baseline_spec("fixed-share"),
+                                                                              baseline_spec("no-borrowing")]
     all_specs = [baseline_spec(), *dated, regime_spec(), learning_spec(), fixed_share_spec(), live_like_spec(),
                  no_borrowing_spec(),
                  shorter_wait_spec(), *(ablation_spec(a) for a in ADVISOR_NAMES)]

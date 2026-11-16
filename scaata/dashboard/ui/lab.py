@@ -126,6 +126,54 @@ def _experiment(record: dict, status: str) -> None:
            + reproduce)
 
 
+def _how_much_to_trust(records: list[dict], lab: list[dict]) -> None:
+    from scaata.research import audit, review, stats
+
+    T.heading("How much to trust these numbers", "the discount for trying many things")
+    T.caption("Try forty variants and the best of them will look good by luck alone. These tables discount for "
+              "that. They are cautious: the variants tried here are mostly small tweaks of one rule, so the "
+              "number of truly independent tries is much smaller than the number of tries.")
+    rows = audit.dsr_table(records)
+    span = st.segmented_control("Span", list(audit.SPAN_NAMES), default="holdout", format_func=audit.SPAN_NAMES.get,
+                                label_visibility="collapsed", key="dsr_span") or "holdout"
+    _plot(charts.dsr_bars(rows, span), f"dsr_{span}")
+    T.caption("Grey: the chance each variant&rsquo;s true Sharpe really exceeds holding&rsquo;s, taken alone. "
+              "Blue: the same after discounting for every variant tried in this span (the Deflated Sharpe "
+              "Ratio). The dashed line is 95%. <b>None reaches it.</b> The rule is probably a little better than "
+              "holding on Sharpe, and nothing here is strong enough to be sure.")
+
+    left, right = st.columns(2, gap="large")
+    with left:
+        pbo = {r["span"]: r for r in audit.pbo_table(records)}
+        cells = "".join(
+            f'<div class="hs-row"><div><div class="a">{audit.SPAN_NAMES[s]}</div><div class="b">'
+            + (f'{pbo[s]["variants"]} variants, {pbo[s]["splits"]} train/test splits' if pbo[s].get("pbo") is not None
+               else pbo[s].get("reason", "n/a")) + "</div></div>"
+            + (f'<div class="mono" style="font-size:1.3rem;color:{T.INK}">{pbo[s]["pbo"]:.0%}</div>'
+               if pbo[s].get("pbo") is not None else "") + "</div>" for s in audit.SPANS if s in pbo)
+        st.markdown('<div class="hs-eyebrow">Chance that picking the past winner fails</div>'
+                    f'<div class="hs-panel">{cells}</div>', unsafe_allow_html=True)
+        T.caption("Cut the history in pieces, pick whichever variant did best on some of them, and see where it "
+                  "ranks on the rest (Bailey et al.). Near 50% means the past winner is no better than a coin "
+                  "flip. With so few, so similar variants this is a smoke alarm, not a measurement.")
+    with right:
+        ledger = review.budget_ledger(lab)
+        wealth = ledger[-1]["wealth_after"] if ledger else stats.INITIAL_WEALTH
+        share = wealth / stats.INITIAL_WEALTH
+        st.markdown('<div class="hs-eyebrow">Evidence budget</div><div class="hs-panel">'
+                    f'<div class="hs-row"><div><div class="a">Left to spend</div><div class="b">of {stats.INITIAL_WEALTH:.2f} '
+                    f'false-alarm risk at the start; each test uses half of what is left, and a pass earns '
+                    f'{stats.PAYOUT:.2f} back</div></div><div class="mono" style="font-size:1.3rem;color:'
+                    f'{T.INK if share > .25 else T.DOWN}">{wealth:.4f}</div></div>'
+                    f'<div class="hs-row"><div><div class="a">Next test may use</div><div class="b">a false-alarm '
+                    f'level of {stats.offered_level(wealth):.4f}, so it needs {1 - stats.offered_level(wealth):.2%} '
+                    f'confidence</div></div></div></div>', unsafe_allow_html=True)
+        T.caption("Every experiment spends from one budget, so testing more ideas makes each later pass harder. "
+                  "<b>It is nearly empty on the 2020-onward years, which have been looked at many times.</b> "
+                  "Further work on them cannot confirm anything; it has to be confirmed on data that arrives "
+                  "after it is filed.")
+
+
 def page() -> None:
     from scaata.research import director, registry
 
@@ -214,6 +262,9 @@ def page() -> None:
                             f'<div class="hs-note" style="margin:.8rem 0">{verdict_chip(status)} &nbsp;'
                             f'{record["review"]["summary"]}</div>', unsafe_allow_html=True)
                 T.foot(f'Source: <code>{record.get("source", "")}</code> · dated {record["registered_at"][:10]}')
+
+    if lab:
+        _how_much_to_trust(records, lab)
 
     T.heading("What the Lab cannot do")
     rules = [("Change the live agent", "A supported finding is a proposal. It reaches the trading code only as a "

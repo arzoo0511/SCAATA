@@ -2,6 +2,7 @@
 `ui.data` and returns a figure; none touches Streamlit or the network."""
 from __future__ import annotations
 
+import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
@@ -561,3 +562,44 @@ def event_study(table: list[dict], horizon: int = 20, span: str = "all") -> go.F
     fig.update_xaxes(ticksuffix="%", showspikes=False)
     fig.update_yaxes(autorange="reversed")
     return _layout(fig, max(300, 44 * len({r["label"] for r in rows}) + 90), unified=False)
+
+
+def evidence_meter(meter: dict, which: str = "selection") -> go.Figure:
+    """The running evidence (an e-process) that HANSEI differs from an equally invested holder, on a log
+    scale. Evidence above the dashed line (20 to 1) is a 5% result however often it has been looked at."""
+    e = meter["e_selection"] if which == "selection" else meter["e_downside"]
+    dates = pd.to_datetime(meter["dates"])
+    fig = go.Figure()
+    fig.add_hline(y=meter["threshold"], line=dict(color=T.TAN, width=1.5, dash="dash"),
+                  annotation_text="20 to 1: a result", annotation_position="top left",
+                  annotation_font=dict(color=T.TAN, size=11))
+    fig.add_hline(y=1, line=dict(color=T.MUTED, width=1))
+    fig.add_trace(go.Scatter(x=dates, y=e["down"], mode="lines", name="evidence HANSEI is worse",
+                             line=dict(color=T.DOWN, width=2.2),
+                             hovertemplate="worse: %{y:.2f} to 1<extra></extra>"))
+    fig.add_trace(go.Scatter(x=dates, y=e["up"], mode="lines", name="evidence HANSEI is better",
+                             line=dict(color=T.UP, width=2.2),
+                             hovertemplate="better: %{y:.2f} to 1<extra></extra>"))
+    fig.update_yaxes(type="log", range=[np.log10(0.5), np.log10(max(40.0, float(max(e["up"].max(), e["down"].max())) * 1.5))],
+                     tickvals=[0.5, 1, 2, 5, 10, 20, 40], ticktext=["½", "1", "2", "5", "10", "20", "40"])
+    return _layout(fig, 300)
+
+
+def dsr_bars(rows: list[dict], span: str) -> go.Figure:
+    """For each variant: the chance its Sharpe truly beats holding's, before and after counting the variants tried."""
+    part = [r for r in rows if r["span"] == span]
+    if not part:
+        return empty("No experiments with a replay in this span yet.")
+    fig = go.Figure()
+    for key, name, colour in (("psr_vs_benchmark", "taken alone", T.MUTED), ("dsr", "after counting the tries", T.HANSEI)):
+        fig.add_trace(go.Bar(y=[r["title"] for r in part], x=[r[key] * 100 for r in part], orientation="h", name=name,
+                             marker=dict(color=colour, line=dict(color=T.PANEL, width=2)),
+                             text=[f"{r[key]:.0%}" for r in part], textposition="outside", cliponaxis=False,
+                             textfont=dict(family=T.MONO, color=T.INK, size=11),
+                             hovertemplate="%{y}<br>" + name + ": %{x:.0f}% chance it truly beats holding<extra></extra>"))
+    fig.add_vline(x=50, line=dict(color=T.MUTED, width=1, dash="dot"))
+    fig.add_vline(x=95, line=dict(color=T.TAN, width=1.2, dash="dash"))
+    fig.update_layout(barmode="group", bargap=0.35)
+    fig.update_xaxes(range=[0, 112], ticksuffix="%", showspikes=False)
+    fig.update_yaxes(autorange="reversed", showgrid=False)
+    return _layout(fig, max(300, 56 * len(part) + 80), unified=False)

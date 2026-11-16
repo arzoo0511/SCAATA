@@ -64,6 +64,11 @@ python -m scaata.research run --proposed   # file, run and review them
 python -m scaata.research list
 ```
 
+How much a result is worth is itself measured (`scaata/research/stats.py`): a Deflated Sharpe Ratio against
+holding's Sharpe, the probability that picking the past winner fails, an evidence budget that shrinks with every
+test, and a live e-process on the paper book that compares HANSEI with a holder of the same exposure and can be
+read every day without fooling itself.
+
 First results (13 Nov 2026): the live rule falls less than holding in both spans, but its Sharpe edge is
 just inside noise (89% against a 90% bar), so the verdict is *inconclusive*. Silencing the trend advisor,
 and switching learning off, did not make it measurably worse. The Lab cannot change the agent: a supported

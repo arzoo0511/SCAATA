@@ -19,13 +19,15 @@ from __future__ import annotations
 
 import operator
 
+from scaata.research import stats as rstats
+from scaata.research.registry import LEGACY_REPLAY
+
 OPS = {">": operator.gt, ">=": operator.ge, "<": operator.lt, "<=": operator.le}
 INTEGRITY = ("criteria_written_first", "data_snapshot_recorded", "no_look_ahead", "costs_charged",
              "change_took_effect", "baseline_reproduces")
 LEGACY_LEARNER = {"fixed_share": 0.0, "learning_rate": 0.05}     # records filed before the learner was recorded
 MIN_SESSIONS = 750             # about three years in each span
 MIN_TRADES = 30
-NOISE_LEVEL = 0.10             # chance of a fluke we accept, before sharing it across looks
 
 
 def _check(name: str, passed: bool | None, detail: str) -> dict:
@@ -47,6 +49,41 @@ def holdout_looks(record: dict, earlier: list[dict]) -> int:
     mine = record.get("registered_at") or ""
     return 1 + sum(1 for r in earlier if r.get("origin") == "lab" and r["id"] != record["id"]
                    and r.get("results") is not None and (r.get("registered_at") or "") <= mine)
+
+
+def p_value(record: dict) -> float | None:
+    """One-sided p-value of an experiment's holdout effect, in the direction it points: one minus the share
+    of block-bootstrap resamples that agree with it. None for experiments with no bootstrap."""
+    primary = (record.get("results") or {}).get("primary") or {}
+    prob = (primary.get("prob_better") or {}).get("holdout")
+    if prob is None:
+        return None
+    value = (primary.get("values") or {}).get("holdout", 0.0)
+    return 1 - (prob if value >= 0 else 1 - prob)
+
+
+def budget_ledger(records: list[dict]) -> list[dict]:
+    """The evidence budget replayed over lab experiments in the order they were filed. Experiments that
+    failed review spent nothing: their numbers were never trusted."""
+    ordered = sorted((r for r in records if r.get("origin") == "lab" and r.get("results") is not None
+                      and (r.get("review") or {}).get("verdict") != "failed_review"),
+                     key=lambda r: r.get("registered_at") or "")
+    tests, asked = [], False
+    for r in ordered:
+        p = p_value(r)
+        if r.get("kind") == "baseline":       # the standing question is re-asked on new data: only the first
+            p, asked = (None if asked else p), True      # asking is a new hypothesis that spends budget
+        tests.append((r["id"], p))
+    return rstats.ledger(tests)
+
+
+def budget_before(record: dict, earlier: list[dict]) -> tuple[float, float]:
+    """(wealth left, level this experiment is offered) given the lab experiments filed before it."""
+    mine = record.get("registered_at") or ""
+    prior = [r for r in earlier if r["id"] != record["id"] and (r.get("registered_at") or "") <= mine]
+    rows = budget_ledger(prior)
+    wealth = rows[-1]["wealth_after"] if rows else rstats.INITIAL_WEALTH
+    return wealth, rstats.offered_level(wealth)
 
 
 def review(record: dict, earlier: list[dict] | None = None) -> dict:
@@ -99,10 +136,12 @@ def review(record: dict, earlier: list[dict] | None = None) -> dict:
 
     # The live rule replayed on the same data with the same learner must give the same answer every time.
     learner = (results.get("engine") or {}).get("live_learner") or LEGACY_LEARNER
+    replay_mode = (results.get("engine") or {}).get("replay") or LEGACY_REPLAY
     same = [r for r in (earlier or []) if r["id"] != record["id"] and r.get("origin") == "lab"
             and r.get("kind") == "baseline" and r.get("results")
             and (r["results"].get("data") or {}).get("sha256") == sha and sha
             and ((r["results"].get("engine") or {}).get("live_learner") or LEGACY_LEARNER) == learner
+            and ((r["results"].get("engine") or {}).get("replay") or LEGACY_REPLAY) == replay_mode
             and (r.get("registered_at") or "") <= (record.get("registered_at") or "")]
     if same and periods:
         reference = same[-1]["results"]["periods"]
@@ -126,7 +165,8 @@ def review(record: dict, earlier: list[dict] | None = None) -> dict:
                          + ", ".join(f"{p} {v:+.3f}" for p, v in values.items())))
 
     looks = holdout_looks(record, earlier or [])
-    needed = 1 - NOISE_LEVEL / looks
+    wealth, offered = budget_before(record, earlier or [])
+    needed = 1 - offered
     prob = primary.get("prob_better", {}).get("holdout")
     if prob is None:
         checks.append(_check("beats_noise", None, "no bootstrap for this kind of experiment; read it as descriptive"))
@@ -136,7 +176,9 @@ def review(record: dict, earlier: list[dict] | None = None) -> dict:
         plural = "" if looks == 1 else "s"
         checks.append(_check("beats_noise", confidence >= needed,
                              f"{confidence:.0%} of block-bootstrap resamples agree with the holdout effect; "
-                             f"{needed:.1%} needed (this holdout has now been looked at {looks} time{plural})"))
+                             f"{needed:.1%} needed: the evidence budget has {wealth:.3f} left and offers this "
+                             f"test a false-alarm level of {offered:.3f} (this holdout has now been looked at "
+                             f"{looks} time{plural})"))
 
     criteria = apply_criteria(record)
     integrity_ok = all(c["passed"] for c in checks if c["name"] in INTEGRITY)
@@ -154,4 +196,5 @@ def review(record: dict, earlier: list[dict] | None = None) -> dict:
                "not_supported": "Did not meet what it promised before the run: " + "; ".join(missed) + ".",
                "inconclusive": "Met its own criteria but not the reviewer's: " + ", ".join(failed) + ".",
                "supported": "Met every criterion written before the run and passed every check."}[verdict]
-    return {"verdict": verdict, "summary": summary, "checks": checks, "criteria": criteria, "holdout_looks": looks}
+    return {"verdict": verdict, "summary": summary, "checks": checks, "criteria": criteria, "holdout_looks": looks,
+            "budget": {"wealth": wealth, "level": offered}}

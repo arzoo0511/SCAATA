@@ -171,7 +171,7 @@ def run_scenario(scenario: dict, opens: pd.DataFrame, closes: pd.DataFrame, fact
         sim_opens = all_closes.shift().loc[future]            # assumption: each day opens at the previous close
         all_opens = pd.concat([history_opens, sim_opens])
         views = bt.precompute_views(all_closes, str(warm.date()))
-        run = bt.simulate(all_opens, all_closes, views, str(warm.date()), None)
+        run = bt.simulate(all_opens, all_closes, views, str(warm.date()), None, no_borrowing=True)
         days = pd.DatetimeIndex(run["days"])
         inside = days >= anchor
         agent, hold = run["curve"][inside], run["bh_curve"][inside]
