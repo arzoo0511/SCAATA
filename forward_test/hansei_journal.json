@@ -9731,5 +9731,540 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-11-16",
+    "ran_utc": "2026-11-17T10:54:57.870264+00:00",
+    "equity": 10710.78,
+    "benchmark_equity": 11248.61,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.012,
+        "target_exposure": 0.975,
+        "current_exposure": 0.762,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 76%: no strong reason to change",
+          "trend supportive (+0.58, trusted 21%)",
+          "momentum against (-0.39, trusted 30%)"
+        ],
+        "views": {
+          "trend": 0.583,
+          "volatility": -0.133,
+          "momentum": -0.387,
+          "news": 0.053
+        },
+        "shadow": {
+          "relstr": -0.107
+        },
+        "value": 1633.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.023,
+        "target_exposure": 1.0,
+        "current_exposure": 0.74,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 15% of the book vs 20% target",
+          "trend supportive (+0.97, trusted 21%)",
+          "news against (-0.75, trusted 26%)"
+        ],
+        "views": {
+          "trend": 0.972,
+          "volatility": -0.598,
+          "momentum": 0.505,
+          "news": -0.753
+        },
+        "shadow": {
+          "relstr": 0.694
+        },
+        "value": 1585.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.338,
+        "target_exposure": 1.0,
+        "current_exposure": 0.913,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 91%: no strong reason to change",
+          "trend supportive (+0.98, trusted 21%)",
+          "momentum supportive (+0.54, trusted 30%)"
+        ],
+        "views": {
+          "trend": 0.977,
+          "volatility": -0.244,
+          "momentum": 0.539,
+          "news": 0.099
+        },
+        "shadow": {
+          "relstr": 0.718
+        },
+        "value": 1956.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.093,
+        "target_exposure": 0.815,
+        "current_exposure": 0.538,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 54%: no strong reason to change",
+          "momentum against (-0.49, trusted 30%)",
+          "news supportive (+0.17, trusted 26%)"
+        ],
+        "views": {
+          "trend": 0.055,
+          "volatility": -0.0,
+          "momentum": -0.492,
+          "news": 0.173
+        },
+        "shadow": {
+          "relstr": -0.233
+        },
+        "value": 1152.24
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.072,
+        "target_exposure": 0.857,
+        "current_exposure": 0.551,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 55%: no strong reason to change",
+          "momentum against (-0.68, trusted 30%)",
+          "trend supportive (+0.39, trusted 21%)"
+        ],
+        "views": {
+          "trend": 0.393,
+          "volatility": -0.0,
+          "momentum": -0.684,
+          "news": 0.207
+        },
+        "shadow": {
+          "relstr": -0.491
+        },
+        "value": 1180.4
+      }
+    ],
+    "weights": {
+      "trend": 0.2078,
+      "volatility": 0.2245,
+      "momentum": 0.304,
+      "news": 0.2637
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.093,
+          "strength": 0.567,
+          "material_count": 1,
+          "view": 0.053
+        },
+        "top": [
+          {
+            "title": "HDFC Bank Board Approves Proposed One-Year Reappointment of Rangan",
+            "source": "TipRanks",
+            "event": "management",
+            "sentiment": 0.2,
+            "material": 0.7,
+            "published_utc": "2026-11-16T12:22:50+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.753,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": -0.753
+        },
+        "top": [
+          {
+            "title": "ICICI Bank Downgraded to Hold Amid Valuation and Technical Concerns",
+            "source": "MarketsMojo",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-15T05:31:02+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank revises NRI savings service charges effective December 1",
+            "source": "NewsBytes",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-16T10:18:53+00:00",
+            "count": 2
+          },
+          {
+            "title": "Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance",
+            "source": "NDTV Profit",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-16T04:46:10+00:00",
+            "count": 1
+          },
+          {
+            "title": "Bharti Airtel, ICICI Bank, Meesho: Motilal Oswal Backs These 25 Stocks, But Flags An Earnings Slowdown",
+            "source": "NDTV Profit",
+            "event": "results",
+            "sentiment": -0.2,
+            "material": 0.5,
+            "published_utc": "2026-11-16T02:00:26+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 1.0,
+          "strength": 0.099,
+          "material_count": 0,
+          "view": 0.099
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.267,
+          "strength": 0.648,
+          "material_count": 2,
+          "view": 0.173
+        },
+        "top": [
+          {
+            "title": "Qualitek Labs wins Rs 10.19 crore work order from Indian Oil Corporation Limited",
+            "source": "scanx.trade",
+            "event": "deal",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-16T23:26:06+00:00",
+            "count": 2
+          },
+          {
+            "title": "Indian Oil Corporation - Negative Breakout: These 8 stocks closed below their 200 DMA",
+            "source": "The Economic Times",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-16T04:01:35+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.469,
+          "strength": 0.442,
+          "material_count": 2,
+          "view": 0.207
+        },
+        "top": [
+          {
+            "title": "ITC Ltd. is Rated Sell by MarketsMOJO",
+            "source": "MarketsMojo",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-14T18:57:30+00:00",
+            "count": 1
+          },
+          {
+            "title": "Consumer spending on ITC-acquired brands Savlon, Nimyle to double in medium term",
+            "source": "ET Retail",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-16T02:47:20+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "session": "2026-11-17",
+    "ran_utc": "2026-11-17T10:54:57.922580+00:00",
+    "equity": 10739.43,
+    "benchmark_equity": 11296.44,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": 0.029,
+        "target_exposure": 1.0,
+        "current_exposure": 0.759,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 76%: no strong reason to change",
+          "trend supportive (+0.57, trusted 20%)",
+          "momentum against (-0.24, trusted 30%)"
+        ],
+        "views": {
+          "trend": 0.572,
+          "volatility": -0.131,
+          "momentum": -0.244,
+          "news": 0.056
+        },
+        "shadow": {
+          "relstr": -0.066
+        },
+        "value": 1629.9
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.091,
+        "target_exposure": 1.0,
+        "current_exposure": 0.744,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 15% of the book vs 20% target",
+          "momentum supportive (+0.69, trusted 30%)",
+          "trend supportive (+0.98, trusted 20%)"
+        ],
+        "views": {
+          "trend": 0.978,
+          "volatility": -0.598,
+          "momentum": 0.685,
+          "news": -0.669
+        },
+        "shadow": {
+          "relstr": 0.77
+        },
+        "value": 1598.7
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.391,
+        "target_exposure": 1.0,
+        "current_exposure": 0.917,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 92%: no strong reason to change",
+          "momentum supportive (+0.71, trusted 30%)",
+          "trend supportive (+0.98, trusted 20%)"
+        ],
+        "views": {
+          "trend": 0.98,
+          "volatility": -0.207,
+          "momentum": 0.709,
+          "news": 0.086
+        },
+        "shadow": {
+          "relstr": 0.789
+        },
+        "value": 1968.6
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": 0.191,
+        "target_exposure": 1.0,
+        "current_exposure": 0.542,
+        "action": "BUY",
+        "reasons": [
+          "Adding to IOC: 54% -> 100% of its share",
+          "news supportive (+0.80, trusted 27%)",
+          "momentum against (-0.22, trusted 30%)",
+          "material news overrode the waiting period"
+        ],
+        "views": {
+          "trend": 0.19,
+          "volatility": -0.0,
+          "momentum": -0.22,
+          "news": 0.803
+        },
+        "shadow": {
+          "relstr": -0.041
+        },
+        "value": 1164.48
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.089,
+        "target_exposure": 0.822,
+        "current_exposure": 0.546,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 55%: no strong reason to change",
+          "momentum against (-0.68, trusted 30%)",
+          "trend supportive (+0.33, trusted 20%)"
+        ],
+        "views": {
+          "trend": 0.327,
+          "volatility": -0.0,
+          "momentum": -0.679,
+          "news": 0.181
+        },
+        "shadow": {
+          "relstr": -0.568
+        },
+        "value": 1173.2
+      }
+    ],
+    "weights": {
+      "trend": 0.204,
+      "volatility": 0.2226,
+      "momentum": 0.3015,
+      "news": 0.2719
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.069,
+          "strength": 0.817,
+          "material_count": 1,
+          "view": 0.056
+        },
+        "top": [
+          {
+            "title": "HDFC Bank Board Approves Proposed One-Year Reappointment of Rangan",
+            "source": "TipRanks",
+            "event": "management",
+            "sentiment": 0.2,
+            "material": 0.7,
+            "published_utc": "2026-11-16T12:22:50+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.669,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": -0.669
+        },
+        "top": [
+          {
+            "title": "ICICI Bank Downgraded to Hold Amid Valuation and Technical Concerns",
+            "source": "MarketsMojo",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-15T05:31:02+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank hikes NRI savings account charges from December 1: Check rates",
+            "source": "Business Standard",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-17T10:30:08+00:00",
+            "count": 3
+          },
+          {
+            "title": "Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance",
+            "source": "NDTV Profit",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-16T04:46:10+00:00",
+            "count": 1
+          },
+          {
+            "title": "Bharti Airtel, ICICI Bank, Meesho: Motilal Oswal Backs These 25 Stocks, But Flags An Earnings Slowdown",
+            "source": "NDTV Profit",
+            "event": "results",
+            "sentiment": -0.2,
+            "material": 0.5,
+            "published_utc": "2026-11-16T02:00:26+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.65,
+          "strength": 0.133,
+          "material_count": 0,
+          "view": 0.086
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.803,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": 0.803
+        },
+        "top": [
+          {
+            "title": "India\u2019s first sustainable aviation fuel plant ready at IOC\u2019s Panipat refinery ahead of blending mandates",
+            "source": "The Indian Express",
+            "event": "crude",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-17T09:47:55+00:00",
+            "count": 9
+          },
+          {
+            "title": "Indian Oil Takes A Big Leap Towards Greener Skies, Panipat Refinery Set To Meet Indias 1% SAF Blending Target",
+            "source": "Free Press Journal",
+            "event": "crude",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-17T07:25:23+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil Corporation gets approval to produce SAF at Panipat",
+            "source": "NewsBytes",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-17T06:37:48+00:00",
+            "count": 1
+          },
+          {
+            "title": "Qualitek Labs wins Rs 10.19 crore work order from Indian Oil Corporation Limited",
+            "source": "scanx.trade",
+            "event": "deal",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-16T23:26:06+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.469,
+          "strength": 0.385,
+          "material_count": 2,
+          "view": 0.181
+        },
+        "top": [
+          {
+            "title": "ITC Ltd. is Rated Sell by MarketsMOJO",
+            "source": "MarketsMojo",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-14T18:57:30+00:00",
+            "count": 1
+          },
+          {
+            "title": "Consumer spending on ITC-acquired brands Savlon, Nimyle to double in medium term",
+            "source": "ET Retail",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-16T02:47:20+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]

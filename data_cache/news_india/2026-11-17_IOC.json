@@ -1,0 +1,311 @@
+{
+  "symbol": "IOC.NS",
+  "date": "2026-11-17",
+  "headlines": [
+    {
+      "title": "India\u2019s first sustainable aviation fuel plant ready at IOC\u2019s Panipat refinery ahead of blending mandates",
+      "source": "The Indian Express",
+      "published_utc": "2026-11-17T09:47:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFRxYnNUQ1otQmJtNHdlSVJob1c0UVpjWDNwUExKdmVFazB1TDJ5NFRTNTVwTTQ2QVd6bG1vai0yVl92ejdGYkpZREc1OC1HcjVvWlZBamJCMW9SbDNqa1lFM09ZSWgyTExubkJueTdpU1o0amxVT0sxX3lLLVNaSnpJZFo2ZlpFR2NhekVoM2ZqWVBoSWtwVjhpWHgwZF9aNGVSOFpDSDdvck5CNG9EMFE5Q2FrZVhTSzR2YnhXYnRJcUMzWjFQRlE0YjhOSVXSAdYBQVVfeXFMTnpBSklsdzVLUDFxVjlhN3BzYmozUjAzcW1BUGUyVGV4S1pzUFFoTlVkakNFZWVSMGhydm51bDJNeHNpUXVPbk9pdXlyTHNxczlIWXowT2dsWWpZODJqZndsUjZyZXg1OWZYZmtjcTB1Zm9BdkZkTkFvNHVDX2xKclRlSV93MWVKQU95T1NrM1JYQUZiN1VxNlI2Y3FQRWdpTnZ3VVZCZno3Y2dLWDJzRG42VEE2NklMc2s3VnlDTS1FSnYxYXVkSUx4QTVodEhPYy1LeFpYQQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "crude"
+    },
+    {
+      "title": "Indian Oil\u2019s Panipat refinery set to kick off commercial supply of sustainable aviation fuel soon",
+      "source": "ThePrint",
+      "published_utc": "2026-11-17T09:27:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdV9YdUhhS1RLT2ZfSThzRU1tXzQ5NEF4Y2tyeGpqNE55Q04wRGI4WnptZkRtQWZ2UFhfSlRyUmlkNXBCakFfNXJzRmhqbkVxazRJLTA0N0RLaWQ3LVdzWVJtUW5GYmx5LVowZmhuS1k4eS1vLUx5bjJQVUROa1FveElFbmY2TUZSM3VzZEZScnVLSnhWMTREM2kyanJndFk2ZWNNTEljMVBTTkJBUTBjRDJ0Q3g3VUpWYTVwWkdRQnJuMmREWERZUEg3bFNYQQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "crude"
+    },
+    {
+      "title": "Indian Oil Takes A Big Leap Towards Greener Skies, Panipat Refinery Set To Meet Indias 1% SAF Blending Target",
+      "source": "Free Press Journal",
+      "published_utc": "2026-11-17T07:25:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdVJIb2RURXgydEFEM1hlSTllWV9zUFBXVkJSY0lkdnBmRG5wRUFiNXd1SmxCejJYbGJlQkFKa1BtZEdfTVo4THdHVVFBYXVBVnJ3NWpyVGpZb19kM3U2dlV2TXVzZUI1QmR5VVRUTlFzUFVMSktkbW1wdXVMUkVlcGtQekVCQ3lnU2xBQzFQUzY2a1RSQnlJYzRRSWdLT3VubVhaY2k4Q3FTYVlhWVJuR3NjREFMQ1VOcTR1UDZhLVM4LXlzQ244R2ZOSURrUmRscEFxTzZRUS0wLUJ4cHF0VjF2NVB6MWdoYmdNb9IB8gFBVV95cUxQbENNYXByWDhQbWpBd1p2aWEwaUJmUmItS0FUbTZTQWR1UU4xUWRtbV83RzNwcHo5VHI3bkpmcXU5QXZ4SW5RZ014QWtpTURicF94LVZqdDdqdG4ybmF6ODVkdEpZRDFmVUoyVWVTczg5RGMyWjFJMHZwTXdpekhtX2tuRzhIX1pYLTJwRkkyVVZxbkFhUmJsckxsOWdRYTF4NFAwT29DWXlDR25vaHBrSHJmNXN5c0EtUFFKUDVvUUZIbW5pb3VOR3N4TXg2OEtteWZFVXkxRE12b3NMbGFTZ2I5dUVpQTNvcG9mN3VsVC1RUQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "crude"
+    },
+    {
+      "title": "Indian Oil Wins Approval to Supply Sustainable Aviation Fuel",
+      "source": "GK Today",
+      "published_utc": "2026-11-17T07:18:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZFQzTkM3NWt1c2RsYWhHZHhMNHB2VkI3LWpRNkhlODgzMnNmaW5yVHhLTDdNaENSbUlfaDI1UjhkUW5OWlRtR0E5dGRpMEx6dUZhbjM3TVFIUmt2dUY1LXVQMExEWXd1OUdYakUxcS1hdVV6NHZjaE83b0diM25aOFRDZS1rdXByZGJ0Uw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "IOC Gets Nod for Commercial SAF Supply from Panipat Refinery",
+      "source": "Rediff MoneyWiz",
+      "published_utc": "2026-11-17T07:13:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDNzOUpjMFNYQ3g2RE9uYTNHVXVXVWM0YWlEd3ZjTjNKbzhqSVNWTm9tajhSWm9ndWtoOGhBNXBxeW1SdjF0TXh0NnNDcEVpN29Mbjl0eEJ1WUV6ZEtWOU96VXROUm1lOXZCS2RHdDlmOGYyaXlHRUJFUkFqc3VlU2ZNMFZvSnV5OXNhcEx6TG5EYjR6ejRpUTdoN2xQOE1tU1JEX09rM3FNY3RkSFAtWEln0gG3AUFVX3lxTFBlNFB3RHFpWW93OUxqRzRzX1ZTMmdYUG02Ym9kbXV3cndPaEdyanlvcVJYalR0djBDQmVLaE5TMmZsZWlFMjNOOUhVVktUU0hLVWE2RzctdU12bVNWOHJMOXllLWwzZ1JGNVYxQkQyX0toXzlBandEckZBTHJqc1F2NkQwWUx3QU4tQVk1TU5pWFZNaFBJclpwTkxlNEc3TTRmbVppMU13NDRLOTFpSjZsS0NQYzRwVQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "crude"
+    },
+    {
+      "title": "Indian Oil Corporation gets approval to produce SAF at Panipat",
+      "source": "NewsBytes",
+      "published_utc": "2026-11-17T06:37:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGxBR28wMUIxNUZob2hLVXNQbGRoLUpVc0xtVGpHZW5kd2hOSEdST2ptX281d1dBVlk5RW1VVlZzS2ZCYnpUdV9YTjZQLS1iX2x5WWl6LVh6WTluN0xtTF9Edkd4OF9MV2FMb0kxaU9aUWlsa3BLUUk0dVZzb3V6UVJsSDh5MnB1a2gwSnRyZ3FxQ0Y3TmhMcmtOQnBMbU9mRzBZQ0lZV2w2MzVWV3g4?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "Indian Oil gets govt nod to supply green aviation fuel, says Panipat plant can meet India's 2027 target",
+      "source": "Moneycontrol.com",
+      "published_utc": "2026-11-17T06:18:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRDgwS2lQWkRXUEtKMjB5WWhfRTFkVXNFR3FFQURQUnBxS3gwUFRMRktPMDE1bTctNzFIajl1SkhHTDdxZVpuN3hIRlRhZ0xKVjlhWDNleWMxZGR5NlNDNG1lLV9jTVlEOXhOUlUwd3lEZVVoZnRJTThlaFpCZlNvTExpUWItQU81T19DVmYwRVBDUnFKOU9QUWRHaG5OS0cwY0FRb1BJS1o3TG5BbXVycTU0VkxzN0wwUTBPcm9PaFoxNWVLd1B2ZlBpN2dhT1NHdzlPQjdVeGZlUWhLZEFtN1pHLVRvVVRoWGhfMVdoUGpqWU01RWfSAfYBQVVfeXFMUEQ4MEtpUFpEV1BLSjIweVloX0UxZFVzRUdxRUFEUFJwcUt4MFBUTEZLTzAxNW03LTcxSGo5dUpIR0w3cWVabjd4SEZUYWdMSlY5YVgzZXljMWRkeTZTQzRtZS1fY01ZRDl4TlJVMHd5RGVVaGZ0SU04ZWhaQmZTb0xMaVFiLUFPNU9fQ1ZmMEVQQ1JxSjlPUFFkR2huTktHMGNBUW9QSUtaN0xuQW11cnE1NFZMczdMMFEwT3JvT2haMTVlS3dQdmZQaTdnYU9TR3c5T0I3VXhmZVFoS2RBbTdaRy1Ub1VUaFhoXzFXaFBqallNNUVn?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "business"
+    },
+    {
+      "title": "Indian Oil gets govt nod for production of commercial-scale sustainable aviation fuel",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-17T06:13:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNby1WSGlYMy1DSnZhQy1oTGRGcFFEQzNXWFBmNDd4VGo2QVhyZDdDWi1ac1VsV2t5NWdkZnlzY3N1MVRvR1c2RmM0SEhiS18wQVBFTGZIWVFicjdTRzM2YVNUNFh5WWFaQWkzRGU5WWwzcERUQzlQejZFYnZMRmRLaDA2VnV0cEhrR1lOeEh5ZzM4MktwUWxycG5tQWl6ZTFPMDlPRXktT3FaQWFESTYteWR1aFVZOUxEWFpoQktvUXhVYnk5MjEteG5EeFRYZndzcmJwUE83QXhPNVBpbk1zeFI0VTUycFpfYnNKYW5tdmY2eWJuQWfSAfsBQVVfeXFMTjJ4YXhlSTdHMEVUYTFOU3drWlFObVQ1cGhFeFpjdlRRMTJ6RzNrOEJaQU5ZX0Z3Q29ucHQyTnJDRmRRRjIwd2J3TzBxUFk5TVJoTV9kVjAzcEZERk8tM2ZSNzN6aGVDVXU2REZJT01famJuWWpfY2xRWWFacDFyRnJ1X3ROeHVGRFExZ0xYRWZQcEozQ1IwOUVoTzNCNFAxa2FocWNxdFZhLVR0R2V2Z296VERBWkRhRGFSX0R1b2dWMExnaWFzTG96aXpsZHN2SHd5cnpNTnExTjBndzBLckIxdTd0bnFTbGpOaW41T1RKal81NlRPbjFTQVE?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "India's IOC gets government nod for commercial-scale sustainable aviation fuel production",
+      "source": "Reuters",
+      "published_utc": "2026-11-17T06:03:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMVRFREFldDM4WFBKWjNmdnV4NnhjYUwwTzBtdldrTVZVTGdoYzAxMEdvdWJwN2dkUnpJSjlRYWtRNEJmQkdRaWtraFo3RjdRaEFCS3FjQk1QZkhtZ3N2RHM1V2tjR1RsYndSM19mcENXMnlMcDNKWjFULS1LRlF0SXFTb0l1VzE0aEpYcnlXNTlqYlNlS1VTLUtOV2NRVFdCYkpzWExycUJWR1VJdmJRcDZFS3czUE9UUlY5T0MxV3VuVlU?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "regulation"
+    },
+    {
+      "title": "Indian Oil Secures Sustainable Aviation Fuel Approval To Target 1% Blending Goal By 2027",
+      "source": "Sahi",
+      "published_utc": "2026-11-17T06:00:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSHhzQklMd3ByWmtsbmwwRjE2WS13Rmk3WjdpSkRrR2tBYU9WekJOQzE3TUhwNXM1S0pMMU82ZU5wcEZkcnJaT0l4c3QxN3JiVzBTVnl5aGsxY2JIVWpTQ19RZW02cVJVZE9tWTlrX3ExVHR5aGNJUW5oWXZjdUVYUHc4NjF2Ulc4Z0FzUEJ3V0xjQ2UwRXZKYS1OVDNzdDlwc1JYTUhOcWwxVXd4b1J1OEZXaw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "Indian Oil Corp Ltd Chair Says Panipat Refinery's Green Jet Fuel Output Enough To Meet 1% Blending Target In 2027",
+      "source": "TradingView",
+      "published_utc": "2026-11-17T05:36:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOa0gzRE9UX0pqU3dWQ0l3bmVMQ3Bxc09uY0ppdl8wQjB3amZJUVNtRzlfekFpVlFXZ2VQLXFKVlRrdnpTXzRkZ3RKLWpuQ2tiTHRudW4xQ1N1bXEyTzB0aWUwVlZRei1WT0VvbVpXenlIeTNwUllJRWdTclFJbGxZQUdGbUdob2hFWndiaGFSUUVUaG9fWXdNekREMk5oMjFTVWl2S2VzMnl2RUJnbGF1YWFUcFpaVS1VOF9WR1dDc3lLOUhxQkZkUFhOdlY0cERDU2ZpY054dExlbGVERDJ2VEdrNjBGYlNyX1BqeWF1aFJXVzdoZ3EyN25OaEFxbWZZc0JFLXNLaWdNbW9oeVhN?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.9,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "crude"
+    },
+    {
+      "title": "Crude oil prices drop 5.6%: IndiGo, HPCL, Indian Oil, Asian Paints, other oil-sensitive stocks rise; here's why",
+      "source": "Upstox",
+      "published_utc": "2026-11-17T03:21:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONW9qVXpIczRtVDBFbE9zRWJaRUNCTm5fN2VXYlVoY05wcEV0RlhYZW5GWjNYcWhJRUdDQjFCdkt4b1hKVDdQRVhidUhZZnBQSWhFYXE5eEVkNlFOeG00LWQ4eGtMTm1CMFNpaGE2azg2VHNGaFV0clllMW9JczZoaTlyV0RlNHBFNFJMVDlxTlo2V0p0OUYzbUM1LUdkWnYteHU1MF9Vc1FfbVdOTEhTM29HTmp1Slh2b0x2RU9YNjVPanFYZnl1ZFpocEdtTnZSR3p5cmJ2cDJBQWYwc2xvMUZ0YXFyNGQ1VFR4VGF2dWpBTkF5V3hzMWwxdW0?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "crude"
+    },
+    {
+      "title": "Indian rupee claims seven-month peak on inflows, dollar and oil retreat",
+      "source": "Reuters",
+      "published_utc": "2026-11-17T02:56:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHBJMGZCZ09KMjBxNjl6NEZHS25KSmZKelZGX0M2TTl4MHMzdWRfNXlsRGo3Q1p4TWdVc0VGLWFKQ3RHOTFLaHhFWU5TVzhQVHlOM0REV0hEUUd1QXhaLURROUU0NlJBWDJEY2xNbnh2VzlsOC1IRUZpWExqOG95cVRTQU5FY1A4a0loZ1IwYTJjNFZqSHFIYUdxTlNuSHAyMFozeWpMWWxLSnl6cTlfcHp3?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "Indian equity benchmarks buck Asia weakness to close at highest since February",
+      "source": "Reuters",
+      "published_utc": "2026-11-17T02:42:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX2ZONnVoUkFNTURsSnpXRHdQTHRoSWR2bHBqdkZHQkNXTllZQ2NiNFZVTHk3d2NzalhDUmN0bTRCM1R4a1FnYU91MWxqazVVUGRrdjAwVzVONEZaNHZRM01CMV9udm05bWxRckItbnZrZlA3QlRwMzdmU1pCbG56d1FlaDN4eWxUaURmYlNZREJWMkY3M090TDlTSERRb2M?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "Qualitek Labs wins Rs 10.19 crore work order from Indian Oil Corporation Limited",
+      "source": "scanx.trade",
+      "published_utc": "2026-11-16T23:26:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ1RyUjIyUHpHcFM0NDZ2aENMZ3ZOenl2Rk9EV0JPanhJQ1FLN1Z5dmVfbmxxZXdMYzhYV1VjVXNnUzNCNWhYQW94aWIxbkg3UVl4V0pHMV9FeVdEQ19HbXd3bkREQjRKbFE2VkJpQUFkX1JMSGdkSUpJc2taeEcwOWVQakFqVUJoaFJTVlN2cjI5QTdRYmlzYm9pcHJxVUV0MDdsLTVIaFRmYmVuTGQ0bXhEaVVTR25CN3dqSjZUNGpVUQ?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "deal"
+    },
+    {
+      "title": "East India Drums & Barrels Mfg. wins Rs 12.69 crore work order from Indian Oil Corporation Limited",
+      "source": "scanx.trade",
+      "published_utc": "2026-11-16T17:50:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX05vNUx0c1JoMEE2Wmt6Z1RhaVd2QzlSZDZ5bTFTN1BhUWNTOW1LUTdWa1NtWUE0VTV0WU9OZHJVaDBnWElTcFc4OVNOREpqS0pzQzVWV2RYbTZMeHYtY1J6d1VHSGo5Sk4xUWpDcmdsQnl1Ulp4bXVNQ0RqM29Kb3ROTC1pbnhHSGNQQWtPWWNIcW9EdUF5LWNTdTlCTDRfNlVKOS1ZTUZHLUFLM09rZFNrLWdYY2FqUW8wV1BfSUw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "deal"
+    },
+    {
+      "title": "Indian refiners set to benefit as global diesel inventories hit fresh lows: Report",
+      "source": "The Times of India",
+      "published_utc": "2026-11-16T08:47:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTHZuR1N1ajZzaXM4LWNfM29MNmQ0RGdsQXpIZnhOOVlFV2xocUxhWk5jZy05eElSbjgzQkdlaVNsQjVvUGQ4d0tDOXMwcVJwZ2sxcFpmNUw3WlU3V05fTmN3d3FmZEdGYVFOa01LaHZNeXNjWWhndE41NjY5NFhWdlpPNmRHZ3o2UnJlUjQxVTVmckdPajhiUW1yUDliOFNHRFhEY1o1aXhjOHBwZDlvTk5mbkY3V0pzRTdYak5VZVhNNElpUFN1WVZUNDVNcHN4dTJUSm9tOGd1cUVUb3NGZzh2X0cyMnZEaEJkU3ZJZTdGQWpyX2Q5S0d6TdIBgAJBVV95cUxQcWpKVWZjRDdhY3p5blBydl9OeWpNa1BMM2sySmFiUGVTM2VEeEQ2dlJIT3duX2hyRzhRcUVtWHU4VGNiR3VlMTVxNENhS1JfT0M2TlluV3d4eUh3VXRSZk02N0Z4OTRYSTZwV1lpb1FpbkxLa0VzZnExZnN4ZjlrNHJzeWo4UTNLTmkyYUpXRFo4ajlVQWtscXdpZ2M2NUZnZGw3c1ppeF9ieTNKMkZ2TW9OUmkxSUdRTkViVzVwa1c0bTFjVXRLX0s1d3FkQ292X1pNRHVCUUxTZlJiN0tqX2pzSFk2N0h2NmJPVG5uNGZuSEJvdnRqbFFiOUxXS0lj?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "crude"
+    },
+    {
+      "title": "Reliance Industries Set to Gain as China Diesel Exports Drop",
+      "source": "Kalinga TV",
+      "published_utc": "2026-11-16T08:22:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOUlNeHhIVUQ1M2tJNjFFTFNSYVpYd0llTG9Wa283a2ZSZjc0NEN4U2JyQkpicVNoZU55WGk1NEltWGd6cHN3NFA3Z0E3bG9yLVNmcUxNY29ZaWs3NV91ZHRoeFpwSlV3ZUNLMkZodHJMMml2aTlqUmNDNnB2TjBLNXFVYnpwVWw3VzdiZXNlQkRaM1JVUXdr?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "crude"
+    },
+    {
+      "title": "Global diesel supply squeeze may boost Indian refiners margins even if crude prices moderate: Report",
+      "source": "ET EnergyWorld",
+      "published_utc": "2026-11-16T07:58:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdDAzRlVZcVE1VEY0R3ZadjJCOGF0eURXMm5JbzRPUWdsRXlUb0xsTkVtX1JvUGV2Nk9tM2VwSW0wSGtfYzd1SUNXYm9tanoxMXNtajdqd19oWW4zaGJiR3ZUWGFwNEp5b2pmdUlFV2ZrNWhnalhrM3JqV2s1M041bWdQZUg4ankzS3pubUtFNTdTdENaaUJ5OWxFRmZINnVsQUNKQi10bkFWY2UtNUVUMkhqSG44MlkxdHpDdmZRNlp3VHFlYXhQUE1aMDhmX1BmY3F1dHo4WEZJT1poUHJoSnJCVk03TzJFbEtQUXpRVFhWLWphUThTalI1THlsV2fSAYQCQVVfeXFMTUtJUjcwZ1dPWkZNcWY5Z1dpdXgwUjlkaEppTzBBaE5DWUxELWxzZ3BQMW5icjVXNjlkWUdrZ1dGMEhZY09tM1dYX2c4b05DNUZBM1U3ZzJuSzNwUVB4OVNVTEpMVFlEVTc5TTFWTkRxd3Vxa1lyVkhnQWR5bXlPV2t6Y0I0bHhacE1xTW5VNnZsMEpkQkdnVWt4a3BDYzJTZ3dXcE1ybTNweUMyZGtTSTdZUFBDSDE5SVRHVWtpdThUaGMyRWVEZHRHQjgyNnphS0Q0Tl9OQmtoVUZOUUJSOTcteXk0bUpVd3pJWVlNdHlsd2QyMU03dHkzSE52VjlKTjdmZ1Q?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "results"
+    },
+    {
+      "title": "Diesel Supply Crunch to Boost Indian Refiners\u2019 Profits, Despite Stable Crude Prices",
+      "source": "Lokmat Times",
+      "published_utc": "2026-11-16T07:38:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVZGZ3pHQk50RVo4RVpWNEVjS3FFTDJvQ3BnSkt2dVctYnI3NTNrODlwcXJVdzczQ0oza1pEU0ZtZDU3Mk5kUXlGMWxIVlpPR2EyWE1zSlBWVWd4VmxHeEZEQlowVmFkMXU0YXdpTkx2ckI1QkwwZXBHeEx4QmZJYjhNelZLUE1VYXpKcWRmMkxBQ0lqVUI0SDNydUhiUjllYzhQYVdrVlI3Q1lLNHRwRk5KT3hXWWNGUmhfTDd1a3pLbGRZRWNj0gHMAUFVX3lxTE1WaTNyaUlzYmNQXzhOVHFPOFdMSExacGVNSVo2cUo3am9ZRFM1TnJreU50V0hvYVBleTdZNHZCYWtkZnFRckxRUjZjZTEwUWZoeDB3NzlTVjY2amhPVG1KTmF6bjl3ZzhUY2hYaFFOMmhKd3dBR241al8zbE13SGJETlJtT3lCVGx0dGZjNy1QajdYYTRjRXJ5TnMzZmJiWlE3YzBNZ2JRR1hORFNzWGNyZGtTY2dUWEJkMXBIRzFLTEZZanRuZURDTnZIMw?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "crude"
+    },
+    {
+      "title": "Petrol, diesel price cut not possible immediately, oil companies face Rs 42,000 crore losses: Union Minister Suresh Gopi",
+      "source": "ChiniMandi",
+      "published_utc": "2026-11-16T05:35:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMEh2VDJiT0RWYkZjU3hOUHZCdjIxaE84TlpibTV1SldVUjNmeVBVOFJkVlM5LTY4ellTUHRoV2dUYi1SejZUMzFfYXNBMFVpeDkyQ3dyWWx1S09PUlNFUnVJbHhCRlFBQnJIenVLMnctc25FQUZCUnRKdjlGNDhfYzdsRUtocVVvUlo0SmdtS2Y5aGdOdzJWVzN2cnlUbGMxbGpCczc3dWRoLTFaZDhianJ5WnJ4bG0wSU5kU0Q2NHFkOG5IUDFRS3pYSTUzZUl0TTFZaFQ2QXB1bHJy?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "crude"
+    },
+    {
+      "title": "Indian Oil Corporation - Negative Breakout: These 8 stocks closed below their 200 DMA",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-16T04:01:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMW9nUzliTWk1eTgtQUw4NlVLSGptM2kxenZQS1JZaXpyUzlxMWhuZGpRZGduMGhndTl0ZWVkRzZEbllrYmUyR1dEbS1UQ2pWbHhMeU5Wa1pIY1k1eEs5bkhsTHktRHNMQ000TnVCeEFkYlRsQmFZT3BvNTlRbkVJYUlIY1ROdjQ2MmR3cUVIY3V4WGtKZVc3dmlkXy1QS05wQkxYWjM0M2xlcENyQ29SdUdFbUwwNmtTNUlKUkdBSFozSUxFcGpKd3k1YUpkRVA3aVdESE0tUjBVWldtVjNnRkRQZkVhRm1fOFE?oc=5",
+      "relevant": true,
+      "sentiment": -1.0,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "Indian Oil Corporation Limited outlook balances value and risks",
+      "source": "Multibagg AI",
+      "published_utc": "2026-11-16T02:00:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVM0RG9hZWtHNWdyX08wbGhjOGplalZOZzlMZmZZdzhHZUJoUTU0eXY2MUpYZzBHMWxxTnBCdER1dkhjYkJwbjZPWWpnTmE2dVlpdEVkX25UcTMxbm1RSHdhdUxlMVJSRDBOSW44MlJmdl9pYkZzZDdUbzZjbkdRdllUZ3A4LWFKZl9VblBxTkxFbGlwWW5nZHVJZ09qaGtMNHc0Sk1LMA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "Lucrative inter-State trade in juvenile sardines and mackerel threatens regeneration of Keralam\u2019s fish stocks",
+      "source": "The South First",
+      "published_utc": "2026-11-15T04:33:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc2oxWm9JMllOYXUxaXd2b3RBeTE1RXhNbjNNUHV6Sy1xMGprOVU2TzhKSFh5eTMtNld2bkZFWVlqS1VsdUJjOWI3U3l3ZHFuY2tVZnhMMUlkdDBhbTkyeDMzNzZIYkdnamdhbWNwS2pUOE5PdVAwaDAwd09JT3JNWW5rZXZobV9RcWxyWXpMZjNtQkd2N3k3SFhTWkQwSnZRekdhMWx2RW1XYnIzem5XRUZtUHFscUZwWE1Wa2VCOHU1Zy1GQ0Q5UFRaeWw4SjFjSGQ4NTZpMXFsd28?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "Sparkly showman\u2019s card survives in Bandera museum",
+      "source": "San Antonio Express-News",
+      "published_utc": "2026-11-14T13:03:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOakQxVVVBNFg0b1NrcFNfLTBpR2pZbjFsWk1ERFhHb3ZybTV5T1BRRGJRQWVPR3BYemVPalgyTFQ3YUppZmVZeDkxMUxyelR0X2pKZEpWRHB3RDYtZUlMdlJFejJvQ0k1TlExazNUakhLUVRUMTZZQkFEX2gyUGZIVF9EazFYcXhSdVV2cjlHX0N4SFlmMGw1XzJXSWFIcDd0QWc?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "Digboi Set for a Golfing Bonanza as \u20b91 Crore Indian Oil SERVO Masters Returns -",
+      "source": "- Khel Today",
+      "published_utc": "2026-11-14T11:48:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnBLQkc3WnlUWFZHbGlfbllUdElIU0ZKYzRueFRRYmluazF3ZlJYMFhmLW55SU1VU2M3ajNQX3pEZGlLeU9ZNWpaV2tBYjRCY2haZXJYZTBUUm1hejhjQmJvT2xKenpLZWZRNkdVUUJyd2FVaGZxaVRYbnBWbFFxb3Q0VWtxSHhudVFuMlRFQjJWd1BlQ0V2U1dEamxrRzRHRW5KbHVLOWFPVVN4X2t2cWU3NA?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "Indian Oil SERVO Masters: Top PGTI Golfers To Tee Off In Digboi",
+      "source": "Rediff",
+      "published_utc": "2026-11-14T11:13:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmRCcGN3Wk5KV3lUX2k0MFE4OWJKQ3J0cTFvVVNGWnVaQkNKWHR1YXhPSkRMYjZRM2dXeVd5VE1zRW9haE5ZOHh0R0IxMUdvOFhuNVV0Y0ZGMWltZ01nelJUbk5WNGtTdHJsTERzSUJwU1pMdlRja3UxdmlNWEhYS3BuUG1NcFcza1NhaE1HT24zakJXOFRjY00wMkpsMXpsaWdIQ1lPT1BNdmtSTWfSAbABQVVfeXFMUFo3c0FSYkVEckRhaHVXdlRieW91bWdzNWdZVUs2QkFRcElxRE03VklVQzE1UGxpTmszMU9jd21WVDI3d0JIbjBrU2dSeEdyT1hndVZ4bENrclhaSWlHWVdxNW1qTkdoNW5TMDl6MHl1WmtUUndRTjBJMjZpWkZBVC14MnNSYW8yZjNNaDNWYVRyQXhmbjZHbVFvT18yZUFWaTkzU1pidWpMX1ZIbGhjcGk?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    }
+  ],
+  "signal": {
+    "score": 0.803,
+    "strength": 1.0,
+    "material_count": 5,
+    "view": 0.803
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-17T10:54:56.654132+00:00"
+}
