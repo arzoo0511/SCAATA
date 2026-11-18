@@ -64,6 +64,14 @@
     "note": ""
   },
   {
+    "question": "Would withdrawing the slow trend's 'stay out' vote in a rebound bring it back sooner?",
+    "trigger": "The same finding: it sits out rebounds. The published fix (Goulding, Harvey and Mazzoleni 2023) is to re-enter when the fast trend turns up while the slow one is still down.",
+    "experiment": "rebound-reentry",
+    "status": "answered",
+    "verdict": "not_supported",
+    "note": ""
+  },
+  {
     "question": "Do keyword-scored news days behave differently from model-scored ones?",
     "trigger": "5 live sessions fell back to keyword scoring.",
     "experiment": null,

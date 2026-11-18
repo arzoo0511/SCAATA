@@ -195,3 +195,48 @@ def test_the_standing_question_reopens_when_the_live_learner_changes():
                     "results": {"data": {"last": "2026-11-13"}}}]      # filed before the learner was recorded
     agenda = director.build_agenda(None, [], plain_hedge, snapshot_last="2026-11-13")
     assert agenda[0]["experiment"] == "live-rule-vs-holding-fixed-share" and agenda[0]["status"] == "proposed"
+
+
+# ------------------------------------------------------------------ Phase B
+def test_rebound_state_needs_a_negative_slow_trend_and_a_positive_fast_one():
+    from scaata.agent import advisors
+
+    assert advisors.is_rebound(-0.3, 0.02) and not advisors.is_rebound(0.3, 0.02)
+    assert not advisors.is_rebound(-0.3, -0.02) and not advisors.is_rebound(-0.3, 0.0)
+    index = pd.bdate_range("2020-01-01", periods=320)
+    fall_then_bounce = pd.Series(np.r_[np.linspace(100, 140, 260), np.linspace(140, 100, 40), np.linspace(100, 112, 20)],
+                                 index=index)
+    assert advisors.trend_view(fall_then_bounce) < 0 and advisors.fast_return(fall_then_bounce) > 0
+    assert advisors.rebound_view(fall_then_bounce) == advisors.REBOUND_VIEW
+    assert advisors.rebound_view(fall_then_bounce.iloc[:250]) == 0.0, "no rebound before the fall"
+    assert advisors.rebound_view(fall_then_bounce.iloc[:30]) == 0.0, "too little history to say anything"
+    assert "rebound" in advisors.SHADOW and "rebound" not in advisors.ADVISORS, "recorded and scored, never weighed"
+
+
+def test_rebound_transform_only_withdraws_a_negative_trend_vote_and_never_looks_ahead(market):
+    from scaata.research.engine import rebound_transform
+
+    _, closes, views = market                                     # the fixture's precomputed views from 2016-06
+    out = rebound_transform(views, closes)
+    changed = 0
+    for day in list(views)[:300]:
+        for s in INDIA_TICKERS:
+            before, after = views[day][s], out[day][s]
+            assert after["volatility"] == before["volatility"] and after["momentum"] == before["momentum"]
+            assert after["trend"] in (before["trend"], 0.0) and not (before["trend"] >= 0 and after["trend"] != before["trend"])
+            changed += after["trend"] != before["trend"]
+    assert changed > 0, "the synthetic world contains rebounds"
+    day = list(views)[120]
+    k = closes.index.get_loc(day)
+    wrecked = closes.copy()
+    wrecked.iloc[k + 1:] *= 7.0                                   # change only prices after that day
+    again = rebound_transform({day: views[day]}, wrecked)
+    assert again[day] == out[day], "a day's view does not depend on later prices"
+
+
+def test_capture_measures_how_much_of_holdings_rebound_was_recovered():
+    from scaata.research.rebound import capture
+
+    holding = [100, 80, 70, 85, 105]                              # low of 70, then +50%
+    assert capture([100, 90, 85, 95, 110], holding) == pytest.approx(((110 / 85) - 1) / 0.5)
+    assert capture([100, 99, 98, 98.5, 99], [100, 99, 98, 98.5, 99]) is None, "no real rebound, nothing to recapture"

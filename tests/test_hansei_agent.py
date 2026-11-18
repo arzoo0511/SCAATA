@@ -193,7 +193,8 @@ def test_shadow_advisor_is_recorded_but_changes_no_decision(tmp_path):
     assert [(d["action"], d["target_exposure"]) for d in a["decisions"]] == \
            [(d["action"], d["target_exposure"]) for d in b["decisions"]]
     assert all("relstr" in d["shadow"] and "relstr" not in d["views"] for d in a["decisions"])
-    assert all(d["shadow"] == {} for d in b["decisions"])
+    assert all(set(d["shadow"]) == {"relstr", "rebound"} and "rebound" not in d["views"] for d in a["decisions"])
+    assert all(set(d["shadow"]) == {"rebound"} for d in b["decisions"]), "without the Nifty only relstr is missing"
     assert a["weights"] == b["weights"] and set(a["weights"]) == set(advisors.ADVISORS)
 
 

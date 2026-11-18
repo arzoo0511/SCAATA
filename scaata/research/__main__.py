@@ -7,6 +7,7 @@
     python -m scaata.research run --proposed   ... every proposed experiment not yet run
     python -m scaata.research list             every experiment on file and its verdict
     python -m scaata.research events           what each stock did after each kind of news
+    python -m scaata.research rebound          the rebound rule, episode by episode
     python -m scaata.research contribution     each advisor's Shapley value in the whole system (~10 min)
     python -m scaata.research phase-a          skill ledger, calibration, learners and the poison test
 
@@ -111,6 +112,19 @@ def main(argv: list[str]) -> None:
             for a, v in d["shapley"]["sharpe"].items():
                 print(f"   {a:<11} Shapley (Sharpe) {v:+.4f}   (return {d['shapley']['cagr'][a]:+.4f}, worst fall "
                       f"{d['shapley']['max_drawdown'][a]:+.4f})")
+    elif command == "rebound":
+        from scaata.research import rebound
+
+        out = rebound.run()
+        s = out["summary"]
+        print(f"{s['with_a_rebound']} of {s['episodes']} episodes had a rebound to recapture; the rule captured more in "
+              f"{s['captures_more']}; the worst fall was no more than 2 points worse in {s['falls_no_worse']}")
+        for r in out["episodes"]:
+            cl, cr = r["capture_live"], r["capture_rebound"]
+            print(f"  {r['title']:<34} live {r['live_rule']['return']:+.1%} ({r['live_rule']['worst_fall']:.1%})  rebound "
+                  f"{r['rebound']['return']:+.1%} ({r['rebound']['worst_fall']:.1%})  holding {r['holding']['return']:+.1%} "
+                  f"({r['holding']['worst_fall']:.1%})  captured {('%.0f%%' % (cl*100)) if cl is not None else '-'} -> "
+                  f"{('%.0f%%' % (cr*100)) if cr is not None else '-'}")
     elif command == "list":
         for r in registry.load():
             print(f"{registry.status(r):<14} {r['id']:<36} {r['title']}")

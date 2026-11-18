@@ -19,7 +19,9 @@ import pandas as pd
 
 ADVISORS = ("trend", "volatility", "momentum", "news")
 # Logged and scored every day but never weighed or traded on, until live data says they earn it.
-SHADOW = ("relstr",)
+SHADOW = ("relstr", "rebound")
+FAST = 21           # sessions in the fast trend: one month (Goulding, Harvey and Mazzoleni 2023); not tuned
+REBOUND_VIEW = 0.5  # how firmly the shadow advisor says "own it" in a rebound; fixed, not tuned
 
 
 def trend_view(closes: pd.Series) -> float:
@@ -44,6 +46,23 @@ def momentum_view(closes: pd.Series, lookback: int = 126, skip: int = 21) -> flo
         return 0.0
     move = closes.iloc[-1 - skip] / closes.iloc[-1 - lookback] - 1
     return float(np.tanh(move / 0.15))
+
+
+def fast_return(closes: pd.Series, fast: int = FAST) -> float:
+    """The stock's return over the last `fast` sessions."""
+    return float(closes.iloc[-1] / closes.iloc[-1 - fast] - 1) if len(closes) > fast else 0.0
+
+
+def is_rebound(slow_view: float, fast: float) -> bool:
+    """The "rebound" state of Goulding, Harvey and Mazzoleni: the slow trend still says out, the fast trend
+    already says in. It is where a slow trend rule is latest to return after a fall."""
+    return slow_view < 0 and fast > 0
+
+
+def rebound_view(closes: pd.Series) -> float:
+    """Shadow advisor: "own it" (+0.5) in a rebound, no opinion otherwise. Recorded and scored every day,
+    never weighed by the brain, until live data says it earns a place."""
+    return REBOUND_VIEW if is_rebound(trend_view(closes), fast_return(closes)) else 0.0
 
 
 def relative_strength_view(closes: pd.Series, market: pd.Series, lookback: int = 126, skip: int = 21) -> float:

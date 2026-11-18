@@ -70,6 +70,11 @@ a comparison of six ways of learning trust against equal trust (none beats it), 
 study, and each advisor's Shapley value in the whole system (all three make the worst fall smaller). The honest
 reading: the advisors are risk tools, not forecasters.
 
+Phase B (`scaata/research/rebound.py`) tried the one published fix for returning late after a fall (the "rebound"
+rule of Goulding, Harvey and Mazzoleni, 2023). It recovers a little more of each rebound but trades that for more
+whipsaw: not supported over the long spans, so it is not switched on. It runs as a shadow advisor in the journal,
+scored daily and never acted on.
+
 How much a result is worth is itself measured (`scaata/research/stats.py`): a Deflated Sharpe Ratio against
 holding's Sharpe, the probability that picking the past winner fails, an evidence budget that shrinks with every
 test, and a live e-process on the paper book that compares HANSEI with a holder of the same exposure and can be

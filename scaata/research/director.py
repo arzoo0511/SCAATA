@@ -103,6 +103,32 @@ def fixed_share_spec() -> dict:
     }
 
 
+def rebound_spec() -> dict:
+    return {
+        "id": "rebound-reentry", "title": "Withdraw the slow trend's 'stay out' vote in a rebound",
+        "kind": "view_variant", "params": {"rebound": True},
+        "question": "HANSEI saves money as a fall begins and gives some back by returning late. Would withdrawing "
+                    "the slow trend's vote to stay out, when the last month has turned positive, bring it back "
+                    "sooner without giving up the smaller falls?",
+        "hypothesis": "With the rebound rule, Sharpe is higher than the live rule's in both spans and the worst "
+                      "fall is no more than 2 points worse.",
+        "method": METHOD + " The rule, from Goulding, Harvey and Mazzoleni (2023, 'Momentum turning points'): "
+                           "where a stock's 200-day trend view is negative but its return over the last 21 sessions "
+                           "is positive, the trend view is set to no opinion. One rule; the one-month window and "
+                           "the 200-day trend are the paper's and the live agent's existing settings, and nothing "
+                           "was searched. It never adds a bullish vote.",
+        "criteria": [
+            {"metric": "tune.sharpe_vs_baseline", "op": ">", "value": 0.0, "label": "higher Sharpe, 2007-2019"},
+            {"metric": "holdout.sharpe_vs_baseline", "op": ">", "value": 0.0, "label": "higher Sharpe, 2020 on"},
+            {"metric": "tune.drawdown_vs_baseline", "op": ">=", "value": -0.02, "label": "worst fall no more than 2 points worse, 2007-2019"},
+            {"metric": "holdout.drawdown_vs_baseline", "op": ">=", "value": -0.02, "label": "worst fall no more than 2 points worse, 2020 on"}],
+        "limitations": COMMON_LIMITS + [
+            "Both spans have been looked at many times (the evidence budget is nearly spent), so this result can "
+            "describe the direction of an effect but cannot confirm it; confirmation has to come from forward data.",
+            "Only a handful of falls and rebounds exist in the history; see research/rebound.json for each."],
+    }
+
+
 def live_like_spec() -> dict:
     return {
         "id": "live-like-book", "title": "A book that behaves like the live one", "kind": "brain_variant",
@@ -264,6 +290,9 @@ def build_agenda(evaluation: dict | None, journal: list[dict], records: list[dic
             f"The Lab found HANSEI {m['tune.down.hansei_minus_holding']:+.1%} and "
             f"{m['holdout.down.hansei_minus_holding']:+.1%} a year behind holding while the stocks are below "
             "their six-month-ago level.", shorter_wait_spec())
+        add("Would withdrawing the slow trend's 'stay out' vote in a rebound bring it back sooner?",
+            "The same finding: it sits out rebounds. The published fix (Goulding, Harvey and Mazzoleni 2023) is "
+            "to re-enter when the fast trend turns up while the slow one is still down.", rebound_spec())
     health = (evaluation or {}).get("health") or {}
     if health.get("news_days_scored_by_keywords"):
         add("Do keyword-scored news days behave differently from model-scored ones?",
@@ -288,6 +317,6 @@ def specs(snapshot_last: str | None = None) -> dict[str, dict]:
     dated = ([baseline_spec(snapshot_last[:7])] if snapshot_last else []) + [baseline_spec("fixed-share"),
                                                                               baseline_spec("no-borrowing")]
     all_specs = [baseline_spec(), *dated, regime_spec(), learning_spec(), fixed_share_spec(), live_like_spec(),
-                 no_borrowing_spec(),
+                 no_borrowing_spec(), rebound_spec(),
                  shorter_wait_spec(), *(ablation_spec(a) for a in ADVISOR_NAMES)]
     return {s["id"]: s for s in all_specs}

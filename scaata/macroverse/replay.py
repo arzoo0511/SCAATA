@@ -110,8 +110,9 @@ def summarise(curve: np.ndarray) -> dict:
 
 
 def run_episode(episode: dict, opens: pd.DataFrame, closes: pd.DataFrame,
-                factor_closes: pd.DataFrame | None = None) -> dict:
-    """Replays one episode and returns everything the page draws."""
+                factor_closes: pd.DataFrame | None = None, views_transform=None) -> dict:
+    """Replays one episode and returns everything the page draws. `views_transform(views, closes)` lets a
+    research variant change the advisors' views before the brain sees them (used by Phase B)."""
     start, end = pd.Timestamp(episode["start"]), pd.Timestamp(episode["end"])
     sessions = closes.index[(closes.index >= start) & (closes.index <= end)]
     if len(sessions) < 20:
@@ -120,6 +121,8 @@ def run_episode(episode: dict, opens: pd.DataFrame, closes: pd.DataFrame,
     warm = closes.index[max(0, first - WARMUP_SESSIONS)]
     cut_opens, cut_closes = opens.loc[:sessions[-1]], closes.loc[:sessions[-1]]   # nothing after the episode
     views = bt.precompute_views(cut_closes, str(warm.date()))
+    if views_transform is not None:
+        views = views_transform(views, cut_closes)
     run = bt.simulate(cut_opens, cut_closes, views, str(warm.date()), str(sessions[-1].date()), no_borrowing=True)
     days = pd.DatetimeIndex(run["days"])
     inside = days >= sessions[0]

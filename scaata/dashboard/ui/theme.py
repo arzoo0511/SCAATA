@@ -23,9 +23,9 @@ MID, MAROON, ALAB, TAN, LBLUE = "#0F414A", "#7F0303", "#EFE8DF", "#D8BA98", "#96
 HANSEI, HOLD = "#2F9BB8", "#C4822B"          # the agent, and just holding
 UP, DOWN, FLAT = "#2F9BB8", "#E5604F", "#4A6468"   # supportive / against / no opinion
 ADVISOR_COLOURS = {"trend": "#2F9BB8", "volatility": "#C4822B", "momentum": "#3FA873", "news": "#B26BC9",
-                   "relstr": "#7E9A9C"}
+                   "relstr": "#7E9A9C", "rebound": "#7E9A9C"}
 ADVISOR_LABELS = {"trend": "Trend", "volatility": "Volatility", "momentum": "Momentum", "news": "News",
-                  "relstr": "Relative strength (shadow)"}
+                  "relstr": "Relative strength (shadow)", "rebound": "Rebound (shadow)"}
 ACTION_COLOURS = {"BUY": UP, "SELL": DOWN, "REBALANCE": TAN, "HOLD": MUTED}
 DIVERGING = [[0.0, DOWN], [0.5, "#24383C"], [1.0, UP]]
 SEQUENTIAL = [[0.0, "#0E2A31"], [1.0, "#58C2DE"]]

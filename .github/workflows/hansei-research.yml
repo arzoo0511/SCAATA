@@ -62,6 +62,10 @@ jobs:
           python -m scaata.research phase-a
           python -m scaata.research contribution
 
+      - name: Rebound rule, episode by episode
+        continue-on-error: true
+        run: python -m scaata.research rebound
+
       - name: News event study
         continue-on-error: true
         run: python -m scaata.research events

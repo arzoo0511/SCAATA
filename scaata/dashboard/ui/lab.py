@@ -270,6 +270,36 @@ def _self_critique() -> None:
         _contribution(cont)
 
 
+def _rebound() -> None:
+    """Phase B: the one published fix for returning late after a fall, tested and described."""
+    from scaata.dashboard.ui.data import read_json
+
+    study = read_json(ROOT_DIR / "research" / "rebound.json")
+    if not study:
+        return
+    s = study["summary"]
+    T.heading("Does it come back sooner after a fall?", f"{s['episodes']} falls, one rule")
+    T.caption("HANSEI saves money as a fall begins and gives some back by returning late. The published fix "
+              "(Goulding, Harvey and Mazzoleni 2023) is to re-enter when a stock&rsquo;s last month has turned up "
+              "while its slow 200-day trend is still down. It was tried as one rule with settings taken from the "
+              "paper and the live agent; <b>nothing was searched</b>. Each bar is the share of holding&rsquo;s gain "
+              "from its own low that HANSEI made.")
+    _plot(charts.rebound_capture(study), "rebound_capture")
+    table = pd.DataFrame([{
+        "Fall": r["title"], "Live rule": r["live_rule"]["return"] * 100, "Rebound rule": r["rebound"]["return"] * 100,
+        "Holding": r["holding"]["return"] * 100, "Live worst fall": r["live_rule"]["worst_fall"] * 100,
+        "Rebound worst fall": r["rebound"]["worst_fall"] * 100} for r in study["episodes"]])
+    st.dataframe(table, hide_index=True, use_container_width=True, column_config={
+        c: st.column_config.NumberColumn(c, format="%.1f%%") for c in table.columns[1:]})
+    T.caption(f"It captured more of the rebound in <b>{s['captures_more']} of {s['with_a_rebound']}</b> falls, by "
+              f"small amounts (on average {s['mean_capture_live']:.0%} to {s['mean_capture_rebound']:.0%}), but its "
+              f"total return is mixed and in <b>{s['episodes'] - s['falls_no_worse']}</b> of {s['episodes']} the worst "
+              "fall was more than 2 points worse. Over the two long spans the Lab found it <b>not supported</b>: "
+              "Sharpe &minus;0.05 in 2007&ndash;2019 and +0.02 since, with 15&ndash;25% more trades. Re-entering "
+              "sooner also means re-entering into bear-market rallies. It is <b>not switched on</b>. It is "
+              "recorded every day as a shadow advisor, scored but never acted on, so forward data can say more.")
+
+
 def _contribution(cont: dict) -> None:
     st.markdown('<div class="hs-eyebrow" style="margin-top:1.2rem">What does each advisor add to the whole '
                 'system?</div>', unsafe_allow_html=True)
@@ -381,6 +411,7 @@ def page() -> None:
     if lab:
         _how_much_to_trust(records, lab)
     _self_critique()
+    _rebound()
 
     T.heading("What the Lab cannot do")
     rules = [("Change the live agent", "A supported finding is a proposal. It reaches the trading code only as a "

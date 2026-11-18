@@ -294,6 +294,28 @@ only after a pass; `scaata/research/director.py`.
 
 ---
 
+### 6.1 Phase B status (built 18 Nov 2026, not yet published)
+
+The rule: where a stock's 200-day trend view is negative but its last 21 sessions are positive (the "rebound"
+state of Goulding, Harvey and Mazzoleni 2023), withdraw the trend advisor's vote to stay out. One rule, settings
+from the paper and the live agent, nothing searched, criteria filed before the run (experiment
+`rebound-reentry`).
+
+| Evidence | Result |
+|---|---|
+| The eight falls (six Macroverse crises, 2011, 2015-16) | It captured more of holding's rebound in **7 of 8**, on average 56% to 59%: real but small. Total return was mixed (2008 -4.2 points, COVID -1.6) and the worst fall was more than 2 points worse in 1 of 8 (2008, 3.7 points). |
+| The two long spans, Lab verdict | **Not supported.** 2007-19: Sharpe -0.045, return -0.75% a year, worst fall 3.1 points worse. 2020 on: Sharpe +0.019, return +0.35% a year, worst fall 1.2 points worse. 16-25% more trades. The direction flips between spans, and the evidence budget is spent, so nothing here can confirm anything. |
+| Why | Coming back sooner also means coming back into bear-market rallies; the rule trades a slow-re-entry cost for a whipsaw cost, and the history contains both. |
+
+**Decision: not switched on.** What went into the live agent is *logging only*: a shadow advisor `rebound`
+(view +0.5 in a rebound, else 0) is recorded in the journal every day and scored by the daily report card
+beside `relstr`. The brain never reads it. A test confirms the decisions are identical with and without it. Forward
+data can say more than eight historical falls.
+
+The meta-labelling idea (learning when a cut was worthwhile) was not built: with a few hundred overlapping cut
+events, a null result would not mean anything and a positive one could not be confirmed. It waits for the wide
+universe, where there are enough events.
+
 ## 7. Phase C — Breadth: give it enough to learn from (4–8 weeks) → G2
 
 This is the largest lever in both reviews. Information ratio ≈ skill × √breadth (Grinold 1989†); five

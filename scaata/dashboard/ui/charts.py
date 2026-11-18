@@ -220,7 +220,7 @@ def hit_rates(advisor_scores: dict) -> go.Figure:
     """Share of each advisor's opinions that pointed the right way, at two horizons."""
     fig = go.Figure()
     fig.add_vline(x=50, line=dict(color=T.MUTED, width=1, dash="dot"))
-    names = [a for a in (*ADVISORS, "relstr")]
+    names = [a for a in (*ADVISORS, "relstr", "rebound")]
     for horizon, label, symbol in (("5_sessions", "after 5 sessions", "circle"),
                                    ("20_sessions", "after 20 sessions", "diamond")):
         scores = advisor_scores.get(horizon, {})
@@ -654,3 +654,22 @@ def learner_scoreboard(study: dict, metric: str) -> go.Figure:
                                                   font=dict(color=T.MUTED, size=11)))
     fig.update_yaxes(autorange="reversed")
     return _layout(fig, 330, unified=False)
+
+
+def rebound_capture(study: dict) -> go.Figure:
+    """For each fall: of the gain holding made from its own low, how much the live rule and the rebound rule made."""
+    rows = [r for r in study.get("episodes", []) if r.get("capture_live") is not None]
+    if not rows:
+        return empty("Phase B has not been run.")
+    fig = go.Figure()
+    for key, name, colour in (("capture_live", "the live rule", T.HANSEI), ("capture_rebound", "with the rebound rule", T.TAN)):
+        fig.add_trace(go.Bar(y=[r["title"] for r in rows], x=[r[key] * 100 for r in rows], orientation="h", name=name,
+                             marker=dict(color=colour, line=dict(color=T.PANEL, width=2)),
+                             text=[f"{r[key]:.0%}" for r in rows], textposition="outside", cliponaxis=False,
+                             textfont=dict(family=T.MONO, color=T.INK, size=11),
+                             hovertemplate="%{y}<br>" + name + ": %{x:.0f}% of holding's rebound<extra></extra>"))
+    fig.add_vline(x=100, line=dict(color=T.MUTED, width=1, dash="dot"))
+    fig.update_layout(barmode="group", bargap=0.3, bargroupgap=0.06)
+    fig.update_xaxes(ticksuffix="%", range=[0, 118], showspikes=False)
+    fig.update_yaxes(autorange="reversed", showgrid=False)
+    return _layout(fig, max(320, 62 * len(rows) + 90), unified=False)

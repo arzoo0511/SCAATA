@@ -21,6 +21,7 @@ import time
 import numpy as np
 import pandas as pd
 
+from scaata.agent import advisors
 from scaata.agent import backtest as bt
 from scaata.agent import memory as mem
 from scaata.research import stats as rstats
@@ -31,7 +32,7 @@ from scaata.evaluation.stats import paired_block_bootstrap_prob_better
 from scaata.research import prices
 
 PERIODS = {"tune": ("2007-01-01", "2019-12-31"), "holdout": ("2020-01-01", None)}
-KINDS = ("baseline", "brain_variant", "advisor_ablation", "regime_study")
+KINDS = ("baseline", "brain_variant", "advisor_ablation", "view_variant", "regime_study")
 BRAIN_KEYS = ("act_threshold", "min_hold_days", "learning_rate", "tolerance", "floor", "fixed_share")
 LIVE_SLOT = 2000.0             # one slot of the live ₹10,000 book, for share granularity
 TREND_WINDOW, VOL_WINDOW, VOL_BASELINE = 126, 20, 252
@@ -46,6 +47,21 @@ def _commit() -> dict:
         return {"commit": git("rev-parse", "HEAD"), "dirty": bool(git("status", "--porcelain", "--", "scaata"))}
     except OSError:
         return {"commit": None, "dirty": None}
+
+
+def rebound_transform(views_by_day: dict, closes: pd.DataFrame, fast: int = advisors.FAST) -> dict:
+    """The one change Phase B tests. Where a stock is in a rebound (its slow trend view is negative while its
+    last month is positive) the slow trend's vote to stay out is withdrawn: trend is set to no opinion. It
+    never adds a bullish vote, and it looks only backward from each day."""
+    index = closes.index
+    out = {}
+    for day, by_stock in views_by_day.items():
+        k = index.get_loc(day)
+        out[day] = {}
+        for stock, view in by_stock.items():
+            moved = advisors.fast_return(closes[stock].iloc[:k + 1], fast)
+            out[day][stock] = {**view, "trend": 0.0} if advisors.is_rebound(view.get("trend", 0.0), moved) else dict(view)
+    return out
 
 
 def silence(views_by_day: dict, advisor: str) -> dict:
@@ -106,6 +122,7 @@ class Engine:
 
     # ------------------------------------------------------------ integrity
     def truncation_invariant(self, transform=None, **brain) -> dict:
+        # `transform(views, closes)` may use prices, so it is applied with the closes available on each day
         """The look-ahead test, in two parts.
 
         Views: on a spread of days, each advisor's view is recomputed with every price after
@@ -115,13 +132,13 @@ class Engine:
         every later price deleted. The two equity curves must be identical.
 
         If any decision used a later price, one of the two differs."""
-        apply = transform or (lambda v: v)
+        apply = transform or (lambda v, c: v)
         days = sorted(self.views)
         sample = [days[i] for i in np.linspace(0, len(days) - 1, min(VIEW_SAMPLES, len(days))).astype(int)]
         leaked = []
         for t in sample:
-            alone = apply(self.views_fn(self.closes.loc[:t], str(t.date()))).get(t, {})
-            used = apply({t: self.views[t]})[t]
+            alone = apply(self.views_fn(self.closes.loc[:t], str(t.date())), self.closes.loc[:t]).get(t, {})
+            used = apply({t: self.views[t]}, self.closes.loc[:t])[t]
             if any(abs(alone.get(s, {}).get(a, 0.0) - v) > 1e-9 for s, by in used.items() for a, v in by.items()):
                 leaked.append(str(t.date()))
 
@@ -131,9 +148,9 @@ class Engine:
         if len(stretch) < 30:
             return {"checked": False, "invariant": None, "sessions": len(stretch)}
         end = stretch[-1]
-        full_views = apply({t: v for t, v in self.views.items() if start <= t <= end})
+        full_views = apply({t: v for t, v in self.views.items() if start <= t <= end}, self.closes)
         cut_opens, cut_closes = self.opens.loc[:end], self.closes.loc[:end]
-        cut_views = apply(self.views_fn(cut_closes, str(start.date())))
+        cut_views = apply(self.views_fn(cut_closes, str(start.date())), cut_closes)
         brain = {"no_borrowing": self.no_borrowing, **brain}
         full = bt.simulate(self.opens, self.closes, full_views, str(start.date()), str(end.date()), **brain)
         cut = bt.simulate(cut_opens, cut_closes, cut_views, str(start.date()), str(end.date()), **brain)
@@ -161,7 +178,11 @@ class Engine:
             if kind == "advisor_ablation":
                 if params.get("drop") not in ADVISORS:
                     raise ValueError(f"advisor_ablation needs params.drop to be one of {ADVISORS}")
-                transform = lambda views: silence(views, params["drop"])   # noqa: E731
+                transform = lambda views, closes: silence(views, params["drop"])   # noqa: E731
+            if kind == "view_variant":
+                if not params.get("rebound"):
+                    raise ValueError("view_variant needs params.rebound")
+                transform = rebound_transform
             out = self._compare(kind, transform, brain)
         out["data"] = {k: self.meta.get(k) for k in ("source", "retrieved_utc", "first", "last", "sha256")}
         out["engine"] = {**_commit(), "runtime_seconds": round(time.time() - started, 1),
@@ -171,7 +192,7 @@ class Engine:
         return out
 
     def _compare(self, kind: str, transform, brain: dict) -> dict:
-        views = transform(self.views) if transform else self.views
+        views = transform(self.views, self.closes) if transform else self.views
         metrics, periods, curves = {}, {}, {}
         for period in self.periods:
             base = self.baseline(period)

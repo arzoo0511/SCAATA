@@ -177,6 +177,7 @@ def run_day(today: date | None = None, prices: pd.DataFrame | None = None, news_
         # shadow views are recorded for scoring but kept out of `view`, which the brain weighs
         shadow = ({"relstr": round(advisors.relative_strength_view(history, market.loc[:session]), 3)}
                   if market is not None else {})
+        shadow["rebound"] = round(advisors.rebound_view(history), 3)
         mem.remember(memory, session_day, symbol, {**view, **shadow}, float(history.iloc[-1]))
 
         position = book["positions"].get(symbol, {"qty": 0})
