@@ -66,6 +66,14 @@ jobs:
         continue-on-error: true
         run: python -m scaata.research rebound
 
+      - name: Wide universe (model that learns from scratch, wide paper book)
+        continue-on-error: true
+        run: |
+          # the 2.6 MB price snapshot is refreshed in the first week of each month only
+          if [ "$(date +%d)" -le 7 ]; then python -m scaata.universe refresh; fi
+          python -m scaata.universe study
+          python -m scaata.universe book
+
       - name: News event study
         continue-on-error: true
         run: python -m scaata.research events
@@ -84,7 +92,7 @@ jobs:
         run: |
           git config user.name "hansei-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f research macroverse cognition results/hansei_backtest.json results/hansei_backtest_long.json || true
+          git add -f research macroverse cognition paper_book_wide.json results/hansei_backtest.json results/hansei_backtest_long.json || true
           if git diff --cached --quiet; then
             echo "Nothing new to commit."
             exit 0

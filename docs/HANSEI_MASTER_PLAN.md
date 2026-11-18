@@ -468,3 +468,25 @@ All of it fits the free tier: heavy runs move to the weekly workflow; nothing ne
 | More automation, more silent failure | Every workflow step may fail alone; a weekly health line on the site. |
 | A bug that looks like a result | The two reviewer checks added on 16 Nov; poison test as a standing check. |
 | The proof takes years | Stated up front; the evidence meter shows progress honestly rather than a verdict early. |
+
+### 7.4 Phase C status (built 18 Nov 2026, not yet published)
+
+Built: `scaata/universe/` (data, features, model, study, book), a frozen snapshot of 206 NSE large and mid caps
+(Yahoo, 2006 on; today's members, so **survivorship-biased**), `research/universe_study.json`, the wide paper
+book `paper_book_wide.json`, and a Lab section.
+
+Findings, pre-registered and walk-forward (purged, refit quarterly, 2010 on):
+
+- There is a small real cross-sectional signal. Mean weekly rank correlation: learned ridge +0.040, plain
+  average of eight signed features +0.048, plain 12-1 momentum +0.052.
+- **G2 is not met.** The model that learned from scratch does not beat the plain average (−0.007, p=0.94),
+  and momentum alone does as well. Learned signs agree with the literature for 6 of 8 features.
+- Gradient-boosted trees beat ridge only from 2020 on (p=0.011), not in both spans, so by the pre-registered
+  rule ridge stays and no tree model is used.
+- Top fifth minus all stocks is about +0.5–0.75% per 20 sessions, gross, before costs and with survivor bias.
+
+The wide book (four sleeves: learned, plain average, momentum, every stock) started on 18 Nov 2026 and is
+advanced weekly by the research workflow. It decides at the first close of a month and trades at the next
+close with NSE costs; nothing is back-filled. It logs every method's scores weekly and records the live rank
+correlation 20 sessions later. Still to do: a live e-process on the sleeve excess returns once there are months
+of data; the learner's output for the five traded stocks is shown but is not an advisor (no evidence it earns one).

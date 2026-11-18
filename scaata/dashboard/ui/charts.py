@@ -673,3 +673,39 @@ def rebound_capture(study: dict) -> go.Figure:
     fig.update_xaxes(ticksuffix="%", range=[0, 118], showspikes=False)
     fig.update_yaxes(autorange="reversed", showgrid=False)
     return _layout(fig, max(320, 62 * len(rows) + 90), unified=False)
+
+
+_WIDE = {"learned": ("The model that learned", T.HANSEI), "features": ("Plain average of the features", T.TAN),
+         "momentum": ("Plain momentum", "#3FA873"), "universe": ("Every stock, equal-weighted", T.HOLD)}
+
+
+def wide_book(state: dict) -> go.Figure:
+    """The four wide-book sleeves as growth of 100 since the book began."""
+    fig = go.Figure()
+    for key, (name, colour) in _WIDE.items():
+        hist = state.get("sleeves", {}).get(key, {}).get("history", [])
+        if not hist:
+            continue
+        x = [state["started"]] + [h["date"] for h in hist]
+        y = [100.0] + [h["equity"] / state["initial"] * 100 for h in hist]
+        fig.add_trace(go.Scatter(x=x, y=y, name=name, mode="lines", line=dict(color=colour, width=2.4 if key == "learned" else 1.8),
+                                 hovertemplate=name + ": %{y:.2f}<extra></extra>"))
+    if not fig.data:
+        return empty("The book has not seen a session yet.")
+    return _layout(fig, 330)
+
+
+def universe_ic(study: dict) -> go.Figure:
+    """Running average of the weekly rank correlation (information coefficient) for the learned model and its baselines."""
+    w = study.get("weekly", {})
+    days = w.get("days", [])
+    if not days:
+        return empty("The universe study has not been run.")
+    fig = go.Figure()
+    for key, (name, colour) in (("ic_ridge", ("The model that learned", T.HANSEI)), ("ic_equal", ("Plain average of the features", T.TAN)),
+                                ("ic_mom_12_1", ("Plain momentum", "#3FA873"))):
+        s = pd.Series([np.nan if v is None else v for v in w.get(key, [])], index=pd.to_datetime(days))
+        fig.add_trace(go.Scatter(x=s.index, y=s.expanding().mean(), name=name, mode="lines", line=dict(color=colour, width=2),
+                                 hovertemplate=name + ": %{y:+.3f}<extra></extra>"))
+    fig.add_hline(y=0, line=dict(color=T.MUTED, width=1, dash="dot"))
+    return _layout(fig, 300)

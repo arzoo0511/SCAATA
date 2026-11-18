@@ -300,6 +300,39 @@ def _rebound() -> None:
               "recorded every day as a shadow advisor, scored but never acted on, so forward data can say more.")
 
 
+def _universe() -> None:
+    """Phase C: a model that learns from scratch over ~200 stocks, tested, and the wide paper book that follows it."""
+    from scaata.dashboard.ui.data import read_json
+
+    study = read_json(ROOT_DIR / "research" / "universe_study.json")
+    if not study:
+        return
+    T.heading("A model that learns from scratch", f"{study['stocks']} stocks")
+    T.caption("Everything above uses five stocks. Here the same idea meets about two hundred: each week a model "
+              "ranks them using eight price signals, learning how to weigh the signals only from outcomes that had "
+              "already finished (it is never told which signals are good). It is judged by rank correlation with "
+              "what the stocks then did. <b>The stock list is today&rsquo;s large and mid caps, so past results are "
+              "flattered by survivors.</b>")
+    _plot(charts.universe_ic(study), "universe_ic")
+    ic, vs = study["ic"]["all"], study["versus"]["all"]
+    v = vs.get("ridge_minus_equal", {})
+    T.caption(f"Average weekly rank correlation, 2010 on: the learned model {ic['ridge']['mean']:+.3f}, a plain average "
+              f"of the signals {ic['equal']['mean']:+.3f}, plain 12-1 month momentum {ic['mom_12_1']['mean']:+.3f}. "
+              f"There is a small real signal. <b>The learning added nothing over the plain average</b> "
+              f"({v.get('mean', 0):+.4f}, p={v.get('p')}), so the model has not earned trust beyond simple momentum.")
+    state = read_json(ROOT_DIR / "paper_book_wide.json")
+    if not state or not state["sleeves"]["universe"]["history"]:
+        return
+    T.heading("The wide paper book", f"fake money, since {state['started']}")
+    _plot(charts.wide_book(state), "wide_book")
+    fi = pd.DataFrame(state.get("forward_ic", []))
+    live = (" Live rank correlation so far, " + ", ".join(f"{m} {fi[m].mean():+.3f}" for m in ("learned", "features", "momentum")
+            if m in fi) + f" over {len(fi)} finished weeks.") if len(fi) else " No weekly forecast has finished yet."
+    T.caption("Top fifth of the ranking, equal-weighted, rebalanced monthly with Indian costs, judged against owning "
+              "every stock. It starts on its first day and is never back-filled; it shares nothing with the "
+              "five-stock book." + live)
+
+
 def _contribution(cont: dict) -> None:
     st.markdown('<div class="hs-eyebrow" style="margin-top:1.2rem">What does each advisor add to the whole '
                 'system?</div>', unsafe_allow_html=True)
@@ -412,6 +445,7 @@ def page() -> None:
         _how_much_to_trust(records, lab)
     _self_critique()
     _rebound()
+    _universe()
 
     T.heading("What the Lab cannot do")
     rules = [("Change the live agent", "A supported finding is a proposal. It reaches the trading code only as a "

@@ -75,6 +75,11 @@ rule of Goulding, Harvey and Mazzoleni, 2023). It recovers a little more of each
 whipsaw: not supported over the long spans, so it is not switched on. It runs as a shadow advisor in the journal,
 scored daily and never acted on.
 
+Phase C (`scaata/universe/`) widened the view to about 200 NSE stocks (price-only, survivorship-biased) and trained a
+model from scratch to rank them. It finds a small real signal, but the learning adds nothing over a plain average of
+the signals or plain momentum. A separate fake-money "wide book" (`paper_book_wide.json`) now tracks the learned
+model, the plain average, momentum and owning everything, forward only. `python -m scaata.universe refresh|study|book`.
+
 How much a result is worth is itself measured (`scaata/research/stats.py`): a Deflated Sharpe Ratio against
 holding's Sharpe, the probability that picking the past winner fails, an evidence budget that shrinks with every
 test, and a live e-process on the paper book that compares HANSEI with a holder of the same exposure and can be
