@@ -190,6 +190,35 @@ def _relationships(sens: dict | None) -> list[dict]:
     return out
 
 
+RATES_PATH = ROOT_DIR / "macroverse" / "runs" / "rates.json"
+RATE_NAMES = {"india": "Indian government bond yields", "us": "US 10-year Treasury yields"}
+
+
+def _rates(study: dict | None) -> list[dict]:
+    """Phase D: each stock's measured link to bond yields, as a belief with its interval and its held-out check."""
+    out = []
+    for measure, s in ((study or {}).get("studies") or {}).items():
+        for r in s["table"]:
+            name, per = RATE_NAMES.get(measure, measure), r["beta"] * 100
+            if r["reliable"]:
+                statement = (f"{r['name']} moves about {abs(per):.0f}% {'with' if per > 0 else 'against'} a 1-point "
+                             f"rise in {name}.")
+                status = "established" if r["held_out_ok"] else "leaning"
+            else:
+                statement, status = f"{r['name']}'s link to {name} cannot be told apart from zero.", "cannot tell"
+            stable = (" The later half falls inside what the earlier half alone predicted." if r["held_out_ok"]
+                      else " The later half falls OUTSIDE what the earlier half alone predicted, so it has shifted.")
+            out.append(_belief(
+                "relationship", status, statement,
+                f"Response {per:+.1f}% per +1 point, 95% interval {r['low'] * 100:+.1f}% to {r['high'] * 100:+.1f}%, from "
+                f"{s['weeks']} weekly returns ({s['first']} to {s['last']}). First half {r['before'] * 100:+.1f}%, "
+                f"second half {r['after'] * 100:+.1f}%.{stable}",
+                "Macroverse rates study", 1 - min(1.0, (r["high"] - r["low"]) / max(abs(r["beta"]) * 2, 0.05)) if r["reliable"] else 0.2,
+                f"rates_{measure}", {"symbol": r["symbol"], "factor": f"rates_{measure}", "beta": r["beta"], "low": r["low"],
+                                     "high": r["high"]}))
+    return out
+
+
 VERDICT_STATUS = {"supported": "established", "inconclusive": "leaning", "not_supported": "contradicted",
                   "failed_review": "untested"}
 
@@ -384,7 +413,7 @@ def _assumptions(evaluation: dict | None, journal: list[dict], replays: list[dic
 def build(paths: dict | None = None) -> dict:
     """The whole cognitive picture, from the files on disk. `paths` overrides any source file (for tests)."""
     p = {"memory": MEMORY_PATH, "journal": JOURNAL_PATH, "evaluation": EVALUATION_PATH, "book": BOOK_PATH,
-         "registry": REGISTRY_PATH, "agenda": AGENDA_PATH, "sensitivities": SENSITIVITIES_PATH,
+         "registry": REGISTRY_PATH, "agenda": AGENDA_PATH, "sensitivities": SENSITIVITIES_PATH, "rates": RATES_PATH,
          "macro_runs": MACRO_RUNS, "phase_a": PHASE_A_PATH, "contribution": CONTRIBUTION_PATH, "backtest": ROOT_DIR / "results" / "hansei_backtest.json", **(paths or {})}
     memory, journal = _read(p["memory"]) or {}, _read(p["journal"]) or []
     evaluation, book, sens = _read(p["evaluation"]), _read(p["book"]), _read(p["sensitivities"])
@@ -397,7 +426,7 @@ def build(paths: dict | None = None) -> dict:
     rows = predictions(memory, journal, keyword_days)
     card = scorecard(rows)
     trust = memory.get("weights", {})
-    beliefs = (_facts(book, evaluation, replays) + _relationships(sens) + _findings(records)
+    beliefs = (_facts(book, evaluation, replays) + _relationships(sens) + _rates(_read(p["rates"])) + _findings(records)
                + _advisors(card, trust) + _phase_a(_read(p["phase_a"]), _read(p["contribution"]))
                + _assumptions(evaluation, journal, replays, _read(p["backtest"])))
     for i, b in enumerate(beliefs):

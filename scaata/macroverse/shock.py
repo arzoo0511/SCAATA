@@ -60,8 +60,8 @@ MORE_SCENARIOS = [
 ]
 SCENARIOS = SCENARIOS + MORE_SCENARIOS
 UNAVAILABLE = [
-    ("RBI raises rates by 200 basis points", "No reliable free daily history of Indian bond yields or the policy "
-     "rate path is in the data, so a rate sensitivity cannot be measured."),
+    ("RBI raises the policy rate by 200 basis points", "The policy rate itself has no daily history here. What can "
+     "be run is a 2-point rise in Indian bond yields (see the interest-rates section), measured since 2021 only."),
     ("Inflation spike, GDP slowdown, unemployment", "These are monthly or quarterly series. Their effect on five "
      "stocks' daily prices cannot be estimated without inventing it."),
     ("Banking or liquidity crisis", "No measurable daily factor for it. The closest honest answer is the 2008 and "
@@ -152,11 +152,13 @@ def simulate_prices(last_close: pd.Series, path: np.ndarray, beta: np.ndarray, n
 
 
 def run_scenario(scenario: dict, opens: pd.DataFrame, closes: pd.DataFrame, factors: pd.DataFrame,
-                 paths: int = 30, seed: int = 0, sens: dict | None = None) -> dict:
-    """Runs one scenario: `paths` simulated futures from the last real day, each traded by the real brain."""
+                 paths: int = 30, seed: int = 0, sens: dict | None = None, noise: np.ndarray | None = None,
+                 path: np.ndarray | None = None) -> dict:
+    """Runs one scenario: `paths` simulated futures from the last real day, each traded by the real brain.
+    `noise` and `path` are overridden only by scenarios on other factors (see `rates.py`)."""
     sens = sens or sensitivities(closes, factors, seed)
-    noise = residuals(closes, factors, sens["point"])
-    path = factor_path(scenario["shock"])
+    noise = residuals(closes, factors, sens["point"]) if noise is None else noise
+    path = factor_path(scenario["shock"]) if path is None else path
     rng = np.random.default_rng(seed + 1)
     anchor = closes.index[-1]
     future = pd.bdate_range(anchor + pd.Timedelta(days=1), periods=HORIZON)

@@ -709,3 +709,24 @@ def universe_ic(study: dict) -> go.Figure:
                                  hovertemplate=name + ": %{y:+.3f}<extra></extra>"))
     fig.add_hline(y=0, line=dict(color=T.MUTED, width=1, dash="dot"))
     return _layout(fig, 300)
+
+
+def rates_forest(study: dict) -> go.Figure:
+    """Each stock's response to a 1-point rise in bond yields, with its 95% interval, for both yield measures."""
+    fig = go.Figure()
+    for measure, label, colour in (("india", "Indian 5-year yield (since 2021)", T.HANSEI), ("us", "US 10-year yield (since 2007)", T.TAN)):
+        s = study.get("studies", {}).get(measure)
+        if not s:
+            continue
+        rows = s["table"]
+        fig.add_trace(go.Scatter(
+            y=[r["name"] for r in rows], x=[r["beta"] * 100 for r in rows], name=label, mode="markers",
+            marker=dict(color=colour, size=11, symbol=["circle" if r["reliable"] else "circle-open" for r in rows],
+                        line=dict(color=colour, width=2)),
+            error_x=dict(type="data", symmetric=False, array=[(r["high"] - r["beta"]) * 100 for r in rows],
+                         arrayminus=[(r["beta"] - r["low"]) * 100 for r in rows], color=colour, thickness=1.6, width=5),
+            hovertemplate="%{y}: %{x:+.1f}% per +1 point<extra>" + label + "</extra>"))
+    fig.add_vline(x=0, line=dict(color=T.MUTED, width=1, dash="dot"))
+    fig.update_xaxes(ticksuffix="%", showspikes=False)
+    fig.update_yaxes(autorange="reversed", showgrid=True)
+    return _layout(fig, 340, unified=False)

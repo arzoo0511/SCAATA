@@ -80,6 +80,11 @@ model from scratch to rank them. It finds a small real signal, but the learning 
 the signals or plain momentum. A separate fake-money "wide book" (`paper_book_wide.json`) now tracks the learned
 model, the plain average, momentum and owning everything, forward only. `python -m scaata.universe refresh|study|book`.
 
+Phase D added interest rates (`scaata/macroverse/rates.py`): each stock's measured response to Indian and US bond
+yields, the "Indian yields up 2 points" what-if, and the links as beliefs. In the sample, every stock falls when
+Indian yields rise (HDFC Bank about 13% per point); US yields show no pattern. The language-model event records in
+the plan are not built (they need a model service and hand-labelled headlines).
+
 How much a result is worth is itself measured (`scaata/research/stats.py`): a Deflated Sharpe Ratio against
 holding's Sharpe, the probability that picking the past winner fails, an evidence budget that shrinks with every
 test, and a live e-process on the paper book that compares HANSEI with a holder of the same exposure and can be

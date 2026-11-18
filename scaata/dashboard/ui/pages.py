@@ -472,6 +472,43 @@ def macro_runs() -> tuple[list[dict], dict | None]:
     return replays + scenarios, data.read_json(MACRO_RUNS / "sensitivities.json")
 
 
+def _rates_section() -> None:
+    """Phase D: how bond yields reach each stock, and the 'yields +2 points' what-if. Reads saved files only."""
+    study = data.read_json(MACRO_RUNS / "rates.json")
+    if not study:
+        return
+    scen = data.read_json(MACRO_RUNS / "rbi-200bp.json")
+    T.heading("Interest rates", "per 1 point (100 bp) rise in bond yields")
+    T.caption("There is no free daily Indian 10-year yield history, so two stand-ins are used: an Indian 5-year gilt "
+              "ETF since 2021 (its price turned into a yield change, assuming a duration of "
+              f"{study['duration_assumed']:g} years) and the US 10-year yield since 2007. A filled dot means the 95% "
+              "interval excludes zero; a hollow dot means the data cannot tell the effect from nothing.")
+    plot(charts.rates_forest(study))
+    ind = study["studies"]["india"]["table"]
+    steady = [r["name"] for r in ind if r["reliable"] and r["held_out_ok"]]
+    shifted = [r["name"] for r in ind if r["reliable"] and not r["held_out_ok"]]
+    T.caption("<b>Indian yields: every stock falls when yields rise</b>, by " + f"{min(-r['beta'] for r in ind) * 100:.0f}"
+              f"&ndash;{max(-r['beta'] for r in ind) * 100:.0f}% per point, clear for {sum(r['reliable'] for r in ind)} of 5. "
+              + (f"Only {', '.join(steady)} held steady between the two halves of the sample. " if steady else
+                 "None held steady between the two halves of the sample. ")
+              + (f"{', '.join(shifted)} reacted more in the later years than the early years predicted. " if shifted else "")
+              + "<b>US yields</b> show no consistent pattern, which is itself a finding: Indian stocks respond to Indian "
+              "rates, not American ones.")
+    if scen:
+        st_ = scen["stats"]
+        T.heading("What if Indian yields rise 2 points?", "synthetic")
+        rows = "".join(f'<div class="hs-row"><div><div class="a">{r["name"]}</div><div class="b">expected '
+                       f'{r["expected_move"]:+.0%} · 8 in 10 simulated paths end between {r["p10"][-1] - 100:+.0f}% and '
+                       f'{r["p90"][-1] - 100:+.0f}%</div></div></div>' for r in scen["stocks"])
+        st.markdown(f'<div class="hs-panel">{rows}</div>', unsafe_allow_html=True)
+        T.caption(f"Run through the same brain as the live agent over {scen['paths']} simulated {scen['horizon']}-session "
+                  f"futures: HANSEI&rsquo;s median return {st_['hansei']['median_return']:+.1%} against holding "
+                  f"{st_['holding']['median_return']:+.1%}; its worst fall was smaller than holding&rsquo;s in "
+                  f"<b>{st_['share_hansei_falls_less']:.0%}</b> of paths. "
+                  "<b>Treat it as a stress test, not a forecast:</b> the sample has no week anywhere near a 2-point move, "
+                  "so this is a straight-line extension of small moves.")
+
+
 def macro_page() -> None:
     runs, sens = macro_runs()
     T.intro("Macroverse", "Put HANSEI through a crisis.",
@@ -507,6 +544,7 @@ def macro_page() -> None:
             table[column] = table[column] * 100
         st.dataframe(table[["Episode", *columns]], hide_index=True, use_container_width=True,
                      column_config={c: st.column_config.NumberColumn(c, format="%.1f%%") for c in columns})
+    _rates_section()
     stamp = runs[0].get("provenance", {})
     T.foot("Prices: the research snapshot <code>" + (stamp.get("prices_sha256") or "")[:12] + "</code> through "
            + str(stamp.get("prices_through")) + ". Factors (Nifty 50, Brent, USD/INR): Yahoo Finance, frozen "

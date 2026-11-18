@@ -3,6 +3,8 @@
     python -m scaata.macroverse refresh             freeze a new factor snapshot
     python -m scaata.macroverse replay [ID ...]     replay historical episodes (all by default)
     python -m scaata.macroverse scenario [ID ...]   run synthetic scenarios (all by default)
+    python -m scaata.macroverse refresh-rates       freeze the interest-rate snapshot (US 10-year, Indian gilt ETF)
+    python -m scaata.macroverse rates               rate sensitivities and the 'yields +2 points' what-if
     python -m scaata.macroverse all                 both, plus the sensitivity table
 
 Results are written to `macroverse/runs/`. Prices come from the research
@@ -70,12 +72,36 @@ def run_scenarios(ids: list[str]) -> None:
               f"{time.time() - started:.0f}s", flush=True)
 
 
+def run_rates() -> None:
+    from scaata.macroverse import rates
+
+    opens, closes, snapshot = prices.load()
+    fac, factor_meta = factors.load()
+    rt, rates_meta = factors.load_rates()
+    started = time.time()
+    study, scenario = rates.run(opens, closes, rt, fac["market"], paths=PATHS)
+    study["rates_sha256"] = rates_meta["sha256"]
+    _save("rates", study, snapshot, factor_meta)
+    _save(rates.SCENARIO["id"], scenario, snapshot, factor_meta)
+    for m, s in study["studies"].items():
+        print(f"{m}: {s['weeks']} weeks, {sum(r['reliable'] for r in s['table'])} of 5 intervals exclude zero", flush=True)
+    st = scenario["stats"]
+    print(f"{rates.SCENARIO['id']}: median HANSEI {st['hansei']['median_return']:+.1%} vs holding "
+          f"{st['holding']['median_return']:+.1%}; falls less in {st['share_hansei_falls_less']:.0%} of paths   "
+          f"{time.time() - started:.0f}s", flush=True)
+
+
 def main(argv: list[str]) -> None:
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     command, ids = (argv[0] if argv else ""), argv[1:]
     if command == "refresh":
         info = factors.refresh()
         print(f"factor snapshot: {info['rows']} rows through {info['last']}, sha256 {info['sha256'][:12]}")
+    elif command == "refresh-rates":
+        info = factors.refresh_rates()
+        print(f"rates snapshot: {info['rows']} rows through {info['last']}, sha256 {info['sha256'][:12]}")
+    elif command == "rates":
+        run_rates()
     elif command == "replay":
         run_replays(ids)
     elif command == "scenario":

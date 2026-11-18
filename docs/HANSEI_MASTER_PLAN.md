@@ -490,3 +490,22 @@ advanced weekly by the research workflow. It decides at the first close of a mon
 close with NSE costs; nothing is back-filled. It logs every method's scores weekly and records the live rank
 correlation 20 sessions later. Still to do: a live e-process on the sleeve excess returns once there are months
 of data; the learner's output for the five traded stocks is shown but is not an advisor (no evidence it earns one).
+
+### 8.1 Phase D status (built 18 Nov 2026, not yet published)
+
+Done: item 3 (rates) and item 4 (relationships as beliefs). **Not done: items 1 and 2** (language-model event
+records, the 300-headline hand-labelled check, and the contamination rules). They need a language-model service
+and a hand-labelled sample, which are the owner's to supply; building them without those would be guessing.
+
+- **Rates data.** No free daily Indian 10-year yield exists. Two stand-ins, frozen in `macroverse/data/rates.csv.gz`:
+  the US 10-year yield (daily since 2006) and an Indian 5-year gilt ETF (since April 2021), whose price is turned
+  into a yield change assuming a duration of 4 years (an assumption; every Indian figure scales with it).
+- **Measured** (`python -m scaata.macroverse rates`, weekly returns, block bootstrap, held-out half):
+  per +1 point in Indian 5-year yield, HDFC Bank −12.7%, IOC −11.3%, Petronet −7.9%, ICICI −6.9% (all intervals
+  exclude zero), ITC −3.5% (cannot tell). Only HDFC Bank held steady between the two halves; the others reacted
+  more in the later years. US 10-year yields show no consistent link to any stock.
+- **The "rates +200 bp" scenario now runs** as "Indian yields up 2 points", through the same simulator and the
+  real brain, 30 paths: holding's median return −14.2% (worst fall −31%), HANSEI −9.9% (worst fall −17%); HANSEI's worst fall
+  was smaller in 30 of 30 paths. A stress test, not a forecast: no week in the sample moves more than 0.36 points,
+  so 2 points is a long extrapolation.
+- **Beliefs.** Ten rate relationships enter the belief store with interval, halves and held-out status.

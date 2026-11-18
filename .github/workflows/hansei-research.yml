@@ -45,6 +45,7 @@ jobs:
         run: |
           python -m scaata.research refresh
           python -m scaata.macroverse refresh
+          python -m scaata.macroverse refresh-rates
 
       - name: Backtests behind the Evidence page
         continue-on-error: true
@@ -54,7 +55,9 @@ jobs:
 
       - name: Macroverse
         continue-on-error: true
-        run: python -m scaata.macroverse all
+        run: |
+          python -m scaata.macroverse all
+          python -m scaata.macroverse rates
 
       - name: Phase A (skill ledger, learners, poison test, contribution)
         continue-on-error: true
