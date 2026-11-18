@@ -4,6 +4,7 @@
 # which only read saved results. Running experiments or scenarios needs the full install (scipy):
 # `pip install -e .` (the weekly research workflow adds scipy itself). The statistics behind the Lab
 # page (research/stats.py) need only numpy, so the hosted site runs them as is.
+# The Phase A results are saved JSON files the Lab page reads; nothing there is computed on the site.
 # Pinned to the release the dashboard was built and tested on: its styling targets
 # this version's page elements, and newer releases are dropping arguments it uses.
 streamlit==1.42.2
