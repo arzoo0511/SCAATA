@@ -9,6 +9,7 @@
     python -m scaata.research events           what each stock did after each kind of news
     python -m scaata.research rebound          the rebound rule, episode by episode
     python -m scaata.research contribution     each advisor's Shapley value in the whole system (~10 min)
+    python -m scaata.research generate         the system's own batch of experiments, judged as a family (~15 min)
     python -m scaata.research phase-a          skill ledger, calibration, learners and the poison test
 
 An experiment is registered (criteria and all) before it runs, then run on
@@ -73,6 +74,20 @@ def main(argv: list[str]) -> None:
         for item in _agenda():
             print(f"[{item['status']}] {item['question']}\n    because: {item['trigger']}"
                   + (f"\n    experiment: {item['experiment']}" if item["experiment"] else ""))
+    elif command == "generate":
+        from scaata.research import generator
+        from scaata.research.engine import Engine
+
+        if generator.already_run(generator.quarter()):
+            sys.exit(f"batch {generator.quarter()} was already run; one batch per quarter")
+        out = generator.run(Engine(), registry.load())
+        rc, b = out["reality_check"], out["baseline"]
+        print(f"{out['tried']} candidates on {out['span'][0]} to {out['span'][1]} (holdout sealed). Live rule: Sharpe {b['sharpe']:.3f}")
+        for r in sorted(out["candidates"], key=lambda r: -r["sharpe_vs_baseline"]):
+            print(f"  {r['id']:<15} Sharpe {r['sharpe_vs_baseline']:+.3f}  return {r['cagr_vs_baseline']:+.2%}  worst fall "
+                  f"{r['drawdown_vs_baseline']:+.1%}  trades {r['extra_trades']:+.0%}  {'PASSES' if r['passes'] else ''}")
+        print(f"Reality check: best of {rc['candidates']} has p={rc['p']:.3f}; luck alone gives a best of {rc['luck_only_median']:.4f} "
+              f"(95%: {rc['luck_only_95']:.4f}) vs observed {rc['observed']:.4f}. Champion: {out['champion'] or 'none'}")
     elif command == "run":
         ids = argv[1:]
         if ids == ["--proposed"]:

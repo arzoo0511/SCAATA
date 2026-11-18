@@ -85,6 +85,10 @@ yields, the "Indian yields up 2 points" what-if, and the links as beliefs. In th
 Indian yields rise (HDFC Bank about 13% per point); US yields show no pattern. The language-model event records in
 the plan are not built (they need a model service and hand-labelled headlines).
 
+Phase E (`scaata/research/generator.py`) lets the system propose its own experiments under a budget. Its first
+batch tried twelve changes to the brain's settings on 2007-2019 with the 2020-on years sealed (the evidence budget
+there is spent). None helps; White's Reality Check p is 0.96, so no champion and no change is proposed.
+
 How much a result is worth is itself measured (`scaata/research/stats.py`): a Deflated Sharpe Ratio against
 holding's Sharpe, the probability that picking the past winner fails, an evidence budget that shrinks with every
 test, and a live e-process on the paper book that compares HANSEI with a holder of the same exposure and can be

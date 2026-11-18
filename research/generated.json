@@ -1,0 +1,351 @@
+{
+ "batch": "2026Q4",
+ "registered_at": "2026-11-18T08:46:16+00:00",
+ "ran_at": "2026-11-18T08:58:18+00:00",
+ "span": [
+  "2007-01-01",
+  "2019-12-31"
+ ],
+ "holdout_sealed": true,
+ "budget": {
+  "wealth": 0.00035293200774528594,
+  "level": 0.00017646600387264297,
+  "holdout_open": false
+ },
+ "tried": 12,
+ "baseline": {
+  "sharpe": 0.9814567337551686,
+  "cagr": 0.17005683882192502,
+  "max_drawdown": -0.37974136648949525,
+  "trades": 221
+ },
+ "reality_check": {
+  "p": 0.959,
+  "observed": 0.00016332045528482268,
+  "best_index": 11,
+  "luck_only_median": 0.0017835866445703574,
+  "luck_only_95": 0.004922096046617153,
+  "candidates": 12,
+  "days": 3193
+ },
+ "best_by_sharpe": "learn-0.02",
+ "candidates": [
+  {
+   "id": "act-0.20",
+   "params": {
+    "act_threshold": 0.2
+   },
+   "reason": "Acting on smaller gaps between wanted and held exposure tracks the views more closely.",
+   "cost": "More trades; each pays NSE statutory costs and spread.",
+   "sharpe": 0.9219412120220608,
+   "cagr": 0.1556486417483942,
+   "max_drawdown": -0.40701718830895806,
+   "trades": 374,
+   "costs": 1043.44,
+   "sharpe_vs_baseline": -0.05951552173310781,
+   "cagr_vs_baseline": -0.014408197073530804,
+   "drawdown_vs_baseline": -0.02727582181946281,
+   "extra_trades": 0.6923076923076923,
+   "took_effect": true,
+   "family_reality_check_p": 0.959,
+   "criteria_met": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "passes": false
+  },
+  {
+   "id": "act-0.50",
+   "params": {
+    "act_threshold": 0.5
+   },
+   "reason": "Acting only on large gaps avoids paying costs to chase small changes in the views.",
+   "cost": "Fewer trades; exposure drifts further from the target between trades.",
+   "sharpe": 0.9638888614140685,
+   "cagr": 0.16841676774784453,
+   "max_drawdown": -0.3918705379422979,
+   "trades": 131,
+   "costs": 558.66,
+   "sharpe_vs_baseline": -0.017567872341100133,
+   "cagr_vs_baseline": -0.0016400710740804847,
+   "drawdown_vs_baseline": -0.012129171452802678,
+   "extra_trades": -0.4072398190045249,
+   "took_effect": true,
+   "family_reality_check_p": 0.959,
+   "criteria_met": [
+    false,
+    true,
+    true,
+    false
+   ],
+   "passes": false
+  },
+  {
+   "id": "hold-5",
+   "params": {
+    "min_hold_days": 5
+   },
+   "reason": "A shorter wait lets the brain re-enter sooner after a fall (the known weakness).",
+   "cost": "More trades and more whipsaw.",
+   "sharpe": 0.9438639027549396,
+   "cagr": 0.16302103881313568,
+   "max_drawdown": -0.3879595999030176,
+   "trades": 266,
+   "costs": 1011.92,
+   "sharpe_vs_baseline": -0.03759283100022903,
+   "cagr_vs_baseline": -0.007035800008789339,
+   "drawdown_vs_baseline": -0.008218233413522347,
+   "extra_trades": 0.2036199095022624,
+   "took_effect": true,
+   "family_reality_check_p": 0.959,
+   "criteria_met": [
+    false,
+    true,
+    true,
+    false
+   ],
+   "passes": false
+  },
+  {
+   "id": "hold-20",
+   "params": {
+    "min_hold_days": 20
+   },
+   "reason": "A longer wait cuts whipsaw trades, which cost money without adding information.",
+   "cost": "Slower to exit when a fall starts.",
+   "sharpe": 0.9680648037259963,
+   "cagr": 0.167018700161913,
+   "max_drawdown": -0.37125062705987344,
+   "trades": 207,
+   "costs": 793.77,
+   "sharpe_vs_baseline": -0.013391930029172272,
+   "cagr_vs_baseline": -0.003038138660012013,
+   "drawdown_vs_baseline": 0.008490739429621807,
+   "extra_trades": -0.06334841628959276,
+   "took_effect": true,
+   "family_reality_check_p": 0.959,
+   "criteria_met": [
+    false,
+    true,
+    true,
+    false
+   ],
+   "passes": false
+  },
+  {
+   "id": "tolerance-0.10",
+   "params": {
+    "tolerance": 0.1
+   },
+   "reason": "Staying fully invested through mildly negative scores reduces time out of the market.",
+   "cost": "Bigger falls when mild scores are the start of a crash.",
+   "sharpe": 0.9400238140075025,
+   "cagr": 0.1680977427038819,
+   "max_drawdown": -0.4199960519043413,
+   "trades": 197,
+   "costs": 678.79,
+   "sharpe_vs_baseline": -0.041432919747666164,
+   "cagr_vs_baseline": -0.0019590961180431243,
+   "drawdown_vs_baseline": -0.04025468541484606,
+   "extra_trades": -0.10859728506787325,
+   "took_effect": true,
+   "family_reality_check_p": 0.959,
+   "criteria_met": [
+    false,
+    false,
+    true,
+    false
+   ],
+   "passes": false
+  },
+  {
+   "id": "tolerance-0.20",
+   "params": {
+    "tolerance": 0.2
+   },
+   "reason": "A wider version of the same: only strongly negative scores cut exposure.",
+   "cost": "Bigger falls; this is the direction that gives up the brain's one proven benefit.",
+   "sharpe": 0.8944123106373939,
+   "cagr": 0.16569119922323683,
+   "max_drawdown": -0.5105841205872051,
+   "trades": 165,
+   "costs": 505.27,
+   "sharpe_vs_baseline": -0.08704442311777472,
+   "cagr_vs_baseline": -0.004365639598688187,
+   "drawdown_vs_baseline": -0.1308427540977099,
+   "extra_trades": -0.25339366515837103,
+   "took_effect": true,
+   "family_reality_check_p": 0.959,
+   "criteria_met": [
+    false,
+    false,
+    true,
+    false
+   ],
+   "passes": false
+  },
+  {
+   "id": "floor-0.25",
+   "params": {
+    "floor": 0.25
+   },
+   "reason": "Never being fully out keeps some of every rebound.",
+   "cost": "A quarter of the book rides every fall.",
+   "sharpe": 0.9535699446064437,
+   "cagr": 0.16804160519919198,
+   "max_drawdown": -0.42811869232127503,
+   "trades": 193,
+   "costs": 689.28,
+   "sharpe_vs_baseline": -0.02788678914872489,
+   "cagr_vs_baseline": -0.002015233622733037,
+   "drawdown_vs_baseline": -0.04837732583177978,
+   "extra_trades": -0.12669683257918551,
+   "took_effect": true,
+   "family_reality_check_p": 0.959,
+   "criteria_met": [
+    false,
+    false,
+    true,
+    false
+   ],
+   "passes": false
+  },
+  {
+   "id": "floor-0.50",
+   "params": {
+    "floor": 0.5
+   },
+   "reason": "Half-invested at least: most of holding's return with some of the protection.",
+   "cost": "Half the book rides every fall.",
+   "sharpe": 0.9276459042271608,
+   "cagr": 0.16727147674291198,
+   "max_drawdown": -0.44204381147497723,
+   "trades": 148,
+   "costs": 539.17,
+   "sharpe_vs_baseline": -0.053810829528007864,
+   "cagr_vs_baseline": -0.002785362079013032,
+   "drawdown_vs_baseline": -0.062302444985481986,
+   "extra_trades": -0.330316742081448,
+   "took_effect": true,
+   "family_reality_check_p": 0.959,
+   "criteria_met": [
+    false,
+    false,
+    true,
+    false
+   ],
+   "passes": false
+  },
+  {
+   "id": "learn-0.02",
+   "params": {
+    "learning_rate": 0.02
+   },
+   "reason": "Slower trust updates are less affected by noisy 20-day judgements.",
+   "cost": "Slower to follow a real change in which advisor is best.",
+   "sharpe": 0.9900137708473195,
+   "cagr": 0.17052361703280394,
+   "max_drawdown": -0.38188857009937366,
+   "trades": 207,
+   "costs": 775.77,
+   "sharpe_vs_baseline": 0.008557037092150832,
+   "cagr_vs_baseline": 0.00046677821087892646,
+   "drawdown_vs_baseline": -0.002147203609878412,
+   "extra_trades": -0.06334841628959276,
+   "took_effect": true,
+   "family_reality_check_p": 0.959,
+   "criteria_met": [
+    true,
+    true,
+    true,
+    false
+   ],
+   "passes": false
+  },
+  {
+   "id": "learn-0.15",
+   "params": {
+    "learning_rate": 0.15
+   },
+   "reason": "Faster trust updates follow a changing best advisor sooner.",
+   "cost": "Chases noise; Phase A found no learner beat equal trust.",
+   "sharpe": 0.9164782941350539,
+   "cagr": 0.15404770256172218,
+   "max_drawdown": -0.4298578277356529,
+   "trades": 296,
+   "costs": 1104.49,
+   "sharpe_vs_baseline": -0.06497843962011474,
+   "cagr_vs_baseline": -0.01600913626020284,
+   "drawdown_vs_baseline": -0.05011646124615765,
+   "extra_trades": 0.339366515837104,
+   "took_effect": true,
+   "family_reality_check_p": 0.959,
+   "criteria_met": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "passes": false
+  },
+  {
+   "id": "share-0.01",
+   "params": {
+    "fixed_share": 0.01
+   },
+   "reason": "A larger Fixed-Share pool keeps every advisor able to recover trust quickly.",
+   "cost": "Pulls trust back toward equal, blunting what was learned.",
+   "sharpe": 0.9631254240303121,
+   "cagr": 0.16612253397458443,
+   "max_drawdown": -0.38865668517879903,
+   "trades": 216,
+   "costs": 775.46,
+   "sharpe_vs_baseline": -0.018331309724856526,
+   "cagr_vs_baseline": -0.003934304847340586,
+   "drawdown_vs_baseline": -0.008915318689303786,
+   "extra_trades": -0.022624434389140302,
+   "took_effect": true,
+   "family_reality_check_p": 0.959,
+   "criteria_met": [
+    false,
+    true,
+    true,
+    false
+   ],
+   "passes": false
+  },
+  {
+   "id": "share-0.05",
+   "params": {
+    "fixed_share": 0.05
+   },
+   "reason": "A much larger pool: trust stays close to equal, a hedge against learning the wrong thing.",
+   "cost": "Almost equal trust, i.e. learning is largely switched off.",
+   "sharpe": 0.9876564207919153,
+   "cagr": 0.17097596314837316,
+   "max_drawdown": -0.3580366136870271,
+   "trades": 205,
+   "costs": 735.98,
+   "sharpe_vs_baseline": 0.0061996870367466705,
+   "cagr_vs_baseline": 0.0009191243264481397,
+   "drawdown_vs_baseline": 0.02170475280246814,
+   "extra_trades": -0.07239819004524883,
+   "took_effect": true,
+   "family_reality_check_p": 0.959,
+   "criteria_met": [
+    true,
+    true,
+    true,
+    false
+   ],
+   "passes": false
+  }
+ ],
+ "champion": null,
+ "data": {
+  "last": "2026-11-13",
+  "sha256": "4a2171114572be105b4733528db101810bdf5263d14b7f9416c5f31cd1eccae0"
+ }
+}

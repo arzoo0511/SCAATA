@@ -509,3 +509,19 @@ and a hand-labelled sample, which are the owner's to supply; building them witho
   was smaller in 30 of 30 paths. A stress test, not a forecast: no week in the sample moves more than 0.36 points,
   so 2 points is a long extrapolation.
 - **Beliefs.** Ten rate relationships enter the belief store with interval, halves and held-out status.
+
+### 9.1 Phase E status (built 18 Nov 2026, not yet published)
+
+Built: `scaata/research/generator.py` (parameter proposer with written reason and cost per candidate, logged before it
+runs, one batch per quarter, White's Reality Check across the family, at most one champion). Not built: the
+language-model generator (c); it needs a model service and adds nothing a parameter family does not test.
+
+Two findings:
+
+- **The evidence budget is spent.** Replaying it over the 11 Lab experiments on file leaves wealth 0.0004 and an
+  offered level of 0.0002. The holdout years (2020 on) have been looked at too often to be searched again, so the
+  generator seals them. It runs on 2007–2019 only and can prove nothing about 2020 on; confirmation has to come forward.
+- **First batch (2026Q4): twelve changes to the brain's own settings, none helps.** Against the live rule (Sharpe 0.981 over
+  2007–2019) the best candidates gain +0.009 and +0.006 Sharpe, ten are worse, and the family's Reality Check p is
+  **0.96**: the best of twelve looks exactly like what luck alone produces. No champion. The live settings sit in a
+  flat, locally best region; tolerance and floor changes cut the worst fall's protection (−13 and −6 points) for no gain.

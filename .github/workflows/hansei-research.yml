@@ -87,6 +87,10 @@ jobs:
           python -m scaata.research agenda
           python -m scaata.research run --proposed
 
+      - name: Self-proposed experiments (one batch a quarter; skipped if this quarter's has run)
+        continue-on-error: true
+        run: python -m scaata.research generate
+
       - name: Belief snapshot
         continue-on-error: true
         run: python -m scaata.cognition snapshot

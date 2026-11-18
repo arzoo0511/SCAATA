@@ -333,6 +333,32 @@ def _universe() -> None:
               "five-stock book." + live)
 
 
+def _generated() -> None:
+    """Phase E: the system's own batch of experiments, judged as a family with the holdout sealed."""
+    from scaata.dashboard.ui.data import read_json
+
+    g = read_json(ROOT_DIR / "research" / "generated.json")
+    if not g:
+        return
+    rc, b = g["reality_check"], g["baseline"]
+    T.heading("Experiments it proposed itself", f"{g['tried']} tried together, {g['batch']}")
+    T.caption("Besides the questions the live record raises, the system tries changes to the brain&rsquo;s own settings. "
+              "Each carries a written reason and cost before it runs. They run on 2007&ndash;2019 only: the 2020-on "
+              "years are <b>sealed</b>, because every earlier experiment has already looked at them and the evidence "
+              "budget is spent. Because twelve were tried, the best one is judged by White&rsquo;s Reality Check: how "
+              "often the best of twelve duds would look this good.")
+    _plot(charts.generated_family(g), "generated_family")
+    win = g["champion"]
+    T.caption(f"Against the live rule (Sharpe {b['sharpe']:.2f}), the best by Sharpe was <b>{g['best_by_sharpe']}</b>, by a hair. "
+              f"Reality-check p (on daily return gains, best of all {g['tried']}) = <b>{rc['p']:.2f}</b>: luck alone gives a best of {rc['luck_only_median']:.4f} "
+              f"(95% of the time under {rc['luck_only_95']:.4f}) against the {rc['observed']:.4f} seen. "
+              + (f"<b>Champion: {win}</b>, proposed for forward testing only; nothing is switched on."
+                 if win else "<b>No champion.</b> Nothing in the family beats chance, so no setting change is proposed."))
+    with st.expander("Each candidate's reason and cost"):
+        for r in g["candidates"]:
+            st.markdown(f"**{r['id']}** &mdash; {r['reason']} *Cost:* {r['cost']}")
+
+
 def _contribution(cont: dict) -> None:
     st.markdown('<div class="hs-eyebrow" style="margin-top:1.2rem">What does each advisor add to the whole '
                 'system?</div>', unsafe_allow_html=True)
@@ -446,6 +472,7 @@ def page() -> None:
     _self_critique()
     _rebound()
     _universe()
+    _generated()
 
     T.heading("What the Lab cannot do")
     rules = [("Change the live agent", "A supported finding is a proposal. It reaches the trading code only as a "

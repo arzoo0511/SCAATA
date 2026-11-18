@@ -730,3 +730,22 @@ def rates_forest(study: dict) -> go.Figure:
     fig.update_xaxes(ticksuffix="%", showspikes=False)
     fig.update_yaxes(autorange="reversed", showgrid=True)
     return _layout(fig, 340, unified=False)
+
+
+def generated_family(study: dict) -> go.Figure:
+    """Each self-proposed candidate's Sharpe against the live rule on the tuning years."""
+    rows = sorted(study.get("candidates", []), key=lambda r: r["sharpe_vs_baseline"])
+    if not rows:
+        return empty("No batch has been run.")
+    fig = go.Figure(go.Bar(
+        y=[r["id"] for r in rows], x=[r["sharpe_vs_baseline"] for r in rows], orientation="h",
+        marker=dict(color=[T.UP if r["sharpe_vs_baseline"] > 0 else T.DOWN for r in rows], line=dict(color=T.PANEL, width=2)),
+        text=[f"{r['sharpe_vs_baseline']:+.3f}" for r in rows], textposition="outside", cliponaxis=False,
+        textfont=dict(family=T.MONO, color=T.INK, size=11),
+        customdata=[[r["cagr_vs_baseline"] * 100, r["drawdown_vs_baseline"] * 100, r["extra_trades"] * 100] for r in rows],
+        hovertemplate="%{y}<br>Sharpe %{x:+.3f} · return %{customdata[0]:+.2f}%/yr · worst fall %{customdata[1]:+.1f} pts · "
+                      "trades %{customdata[2]:+.0f}%<extra></extra>"))
+    fig.add_vline(x=0, line=dict(color=T.MUTED, width=1, dash="dot"))
+    fig.update_yaxes(showgrid=False)
+    fig.update_xaxes(showspikes=False)
+    return _layout(fig, max(300, 34 * len(rows) + 80), legend=False, unified=False)
