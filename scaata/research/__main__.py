@@ -10,6 +10,7 @@
     python -m scaata.research rebound          the rebound rule, episode by episode
     python -m scaata.research contribution     each advisor's Shapley value in the whole system (~10 min)
     python -m scaata.research generate         the system's own batch of experiments, judged as a family (~15 min)
+    python -m scaata.research race             the promotion race: frozen baseline, live rule and challengers
     python -m scaata.research phase-a          skill ledger, calibration, learners and the poison test
 
 An experiment is registered (criteria and all) before it runs, then run on
@@ -74,6 +75,19 @@ def main(argv: list[str]) -> None:
         for item in _agenda():
             print(f"[{item['status']}] {item['question']}\n    because: {item['trigger']}"
                   + (f"\n    experiment: {item['experiment']}" if item["experiment"] else ""))
+    elif command == "race":
+        from scaata.research import race
+
+        out = race.run()
+        for name in ("forward", "rehearsal"):
+            r = out[name]
+            if not r:
+                print(f"{name}: not enough sessions yet")
+                continue
+            print(f"{name}: {r['start']} to {r['end']} ({len(r['days']) - 1} sessions)")
+            for e in r["entrants"]:
+                tail = f"  e-up {e['e_up']:.2f} e-down {e['e_down']:.2f}  -> {e['promotion']['verdict']}" if "promotion" in e else ""
+                print(f"  {e['id']:<12} return {e['return']:+.1%}  Sharpe {e['sharpe']:.2f}  worst fall {e['max_drawdown']:.1%}{tail}")
     elif command == "generate":
         from scaata.research import generator
         from scaata.research.engine import Engine

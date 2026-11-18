@@ -749,3 +749,34 @@ def generated_family(study: dict) -> go.Figure:
     fig.update_yaxes(showgrid=False)
     fig.update_xaxes(showspikes=False)
     return _layout(fig, max(300, 34 * len(rows) + 80), legend=False, unified=False)
+
+
+_RACE_COLOURS = {"frozen": T.MUTED, "live": T.HANSEI, "rebound": T.TAN, "learn-0.02": "#3FA873", "share-0.05": "#B26BC9"}
+
+
+def promotion_race(block: dict, mode: str = "value") -> go.Figure:
+    """The promotion race. mode "value": growth of 100 for each entrant and holding. mode "meter": each challenger's
+    e-process against the frozen baseline on a log scale, with the promotion line at 20."""
+    if not block or len(block["days"]) < 3:
+        return empty("The race has too few sessions to draw.")
+    fig = go.Figure()
+    days = block["days"]
+    if mode == "value":
+        fig.add_trace(go.Scatter(x=days, y=block["holding"], name="Just holding", mode="lines",
+                                 line=dict(color=T.HOLD, width=1.6, dash="dot"), hovertemplate="holding %{y:.1f}<extra></extra>"))
+        for e in block["entrants"]:
+            fig.add_trace(go.Scatter(x=days, y=e["curve"], name=e["label"], mode="lines",
+                                     line=dict(color=_RACE_COLOURS.get(e["id"], T.SOFT), width=2.2 if e["id"] in ("frozen", "live") else 1.6),
+                                     hovertemplate=e["label"] + " %{y:.1f}<extra></extra>"))
+        return _layout(fig, 340)
+    for e in block["entrants"]:
+        if e["role"] != "challenger":
+            continue
+        fig.add_trace(go.Scatter(x=days[1:], y=e["e_path_up"], name=e["label"], mode="lines",
+                                 line=dict(color=_RACE_COLOURS.get(e["id"], T.SOFT), width=2),
+                                 hovertemplate=e["label"] + ": evidence %{y:.2f}<extra></extra>"))
+    fig.add_hline(y=20, line=dict(color=T.UP, width=1.2, dash="dash"), annotation_text="promote at 20",
+                  annotation_font=dict(color=T.UP, size=11))
+    fig.add_hline(y=1, line=dict(color=T.MUTED, width=1, dash="dot"))
+    fig.update_yaxes(type="log", range=[np.log10(0.3), np.log10(40)])
+    return _layout(fig, 300)

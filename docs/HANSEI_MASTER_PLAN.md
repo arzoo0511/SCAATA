@@ -525,3 +525,20 @@ Two findings:
   2007–2019) the best candidates gain +0.009 and +0.006 Sharpe, ten are worse, and the family's Reality Check p is
   **0.96**: the best of twelve looks exactly like what luck alone produces. No champion. The live settings sit in a
   flat, locally best region; tolerance and floor changes cut the worst fall's protection (−13 and −6 points) for no gain.
+
+### 10.1 Phase F status (built 18 Nov 2026, not yet published)
+
+Built: `scaata/research/race.py`, `research/race.json`, a Lab section, a weekly workflow step.
+
+- **Frozen baseline.** The brain settings as of 16 Nov 2026 are written out in code (`race.FROZEN`), so editing the
+  live code cannot move the yardstick. Today live and frozen are identical.
+- **Entrants.** Frozen, live, the rebound rule (a registered hypothesis, promotable), and the two best self-proposed
+  settings (exploratory, not promotable, since their family failed its Reality Check).
+- **Rule.** Promote only if the evidence meter against the baseline is above 20, at least 60 sessions have passed,
+  the worst fall is no more than 2 points worse, the poison test passes, and the entrant is promotable. Demote on
+  the mirror image. It recommends; a person and a tagged commit still make the change.
+- **Forward race** started 16 Nov 2026 (2 sessions so far; every meter is at 1.00).
+- **Rehearsal** over Jan 2024 to Nov 2026 (709 sessions, years already seen, so not evidence) shows the problem
+  plainly: no challenger's meter exceeds 1.41. At the best one's observed pace, reaching 20 would take about 3,500
+  sessions (14 years); the rebound rule about 35,000. Small differences between near-identical rules cannot be
+  proved on one five-stock book. G3 is realistic only for large, risk-type effects, or on the wide book.

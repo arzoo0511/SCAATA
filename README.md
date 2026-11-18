@@ -89,6 +89,11 @@ Phase E (`scaata/research/generator.py`) lets the system propose its own experim
 batch tried twelve changes to the brain's settings on 2007-2019 with the 2020-on years sealed (the evidence budget
 there is spent). None helps; White's Reality Check p is 0.96, so no champion and no change is proposed.
 
+Phase F (`scaata/research/race.py`) is the promotion race: the settings frozen on 16 Nov 2026, the live rule and
+three challengers replayed side by side from the same day, each with an anytime-valid evidence meter and a
+promotion rule (meter above 20, worst fall no more than 2 points worse, poison test passing, an allowed entrant).
+It recommends; it never changes the live agent.
+
 How much a result is worth is itself measured (`scaata/research/stats.py`): a Deflated Sharpe Ratio against
 holding's Sharpe, the probability that picking the past winner fails, an evidence budget that shrinks with every
 test, and a live e-process on the paper book that compares HANSEI with a holder of the same exposure and can be

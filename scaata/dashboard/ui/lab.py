@@ -359,6 +359,53 @@ def _generated() -> None:
             st.markdown(f"**{r['id']}** &mdash; {r['reason']} *Cost:* {r['cost']}")
 
 
+def _race() -> None:
+    """Phase F: frozen baseline, live rule and challengers raced on the same prices, with promotion verdicts."""
+    from scaata.dashboard.ui.data import read_json
+
+    race = read_json(ROOT_DIR / "research" / "race.json")
+    if not race:
+        return
+    T.heading("The promotion race", f"baseline frozen {race['baseline_frozen_on']}")
+    T.caption("A change reaches the live agent only by winning here. The <b>frozen baseline</b> is the rule as it stood "
+              "on the freeze date, written down so later edits cannot move the yardstick. Every entrant is replayed "
+              "from the same day on the same prices. A challenger is promoted only if its evidence meter (an "
+              "anytime-valid test, safe to read every day) passes <b>20</b>, its worst fall is no more than 2 points "
+              "worse, the poison test still passes, and it is allowed to win. Nothing is promoted automatically.")
+    which = st.segmented_control("Race ", ["forward", "rehearsal"], default="forward", key="race_which",
+                                 format_func={"forward": "Forward (the evidence)", "rehearsal": "Rehearsal since Jan 2024"}.get,
+                                 label_visibility="collapsed") or "forward"
+    block = race.get(which)
+    if not block:
+        st.markdown('<div class="hs-note">Not enough sessions yet.</div>', unsafe_allow_html=True)
+        return
+    view = st.segmented_control("Show ", ["value", "meter"], default="value", key="race_view",
+                                format_func={"value": "Growth of 100", "meter": "Evidence meter"}.get,
+                                label_visibility="collapsed") or "value"
+    _plot(charts.promotion_race(block, view), f"race_{which}_{view}")
+    rows = []
+    for e in block["entrants"]:
+        promo = e.get("promotion")
+        rows.append({"Entrant": e["label"], "Return": e["return"] * 100, "Worst fall": e["max_drawdown"] * 100,
+                     "Evidence": e["e_up"] if promo else None, "Sessions to reach 20 at this pace": e.get("sessions_to_20") if promo else None,
+                     "Verdict": {"promote": "Promote", "demote": "Demote", "keep racing": "Keep racing"}[promo["verdict"]] if promo else "Reference"})
+    st.dataframe(pd.DataFrame(rows), hide_index=True, use_container_width=True, column_config={
+        "Return": st.column_config.NumberColumn(format="%.1f%%"), "Worst fall": st.column_config.NumberColumn(format="%.1f%%"),
+        "Evidence": st.column_config.NumberColumn(format="%.2f")})
+    sessions = len(block["days"]) - 1
+    if which == "forward":
+        T.caption(f"Forward race: <b>{sessions} sessions</b> so far. Too early to say anything; the meters start at 1.")
+    else:
+        slow = [e for e in block["entrants"] if e.get("sessions_to_20")]
+        best = min((e["sessions_to_20"] for e in slow), default=None)
+        T.caption(f"Rehearsal over {sessions} sessions (about {sessions / 252:.1f} years, years already seen in tuning, so "
+                  "<b>not evidence</b>). Even there no challenger gets near 20"
+                  + (f": at the best one&rsquo;s pace a verdict would take roughly <b>{best:,} sessions, about {best / 252:.0f} years</b>."
+                     if best else ".")
+                  + " Small differences between near-identical rules cannot be proved on one five-stock book, "
+                  "which is why the wide book exists.")
+
+
 def _contribution(cont: dict) -> None:
     st.markdown('<div class="hs-eyebrow" style="margin-top:1.2rem">What does each advisor add to the whole '
                 'system?</div>', unsafe_allow_html=True)
@@ -473,6 +520,7 @@ def page() -> None:
     _rebound()
     _universe()
     _generated()
+    _race()
 
     T.heading("What the Lab cannot do")
     rules = [("Change the live agent", "A supported finding is a proposal. It reaches the trading code only as a "

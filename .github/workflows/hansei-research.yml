@@ -91,6 +91,10 @@ jobs:
         continue-on-error: true
         run: python -m scaata.research generate
 
+      - name: Promotion race (frozen baseline, live rule, challengers)
+        continue-on-error: true
+        run: python -m scaata.research race
+
       - name: Belief snapshot
         continue-on-error: true
         run: python -m scaata.cognition snapshot
