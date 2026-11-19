@@ -10558,5 +10558,248 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-11-19",
+    "ran_utc": "2026-11-19T10:33:35.492878+00:00",
+    "equity": 10844.34,
+    "benchmark_equity": 11434.72,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": 0.079,
+        "target_exposure": 1.0,
+        "current_exposure": 0.758,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 76%: no strong reason to change",
+          "trend supportive (+0.65, trusted 20%)",
+          "momentum against (-0.33, trusted 30%)"
+        ],
+        "views": {
+          "trend": 0.651,
+          "volatility": -0.0,
+          "momentum": -0.326,
+          "news": 0.168
+        },
+        "shadow": {
+          "relstr": -0.132,
+          "rebound": 0.0
+        },
+        "value": 1643.6
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.387,
+        "target_exposure": 1.0,
+        "current_exposure": 0.742,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 15% of the book vs 20% target",
+          "momentum supportive (+0.67, trusted 30%)",
+          "trend supportive (+0.98, trusted 20%)"
+        ],
+        "views": {
+          "trend": 0.981,
+          "volatility": -0.539,
+          "momentum": 0.673,
+          "news": 0.4
+        },
+        "shadow": {
+          "relstr": 0.771,
+          "rebound": 0.0
+        },
+        "value": 1608.9
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.34,
+        "target_exposure": 1.0,
+        "current_exposure": 0.915,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 92%: no strong reason to change",
+          "momentum supportive (+0.67, trusted 30%)",
+          "trend supportive (+0.98, trusted 20%)"
+        ],
+        "views": {
+          "trend": 0.983,
+          "volatility": -0.246,
+          "momentum": 0.665,
+          "news": 0.019
+        },
+        "shadow": {
+          "relstr": 0.765,
+          "rebound": 0.0
+        },
+        "value": 1984.8
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": 0.308,
+        "target_exposure": 1.0,
+        "current_exposure": 0.954,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 95%: no strong reason to change",
+          "news supportive (+1.00, trusted 29%)",
+          "trend supportive (+0.38, trusted 20%)"
+        ],
+        "views": {
+          "trend": 0.376,
+          "volatility": -0.0,
+          "momentum": -0.175,
+          "news": 1.0
+        },
+        "shadow": {
+          "relstr": 0.029,
+          "rebound": 0.0
+        },
+        "value": 2069.2
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.08,
+        "target_exposure": 0.84,
+        "current_exposure": 0.555,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 56%: no strong reason to change",
+          "momentum against (-0.72, trusted 30%)",
+          "trend supportive (+0.59, trusted 20%)"
+        ],
+        "views": {
+          "trend": 0.592,
+          "volatility": -0.0,
+          "momentum": -0.722,
+          "news": 0.065
+        },
+        "shadow": {
+          "relstr": -0.608,
+          "rebound": 0.0
+        },
+        "value": 1204.0
+      }
+    ],
+    "weights": {
+      "trend": 0.1954,
+      "volatility": 0.2211,
+      "momentum": 0.2966,
+      "news": 0.2869
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.168,
+          "strength": 1.0,
+          "material_count": 0,
+          "view": 0.168
+        },
+        "top": []
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.4,
+          "strength": 1.0,
+          "material_count": 3,
+          "view": 0.4
+        },
+        "top": [
+          {
+            "title": "ICICI-Videocon Loan Case: Why Did Bombay HC Quash Sanction To Prosecute Chanda Kochhar?",
+            "source": "LawBeat",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-19T05:23:51+00:00",
+            "count": 23
+          },
+          {
+            "title": "RBI The Competent Authority, Not ICICI Bank's Board: Bombay High Court While Quashing Sanction To...",
+            "source": "Live Law",
+            "event": "legal",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-18T11:50:07+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank Warns Customers Against Fraudulent KYC Update Links",
+            "source": "The Live Nagpur",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-18T13:02:14+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.273,
+          "strength": 0.068,
+          "material_count": 0,
+          "view": 0.019
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 1.0,
+          "strength": 1.0,
+          "material_count": 6,
+          "view": 1.0
+        },
+        "top": [
+          {
+            "title": "Indian Oil Corporation Limited (NSE: IOC) and Other Refiners Finalise 2.75 Million Tonne US LPG Import Deal for 2027",
+            "source": "Kalkine India",
+            "event": "crude",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-11-19T06:33:00+00:00",
+            "count": 2
+          },
+          {
+            "title": "India\u2019s first commercial sustainable aviation fuel plant ready for production at IOC\u2019s refinery: Chairman Sahney",
+            "source": "Devdiscourse",
+            "event": "crude",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-11-18T14:07:43+00:00",
+            "count": 13
+          },
+          {
+            "title": "Draft SAF Policy Takes Shape as Indian Oil Clears Fuel for Commercial Supply",
+            "source": "The Policy Edge",
+            "event": "regulation",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-18T14:15:24+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil Takes A Big Leap Towards Greener Skies, Panipat Refinery Set To Meet Indias 1% SAF Blending Target",
+            "source": "Free Press Journal",
+            "event": "crude",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-17T07:25:23+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.409,
+          "strength": 0.158,
+          "material_count": 0,
+          "view": 0.065
+        },
+        "top": []
+      }
+    }
   }
 ]
