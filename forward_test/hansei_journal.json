@@ -10801,5 +10801,295 @@
         "top": []
       }
     }
+  },
+  {
+    "session": "2026-11-20",
+    "ran_utc": "2026-11-20T13:28:33.310242+00:00",
+    "equity": 10944.44,
+    "benchmark_equity": 11558.28,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": 0.083,
+        "target_exposure": 1.0,
+        "current_exposure": 0.773,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 77%: no strong reason to change",
+          "trend supportive (+0.82, trusted 19%)",
+          "momentum against (-0.34, trusted 29%)"
+        ],
+        "views": {
+          "trend": 0.825,
+          "volatility": -0.0,
+          "momentum": -0.344,
+          "news": 0.093
+        },
+        "shadow": {
+          "relstr": -0.119,
+          "rebound": 0.0
+        },
+        "value": 1692.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.147,
+        "target_exposure": 1.0,
+        "current_exposure": 0.749,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 15% of the book vs 20% target",
+          "momentum supportive (+0.70, trusted 29%)",
+          "trend supportive (+0.99, trusted 19%)"
+        ],
+        "views": {
+          "trend": 0.989,
+          "volatility": -0.563,
+          "momentum": 0.696,
+          "news": -0.408
+        },
+        "shadow": {
+          "relstr": 0.8,
+          "rebound": 0.0
+        },
+        "value": 1640.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.359,
+        "target_exposure": 1.0,
+        "current_exposure": 0.902,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 90%: no strong reason to change",
+          "momentum supportive (+0.69, trusted 29%)",
+          "trend supportive (+0.98, trusted 19%)"
+        ],
+        "views": {
+          "trend": 0.98,
+          "volatility": -0.179,
+          "momentum": 0.691,
+          "news": 0.035
+        },
+        "shadow": {
+          "relstr": 0.797,
+          "rebound": 0.0
+        },
+        "value": 1974.9
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": 0.057,
+        "target_exposure": 1.0,
+        "current_exposure": 0.963,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 96%: no strong reason to change",
+          "trend supportive (+0.56, trusted 19%)",
+          "momentum against (-0.34, trusted 29%)"
+        ],
+        "views": {
+          "trend": 0.562,
+          "volatility": -0.0,
+          "momentum": -0.338,
+          "news": 0.17
+        },
+        "shadow": {
+          "relstr": -0.112,
+          "rebound": 0.0
+        },
+        "value": 2107.0
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.04,
+        "target_exposure": 0.92,
+        "current_exposure": 0.547,
+        "action": "HOLD",
+        "reasons": [
+          "Would move to 92% but traded 6 session(s) ago -- waiting",
+          "momentum against (-0.68, trusted 29%)",
+          "trend supportive (+0.54, trusted 19%)"
+        ],
+        "views": {
+          "trend": 0.536,
+          "volatility": -0.0,
+          "momentum": -0.682,
+          "news": 0.199
+        },
+        "shadow": {
+          "relstr": -0.533,
+          "rebound": 0.0
+        },
+        "value": 1196.4
+      }
+    ],
+    "weights": {
+      "trend": 0.1901,
+      "volatility": 0.2234,
+      "momentum": 0.2936,
+      "news": 0.2929
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.093,
+          "strength": 1.0,
+          "material_count": 1,
+          "view": 0.093
+        },
+        "top": [
+          {
+            "title": "HDFC Bank rejects allegation of wrongdoing in Rs 45 cr payment to MSRDC, shares slip",
+            "source": "ETLegalWorld.com",
+            "event": "other",
+            "sentiment": -0.8,
+            "material": 0.7,
+            "published_utc": "2026-11-20T01:28:18+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.408,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": -0.408
+        },
+        "top": [
+          {
+            "title": "Why ICICI Bank board\u2019s sanction against ex-CEO Chanda Kochhar failed legal test in Videocon loan case",
+            "source": "ThePrint",
+            "event": "management",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-20T09:57:31+00:00",
+            "count": 1
+          },
+          {
+            "title": "Bombay HC Questions ICICI Bank\u2019s Authority in \u20b93,250 Crore Videocon Loan Case",
+            "source": "The 420.in",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-19T11:43:45+00:00",
+            "count": 1
+          },
+          {
+            "title": "Bombay HC quashes ICICI\u2019s nod to prosecute Chanda Kochhar | Hindustan Times Delhi - newspaper",
+            "source": "Magzter",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-19T08:46:11+00:00",
+            "count": 3
+          },
+          {
+            "title": "ICICI Bank revises credit card fees and benefits from December",
+            "source": "NewsBytes",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-20T08:52:22+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.369,
+          "strength": 0.095,
+          "material_count": 0,
+          "view": 0.035
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.17,
+          "strength": 1.0,
+          "material_count": 8,
+          "view": 0.17
+        },
+        "top": [
+          {
+            "title": "Indian Oil Corporation Limited (NSE: IOC) and Other Refiners Finalise 2.75 Million Tonne US LPG Import Deal for 2027",
+            "source": "Kalkine India",
+            "event": "crude",
+            "sentiment": 1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-19T06:33:00+00:00",
+            "count": 2
+          },
+          {
+            "title": "Indian Oil stock wins approval for commercial sustainable aviation fuel",
+            "source": "ad-hoc-news.de",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-11-20T00:37:25+00:00",
+            "count": 5
+          },
+          {
+            "title": "Indian OMCs Face Profit Drop on Fuel, LPG Losses",
+            "source": "Kalinga TV",
+            "event": "results",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-20T11:48:33+00:00",
+            "count": 1
+          },
+          {
+            "title": "Draft SAF Policy Takes Shape as Indian Oil Clears Fuel for Commercial Supply",
+            "source": "The Policy Edge",
+            "event": "regulation",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-18T14:15:24+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.49,
+          "strength": 0.406,
+          "material_count": 3,
+          "view": 0.199
+        },
+        "top": [
+          {
+            "title": "ITC cigarette price hike: Gold Flake Kings pack may get Rs 10-15 costlier; check revised prices of Mini Kings variants",
+            "source": "IBTimes India",
+            "event": "other",
+            "sentiment": 0.5,
+            "material": 0.7,
+            "published_utc": "2026-11-19T11:53:10+00:00",
+            "count": 1
+          },
+          {
+            "title": "ITC stock: Five upgrades in 30 days, overbought on charts; time to buy?",
+            "source": "Business Today",
+            "event": "rating",
+            "sentiment": 0.6,
+            "material": 0.6,
+            "published_utc": "2026-11-18T04:44:32+00:00",
+            "count": 1
+          },
+          {
+            "title": "ITC Foods\u2019 Sunfeast launches protein drink with 5.8g fibre",
+            "source": "IMPACT Magazine",
+            "event": "business",
+            "sentiment": 0.5,
+            "material": 0.5,
+            "published_utc": "2026-11-17T13:47:04+00:00",
+            "count": 1
+          }
+        ]
+      }
+    }
   }
 ]

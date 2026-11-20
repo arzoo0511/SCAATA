@@ -1,0 +1,91 @@
+{
+  "symbol": "ITC.NS",
+  "date": "2026-11-20",
+  "headlines": [
+    {
+      "title": "ITC cigarette price hike: Gold Flake Kings pack may get Rs 10-15 costlier; check revised prices of Mini Kings variants",
+      "source": "IBTimes India",
+      "published_utc": "2026-11-19T11:53:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUm1GSlhiNWJ1ZVlIcV9BQ0lKalAzeTVfV1ozckdZaWpNRnhZOV9zSkY0OXdEcElsaFVjZ3FVdERTcXlEdldyTm5wbnJCR29RaEtLWDRsTTl1NGhlTkxid1F6U1F3S0o5TlpaeWFBSEJONnQyajA4emtmWktsUzNrMkZ3bUY3NkZydmxHYm5RN3RSWGZQM0xfVDAwaGQwcWs0UmprSWVkUTdsVHFXRVhqNVNyVnBxWXRTSGZhZjhZdHhpMGxI?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.7,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "ITC share price tops \u20b9300-mark after 6-month gap; jumps 19% from Oct low",
+      "source": "Business Standard",
+      "published_utc": "2026-11-19T07:48:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDl4dkNHUkdYZkotRmprZjZldEhERS1rVjU3YlhhR3lyUHZUY29XLUR1YzdKWTduREpOUEFia2x5T1pQYlZfd254cG9hZER0elhpeWo0MFNRek9ZWkQ0Mm51eHM5SlYyZFVGTmNrTDdfeDRBRzR1czFTbHJHZzZLYktsSTMyRDJ2NVRJM1BDZ3lwTEpFcG5FbHdwLS1fbXNja245bkQxaGY3cHc5ZS1uQ2t3Y0dGMWJKX29sVXFBR19YX2p5cDVBWkpfT3B4dlgxbkdXOGlLQdIB1wFBVV95cUxPSDl4dkNHUkdYZkotRmprZjZldEhERS1rVjU3YlhhR3lyUHZUY29XLUR1YzdKWTduREpOUEFia2x5T1pQYlZfd254cG9hZER0elhpeWo0MFNRek9ZWkQ0Mm51eHM5SlYyZFVGTmNrTDdfeDRBRzR1czFTbHJHZzZLYktsSTMyRDJ2NVRJM1BDZ3lwTEpFcG5FbHdwLS1fbXNja245bkQxaGY3cHc5ZS1uQ2t3Y0dGMWJKX29sVXFBR19YX2p5cDVBWkpfT3B4dlgxbkdXOGlLQQ?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "Hotels beat airlines on earnings growth as RevPAR rises 15%, aviation struggles with capacity cuts",
+      "source": "Fortune India",
+      "published_utc": "2026-11-18T11:35:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb2drX01LRk9oMzhqVGhsdWh0N1BQZi1pd2FwOWw2MlhLV3ktSEhsb1ZBbEdYSGI3VW91V2htbEE3N3lpYU12YVhVRl9sQTh1UHdVZm5Bdm1KUjFoM0NtUkgyd09FcDNsMUo4djc3VUJKOTVGaHJ1VUpBVE1xOHNINVJzT0hqWGhmXzllbVNKeHg0ZkxZMWtUR2JzZXkzSFlxam95UnFadDE4YjFLMlZlOE1QY0lGZGhONS12eDg0YXNyVjl2M3VVVG53VWVINFRCLU81WlVJRlBNenZOWU90RmtnaHdpQzJELUlYSdIB7AFBVV95cUxPb2drX01LRk9oMzhqVGhsdWh0N1BQZi1pd2FwOWw2MlhLV3ktSEhsb1ZBbEdYSGI3VW91V2htbEE3N3lpYU12YVhVRl9sQTh1UHdVZm5Bdm1KUjFoM0NtUkgyd09FcDNsMUo4djc3VUJKOTVGaHJ1VUpBVE1xOHNINVJzT0hqWGhmXzllbVNKeHg0ZkxZMWtUR2JzZXkzSFlxam95UnFadDE4YjFLMlZlOE1QY0lGZGhONS12eDg0YXNyVjl2M3VVVG53VWVINFRCLU81WlVJRlBNenZOWU90RmtnaHdpQzJELUlYSQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "results"
+    },
+    {
+      "title": "Closing Bell, 18 November 2026: Sensex and Nifty Fall as Profit Booking, Metal Stocks Weigh",
+      "source": "Kotak Neo",
+      "published_utc": "2026-11-18T10:48:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb0xnOWg3Q3Y0d3F0RFVfTDNWN1dNLUlEN3ZlRWFXWG1ySU5BdnN1aUFpcWFFN3JKd0VGQmp1RmEtWUxGQkRQVFF1em9KckRQTFVxLUxNYU9UekZEaWVFT0JBSF9pWlJiTmpNeXBZY2MzUVFtcEROQkdSV3FwRFB6T1FCc1hzbFpiVTRGdGx6TzFMeHczeDhQdm4yNVVaUGhSdWw3SEduRDROUE5ST3lwaFpReVc4NXg3SEdTeWhiWFdRYmdoOWdDVVROYnlmNEk?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "results"
+    },
+    {
+      "title": "India shares lower at close of trade; Nifty 50 down 0.63% By Investing.com",
+      "source": "Investing.com India",
+      "published_utc": "2026-11-18T10:32:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnZabi1RRnJFa1NTc3k0WFJVYlVnSXFGU2lyQkRySUtsMjNCdUU4UlNmaG9CSzN0enQyZHY4cENxMTl5bVdiNnMxbll5RV9uSGgtY1FVblRJeG5oTVhzYkZ2U29NTW5vUm9XNjV0OFBwS3N6R0VNU2FCQjB2dnp5cmlLcEUzOXpCX254OFRjaGlFdm5hcHg5Uk5GSU1qQUhFZHB0QnB5eTV2b1NOdUFZ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "ITC stock: Five upgrades in 30 days, overbought on charts; time to buy?",
+      "source": "Business Today",
+      "published_utc": "2026-11-18T04:44:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTHI1cmd3eWpUV29MVXdDcWN0bW9HOEpXY21TbmkxaTBlNDZkbmtKQlltNzB3TWREQXBUb3ZYdTZtajZhbEdCN1hDNUItLUtvc3F4NUt3NWpqUTVINHpmX1dld18yZ1h5T0ZmRkVYczd6bUJwSmRqUEpDZElEcWE2N0plUmg0OWgybS1sZW5JSWluYm5ncWVrTjl3TXR0S1A3Mm54ZndDUndac0poM05ubFV1U3hIMlZPNjVfSjRlUnp6RE92UnNOQlhQeWhwRlBn0gHWAUFVX3lxTE9ZaTExYmlPcDRoSXMwaFd2ekN3NWd4REdkN0dWOUlKdFVGRGRNSTdoTFVBZ2xDM3dLZW9KeW1jUFdFTlF5cm1Cbkw5X2Q3RXpWb1I5Q09RQkptRGg5a3ZsZFJBeWJyb1JrQ2ZfNThSQnZ2VzFsSVJSOGRCM1pPTjdoUThzVmM0cGpBeDRlYm9YNUtBaFNMZHNrZnYydThGUXNrQ25oWW03S1JCZ1dPMmtNcVJTc0Z0a3JaX3ItN3Y5YkNza204MFY0UXQ5TS1Tak5MT2ZWcnc?oc=5",
+      "relevant": true,
+      "sentiment": 0.6,
+      "material": 0.6,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "rating"
+    },
+    {
+      "title": "ITC Foods\u2019 Sunfeast launches protein drink with 5.8g fibre",
+      "source": "IMPACT Magazine",
+      "published_utc": "2026-11-17T13:47:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQk15R2hlc0JpSk5FTzI4MGFDMFVwMGlneERIVjZRSFNDdXk1MUYxSjBIcE9PNW41VHp4Nm9pbUkwbGpBSE1vbS1QeEFQaDA4Y1BOTUl1eDVQTnpkeU11THFmY0t1dHJhdjE0dTVVeWM3WEQxRXJ1RXVrNHlnNDlMak0zenk5T2VNWnpWNGJYVjZQZ1p3Y2V5Z29RZUlSU2E2NkYxck5SMl9wRWoySTVrMXRn?oc=5",
+      "relevant": true,
+      "sentiment": 0.5,
+      "material": 0.5,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "business"
+    }
+  ],
+  "signal": {
+    "score": 0.49,
+    "strength": 0.406,
+    "material_count": 3,
+    "view": 0.199
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-20T13:28:33.307143+00:00"
+}
