@@ -222,27 +222,24 @@
     ]
   },
   "significance": {
-    "backtest_cagr_edge": 0.006642662683372658,
-    "daily_gap_volatility": 0.005552428040675327,
-    "sessions_needed": 173031,
-    "years_needed": 697.7,
-    "sessions_so_far": 39
+    "backtest_cagr_edge": -0.007796934247163545,
+    "daily_gap_volatility": 0.005552428040675327
   },
   "backtest_reference": {
     "Full period": {
-      "cagr_diff": 0.006642662683372658,
-      "hansei_max_drawdown": -0.2834891706303855,
-      "hold_max_drawdown": -0.388102850379426
+      "cagr_diff": -0.007796934247163545,
+      "hansei_max_drawdown": -0.2708606014994118,
+      "hold_max_drawdown": -0.3881028317192964
     },
     "First half": {
-      "cagr_diff": -0.011307404397201237,
-      "hansei_max_drawdown": -0.2834891706303855,
-      "hold_max_drawdown": -0.388102850379426
+      "cagr_diff": -0.017746088275497618,
+      "hansei_max_drawdown": -0.2708606014994118,
+      "hold_max_drawdown": -0.3881028317192964
     },
     "Second half": {
-      "cagr_diff": 0.013031388771360453,
-      "hansei_max_drawdown": -0.13496836375670698,
-      "hold_max_drawdown": -0.2048452894237183
+      "cagr_diff": -0.015217732516122906,
+      "hansei_max_drawdown": -0.13934631069278408,
+      "hold_max_drawdown": -0.20484531596881653
     }
   }
 }
