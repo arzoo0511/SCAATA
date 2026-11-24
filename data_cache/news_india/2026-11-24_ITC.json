@@ -1,0 +1,91 @@
+{
+  "symbol": "ITC.NS",
+  "date": "2026-11-24",
+  "headlines": [
+    {
+      "title": "ITC rallies Monday, outperforms competitors",
+      "source": "MarketWatch",
+      "published_utc": "2026-11-23T10:32:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ3B2THhtMmo0dk96SF9yd2VlQkRGTkp4OUZDdFc3TzhqU0xXcEpDY2wzZDJtWDM3Tm5mN0J0X2JMMTRjMXRYOUNOUGxtZ0VwTy1xMXJ3YVdUQTJxVGRYSVk2VWN2eXozczZfQ1hyU3VjQkE1TU9DWUlHWnRFUTdoeV8wN1daSjJSZWYzb3dGODgtZmVkZzFUaTBQSmp6QVk?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "ITC, Marico, GCPL, Nestle India: Will FPIs raise stakes? What Jefferies says",
+      "source": "Business Today",
+      "published_utc": "2026-11-23T06:58:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb0FlYXlIUWtxUy1oRHlJVHFLdGdDX0pVemtsX0ZTd0tFTGNLX21PZFBDcEZvOE5fMDRGZkgwY1ZTTmZjU3NoS1pWS1Y1djcxbVl0Y3pPOFVqMWt6dUZCVmh0eUVxVkdLUFVORXk5bW1FZVhNVVFLWmptd2l5N2MtTU5NM1pOU1dXMHB3Xzlnc0ZSZXFtdFRab0dCbmdES0FEOUxoVVFXUkJfaEp2VTJuMXlLVXVxRThfeFZ5X3JDVkRjYUh2ei1LRnk5ZENkVjcydUhKMGR30gHbAUFVX3lxTE4wNmNldzBORGRsZUVPQkRsXzV0NWZEN0w5VzBxczNtdFphNWhYS3RCd2UySDcyMGc5QlZQUzJmUi1jSFQ0QmxBN19DRlhfQWM2bmFkN1BKbEwyZk1lQlV0ZzRwbGRsMEVacFZoNjZ6Zkhtb2x5eEdzVXRpVGNRX3ZxbFVtUk1Zc3FJN1NGTnBBS19hblVMTVFYLUdrQ250bDVXbzhvbnpabmR2RlJWMDA0NkZKaGxDdUR2OGFpdGxkTWVGY2Y1bGZBM2VQZ3R5VFhFN2N1dDh2MUpydw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.4,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "ITC extends Braille-enabled packaging to Fiama, takes total to 16 SKUs",
+      "source": "Business Standard",
+      "published_utc": "2026-11-22T08:53:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOFJnLWJLOTU4YVROX3g2MzlEaG42bl9NMGVpamxnUTdtcERieS1JQWpZYkU1NXg4OVRZakEyVmhrQXRGaWVvVEl4NEg0OUZ1UC1nemQtUjl0enBOMUtrSGM2dXFORGVLUXFFUGJ6T2pxbW43SkE3MmhNMm1CdzJKMUZ1MlZvcnFtUjFtVGhaNjNjUnhIUWpLMks2VlYycVNEYzU0Vi1YRjBWUklZWHVIblU1U2tEUkN4RkFJM2UzZ0J0YkIwMS1rMjBpc3JVRHRuUFNGdtIB2gFBVV95cUxOYURENDU5Vm85WEN1WEx4Ynl0YnJtSS1fWkw4Rnp2SXpHUEpPaXFfOTJEQkZpblg1NU5ncDQ5N0RjZzYyODU1NnNqY1BhRlNSaHJIUE5YTWJ1Zzlqd0poejA0Ry1NZG12V3ZJdFk1dXYyYjVKTTUzX0dsN1BpaDJjbEVJMzZXbGhWWENpdnVIZlF4Tkc3Y2EzNjI0eHJna1pvUzZhQ0JQZnhwUmZFWjhWUWNVc1VOZU16UW1YanI1V2owZWJpbjZhR2dBMlJiV3VDeXNkbmZpeXlBZw?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.3,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "ITC: Highest monthly gain in over two years, strongly overbought on charts; fresh price targets and more",
+      "source": "Business Today",
+      "published_utc": "2026-11-21T09:30:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZ2ZKeVExdUpoVFd6LTZCWlAyUE9hTWdESDlod280RzhFQ1ZtOEFPSkNZT3Y5RnNyWFJxTVNtVGJiT2xZRE1oVmNvdk1MT3N5YjMzR3owa3VTYlFLdGlvLWRzcHpBa1ZoTEhTSEFQdHVHbE8zaHlwQlVoZ0VGOTgtNGNQOHFKRzdsemtwckRteU5iNFp1WDdBMlJYS3RzTzZzdGFMZS1Bb3dtMGR5WUpIakxrOE5GZ3dqamZuRUNwTXVUaE5uWHc2WEQxRlRPUkxkajZyc0JBRS15b0JpLS1hZl84YVdCWFVOaVgxSnNrOFRMUmRoU2N6bkoxSVhLYTAxVUdn0gGDAkFVX3lxTE5nZkp5UTF1SmhUV3otNkJaUDJQT2FNZ0RIOWh3bzRHOEVDVm04QU9KQ1lPdjlGc3JYUnFNU21UYmJPbFlETWhWY292TUxPc3liMzNHejBrdVNiUUt0aW8tZHNwekFrVmhMSFNIQVB0dUdsTzNoeXBCVWhnRUY5OC00Y1A4cUpHN2x6a3ByRG15TmI0WnVYN0EyUlhLdHNPNnN0YUxlLUFvd20wZHlZSkhqTGs4TkZnd2pqZm5FQ3BNdVRoTm5YdzZYRDFGVE9STGRqNnJzQkFFLXlvQmktLWFmXzhhV0JYVU5pWDFKc2s4VExSZGhTY3puSjFJWEthMDFVR2c?oc=5",
+      "relevant": true,
+      "sentiment": 1.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "ITC (NSEI:ITC) - Stock Analysis",
+      "source": "Simply Wall St",
+      "published_utc": "2026-11-21T08:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wT3dqOTZTODBhRGs3a0ZvVnk5Z2tsTEgwdUZlc3g3VEVCZzVvXzBxN0Q1THllNWUzeUpXN3RFRzBTNFhuMXdSQk9oTzZUeFVrWjFLaGRxLVdQcmh3clJBOHNkUi01b2dXMVZNNkFzUl81VldfamY1c05ITjY?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "ITC Hotels Share Price Target 2027, 2028 and 2030",
+      "source": "Univest",
+      "published_utc": "2026-11-21T08:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xY3dhSmkwbUhRYUI2ZGp3V3hZR3BqeTUxZm92SU9QZUFQN2FJbkU2NllCTlZaajZ5RUdGN21QU3FaOWFKWGphSzJfNTNHOXh1Q3U3bUR2bzZlVk4xU2JmZXkyOGJxSl8xVjBlOHM3bGhnQXRaTDVDcw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    },
+    {
+      "title": "15,409 Call Contracts Traded on ITC Ltd. as Stock Holds Near Rs 300 Strike Ahead of Expiry",
+      "source": "MarketsMojo",
+      "published_utc": "2026-11-21T02:56:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzQtN3FRTW9PUFdVWFk3VDk0Qlp1QmctUmliN3VvZUhCZHk0cmM3OEtreFhudGRXQ2FjbTlCVVBseGpmSU16WU9CZG16dkU0emdYSktUVi1VdkFxZWU1YkhJZm9FSWc1a2J2NHllaVdpTHRtMlNCaDBVMmVramkzNGRKQVJ3NTUzaWoxeDdObjdjRE1KZFZpbFhwOFRJZnBvT0x1NS1tUUtEeG1fd0RCZ01yMDA5YTN1c3otUWRYV3E?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.05,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "other"
+    }
+  ],
+  "signal": {
+    "score": 0.394,
+    "strength": 0.283,
+    "material_count": 0,
+    "view": 0.111
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-24T02:29:35.797044+00:00"
+}

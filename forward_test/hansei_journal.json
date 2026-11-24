@@ -11091,5 +11091,294 @@
         ]
       }
     }
+  },
+  {
+    "session": "2026-11-23",
+    "ran_utc": "2026-11-24T02:29:35.801596+00:00",
+    "equity": 10746.42,
+    "benchmark_equity": 11307.51,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.056,
+        "target_exposure": 0.887,
+        "current_exposure": 0.761,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 76%: no strong reason to change",
+          "momentum against (-0.44, trusted 29%)",
+          "trend supportive (+0.62, trusted 19%)"
+        ],
+        "views": {
+          "trend": 0.621,
+          "volatility": -0.245,
+          "momentum": -0.439,
+          "news": 0.035
+        },
+        "shadow": {
+          "relstr": -0.196,
+          "rebound": 0.0
+        },
+        "value": 1635.6
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.2,
+        "target_exposure": 1.0,
+        "current_exposure": 0.738,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 15% of the book vs 20% target",
+          "momentum supportive (+0.72, trusted 29%)",
+          "trend supportive (+0.97, trusted 19%)"
+        ],
+        "views": {
+          "trend": 0.969,
+          "volatility": -0.769,
+          "momentum": 0.716,
+          "news": -0.058
+        },
+        "shadow": {
+          "relstr": 0.825,
+          "rebound": 0.0
+        },
+        "value": 1585.5
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.303,
+        "target_exposure": 1.0,
+        "current_exposure": 0.91,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 91%: no strong reason to change",
+          "trend supportive (+0.97, trusted 19%)",
+          "momentum supportive (+0.53, trusted 29%)"
+        ],
+        "views": {
+          "trend": 0.974,
+          "volatility": -0.145,
+          "momentum": 0.529,
+          "news": 0.0
+        },
+        "shadow": {
+          "relstr": 0.697,
+          "rebound": 0.0
+        },
+        "value": 1956.3
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.024,
+        "target_exposure": 0.951,
+        "current_exposure": 0.945,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 94%: no strong reason to change",
+          "momentum against (-0.38, trusted 29%)",
+          "news supportive (+0.20, trusted 30%)"
+        ],
+        "views": {
+          "trend": 0.16,
+          "volatility": -0.013,
+          "momentum": -0.378,
+          "news": 0.195
+        },
+        "shadow": {
+          "relstr": -0.124,
+          "rebound": 0.0
+        },
+        "value": 2030.0
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.066,
+        "target_exposure": 0.867,
+        "current_exposure": 0.56,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 56%: no strong reason to change",
+          "momentum against (-0.72, trusted 29%)",
+          "trend supportive (+0.59, trusted 19%)"
+        ],
+        "views": {
+          "trend": 0.593,
+          "volatility": -0.0,
+          "momentum": -0.722,
+          "news": 0.111
+        },
+        "shadow": {
+          "relstr": -0.564,
+          "rebound": 0.0
+        },
+        "value": 1204.0
+      }
+    ],
+    "weights": {
+      "trend": 0.1859,
+      "volatility": 0.2228,
+      "momentum": 0.2908,
+      "news": 0.3005
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.035,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": 0.035
+        },
+        "top": [
+          {
+            "title": "HDB: SEC Form 6-K filed by HDFC Bank Limited",
+            "source": "Quantisnow",
+            "event": "other",
+            "sentiment": 0.0,
+            "material": 0.8,
+            "published_utc": "2026-11-23T11:05:42+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank Shareholders Approve Lily Vadera\u2019s Reappointment as Independent Director",
+            "source": "TipRanks",
+            "event": "management",
+            "sentiment": 0.2,
+            "material": 0.7,
+            "published_utc": "2026-11-23T11:28:44+00:00",
+            "count": 1
+          },
+          {
+            "title": "More than 10 billion votes backed an independent director\u2019s reappointment at HDFC Bank (HDB).",
+            "source": "Stock Titan",
+            "event": "management",
+            "sentiment": 0.2,
+            "material": 0.7,
+            "published_utc": "2026-11-23T11:03:46+00:00",
+            "count": 1
+          },
+          {
+            "title": "RBI D-SIB List 2026: Why SBI, HDFC Bank and ICICI Bank remain systemically important banks; explained",
+            "source": "ET Now",
+            "event": "regulation",
+            "sentiment": 0.0,
+            "material": 0.6,
+            "published_utc": "2026-11-24T01:44:46+00:00",
+            "count": 13
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.058,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": -0.058
+        },
+        "top": [
+          {
+            "title": "Chanda Kochhar Moves Supreme Court Seeking Access To ICICI Bank's Internal Records In Videocon Case",
+            "source": "LiveLawBiz",
+            "event": "legal",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-23T12:51:32+00:00",
+            "count": 1
+          },
+          {
+            "title": "Why ICICI Bank, SBI are beating HDFC, Axis on retail deposits \u2014 What it means for margins",
+            "source": "The Financial Express",
+            "event": "results",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-23T11:39:23+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank changes from December: Credit card benefits, fees to be revised",
+            "source": "Business Standard",
+            "event": "other",
+            "sentiment": -0.2,
+            "material": 0.5,
+            "published_utc": "2026-11-23T07:00:53+00:00",
+            "count": 1
+          },
+          {
+            "title": "Inside ICICI Bank\u2019s succession planning",
+            "source": "The Morning Context",
+            "event": "other",
+            "sentiment": 0.0,
+            "material": 0.5,
+            "published_utc": "2026-11-22T19:54:06+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.0,
+          "strength": 0.105,
+          "material_count": 0,
+          "view": 0.0
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.195,
+          "strength": 1.0,
+          "material_count": 6,
+          "view": 0.195
+        },
+        "top": [
+          {
+            "title": "HC upholds penalty imposed on IOC",
+            "source": "Daily Excelsior",
+            "event": "regulation",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-22T22:40:26+00:00",
+            "count": 2
+          },
+          {
+            "title": "Indian Oil steps up nuclear push, scouts for land across states",
+            "source": "Business Today",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-23T08:08:19+00:00",
+            "count": 1
+          },
+          {
+            "title": "Shah, Modi lay foundation stone for Siliguri-Jhapa oil pipeline",
+            "source": "The Kathmandu Post",
+            "event": "business",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-23T10:03:30+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil Corporation Ltd is Rated Hold",
+            "source": "MarketsMojo",
+            "event": "other",
+            "sentiment": 0.0,
+            "material": 0.6,
+            "published_utc": "2026-11-22T05:31:21+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.394,
+          "strength": 0.283,
+          "material_count": 0,
+          "view": 0.111
+        },
+        "top": []
+      }
+    }
   }
 ]

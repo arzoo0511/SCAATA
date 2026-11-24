@@ -1,49 +1,49 @@
 {
-  "as_of": "2026-11-20",
+  "as_of": "2026-11-23",
   "performance": {
-    "sessions": 39,
+    "sessions": 40,
     "first": "2026-09-24",
-    "last": "2026-11-20",
-    "hansei_return": 0.09444399999999997,
-    "hold_return": 0.15582800000000008,
-    "gap": -0.061384000000000105,
-    "hansei_max_drawdown": -0.014406887476195673,
+    "last": "2026-11-23",
+    "hansei_return": 0.0746420000000001,
+    "hold_return": 0.13075100000000006,
+    "gap": -0.056108999999999964,
+    "hansei_max_drawdown": -0.01809320531703773,
     "hold_max_drawdown": -0.026440999999999937,
     "sessions_ahead": 22,
-    "gap_from_exposure": -0.0645877796899148,
-    "gap_from_selection": 0.0032037796899146986,
-    "average_invested": 0.49420486517759743,
-    "daily_gap_volatility": 0.005552428040675327,
-    "hansei_volatility": 0.10091372990587581,
-    "hold_volatility": 0.17762335064191742,
-    "volatility_ratio": 0.5681332411599105
+    "gap_from_exposure": -0.05804721317614381,
+    "gap_from_selection": 0.0019382131761438437,
+    "average_invested": 0.5014176554667313,
+    "daily_gap_volatility": 0.0055398402415738155,
+    "hansei_volatility": 0.11235189252084277,
+    "hold_volatility": 0.1869139364431804,
+    "volatility_ratio": 0.6010889003720511
   },
   "advisors": {
     "5_sessions": {
       "trend": {
-        "judged": 165,
-        "hit_rate": 0.5212121212121212,
-        "correlation": 0.10386451420579175
+        "judged": 170,
+        "hit_rate": 0.5352941176470588,
+        "correlation": 0.08704313179944397
       },
       "volatility": {
-        "judged": 65,
-        "hit_rate": 0.3384615384615385,
-        "correlation": 0.07403736754976942
+        "judged": 68,
+        "hit_rate": 0.3235294117647059,
+        "correlation": 0.07680595436357908
       },
       "momentum": {
-        "judged": 168,
-        "hit_rate": 0.5,
-        "correlation": -0.03705761491392245
+        "judged": 173,
+        "hit_rate": 0.49710982658959535,
+        "correlation": -0.03966616545253276
       },
       "news": {
-        "judged": 142,
-        "hit_rate": 0.5633802816901409,
-        "correlation": 0.10491413080276885
+        "judged": 147,
+        "hit_rate": 0.5714285714285714,
+        "correlation": 0.10907690017523473
       },
       "relstr": {
-        "judged": 41,
-        "hit_rate": 0.5365853658536586,
-        "correlation": 0.0853036334240877
+        "judged": 46,
+        "hit_rate": 0.5217391304347826,
+        "correlation": 0.06519137943870743
       },
       "rebound": {
         "judged": 0,
@@ -53,24 +53,24 @@
     },
     "20_sessions": {
       "trend": {
-        "judged": 92,
-        "hit_rate": 0.44565217391304346,
-        "correlation": 0.16928317021022246
+        "judged": 97,
+        "hit_rate": 0.44329896907216493,
+        "correlation": 0.1553971216118468
       },
       "volatility": {
-        "judged": 35,
-        "hit_rate": 0.17142857142857143,
-        "correlation": -0.05403520135538377
+        "judged": 38,
+        "hit_rate": 0.15789473684210525,
+        "correlation": -0.06739222724468265
       },
       "momentum": {
-        "judged": 94,
-        "hit_rate": 0.5319148936170213,
-        "correlation": -0.12827444640551208
+        "judged": 99,
+        "hit_rate": 0.5151515151515151,
+        "correlation": -0.1525132292877415
       },
       "news": {
-        "judged": 75,
-        "hit_rate": 0.6533333333333333,
-        "correlation": 0.11761759960532239
+        "judged": 80,
+        "hit_rate": 0.65,
+        "correlation": 0.12313969158865197
       },
       "relstr": {
         "judged": 0,
@@ -85,13 +85,13 @@
     }
   },
   "trust": {
-    "trend": 0.1901,
-    "volatility": 0.2234,
-    "momentum": 0.2936,
-    "news": 0.2929
+    "trend": 0.1859,
+    "volatility": 0.2228,
+    "momentum": 0.2908,
+    "news": 0.3005
   },
   "health": {
-    "last_session": "2026-11-20",
+    "last_session": "2026-11-23",
     "weekdays_without_a_session": [
       "2026-10-02",
       "2026-10-20",
@@ -218,12 +218,16 @@
       {
         "queued_on": "2026-11-19",
         "symbol": "ICICIBANK.NS"
+      },
+      {
+        "queued_on": "2026-11-20",
+        "symbol": "ICICIBANK.NS"
       }
     ]
   },
   "significance": {
     "backtest_cagr_edge": -0.007796934247163545,
-    "daily_gap_volatility": 0.005552428040675327
+    "daily_gap_volatility": 0.0055398402415738155
   },
   "backtest_reference": {
     "Full period": {
