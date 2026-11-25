@@ -17,7 +17,7 @@
   },
   {
     "question": "Is HANSEI's caution worth what it costs in a rally?",
-    "trigger": "Live, -5.80% of the -5.61% gap to holding comes from being on average 50% invested; stock choice moved it +0.19%.",
+    "trigger": "Live, -6.49% of the -6.41% gap to holding comes from being on average 51% invested; stock choice moved it +0.08%.",
     "experiment": "edge-by-market-condition",
     "status": "answered",
     "verdict": "not_supported",
@@ -25,7 +25,7 @@
   },
   {
     "question": "Is trend earning its place?",
-    "trigger": "Live, it was right 44% of the time over 97 judged opinions (20 sessions ahead): worse than a coin flip.",
+    "trigger": "Live, it was right 44% of the time over 102 judged opinions (20 sessions ahead): worse than a coin flip.",
     "experiment": "without-trend",
     "status": "answered",
     "verdict": "not_supported",
@@ -33,7 +33,7 @@
   },
   {
     "question": "Does learning which advisors to trust actually help?",
-    "trigger": "Live, trust has moved from equal to news 30% and trend 19%.",
+    "trigger": "Live, trust has moved from equal to news 31% and trend 18%.",
     "experiment": "learning-switched-off",
     "status": "answered",
     "verdict": "not_supported",
@@ -41,7 +41,7 @@
   },
   {
     "question": "How much does whole-share rounding cost on a ₹10,000 book?",
-    "trigger": "Live, the brain wanted 67% invested on average and held 50%.",
+    "trigger": "Live, the brain wanted 68% invested on average and held 51%.",
     "experiment": "live-like-book",
     "status": "answered",
     "verdict": "not_supported",

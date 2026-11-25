@@ -11380,5 +11380,257 @@
         "top": []
       }
     }
+  },
+  {
+    "session": "2026-11-25",
+    "ran_utc": "2026-11-25T11:31:01.872951+00:00",
+    "equity": 10936.07,
+    "benchmark_equity": 11576.79,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": 0.035,
+        "target_exposure": 1.0,
+        "current_exposure": 0.774,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 77%: no strong reason to change",
+          "trend supportive (+0.83, trusted 18%)",
+          "momentum against (-0.50, trusted 29%)"
+        ],
+        "views": {
+          "trend": 0.831,
+          "volatility": -0.298,
+          "momentum": -0.496,
+          "news": 0.302
+        },
+        "shadow": {
+          "relstr": -0.225,
+          "rebound": 0.0
+        },
+        "value": 1692.4
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.31,
+        "target_exposure": 1.0,
+        "current_exposure": 0.75,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 15% of the book vs 20% target",
+          "volatility against (-0.83, trusted 22%)",
+          "momentum supportive (+0.63, trusted 29%)"
+        ],
+        "views": {
+          "trend": 0.988,
+          "volatility": -0.829,
+          "momentum": 0.633,
+          "news": 0.424
+        },
+        "shadow": {
+          "relstr": 0.786,
+          "rebound": 0.0
+        },
+        "value": 1640.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.266,
+        "target_exposure": 1.0,
+        "current_exposure": 0.897,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 90%: no strong reason to change",
+          "trend supportive (+0.97, trusted 18%)",
+          "momentum supportive (+0.40, trusted 29%)"
+        ],
+        "views": {
+          "trend": 0.975,
+          "volatility": -0.119,
+          "momentum": 0.399,
+          "news": 0.0
+        },
+        "shadow": {
+          "relstr": 0.627,
+          "rebound": 0.0
+        },
+        "value": 1962.0
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.057,
+        "target_exposure": 0.886,
+        "current_exposure": 0.946,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 95%: no strong reason to change",
+          "momentum against (-0.41, trusted 29%)",
+          "trend supportive (+0.39, trusted 18%)"
+        ],
+        "views": {
+          "trend": 0.389,
+          "volatility": -0.036,
+          "momentum": -0.415,
+          "news": 0.0
+        },
+        "shadow": {
+          "relstr": -0.126,
+          "rebound": 0.0
+        },
+        "value": 2069.06
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.052,
+        "target_exposure": 0.896,
+        "current_exposure": 0.566,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 57%: no strong reason to change",
+          "momentum against (-0.67, trusted 29%)",
+          "trend supportive (+0.78, trusted 18%)"
+        ],
+        "views": {
+          "trend": 0.779,
+          "volatility": -0.0,
+          "momentum": -0.671,
+          "news": 0.0
+        },
+        "shadow": {
+          "relstr": -0.461,
+          "rebound": 0.0
+        },
+        "value": 1237.0
+      }
+    ],
+    "weights": {
+      "trend": 0.1818,
+      "volatility": 0.2211,
+      "momentum": 0.2888,
+      "news": 0.3082
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.302,
+          "strength": 1.0,
+          "material_count": 7,
+          "view": 0.302
+        },
+        "top": [
+          {
+            "title": "RBI retains SBI, HDFC Bank, ICICI Bank as Systemically Important Banks: What's definition, why it matters for your money",
+            "source": "Livemint",
+            "event": "regulation",
+            "sentiment": 0.0,
+            "material": 0.9,
+            "published_utc": "2026-11-25T06:00:00+00:00",
+            "count": 2
+          },
+          {
+            "title": "Supreme Court Gives Ortho Bliss Mattress Four Weeks in Case Over Account Lien Against HDFC Bank Branch",
+            "source": "PSU Connect",
+            "event": "legal",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-25T10:23:00+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank stock: Jefferies lifts target to Rs 960 as gap narrows",
+            "source": "ad-hoc-news.de",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-25T08:34:33+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI, HDFC, SBI To IndusInd Bank: Why Jefferies Is Bullish On Indian Lenders, Hikes Target Prices",
+            "source": "NDTV Profit",
+            "event": "other",
+            "sentiment": 0.714,
+            "material": 0.5,
+            "published_utc": "2026-11-25T06:35:10+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": 0.424,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": 0.424
+        },
+        "top": [
+          {
+            "title": "ICICI Bank shares at record high \u2014 Here's why JPMorgan rates it its top pick - CNBC TV18",
+            "source": "LinkedIn",
+            "event": "other",
+            "sentiment": 0.8,
+            "material": 0.6,
+            "published_utc": "2026-11-25T08:02:22+00:00",
+            "count": 2
+          },
+          {
+            "title": "RBI retains SBI, HDFC Bank, ICICI Bank as Systemically Important Banks: What's definition, why it matters for your money",
+            "source": "Livemint",
+            "event": "regulation",
+            "sentiment": 0.2,
+            "material": 0.6,
+            "published_utc": "2026-11-25T06:00:00+00:00",
+            "count": 2
+          },
+          {
+            "title": "ICICI, HDFC, SBI To IndusInd Bank: Why Jefferies Is Bullish On Indian Lenders, Hikes Target Prices",
+            "source": "NDTV Profit",
+            "event": "other",
+            "sentiment": 0.7,
+            "material": 0.5,
+            "published_utc": "2026-11-25T06:35:10+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI Bank rallies 4%, hits all-time high; market cap nears \u20b912 trillion",
+            "source": "Business Standard",
+            "event": "other",
+            "sentiment": 0.7,
+            "material": 0.5,
+            "published_utc": "2026-11-25T05:27:12+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.0,
+          "strength": 0.0,
+          "material_count": 0,
+          "view": 0.0
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.0,
+          "strength": 0.0,
+          "material_count": 0,
+          "view": 0.0
+        },
+        "top": []
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.0,
+          "strength": 0.0,
+          "material_count": 0,
+          "view": 0.0
+        },
+        "top": []
+      }
+    }
   }
 ]
