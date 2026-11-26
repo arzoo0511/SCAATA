@@ -11632,5 +11632,276 @@
         "top": []
       }
     }
+  },
+  {
+    "session": "2026-11-26",
+    "ran_utc": "2026-11-26T11:13:10.193962+00:00",
+    "equity": 10879.48,
+    "benchmark_equity": 11483.62,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.049,
+        "target_exposure": 0.901,
+        "current_exposure": 0.792,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 79%: no strong reason to change",
+          "momentum against (-0.63, trusted 29%)",
+          "trend supportive (+0.90, trusted 18%)"
+        ],
+        "views": {
+          "trend": 0.896,
+          "volatility": -0.189,
+          "momentum": -0.63,
+          "news": 0.045
+        },
+        "shadow": {
+          "relstr": -0.368,
+          "rebound": 0.0
+        },
+        "value": 1724.0
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": 0.02,
+        "target_exposure": 1.0,
+        "current_exposure": 0.74,
+        "action": "REBALANCE",
+        "reasons": [
+          "Rebalancing ICICIBANK: underweight at 15% of the book vs 20% target",
+          "volatility against (-0.85, trusted 22%)",
+          "trend supportive (+0.98, trusted 18%)"
+        ],
+        "views": {
+          "trend": 0.979,
+          "volatility": -0.848,
+          "momentum": 0.561,
+          "news": -0.406
+        },
+        "shadow": {
+          "relstr": 0.757,
+          "rebound": 0.0
+        },
+        "value": 1611.0
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.234,
+        "target_exposure": 1.0,
+        "current_exposure": 0.9,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 90%: no strong reason to change",
+          "trend supportive (+0.97, trusted 18%)",
+          "momentum supportive (+0.29, trusted 29%)"
+        ],
+        "views": {
+          "trend": 0.973,
+          "volatility": -0.105,
+          "momentum": 0.295,
+          "news": 0.0
+        },
+        "shadow": {
+          "relstr": 0.577,
+          "rebound": 0.0
+        },
+        "value": 1958.7
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.101,
+        "target_exposure": 0.798,
+        "current_exposure": 0.929,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 93%: no strong reason to change",
+          "momentum against (-0.50, trusted 29%)",
+          "news supportive (+0.20, trusted 32%)"
+        ],
+        "views": {
+          "trend": 0.123,
+          "volatility": -0.187,
+          "momentum": -0.503,
+          "news": 0.199
+        },
+        "shadow": {
+          "relstr": -0.195,
+          "rebound": 0.0
+        },
+        "value": 2021.88
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.06,
+        "target_exposure": 0.881,
+        "current_exposure": 0.564,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 56%: no strong reason to change",
+          "momentum against (-0.66, trusted 29%)",
+          "trend supportive (+0.74, trusted 18%)"
+        ],
+        "views": {
+          "trend": 0.737,
+          "volatility": -0.0,
+          "momentum": -0.663,
+          "news": 0.0
+        },
+        "shadow": {
+          "relstr": -0.416,
+          "rebound": 0.0
+        },
+        "value": 1228.0
+      }
+    ],
+    "weights": {
+      "trend": 0.1774,
+      "volatility": 0.2199,
+      "momentum": 0.2873,
+      "news": 0.3154
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": 0.045,
+          "strength": 1.0,
+          "material_count": 4,
+          "view": 0.045
+        },
+        "top": [
+          {
+            "title": "Builder-bank nexus: SC gives HDFC, ICICI Bank and other lenders one week to approve prosecution of officials",
+            "source": "CNBC TV18",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-26T10:35:54+00:00",
+            "count": 4
+          },
+          {
+            "title": "SBI, HDFC, and ICICI retain systemically important bank status",
+            "source": "Retail Banker International",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-25T06:03:03+00:00",
+            "count": 1
+          },
+          {
+            "title": "ICICI, HDFC, SBI To IndusInd Bank: Why Jefferies Is Bullish On Indian Lenders, Hikes Target Prices",
+            "source": "NDTV Profit",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-25T06:35:10+00:00",
+            "count": 1
+          },
+          {
+            "title": "Supreme Court Gives Ortho Bliss Mattress Four Weeks in Case Over Account Lien Against HDFC Bank Branch",
+            "source": "PSU Connect",
+            "event": "legal",
+            "sentiment": -1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-25T10:23:00+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.406,
+          "strength": 1.0,
+          "material_count": 2,
+          "view": -0.406
+        },
+        "top": [
+          {
+            "title": "Builder-bank nexus: SC gives HDFC, ICICI Bank and other lenders one week to approve prosecution of officials",
+            "source": "CNBC TV18",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-26T10:35:54+00:00",
+            "count": 4
+          },
+          {
+            "title": "SBI, HDFC, and ICICI retain systemically important bank status",
+            "source": "Retail Banker International",
+            "event": "other",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-11-25T06:03:03+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.0,
+          "strength": 0.021,
+          "material_count": 0,
+          "view": 0.0
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.199,
+          "strength": 1.0,
+          "material_count": 6,
+          "view": 0.199
+        },
+        "top": [
+          {
+            "title": "Indian Oil Corporation Targets 31 GW Renewable Energy Capacity with Rs 10,000 Crore Annual Investment",
+            "source": "Indian Masterminds",
+            "event": "business",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-11-25T10:42:50+00:00",
+            "count": 4
+          },
+          {
+            "title": "Arbitrator's Power Under Dealership Agreement Cannot Extend to Modifying a Separate Lease Deed: Supreme Court in Indian Oil Corporation Ltd. vs Shree Ganesh Petroleum Rajgurunagar",
+            "source": "TaxCorp AI",
+            "event": "legal",
+            "sentiment": -1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-25T14:27:17+00:00",
+            "count": 1
+          },
+          {
+            "title": "Indian Oil appoints Shri A. Amarnath as Government Nominee Director",
+            "source": "scanx.trade",
+            "event": "management",
+            "sentiment": 0.0,
+            "material": 0.6,
+            "published_utc": "2026-11-25T20:52:57+00:00",
+            "count": 1
+          },
+          {
+            "title": "DTC to Partner with Indian Oil for Fuel Pumps at Bus Depots",
+            "source": "Construction World",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-25T08:25:58+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.0,
+          "strength": 0.0,
+          "material_count": 0,
+          "view": 0.0
+        },
+        "top": []
+      }
+    }
   }
 ]

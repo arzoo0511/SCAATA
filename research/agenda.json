@@ -17,7 +17,7 @@
   },
   {
     "question": "Is HANSEI's caution worth what it costs in a rally?",
-    "trigger": "Live, -6.49% of the -6.41% gap to holding comes from being on average 51% invested; stock choice moved it +0.08%.",
+    "trigger": "Live, -6.25% of the -6.04% gap to holding comes from being on average 51% invested; stock choice moved it +0.21%.",
     "experiment": "edge-by-market-condition",
     "status": "answered",
     "verdict": "not_supported",
@@ -25,7 +25,7 @@
   },
   {
     "question": "Is trend earning its place?",
-    "trigger": "Live, it was right 44% of the time over 102 judged opinions (20 sessions ahead): worse than a coin flip.",
+    "trigger": "Live, it was right 44% of the time over 107 judged opinions (20 sessions ahead): worse than a coin flip.",
     "experiment": "without-trend",
     "status": "answered",
     "verdict": "not_supported",
@@ -33,7 +33,7 @@
   },
   {
     "question": "Does learning which advisors to trust actually help?",
-    "trigger": "Live, trust has moved from equal to news 31% and trend 18%.",
+    "trigger": "Live, trust has moved from equal to news 32% and trend 18%.",
     "experiment": "learning-switched-off",
     "status": "answered",
     "verdict": "not_supported",

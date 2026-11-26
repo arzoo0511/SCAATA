@@ -1,0 +1,36 @@
+{
+  "symbol": "PETRONET.NS",
+  "date": "2026-11-26",
+  "headlines": [
+    {
+      "title": "Petronet LNG Stock: Trading, Earnings and Momentum",
+      "source": "Kalkine India",
+      "published_utc": "2026-11-24T14:48:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdGJ2UkhGYnhCdlZGSk9NN0V0NHlJNzFJVE5FbGpuNHB0NFMwa1hGczlzaDA2eXBsRGE0S1lHb2ZLWGlFUWFVXzZSTzFmNC1zOTBmUjBpUmZhZDFQTlNZb2V2eXMwbHVRanprZGZYUlVnLWdaSTdWbGRZc3hPb1kyODIyV0lGN01VSWg4T0RSOGdKS1hJclhCLVZ1aGFwMDU1XzJSMzJJS1h4bnJlQUZxX0Jac3FoWUFtc1ktaXJDdldWblp2WFRoWlNybmZOOGJ1dFZGdzBoV2JiYzEyMFNhUw?oc=5",
+      "relevant": true,
+      "sentiment": 0.0,
+      "material": 0.1,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "results"
+    },
+    {
+      "title": "Global LNG leaders to convene in Istanbul to advance industry resilience, investment and growth",
+      "source": "The Des Moines Register",
+      "published_utc": "2026-11-24T13:46:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQU0luWjRqTFlJQlpRU2plQWk2bUVhTGpWZUpSSEtya2ZwSWwteDFiZ1NjWXNMSG95QWlSeHFLcFdhSy0xa3B0cjA3dEg4RGNwUDZJaEZwNDdJX3dCbUFER1ZLWEwxOVRKNFBNa1RMQmItMmNjNzR6eXRLZVBxdDA3ZDB1eDBDVGpsOW5YdHVST215X21GTUlpemN6RnNtQzNpMExqalZlSmtKdG9ldVBpNXhybGxEMFJRSGRDYnN5Vk1iRGZ2bzREZ2prbnNxR3NDY19pTmltdWFoTFdDRl96MWl4SG93NkpvVllkbQ?oc=5",
+      "relevant": false,
+      "sentiment": 0.0,
+      "material": 0.0,
+      "scorer": "openai/gpt-oss-120b",
+      "event": "business"
+    }
+  ],
+  "signal": {
+    "score": 0.0,
+    "strength": 0.021,
+    "material_count": 0,
+    "view": 0.0
+  },
+  "scorer": "openai/gpt-oss-120b",
+  "fetched_utc": "2026-11-26T11:13:05.991947+00:00"
+}
