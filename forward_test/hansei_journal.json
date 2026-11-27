@@ -11903,5 +11903,285 @@
         "top": []
       }
     }
+  },
+  {
+    "session": "2026-11-27",
+    "ran_utc": "2026-11-27T11:04:39.809306+00:00",
+    "equity": 10815.93,
+    "benchmark_equity": 11391.19,
+    "filled": [],
+    "decisions": [
+      {
+        "symbol": "HDFCBANK.NS",
+        "score": -0.188,
+        "target_exposure": 0.625,
+        "current_exposure": 0.793,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 79%: no strong reason to change",
+          "momentum against (-0.63, trusted 29%)",
+          "trend supportive (+0.88, trusted 17%)"
+        ],
+        "views": {
+          "trend": 0.881,
+          "volatility": -0.246,
+          "momentum": -0.634,
+          "news": -0.321
+        },
+        "shadow": {
+          "relstr": -0.4,
+          "rebound": 0.0
+        },
+        "value": 1714.5
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "score": -0.144,
+        "target_exposure": 0.711,
+        "current_exposure": 0.737,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 74%: no strong reason to change",
+          "news against (-0.88, trusted 32%)",
+          "volatility against (-0.86, trusted 22%)"
+        ],
+        "views": {
+          "trend": 0.971,
+          "volatility": -0.856,
+          "momentum": 0.553,
+          "news": -0.877
+        },
+        "shadow": {
+          "relstr": 0.739,
+          "rebound": 0.0
+        },
+        "value": 1593.4
+      },
+      {
+        "symbol": "PETRONET.NS",
+        "score": 0.288,
+        "target_exposure": 1.0,
+        "current_exposure": 0.894,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 89%: no strong reason to change",
+          "trend supportive (+0.96, trusted 17%)",
+          "momentum supportive (+0.43, trusted 29%)"
+        ],
+        "views": {
+          "trend": 0.961,
+          "volatility": -0.0,
+          "momentum": 0.428,
+          "news": 0.0
+        },
+        "shadow": {
+          "relstr": 0.654,
+          "rebound": 0.0
+        },
+        "value": 1934.1
+      },
+      {
+        "symbol": "IOC.NS",
+        "score": -0.054,
+        "target_exposure": 0.892,
+        "current_exposure": 0.933,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 93%: no strong reason to change",
+          "momentum against (-0.42, trusted 29%)",
+          "news supportive (+0.24, trusted 32%)"
+        ],
+        "views": {
+          "trend": 0.114,
+          "volatility": -0.14,
+          "momentum": -0.416,
+          "news": 0.239
+        },
+        "shadow": {
+          "relstr": -0.118,
+          "rebound": 0.0
+        },
+        "value": 2018.94
+      },
+      {
+        "symbol": "ITC.NS",
+        "score": -0.06,
+        "target_exposure": 0.879,
+        "current_exposure": 0.563,
+        "action": "HOLD",
+        "reasons": [
+          "Holding at 56%: no strong reason to change",
+          "momentum against (-0.64, trusted 29%)",
+          "trend supportive (+0.69, trusted 17%)"
+        ],
+        "views": {
+          "trend": 0.687,
+          "volatility": -0.0,
+          "momentum": -0.643,
+          "news": 0.019
+        },
+        "shadow": {
+          "relstr": -0.413,
+          "rebound": 0.0
+        },
+        "value": 1218.8
+      }
+    ],
+    "weights": {
+      "trend": 0.1719,
+      "volatility": 0.2209,
+      "momentum": 0.2869,
+      "news": 0.3203
+    },
+    "lessons_learned": 1,
+    "news": {
+      "HDFCBANK.NS": {
+        "signal": {
+          "score": -0.321,
+          "strength": 1.0,
+          "material_count": 5,
+          "view": -0.321
+        },
+        "top": [
+          {
+            "title": "What is subvention scheme fraud? Why has SC directed HDFC Bank, ICICI Bank to sanction prosecution of officials",
+            "source": "Livemint",
+            "event": "legal",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-27T08:44:17+00:00",
+            "count": 8
+          },
+          {
+            "title": "SC directs HDFC Bank, three others to approve prosecution of employees",
+            "source": "FlipItMoney",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-27T08:42:54+00:00",
+            "count": 2
+          },
+          {
+            "title": "Home Loan Subvention Case: SC Gives HDFC Bank, ICICI Bank, PNB Housing, Sammaan Capital 7 Days To Approve Pros",
+            "source": "Times Now",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-27T05:54:50+00:00",
+            "count": 1
+          },
+          {
+            "title": "HDFC Bank to internalize major digital apps to reduce third-party risks",
+            "source": "FlipItMoney",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.7,
+            "published_utc": "2026-11-27T08:42:58+00:00",
+            "count": 2
+          }
+        ]
+      },
+      "ICICIBANK.NS": {
+        "signal": {
+          "score": -0.877,
+          "strength": 1.0,
+          "material_count": 3,
+          "view": -0.877
+        },
+        "top": [
+          {
+            "title": "ICICI Bank receives \u20b9229 Cr GST notice from Maharashtra authorities",
+            "source": "scanx.trade",
+            "event": "regulation",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-27T08:59:00+00:00",
+            "count": 4
+          },
+          {
+            "title": "What is subvention scheme fraud? Why has SC directed HDFC Bank, ICICI Bank to sanction prosecution of officials",
+            "source": "Livemint",
+            "event": "legal",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-27T08:44:17+00:00",
+            "count": 8
+          },
+          {
+            "title": "Home Loan Subvention Case: SC Gives HDFC Bank, ICICI Bank, PNB Housing, Sammaan Capital 7 Days To Approve Pros",
+            "source": "Times Now",
+            "event": "other",
+            "sentiment": -1.0,
+            "material": 0.9,
+            "published_utc": "2026-11-27T05:54:50+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "PETRONET.NS": {
+        "signal": {
+          "score": 0.0,
+          "strength": 0.027,
+          "material_count": 0,
+          "view": 0.0
+        },
+        "top": []
+      },
+      "IOC.NS": {
+        "signal": {
+          "score": 0.27,
+          "strength": 0.886,
+          "material_count": 4,
+          "view": 0.239
+        },
+        "top": [
+          {
+            "title": "Indian Oil Corporation Targets 31 GW Renewable Energy Capacity with Rs 10,000 Crore Annual Investment",
+            "source": "Indian Masterminds",
+            "event": "business",
+            "sentiment": 1.0,
+            "material": 0.8,
+            "published_utc": "2026-11-25T10:42:50+00:00",
+            "count": 4
+          },
+          {
+            "title": "Indian Oil appoints Shri A. Amarnath as Government Nominee Director",
+            "source": "scanx.trade",
+            "event": "management",
+            "sentiment": 0.0,
+            "material": 0.7,
+            "published_utc": "2026-11-25T20:52:57+00:00",
+            "count": 1
+          },
+          {
+            "title": "Arbitrator's Power Under Dealership Agreement Cannot Extend to Modifying a Separate Lease Deed: Supreme Court in Indian Oil Corporation Ltd. vs Shree Ganesh Petroleum Rajgurunagar",
+            "source": "TaxCorp AI",
+            "event": "legal",
+            "sentiment": -1.0,
+            "material": 0.6,
+            "published_utc": "2026-11-25T14:27:17+00:00",
+            "count": 1
+          },
+          {
+            "title": "DTC to Partner with Indian Oil for Fuel Pumps at Bus Depots",
+            "source": "Construction World",
+            "event": "other",
+            "sentiment": 1.0,
+            "material": 0.5,
+            "published_utc": "2026-11-25T08:25:58+00:00",
+            "count": 1
+          }
+        ]
+      },
+      "ITC.NS": {
+        "signal": {
+          "score": 0.228,
+          "strength": 0.083,
+          "material_count": 0,
+          "view": 0.019
+        },
+        "top": []
+      }
+    }
   }
 ]
