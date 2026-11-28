@@ -1,9 +1,9 @@
 {
   "source": "Yahoo Finance via yfinance (adjusted; bad opens repaired, zero-volume bars dropped)",
-  "retrieved_utc": "2026-11-21T11:30:09+00:00",
+  "retrieved_utc": "2026-11-28T12:04:30+00:00",
   "first": "2006-01-02",
-  "last": "2026-11-20",
-  "sessions": 5145,
+  "last": "2026-11-27",
+  "sessions": 5149,
   "symbols": [
     "HDFCBANK.NS",
     "ICICIBANK.NS",
@@ -11,5 +11,5 @@
     "IOC.NS",
     "ITC.NS"
   ],
-  "sha256": "e2359406d1841e95d063b0acbab90cbfe00f29edf0a29e2a18ea983d12e7b54a"
+  "sha256": "417d29f21f7b2bd24770fca25d7c41f54e7aa400ea15ca29a2553e2dc3e82e30"
 }
