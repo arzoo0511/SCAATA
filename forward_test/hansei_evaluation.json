@@ -239,24 +239,24 @@
     ]
   },
   "significance": {
-    "backtest_cagr_edge": -0.007796934247163545,
+    "backtest_cagr_edge": -0.0072816364774139775,
     "daily_gap_volatility": 0.005451631672818414
   },
   "backtest_reference": {
     "Full period": {
-      "cagr_diff": -0.007796934247163545,
-      "hansei_max_drawdown": -0.2708606014994118,
-      "hold_max_drawdown": -0.3881028317192964
+      "cagr_diff": -0.0072816364774139775,
+      "hansei_max_drawdown": -0.27086065552754796,
+      "hold_max_drawdown": -0.38810282552723063
     },
     "First half": {
-      "cagr_diff": -0.017746088275497618,
-      "hansei_max_drawdown": -0.2708606014994118,
-      "hold_max_drawdown": -0.3881028317192964
+      "cagr_diff": -0.01774610246674646,
+      "hansei_max_drawdown": -0.27086065552754796,
+      "hold_max_drawdown": -0.38810282552723063
     },
     "Second half": {
-      "cagr_diff": -0.015217732516122906,
-      "hansei_max_drawdown": -0.13934631069278408,
-      "hold_max_drawdown": -0.20484531596881653
+      "cagr_diff": -0.013572103136271219,
+      "hansei_max_drawdown": -0.13934628699996476,
+      "hold_max_drawdown": -0.20484527213909573
     }
   }
 }
